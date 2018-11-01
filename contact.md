@@ -10,4 +10,4 @@ Si quieres ponerte en contacto con nosotros te animamos a que nos mandes un
 ![imagen de email](/images/email.png)
 
 O si lo prefieres, tenemos los mesajes directos abiertos en nuestro Twitter,
-[@mazmorreoensolitario](https://twitter.com/mazmorreoensolitario).
+[@mazmorreo](https://twitter.com/mazmorreo).
