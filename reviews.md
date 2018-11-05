@@ -4,5 +4,9 @@ title: Análisis y reseñas
 permalink: /analisis/
 ---
 
-Este espacio es para listar nuestros últimos análisis y reseñas.
+Aquí tenemos una lista de nuestros más recientes análisis y reseñas:
 
+
+### Análisis
+
+* 5 Nov, 2018. [Mini Rogue]({{site.baseurl}}/2018/11/05/analisis-mini-rogue/).

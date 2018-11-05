@@ -11,9 +11,11 @@ con el hobby de los juegos de mesa de un jugador.
 Espera encontrar **análisis de juegos** a los que
 [hemos podido jugar]({{site.baseurl}}/analisis/), **pequeñas
 reseñas** sobre algún tema en concreto, a qué juegos estamos **echando el ojo**
-últimamente y [nos planteamos jugar]({{site.baseurl}}/ojeando), **noticias
-sobre los últimos juegos** en ferias, Kickstarter, Indiegogo u otras plataformas
-de crowdfunding y cualquier otra información aleatoria que nos parezca relevante :)
+últimamente y [nos planteamos jugar]({{site.baseurl}}/ojeando), un pequeño 
+rincón dedicado a los juegos [print & play]({{site.baseurl}}/rincon-print-and-play),
+**noticias sobre los últimos juegos** en ferias, Kickstarter, Indiegogo u otras
+plataformas de crowdfunding, y cualquier otra información aleatoria sobre juegos
+en solitario que nos parezca relevante :)
 
 
 **Descargo de resposabilidad**

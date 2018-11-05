@@ -14,6 +14,7 @@ que puede ser un buen juego, además de nuestras expectativas.
 
 Algún día os hablaremos de estos juegos!
 
+20. Pandemic: Fall of Rome
 19. Paper Tales: Beyond the Gates
 18. Volfyrion
 17. Dungeon Raiders
