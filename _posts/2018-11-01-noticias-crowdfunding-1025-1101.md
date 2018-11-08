@@ -7,7 +7,7 @@ img: crowdfunding.png
 ---
 
 Os dejamos los juegos de mesa con modo solitario que nos ha traído Kickstarter
-esta semana:
+ esta semana:
 
 <div class="row">
     <div class="col-md-3">
