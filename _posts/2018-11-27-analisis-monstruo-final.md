@@ -117,7 +117,7 @@ pasillos de nuestra mazmorra.
 
 Esto es todo lo que necesitamos para poder empezar a jugar, vamos a ello.
 
-### Reglas (versión solitario)
+### Empezando a jugar (versión solitario)
 
 Inicialmente robaremos ocho cartas de Habitación, que formarán nuestra mano
 inicial, y colocaremos cuatro Hechizos a la derecha de nuestro Monstruo Final,
