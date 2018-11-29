@@ -38,10 +38,12 @@ paginate_path: /page:num/
 disqus: no
 #disqus-shortname: webjeda-demo
 
-#social
+# social
 twitter: http://twitter.com/mazmorreo
 email: mazmorreoensolitario@gmail.com
 
+# analytics
+analytics: UA-130120400-1
 
 # Sass style
 sass:
