@@ -7,5 +7,6 @@ permalink: /rincon-print-and-play/
 El género print 'n' play, imprime y juega, necesita un espacio dedicado en
 nuestro blog. En este rincón analizamos los juegos que hemos imprimido y jugado.
 
+* 5 Dic, 2018. [Análisis de Deep Space D-6]({{site.baseurl}}/2018/12/05/analisis-deep-space-d6/)
 * 28 Nov, 2018. [Análisis de Legends of Dsyx: Dragonvault]({{site.baseurl}}/2018/11/28/analisis-dragonvault/).
 * 5 Nov, 2018. [Análisis de Mini Rogue]({{site.baseurl}}/2018/11/05/analisis-mini-rogue/).

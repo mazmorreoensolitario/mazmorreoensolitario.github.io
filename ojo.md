@@ -31,5 +31,4 @@ Algún día os hablaremos de estos juegos!
 4. Escape the Dark Castle
 3. Desolate
 2. Tiny Epic Quest
-1. Deep Space D-6
 {: reversed="reversed"}
