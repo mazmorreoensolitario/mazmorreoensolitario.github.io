@@ -51,8 +51,8 @@ img: monstruo-final.jpg
 </div>
 
 > **Descarga las reglas para el modo en solitario:** [Reglas en inglés](https://boardgamegeek.com/filepage/149326/boss-monster-solo-mode-rules)
-(hechas por fans), reglas en castellano (corregidas y traducidas por nosotros
-de la versión en inglés próximamente...).
+(hechas por fans), [reglas en castellano](https://boardgamegeek.com/filepage/173433/monstruo-final-modo-en-solitario) (corregidas y traducidas por nosotros
+de la versión en inglés).
 
 
 ### Información general
