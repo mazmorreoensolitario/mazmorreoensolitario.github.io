@@ -2,7 +2,8 @@
 layout: post
 title: "Análisis - Deep Space D-6"
 date:   2018-12-05
-categories: deep-space-d6 analisis print-and-play
+categories: [Análisis, Print & play]
+tags: deep-space-d6
 img: deep-space-d6.jpg
 ---
 

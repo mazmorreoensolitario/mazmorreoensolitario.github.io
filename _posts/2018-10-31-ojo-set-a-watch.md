@@ -2,7 +2,8 @@
 layout: post
 title: "Ojeando - Set a Watch"
 date:   2018-10-31
-categories: set-a-watch ojeando kickstarter tabletopia
+categories: Ojeando
+tags: [set-a-watch, kickstarter, tabletopia]
 img: set-a-watch.png
 ---
 

@@ -5,7 +5,7 @@ permalink: /acerca-de/
 ---
 
 
-Mazmorreo en solitario es un blog sobre toda clase de información relacionada
+**Mazmorreo en solitario** es un blog sobre toda clase de información relacionada
 con el hobby de los juegos de mesa de un jugador.
 
 Espera encontrar **análisis de juegos** a los que
@@ -14,11 +14,12 @@ reseñas** sobre algún tema en concreto, a qué juegos estamos **echando el ojo
 últimamente y [nos planteamos jugar]({{site.baseurl}}/ojeando), un pequeño 
 rincón dedicado a los juegos [print & play]({{site.baseurl}}/rincon-print-and-play),
 **noticias sobre los últimos juegos** en ferias, Kickstarter, Indiegogo u otras
-plataformas de crowdfunding, y cualquier otra información aleatoria sobre juegos
-en solitario que nos parezca relevante :)
+plataformas de crowdfunding, pequeñas **traducciones** de reglas juegos y
+cualquier otra
+información aleatoria sobre juegos en solitario que nos parezca relevante :)
 
 
-**Descargo de resposabilidad**
+**Descargo de responsabilidad**
 
 * Este sitio utiliza [Jekyll](https://jekyllrb.com/) y una versión modificada
 del tema [cards](https://github.com/sharu725/cards).

@@ -2,7 +2,8 @@
 layout: post
 title: "Análisis - Legends of Dsyx: Dragonvault"
 date:   2018-11-28
-categories: legends-of-dsyx dragonvault analisis print-and-play
+categories: [Análisis, Print & play]
+tags: [legends-of-dsyx, dragonvault]
 img: legends-of-dsyx-dragonvault.png
 ---
 

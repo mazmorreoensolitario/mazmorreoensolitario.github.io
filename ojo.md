@@ -10,10 +10,41 @@ probar, por cada juego explicamos qué nos llama la atención, porqué creemos
 que puede ser un buen juego, además de nuestras expectativas.
 
 
-* 31 Oct, 2018. [Set a Watch]({{site.baseurl}}/2018/10/31/ojo-set-a-watch/).
+{% for category in site.categories %}
+{% if category[0] == "Ojeando" %}
+<ul>
+{% for post in category[1] %}
+<li>
+    {% assign m = post.date | date: "%-m" %}
+    {{ post.date | date: "%-d" }}
+    {% case m %}
+    {% when '1' %}Ene,
+    {% when '2' %}Feb,
+    {% when '3' %}Mar,
+    {% when '4' %}Abr,
+    {% when '5' %}May,
+    {% when '6' %}Jun,
+    {% when '7' %}Jul,
+    {% when '8' %}Ago,
+    {% when '9' %}Sep,
+    {% when '10' %}Oct,
+    {% when '11' %}Nov,
+    {% when '12' %}Dic,
+    {% endcase %}
+    {{ post.date | date: "%Y"}}. <a href="{{ post.url }}">{{ post.title }}.</a>
+</li>
+{% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
 
 Algún día os hablaremos de estos juegos!
 
+25. Onirim
+24. Arkham Noir
+23. The Lost Expedition
+22. Burgle Bros.
+21. Apocrypha Adventure Card Game
 20. Pandemic: Fall of Rome
 19. Paper Tales: Beyond the Gates
 18. Volfyrion

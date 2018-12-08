@@ -2,7 +2,8 @@
 layout: post
 title: "Análisis - Monstruo final (versión solitario)"
 date:   2018-11-27
-categories: monstruo-final analisis
+categories: Análisis
+tags: monstruo-final
 img: monstruo-final.jpg
 ---
 

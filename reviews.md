@@ -7,9 +7,30 @@ permalink: /analisis/
 Aquí tenemos una lista de nuestros más recientes análisis y reseñas:
 
 
-### Análisis
-
-* 5 Dic, 2018. [Deep Space D-6]({{site.baseurl}}/2018/12/05/analisis-deep-space-d6/)
-* 28 Nov, 2018. [Legends of Dsyx: Dragonvault]({{site.baseurl}}/2018/11/28/analisis-dragonvault/).
-* 27 Nov, 2018. [Monstruo Final (versión solitario)]({{site.baseurl}}/2018/11/27/analisis-monstruo-final/).
-* 5 Nov, 2018. [Mini Rogue]({{site.baseurl}}/2018/11/05/analisis-mini-rogue/).
+{% for category in site.categories %}
+{% if category[0] == "Análisis" %}
+<ul>
+{% for post in category[1] %}
+<li>
+    {% assign m = post.date | date: "%-m" %}
+    {{ post.date | date: "%-d" }}
+    {% case m %}
+    {% when '1' %}Ene,
+    {% when '2' %}Feb,
+    {% when '3' %}Mar,
+    {% when '4' %}Abr,
+    {% when '5' %}May,
+    {% when '6' %}Jun,
+    {% when '7' %}Jul,
+    {% when '8' %}Ago,
+    {% when '9' %}Sep,
+    {% when '10' %}Oct,
+    {% when '11' %}Nov,
+    {% when '12' %}Dic,
+    {% endcase %}
+    {{ post.date | date: "%Y"}}. <a href="{{ post.url }}">{{ post.title }}.</a>
+</li>
+{% endfor %}
+</ul>
+{% endif %}
+{% endfor %}

@@ -2,7 +2,8 @@
 layout: post
 title: "Análisis - Mini Rogue"
 date:   2018-11-05
-categories: mini-rogue analisis print-and-play
+categories: [Análisis, Print & play]
+tags: mini-rogue
 img: mini-rogue.png
 ---
 

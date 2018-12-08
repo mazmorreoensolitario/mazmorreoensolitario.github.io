@@ -28,6 +28,8 @@ copyright:
    name: Mazmorreo en solitario
    link: 'https://mazmorreoensolitario.github.io'
 
+default_locale: "es"
+
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title/

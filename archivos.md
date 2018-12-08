@@ -1,17 +1,16 @@
 ---
 layout: page
-title: El rincón de los Print & Play
-permalink: /rincon-print-and-play/
+title: Archivos
+permalink: /archivos/
 ---
 
-El género print 'n' play, imprime y juega, necesita un espacio dedicado en
-nuestro blog. En este rincón analizamos los juegos que hemos imprimido y jugado.
+Aquí tienes el archivo de todo lo que hemos hablado en este blog:
 
 {% for category in site.categories %}
-{% if category[0] == "Print & play" %}
-<ul>
-{% for post in category[1] %}
-<li>
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+    <li>
     {% assign m = post.date | date: "%-m" %}
     {{ post.date | date: "%-d" }}
     {% case m %}
@@ -28,10 +27,7 @@ nuestro blog. En este rincón analizamos los juegos que hemos imprimido y jugado
     {% when '11' %}Nov,
     {% when '12' %}Dic,
     {% endcase %}
-    {{ post.date | date: "%Y"}}. <a href="{{ post.url }}">{{ post.title }}.</a>
-</li>
+    {{ post.date | date: "%Y"}}. <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 {% endfor %}
-</ul>
-{% endif %}
-{% endfor %}
-
