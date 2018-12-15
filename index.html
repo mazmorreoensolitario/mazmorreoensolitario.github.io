@@ -28,7 +28,12 @@ layout: default
                   </div>
                   
                   <div class="panel-body"><small>
-                    {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}</small>
+                      {% if post.post_desc %}
+                      {{ post.post_desc | strip_html | strip_newlines | truncate: 180}}
+                      {% else %}
+                      {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}
+                      {% endif %}
+                    </small>
                   </div>
                 </div>
                 </a>

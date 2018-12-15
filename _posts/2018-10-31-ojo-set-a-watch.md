@@ -5,6 +5,10 @@ date:   2018-10-31
 categories: Ojeando
 tags: [set-a-watch, kickstarter, tabletopia]
 img: set-a-watch.png
+post_desc: "En Set a Watch el juego consiste en visitar nueve localizaciones en las cuales
+tendremos que derrotar a los seguidores de los Unhallowed, para evitar que
+estos puedan romper los sellos que mantienen a los Unhallowed prisioneros y así
+no puedan sumir el mundo en la oscuridad"
 ---
 
 <div class="panel panel-warning">

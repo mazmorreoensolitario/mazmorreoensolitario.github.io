@@ -5,6 +5,10 @@ date:   2018-11-05
 categories: [Análisis, Print & play]
 tags: mini-rogue
 img: mini-rogue.png
+post_desc: "Mini Rogue es un
+pequeño juego print & play de tan solo nueve cartas en el que nuestro personaje
+se adentra en una mazmorra, con el objetivo de conseguir un misterioso rubí
+llamado Sangre de Og."
 ---
 
 <div class="panel panel-primary">

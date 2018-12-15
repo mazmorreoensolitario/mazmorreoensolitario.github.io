@@ -5,6 +5,11 @@ date:   2018-11-28
 categories: [Análisis, Print & play]
 tags: [legends-of-dsyx, dragonvault]
 img: legends-of-dsyx-dragonvault.png
+post_desc: "Legends of Dsyx: Dragonvault es un
+print and play, concretamente del género roll and write, en el que controlamos
+a Citan el Dorado, Dragón Guardián de los Mercaderes y Banqueros. Nuestro
+objetivo es deshacernos de los molestos héroes que han venido a robar el tesoro
+de nuestra cámara acorazada."
 ---
 
 <div class="panel panel-primary">

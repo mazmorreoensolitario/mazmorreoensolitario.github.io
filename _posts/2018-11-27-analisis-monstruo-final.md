@@ -5,6 +5,10 @@ date:   2018-11-27
 categories: Análisis
 tags: monstruo-final
 img: monstruo-final.jpg
+post_desc: "En Monstruo Final
+ tomamos el papel de un monstruo que tiene que defender su
+mazmorra contra oleadas de héroes, ya que estos tratan de invadirla para
+hacerse con nuestros tesoros."
 ---
 
 <div class="panel panel-primary">

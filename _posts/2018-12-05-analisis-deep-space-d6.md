@@ -5,6 +5,10 @@ date:   2018-12-05
 categories: [Análisis, Print & play]
 tags: deep-space-d6
 img: deep-space-d6.jpg
+post_desc: "Dirigimos la nave espacial USS Crypsis, una nave estelar de clase
+RPTR de patrulla rutinaria por el sistema Auborne. Recibimos una señal de
+socorro y tras hacer un salto estelar a las coordenadas... nos damos cuenta de
+que hemos caído en una trampa."
 ---
 
 <div class="panel panel-primary">
@@ -59,7 +63,7 @@ img: deep-space-d6.jpg
 
 ### Información general
 
-Tenemos que dirigir la nave espacial USS Crypsis, una nave estelar de clase
+Dirigimos la nave espacial USS Crypsis, una nave estelar de clase
 RPTR de patrulla rutinaria por el sistema Auborne. Recibimos una señal de
 socorro y tras hacer un salto estelar a las coordenadas... nos damos cuenta de
 que hemos caído en una trampa.

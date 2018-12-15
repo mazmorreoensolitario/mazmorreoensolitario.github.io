@@ -8,7 +8,7 @@ img: traducciones.png
 ---
 
 Hemos estado trabajando en la traducción del Modo en solitario para Monstruo 
-Final, podéis encontrarlo en el [siguiente
+Final, podéis encontrarlo en el [siguiente 
 enlace](https://boardgamegeek.com/filepage/173433/monstruo-final-modo-en-solitario) 
 para descargarlo de  Board Game Geek.
 
