@@ -40,6 +40,7 @@ que puede ser un buen juego, además de nuestras expectativas.
 
 Algún día os hablaremos de estos juegos!
 
+26. The City of Kings
 25. Onirim
 24. Arkham Noir
 23. The Lost Expedition

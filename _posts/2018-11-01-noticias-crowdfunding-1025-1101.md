@@ -75,7 +75,7 @@ Os dejamos los juegos de mesa con modo solitario que nos ha traído Kickstarter
 <div class="row">
     <div class="col-md-3">
         <img width="300" height="300"
-            src="https://ksr-ugc.imgix.net/assets/023/084/545/8c882a5f40adb60a9f004b9a67db0575_original.jpg?ixlib=rb-1.1.0&w=680&fit=max&v=1540944483&auto=format&gif-q=50&q=92&s=89073ecc9896c29372e4a97b989d7249"
+            src="https://ksr-ugc.imgix.net/assets/023/118/125/56beca0d6cc6aa5e03cc4e1ceca552d7_original.gif?ixlib=rb-1.1.0&w=680&fit=max&v=1541169825&auto=format&gif-q=50&q=92&s=883ae28f88378c9e0dffb0b5420487d0"
             class="img-thumbnail" alt="All Manor of Evil">
     </div>
     <div class="col-md-9">

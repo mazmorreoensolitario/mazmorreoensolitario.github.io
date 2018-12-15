@@ -23,7 +23,7 @@ los más interesantes, animaros a echar un vistazo:
                 Tales of Evil
             </a>
         </p>
-        - Jugo de mesa en el que controlaremos un grupo de valientes que se
+        - Juego de mesa en el que controlaremos un grupo de valientes que se
           adentran en lugares habitados por las fuerzas del mal con el
           fin de conseguir superar misiones y salir con vida.
         <br>

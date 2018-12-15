@@ -58,7 +58,7 @@ jugador!
 <div class="row">
     <div class="col-md-3">
         <img width="300" height="300"
-            src="https://ksr-ugc.imgix.net/assets/023/164/486/43b93384d661431fad7720b20d5f1a79_original.JPG?ixlib=rb-1.1.0&w=680&fit=max&v=1541530938&auto=format&gif-q=50&q=92&s=a570726bf9bb0df05ef3e5d0de7e762d"
+            src="https://ksr-ugc.imgix.net/assets/023/198/905/43b93384d661431fad7720b20d5f1a79_original.JPG?ixlib=rb-1.1.0&w=680&fit=max&v=1541746936&auto=format&gif-q=50&q=92&s=0784ec8973480a023c9fcd8cbfa8e2c4"
             class="img-thumbnail" alt="Bag of Dungeon - A Fantasy Adventure Game">
     </div>
     <div class="col-md-9">
@@ -81,7 +81,7 @@ jugador!
 <div class="row">
     <div class="col-md-3">
         <img width="300" height="300"
-            src="https://ksr-ugc.imgix.net/assets/023/106/719/0ac2025ce6bc34f57c2b5afc7285188e_original.jpg?ixlib=rb-1.1.0&w=680&fit=max&v=1541093130&auto=format&gif-q=50&q=92&s=44d675e6d51cfc3dcff14649bb300cd7"
+            src="https://ksr-ugc.imgix.net/assets/023/208/071/d657dace8a646e240d2127e4780a0293_original.jpg?ixlib=rb-1.1.0&w=680&fit=max&v=1541810519&auto=format&gif-q=50&q=92&s=c3a9ba41f64955e32efc763ac134bbb9"
             class="img-thumbnail" alt="Terminus Breach TD - The Tower Defense Board Game">
     </div>
     <div class="col-md-9">
