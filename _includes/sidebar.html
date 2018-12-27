@@ -14,7 +14,24 @@
                             {{ post.title }}
                           </a>
                           <small>
-                            &nbsp;&nbsp;{{ post.date | date_to_string }}
+                            &nbsp;&nbsp;
+                            {% assign m = post.date | date: "%-m" %}
+                            {{ post.date | date: "%-d" }}
+                            {% case m %}
+                            {% when '1' %}Ene,
+                            {% when '2' %}Feb,
+                            {% when '3' %}Mar,
+                            {% when '4' %}Abr,
+                            {% when '5' %}May,
+                            {% when '6' %}Jun,
+                            {% when '7' %}Jul,
+                            {% when '8' %}Ago,
+                            {% when '9' %}Sep,
+                            {% when '10' %}Oct,
+                            {% when '11' %}Nov,
+                            {% when '12' %}Dic,
+                            {% endcase %}
+                            {{ post.date | date: "%Y"}}
                           </small>
                         </p>
                       </li>
@@ -22,4 +39,11 @@
               </ul>
         </div>
         <br>
+</div>
+<div class="col-md-4 mt20">
+  <a class="twitter-timeline"
+     href="https://twitter.com/mazmorreo?ref_src=twsrc%5Etfw"
+     data-tweet-limit="5">Tweets by
+  mazmorreo</a> <script async src="https://platform.twitter.com/widgets.js"
+  charset="utf-8"></script> 
 </div>

@@ -20,10 +20,26 @@ layout: default
                   
                   <div class="panel-body">
                     <h3 class="panel-title pull-left">
-                      {{ post.title | truncate: 50 }}
+                      {{ post.title | truncate: 55 }}
                     </h3>
                     <span class="post-meta pull-right"><small>
-                        {{ post.date | date: "%-d %b, %Y" }}</small>
+                        {% assign m = post.date | date: "%-m" %}
+                        {{ post.date | date: "%-d" }}
+                        {% case m %}
+                        {% when '1' %}Ene,
+                        {% when '2' %}Feb,
+                        {% when '3' %}Mar,
+                        {% when '4' %}Abr,
+                        {% when '5' %}May,
+                        {% when '6' %}Jun,
+                        {% when '7' %}Jul,
+                        {% when '8' %}Ago,
+                        {% when '9' %}Sep,
+                        {% when '10' %}Oct,
+                        {% when '11' %}Nov,
+                        {% when '12' %}Dic,
+                        {% endcase %}
+                        {{ post.date | date: "%Y" }}</small>
                     </span>
                   </div>
                   
