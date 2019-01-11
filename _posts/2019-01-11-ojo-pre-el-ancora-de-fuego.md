@@ -117,7 +117,7 @@ En la página de [Board Game Geek del Áncora de
   nos dará alguna ventaja.
   
 * **Diferentes finales.** En este juego no buscamos ganar, sino vivir una
-  aventura, por lo que si cambiamos nuestras decisiones podremos acceder a un
+  aventura, por lo que si cambiamos nuestras decisiones podremos acceder a unos
   finales diferentes. 
 
 ### Hasta que salga, ¿qué puedo hacer?
