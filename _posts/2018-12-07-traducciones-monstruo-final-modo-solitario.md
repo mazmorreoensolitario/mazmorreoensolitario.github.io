@@ -2,7 +2,7 @@
 layout: post
 title: "Traducciones - Monstruo Final - Modo en solitario"
 date:   2018-12-07
-categories: [Noticias, Traducciones]
+categories: [Traducciones]
 tags: [Monstruo Final]
 img: traducciones.png
 ---

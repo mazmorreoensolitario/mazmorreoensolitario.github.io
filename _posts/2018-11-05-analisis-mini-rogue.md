@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Mini Rogue"
 date:   2018-11-05
 categories: [Análisis, Print & play]
-tags: [Mini Rogue, Print & play]
+tags: [Mini Rogue, Print & play, 9 Card Game Print & Play Design Contest]
 img: mini-rogue.png
 post_desc: "Mini Rogue es un
 pequeño juego print & play de tan solo nueve cartas en el que nuestro personaje

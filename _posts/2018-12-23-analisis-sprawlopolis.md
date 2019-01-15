@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Sprawlopolis"
 date:   2018-12-23
 categories: [Análisis, Print & play]
-tags: [Sprawlopolis, Print & Play]
+tags: [Sprawlopolis, Print & play]
 img: sprawlopolis.png
 post_desc: "En este juego de cartas tomamos el papel de planificadores urbanos para
 desarrollar la ciudad definitiva: Sprawlopolis, pero nuestra tarea no será

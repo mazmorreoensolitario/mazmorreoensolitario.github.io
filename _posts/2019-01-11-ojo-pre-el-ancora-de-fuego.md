@@ -3,7 +3,7 @@ layout: post
 title: "Ojeando - Unsolved Mysteries: El Áncora de Fuego"
 date: 2019-01-11
 categories: [Ojeando, Precampañas]
-tags: [unsolved-mysteries-el-ancora-de-fuego, kickstarter]
+tags: ["Unsolved Mysteries: El Áncora de Fuego", Kickstarter]
 img: el-ancora-de-fuego.jpg
 post_desc: "Unsolved Mysteries: El Áncora de
  Fuego se presenta como una aventura narrativa de supervivencia, terror y misterio

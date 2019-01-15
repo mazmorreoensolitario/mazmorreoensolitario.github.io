@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Good Little Martian"
 date:   2018-12-26
 categories: [Análisis, Print & play]
-tags: [Good Little Martian, Print & Play]
+tags: [Good Little Martian, Print & play]
 img: good-little-martian.png
 post_desc: "Good Little Martian es un
 juego de supervivencia interplanetaria en el que tomamos dos papeles, el de un

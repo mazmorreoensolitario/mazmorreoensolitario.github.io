@@ -1,6 +1,6 @@
 <div class="col-md-4 mt20">
         <div class="post-img">
-           <img width="600"
+           <img width="300"
                 src="{{site.baseurl}}/images/logo.png"
                 alt="Mazmorreo en solitario">
         </div>
@@ -9,7 +9,7 @@
              <ul>
                 {% for post in site.related_posts limit:5 %}
                       <li>
-                        <p>
+                        <p class="text-left">
                           <a href="{{ post.url | prepend: site.baseurl }}">
                             {{ post.title }}
                           </a>
@@ -43,7 +43,7 @@
 <div class="col-md-4 mt20">
   <a class="twitter-timeline"
      href="https://twitter.com/mazmorreo?ref_src=twsrc%5Etfw"
-     data-tweet-limit="5">Tweets by
+     data-tweet-limit="5">Tweets por
   mazmorreo</a> <script async src="https://platform.twitter.com/widgets.js"
   charset="utf-8"></script> 
 </div>
