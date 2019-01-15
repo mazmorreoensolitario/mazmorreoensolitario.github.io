@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Monstruo final (versión solitario)"
 date:   2018-11-27
 categories: Análisis
-tags: monstruo-final
+tags: Monstruo Final
 img: monstruo-final.jpg
 post_desc: "En Monstruo Final
  tomamos el papel de un monstruo que tiene que defender su

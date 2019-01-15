@@ -3,7 +3,11 @@ layout: post
 title: "Top 10 de juegos del 2018 que no hemos podido jugar"
 date: 2018-12-27
 categories: [General, Listas]
-tags: juegos-2018
+tags: [Arquitectos del Reino del Oeste, Root, "Root: Riverfolk", Expansión, The
+City of Kings, "Pandemic: La caída de Roma", Heroes of Terrinoth, Paper Tales,
+Reinos de Papel, "Paper Tales: Beyond the Gates", Dados y Colonos, Anachromy,
+Pequeños Grandes Zombies
+Small Islands]
 img: top-10-juegos-2018-no-hemos-podido-jugar.png
 ---
 
@@ -260,7 +264,7 @@ La lista no está en ningún orden en particular:
     </div>
     <div class="col-md-9">
         <p><strong>Pequeños Grandes Zombis</strong></p>
-        <p><a href="https://amzn.to/2RjGBNd">Pequeños Grandes Zombies</a>
+        <p><a href="https://amzn.to/2RjGBNd">Pequeños Grandes Zombis</a>
             es otro juego de la serie Tiny Epic, que <strong>son conocidos por
             empaquetar un gran juego en una caja minúscula</strong>.</p>
         <p>En Pequeños Grandes Zombis tendremos que sobrevivir al apocalipsis

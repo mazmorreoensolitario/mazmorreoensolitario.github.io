@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - One Deck Dungeon: Forest of Shadows"
 date:   2018-12-15
 categories: Análisis
-tags: [expansion, one-deck-dungeon, one-deck-dungeon-forest-of-shadows]
+tags: [Expansión, One Deck Dungeon, "One Deck Dungeon: Forest of Shadows"]
 img: one-deck-dungeon.jpg
 post_desc: "En One Deck Dungeon: Forest of Shadows podemos vivir la clásica aventura de 
 exploración de mazmorras, lucha contra monstruos, superación de trampas y la

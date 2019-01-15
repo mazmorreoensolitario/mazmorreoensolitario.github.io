@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Deep Space D-6"
 date:   2018-12-05
 categories: [Análisis, Print & play]
-tags: deep-space-d6
+tags: [Deep Space-D6, Print & Play]
 img: deep-space-d6.jpg
 post_desc: "Dirigimos la nave espacial USS Crypsis, una nave estelar de clase
 RPTR de patrulla rutinaria por el sistema Auborne. Recibimos una señal de

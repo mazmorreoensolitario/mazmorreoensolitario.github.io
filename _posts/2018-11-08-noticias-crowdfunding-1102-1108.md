@@ -3,7 +3,7 @@ layout: post
 title: "Noticias - Kickstarters 2/11 - 8/11"
 date:   2018-11-08
 categories: [Noticias, Crowdfunding]
-tags: kickstarter
+tags: Kickstarter
 img: crowdfunding.png
 ---
 
