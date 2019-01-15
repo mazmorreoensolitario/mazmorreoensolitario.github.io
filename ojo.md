@@ -38,7 +38,8 @@ que puede ser un buen juego, además de nuestras expectativas.
 {% endif %}
 {% endfor %}
 
-Algún día os hablaremos de estos juegos!
+Esta es una lista (en orden de: "según me vaya acordando") de los juegos que
+*igual* aparecen en algún momento en el blog:
 
 26. The City of Kings
 25. Onirim
