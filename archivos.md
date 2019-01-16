@@ -4,10 +4,25 @@ title: Archivos
 permalink: /archivos/
 ---
 
-Aquí tienes el archivo de todo lo que hemos hablado en este blog:
+Aquí puedes encontrar todas las entradas del blog organizadas por etiquetas y
+categorías.
 
-{% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
+### Nube de etiquetas
+
+<p class="text-left">
+{% assign sorted_tags = site.tags | sort %}
+{% for tag in sorted_tags %}
+    <span class="label label-primary">#{{tag[0]}}</span>
+{% endfor %}
+</p>
+
+### Categorías
+
+En esta sección tienes ordenadas las entradas del blog por categoría:
+
+{% assign sorted_categories = site.categories | sort %}
+{% for category in sorted_categories %}
+  <h4>{{ category[0] }}</h4>
   <ul>
     {% for post in category[1] %}
     <li>
@@ -31,3 +46,4 @@ Aquí tienes el archivo de todo lo que hemos hablado en este blog:
     {% endfor %}
   </ul>
 {% endfor %}
+

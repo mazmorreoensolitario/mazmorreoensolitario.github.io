@@ -35,18 +35,19 @@ layout: default
               </span>{% endif %}
 
             </p>
-            
+            <p class="post-meta">
+              {% assign sorted_tags = page.tags | sort %}
+              {% for tag in sorted_tags %}
+              <span class="label label-primary">#{{ tag }}</span>
+              <!--a href="/tags/{{ tag }}/">{{ tag }}</a><-->
+              {% endfor %}
+            </p>
+            <hr>
           </header>
         
           <div class="post-content text-justify" itemprop="articleBody">
             {{ content }}
           </div>
-          <p>
-            {% for tag in page.tags %}
-            <span class="label label-success">#{{ tag }}</span>
-            <!--a href="/tags/{{ tag }}/">{{ tag }}</a><-->
-            {% endfor %}
-          </p>
     </article>
     <!--div class="row">
         {% if site.disqus-shortname %}
