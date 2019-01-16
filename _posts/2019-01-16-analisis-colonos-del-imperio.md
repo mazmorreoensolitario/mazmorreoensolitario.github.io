@@ -35,7 +35,7 @@ el de nuestro rival virtual."
                  Colonos del Imperio es un juego de estrategia que
                  re-implementa <a
                  href="https://boardgamegeek.com/boardgame/73369/51st-state">
-                 51st State</a>. Ambos juegos son de <a href="">Portal Games</a>
+                 51st State</a>. Ambos juegos son de <a href="https://portalgames.pl/en/">Portal Games</a>
                  y han sido editados en español por
                  <a href="http://www.edgeent.com">Edge</a>.
              </li>
@@ -70,7 +70,9 @@ src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 versión en cada lado, solamente cambia la ilustración de la persona que
 representa a la civilización</small></p>
 
-En Colonos del Imperio tomamos el rol de una civilización entre Romanos,
+En [Colonos del
+ Imperio](https://boardgamegeek.com/boardgame/154203/imperial-settlers)
+ tomamos el rol de una civilización entre Romanos,
 Bárbaros, Japoneses y Egipcios, tratando de generar un imperio más poderoso que
 el de nuestro rival virtual.
 
