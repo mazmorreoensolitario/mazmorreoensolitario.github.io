@@ -522,7 +522,7 @@ así que nuestra pega es que llegado a este punto, debería haber una regla que
 activase algún "autómata avanzado" para hacerte más daño turno a turno, y
 quizás así poder jugar 10 rondas en vez de 5.
 
-Pero en resumidas cuentas, es un juego genial y pecamos de pedirle que su
+Pero, en resumidas cuentas, es un juego genial y pecamos de pedirle que su
 genialidad dure más tiempo.
 
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 4 de 5
