@@ -5,8 +5,8 @@ permalink: /acerca-de/
 ---
 
 
-**Mazmorreo en solitario** es un blog sobre toda clase de información relacionada
-con el hobby de los juegos de mesa de un jugador.
+**Mazmorreo en solitario** es un blog sobre toda clase de información
+relacionada con el hobby de los juegos de mesa de un jugador.
 
 Espera encontrar **análisis de juegos** a los que
 [hemos podido jugar]({{site.baseurl}}/analisis/), **pequeñas
