@@ -38,7 +38,8 @@ layout: default
             <p class="post-meta">
               {% assign sorted_tags = page.tags | sort %}
               {% for tag in sorted_tags %}
-              <span class="label label-primary">#{{ tag }}</span>
+              <span class="label label-primary">#<a class="tag-color"
+              href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></span> 
               <!--a href="/tags/{{ tag }}/">{{ tag }}</a><-->
               {% endfor %}
             </p>

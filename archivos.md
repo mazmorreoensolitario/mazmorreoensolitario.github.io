@@ -12,7 +12,9 @@ categorías.
 <p class="text-left">
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
-    <span class="label label-primary">#{{tag[0]}}</span>
+    <span class="label label-primary">#<a class="tag-color"
+    href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
+     
 {% endfor %}
 </p>
 
