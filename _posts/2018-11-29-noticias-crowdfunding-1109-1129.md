@@ -105,7 +105,7 @@ los más interesantes, animaros a echar un vistazo:
 <div class="row">
     <div class="col-md-3">
         <img width="200" height="200"
-            src="https://ksr-ugc.imgix.net/assets/023/352/737/fd3cec2c0afacfdbd8115951bcb97544_original.png?ixlib=rb-1.1.0&w=680&fit=max&v=1542884515&auto=format&gif-q=50&lossless=true&s=20d82b212bfda7911735f14269154b39"
+            src="https://ksr-ugc.imgix.net/assets/023/545/006/fc8f366075d924d984a4c38e6af722e2_original.png?ixlib=rb-1.1.0&w=680&fit=max&v=1544651003&auto=format&gif-q=50&lossless=true&s=94cdfd4949a7af05232f81d23ef8d689"
         class="img-thumbnail" alt="Paradox University">
     </div>
     <div class="col-md-9">
