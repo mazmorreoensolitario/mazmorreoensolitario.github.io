@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Deep Space D-6"
 date:   2018-12-05
 categories: [Análisis, Print & play]
-tags: [Deep Space-D6, Print & play]
+tags: [Deep Space-D6, Print & play, Solitaire Print & Play Contest]
 img: deep-space-d6.jpg
 post_desc: "Dirigimos la nave espacial USS Crypsis, una nave estelar de clase
 RPTR de patrulla rutinaria por el sistema Auborne. Recibimos una señal de
@@ -48,6 +48,11 @@ que hemos caído en una trampa."
                  trataba de financiar una reedición del
                  juego con una expansión, se obtuvieron 250000$ del objetivo
                  de 20000$.
+             </li>
+             <li>Quedó en tercera posición de "Mejor juego" y en primera
+                 posición de "Mejor juego pequeño"del concurso <a
+                 href="https://www.boardgamegeek.com/thread/1293768/2015-solitaire-print-and-play-contest">
+                 Solitarie Print & Play Contest</a> de 2015 de Board Game Geek.
              </li>
          </ul>
          </div>
