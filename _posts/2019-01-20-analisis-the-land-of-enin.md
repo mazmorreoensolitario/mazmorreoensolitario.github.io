@@ -271,7 +271,7 @@ de 3 hace que comience en *Las Colinas de Hierro*.
   visita la biblioteca de los ancianos para tratar de robar la *llave* de la
   torre. La tirada de 1d10 tiene un resultado de 9, demasiado alto para el
   nivel 1 del caballero, así que sale de la biblioteca sin tan siquiera haber
-  podido averiguar en que parte de esta está la *llave*.
+  podido averiguar en qué parte de esta está la *llave*.
 
   <a data-flickr-embed="true"
     href="https://www.flickr.com/photos/165706612@N02/32926370548/in/dateposted-public/"

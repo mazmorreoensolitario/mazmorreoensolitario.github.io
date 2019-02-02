@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Mini Rogue"
 date:   2018-11-05
 categories: [Análisis, Print & play]
-tags: [Mini Rogue, Print & play, 9 Card Game Print & Play Design Contest]
+tags: [Mini Rogue, Print & play, 9 Card Game Print & Play Design Contest, Golden Geek]
 img: mini-rogue.png
 post_desc: "Mini Rogue es un
 pequeño juego print & play de tan solo nueve cartas en el que nuestro personaje
@@ -44,7 +44,7 @@ llamado Sangre de Og."
              <li>
                  <a href="https://boardgamegeek.com/boardgamehonor/40506/2016-golden-geek-best-print-play-board-game-nomine">
                      Nominado en 2016 </a> a Best Print & Play Board Game de
-                     la Golden Week.
+                     la Golden Geek.
              </li>
          </ul>
          </div>
