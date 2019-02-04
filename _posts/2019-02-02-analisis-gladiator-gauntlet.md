@@ -48,14 +48,17 @@ promesa de victoria - son todo lo que te hace seguir adelante. Gladiador,
 > **Descarga el print & play:** [Cartas en
 > inglés](https://boardgamegeek.com/filepage/147005/gladiator-gauntlet-cards-12),
 > [reglas en
-> inglés](https://boardgamegeek.com/filepage/147006/gladiator-gauntlet-rules-12)
-> y [cartas en español (traducido por
-> fans)](https://boardgamegeek.com/filepage/175246/cartas-en-espanol).
+> inglés](https://boardgamegeek.com/filepage/147006/gladiator-gauntlet-rules-12),
+> [cartas en español](https://boardgamegeek.com/filepage/175246/cartas-en-espanol) (traducido por
+> fans) y [reglas
+> en español](https://www.boardgamegeek.com/filepage/176343/gladiator-gauntlet-reglas-v12-en-espanol-spanish-r) (traducidas por nosotros).
 
-Hemos traducido las reglas para que podáis tener todo el juego en español,
+Hemos traducido las reglas para que podáis tener todo el juego en español,<del>
 pero estamos esperando la confirmación del autor original del juego en BGG para
-que sea todo "legal". De mientras podéis [descargarlas de aquí](https://drive.google.com/open?id=1xpOsfcB9G1mJ8cxvZbdgwoQM6gH6J24k).
-
+que sea todo "legal". De mientras podéis [descargarlas de aquí]({{site.baseurl}}/etiqueta/gladiator-gauntlet/)
+</del> podéis encontrarlas en la [sección de archivos de la BGG del
+juego](https://www.boardgamegeek.com/filepage/176343/gladiator-gauntlet-reglas-v12-en-espanol-spanish-r).
+Además, tenéis una entrada en el blog donde [hablamos de un llamamiento a peticiones de traducción]({{site-baseurl}}/2019/02/04/traducciones-gladiator-gauntlet/).
 
 ### Información general
 
