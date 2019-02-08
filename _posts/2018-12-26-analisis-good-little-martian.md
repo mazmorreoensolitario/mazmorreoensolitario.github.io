@@ -369,7 +369,7 @@ de las cuales unas diez pertenecen a la baraja de Marte, y simplemente no se
 pueden jugar los 27 turnos máximo que tarda la nave en llegar a Marte robando
 un nuevo equipamiento a arreglar por turno, como mínimo.
 
-Sigue siendo un juego jugable y divertido, pero depende de como juegues
+Sigue siendo un juego jugable y divertido, pero depende de cómo juegues
 pasarías a manejar solamente a Control de Misión; aunque esto nos fastidie Good
 Little Martian sigue siendo un juego bueno.
 

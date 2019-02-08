@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - One Deck Dungeon: Forest of Shadows"
 date:   2018-12-15
 categories: Análisis
-tags: [Expansión, One Deck Dungeon, "One Deck Dungeon: Forest of Shadows"]
+tags: [Expansión, One Deck Dungeon, "One Deck Dungeon: Forest of Shadows", Golden Geek]
 img: one-deck-dungeon.jpg
 post_desc: "En One Deck Dungeon: Forest of Shadows podemos vivir la clásica aventura de 
 exploración de mazmorras, lucha contra monstruos, superación de trampas y la
@@ -44,6 +44,9 @@ esperada batalla contra el jefe de la mazmorra"
                  campaña de Kickstarter</a> que en 2017 que obtuvo unos
                  270.000$ sobre la que inicialmente eran necesarios
                  20.000$.
+             </li>
+             <li>Nominado al "Mejor juego en solitario" y "Mejor expansión" de
+             la Golden Geek en 2017.
              </li>
          </ul>
          </div>

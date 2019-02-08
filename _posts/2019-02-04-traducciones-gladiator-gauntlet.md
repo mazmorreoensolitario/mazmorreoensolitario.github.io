@@ -3,13 +3,13 @@ layout: post
 title: "Traducciones - Gladiator Gauntlet"
 date:   2019-02-04
 categories: [Traducciones]
-tags: [Gladiator Gauntlet, Print & play, 9 Card Game Print & Play Design Contest, Golden Geek]
+tags: [Gladiator Gauntlet, Print & play, 9 Card Game Print & Play Design Contest]
 img: traducciones.png
 ---
 
-La semana pasada os traíamos un [análisis de Gladiator
-Gauntlet]({{site.baseur}}/2019/02/02/analisis-gladiator-gauntlet/), un juego de
-presionar la suerte ambientado en la época romana, donde somos un gladiador
+La semana pasada os traíamos un [análisis de Gladiator Gauntlet]({{site.baseur}}/2019/02/02/analisis-gladiator-gauntlet/),
+ un juego de presionar la suerte ambientado en la época romana, donde somos un
+ gladiador 
 tratando de superar los Juegos del Guantelete para lograr nuestra libertad.
 
 En el análisis os dejábamos la traducción de las reglas (ya que las cartas han
