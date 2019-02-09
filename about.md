@@ -29,3 +29,11 @@ del tema [cards](https://github.com/sharu725/cards).
     Al navegar, nos permites
     colocar cookies en tu dispositivo, si no estás de acuerdo con estos términos,
     por favor, [borra tus cookies](https://www.google.es/search?q=como+borrar+cookies).
+
+* En algunas entradas podrás encontrar enlaces del [Programa de Afiliados de
+  Amazon](https://afiliados.amazon.es/help/operating/schedule). Si compras
+  algún juego siguiendo estos enlaces Amazon nos dará un 7% de comisión  por
+  "hacerles publi" (el juego a ti no te cuesta más dinero).
+  
+  El dinero recaudado por este método se reinvierte para traer más
+  contenido al blog.
