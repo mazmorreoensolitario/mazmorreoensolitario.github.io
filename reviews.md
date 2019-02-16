@@ -32,7 +32,7 @@ aspectos de un juego de los que hay que hablar a parte.
 Aquí tenéis una lista de los análisis y reseñas más recientes:
 
 {% for category in site.categories %}
-{% if category[0] == "Análisis" %}
+{% if category[0] == "Reseña" or category[0] == "Análisis" %}
 <ul>
 {% for post in category[1] %}
 <li>

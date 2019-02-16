@@ -264,6 +264,12 @@ importantes al azar no es un juego que os recomendemos.
 
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 3.5 de 5 monedas.
 
+### Extras
+
+Puedes leer una [reseña sobre la campaña de One Deck Dungeon: Forest of
+Shadows]({{site.baseurl}}/2019/02/16/reseña-campaña-one-deck-dungeon/) 
+para complementar la opinión que tenemos de este juego.
+
 <hr>
 
 [^1]: En las ilustraciones del juego todos los personajes tienen características de mujer, por eso utilizamos el plural femenino.
