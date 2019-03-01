@@ -41,11 +41,14 @@ que puede ser un buen juego, además de nuestras expectativas.
 Esta es una lista (en orden de: "según me vaya acordando") de los juegos que
 *igual* aparecen en algún momento en el blog:
 
+29. Spirit Island
+28. Unbroken
+27. Legends Untold
 26. The City of Kings
 25. Onirim
 24. Arkham Noir
 23. The Lost Expedition
-22. Burgle Bros.
+22. Burgle Bros
 21. Apocrypha Adventure Card Game
 20. Pandemic: Fall of Rome
 19. Paper Tales: Beyond the Gates
@@ -57,7 +60,7 @@ Esta es una lista (en orden de: "según me vaya acordando") de los juegos que
 13. A4 Quest
 12. The Artemis Project
 11. Near and Far
-9. Pathfinder Adventure Card Game: Rise of the Runelords
+9. Pathfinder Adventure Card Game
 8. D-Day Dice
 7. Unknown
 5. Vast: The Crystal Caverns
