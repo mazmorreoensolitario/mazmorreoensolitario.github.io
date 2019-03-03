@@ -182,7 +182,7 @@ El juego nos permite hacer tres acciones diferentes: *Comprar del mercado*,
   actualizar el Mercado (sección anterior), estamos obligados a tomar esta
   acción. Podremos vender una o más cartas del mismo tipo, por ejemplo 3
   animales a la vez. Cuando vendemos cartas las colocamos en el montón de **la
-  izquierda del Mercado** y barajamos ese montón. Si 
+  izquierda del Mercado** y barajamos ese montón.
   
 * **Hacer pan del trigo.** Si tenemos trigo de rondas anteriores en nuestra
   granja, podemos dar la vuelta a la carta para hacer pan con él. En esta
