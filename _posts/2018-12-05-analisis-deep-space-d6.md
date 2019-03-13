@@ -5,6 +5,7 @@ date:   2018-12-05
 categories: [Análisis, Print & play]
 tags: [Deep Space-D6, Print & play, Solitaire Print & Play Contest]
 img: deep-space-d6.jpg
+score: 3
 post_desc: "Dirigimos la nave espacial USS Crypsis, una nave estelar de clase
 RPTR de patrulla rutinaria por el sistema Auborne. Recibimos una señal de
 socorro y tras hacer un salto estelar a las coordenadas... nos damos cuenta de

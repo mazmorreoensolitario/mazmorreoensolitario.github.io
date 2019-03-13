@@ -5,6 +5,7 @@ date:   2019-03-09
 categories: [Análisis, Print & play]
 tags: [Maquis, Print & play, Solitaire Print & Play Contest, Golden Geek, Kickstarter]
 img: maquis.jpg
+score: 4
 post_desc: "Maquis es un juego de colocación de trabajadores ambientado en la 
 ocupación de Francia por las fuerzas de la Alemania Nazi en la Segunda Guerra 
 Mundial, en este juego somos parte de la Resistencia Francesa luchando contra 

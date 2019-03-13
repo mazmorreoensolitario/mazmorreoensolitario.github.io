@@ -5,6 +5,7 @@ date:   2019-02-09
 categories: [Análisis, Print & play]
 tags: [Pocket Landship, Print & play, 9 Card Game Print & Play Design Contest, Golden Geek]
 img: pocket-landship.png
+score: 2
 post_desc: "Pocket Landship nos traslada a la Primera Guerra Mundial como comandantes de un tanque
 británico con la misión de despejar un sector de la infantería, artillería y
 tanques enemigos."

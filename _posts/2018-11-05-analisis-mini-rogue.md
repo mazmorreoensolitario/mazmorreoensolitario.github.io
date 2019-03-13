@@ -5,6 +5,7 @@ date:   2018-11-05
 categories: [Análisis, Print & play]
 tags: [Mini Rogue, Print & play, 9 Card Game Print & Play Design Contest, Golden Geek]
 img: mini-rogue.png
+score: 4
 post_desc: "Mini Rogue es un
 pequeño juego print & play de tan solo nueve cartas en el que nuestro personaje
 se adentra en una mazmorra, con el objetivo de conseguir un misterioso rubí

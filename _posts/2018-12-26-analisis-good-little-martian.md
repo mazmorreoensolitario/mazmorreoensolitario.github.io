@@ -5,6 +5,7 @@ date:   2018-12-26
 categories: [Análisis, Print & play]
 tags: [Good Little Martian, Print & play]
 img: good-little-martian.png
+score: 2.5
 post_desc: "Good Little Martian es un
 juego de supervivencia interplanetaria en el que tomamos dos papeles, el de un
 pobre astronauta perdido en Marte, y el de Control de Misión en la Tierra. El

@@ -5,6 +5,7 @@ date:   2019-01-26
 categories: [Análisis, Print & play]
 tags: [Micro City, Print & play]
 img: micro-city.jpg
+score: 2
 post_desc: "En Micro City somos un pequeño ingeniero al que nos han encargado la
 construcción de ciertos edificios, con este fin tendremos que producir
 materiales, recoger impuestos e intercambiar recursos antes de que se nos acabe

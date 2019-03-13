@@ -58,3 +58,163 @@ Aquí tenéis una lista de los análisis y reseñas más recientes:
 </ul>
 {% endif %}
 {% endfor %}
+
+ <img width="50" src="{{site.baseurl}}/favicon.ico"><img width="50"
+ src="{{site.baseurl}}/favicon.ico"><img width="50"
+ src="{{site.baseurl}}/favicon.ico"><img width="50"
+ src="{{site.baseurl}}/favicon.ico"><img width="50" src="{{site.baseurl}}/favicon.ico">
+
+Para poder localizar cuántas Monedas de Mazmorreo hemos dado a cada juego,
+podéis utilizar esta lista:
+
+### 5 monedas
+**ES IDEAL.** Si no sabes a qué jugar, **debes** empezar por estos, son juegos
+ideales que te puedo recomendar sin ninguna duda.
+{% for category in site.categories %}
+{% if category[0] == "Análisis" %}
+<ul>
+    {% for post in category[1] %}
+        {% if post.score and post.score == 5 %}
+        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+        {% endif %}
+    {% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+
+*(actualmente me encuentro en búsqueda del juego ideal, no sé aún si existe)*
+
+### 4.5 monedas
+**¡Este juego es genial! Voy a jugar otra vez ya mismo (mitad superior).**
+Juegos geniales, de los que quieres volver a jugar cuando has terminado la
+partida, y si no puedes volver a jugar acto seguido, es por Una Causa
+Mayor. También te los recomiendo sin dudas.
+
+*(estos juegos existen, pero aún no os he hablado de ellos)*
+{% for category in site.categories %}
+{% if category[0] == "Análisis" %}
+<ul>
+    {% for post in category[1] %}
+        {% if post.score and post.score == 4.5 %}
+        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+        {% endif %}
+    {% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+
+### 4 monedas
+**¡Este juego es genial! Voy a jugar otra vez ya mismo (mitad inferior).**
+Juegos muy muy buenos, también quiero jugar otra vez según he terminado la
+partida, pero a lo mejor no en el mismo día. Recomendados.
+{% for category in site.categories %}
+{% if category[0] == "Análisis" %}
+<ul>
+    {% for post in category[1] %}
+        {% if post.score and post.score == 4 %}
+        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+        {% endif %}
+    {% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+
+### 3.5 monedas
+**Me lo paso muy bien jugando a este juego.** Estos juegos me gustan, son
+buenos, pero no los saco a la mesa tan a menudo porque tengo otros que me
+tiran más. Yo los llamo *juegos estacionales*, a veces me dan rachas en los que
+los juego mucho y otras veces pasan temporadas muy largas sin
+jugarlos. Solamente los recomiendo si algún aspecto del juego te llama la
+atención.
+{% for category in site.categories %}
+{% if category[0] == "Análisis" %}
+<ul>
+    {% for post in category[1] %}
+        {% if post.score and post.score == 3.5 %}
+        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+        {% endif %}
+    {% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+
+### 3 monedas
+**Me lo paso bien jugando a este juego.** El último escalón de los juegos que
+puedo decir que me gustan. Son los que menos saco a la mesa, también son 
+*estacionales* (mira qué es esto en la descripción de la categoría superior). 
+{% for category in site.categories %}
+{% if category[0] == "Análisis" %}
+<ul>
+    {% for post in category[1] %}
+        {% if post.score and post.score == 3 %}
+        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+        {% endif %}
+    {% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+
+### 2.5 monedas
+**Es entretenido, pero no me engancha.** En estos juegos empiezo a ver algunas
+pegas, y como dice el título, son entretenidos, pero no me enganchan y salvo
+que se cambie algo en el juego, dudo que repita.
+{% for category in site.categories %}
+{% if category[0] == "Análisis" %}
+<ul>
+    {% for post in category[1] %}
+        {% if post.score and post.score == 2.5 %}
+        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+        {% endif %}
+    {% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+
+### 2 monedas
+**Es algo entretenido, pero no me engancha.** A estos juegos les veo pegas
+mayores que a los de la categoría anterior y hasta me pueden llegar a parecer
+aburridos. 
+{% for category in site.categories %}
+{% if category[0] == "Análisis" %}
+<ul>
+    {% for post in category[1] %}
+        {% if post.score and post.score == 2 %}
+        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+        {% endif %}
+    {% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+
+### 1.5 monedas
+**Creo que prefiero hacer otra cosa.** Como dice el título, creo que prefiero
+hacer alguna otra actividad de ocio antes que jugar a estos juegos, no conectan
+conmigo. 
+{% for category in site.categories %}
+{% if category[0] == "Análisis" %}
+<ul>
+    {% for post in category[1] %}
+        {% if post.score and post.score == 1.5 %}
+        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+        {% endif %}
+    {% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+
+### 1 moneda
+**Prefiero hacer otra cosa.** Espero no jugar a ningún juego de esta categoría
+y darme cuenta antes de jugarlo que no es lo mio.
+
+*(de momento no he jugado a ninguno de estos, existen, pero evito jugarlos)*
+{% for category in site.categories %}
+{% if category[0] == "Análisis" %}
+<ul>
+    {% for post in category[1] %}
+        {% if post.score and post.score == 1 %}
+        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+        {% endif %}
+    {% endfor %}
+</ul>
+{% endif %}
+{% endfor %}

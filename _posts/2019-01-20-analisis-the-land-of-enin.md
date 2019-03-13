@@ -5,6 +5,7 @@ date:   2019-01-20
 categories: [Análisis, Print & play]
 tags: [The Land of Enin, Print & play]
 img: the-land-of-enin.jpg
+score: 3
 post_desc: "Land of Enin es un pequeño juego de aventuras en el que
 recorreremos las tierras de Enin haciendo una serie de misiones con el objetivo
 final de encontrar el Libro Perdido de Magia."

@@ -5,6 +5,7 @@ date:   2019-01-16
 categories: Análisis
 tags: [Colonos del Imperio]
 img: colonos-del-imperio.jpg
+score: 4
 post_desc: "En Colonos del Imperio tomamos el rol de una civilización entre Romanos,
 Bárbaros, Japoneses y Egipcios, tratando de generar un imperio más poderoso que
 el de nuestro rival virtual."

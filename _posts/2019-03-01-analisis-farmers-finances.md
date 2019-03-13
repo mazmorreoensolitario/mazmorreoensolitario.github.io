@@ -5,6 +5,7 @@ date:   2019-03-01
 categories: [Análisis, Print & play]
 tags: [Farmers Finances, Print & play, 9 Card Game Print & Play Design Contest]
 img: farmers-finances.png
+score: 1.5
 post_desc: "En Farmers Finances trabajamos en una granja criando vacas y 
 sembrando trigo, para después vender los animales, el trigo o sus productos
 derivados, en este caso el pan, para sacar beneficio. Nuestro objetivo es 
