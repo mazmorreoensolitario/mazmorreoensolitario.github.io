@@ -11,11 +11,17 @@ layout: default
             <div class="col-md-4 card">
              <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
                 <div class="panel panel-default">
+
                   
-                  {% if post.img %}
-                  <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
+                  {% if post.imghtml %}
+                  <img width="100%" src="{{post.imghtml}}" alt="{{post.title}}">
                   {% else %}
-                  <img width="100%" src="{{site.baseurl}}/images/logo.png" alt="{{site.title}}">
+                    {% if post.img %}
+                    <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
+                    {% else %}
+                    <img width="100%" src="{{site.baseurl}}/images/logo.png"
+                         alt="{{site.title}}">
+                    {% endif %}
                   {% endif %}
                   
                   <div class="panel-body">

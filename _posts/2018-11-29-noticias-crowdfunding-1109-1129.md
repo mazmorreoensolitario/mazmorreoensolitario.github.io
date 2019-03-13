@@ -5,6 +5,7 @@ date:   2018-11-29
 categories: [Noticias, Crowdfunding]
 tags: Kickstarter
 img: crowdfunding.png
+imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/crowdfunding/crowdfunding-18-1109-1129.jpg
 ---
 
 

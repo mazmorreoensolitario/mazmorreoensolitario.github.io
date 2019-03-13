@@ -5,6 +5,7 @@ date:   2018-11-08
 categories: [Noticias, Crowdfunding]
 tags: Kickstarter
 img: crowdfunding.png
+imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/crowdfunding/crowdfunding-18-1102-11-08.jpg
 ---
 
 ¡Tenemos otra fascinante semana más en el mundo de los juegos de mesa de un 
