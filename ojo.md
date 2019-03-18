@@ -38,9 +38,12 @@ que puede ser un buen juego, además de nuestras expectativas.
 {% endif %}
 {% endfor %}
 
-Esta es una lista (en orden de: "según me vaya acordando") de los juegos que
-*igual* aparecen en algún momento en el blog:
+Esta es una lista (en orden de: "según me vaya acordando") de diversos juegos
+en solitario que *igual* aparecen en algún momento en el blog:
 
+32. Normandy '44
+31. Root
+30. No Retreat!
 29. Spirit Island
 28. Unbroken
 27. Legends Untold
