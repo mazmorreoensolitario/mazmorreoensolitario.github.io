@@ -122,7 +122,7 @@ ser de un color y el restante de otro.
   (tienen un icono de un castillo con una persona) lo más alejadas posibles la 
   una de la otra.
   
-* Barajamos las cuatro losetas restantes y formamos las colocamos formando un
+* Barajamos las cuatro losetas restantes y las colocamos formando un
   cuadrado, las losetas 1 y 6 deberán quedar en dos de los extremos del
   cuadrado.
   
