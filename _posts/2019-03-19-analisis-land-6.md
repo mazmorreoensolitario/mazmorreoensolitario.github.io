@@ -283,7 +283,7 @@ Tenemos que conseguir siete dados d6, el las instrucciones nos dicen que usemos
 seis de un color y el restante de un color diferente, pero es irrelevante para
 el desarrollo del juego que los dados sean de dos colores. Con los colores de
 los cubos pasa igual, pero recomiendo que sean transparentes para que podáis
-ver sin moverlos en que loseta se encuentran colocados.
+ver sin moverlos en qué loseta se encuentran colocados.
 
 En resumidas cuentas, los materiales para jugar a este juego son fáciles de
 conseguir, y el juego en si es extremadamente fácil de producir. 
