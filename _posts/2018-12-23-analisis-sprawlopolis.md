@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Sprawlopolis"
 date:   2018-12-23
 categories: [Análisis, Print & play]
-tags: [Sprawlopolis, Print & play]
+tags: [Sprawlopolis, Expansiópolis, Print & play]
 img: sprawlopolis.png
 score: 3
 post_desc: "En este juego de cartas tomamos el papel de planificadores urbanos para
@@ -28,7 +28,7 @@ intentar que todas cuadren en nuestra ciudad."
             <a href="https://buttonshygames.com/products/sprawlopolis-pre-order?variant=9454957527084">edición normal 12$</a></td></tr>
             <tr><td>Número de jugadores:</td><td>1-4</td></tr>
             <tr><td>Tiempo de juego:</td><td>10-15 mins</td></tr>
-            <tr><td>Idioma:</td><td>Inglés</td></tr>
+            <tr><td>Idioma:</td><td>Castellano / Inglés</td></tr>
          </table>
         </div>
         <div class="col-md-12"></div>
@@ -41,7 +41,11 @@ intentar que todas cuadren en nuestra ciudad."
                 juego al mercado, y obtuvieron 107000$ de los 1000$ iniciales.
             </li>
             <li> Publicado por
-                <a href="https://buttonshygames.com/">Button Shy Games</a>.</li>
+                <a href="https://buttonshygames.com/">Button Shy Games</a>, a
+                España llega de la mano de <a
+                href="https://saltandpeppergames.es/">Salt and Pepper
+                Games</a>.
+            </li>
              <li>
                  Diseñado por Steven Aramini, Danny Devine y Paul Kluka, el
                  arte ha sido creado por Danny Devine.</li>
@@ -49,6 +53,15 @@ intentar que todas cuadren en nuestra ciudad."
          </div>
     </div>
 </div>
+
+**Actualización - 21 de Marzo de 2019.**
+
+[Salt and Pepper
+Games](https://saltandpeppergames.es/), una editorial
+española de juegos de mesa, [acaba de
+anunciar](https://twitter.com/SaltPeppergames/status/1108656924583698433) que
+sacará el juego en castellano. Llega traducido bajo el nombre de
+**Expansiópolis**.
 
 ### Información general
 
@@ -240,7 +253,7 @@ width="800" height="466" alt="02-bordes"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <p align="center"><small>Detalle de las cartas</small></p>
 
-En este juego no estamos muy contentos con la edición print & play porque las 
+La edición print & play de este juego no me parece muy buena porque las 
 medidas para cortar las cartas no eran las correctas para tamaño poker, que es
 lo que siempre se toma como estándar.
 
@@ -251,7 +264,7 @@ el método de poner una carta de poker/baraja española en una funda y dos trozo
 de papel que forman la carta del Print & Play), y esto no debería pasar si las
 medidas hubiesen sido las correctas.
 
-Salvo esta pega (que a nosotros nos fastidia bastante) el juego se puede
+Salvo esta pega (que a mí me fastidió bastante) el juego se puede
 imprimir a una cara en seis hojas A4 y no necesitamos nada más para jugar.
 
 ### Opinión
@@ -260,7 +273,7 @@ Sprawlopolis es un juego muy majo que parece que no tiene nada pero es difícil
 de ganar, hay que tener siempre en mente las formas en las que se puntúa en la
 partida porque sino vas a perder puntos por todos los lados.
 
-Nos gusta mucho que sea tan pequeño, que tenga tantas combinaciones diferentes
+Me gusta mucho que sea tan pequeño, que tenga tantas combinaciones diferentes
 para puntuar y que no necesitemos ningún accesorio más para jugar.
 
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 3 de 5
