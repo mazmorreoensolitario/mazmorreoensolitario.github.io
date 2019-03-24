@@ -157,5 +157,5 @@ para terminar:**
 <br>
 <hr>
 
-<small>Nota: Las imágenes de los juegos pertenecen a los autores del sus
+<small>Nota: Las imágenes de los juegos pertenecen a los autores de sus
 respectivos Kickstarters.</small>

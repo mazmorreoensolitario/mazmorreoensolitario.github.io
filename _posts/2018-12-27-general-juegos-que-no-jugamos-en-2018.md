@@ -114,8 +114,8 @@ La lista no está en ningún orden en particular:
         <p><strong>Pandemic: La caída de Roma</strong></p>
         <p>Este es el primer <a
     href="https://boardgamegeek.com/boardgame/260428/pandemic-fall-rome">Pandemic</a>
-        que <strong>vamos a poder jugar en solitario sin tener que comprar
-        expansiones.</strong></p>
+        que <strong>vamos a poder <a href="https://amzn.to/2Cw1Gvn">jugar en
+        solitario</a> sin tener que comprar expansiones.</strong></p>
         <p>En este Pandemic vamos a tener que parar la expansión de los
         ejércitos bárbaros por el Imperio Romano, ya bien sea utilizando
         nuestros legionarios para expulsarlos o aliándonos con alguna de las
