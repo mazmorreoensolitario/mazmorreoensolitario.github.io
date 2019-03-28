@@ -8,8 +8,7 @@ img: golden-geek-nominee.png
 ---
 
 Estas son unas fechas emocionantes para el mundillo de los juegos de mesa 
-porque salen las nominaciones a los [Premios Golden Geek de
-2018](https://boardgamegeek.com/thread/2170977/13th-annual-golden-geek-awards-nominees-announced). 
+porque salen las nominaciones a los [Premios Golden Geek de 2018](https://boardgamegeek.com/thread/2170977/13th-annual-golden-geek-awards-nominees-announced). 
 Estas listas de juegos nominados suelen ser una gran oportunidad para descubrir 
 juegos nuevos de los que no estábamos al tanto y que igual nos pueden parecer
 interesantes.
@@ -1368,7 +1367,7 @@ primera vez.
         desde tres puntos de vista diferentes: la casa de Pavlov, el área
         colindante a la casa, con sus edificios y manzanas cercados, y
         finalmente la vista operacional donde podemos ver la situación de la
-        batalla desde más alto nivel. En este juego utilizaremos cartas para
+        batalla desde el nivel más alto. En este juego utilizaremos cartas para
         saber cuáles son las acciones disponibles en nuestro turno, entre las
         acciones disponibles podremos recuperar las unidades que hayan sido
         alteradas (disrupted), conseguir suministros, atacar, mandar refuerzos
@@ -1411,7 +1410,7 @@ primera vez.
          hexágono y muchas reglas de nivel operacional de las diferentes
          campañas.</p>
          <p>Este es otro juego del frente Oriental de la Segunda Guerra mundial
-         de lo que me suelen interesar, solo que no sé si la escala termina de
+         de los que me suelen interesar, solo que no sé si la escala termina de
          convencerme. </p>
     </div>
 </div>
@@ -1538,7 +1537,8 @@ primera vez.
     <div class="col-md-9">
         <h4>Scythe: El Auge de Fenris</h4>
          <p><strong><a href="https://amzn.to/2HO12xs" target="_blank">Maldito
-             Games</a></strong> ya ha traído, una vez más, otro elemento de la gama de Sythe.</p>
+             Games</a></strong> ya ha traído, una vez más, otro elemento de la
+             gama de Scythe.</p>
          <p>En <strong>Scythe: El Auge de Fenris</strong> nos añaden más
              elementos para jugar en modo campaña o bien, se pueden usar de
              forma modular para añadir variedad en un juego estándar.</p>
@@ -1560,7 +1560,7 @@ primera vez.
          <p>Siguiendo con <strong><a target="_blank"
              href="https://amzn.to/2OxUX8J">Maldito Games</a></strong>, esta
              expansión de <a href="https://amzn.to/2HD5Wxa" target="_blank">Terraforming
-             Mars</a>ya está disponible en España.</p> 
+             Mars</a> ya está disponible en España.</p> 
          <p><strong>Terraforming Mars: Colonias</strong> añade, como su nombre
              indica, la capacidad de crear colonias fuera del Sistema
              Solar. Mandaremos nuestras expediciones a estos planetas para construir
