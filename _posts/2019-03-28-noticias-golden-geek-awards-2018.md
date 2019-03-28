@@ -1682,7 +1682,7 @@ Y esto es todo, espero que esta pequeña criba de qué juegos se pueden jugar en
 solitario o no os haya sido útil, y que os hayáis encontrado con alguna que otra 
 sorpresa en estas listas.
 
-Se puede participar en las votaciones finales para los premios si sois 
+Se puede participar en las votaciones finales para los premios si
 habéis donado dinero a Board Game Geek, las votaciones se mantendrán abiertas
 hasta Abril.
 
