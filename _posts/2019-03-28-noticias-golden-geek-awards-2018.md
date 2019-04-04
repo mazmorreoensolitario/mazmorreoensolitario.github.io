@@ -721,6 +721,17 @@ entender, no permite el juego en solitario.</div>
         <h4>The Coin Tribes' Revolt: Boudica's Rebellion Against Rome</h4>
             <div class="alert alert-info" role="alert">
             Subcampeón a mejor print & play del año.</div>
+         <p><i>Actualización 4 de Abril.</i> <a
+    href="https://twitter.com/vilvoh/status/1113730513091612672?s=19"
+    target="_blank">@vilvoh</a> (tiene un podcast muy interesante sobre juegos
+    de mesa en solitario, si no lo conocéis aprovecho para poneros el <a
+    href="https://nosolojuegosolos.blogspot.com/" target="_blank">enlace a
+    su página</a>) me recuerda acertadamente que <a
+    href="https://boardgamegeek.com/thread/2070368/psc-games-set-publish-coin-tribes-revolt"
+    target="_blank">se
+    anunció en la BGG</a> que el juego va a ser publicado en un futuro por <a
+    href="https://twitter.com/PSCGamesUK/status/1047080762430783489?ref_src=twsrc%5Etfw"
+    target="_blank">PSC Games</a>.</p>
          <p>Este es un wargame que entró en el concurso de <a
          href="{{site.baseurl}}/etiqueta/9-card-game-print-play-design-contest/">diseño
          print & play de 9 cartas</a> del que hemos hecho mención muchas otras
