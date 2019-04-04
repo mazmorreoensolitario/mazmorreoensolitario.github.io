@@ -31,6 +31,13 @@ a *Mejor print & play* que permitan juego en solitario.
 repetir lo escrito, os referiré a la categoría donde apareció nominado por
 primera vez.
 
+**Actualización - 4 de Marzo de 2019.** 
+
+Se [acaban de
+anunciar](https://www.boardgamegeek.com/thread/2179643/13th-annual-golden-geek-awards-winners-2018)
+los ganadores de cada categoría, actualizo cada categoría señalando el
+ganador y los subcampeones. 
+
 ### Mejor juego de mesa del año
 
 *Se han omitido 4 juegos que no tienen modo en solitario.*
@@ -43,6 +50,8 @@ primera vez.
     </div>
     <div class="col-md-9">
          <h4>Arquitectos del Reino del Oeste</h4>
+         <div class="alert alert-info" role="alert">
+             Subcampeón a mejor juego de mesa del año.</div>
          <p><strong><a href="http://edicionesprimigenio.com/">Ediciones Primigenio</a></strong>
          ya nos ha traído este juego a España, y parece que se ha vendido bien,
          <a
@@ -221,6 +230,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>Root</h4>
+            <div class="alert alert-warning" role="alert">
+            <strong>Mejor juego de mesa del año.</strong></div>
         <p><i>El juego base de Root no puede jugarse en solitario. Aún así, está
             incluido en esta lista porque gracias a la expansión Los Ribereños
             (aparece también nominada a un premio más abajo) o a los diferentes
@@ -355,6 +366,10 @@ primera vez.
 
 *Se han omitido 5 juegos que no tienen modo en solitario.*
 
+<div class="alert alert-warning" role="alert">
+El ganador de esta categoría ha sido <strong>The Mind</strong>, que a mi mejor 
+entender, no permite el juego en solitario.</div>
+
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
@@ -475,6 +490,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>Thunderstone Quest</h4>
+            <div class="alert alert-info" role="alert">
+            Subcampeón a mejor juego de cartas del año.</div>
          <p>No hay noticias sobre la edición de este juego en español, de
              momento se puede <a href="https://amzn.to/2TWb7iq"
              target="_blank">conseguir en inglés</a>.</p>
@@ -495,6 +512,10 @@ primera vez.
 ### Mejor juego cooperativo
 
 *Se han 2 omitido juegos que no pueden jugarse en solitario.*
+
+<div class="alert alert-warning" role="alert">
+El ganador de esta categoría ha sido <strong>The Mind</strong>, que a mi mejor 
+entender, no permite el juego en solitario.</div>
 
 <div class="row">
     <div class="col-md-3">
@@ -527,6 +548,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>Chronicles of Crime</h4>
+            <div class="alert alert-info" role="alert">
+            Subcampeón a mejor juego de mesa cooperativo del año.</div>
          <p><i>Se ha hablado de este juego en la sección de la nominación a
              Mejor juego del año.</i></p> 
     </div>
@@ -568,6 +591,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>Detective: A Modern Crime Board Game</h4>
+            <div class="alert alert-info" role="alert">
+            Subcampeón a mejor juego de mesa cooperativo del año.</div>
          <p><i>Se ha hablado de este juego en la sección de la nominación a
              Mejor juego del año.</i></p>
     </div>
@@ -694,6 +719,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>The Coin Tribes' Revolt: Boudica's Rebellion Against Rome</h4>
+            <div class="alert alert-info" role="alert">
+            Subcampeón a mejor print & play del año.</div>
          <p>Este es un wargame que entró en el concurso de <a
          href="{{site.baseurl}}/etiqueta/9-card-game-print-play-design-contest/">diseño
          print & play de 9 cartas</a> del que hemos hecho mención muchas otras
@@ -739,6 +766,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>Orchard: A 9 card solitaire game</h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>Mejor print & play del año.</strong></div>
         <p><strong><a href="https://www.sideroomgames.com/"
             target="_blank">Side Room Games</a></strong>, la editorial que va a
             hacer un Kickstarter de <a href="{{site.baseurl}}/2019/03/09/analisis-maquis/"
@@ -780,6 +809,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>Chronicles of Crime</h4>
+            <div class="alert alert-info" role="alert">
+            Subcampeón a mejor juego de mesa en solitario del año.</div>
          <p><i>Se ha hablado de este juego en la sección de la nominación a
              Mejor juego del año.</i></p> 
     </div>
@@ -893,6 +924,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>That's Pretty Clever </h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>Mejor juego de mesa en solitario del año.</strong></div>
          <p><i>Se ha hablado de este juego en la sección de la nominación a
              Mejor juego del año.</i></p>
     </div>
@@ -921,6 +954,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>Welcome Hacia el Perfecto Hogar</h4>
+            <div class="alert alert-info" role="alert">
+            Subcampeón a mejor juego de mesa en solitario del año.</div>
          <p><i>Se ha hablado de este juego en la sección de la nominación a
              Mejor juego del año.</i></p>
     </div>
@@ -932,6 +967,12 @@ primera vez.
 
 *Se han omitido 3 juegos que no tienen modo en solitario.*
 
+
+<div class="alert alert-warning" role="alert">
+El ganador de esta categoría ha sido <strong>Brass: Birmingham</strong>, que a
+mi mejor entender, no permite el juego en solitario.</div>
+
+
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
@@ -940,6 +981,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>Arquitectos del Reino del Oeste</h4>
+            <div class="alert alert-info" role="alert">
+            Subcampeón a mejor juego de mesa de estrategia del año.</div>
         <p><i>Se ha hablado de este juego en la sección de la nominación a
              Mejor juego del año.</i></p>
     </div>
@@ -1024,6 +1067,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>Teotihuacán: Ciudad de Dioses</h4>
+            <div class="alert alert-info" role="alert">
+            Subcampeón a mejor juego de mesa de estrategia del año.</div>
          <p><i>Se ha hablado de este juego en la sección de la nominación a
              Mejor juego del año.</i></p>
     </div>
@@ -1123,7 +1168,9 @@ primera vez.
         class="img-thumbnail" alt="Root">
     </div>
     <div class="col-md-9">
-        <h4>Root</h4>
+    <h4>Root</h4>
+    <div class="alert alert-warning" role="alert">
+        <strong>Mejor juego de mesa temático del año.</strong></div>
          <p><i>Se ha hablado de este juego en la sección de la nominación a
              Mejor juego del año.</i></p>
     </div>
@@ -1146,6 +1193,10 @@ primera vez.
 
 ### Mejor wargame
 
+<div class="alert alert-warning" role="alert">El ganador de esta categoría ha 
+sido <strong>Hannibal & Hamilcar</strong>, que a mi mejor saber, no puede
+jugarse en solitario.</div>
+
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
@@ -1154,6 +1205,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>1066, Tears To Many Mothers</h4>
+            <div class="alert alert-info" role="alert">
+            Subcampeón a mejor wargame del año.</div>
          <p>Este juego fue financiado por una <a
              href="https://www.kickstarter.com/projects/tristanhall/1066-tears-to-many-mothers-a-card-game-of-war-and"
              target="_blank">campaña de Kickstarter</a> y ahora mismo solo lo tienen los
@@ -1183,6 +1236,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>Cataclysm: A Second World War</h4>
+            <div class="alert alert-info" role="alert">
+            Subcampeón a mejor wargame del año.</div>
         <p><i>Este juego utiliza mecánicas de "chit pull" que se utilizan en
         muchos casos para elegir formaciones que atacan en cada turno, por lo
         que es fácilmente jugable en solitario. Además, en la descripción del
@@ -1504,6 +1559,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>Root: Expansión Los Ribereños</h4>
+            <div class="alert alert-info" role="alert">
+            Subcampeón a mejor expansión del año.</div>
          <p>Como he comentado en el juego base de esta expansión, <strong><a target="_blank"
              href="https://2tomatoesgames.com/es/content/11-proximos-lanzamientos?ref=mazmorreoensolitario">
              2 Tomatoes Games</a></strong> traerá Root así como esta expansión
@@ -1536,6 +1593,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>Scythe: El Auge de Fenris</h4>
+        <div class="alert alert-warning" role="alert">
+        <strong>Mejor expansión del año.</strong></div>
          <p><strong><a href="https://amzn.to/2HO12xs" target="_blank">Maldito
              Games</a></strong> ya ha traído, una vez más, otro elemento de la
              gama de Scythe.</p>
@@ -1583,6 +1642,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>Terraforming Mars: Preludio</h4>
+            <div class="alert alert-info" role="alert">
+            Subcampeón a mejor expansión del año.</div>
         <p>Esta es otra expansión de <a href="https://amzn.to/2HD5Wxa" target="_blank">Terraforming
              Mars</a> que <strong><a target="_blank"
              href="https://amzn.to/2HHLv24">Maldito Games</a></strong> trae
@@ -1628,6 +1689,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>Chronicles of Crime</h4>
+            <div class="alert alert-info" role="alert">
+            Subcampeón a juego más innovador del año.</div>
          <p><i>Se ha hablado de este juego en la sección de la nominación a
              Mejor juego del año.</i></p> 
     </div>
@@ -1657,6 +1720,8 @@ primera vez.
     </div>
     <div class="col-md-9">
         <h4>Root</h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>Juego más innovador del año.</strong></div>
          <p><i>Se ha hablado de este juego en la sección de la nominación a
              Mejor juego del año.</i></p>
     </div>
@@ -1686,6 +1751,9 @@ Se puede participar en las votaciones finales para los premios si
 habéis donado dinero a Board Game Geek, las votaciones se mantendrán abiertas
 hasta Abril.
 
+*Comentario tras el resultado de las votaciones.* Me han sorprendido bastante
+los resultados de mejor juego en solitario del año, justamente me gustan casi
+todos y los que han sido subcampeones y ganador no.
 
 <hr>
 
