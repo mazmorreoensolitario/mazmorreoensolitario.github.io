@@ -69,7 +69,7 @@ la ocupación alemana."
 > español](https://boardgamegeek.com/filepage/104955/rules-spanish) (traducido
 > por fans).
 
-> **Campaña de Kickstarter el 8 de Abril. [Link a la campaña](https://www.kickstarter.com/projects/771559871/maquis?ref=mazmorreoensolitario)**
+> **Campaña de Kickstarter el 8 de Abril. [Link a la campaña.](https://www.kickstarter.com/projects/771559871/maquis?ref=mazmorreoensolitario)**
 
 En la lista de ficheros de la Board Game Geek del juego podéis observar que
 originalmente las ilustraciones también estaban hechas por Jake Staines;
