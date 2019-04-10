@@ -8,10 +8,10 @@ imghtml: https://cf.geekdo-images.com/imagepage/img/mKqlGbRXfdh0LUn6tZKTXIVgmV0=
 ---
 
 En esta entrada un tanto atípica, de la nueva categoría de [Primeras 
-impresiones]({{site.baseurl}}/archivos/) que acabo de crear, voy a contaros mi
+impresiones]({{site.baseurl}}/archivos/) que acabo de crear, voy a contaros mi 
 odisea desde que captaron mi interés los juegos de cartas de Pathfinder, 
 pasando por mi drama para adquirir uno de los juegos, y terminando con mis 
-primeras impresiones sobre la aventura básica de  **Mummy's Mask** que he
+primeras impresiones sobre la aventura básica de  **Mummy's Mask** que he 
 podido completar tras once partidas. 
 
 En un futuro, cuando haya terminado todo el contenido de la caja
