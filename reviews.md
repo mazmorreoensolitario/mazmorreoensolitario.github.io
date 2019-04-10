@@ -21,6 +21,9 @@ La escala es la siguiente:
 * 4 monedas - ¡este juego es genial! Voy a jugar otra vez ya mismo
 * 5 monedas - ES IDEAL
 
+**Por favor, lee abajo con más detalle qué significa para mí exactamente cada
+cantidad de monedas.**
+
 En las **reseñas** os vais a encontrar con información acerca de algunos
 aspectos de un juego de los que hay que hablar a parte.
 
@@ -64,8 +67,9 @@ Aquí tenéis una lista de los análisis y reseñas más recientes:
  src="{{site.baseurl}}/favicon.ico"><img width="50"
  src="{{site.baseurl}}/favicon.ico"><img width="50" src="{{site.baseurl}}/favicon.ico">
 
-Para poder localizar cuántas Monedas de Mazmorreo hemos dado a cada juego,
-podéis utilizar esta lista:
+Para poder localizar cuántas Monedas de Mazmorreo he dado a cada juego, además
+de una descripción detallada de qué significa que un juego esté en una
+categoría u otra, podéis utilizar esta lista:
 
 ### 5 monedas
 **ES IDEAL.** Si no sabes a qué jugar, **debes** empezar por estos, son juegos
