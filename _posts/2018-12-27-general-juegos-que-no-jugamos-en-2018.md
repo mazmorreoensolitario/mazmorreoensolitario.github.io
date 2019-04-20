@@ -3,7 +3,7 @@ layout: post
 title: "Top 10 de juegos del 2018 que no hemos podido jugar"
 date: 2018-12-27
 categories: [General, Listas]
-tags: [Tops, Expansión, Arquitectos del Reino del Oeste, Root, "Root: Riverfolk", The City of Kings, "Pandemic: La caída de Roma", Heroes of Terrinoth, Héroes de Terrinoth, Paper Tales, Reinos de Papel,"Paper Tales: Beyond the Gates", Dados y Colonos, Anachromy, Pequeños Grandes Zombis, Small Islands]
+tags: [Tops, Expansión, Arquitectos del Reino del Oeste, Root, "Root: Riverfolk", The City of Kings, "Pandemic: La caída de Roma", Heroes of Terrinoth, Héroes de Terrinoth, Paper Tales, Reinos de Papel,"Paper Tales: Beyond the Gates", Dados y Colonos, Anachrony, Pequeños Grandes Zombis, Small Islands]
 img: top-10-juegos-2018-no-hemos-podido-jugar.png
 ---
 
@@ -218,11 +218,11 @@ La lista no está en ningún orden en particular:
     <div class="col-md-3">
         <img width="500" height="500"
             src="https://cf.geekdo-images.com/imagepage/img/awllz3BEO-RQjSe_FJmEyOMKgqk=/fit-in/900x600/filters:no_upscale()/pic3499707.jpg"
-        class="img-thumbnail" alt="Anachromy">
+        class="img-thumbnail" alt="Anachrony">
     </div>
     <div class="col-md-9">
-        <p><strong>Anachromy</strong></p>
-        <p><a href="https://amzn.to/2GQbKng">Anachromy</a> es un juego de
+        <p><strong>Anachrony</strong></p>
+        <p><a href="https://amzn.to/2GQbKng">Anachrony</a> es un juego de
         estrategia con
         emplazamiento de trabajadores ambientado en una época en la que los
         viajes en el tiempo son posibles. Un asteroide va a
