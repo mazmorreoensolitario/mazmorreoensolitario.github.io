@@ -49,7 +49,6 @@ pánico."
     </div>
 </div>
 
-
 Mothership es un juego de rol ambientado en el espacio con toques de terror. La
 *Guía de supervivencia para el jugador* son 44 páginas muy bien organizadas que 
 permiten catapultarte al ambiente más inhóspito del universo: el espacio.
