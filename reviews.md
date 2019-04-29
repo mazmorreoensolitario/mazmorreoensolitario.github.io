@@ -72,8 +72,8 @@ de una descripción detallada de qué significa que un juego esté en una
 categoría u otra, podéis utilizar esta lista:
 
 ### 5 monedas
-**ES IDEAL.** Si no sabes a qué jugar, **debes** empezar por estos, son juegos
-ideales que te puedo recomendar sin ninguna duda.
+**ES IDEAL.** Si no sabes a qué jugar, **debes** empezar por estos. **Son juegos
+ideales que te puedo recomendar sin ninguna duda.**
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
 <ul>
@@ -92,7 +92,7 @@ ideales que te puedo recomendar sin ninguna duda.
 **¡Este juego es genial! Voy a jugar otra vez ya mismo (mitad superior).**
 Juegos geniales, de los que quieres volver a jugar cuando has terminado la
 partida, y si no puedes volver a jugar acto seguido, es por Una Causa
-Mayor. También te los recomiendo sin dudas.
+Mayor. **También te los recomiendo sin dudas.**
 
 *(estos juegos existen, pero aún no os he hablado de ellos)*
 {% for category in site.categories %}
@@ -110,7 +110,7 @@ Mayor. También te los recomiendo sin dudas.
 ### 4 monedas
 **¡Este juego es genial! Voy a jugar otra vez ya mismo (mitad inferior).**
 Juegos muy muy buenos, también quiero jugar otra vez según he terminado la
-partida, pero a lo mejor no en el mismo día. Recomendados.
+partida, pero a lo mejor no en el mismo día. **Recomendados.**
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
 <ul>
@@ -128,8 +128,8 @@ partida, pero a lo mejor no en el mismo día. Recomendados.
 buenos, pero no los saco a la mesa tan a menudo porque tengo otros que me
 tiran más. Yo los llamo *juegos estacionales*, a veces me dan rachas en los que
 los juego mucho y otras veces pasan temporadas muy largas sin
-jugarlos. Solamente los recomiendo si algún aspecto del juego te llama la
-atención.
+jugarlos. **Solamente los recomiendo si algún aspecto del juego te llama la
+atención.**
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
 <ul>

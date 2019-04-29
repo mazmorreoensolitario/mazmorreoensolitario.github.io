@@ -35,3 +35,14 @@ nuestro blog. En este rincón analizamos los juegos que hemos imprimido y jugado
 {% endif %}
 {% endfor %}
 
+#### Material para ediciones en print & play
+
+Esta es una lista en progreso y no exhaustiva, de material para hacer ediciones
+print & play que puedo recomendar:
+
+* Puedes usar una *recortadora de esquinas* para hacer el acabado de tus cartas
+  más profesional, yo uso la [Sunstar Kadomaru Pro](https://amzn.to/2JJjmti).
+
+  Puede recortar 3-4 cartas a la vez y cartulina, pero no se puede usar para
+  cartón.
+
