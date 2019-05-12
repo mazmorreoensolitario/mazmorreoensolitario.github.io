@@ -41,3 +41,23 @@ del tema [cards](https://github.com/sharu725/cards).
   
   El dinero recaudado por este método se reinvierte para traer más
   contenido al blog.
+
+**Entidades colaboradoras**
+
+<div class="row">
+    <div class="col-md-3">
+        <a href="https://www.misifu.es/" target="_blank">
+            <img src="{{site.baseurl}}/images/logo-misifu-juegosdemesa.png"
+            alt="Misifú">
+        </a>
+    </div>
+    <div class="col-md-9">
+        <p><strong>Misifú</strong> es una tienda Malagueña de juegos de mesa,
+            que toma el nombre de la gata del hermano del propietario.
+            Desde Mazmorreo en solitario damos las gracias al equipo de Misifú
+            por colaborar con nosotros.
+        </p>
+        <p>Tenéis un <strong>código descuento del 5%</strong> para las compras
+            que hagáis en Misifú con: <strong>mazmorreo5</strong></p>
+    </div>
+</div>
