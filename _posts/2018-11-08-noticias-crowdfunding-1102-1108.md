@@ -2,7 +2,7 @@
 layout: post
 title: "Noticias - Kickstarters 2/11 - 8/11"
 date:   2018-11-08
-categories: [Noticias, Crowdfunding]
+categories: [Crowdfunding]
 tags: Kickstarter
 img: crowdfunding.png
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/crowdfunding/crowdfunding-18-1102-11-08.jpg
