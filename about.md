@@ -52,7 +52,7 @@ del tema [cards](https://github.com/sharu725/cards).
         </a>
     </div>
     <div class="col-md-9">
-        <p><strong>Misifú</strong> es una tienda Malagueña de juegos de mesa,
+        <p><strong>Misifú</strong> es una tienda malagueña de juegos de mesa,
             que toma el nombre de la gata del hermano del propietario.
             Desde Mazmorreo en solitario damos las gracias al equipo de Misifú
             por colaborar con nosotros.

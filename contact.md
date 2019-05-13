@@ -9,5 +9,8 @@ Si quieres ponerte en contacto con nosotros te animamos a que nos mandes un
  email a:
 ![imagen de email](/images/email.png)
 
-O si lo prefieres, tenemos los mensajes directos abiertos en nuestro Twitter,
-[@mazmorreo](https://twitter.com/mazmorreo).
+O si lo prefieres, tenemos los mensajes directos abiertos en las siguientes
+ redes sociales:
+
+ * Twitter: [@mazmorreo](https://twitter.com/mazmorreo)
+ * Instagram: [@mazmorreo](https://www.instagram.com/mazmorreo/?hl=es)
