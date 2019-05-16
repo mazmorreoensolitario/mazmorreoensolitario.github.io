@@ -53,7 +53,7 @@ Mothership es un juego de rol ambientado en el espacio con toques de terror. La
 *Guía de supervivencia para el jugador* son 44 páginas muy bien organizadas que 
 permiten catapultarte al ambiente más inhóspito del universo: el espacio.
 
-<a href="https://www.drivethrurpg.com/product/245017/Mothership-Players-Survival-Guide"
+<a href="https://www.drivethrurpg.com/product/245017/Mothership-Players-Survival-Guide?affiliate_id=1914894"
 target="_blank">Mothership</a>, que está a *"paga lo que quieras"* en
 DriveThruRPG, captó mi interés gracias a <a
 href="https://www.youtube.com/channel/UCvYwePdbWSEwUa-Pk02u3Zw"
@@ -65,7 +65,7 @@ conocíais, os animo a que echéis un vistazo a sus vídeos.
 Aunque no he podido echar todas las partidas que me hubiese gustado a
 Mothership, las pocas que he jugado me han servido para engancharme
 completamente al universo que han creado sus autores, comprar el módulo de
-aventuras <a href="http://www.tuesdayknightgames.com/dead-planet"
+aventuras <a href="https://www.drivethrurpg.com/product/249108/Mothership-Dead-Planet?affiliate_id=1914894"
 target="_blank">Mothership: Dead Planet</a>, y meterme en el Kickstarter de su 
 siguiente módulo <a
 href="https://www.kickstarter.com/projects/gerdling/a-pound-of-flesh-module-for-mothership-sci-fi-horr?ref=mazmorreoensolitario"
@@ -586,7 +586,7 @@ medicamentos o drogas.
  tiene que  ver con mi forma de jugar. Aunque aprecio una descripción del mundo,
  y en muchos  casos la descripción del mundo es lo que me hace querer jugar al
  juego (véase  <a
- href="http://www.lotfp.com/store/index.php?route=product/product&product_id=262" 
+ href="https://www.drivethrurpg.com/product/209509/Veins-of-the-Earth?affiliate_id=1914894" 
  target="_blank">Veins of the Earth</a> de Lamentations of the Flame Princess),
  en otros ámbitos, como es en Mothership prefiero que quede como incógnita e ir
  descubriendo el mundo con tu propia imaginación y pequeñas pinceladas que
