@@ -54,7 +54,7 @@ en solitario que *igual* aparecen en algún momento en el blog:
 22. Burgle Bros
 21. Apocrypha Adventure Card Game
 20. Pandemic: Fall of Rome
-19. Paper Tales: Beyond the Gates
+19. Reinos de Papel: Más allá de las puertas
 18. Volfyrion
 17. Dungeon Raiders
 16. Discover: lands unknown
