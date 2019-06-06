@@ -41,6 +41,8 @@ montar sus ramos, y al mismo tiempo, dejar claro quién está al mando."
                 <li>Diseñado por Elizabeth Hargrave, modo en solitario por Mike
                 Mullins.</li>
                 <li>Ilustraciones de Beth Sobel.</li>
+                <li>Editado por <a href="https://buttonshygames.com/"
+                target="_blank">Button Shy Games</a>.</li> 
                 <li>Si no sabéis quién es la autora del juego, entonces
                 vivisteis ajenos al <i>revuelo</i> que causó la anterior
                 publicación de la autora, y os envidio.</li>
