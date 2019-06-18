@@ -14,7 +14,7 @@ Como parte de esta celebración me gustaría compartiros 10 recomendaciones,
 tanto juegos de rol completos, como generadores, aventuras...  para usar
 en vuestras partidas de rol. Todas estas recomendaciones están en inglés y
 puede que hayan sido traducidas o no, se escapa de mi conocimiento, todas
-ellas, se pueden conseguir todas de forma gratuita y en algunos casos se
+ellas, se pueden conseguir de forma gratuita y en algunos casos se
 permite pagar algo de forma opcional a los autores, espero que os gusten: 
 
 ### Juegos de rol
