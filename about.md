@@ -57,7 +57,5 @@ del tema [cards](https://github.com/sharu725/cards).
             Desde Mazmorreo en solitario damos las gracias al equipo de Misifú
             por colaborar con nosotros.
         </p>
-        <p>Tenéis un <strong>código descuento del 5%</strong> para las compras
-            que hagáis en Misifú con: <strong>mazmorreo5</strong></p>
     </div>
 </div>

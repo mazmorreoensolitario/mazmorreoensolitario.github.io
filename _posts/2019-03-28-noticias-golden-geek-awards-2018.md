@@ -1544,7 +1544,7 @@ jugarse en solitario.</div>
         <h4>Roll Player: Monsters & Minions</h4>
          <p>La licencia en España del juego base y de la expansión está ya en
          manos de <strong><a
-        href="http://www.genxgames.es/index.php/juegos-es/licencias-es/roll-player">Gex
+        href="http://www.genxgames.es/index.php/juegos-es/licencias-es/roll-player">Gen
             X Games</a></strong>.</p>
         <p>En <strong>Roll Player</strong> teníamos que construir las
             características de nuestro personaje, y en esta expansión
