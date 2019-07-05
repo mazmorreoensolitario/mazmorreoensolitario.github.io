@@ -539,7 +539,8 @@ gusta mucho, no es un juego que esté centrado en las guerras, esto no es
 "Guerras de papel", sino que todo el ecosistema de la ronda gira en torno a el
 concepto de "gestión de tu reino" (como bien dice el título del juego) (creo que
 es la primera "licencia" de traducción Inglés - Español que me parece
-un completo acierto) desde un
+un completo acierto, recordemos que en inglés el juego es *Paper Tales*, algo
+así como "Cuentos de Papel") desde un
 punto de vista de alto nivel. En algunos momentos me gustaría poder hacer zoom
 en alguno de estos aspectos y que el juego tuviera más materia, pero no es el
 objetivo de este juego, para eso hay otros.
