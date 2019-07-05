@@ -145,6 +145,17 @@ preparada</small></p>
   Nosotros elegimos jugar con una, así que colocamos una al azar al lado del
   marcador.
   
+  <p align="center">
+  <a data-flickr-embed="true"
+  href="https://www.flickr.com/photos/165706612@N02/48207638887/in/dateposted-public/"
+  title="00-cartas-poder"><img
+  src="https://live.staticflickr.com/65535/48207638887_5d1131cacb_z.jpg"
+  width="584" height="640" alt="00-cartas-poder"></a><script async
+  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  </p>
+  <p align="center"><small>Las cuatro cartas de habilidades para el Rey
+  Exánime</small></p>
+  
 * Elegimos con qué edificios queremos jugar. Podemos jugar con los cinco
   edificios del juego base (Mina, Templo, Villa, Taberna y Cuartel)  o añadir
   los edificios nuevos que vienen en la expansión (Trastienda, Puerto, Abadía,
@@ -526,8 +537,9 @@ duraderas para tener esa sensación de compromiso con la partida.
 Por otro lado, el juego tiene un poco de todo y la estructura de la ronda me
 gusta mucho, no es un juego que esté centrado en las guerras, esto no es
 "Guerras de papel", sino que todo el ecosistema de la ronda gira en torno a el
-concepto de "gestión de tu reino" (como bien dice el título del juego; creo que
-es la primera  ) desde un
+concepto de "gestión de tu reino" (como bien dice el título del juego) (creo que
+es la primera "licencia" de traducción Inglés - Español que me parece
+un completo acierto) desde un
 punto de vista de alto nivel. En algunos momentos me gustaría poder hacer zoom
 en alguno de estos aspectos y que el juego tuviera más materia, pero no es el
 objetivo de este juego, para eso hay otros.
