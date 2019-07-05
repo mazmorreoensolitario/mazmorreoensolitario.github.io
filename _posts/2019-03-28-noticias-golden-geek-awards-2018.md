@@ -763,7 +763,8 @@ entender, no permite el juego en solitario.</div>
     recursos para construir la infraestructura básica que nos dará más
     recursos. Con esta infraestructura y recursos podremos desarrollar nuestro
     pequeño pueblo hasta convertirlo en una fuerza económica potente. </p>
-         <p>Esperar un análisis de este juego las próximas semanas.</p>
+         <p>Aquí tenéis <strong><a href="{{site.baseurl}}/2019/05/02/analisis-count-of-nine">un
+	 análisis del juego</a></strong>.</p>
     </div>
 </div>
 <br>
