@@ -430,7 +430,8 @@ Desolate es perder, pero disfrutar perdiendo, o ganar por los pelos. Esa es la
 asociación que hago y que hace que me guste el juego.
 
 <img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
-4 de 5 monedas.
+4 de 5 monedas. **¡Este juego es genial! Voy a jugar otra vez ya mismo (mitad
+inferior).**
 
 **Opinión sobre las expansiones.** Creo que Dark Matters 1, la que añade las
 aflicciones, es la que puedo recomendar sin dudas y hace que mi puntuación

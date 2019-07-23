@@ -163,7 +163,7 @@ un Hechizo cualquiera de la Zona de Hechizos y lo descartamos.
 de Aventura, los Héroes, empezando de derecha a izquierda (más viejo a más
 nuevo) empezarán a invadir la mazmorra. Para ello colocaremos a cada Héroe
 en el comienzo del pasillo que tenga más tesoros del tipo que atraen al Héroe,
-siempre empezando por el pasillo más alto. Si no hay tesoros que atraigan al
+vsiempre empezando por el pasillo más alto. Si no hay tesoros que atraigan al
 Héroe, este se queda en espera.
 
 Después, vienen los Hechizos, y en esta fase el orden es inverso. Primero
@@ -210,7 +210,7 @@ Echamos en falta un jugador artificial más avanzado que pueda hacer jugadas
 con algo más de sentido, pero, en resumidas cuentas, es un juego entretenido.
 
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 2 de 5
-monedas.
+monedas. **Es algo entretenido, pero no me engancha.**
 
 <hr>
 [^1]: En las reglas no nos especifica qué hacer cuando tenemos un Hechizo que

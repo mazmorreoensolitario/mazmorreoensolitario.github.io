@@ -24,8 +24,10 @@ intentar que todas cuadren en nuestra ciudad."
         <div class="col-md-6">
         <table class="table table-striped table-hover">
             <tr><td>Fecha de salida:</td><td>2018</td></tr>
-            <tr><td>Precio:</td><td><a href="https://www.pnparcade.com/collections/solo-games/products/spawlopolis">Print & play 3$</a>,
-            <a href="https://buttonshygames.com/products/sprawlopolis-pre-order?variant=9454957527084">edición normal 12$</a></td></tr>
+            <tr><td>Precio:</td><td><a
+    href="https://www.pnparcade.com/collections/solo-games/products/spawlopolis">Print
+    & play 3$</a> (inglés),
+            <a href="https://amzn.to/2GpnD1c">edición normal 14.95€</a>(español)</td></tr>
             <tr><td>Número de jugadores:</td><td>1-4</td></tr>
             <tr><td>Tiempo de juego:</td><td>10-15 mins</td></tr>
             <tr><td>Idioma:</td><td>Castellano / Inglés</td></tr>
@@ -277,5 +279,5 @@ Me gusta mucho que sea tan pequeño, que tenga tantas combinaciones diferentes
 para puntuar y que no necesitemos ningún accesorio más para jugar.
 
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 3 de 5
-monedas.
+monedas. **Me lo paso bien jugando a este juego.**
 

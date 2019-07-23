@@ -282,7 +282,7 @@ para mí.
 
 
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**  1.5 de 5
-monedas.
+monedas. **Creo que prefiero hacer otra cosa.**
 
 <hr>
 

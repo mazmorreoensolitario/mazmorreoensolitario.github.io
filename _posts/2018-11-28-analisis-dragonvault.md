@@ -115,7 +115,8 @@ Asimismo, como el juego depende enteramente del azar nos vemos forzados a estar
 en situaciones complicadas que hagamos lo que hagamos nos harán siempre perder
 puntos, así que en este juego la mentalidad será de minimizar daños.
 
-<img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 2.5 de 5 monedas.
+<img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 2.5 de 5
+monedas. **Es entretenido, pero no me engancha.**
 
 
 

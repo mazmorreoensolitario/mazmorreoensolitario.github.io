@@ -367,6 +367,6 @@ armónico y tiene un gran balance, si no lo habéis imprimido para jugarlo aún,
 este tiene que ser una prioridad en vuestra lista de print & plays.
 
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 3.5 de 5
-monedas.
+monedas. **Me lo paso muy bien jugando a este juego.**
 
 <hr>

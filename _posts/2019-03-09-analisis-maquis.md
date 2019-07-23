@@ -5,6 +5,7 @@ date:   2019-03-09
 categories: [Análisis, Print & play]
 tags: [Maquis, Print & play, Solitaire Print & Play Contest, Golden Geek, Kickstarter]
 img: maquis.jpg
+imghtml: https://cf.geekdo-images.com/imagepage/img/HFn5Fv2UD6hwyzGfvXKn7InXXBE=/fit-in/900x600/filters:no_upscale()/pic3531368.png
 score: 4
 post_desc: "Maquis es un juego de colocación de trabajadores ambientado en la 
 ocupación de Francia por las fuerzas de la Alemania Nazi en la Segunda Guerra 
@@ -17,9 +18,14 @@ la ocupación alemana."
         <h3 class="panel-title">Ficha técnica - Maquis</h3>
     </div>
     <div class="panel-body">
-        <div class="col-md-6 post-img">
+    <div class="col-md-6 post-img">
+     {% if page.imghtml %}
+            <img width="400" src="{{page.imghtml}}"
+                alt="{{page.title}}">
+            {% else %}
             <img width="400" src="{{site.baseurl}}/images/{{page.img}}"
                 alt="{{page.title}}">
+            {% endif %}
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">
@@ -482,7 +488,8 @@ primer turno, y si superas en primer turno, estará siempre al acecho para
 tratar de ganarte. Es el rival perfecto para jugadores en solitario.
 
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 4 de 5
-monedas.
+monedas. **¡Este juego es genial! Voy a jugar otra vez ya mismo (mitad
+inferior).** 
 
 <hr>
 

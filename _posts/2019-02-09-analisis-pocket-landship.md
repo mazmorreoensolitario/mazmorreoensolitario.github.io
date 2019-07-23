@@ -59,6 +59,7 @@ tanques enemigos."
 > **Descarga el print & play:** [Cartas](https://boardgamegeek.com/filepage/145561/pocket-landship-cards-fronts-and-backs-minor-wordi),
 > y [reglas](https://boardgamegeek.com/filepage/145560/pocket-landship-rules-new-clarifications-version-1), ambas en inglés.
 
+> **Campaña de Kickstarter. [Enlace](https://www.kickstarter.com/projects/wordforgegames/pocket-landship)**
 
 ### Información general
 
@@ -268,7 +269,7 @@ ganan algún bono, o algo. Se me ocurren tantas cosas...
 En resumidas cuentas, como os he dicho, soso, pero con mucho potencial.
 
 <img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 2 de 5
-monedas.
+monedas. **Es algo entretenido, pero no me engancha.**
 
 ### Extras
 

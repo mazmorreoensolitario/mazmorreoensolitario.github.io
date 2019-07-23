@@ -375,5 +375,5 @@ pasarías a manejar solamente a Control de Misión; aunque esto nos fastidie Goo
 Little Martian sigue siendo un juego bueno.
 
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 2.5 de 5
-monedas.
+monedas. **Es entretenido, pero no me engancha.**
 

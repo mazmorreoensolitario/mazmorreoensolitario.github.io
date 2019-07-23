@@ -263,7 +263,8 @@ La relación jugabilidad/precio hace de este juego un objeto imprescindible para
 el mazmorreo en solitario. Sin embargo, si no nos gusta dejar las decisiones
 importantes al azar no es un juego que os recomendemos.
 
-<img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 3.5 de 5 monedas.
+<img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 3.5 de 5
+monedas. **Me lo paso muy bien jugando a este juego.**
 
 ### Extras
 

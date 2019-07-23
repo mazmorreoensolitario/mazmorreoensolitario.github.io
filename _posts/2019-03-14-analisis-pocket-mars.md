@@ -472,7 +472,8 @@ En definitiva, es un juego en solitario muy recomendable y por ese precio
 deberían quitárselos de las manos a los tenderos.
 
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 4 de 5
-monedas.
+monedas. **¡Este juego es genial! Voy a jugar otra vez ya mismo (mitad
+inferior).**
 
 <hr>
 

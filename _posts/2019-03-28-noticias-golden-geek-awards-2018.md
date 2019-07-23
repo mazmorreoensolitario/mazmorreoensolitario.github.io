@@ -156,7 +156,7 @@ ganador y los subcampeones.
     <div class="col-md-9">
         <h4>Detective: Un juego de investigación moderno</h4>
          <p><strong><a target="_blank"
-             href="https://www.malditogames.com/juegos/detective-juego?ref=mazmorreoensolitario">Maldito
+             href="https://amzn.to/2LznNXK">Maldito
              Games</a></strong> traerá este juego con una fecha prevista de
          <strong>28 de Marzo</strong>.</p>
          <p>En <strong>Detective</strong> tomamos el rol de un detective en un contexto moderno
@@ -205,7 +205,7 @@ ganador y los subcampeones.
     <div class="col-md-9">
         <h4>Gùgōng</h4>
          <p><strong><a target="_blank"
-             href="https://www.lastlevel.es/distribucion/ggng-spanish-p-57455.html?mazmorreoensolitario">Last
+             href="https://amzn.to/2JXwacn">Last
              Level</a></strong> traerá este juego en español con una fecha prevista de <strong>30
              de Abril</strong>.</p>
          <p>En este juego viajamos a la antigua China durante el reinado del
@@ -273,7 +273,7 @@ ganador y los subcampeones.
     <div class="col-md-9">
         <h4>Teotihuacán: Ciudad de Dioses</h4>
          <p><strong><a
-         href="https://www.malditogames.com/juegos/teotihuacan-juego/?ref=mazmorreoensolitario">Maldito
+         href="https://amzn.to/2LCmJCm">Maldito
      Games</a></strong> ya ha sacado este juego en España.</p>
          <p>En <strong>Teotihuacan</strong> buscamos el favor de los dioses para la gloria de
     nuestra familia ayudando a construir la Pirámide del Sol de la ciudad de 
@@ -345,7 +345,7 @@ ganador y los subcampeones.
     </div>
     <div class="col-md-9">
         <h4>Welcome Hacia el Perfecto Hogar</h4>
-         <p><strong><a href="https://amzn.to/2HEq9mp" target="_blank">SD Games</a></strong> nos 
+<p><strong><a href="https://amzn.to/2LDUp2L" target="_blank">SD Games</a></strong> nos 
          ha traído ya este juego.</p>
         <p><strong>Welcome hacia el Perfecto Hogar</strong> es un roll & write (sin dados) que
         nos convierte en arquitectos en los años 50 en EEUU. Tendremos que usar
@@ -432,7 +432,7 @@ entender, no permite el juego en solitario.</div>
     <div class="col-md-9">
         <h4>Expansiópolis</h4>
          <p><strong><a
-             href="https://saltandpeppergames.es?ref=mazmorreoensolitario">Salt
+             href="https://amzn.to/30VCWqb">Salt
              and Pepper Games</a></strong> dio la <a
              href="https://twitter.com/SaltPeppergames/status/1108656924583698433"
              target="_blank">noticia</a>
@@ -792,7 +792,9 @@ entender, no permite el juego en solitario.</div>
              tendremos que colocar cartas, que representan seis árboles
              frutales, de forma que el mayor número de árboles del mismo tipo
              se superpongan.</p>
-         <p>Esperar un análisis de este juego las próximas semanas.</p>
+         <p>Aquí tenéis el <strong><a
+    href="{{site.baseurl}}/2019/07/23/analisis-orchard/">análisis del
+    juego</a></strong>.</p> 
     </div>
 </div>
 <br>
@@ -1038,7 +1040,7 @@ mi mejor entender, no permite el juego en solitario.</div>
     </div>
     <div class="col-md-9">
         <h4>Newton</h4>
-         <p><strong><a target="_blank" href="http://www.masqueoca.es/edicionesmasqueoca/">Ediciones Mas
+         <p><strong><a target="_blank" href="https://amzn.to/2LzAJNz">Ediciones Mas
              Que Oca</a></strong> ha traído este juego en español.
          </p>
          <p>En <strong>Newton</strong> estamos en pleno siglo XVII, donde
@@ -1543,7 +1545,7 @@ jugarse en solitario.</div>
     </div>
     <div class="col-md-9">
         <h4>Roll Player: Monsters & Minions</h4>
-         <p>La licencia en España del juego base y de la expansión está ya en
+         <p>La licencia en España del <a href="https://amzn.to/2Y8Lt7m">juego base</a> y de la expansión está ya en
          manos de <strong><a
         href="http://www.genxgames.es/index.php/juegos-es/licencias-es/roll-player">Gen
             X Games</a></strong>.</p>

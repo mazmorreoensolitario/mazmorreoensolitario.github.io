@@ -357,7 +357,7 @@ Cubos está acechando en todo momento.
 
 
 <img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 3.5 de 5
-monedas.
+monedas. **Me lo paso muy bien jugando a este juego.**
 
 ### Extras
 

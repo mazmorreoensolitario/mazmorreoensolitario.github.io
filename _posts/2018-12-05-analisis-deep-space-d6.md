@@ -251,7 +251,7 @@ tirando
 hasta el final del juego.
 
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 3 de 5
-monedas.
+monedas. **Me lo paso bien jugando a este juego.**
 
 
 
