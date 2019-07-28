@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: Set a Watch"
-tag: "Set a Watch"
+title: "Etiqueta: Set A Watch"
+tag: "Set A Watch"
 ---

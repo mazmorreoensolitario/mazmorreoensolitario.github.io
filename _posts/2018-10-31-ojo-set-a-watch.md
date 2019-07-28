@@ -3,7 +3,7 @@ layout: post
 title: "Ojeando - Set a Watch"
 date:   2018-10-31
 categories: Ojeando
-tags: [Set a Watch, Kickstarter, Tabletopia]
+tags: [Set A Watch, Kickstarter, Tabletopia]
 img: set-a-watch.png
 post_desc: "En Set a Watch el juego consiste en visitar nueve localizaciones en las cuales
 tendremos que derrotar a los seguidores de los Unhallowed, para evitar que
