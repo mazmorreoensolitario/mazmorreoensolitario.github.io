@@ -4,7 +4,7 @@ title: "Análisis - The Land of Enin"
 date:   2019-01-20
 categories: [Análisis, Print & play]
 tags: [The Land of Enin, Print & play]
-img: the-land-of-enin.jpg
+imghtml: https://cf.geekdo-images.com/imagepage/img/1rzGCE_AAJpJqLj542GH4eap5y0=/fit-in/900x600/filters:no_upscale()/pic1263766.jpg
 score: 3
 post_desc: "Land of Enin es un pequeño juego de aventuras en el que
 recorreremos las tierras de Enin haciendo una serie de misiones con el objetivo
@@ -17,8 +17,13 @@ final de encontrar el Libro Perdido de Magia."
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
+            {% if page.imghtml %}
+            <img width="400" src="{{page.imghtml}}"
+                alt="{{page.title}}">
+            {% else %}
             <img width="400" src="{{site.baseurl}}/images/{{page.img}}"
                 alt="{{page.title}}">
+            {% endif %}
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">

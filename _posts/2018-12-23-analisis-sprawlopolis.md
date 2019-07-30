@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Análisis - Sprawlopolis"
+title: "Análisis - Expansiópolis / Sprawlopolis"
 date:   2018-12-23
 categories: [Análisis, Print & play]
 tags: [Sprawlopolis, Expansiópolis, Print & play]
-img: sprawlopolis.png
+imghtml: https://cf.geekdo-images.com/imagepage/img/zVdTWmP8omIsSaNHgz3pvMrKzDw=/fit-in/900x600/filters:no_upscale()/pic4654146.png
 score: 3
 post_desc: "En este juego de cartas tomamos el papel de planificadores urbanos para
 desarrollar la ciudad definitiva: Sprawlopolis, pero nuestra tarea no será
@@ -14,12 +14,17 @@ intentar que todas cuadren en nuestra ciudad."
 
 <div class="panel panel-primary">
     <div class="panel-heading">
-        <h3 class="panel-title">Ficha técnica - Sprawlopolis</h3>
+        <h3 class="panel-title">Ficha técnica - Expansiópolis / Sprawlopolis</h3>
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
+            {% if page.imghtml %}
+            <img width="400" src="{{page.imghtml}}"
+                alt="{{page.title}}">
+            {% else %}
             <img width="400" src="{{site.baseurl}}/images/{{page.img}}"
                 alt="{{page.title}}">
+            {% endif %}
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">
@@ -51,7 +56,7 @@ intentar que todas cuadren en nuestra ciudad."
              <li>
                  Diseñado por Steven Aramini, Danny Devine y Paul Kluka, el
                  arte ha sido creado por Danny Devine.</li>
-         </ul>
+             </ul>
          </div>
     </div>
 </div>

@@ -4,7 +4,7 @@ title: "Análisis - Deep Space D-6"
 date:   2018-12-05
 categories: [Análisis, Print & play]
 tags: [Deep Space-D6, Print & play, Solitaire Print & Play Contest]
-img: deep-space-d6.jpg
+imghtml: https://cf.geekdo-images.com/imagepage/img/TSUdiOQ5lqU4UF1Em-6Zd_14-1c=/fit-in/900x600/filters:no_upscale()/pic2937444.jpg
 score: 3
 post_desc: "Dirigimos la nave espacial USS Crypsis, una nave estelar de clase
 RPTR de patrulla rutinaria por el sistema Auborne. Recibimos una señal de
@@ -18,8 +18,13 @@ que hemos caído en una trampa."
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
+        {% if page.imghtml %}
+            <img width="400" src="{{page.imghtml}}"
+                alt="{{page.title}}">
+            {% else %}
             <img width="400" src="{{site.baseurl}}/images/{{page.img}}"
                 alt="{{page.title}}">
+            {% endif %}
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">

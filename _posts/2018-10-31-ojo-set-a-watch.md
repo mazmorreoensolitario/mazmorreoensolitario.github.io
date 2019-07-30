@@ -4,7 +4,7 @@ title: "Ojeando - Set a Watch"
 date:   2018-10-31
 categories: Ojeando
 tags: [Set A Watch, Kickstarter, Tabletopia]
-img: set-a-watch.png
+imghtml: https://cf.geekdo-images.com/imagepage/img/8pWwroLvn2DQWxtoMgIqqTQxN7Q=/fit-in/900x600/filters:no_upscale()/pic4842275.png
 post_desc: "En Set a Watch el juego consiste en visitar nueve localizaciones en las cuales
 tendremos que derrotar a los seguidores de los Unhallowed, para evitar que
 estos puedan romper los sellos que mantienen a los Unhallowed prisioneros y así
@@ -17,8 +17,13 @@ no puedan sumir el mundo en la oscuridad"
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
+            {% if page.imghtml %}
+            <img width="400" src="{{page.imghtml}}"
+                alt="{{page.title}}">
+            {% else %}
             <img width="400" src="{{site.baseurl}}/images/{{page.img}}"
                 alt="{{page.title}}">
+            {% endif %}
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">

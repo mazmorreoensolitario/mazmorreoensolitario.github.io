@@ -4,7 +4,7 @@ title: "Reseña - Modo campaña de One Deck Dungeon: Forest of Shadows"
 date:   2019-02-16
 categories: Reseña
 tags: [Campaña, Expansión, One Deck Dungeon, "One Deck Dungeon: Forest of Shadows", Golden Geek]
-img: one-deck-dungeon.jpg
+imghtml: https://cf.geekdo-images.com/imagepage/img/KPfINXOetkASZLZMsnj_L6EUHPs=/fit-in/900x600/filters:no_upscale()/pic3496794.jpg
 ---
 
 Hace unos meses os traíamos el [análisis de One Deck Dungeon: Forest of

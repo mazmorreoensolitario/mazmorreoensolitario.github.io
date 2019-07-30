@@ -4,7 +4,7 @@ title: "Análisis - Micro City"
 date:   2019-01-26
 categories: [Análisis, Print & play]
 tags: [Micro City, Print & play]
-img: micro-city.jpg
+imghtml: https://cf.geekdo-images.com/imagepage/img/N6g0HWdISaYI2hmCYN5UX1BulhM=/fit-in/900x600/filters:no_upscale()/pic4192652.jpg
 score: 2
 post_desc: "En Micro City somos un pequeño ingeniero al que nos han encargado la
 construcción de ciertos edificios, con este fin tendremos que producir
@@ -18,8 +18,13 @@ el tiempo."
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
+        {% if page.imghtml %}
+            <img width="400" src="{{page.imghtml}}"
+                alt="{{page.title}}">
+            {% else %}
             <img width="400" src="{{site.baseurl}}/images/{{page.img}}"
                 alt="{{page.title}}">
+            {% endif %}
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">

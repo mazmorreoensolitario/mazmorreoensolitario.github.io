@@ -4,7 +4,7 @@ title: "Análisis - Farmers Finances"
 date:   2019-03-01
 categories: [Análisis, Print & play]
 tags: [Farmers Finances, Print & play, 9 Card Game Print & Play Design Contest]
-img: farmers-finances.png
+imghtml: https://cf.geekdo-images.com/imagepage/img/SwmXxlyNgeqtXkOOtIl5qK9xDnA=/fit-in/900x600/filters:no_upscale()/pic3042279.png
 score: 1.5
 post_desc: "En Farmers Finances trabajamos en una granja criando vacas y 
 sembrando trigo, para después vender los animales, el trigo o sus productos
@@ -19,8 +19,13 @@ comprar y vender estos bienes en un mercado muy oscilante."
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
+        {% if page.imghtml %}
+            <img width="400" src="{{page.imghtml}}"
+                alt="{{page.title}}">
+            {% else %}
             <img width="400" src="{{site.baseurl}}/images/{{page.img}}"
                 alt="{{page.title}}">
+            {% endif %}
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">

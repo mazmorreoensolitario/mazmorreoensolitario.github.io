@@ -4,7 +4,7 @@ title: "Análisis - Good Little Martian"
 date:   2018-12-26
 categories: [Análisis, Print & play]
 tags: [Good Little Martian, Print & play]
-img: good-little-martian.png
+imghtml: https://cf.geekdo-images.com/imagepage/img/G0fg0f0V8tcemcenK-WrtvWKFXg=/fit-in/900x600/filters:no_upscale()/pic3555101.png
 score: 2.5
 post_desc: "Good Little Martian es un
 juego de supervivencia interplanetaria en el que tomamos dos papeles, el de un
@@ -21,8 +21,13 @@ recursos a Marte.."
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
+            {% if page.imghtml %}
+            <img width="400" src="{{page.imghtml}}"
+                alt="{{page.title}}">
+            {% else %}
             <img width="400" src="{{site.baseurl}}/images/{{page.img}}"
                 alt="{{page.title}}">
+            {% endif %}
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">

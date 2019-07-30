@@ -4,7 +4,7 @@ title: "Análisis - Legends of Dsyx: Dragonvault"
 date:   2018-11-28
 categories: [Análisis, Print & play]
 tags: [Legends of Dsyx, "Legends of Dsyx: Dragonvault", Print & play]
-img: legends-of-dsyx-dragonvault.png
+imghtml: https://cf.geekdo-images.com/imagepage/img/pPTGhZ6XSRsGYZA10JjZovRFILw=/fit-in/900x600/filters:no_upscale()/pic4351803.png
 score: 2.5
 post_desc: "Legends of Dsyx: Dragonvault es un
 print and play, concretamente del género roll and write, en el que controlamos
@@ -19,8 +19,13 @@ de nuestra cámara acorazada."
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
+        {% if page.imghtml %}
+            <img width="400" src="{{page.imghtml}}"
+                alt="{{page.title}}">
+            {% else %}
             <img width="400" src="{{site.baseurl}}/images/{{page.img}}"
                 alt="{{page.title}}">
+            {% endif %}
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">
