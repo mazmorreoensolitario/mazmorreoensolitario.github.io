@@ -8,7 +8,7 @@ imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/ma
 ---
 
 Recientemente en Instagram hubo un pequeño "movimiento" de subir durante diez 
-días fotos de diez juegos de mesa, sin ningún tipo de comentario o explicación;
+días fotos de diez juegos de mesa, sin ningún tipo de comentario o explicación; 
 en esta entrada quería comentar lo que no pude en esas publicaciones:
 
 ### Día 1: Ardennes'44

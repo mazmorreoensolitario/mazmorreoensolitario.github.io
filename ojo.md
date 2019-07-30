@@ -41,11 +41,17 @@ que puede ser un buen juego, además de nuestras expectativas.
 Esta es una lista (en orden de: "según me vaya acordando") de diversos juegos
 en solitario que *igual* aparecen en algún momento en el blog:
 
+39. Dawn of the Zeds
+38. Red Winter
+37. The 7th Continent
+36. Nemo's War
+35. Arquitectos del Reino del Oeste
+34. Tenkatoitsu
+33. D-Day at Omaha Beach
 32. Normandy '44
 31. Root
 30. No Retreat!
 29. Spirit Island
-28. Unbroken
 27. Legends Untold
 26. The City of Kings
 25. Onirim
