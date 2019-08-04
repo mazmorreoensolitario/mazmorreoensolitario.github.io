@@ -426,7 +426,7 @@ entender, no permite el juego en solitario.</div>
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
-            src="{{site.baseurl}}/images/sprawlopolis.png"
+            src="https://cf.geekdo-images.com/imagepage/img/zVdTWmP8omIsSaNHgz3pvMrKzDw=/fit-in/900x600/filters:no_upscale()/pic4654146.png"
         class="img-thumbnail" alt="Sprawlopolis">
     </div>
     <div class="col-md-9">
@@ -904,7 +904,7 @@ entender, no permite el juego en solitario.</div>
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
-            src="{{site.baseurl}}/images/sprawlopolis.png"
+            src="https://cf.geekdo-images.com/imagepage/img/zVdTWmP8omIsSaNHgz3pvMrKzDw=/fit-in/900x600/filters:no_upscale()/pic4654146.png"
         class="img-thumbnail" alt="Sprawlopolis">
     </div>
     <div class="col-md-9">
