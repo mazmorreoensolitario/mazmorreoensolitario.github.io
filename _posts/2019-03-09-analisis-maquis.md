@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Maquis"
 date:   2019-03-09
 categories: [Análisis, Print & play]
-tags: [Maquis, Print & play, Solitaire Print & Play Contest, Golden Geek, Kickstarter]
+tags: [Maquis, Print & play, Solitaire Print & Play Design Contest, Golden Geek, Kickstarter]
 img: maquis.jpg
 imghtml: https://cf.geekdo-images.com/imagepage/img/HFn5Fv2UD6hwyzGfvXKn7InXXBE=/fit-in/900x600/filters:no_upscale()/pic3531368.png
 score: 4
