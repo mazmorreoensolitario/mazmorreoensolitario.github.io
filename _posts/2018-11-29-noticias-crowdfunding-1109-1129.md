@@ -9,7 +9,7 @@ imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/ma
 ---
 
 
-Hemos estado recopilando kickstarters las tres últimas semanas para traeros
+Hemos estado recopilando kickstarters las tres últimas semanas para traeros 
 los más interesantes, animaros a echar un vistazo:
 
 <div class="row">
