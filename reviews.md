@@ -4,12 +4,15 @@ title: Análisis y reseñas
 permalink: /analisis/
 ---
 
+En las **reseñas** (*narración sucinta (breve)* según la RAE) os vais a
+encontrar con información específica acerca de algún aspecto de un juego.
+
 En los **análisis** vais a poder encontrar información objetiva del juego: de
 qué va, cómo se prepara una partida, cuáles son las reglas, ejemplos
 de juego, además de nuestra opinión subjetiva y una pequeña puntuación en
  *Monedas de Mazmorreo*.
 
-Las Monedas de Mazmorreo son un recurso que representa la inversión de
+Las **Monedas de Mazmorreo** son un recurso que representa la inversión de
 tiempo VS ganas-de-jugar/satisfacción/buen-rollismo que me aporta un
 juego. Básicamente, indica si el tiempo que invertimos en un juego merece la
 pena, porque nos hace vivir una experiencia buena o no.
@@ -20,87 +23,6 @@ La escala es la siguiente:
 * 3 monedas - me lo paso muy bien jugando a este juego
 * 4 monedas - ¡este juego es genial! Voy a jugar otra vez ya mismo
 * 5 monedas - ES IDEAL
-
-**Por favor, lee abajo con más detalle qué significa para mí exactamente cada
-cantidad de monedas.**
-
-En las **reseñas** os vais a encontrar con información acerca de algunos
-aspectos de un juego de los que hay que hablar a parte.
-
- <img width="50" src="{{site.baseurl}}/favicon.ico"><img width="50"
- src="{{site.baseurl}}/favicon.ico"><img width="50"
- src="{{site.baseurl}}/favicon.ico"><img width="50"
- src="{{site.baseurl}}/favicon.ico"><img width="50" src="{{site.baseurl}}/favicon.ico">
-
-Aquí tenéis una lista de los análisis y reseñas más recientes:
-
-{% for category in site.categories %}
-{% if category[0] == "Reseña" or category[0] == "Análisis" %}
-<ul>
-{% for post in category[1] %}
-<li>
-    {% assign m = post.date | date: "%-m" %}
-    {{ post.date | date: "%-d" }}
-    {% case m %}
-    {% when '1' %}Ene,
-    {% when '2' %}Feb,
-    {% when '3' %}Mar,
-    {% when '4' %}Abr,
-    {% when '5' %}May,
-    {% when '6' %}Jun,
-    {% when '7' %}Jul,
-    {% when '8' %}Ago,
-    {% when '9' %}Sep,
-    {% when '10' %}Oct,
-    {% when '11' %}Nov,
-    {% when '12' %}Dic,
-    {% endcase %}
-    {{ post.date | date: "%Y"}}. <a href="{{ post.url }}">{{ post.title }}.</a>
-</li>
-{% endfor %}
-</ul>
-{% endif %}
-{% endfor %}
-
-y algunas primeras impresiones de juegos (que eventualmente tendrán un
-análisis):
-
-{% for category in site.categories %}
-{% if category[0] == "Primeras impresiones" %}
-<ul>
-{% for post in category[1] %}
-<li>
-    {% assign m = post.date | date: "%-m" %}
-    {{ post.date | date: "%-d" }}
-    {% case m %}
-    {% when '1' %}Ene,
-    {% when '2' %}Feb,
-    {% when '3' %}Mar,
-    {% when '4' %}Abr,
-    {% when '5' %}May,
-    {% when '6' %}Jun,
-    {% when '7' %}Jul,
-    {% when '8' %}Ago,
-    {% when '9' %}Sep,
-    {% when '10' %}Oct,
-    {% when '11' %}Nov,
-    {% when '12' %}Dic,
-    {% endcase %}
-    {{ post.date | date: "%Y"}}. <a href="{{ post.url }}">{{ post.title }}.</a>
-</li>
-{% endfor %}
-</ul>
-{% endif %}
-{% endfor %}
-
- <img width="50" src="{{site.baseurl}}/favicon.ico"><img width="50"
- src="{{site.baseurl}}/favicon.ico"><img width="50"
- src="{{site.baseurl}}/favicon.ico"><img width="50"
- src="{{site.baseurl}}/favicon.ico"><img width="50" src="{{site.baseurl}}/favicon.ico">
-
-Para poder localizar cuántas Monedas de Mazmorreo he dado a cada juego, además
-de una descripción detallada de qué significa que un juego esté en una
-categoría u otra, podéis utilizar esta lista:
 
 ### 5 monedas
 **ES IDEAL.** Si no sabes a qué jugar, **debes** empezar por estos. **Son juegos
@@ -253,3 +175,69 @@ y darme cuenta antes de jugarlo que no es lo mio.
 </ul>
 {% endif %}
 {% endfor %}
+
+
+<hr>
+
+Aquí tenéis una lista de primeras impresiones de juegos, que eventualmente
+tendrán un análisis del mismo:
+
+{% for category in site.categories %}
+{% if category[0] == "Primeras impresiones" %}
+<ul>
+{% for post in category[1] %}
+<li>
+    {% assign m = post.date | date: "%-m" %}
+    {{ post.date | date: "%-d" }}
+    {% case m %}
+    {% when '1' %}Ene,
+    {% when '2' %}Feb,
+    {% when '3' %}Mar,
+    {% when '4' %}Abr,
+    {% when '5' %}May,
+    {% when '6' %}Jun,
+    {% when '7' %}Jul,
+    {% when '8' %}Ago,
+    {% when '9' %}Sep,
+    {% when '10' %}Oct,
+    {% when '11' %}Nov,
+    {% when '12' %}Dic,
+    {% endcase %}
+    {{ post.date | date: "%Y"}}. <a href="{{ post.url }}">{{ post.title }}.</a>
+</li>
+{% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+
+Aquí tenéis una lista de los análisis y reseñas más recientes:
+
+{% for category in site.categories %}
+{% if category[0] == "Reseña" or category[0] == "Análisis" %}
+<ul>
+{% for post in category[1] %}
+<li>
+    {% assign m = post.date | date: "%-m" %}
+    {{ post.date | date: "%-d" }}
+    {% case m %}
+    {% when '1' %}Ene,
+    {% when '2' %}Feb,
+    {% when '3' %}Mar,
+    {% when '4' %}Abr,
+    {% when '5' %}May,
+    {% when '6' %}Jun,
+    {% when '7' %}Jul,
+    {% when '8' %}Ago,
+    {% when '9' %}Sep,
+    {% when '10' %}Oct,
+    {% when '11' %}Nov,
+    {% when '12' %}Dic,
+    {% endcase %}
+    {{ post.date | date: "%Y"}}. <a href="{{ post.url }}">{{ post.title }}.</a>
+</li>
+{% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+
+

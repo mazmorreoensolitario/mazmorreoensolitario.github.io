@@ -42,7 +42,7 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
             href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
         {% else %}
             {% if tag[0] == "Campaña" or tag[0] == "Expansión" or
-            tag[0] == "Kickstarter" or tag[0] == "Print & Play" or
+            tag[0] == "Kickstarter" or tag[0] == "Print & play" or
             tag[0] == "Tabletopia" or tag[0] == "Tops" or
             tag[0] == "Verkami" %}
                 <span class="label label-warning">#<a class="tag-color"

@@ -1,13 +1,13 @@
-<div class="col-md-4 mt10">
+<!--<div class="col-md-4 mt10">
   <div class="post-img">
     <img width="300"
          src="{{site.baseurl}}/images/logo.png"
          alt="Mazmorreo en solitario">
   </div>
-</div>
+</div>--->
 <div class="col-md-4 mt20">
   <div class="mt10 recent">
-    <h2>Artículos recientes</h2>
+    <h4>Artículos recientes</h4>
     <ul>
       {% for post in site.related_posts limit:5 %}
       <li>
@@ -40,8 +40,31 @@
       {% endfor %}
     </ul>
   </div>
+  <div clas="mt10">
+    <h4>Etiquetas más populares</h4>
+    <p class="text-left">
+      {% assign sorted_tags = site.tags | sort %}
+      {% for tag in site.tags %}
+      {% if tag[0] == "Expansiópolis"
+      or tag[0] == "Root: Expansión Los Ribereños"
+      or tag[0] == "Root: Riverfolk"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Mothership" or tag[0] == "Pavlov's House"
+      or tag[0] == "Land 6" or tag[0] == "Micro City" or tag[0] == "Nemesis"
+      or tag[0] == "1066 Tears To Many Mothers"
+      or tag[0] == "Anachrony" or tag[0] == "Detective" or tag[0] == "Everdell"
+      or tag[0] == "Gladiator Gauntlet" or tag[0] == "One Deck Dungeon"
+      or tag[0] == "Print & play" or tag[0] == "Star Realms: Frontiers"
+      or tag[0] == "Star Realms" or tag[0] == "Thunderstone Quest"
+      or tag[0] == "Verkami" %}
+        <span class="label label-danger">#<a class="tag-color"
+        href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
+      {% endif %}
+      {% endfor %}
+    </p>
+  </div>
   <div class="mt10">
-    <h2>Entidades colaboradoras</h2>
+    <h4>Entidades colaboradoras</h4>
     <div class="row">
       <div class="col-md-6">
         <a href="https://www.misifu.es/" target="_blank">
