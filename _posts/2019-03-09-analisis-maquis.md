@@ -58,7 +58,7 @@ la ocupación alemana."
              <li>Para editar Maquis <a
                  href="https://www.facebook.com/sideroomgames/photos/a.532620713775126/787994448237750/?type=3&permPage=1">se ha
                  anunciado</a> una <strong>campaña de Kickstarter
-                 para el 8 de Abril</strong>.
+                 para el 8 de abril</strong>.
              </li>
          </ul>
          </div>
@@ -75,7 +75,7 @@ la ocupación alemana."
 > español](https://boardgamegeek.com/filepage/104955/rules-spanish) (traducido
 > por fans).
 
-> **Campaña de Kickstarter el 8 de Abril. [Link a la campaña.](https://www.kickstarter.com/projects/771559871/maquis?ref=mazmorreoensolitario)**
+> **Campaña de Kickstarter el 8 de abril. [Link a la campaña.](https://www.kickstarter.com/projects/771559871/maquis?ref=mazmorreoensolitario)**
 
 En la lista de ficheros de la Board Game Geek del juego podéis observar que
 originalmente las ilustraciones también estaban hechas por Jake Staines;

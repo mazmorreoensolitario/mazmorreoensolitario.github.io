@@ -64,6 +64,8 @@ serie de árboles frutales y queremos cosechar el mayor número de frutas posibl
 > inglés). 
 > Traduciremos el manual próximamente.
 
+> **Campaña de Kickstarter el 3 de septiembre.** **[Link a la campaña.](https://www.kickstarter.com/projects/771559871/orchard?ref=mazmorreoensolitario)**
+
 Este juego aparecía por primera vez en la lista de la <a
 href="{{site.baseurl}}/2019/03/28/noticias-golden-geek-awards-2018/"
 target="_blank">Guía de juegos en solitario</a> de las nominaciones y premios
