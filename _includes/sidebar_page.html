@@ -43,31 +43,29 @@
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
       {% for tag in site.tags %}
-      {% if tag[0] == "Expansiópolis"
-      or tag[0] == "Root: Expansión Los Ribereños"
-      or tag[0] == "Root: Riverfolk"
+      {% if tag[0] == "Print & play"
       or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Root: Expansión Los Ribereños"
+      or tag[0] == "Expansiópolis"
       or tag[0] == "Gladiator Gauntlet"
-      or tag[0] == "Mothership"
       or tag[0] == "Pavlov's House"
-      or tag[0] == "Print & play"
       or tag[0] == "Arquitectos del Reino del Oeste"
       or tag[0] == "Kickstarter"
       or tag[0] == "Land 6"
       or tag[0] == "Micro City"
+      or tag[0] == "Mothership: Dead Planet"
       or tag[0] == "Nemesis"
-      or tag[0] == "One Deck Dungeon"
+      or tag[0] == "One Page Dungeon"
       or tag[0] == "Pandemic: La caída de Roma"
-      or tag[0] == "1066 Tears To Many Mothers"
-      or tag[0] == "Anachrony"
+      or tag[0] == "Root: Riverfolk"
       or tag[0] == "Detective"
       or tag[0] == "ENnie"
-      or tag[0] == "Everdell"
       or tag[0] == "Golden Geek"
-      or tag[0] == "Mothership: Dead Planet"
-      or tag[0] == "Scythe: El Auge de Fenris"
-      or tag[0] == "Star Realms: Frontiers"
-      or tag[0] == "Star Realms" %}
+      or tag[0] == "Gugong"
+      or tag[0] == "Legends Untold"
+      or tag[0] == "One Deck Dungeon"
+      or tag[0] == "OSR"
+      or tag[0] == "Scythe: El Auge de Fenris" %}
 <span class="label label-danger">#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
       {% endif %}
