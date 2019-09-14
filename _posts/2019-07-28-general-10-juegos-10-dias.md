@@ -107,7 +107,7 @@ src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <p align="center"><small></small></p>
 
 ¡POR FIN ME HE COMPRADO ESTE JUEGO! [Lo estaba
-deseando](https://mazmorreoensolitario.github.io/2018/12/27/general-juegos-que-no-jugamos-en-2018/)
+deseando]({{site.baseurl}}/2018/12/27/general-juegos-que-no-jugamos-en-2018/)
 desde que salió allá por el 2018, y la verdad es que de momento está cumpliendo
 mis expectativas y aún así me ha sorprendido en algún aspecto. También he de
 decir que odio con todas mis fuerzas que use una caja tan inmensa. Yo tengo la
