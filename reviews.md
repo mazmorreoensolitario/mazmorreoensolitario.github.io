@@ -42,12 +42,11 @@ ideales que te puedo recomendar sin ninguna duda.**
 *(actualmente me encuentro en búsqueda del juego ideal, no sé aún si existe)*
 
 ### 4.5 monedas
-**¡Este juego es genial! Voy a jugar otra vez ya mismo (mitad superior).**
-Juegos geniales, de los que quieres volver a jugar cuando has terminado la
+**Fantástico.**
+Juegos fantásticos, de los que quieres volver a jugar cuando has terminado la
 partida, y si no puedes volver a jugar acto seguido, es por Una Causa
 Mayor. **También te los recomiendo sin dudas.**
 
-*(estos juegos existen, pero aún no os he hablado de ellos)*
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
 <ul>
@@ -61,7 +60,7 @@ Mayor. **También te los recomiendo sin dudas.**
 {% endfor %}
 
 ### 4 monedas
-**¡Este juego es genial! Voy a jugar otra vez ya mismo (mitad inferior).**
+**¡Este juego es genial! Voy a jugar otra vez ya mismo.**
 Juegos muy muy buenos, también quiero jugar otra vez según he terminado la
 partida, pero a lo mejor no en el mismo día. **Recomendados.**
 {% for category in site.categories %}
