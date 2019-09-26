@@ -10,7 +10,7 @@ encontrar con información específica acerca de algún aspecto de un juego.
 En los **análisis** vais a poder encontrar información objetiva del juego: de
 qué va, cómo se prepara una partida, cuáles son las reglas, ejemplos
 de juego, además de nuestra opinión subjetiva y una pequeña puntuación en
- *Monedas de Mazmorreo*.
+ **Monedas de Mazmorreo**.
 
 Las **Monedas de Mazmorreo** son un recurso que representa la inversión de
 tiempo VS ganas-de-jugar/satisfacción/buen-rollismo que me aporta un
@@ -25,8 +25,8 @@ La escala es la siguiente:
 * 5 monedas - ES IDEAL
 
 ### 5 monedas
-**ES IDEAL.** Si no sabes a qué jugar, **debes** empezar por estos. **Son juegos
-ideales que te puedo recomendar sin ninguna duda.**
+**ES IDEAL.** Si no sabes a qué jugar, **debes** empezar por estos. **Son
+juegos ideales que te puedo recomendar sin ninguna duda.**
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
 <ul>
@@ -45,7 +45,7 @@ ideales que te puedo recomendar sin ninguna duda.**
 **Fantástico.**
 Juegos fantásticos, de los que quieres volver a jugar cuando has terminado la
 partida, y si no puedes volver a jugar acto seguido, es por Una Causa
-Mayor. **También te los recomiendo sin dudas.**
+Mayor. También **te los recomiendo sin dudas.**
 
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
@@ -178,7 +178,7 @@ y darme cuenta antes de jugarlo que no es lo mio.
 
 <hr>
 
-Aquí tenéis una lista de primeras impresiones de juegos, que eventualmente
+Aquí tenéis una lista de **primeras impresiones** de juegos, que eventualmente
 tendrán un análisis del mismo:
 
 {% for category in site.categories %}
@@ -209,7 +209,7 @@ tendrán un análisis del mismo:
 {% endif %}
 {% endfor %}
 
-Aquí tenéis una lista de los análisis y reseñas más recientes:
+Aquí tenéis una lista de los **análisis y reseñas** más recientes:
 
 {% for category in site.categories %}
 {% if category[0] == "Reseña" or category[0] == "Análisis" %}

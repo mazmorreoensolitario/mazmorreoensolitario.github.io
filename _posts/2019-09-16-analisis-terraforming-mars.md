@@ -68,10 +68,6 @@ falta terraformar un planeta terriblemente frío, seco y casi sin atmósfera."
 ### Información general
 
 <p align="center">
-</p>
-<p align="center"><small></small></p>
-
-<p align="center">
 <a data-flickr-embed="true"
 href="https://www.flickr.com/photos/165706612@N02/48738012457/in/dateposted-public/"
 title="IMG_2470"><img
