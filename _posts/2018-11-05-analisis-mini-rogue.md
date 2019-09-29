@@ -263,8 +263,7 @@ del arte.
 
 
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 4 de 5
-monedas. **¡Este juego es genial! Voy a jugar otra vez ya mismo (mitad
-inferior).**
+monedas. **¡Este juego es genial! Voy a jugar otra vez ya mismo.**
 
 
 

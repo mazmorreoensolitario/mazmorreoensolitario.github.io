@@ -15,9 +15,9 @@ reseñas** sobre algún tema en concreto, a qué juegos estamos **echando el ojo
 rincón dedicado a los juegos [print &
 play]({{site.baseurl}}/rincon-print-and-play), **noticias sobre los últimos
 juegos** en ferias, [Kickstarter]({{site.baseurl}}/etiqueta/kickstarter/),
-Indiegogo, Verkami u otras plataformas de crowdfunding, pequeñas
-**traducciones** de reglas juegos y cualquier otra información aleatoria sobre
-juegos en solitario que nos parezca relevante :) 
+Indiegogo, [Verkami]({{site.baseurl}}/etiqueta/verkami) u otras plataformas de
+crowdfunding, pequeñas **traducciones** de reglas juegos y cualquier otra
+información aleatoria sobre juegos en solitario que nos parezca relevante :) 
 
 
 La información de contacto se encuentra en
