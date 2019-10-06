@@ -48,8 +48,10 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
                 <span class="label label-warning">#<a class="tag-color"
                 href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
             {% else %}
-                {% if tag[0] == "GenCon" or tag[0] == "Essen Spiel" or
-                    tag[0] == "UKGE" %}
+                {% if tag[0] == "GenCon"
+                or tag[0] == "Essen Spiel"
+                or tag[0] == "Essen Spiel 2019"
+                or tag[0] == "UKGE" %}
                     <span class="label label-info">#<a class="tag-color"
                     href="/etiqueta/{{tag[0] | slugify:
                     "latin"}}">{{tag[0]}}</a></span> 
