@@ -31,7 +31,7 @@ a *Mejor print & play* que permitan juego en solitario.
 repetir lo escrito, os referiré a la categoría donde apareció nominado por
 primera vez.
 
-**Actualización - 4 de Marzo de 2019.** 
+**Actualización - 4 de abril de 2019.**
 
 Se [acaban de
 anunciar](https://www.boardgamegeek.com/thread/2179643/13th-annual-golden-geek-awards-winners-2018)
