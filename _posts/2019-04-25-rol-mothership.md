@@ -28,10 +28,10 @@ pánico."
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">
-            <tr><td>Fecha de salida:</td><td>2018</td></tr>
-            <tr><td>Precio (PDF):</td><td>Paga lo que quieras (PVP: 10$)</td></tr>
-            <tr><td>Número de páginas:</td><td>44</td></tr>
-            <tr><td>Idioma:</td><td>Inglés</td></tr>
+            <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2018</td></tr>
+            <tr><td class="text-left"><strong>Precio (PDF):</strong></td><td class="text-left">Paga lo que quieras (PVP: 10$)</td></tr>
+            <tr><td class="text-left"><strong>Número de páginas:</strong></td><td class="text-left">44</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés</td></tr>
          </table>
         </div>
         <div class="col-md-12"></div>

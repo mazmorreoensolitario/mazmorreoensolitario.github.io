@@ -28,14 +28,14 @@ intentar que todas cuadren en nuestra ciudad."
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">
-            <tr><td>Fecha de salida:</td><td>2018</td></tr>
-            <tr><td>Precio:</td><td><a
+            <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2018</td></tr>
+            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left"><a
     href="https://www.pnparcade.com/collections/solo-games/products/spawlopolis">Print
     & play 3$</a> (inglés),
             <a href="https://amzn.to/2GpnD1c">edición normal 14.95€</a>(español)</td></tr>
-            <tr><td>Número de jugadores:</td><td>1-4</td></tr>
-            <tr><td>Tiempo de juego:</td><td>10-15 mins</td></tr>
-            <tr><td>Idioma:</td><td>Castellano / Inglés</td></tr>
+            <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-4</td></tr>
+            <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">10-15 mins</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Castellano / Inglés</td></tr>
          </table>
         </div>
         <div class="col-md-12"></div>

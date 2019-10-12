@@ -28,11 +28,11 @@ llamado Sangre de Og."
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">
-            <tr><td>Fecha de salida:</td><td>2016</td></tr>
-            <tr><td>Precio:</td><td>¡Gratis!</td></tr>
-            <tr><td>Número de jugadores:</td><td>1</td></tr>
-            <tr><td>Tiempo de juego:</td><td>10-60 mins</td></tr>
-            <tr><td>Idioma:</td><td>Castellano (traducido por fans)</td></tr>
+            <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2016</td></tr>
+            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left">¡Gratis!</td></tr>
+            <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1</td></tr>
+            <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">10-60 mins</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Castellano (traducido por fans)</td></tr>
          </table>
         </div>
         <div class="col-md-12"></div>

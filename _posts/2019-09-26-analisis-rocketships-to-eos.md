@@ -27,12 +27,12 @@ ponga el espacio hasta el sistema Eos"
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">
-            <tr><td>Fecha de salida:</td><td>2015</td></tr>
-            <tr><td>Precio:</td><td>¡Gratis!</td></tr>
-            <tr><td>Número de jugadores:</td><td>1-2</td></tr>
-            <tr><td>Tiempo de juego:</td><td>15 mins</td></tr>
-            <tr><td>Idioma:</td><td>Inglés</td></tr>
-            <tr><td>Dependencia del idioma:</td><td>Baja, solo manual.</td></tr>
+            <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2015</td></tr>
+            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left">¡Gratis!</td></tr>
+            <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-2</td></tr>
+            <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">15 mins</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés</td></tr>
+            <tr><td class="text-left"><strong>Dependencia del idioma:</strong></td><td class="text-left">Baja, solo manual.</td></tr>
          </table>
         </div>
         <div class="col-md-12"></div>

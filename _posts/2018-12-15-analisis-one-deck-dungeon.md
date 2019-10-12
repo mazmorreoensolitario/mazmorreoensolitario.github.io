@@ -27,12 +27,13 @@ esperada batalla contra el jefe de la mazmorra"
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">
-            <tr><td>Fecha de salida:</td><td>2017</td></tr>
-            <tr><td>Precio:</td><td><a href="https://amzn.to/2PFhcc6">27€</a></td></tr>
-            <tr><td>Número de jugadores:</td><td>1-2</td></tr>
-            <tr><td>Tiempo de juego:</td><td>30-60 mins</td></tr>
-            <tr><td>Idioma:</td><td>Inglés</td></tr>
-         </table>
+            <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2017</td></tr>
+            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left"><a href="https://amzn.to/2PFhcc6">27€</a></td></tr>
+            <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-2</td></tr>
+            <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">30-60 mins</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés</td></tr>
+            <tr><td class="text-left"><strong>Dependencia del idioma:</strong></td><td class="text-left">Alta, es necesario saber inglés para poder jugar</td></tr>
+        </table>
         </div>
         <div class="col-md-12"></div>
         <div class="col-md-12">

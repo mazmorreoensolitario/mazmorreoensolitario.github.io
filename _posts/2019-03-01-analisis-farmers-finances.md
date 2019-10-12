@@ -29,12 +29,13 @@ comprar y vender estos bienes en un mercado muy oscilante."
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">
-            <tr><td>Fecha de salida:</td><td>2016</td></tr>
-            <tr><td>Precio:</td><td>¡Gratis!</td></tr>
-            <tr><td>Número de jugadores:</td><td>1</td></tr>
-            <tr><td>Tiempo de juego:</td><td>~15 mins</td></tr>
-            <tr><td>Idioma:</td><td>Inglés/Alemán</td></tr>
-         </table>
+            <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2016</td></tr>
+            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left">¡Gratis!</td></tr>
+            <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1</td></tr>
+            <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">~15 mins</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés/Alemán</td></tr>
+            <tr><td class="text-left"><strong><strong>Dependencia del idioma:</strong></strong></td><td class="text-left">Baja, solo manual (y saber el significado de <i>buy</i> y <i>sell</i>)</td></tr>
+        </table>
         </div>
         <div class="col-md-12"></div>
         <div class="col-md-12">

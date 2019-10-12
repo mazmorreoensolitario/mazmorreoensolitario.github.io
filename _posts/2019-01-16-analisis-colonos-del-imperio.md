@@ -22,11 +22,11 @@ el de nuestro rival virtual."
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">
-            <tr><td>Fecha de salida:</td><td>2014</td></tr>
-            <tr><td>Precio:</td><td><a href="https://amzn.to/2VG5aTO">39.95€</a></td></tr>
-            <tr><td>Número de jugadores:</td><td>1-4</td></tr>
-            <tr><td>Tiempo de juego:</td><td>~50 mins</td></tr>
-            <tr><td>Idioma:</td><td>Español</td></tr>
+            <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2014</td></tr>
+            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left"><a href="https://amzn.to/2VG5aTO">39.95€</a></td></tr>
+            <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-4</td></tr>
+            <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">~50 mins</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Español</td></tr>
          </table>
         </div>
         <div class="col-md-12"></div>

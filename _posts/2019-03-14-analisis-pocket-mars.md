@@ -30,14 +30,14 @@ de proyectos, vamos a demostrar que están equivocados."
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">
-            <tr><td>Fecha de salida:</td><td>2017</td></tr>
-            <tr><td>Precio:</td><td><a href="https://amzn.to/2UzgdND">21€</a>
+            <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2017</td></tr>
+            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left"><a href="https://amzn.to/2UzgdND">21€</a>
             (Inglés), <a
             href="https://2tomatoesgames.com/es/juego-casual/64-pocket-mars-8437016497159.html?ref=mazmorreoensolitario">15€</a>
             (Español)</td></tr>
-            <tr><td>Número de jugadores:</td><td>1-4</td></tr>
-            <tr><td>Tiempo de juego:</td><td>20-30 mins</td></tr>
-            <tr><td>Idioma:</td><td>Español / Inglés</td></tr>
+            <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-4</td></tr>
+            <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">20-30 mins</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Español / Inglés</td></tr>
          </table>
         </div>
         <div class="col-md-12"></div>

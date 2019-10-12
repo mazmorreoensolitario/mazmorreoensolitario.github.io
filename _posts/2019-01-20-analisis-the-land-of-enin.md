@@ -27,12 +27,13 @@ final de encontrar el Libro Perdido de Magia."
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">
-            <tr><td>Fecha de salida:</td><td>2012</td></tr>
-            <tr><td>Precio:</td><td>¡Gratis!</td></tr>
-            <tr><td>Número de jugadores:</td><td>1</td></tr>
-            <tr><td>Tiempo de juego:</td><td>~20 mins</td></tr>
-            <tr><td>Idioma:</td><td>Inglés</td></tr>
-         </table>
+            <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2012</td></tr>
+            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left">¡Gratis!</td></tr>
+            <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1</td></tr>
+            <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">~20 mins</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés</td></tr>
+            <tr><td class="text-left"><strong><strong>Dependencia del idioma:</strong></strong></td><td class="text-left">Alta, es necesario saber inglés para poder jugar</td></tr>
+        </table>
         </div>
         <div class="col-md-12"></div>
         <div class="col-md-12">

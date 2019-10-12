@@ -22,14 +22,14 @@ casos archivados bastante antiguos."
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">
-            <tr><td>Fecha de salida:</td><td>?</td></tr>
-            <tr><td>Inicio de la campaña:</td><td>12 de Febrero, 2019</td></tr>
-            <tr><td>Precio:</td>
-                <td>?</td>
+            <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">?</td></tr>
+            <tr><td class="text-left">Inicio de la campaña:</td><td class="text-left">12 de Febrero, 2019</td></tr>
+            <tr><td class="text-left"><strong>Precio:</strong></td>
+                <td class="text-left">?</td>
             </tr>
-            <tr><td>Número de jugadores:</td><td>1-2</td></tr>
-            <tr><td>Tiempo de juego:</td><td>90-150 mins</td></tr>
-            <tr><td>Idioma:</td><td>Español</td></tr>
+            <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-2</td></tr>
+            <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">90-150 mins</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Español</td></tr>
          </table>
         </div>
         <div class="col-md-12"></div>
