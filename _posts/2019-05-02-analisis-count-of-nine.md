@@ -33,7 +33,6 @@ nuestro territorio y así ganar recompensas."
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">~15 mins</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés</td></tr>
             <tr><td class="text-left"><strong><strong>Dependencia del idioma:</strong></strong></td><td class="text-left">Baja, solo manual</td></tr>
-
         </table>
         </div>
         <div class="col-md-12"></div>
