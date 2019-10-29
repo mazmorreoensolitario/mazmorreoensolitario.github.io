@@ -449,7 +449,7 @@ horrible (el adjetivo *horrible* se usa como eufemismo). Yo tengo buen pulso y
 no suelo tener problemas con colocar los cubitos en el cuadrado adecuado pero
 no deja de ser incómodo y molesto, este es un juego en el que vas a estar
 moviendo mucho los cubitos de un sitio a otro y lo peor que puede pasar es que
-se muevan a mitad de partida y no sepas qué producción tenías ni que recursos
+se muevan a mitad de partida y no sepas cuanta producción tenías ni que recursos
 iban en cada sitio.
 
 El la futura expansión
@@ -486,7 +486,7 @@ inicio, tengas un desarrollo tenso y lo trates de dar todo hasta el final del
 juego. La forma de plantear el juego como la suma de tres objetivos
 interconectados entre sí, con una mecánica de motor de cartas y con el tema
 bien cogido para que científicamente sea válido (doctores en ciencias básicas,
-cállense) y el jugador lo compre es una fórmula ganadora.
+cállense) y el jugador lo compre, es una fórmula ganadora.
 
 Terraforming Mars no aburre. Es verdad que el juego trata de conseguir siempre
 el mismo objetivo, pero el planteamiento y la ejecución que se da para el mismo
