@@ -369,4 +369,7 @@ pequeña de lo esperado, ¡genial! Las minis tenían muy buena pinta</small></p>
 
 La odisea continuará mañana...
 
+Puedes leer [**la crónica del viernes
+aquí**]({{site.baseurl}}/2019/10/30/cronicas-essen-spiel-2019-viernes/).
+
 <hr>
