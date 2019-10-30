@@ -148,18 +148,18 @@ para tratar de minimizar efectos negativos.
 
 Otros juegos directamente no habían llegado, como fue el caso de [**Troyes:
 Dice**](https://boardgamegeek.com/boardgame/284584/troyes-dice), del que no
-pudieron ni decirme nada ni comentarme porqué no había llegado, y el
-de [**So, You've Been
-Eaten**](https://boardgamegeek.com/boardgame/284842/so-youve-been-eaten). Del 
-primero definitivamente no se ha sabido nada, y del segundo creo que se
-pudo hacer finalmente alguna demo el sábado o domingo ya que (por fin) han
-actualizado algo de la información del juego en la BGG.
+pudieron ni decirme nada ni comentarme porqué no había llegado, y el [**So,
+You've Been
+Eaten**](https://boardgamegeek.com/boardgame/284842/so-youve-been-eaten). Del
+primero definitivamente no se ha sabido nada, y del segundo creo que se pudo
+hacer finalmente alguna demo el sábado o domingo ya que (por fin) han
+actualizado algo de la información del juego en la BGG. 
 
 Así pues, el jueves perdí un tiempo precioso abriéndome paso entre las hordas
 de gente de camino al stand de varias compañías para tratar de jugar a la demo
 de un determinado juego, y para mi desgracia no había demo. Otras veces fue
 culpa mía, ya que en vez de esperar a que terminasen la demo las personas que
-estaban jugando decidía irme a ver si conseguía meterme en otra demo, pero gran
+estaban jugando, decidía irme a ver si conseguía meterme en otra demo, pero gran
 error. Esto me pasó en el stand de **Mizo Games** con [**Raid on
 Takao**](https://boardgamegeek.com/boardgame/266652/raid-takao), en el de
 **Steamforged Games** con [**Ni no Kuni
@@ -177,8 +177,8 @@ src="https://live.staticflickr.com/65535/48982350282_dd9bfdb65a_z.jpg"
 width="480" height="640" alt="foto-covenant"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
-<p align="center"><small>Mezca de madera y cartón, y además, había hasta un
-altavoz para los efectos de sonido</small></p>
+<p align="center"><small>Endarth: Covenant es una mezcla de madera y cartón, y
+además, había hasta un altavoz para los efectos de sonido</small></p>
 
 
 **Endarth: Covenant** es una mezcla entre experiencia digital y juego de mesa,
@@ -200,9 +200,9 @@ src="https://live.staticflickr.com/65535/48982163111_12e0ec7137_z.jpg"
 width="480" height="640" alt="foto-raid-takao"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
-<p align="center"><small>Hubiese podido hacer mejor fe al mapa, que tenía su
-punto si hubiese metido codo a los pobres jugones que estaban haciendo la demo,
-pero aún me queda algo de civismo</small></p>
+<p align="center"><small>Raid on Takao. Hubiese podido hacer mejor fe al mapa,
+que tenía su punto, si hubiese metido codo a los pobres jugones que estaban
+haciendo la demo, pero aún me queda algo de civismo</small></p>
 
 **Raid on Takao** me interesaba porque presentaba una perspectiva única sobre
 la Segunda Guerra Mundial, y como se vivieron los bombardeos de los aliados en
@@ -218,13 +218,13 @@ src="https://live.staticflickr.com/65535/48982163231_7f7f6fe270_z.jpg"
 width="640" height="480" alt="foto-ni-no"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
-<p align="center"><small>En la demo estaban colocando las localizaciones que
-explorar, este juego es precioso</small></p>
+<p align="center"><small>Ni no Kuni II. En la demo estaban colocando las
+localizaciones que explorar, este juego es precioso</small></p>
 
 **Ni no Kuni II** es otro juego con estética manga/anime, y está ambientado en un
-gran juego de consola/ordenador del mismo nombre. No he busqué demasiada
-información de este juego, simplemente esperaba poder hacer una demo ya que me
-gustan unos cuantos juegos de la compañía que hizo el juego de ordenador,
+gran juego de consola/ordenador del mismo nombre. No busqué demasiada
+información sobre este juego, simplemente esperaba poder hacer una demo ya que
+me gustan unos cuantos juegos de la compañía que hizo el juego de ordenador,
 [**Level 5**](http://level5ia.com/products/) (os puedo recomendar el Crimson
 Shroud para 3DS y el Dark Cloud para PS1).
 
@@ -258,7 +258,7 @@ Antes de que diese el mediodía ya se había agotado uno de los juegos que quer�
 probar y muy posiblemente comprar: [**Cities
 Skylines**](https://boardgamegeek.com/boardgame/267370/cities-skylines-board-game);
 y todas las mesas de prueba del juego, tanto en el stand de **KOSMOS** como en el 
-de **Paradox Interacive** estaban a rebosar. Me sorprendió bastante que este
+de **Paradox Interactive**, estaban a rebosar. Me sorprendió bastante que este
 juego tuviera tanta repercusión, ya que pensaba que sería algo más de nicho.
 
 <p align="center">
@@ -298,8 +298,9 @@ src="https://live.staticflickr.com/65535/48982350312_13c64f7590_z.jpg"
 width="480" height="640" alt="foto-colonos-del-imperio-norte"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
-<p align="center"><small>Creo que a España nos llegaba el juego el año que
-viene... igual puedo probarlo en alguna tienda</small></p>
+<p align="center"><small>Colonos del Imperio: Los Reinos del Norte y la
+expansión Las Islas Japonesas. Creo que a España nos llegaba el juego el año
+que viene... igual puedo probarlo en alguna tienda</small></p>
 
 Como el volumen de gente cada vez iba aumentando, encontrar mesas vacías era
 toda una verdadera odisea, intenté poder sentarme en **Portal Games** para
@@ -317,9 +318,9 @@ src="https://live.staticflickr.com/65535/48981604143_99919abab7_z.jpg"
 width="480" height="640" alt="foto-maestros-del-renacimiento"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
-<p align="center"><small>Este juego tenía una caja inmensa para lo que es, la
-verdad, el mecanismo de robar canicas para representar recursos me ha
-gustado</small></p>
+<p align="center"><small>Maestros del Renacimiento. Este juego tenía una caja
+inmensa para lo que es, la verdad; el mecanismo de robar canicas para
+representar recursos me ha gustado</small></p>
 
 También me pasee por el stand de **Cranio Creations** para encontrar sitio para
 jugar a [**Maestros del
@@ -363,8 +364,8 @@ src="https://live.staticflickr.com/65535/48981603663_5d6c548d7d_z.jpg"
 width="640" height="480" alt="foto-tainted-grail"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
 </p>
-<p align="center"><small>La caja ha terminado siendo algo más pequeña de lo
-esperado, ¡genial! Las minis tenían muy buena pinta</small></p>
+<p align="center"><small>Tainted Grail. La caja ha terminado siendo algo más
+pequeña de lo esperado, ¡genial! Las minis tenían muy buena pinta</small></p>
 
 La odisea continuará mañana...
 
