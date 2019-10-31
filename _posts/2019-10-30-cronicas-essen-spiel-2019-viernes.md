@@ -210,8 +210,8 @@ La mañana iba de dados, así que me dirigí al stand de **CtrlAltCreative** par
 probar [**Crazy
 Taco**](https://boardgamegeek.com/boardgame/289397/crazy-taco) un juego que se
 pensó principalmente para el juego en solitario, pero que también tienen una
-versión cooperativa. Buscará financiación en **Kickstarter en 2020**. Como os
-comenté en la [lista de juegos
+versión competitiva en su modo de dos jugadores. Buscará financiación en
+**Kickstarter en 2020**. Como os comenté en la [lista de juegos
 interesantes]({{site.baseurl}}/2019/10/05/bingo-essen-spiel-2019/) de antes de
 la feria, es un juego que solamente leyendo la descripción te puedes hacer a la 
 idea de cómo se va a gestionar, y que por eso pensaba que me iba a gustar, pero
