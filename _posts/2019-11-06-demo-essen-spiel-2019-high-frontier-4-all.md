@@ -173,7 +173,7 @@ cohete.
 
 Cuando quemamos combustible, el cohete se hace más ligero y es por tanto más
 eficiente; esto se refleja muy inteligentemente en los dos tracks del panel del
-jugador (siguiente foto algo más abajo). La línea zigzageante negra son los
+jugador (siguiente foto algo más abajo). La línea zigzagueante negra son los
 pasos de combustible, que aumentan a medida que la masa del cohete baja (hacia
 la izquierda), pero se hacen más escasos cuando el cohete es más pesado (hacia
 la derecha). Marcamos nuestro número de depósitos de combustible con el cohete
