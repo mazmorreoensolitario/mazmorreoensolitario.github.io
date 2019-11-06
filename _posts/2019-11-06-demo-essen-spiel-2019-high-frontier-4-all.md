@@ -374,8 +374,8 @@ transmitido es que se va a poder aprender a jugar a este juego de forma mucho
 más grata en comparación con otros juegos de la editorial.
 
 El juego en sí me ha encantado. La sensación de estar viviendo una aventura
-espacial me llena, ya que estas construyendo tu cohete (¿quién no ha querido
-viajar al espacio alguna vez?), y esta sensación es muy satisfactoria, pero lo
+espacial me llena, ya que estás construyendo tu cohete (¿quién no ha querido
+viajar al espacio alguna vez?), y esa sensación es muy satisfactoria; pero lo
 mejor de todo es la sensación de libertad. Si juego alguna vez a este juego con
 más gente casi seguro que voy a perder; este es un juego de perderse y de
 olvidarse de ganar PVs y del resto de los jugadores para embarcarte en tu viaje
