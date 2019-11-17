@@ -60,8 +60,8 @@ post_desc: "Glory: A Game of Knights está ambientado en Europa medieval, en el
 > **Las fotos del juego son de un prototipo**. La producción final del juego
 > puede diferir de lo aquí expuesto.
 
-> **Campaña de Kickstarter el 13 de noviembre. Página de
-> [Kickstarter (Preestreno)](https://www.kickstarter.com/projects/strategosgames/glory-a-game-of-knights)**
+> **Campaña de Kickstarter el 13 de noviembre. Link a la
+> [campaña](https://www.kickstarter.com/projects/strategosgames/glory-a-game-of-knights?ref=mazmorreoensolitario).**
 
 ### Glory: A Game of Knights
 
