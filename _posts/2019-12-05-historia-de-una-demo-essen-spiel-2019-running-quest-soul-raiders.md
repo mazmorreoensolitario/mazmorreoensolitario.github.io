@@ -326,7 +326,7 @@ localización dejas las otras en una pila, por lo
 que en un determinado momento puedes no acordarte de si habías subido las
 escaleras para llegar a donde estás, o si habías venido de la habitación de al
 lado, y esto hace la exploración mucho más divertida e inmersiva ya que todo se
-encuentra en primera persona.
+vive más en primera persona.
 
 Explorar el fuerte en ruinas despertaba toda mi curiosidad porque cada
 localización tenía un arte magnífico y porque a diferencia de muchos juegos en
@@ -386,7 +386,7 @@ diferente autor al de las localizaciones, y por lo que me comentó Jim, iban a
 encargar a varios artistas el desarrollo de los diferentes monstruos, por lo
 que podemos tener un contraste de estilos interesante.
 
-El único pero (muy rebuscado) que puedo ponerle al juego tras jugar esta demo es
+El único pero (muy rebuscado), que puedo ponerle al juego tras jugar esta demo es
 que no entiendo muy bien cómo encajan en la trama algunos monstruos, ya que de
 momento no tengo mucha información sobre el mundo en el que está ambientado el
 juego, y por eso algunos monstruos, como esqueletos, goblins, orcos y
