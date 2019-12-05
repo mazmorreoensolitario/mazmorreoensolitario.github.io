@@ -24,6 +24,25 @@ La información de contacto se encuentra en
 [Contacto]({{site.baseurl}}/contacto/). 
 
 
+**Entidades colaboradoras**
+
+<div class="row">
+    <div class="col-md-3">
+        <a href="https://www.misifu.es/" target="_blank">
+            <img src="{{site.baseurl}}/images/logo-misifu-juegosdemesa.png"
+            alt="Misifú">
+        </a>
+    </div>
+    <div class="col-md-9">
+        <p><strong>Misifú</strong> es una tienda malagueña de juegos de mesa,
+            que toma el nombre de la gata del hermano del propietario.
+            Desde Mazmorreo en solitario damos las gracias al equipo de Misifú
+            por colaborar con nosotros.
+        </p>
+    </div>
+</div>
+
+
 **Descargo de responsabilidad**
 
 * Este sitio utiliza [Jekyll](https://jekyllrb.com/) y una versión modificada
@@ -44,21 +63,3 @@ del tema [cards](https://github.com/sharu725/cards).
   
   El dinero recaudado por este método se reinvierte para traer más
   contenido al blog.
-
-**Entidades colaboradoras**
-
-<div class="row">
-    <div class="col-md-3">
-        <a href="https://www.misifu.es/" target="_blank">
-            <img src="{{site.baseurl}}/images/logo-misifu-juegosdemesa.png"
-            alt="Misifú">
-        </a>
-    </div>
-    <div class="col-md-9">
-        <p><strong>Misifú</strong> es una tienda malagueña de juegos de mesa,
-            que toma el nombre de la gata del hermano del propietario.
-            Desde Mazmorreo en solitario damos las gracias al equipo de Misifú
-            por colaborar con nosotros.
-        </p>
-    </div>
-</div>

@@ -263,7 +263,7 @@ src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <p align="center"><small>Tablero de Terraforming Mars preparado para jugar. Los
 cubos blancos están colocados en la generación 14, donde se indica con la
 palabra "Solo"; en el nivel de 0% de oxígeno, y en el nivel de -30ºC. Los nueve
-océanos están apilados arriba a la izquierda, listos para ser utilizaodos y un
+océanos están apilados arriba a la izquierda, listos para ser utilizados y un
 cubito azul se encuentra en el Valor de Terraformación 14.</small></p>
 
 Terraforming Mars en solitario no es un juego que requiera mucha preparación;
