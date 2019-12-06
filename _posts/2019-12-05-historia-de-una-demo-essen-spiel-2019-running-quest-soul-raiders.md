@@ -56,6 +56,11 @@ Quest, un marco en el que se piensan hacer más sagas."
              <li>Producido por <a
                 href="https://boardgamegeek.com/boardgamepublisher/41715/one-all">One
                 for All</a>, una nueva editorial estadounidense.</li>
+             <li>De momento no hay página web de la editorial, por lo que
+                podéis seguir las noticias sobre el juego en la página de <a
+                href="http://crowdfunding-agency.com/running-quest-soul-raiders/">Crowdfunding
+                Agency</a> o bien siguiéndoles en su <a
+                href="https://twitter.com/CrowdfundAgency">Twitter</a>.</li>
          </ul>
          </div>
     </div>
