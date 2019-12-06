@@ -44,10 +44,15 @@ Quest, un marco en el que se piensan hacer más sagas."
         <div class="col-md-12"></div>
         <div class="col-md-12">
          <ul>
-             <li>Diseñado por Marc André.</li>
+             <li>Diseñado por Marc André, autor de <a
+                href="https://boardgamegeek.com/boardgame/148228/splendor">Splendor</a>.</li>
              <li>Este juego tiene un amplio repertorio de artistas:  William
                 Bonhotal, Loïc Canavaggia, Dogan Oztel, Mark Tarrisse,
-                Guillaume Tavernier, Prosper Tipaldi y Magali Villeneuve. </li>
+                Guillaume Tavernier (autor de los maravillosos escenarios,
+                también ha participado en <a
+                href="https://boardgamegeek.com/boardgame/282066/adventures-austerion">Adventures
+                in Austerion</a>), Prosper Tipaldi y Magali Villeneuve (Magic
+                The Gathering). </li>
              <li>Producido por <a
                 href="https://boardgamegeek.com/boardgamepublisher/41715/one-all">One
                 for All</a>, una nueva editorial estadounidense.</li>
@@ -115,8 +120,8 @@ tomos tendremos *capítulos*, y estos a su vez serán los diferentes escenarios
 por los que jugaremos la historia; los capítulos tendrán una duración
 aproximada de hora y media. 
 
-En Soul Raiders controlamos a uno o varios héroes tratando de conseguir cumplir
-ciertas misiones, que serán objetivos relacionados con la historia y nos harán
+En Soul Raiders **controlamos a uno o varios héroes tratando de conseguir cumplir
+ciertas misiones**, que serán objetivos relacionados con la historia y nos harán
 avanzar en ella de conseguir superarlos. En general tendremos una misión
 principal, y dependiendo del número de personajes que llevemos, se añadirán
 otras misiones secundarias. Cuando estemos jugando completamente en solitario
@@ -394,13 +399,15 @@ monstruo que no va a estar en la versión final, ya que esto se trata de una
 demo. Pero si no es así me genera más curiosidad sobre la historia del juego
 para ver cómo se justifica.
 
-Ya cerrando un poco, comentar que el juego tiene intención de buscar
-financiación por Kickstarter a principios de 2020, la fecha aún no está
+Ya cerrando un poco, comentar que el juego tiene **intención de buscar
+financiación por Kickstarter a principios de 2020**, la fecha aún no está
 completamente definida, y que un episodio normal tendría el doble de
 localizaciones de las que podéis ver en las fotos de esta entrada. También le
 pregunté a Jim sobre el precio de venta previsto del juego y me contestó que no
-lo saben todavía pero que a fecha de Essen la intención era hacer una edición
-de calidad, y que los héroes que podíamos jugar iban a ser miniaturas.
+lo saben todavía pero que a fecha de Essen la intención era hacer una **edición
+de calidad**, y que **los héroes que podíamos jugar iban a ser
+miniaturas**. Además el juego va a contar con unas **1000 cartas de distintos
+tamaños**. 
 
 En conclusión, a mí es un juego que me ha gustado mucho, he podido vivir una
 aventura muy inmersiva y me gusta la forma de exploración más "en primera
