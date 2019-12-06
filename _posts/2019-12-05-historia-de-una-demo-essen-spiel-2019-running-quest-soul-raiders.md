@@ -268,11 +268,10 @@ nombres.
 
 <p align="center">
 <a data-flickr-embed="true"
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49175533606/in/dateposted-public/"
-title="07-2-personajes"><img
-src="https://live.staticflickr.com/65535/49175533606_1be943d455_c.jpg"
-width="800" height="567" alt="07-2-personajes"></a><script async
+href="https://www.flickr.com/photos/165706612@N02/49175075213/in/dateposted-public/"
+title="07-personajes"><img
+src="https://live.staticflickr.com/65535/49175075213_96c8ecafac_c.jpg"
+width="800" height="600" alt="07-personajes"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
 <p align="center"><small>Diferentes personajes</small></p>
