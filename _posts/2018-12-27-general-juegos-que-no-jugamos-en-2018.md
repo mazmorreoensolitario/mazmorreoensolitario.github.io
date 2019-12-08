@@ -3,7 +3,7 @@ layout: post
 title: "Top 10 de juegos del 2018 que no hemos podido jugar"
 date: 2018-12-27
 categories: [Listas]
-tags: [Tops, Expansión, Arquitectos del Reino del Oeste, Root, "Root: Riverfolk", The City of Kings, "Pandemic: La caída de Roma", Heroes of Terrinoth, Héroes de Terrinoth, Paper Tales, Reinos de Papel,"Paper Tales: Beyond the Gates", Dados y Colonos, Anachrony, Pequeños Grandes Zombis, Small Islands]
+tags: [Tops, Expansión, Arquitectos del Reino del Oeste, Root, "Root: Expansión Los Ribereños", "Root: Riverfolk", The City of Kings, "Pandemic: La caída de Roma", Heroes of Terrinoth, Héroes de Terrinoth, Paper Tales, Reinos de Papel,"Paper Tales: Beyond the Gates", Dados y Colonos, Anachrony, Pequeños Grandes Zombis, Small Islands]
 img: top-10-juegos-2018-no-hemos-podido-jugar.png
 ---
 
