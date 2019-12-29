@@ -104,7 +104,7 @@ poner a su gente a salvo.
 
 El pueblo de Legends Untold se encuentra con dos maneras de llegar a la ciudad
 de Dun Mordhain, donde esperan conseguir cobijo, por las Cuevas o por las
-Clocas. En esta entrada vamos a hablar del camino de las Cuevas, que es el
+Cloacas. En esta entrada vamos a hablar del camino de las Cuevas, que es el
 camino que podéis tomar con la caja base [**The Weeping
 Caves**](https://boardgamegeek.com/boardgame/198832/legends-untold-weeping-caves-novice-set),
 para elegir el camino de las Cloacas, tenéis [**The Great
