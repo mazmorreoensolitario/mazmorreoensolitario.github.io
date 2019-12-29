@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: Tainted Grail: La Caida de Avalon"
-tag: "Tainted Grail: La Caida de Avalon"
+title: "Etiqueta: Tainted Grail: La Caída de Ávalon"
+tag: "Tainted Grail: La Caída de Ávalon"
 ---
