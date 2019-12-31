@@ -28,7 +28,7 @@ permite pagar algo de forma opcional a los autores, espero que os gusten:
     <div class="col-md-9">
          <h4>Mothership</h4>
          <p><strong><a
-href="https://coinsandscrolls.blogspot.com/2018/05/osr-veinscrawl.html" target="_blank">Mothership</a></strong>
+href="http://www.tuesdayknightgames.com/mothership" target="_blank">Mothership</a></strong>
          en un juego de rol ambientado en el espacio con énfasis en la
          supervivencia y horror. Tenéis una descripción más detallada del libro
          básico en <a href="{{site.baseurl}}/2019/04/25/rol-mothership/">esta
@@ -50,7 +50,7 @@ href="https://coinsandscrolls.blogspot.com/2018/05/osr-veinscrawl.html" target="
     <div class="col-md-9">
          <h4>Swarp Swords & Sinister Spells</h4>
          <p><strong><a
-         href=""
+         href="https://www.drivethrurpg.com/product/198163/Sharp-Swords--Sinister-Spells"
          target="_blank">Swarp Swords & Sinister Spells</a></strong> es un
          pequeño juego de rol de una ambientación medieval fantástica
          clásica. No he llegado a jugar ninguna partida con las reglas del
@@ -136,7 +136,7 @@ href="https://coinsandscrolls.blogspot.com/2018/05/osr-veinscrawl.html" target="
     <div class="col-md-9">
          <h4>Augmented Reality, The Holistic City Kit For Cyberpunk Games</h4>
          <p><strong><a
-    href="https://coinsandscrolls.blogspot.com/2018/05/osr-veinscrawl.html"
+    href="https://www.drivethrurpg.com/product/202175/Augmented-Reality-The-Holistic-City-Kit-For-Cyberpunk-Games"
         target="_blank">Augmented Reality</a></strong> es un generador de
         ciudades cyberpunk, y a su vez podéis utilizar cualquiera de sus tablas
         para vuestras aventuras de ciencia ficción. 
