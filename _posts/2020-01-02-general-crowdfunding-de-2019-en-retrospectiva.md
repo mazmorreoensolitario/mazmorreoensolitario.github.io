@@ -69,7 +69,8 @@ con 32582 backers, y en el otro extremo a [Pine Tar Baseball Championship
 Series](https://www.kickstarter.com/projects/634952920/pine-tar-baseball-championship-series-1924-1946-1960-2016)
 con 25 backers.
 Por esto es mejor que nos fijemos en la **mediana de backers**, que es
-**1087.5**, y por completar, la moda de backers es 508. Para los que no
+**1087.5**, y por completar, la moda de backers es 123, 202, 278, 341, 426,
+496, 508, 693, 802, 1281, 1494 y 3813. Para los que no
 recordáis estadística la moda es el valor que más se repite y la mediana es
 básicamente el valor que se [encuentra en la
 mitad](http://www.disfrutalasmatematicas.com/datos/mediana.html) si vamos
