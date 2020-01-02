@@ -3,13 +3,15 @@ layout: post
 title: "Top 10 de juegos del 2019 que no hemos podido jugar"
 date: 2019-12-27
 categories: [Listas]
-tags: [Tops, Iron Helm, "Tainted Grail: The Fall of Avalon", "Tainted Grail: La Caída de Ávalon", On Mars, Root, "Root: The Clockwork Expansion", Posthuman Saga, Paladines del Reino del Oeste, Res Arcana, The Dark Valley, GMT Games, "Cities: Skylines The Board Game", Tiny Towns]
+tags: [Tops, Iron Helm, "Tainted Grail: The Fall of Avalon", "Tainted Grail: La Caída de Ávalon", On Mars, Root, "Root: The Underworld Expansion", "Root: The Clockwork Expansion", Posthuman Saga, Paladines del Reino del Oeste, Res Arcana, The Dark Valley, GMT Games, "Cities: Skylines The Board Game", Tiny Towns]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20191227/top-no-jugados-2019.jpg
 post_desc: "Siguiendo con la tradición que establecí hace un año, en vez de 
 hacer un Top 10 de juegos del año, que no me suele gustar hacer porque sufro 
 clasificando los juegos así (igual sería capaz de hacer un top 5), os traigo mi
 lista de"
 ---
+
+![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20191227/top-no-jugados-2019.jpg)
 
 Faltan pocos días para que se acabe 2019 y espero que haya sido un gran año
 para todos. 
