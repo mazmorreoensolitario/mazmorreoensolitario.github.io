@@ -44,31 +44,31 @@
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
       {% for tag in site.tags %}
-      {% if tag[0] == "Kickstarter"
+      {% if tag[0] == "Everdell"
       or tag[0] == "Root: Riverfolk"
-      or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Nemesis"
-      or tag[0] == "Print & play"
+      or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Colonos del Imperio: Imperios del Norte"
-      or tag[0] == "Dinosaur Island"
-      or tag[0] == "Everdell"
       or tag[0] == "Expansiópolis"
       or tag[0] == "Mothership: Dead Planet"
+      or tag[0] == "Print & play"
       or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Arkham Horror"
+      or tag[0] == "Heroes of Terrinoth"
       or tag[0] == "Legends Untold"
+      or tag[0] == "Res Arcana"
       or tag[0] == "Root: Expansión Los Ribereños"
-      or tag[0] == "Too Many Bones"
       or tag[0] == "Ardennes 44"
       or tag[0] == "Cities: Skylines The Board Game"
       or tag[0] == "Desolate"
       or tag[0] == "Essen Spiel 2019"
-      or tag[0] == "GMT Games"
       or tag[0] == "Good Little Martian"
       or tag[0] == "Lux Aeterna"
-      or tag[0] == "Res Arcana"
       or tag[0] == "Rol"
       or tag[0] == "Root"
-      or tag[0] == "The 7th Continent" %}
+      or tag[0] == "Scythe: El Auge de Fenris"
+      or tag[0] == "Tiny Towns"
+      or tag[0] == "Too Many Bones" %}
 <span class="label label-danger">#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
       {% endif %}
