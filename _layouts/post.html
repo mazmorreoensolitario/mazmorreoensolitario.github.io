@@ -38,9 +38,52 @@ layout: default
             <p class="post-meta">
               {% assign sorted_tags = page.tags | sort %}
               {% for tag in sorted_tags %}
+              <!--span class="label label-primary">#<a class="tag-color"
+              href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></span-->
+              <!--a href="/tags/{{ tag }}/">{{ tag }}</a><-->
+              {% if tag == "Augmented Reality" or
+              tag == "Dyson's Delve" or
+              tag == "ENnie" or 
+              tag == "Labyrinth Lord" or
+              tag == "Mothership" or 
+              tag == "Mothership: Dead Planet" or 
+              tag == "OSR" or 
+              tag == "One Page Dungeon" or 
+              tag == "Rol" or
+              tag == "Shinobi & Samurai" or
+              tag == "Strange Nations" or 
+              tag == "Swarp Swords & Sinister Spells" or 
+              tag == "The Black Isle" or
+              tag == "Veinscrawl" %}
+              <span class="label label-danger">#<a class="tag-color"
+              href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></span> 
+              {% else %}
+              {% if tag == "9 Card Game Print & Play Design Contest" or
+              tag == "Golden Geek" or
+              tag == "Solitaire Print & Play Design Contest" %}
+              <span class="label label-success">#<a class="tag-color"
+              href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></span> 
+              {% else %}
+              {% if tag == "Campaña" or tag == "Expansión" or
+              tag == "Kickstarter" or tag == "Print & play" or
+              tag == "Tabletopia" or tag == "Tops" or
+              tag == "Verkami" %}
+              <span class="label label-warning">#<a class="tag-color"
+              href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></span> 
+              {% else %}
+              {% if tag == "GenCon"
+              or tag == "Essen Spiel"
+              or tag == "Essen Spiel 2019"
+              or tag == "UKGE" %}
+              <span class="label label-info">#<a class="tag-color"
+              href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></span> 
+              {% else %}
               <span class="label label-primary">#<a class="tag-color"
               href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></span> 
-              <!--a href="/tags/{{ tag }}/">{{ tag }}</a><-->
+              {% endif %}
+              {% endif %}
+              {% endif %}
+              {% endif %}
               {% endfor %}
             </p>
             <hr>
