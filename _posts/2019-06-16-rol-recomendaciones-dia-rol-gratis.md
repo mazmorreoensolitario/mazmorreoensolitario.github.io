@@ -5,7 +5,14 @@ date: 2019-06-16
 categories: [Rol]
 tags: [Rol, OSR, Veinscrawl, Mothership, Augmented Reality, "Swarp Swords & Sinister Spells", Labyrinth Lord, "Shinobi & Samurai", The Black Isle, Strange Nations, "Dyson's Delve", One Page Dungeon]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20190616-rpg-day/2019-06-16-recomendaciones-rol.jpg
+post_desc: "Ayer, 15 de Junio, se celebró día del Rol Gratis, en el que muchas 
+editoriales o autores particulares publican contenido de forma gratuita. 
+Como parte de esta celebración me gustaría compartiros 10 recomendaciones, 
+tanto juegos de rol completos, como generadores, aventuras...  para usar
+en vuestras partidas de rol."
 ---
+
+![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20190616-rpg-day/2019-06-16-recomendaciones-rol.jpg)
 
 Ayer, 15 de Junio, se celebró **día del Rol Gratis**, en el que muchas 
 editoriales o autores particulares publican contenido de forma gratuita. 

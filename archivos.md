@@ -24,6 +24,7 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
         tag[0] == "Labyrinth Lord" or
         tag[0] == "Mothership" or 
         tag[0] == "Mothership: Dead Planet" or 
+        tag[0] == "Mothership: A Pound of Flesh" or
         tag[0] == "OSR" or 
         tag[0] == "One Page Dungeon" or 
         tag[0] == "Rol" or
@@ -31,7 +32,16 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
         tag[0] == "Strange Nations" or 
         tag[0] == "Swarp Swords & Sinister Spells" or 
         tag[0] == "The Black Isle" or
-        tag[0] == "Veinscrawl" %}
+        tag[0] == "Veinscrawl" or
+        tag[0] == "Seekers Beyond The Shroud" or
+        tag[0] == "A Rasp of Sand" or
+        tag[0] == "Ruins of the Undercity" or
+        tag[0] == "Mad Monks of Kwantoom" or
+        tag[0] == "Solar Blades & Cosmic Spells" or
+        tag[0] == "Ironsworn" or
+        tag[0] == "Winter's Daughter" or
+        tag[0] == "The Hole in The Oak" or
+        tag[0] == "Trilemma Adventures" %}
         <span class="label label-danger">#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
     {% else %}
