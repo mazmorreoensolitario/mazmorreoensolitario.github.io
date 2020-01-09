@@ -83,7 +83,7 @@ soportan ese modo de juego, os iré comentando en cada apartado de cada juego:
          una razón a nuestro personaje para que despierte su curiosidad por el
          mundo de lo oculto y trate de aprender magia.</p>
          <p><strong>El sistema utiliza los seis atributos clásicos además de unos
-         secundarios que tienen sentido par Seekers: cordura, <i>Vril</i> y
+         secundarios que tienen sentido para Seekers: cordura, <i>Vril</i> y
          puntos de  alma</strong>.
          Los puntos de alma serían nuestros puntos de vida
          cuando nos encontramos en el mundo astral, mientras que el Vril es una
@@ -232,7 +232,7 @@ soportan ese modo de juego, os iré comentando en cada apartado de cada juego:
          Swords).</p>
          <p><strong>Solar Blades & Cosmic Spells nos puede servir para jugar a
          cualquier ambientación futurista</strong>. Es el único juego de esta
-         lista que no poseo, sin embargo, esta en esta lista porque mi campaña
+         lista que no poseo, sin embargo, está en esta lista porque mi campaña
          en solitario con <a
          href="{{site.baseurl}}/2019/04/25/rol-mothership/">Mothership</a> en 
          algunos puntos está pasando a tener menos elementos de terror y
@@ -279,7 +279,7 @@ soportan ese modo de juego, os iré comentando en cada apartado de cada juego:
          Lord</strong></a>, por lo que podéis utilizarlo con cualquier otro clon
          de D&D.</p>
          <p><strong>En Ruins of the Undercity controlamos a un grupo de
-         personajes en una ciudad rodeada de dunas, cercade las ruinas de la
+         personajes en una ciudad rodeada de dunas, cerca de las ruinas de la
          antigua ciudad dedicada al Culto de la Luna Sangrienta</strong>. Estas
          ruinas están llenas de tesoros y 
          peligros, y en este juego tendremos que dedicarnos a explorar tanto la
@@ -495,7 +495,7 @@ pero bueno, tampoco me importa.
          de la <a
          href="https://www.drivethrurpg.com/product/270798/Winters-Daughter-5th-Edition-Version?affiliate_id=1914894">5ª
          edición</a> de D&D o con estadísticas <a 
-         href="https://www.drivethrurpg.com/product/270795/Winters-Daughter-OldSchool-Version?affiliate_id=1914894">OSR</a>,
+         href="https://www.drivethrurpg.com/product/270795/Winters-Daughter-OldSchool-Version?affiliate_id=1914894">OSR</a>
          para jugar con retroclones tipo Labyrinth Lord,
          también podéis conseguir la edición impresa a través de la <a
          href="https://necroticgnome.com/collections/adventures/products/dolmenwood-winters-daughter">web
@@ -541,7 +541,7 @@ pero bueno, tampoco me importa.
          (sorpresa), mientras que <strong>A Pound of Flesh sucede en una inmensa
          estación espacial</strong> llamada <i>El Sueño de Próspero</i>. Los
          eventos de Dead Planet están muy ligados al planeta y a el porqué los
-         personajes llegan allí, así que aunque la aventura es muy buena tiene
+         personajes llegan allí, así que aunque la aventura es muy buena, tiene
          menos capacidad para engancharse a otras cosas, una estación espacial
          sin embargo, es mucho más maleable y puedes insertar tus aventuras
          secundarias adicionales y cambios más fácilmente. De hecho tiene
@@ -554,7 +554,7 @@ pero bueno, tampoco me importa.
          globales, que a su vez desencadenan efectos y cambios en la estación,
          además hay varias mazmorras en diferentes sectores</strong> de la
          estación, lo que creo que puede ser más cómodo tanto para el master
-         como par los jugadores, ya que pueden ir más a su ritmo y
+         como para los jugadores, ya que pueden ir más a su ritmo y
          explorar.
          Evidentemente en el planeta también se puede explorar, pero creerme
          que el nombre del planeta: "Dead", pega por algo.</p>
@@ -581,7 +581,7 @@ pero bueno, tampoco me importa.
          de <strong><a
          href="https://necroticgnome.com/">Necrotic Gnome</a></strong> que
          compré tras terminar de preparar la de Winter's Daughter, porque como
-         ya habéis visto me gusto mucho.</p>
+         ya habéis visto, me gusto mucho.</p>
          <p><strong>The Hole in the Oak tiene la misma presentación de 10 y
          facilidad de uso por el GM que Winter's Daughter.</strong> Pero a
          diferencia de esta, tenemos una aventura más centrada en los sucesos
@@ -636,7 +636,8 @@ pero bueno, tampoco me importa.
          podéis utilizar como están (tras ese pequeño trabajo), añadirlas a
          alguna localización más grande y que estas sean una zona o usarlas
          para cuando vuestros jugadores vagan sin rumbo o van a donde no
-         queríais que vayan se elige una al azar y... <i>tras subir la colina
+         queríais que vayan; como solución podéis elegir una de estas
+         localizaciones al azar y les dices... <i>tras subir la colina
          os encontráis con [inserte localización de Trilemma Adventures
          aquí]</i>.</p>
          <p>El libro que os he enlazado en DriveThru tiene 55 aventuras, pero
