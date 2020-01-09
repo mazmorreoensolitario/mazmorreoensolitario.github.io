@@ -268,7 +268,8 @@ soportan ese modo de juego, os iré comentando en cada apartado de cada juego:
          <h4>4. Ruins of the Undercity</h4>
          <p><strong><a
          href="https://www.drivethrurpg.com/product/109821/Ruins-of-the-Undercity?affiliate_id=1914894"
-         target="_blank">Ruins of the Undercity</a></strong> es otro juego de
+         target="_blank">Ruins of the Undercity</a></strong> de Kabuki Kaiser,
+         es otro juego de 
          rol que permite el <strong>juego en solitario sin Game
          Master</strong>, concretamente este libro indica que es para jugar sin
          GM, por lo que también podéis usarlo en un grupo de amigos cuando a
@@ -334,7 +335,8 @@ soportan ese modo de juego, os iré comentando en cada apartado de cada juego:
          <h4>5. Mad Monks of Kwantoom</h4>
          <p><strong><a
          href="https://www.drivethrurpg.com/product/129506/Mad-Monks-of-Kwantoom?affiliate_id=1914894"
-         target="_blank">Mad Monks of Kwantoom</a></strong> es la siguiente
+         target="_blank">Mad Monks of Kwantoom</a></strong> también de Kabuki
+         Kaiser, es la siguiente
          evolución de Ruins of the Undercity, que hemos visto en el punto
          anterior. También <strong>está diseñado para el juego sin
          GM.</strong></p> 
