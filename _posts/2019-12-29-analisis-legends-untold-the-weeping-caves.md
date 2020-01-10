@@ -640,7 +640,7 @@ sensación muy satisfactoria, pero a la vez te agota mentalmente.
 Y aquí viene la explicación de a lo que me refiero con que es un juego "denso":
 si te gusta, te va a encantar porque comprime todo lo que puede darte al máximo
 para que con poco tengas mucho, pero a la vez, te va a costar más asimilarlo y
-puede que tras una partida necesites un descanto antes de echar otra más.
+puede que tras una partida necesites un descanso antes de echar otra más.
 
 Siguiendo con el hilo del ritmo del juego, doy gracias por todos los diferentes
 tipos de tests que nos plantea el juego. Si reducimos las mecánicas a su punto
@@ -648,7 +648,7 @@ más atómico, es verdad que todo son tiradas de 3d6 (y algunas 4d6) y ver qué
 pasa con el resultado, pero la forma que tienen de hacer variar esas tiradas,
 los héroes que están involucrados, si podemos ayudar otro héroe a que pase la
 prueba y que estas pruebas sean obligadas o no según nuestro nivel de
-preparación, le da mucha variedad al juego y haces que afrontes cada nueva
+preparación, le da mucha variedad al juego y hace que afrontes cada nueva
 tirada con curiosidad por saber qué tipo de test va a ser esta vez. Creo que
 las mecánicas relacionadas con los tipos de tests están exprimidas al máximo y
 no podemos pedir más. Aunque yo espero que me sorprendan con algo nuevo en la
