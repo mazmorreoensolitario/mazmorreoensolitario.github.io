@@ -43,31 +43,31 @@
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
       {% for tag in site.tags %}
-      {% if tag[0] == "Everdell"
+      {% if tag[0] == "Expansiópolis"
       or tag[0] == "Labyrinth Lord"
-      or tag[0] == "Rol"
       or tag[0] == "Detective"
       or tag[0] == "Escape Plan"
-      or tag[0] == "Expansiópolis"
+      or tag[0] == "Everdell"
       or tag[0] == "Héroes de Terrinoth"
-      or tag[0] == "Mothership"
+      or tag[0] == "Rol"
+      or tag[0] == "Root: Riverfolk"
       or tag[0] == "A Rasp of Sand"
       or tag[0] == "GMT Games"
       or tag[0] == "Ironsworn"
+      or tag[0] == "Legends Untold: The Great Sewers"
       or tag[0] == "Mad Monks of Kwantoom"
       or tag[0] == "Mothership: A Pound of Flesh"
+      or tag[0] == "Mothership"
       or tag[0] == "OSR"
-      or tag[0] == "Root: Expansión Los Ribereños"
-      or tag[0] == "Root: Riverfolk"
+      or tag[0] == "Print & play"
       or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Scythe: El Auge de Fenris"
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Solar Blades & Cosmic Spells"
+      or tag[0] == "Tabletopia"
       or tag[0] == "The 7th Continent"
       or tag[0] == "The Hole in The Oak"
-      or tag[0] == "Trilemma Adventures"
-      or tag[0] == "Welcome Hacia el Perfecto Hogar"
-      or tag[0] == "Winter's Daughter" %}
+      or tag[0] == "Too Many Bones" %}
 <span class="label label-danger">#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
       {% endif %}
