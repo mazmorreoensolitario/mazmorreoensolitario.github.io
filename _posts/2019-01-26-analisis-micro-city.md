@@ -44,7 +44,8 @@ el tiempo."
                  <li>El arte es de Paweł Niziołek y Jarosław Wajs. </li>
              <li>Es producido por <a
     href="https://www.facebook.com/thistroygames">Thistroy Games</a>. Esta
-    editorial es también conocida por A4 Quest y Pocket Mars, de
+    editorial es también conocida por A4 Quest y <strong>Pocket Mars</strong>
+    (<a href="{{site.baseurl}}/2019/03/14/analisis-pocket-mars/">análisis aquí</a>), de
         los que os hablaremos próximamente.</li>
          </ul>
          </div>
@@ -55,6 +56,11 @@ el tiempo."
 reglas](https://boardgamegeek.com/filepage/169256/micro-city-pnp-cards-rules)
 en inglés.
 
+> **Campaña de Kickstarter de la segunda edición (cambios respecto a esta) el
+> 14 de enero. [Link a la campaña.](https://www.kickstarter.com/projects/thistroygames/micro-city-pocket-sized-citybuilding-game?ref=mazmorreoensolitario)**
+
+**Actualización 15/01/2020.** Se añaden los links a la campaña de la segunda
+edición.
 
 ### Información general
 
@@ -344,9 +350,9 @@ base), pero a lo mejor han hecho algún que otro cambio adicional. Si se diera
 el caso ya veríamos como cambia la cosa...
 
 Si os gusta el tema de construcción de ciudades, hace unas semanas os
-hablábamos de <a href="{{site.baseurl}}/2018/12/23/analisis-sprawlopolis/">
-Sprawlopolis</a>, un juego también disponible como print & play que se basa
-en la mecánica de colocación de cartas.
+hablábamos de [Sprawlopolis/Expansiópolis]({{site.baseurl}}/2018/12/23/analisis-sprawlopolis/)
+, un juego también disponible como print & play que se basa en la mecánica de
+colocación de cartas.
 
 <hr>
 
