@@ -2,7 +2,7 @@
 layout: post
 title: "Análisis - Land 6"
 date:   2019-03-19
-categories: [Análisis]
+categories: [Análisis, Print & play]
 tags: [Land 6, Print & play, Solitaire Print & Play Design Contest]
 imghtml: https://cf.geekdo-images.com/imagepage/img/GboUm5TjVvV0zeB-WrybWwEHJs8=/fit-in/900x600/filters:no_upscale()/pic2653991.jpg
 score: 3.5
