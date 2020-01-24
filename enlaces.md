@@ -22,6 +22,7 @@ medios en inglés.
 * [Cŕonicas de Soloburg](https://icampo28.wixsite.com/cronicasdesoloburg/)
   (juegos de mesa, español)
 * [El Solitario Games](https://elsolitariogames.com) (juegos de mesa, español)
+* [Solitaire Times](https://www.solitairetimes.net/) (juegos de mesa, inglés)
 
 ### Canales de YouTube
 
@@ -103,6 +104,7 @@ También por orden alfabético:
 
 * [Bud's RPG review](https://www.youtube.com/channel/UC88H-wLe8GKfeyVlewUAnSQ)
   (rol, inglés)
+* [Centurion's review](https://www.youtube.com/channel/UCbocxXaZ0spVwkCmxWaGZzA)
 * [Garblag
   Games](https://www.youtube.com/channel/UCESOGHjsqHfaprCL5p1zSzg/featured)
   (rol, inglés)
@@ -117,10 +119,15 @@ También por orden alfabético:
   (wargames, inglés)
 * [Ol' Man Grognard with DM
   Glen](https://www.youtube.com/user/SmokestackJones/featured) (rol, inglés)
+* [Ones upon a game](https://www.youtube.com/channel/UCufMuaA3bOz34f9YbvGaKLQ)
+  (wargames, juegos de mesa, inglés)
 * [Ready Steady Play](https://www.youtube.com/channel/UCpp9ydcjWVYOEuQWkw_U38g)
   (juegos de mesa, inglés)
 * [The Player's Aid](https://www.youtube.com/channel/UCzgDa9S8nnVLxXPzjBX8WMg)
   (wargames, inglés)
+* [Wargame
+  Reviewer](https://www.youtube.com/channel/UCj3MsvhtH_vHk5ZxFU24aiQ/videos)
+  (wargames, español)
 * [Watch It Played](https://www.youtube.com/channel/UCGK9n7svoIjuaQfRIBJXkqQ)
   (juegos de mesa, inglés)
 
