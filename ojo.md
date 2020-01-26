@@ -46,6 +46,10 @@ Esta es una lista (en orden de: "según me vaya acordando") de diversos juegos
 en solitario que *igual* aparecen en algún momento en el blog:
 
 
+43. [Suez '56: Anglo-French Intervention](https://shop.decisiongames.com/ProductDetails.asp?ProductCode=1717)
+42. [Battles of the Bulge: Celles](http://stores.revolutiongames.us/battles-of-the-bulge-celles/)
+41. [Poland Defiant: The German Invasion, September 1939](http://www.revolutiongames.us/index.html)
+40. [Combat!](https://www.compassgames.com/combat.html)
 39. [Dawn of the Zeds](https://www.amazon.com/Victory-Point-Games-Dawn-Board/dp/B07JKQHYW6/ref=sr_1_1?crid=165UZ7ZHRTFDH&keywords=dawn+of+the+zeds+board+game&qid=1573401712&sprefix=dawn+of+the+zeds+bo%2Caps%2C221&sr=8-1)
 38. [Red Winter](https://www.gmtgames.com/p-487-red-winter-expanded-2nd-edition.aspx)
 37. [The 7th Continent](https://shop.seriouspoulp.com/eu/en/10-the-7th-continent)
