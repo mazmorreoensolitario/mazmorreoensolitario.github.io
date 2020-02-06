@@ -4,7 +4,6 @@ title: Sobre esta página
 permalink: /acerca-de/
 ---
 
-
 **Mazmorreo en solitario** es un blog sobre toda clase de información
 relacionada con el hobby de los juegos de mesa de un jugador.
 
@@ -63,3 +62,11 @@ del tema [cards](https://github.com/sharu725/cards).
   
   El dinero recaudado por este método se reinvierte para traer más
   contenido al blog.
+
+
+# Sobre mí
+
+* Libros que estoy leyendo ahora: *El bosque oscuro* de Liu Cixin y *14 de
+  julio* de Éric Vuillard
+* Siguiente libro en mi lista para leer: *Tiamat's Wrath* de James S. A. Corey
+* Series que estoy viendo: Star Trek: Picard
