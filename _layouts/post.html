@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+<meta name="twitter:card" content="{{page.title}}"/>
+<meta name="twitter:image"
+      {% if post.imghtml %}
+      content="{{ post.imghtml }}"
+      {% else %}
+      content=="{{ post.img }}"
+      {% endif %}
+      />
+<meta name="twitter:image:alt" content="{{page.title}}"/>
 <div class="row">
 <div class="col-md-8">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
