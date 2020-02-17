@@ -113,7 +113,7 @@ width="640" height="480" alt="01-setup"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
 <p align="center"><small>12 Patrols preparado para jugar (¡un saludo a las
-personas que leen el blog desde Ecuador!)</small></p>
+personas que leen el blog desde Ecuador, Colombia y Venezuela!)</small></p>
 
 
 Además de imprimir las nueve cartas de 12 Patrols vais a tener que poner 9
