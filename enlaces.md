@@ -33,6 +33,9 @@ medios en inglés.
   (rol, inglés)
 * [Beyond Solitaire](https://www.youtube.com/channel/UCUbSYmhAlOW1RorV_jXmo2w)
   (juegos de mesa, inglés)
+* [Board Game
+  Solo](https://www.youtube.com/channel/UC5xlJDqSZ6jprYcWJenwJrA/featured)
+  (juegos de mesa, ingléS)
 * [Box of Delights](https://www.youtube.com/user/rickkcroyal/featured) (juegos
   de mesa, inglés)
 * [Chits and Chats](https://www.youtube.com/user/kallisto73/videos) (juegos de
@@ -70,14 +73,16 @@ medios en inglés.
 
 * [Blackoath entertainment](https://discordapp.com/invite/xjQTcUr) (rol,
   inglés)
+* [Lone Wolf Roleplaying](https://discordapp.com/invite/jwYknJY) (rol, inglés)
 
 ### Podcasts
 
 Me tenéis que perdonar en esta sección, no suelo tener momentos del día en que
 pueda escuchar podcasts, por lo que conozco muy pocos:
 
-* [No Solo Juegos Solos](https://www.ivoox.com/en/podcast-no-solo-juego-solos_sq_f1275307_1.html) (juegos de
-  mesa, rol, español)
+* [No Solo Juegos
+  Solos](https://www.ivoox.com/en/podcast-no-solo-juego-solos_sq_f1275307_1.html)
+  (juegos de mesa, rol, español)
 * [Solo en
   Balda](https://www.ivoox.com/en/podcast-solo-balda_sq_f1763083_1.html)
   (juegos de mesa, español)
@@ -104,7 +109,9 @@ También por orden alfabético:
 
 * [Bud's RPG review](https://www.youtube.com/channel/UC88H-wLe8GKfeyVlewUAnSQ)
   (rol, inglés)
-* [Centurion's review](https://www.youtube.com/channel/UCbocxXaZ0spVwkCmxWaGZzA)
+* [Centurion's
+  review](https://www.youtube.com/channel/UCbocxXaZ0spVwkCmxWaGZzA) (wargames,
+  inglés)
 * [Garblag
   Games](https://www.youtube.com/channel/UCESOGHjsqHfaprCL5p1zSzg/featured)
   (rol, inglés)
