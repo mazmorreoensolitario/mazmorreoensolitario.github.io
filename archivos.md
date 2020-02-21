@@ -41,7 +41,9 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
         tag[0] == "Ironsworn" or
         tag[0] == "Winter's Daughter" or
         tag[0] == "The Hole in The Oak" or
-        tag[0] == "Trilemma Adventures" %}
+        tag[0] == "Trilemma Adventures"  or
+        tag[0] == "Zine Quest" or
+        tag[0] == "Zine Quest 2" %}
         <span class="label label-danger">#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
     {% else %}
