@@ -43,9 +43,14 @@ física os va a salir algo más caro.
 **Iré actualizando esta entrada con las zines que vayan saliendo**, aunque como
 he sacado esta entrada algo tarde, la primera oleada de zines ya habrá
 terminado su tiempo de financiación (otro año empezaré a tiempo), por lo que en
-algunas no podréis meteros. Las añado igualmente por si se abren late-pledges.
+algunas no podréis meteros. Las añado igualmente por si se abren late-pledges y
+porque posiblemente se puedan conseguir digitalmente por otra tienda cuando se
+terminen de escribir.
 
-### Zines para el juego en solitario (actualizada)
+**Tenéis una explicación de mi criterio para considerar una zine solo-friendly
+o no más abajo.**
+
+### Zines para el juego en solitario (actualizada el 22/02)
 
 Estas zines permiten el juego en solitario por diseño o tienen guías para el
 juego en solitario:
@@ -67,7 +72,6 @@ juego en solitario:
         solitario.</strong></li></ul></p>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -83,6 +87,26 @@ juego en solitario:
         héroes a medida que superan obstáculos, sigues todo desde la 
         perspectiva de un objeto mágico a medida que pasa por las manos de sus
         diferentes poseedores.</p>
+        <p><ul><li><strong>Diseño específico para el juego en solitario.</strong></li></ul></p>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/027/829/599/21cd6b8b171ba48ccf2dc03b98b0ab20_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1579699922&auto=format&frame=1&q=92&s=00ff93b1f8c25c08e3fc65f14d5efc37"
+        class="img-thumbnail" alt="Procession">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/zargogames/procession-a-zine-rpg-zinequest?ref=mazmorreoensolitario">
+    Procession</a></h4>
+        <p>Procession es un juego sobre monstruos y milagros. Es un juego sobre
+        imaginar un pueblo, y después hacerlo mejorar por medios no
+        convencionales. Es un juego sobre empatizar con seres extraños. No
+        juegas como un único personaje sino que personificas el pueblo del
+        valle de Edmund como un todo, y las extrañas criaturas que pasan por
+        él.</p>
         <p><ul><li><strong>Diseño específico para el juego en solitario.</strong></li></ul></p>
      </div>
 </div>
@@ -106,6 +130,23 @@ juego en solitario:
         y Alone Among the Twisting Trees, un nuevo juego que se escribirá para
         añadir en estas zine, va sobre perderse en un misterioso bosque y
         descubrir extraños artefactos.</p>
+        <p><ul><li><strong>Diseño específico para el juego en solitario.</strong></li></ul></p>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/031/301/aa977840992355226765ce8488db368c_original.jpeg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1581290034&auto=format&frame=1&q=92&s=63239177b8c2b1177ad1c9fffbf96970"
+        class="img-thumbnail" alt="i'm gonna be">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/llovelace/im-gonna-be?ref=mazmorreoensolitario">
+    i'm gonna be</a></h4> 
+        <p>Es un juego para uno o más jugadores sobre encontrarse a sí mismos y
+        hacer conexiones en un viaje por carretera. Utiliza una lista de
+        reproducción (cualquier lista de reproducción) y un d6.</p>
         <p><ul><li><strong>Diseño específico para el juego en solitario.</strong></li></ul></p>
      </div>
 </div>
@@ -150,11 +191,15 @@ juego en solitario:
      </div>
 </div>
 
-### Zines solo-friendly (en progreso)
+### Zines solo-friendly (actualizada el 22/02)
 
-Esta es una selección en base a lo que *yo creo* que puede ser solo-friendly,
-así que antes de meteros en alguna de estas revistas para el juego en
-solitario, por favor leer bien la página del proyecto y hacer vuestra decisión:
+Esta es una selección en base a lo que *yo creo* que puede ser **solo-friendly,
+aka: que necesitas poco o ningún elemento extra para poder jugar en
+solitario**. 
+
+Antes de meteros en alguna de estas revistas para el juego en
+solitario, por favor leer bien la página del proyecto y haceros la pregunta de
+si para vosotros sería también solo-friendly.
 
 <div class="row">
     <div class="col-md-3">
@@ -168,7 +213,7 @@ solitario, por favor leer bien la página del proyecto y hacer vuestra decisión
     The Last Place on Earth</a></h4> 
         <p>Es un juego inspirado por la edad heroica de la exploración de la
         Antártida y por la fatídica expedición de Robert F. Scott en 1912 al
-        Polo Sur. Es un juego sobre las adversidades que presenta la exporación
+        Polo Sur. Es un juego sobre las adversidades que presenta la exploración
         en la Antártida y sobre la arrogancia de los hombres que creen que
         pueden y deben conquistar el mundo natural. En este juego se asumen los
         roles de miembros de la expedición en una carrera hacia el Polo Sur
@@ -179,10 +224,280 @@ solitario, por favor leer bien la página del proyecto y hacer vuestra decisión
         contar historias de forma colaborativa sin GM, por lo que creo que se
         podrá llevar a varios personajes y asignares
         características/personalidades concretas y así poder jugar al juego en
-        solitario. </p>
+        solitario.</p>
      </div>
 </div>
-<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/086/458/07f1d16146a99eaa6c029e5244e36499_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1581659586&auto=format&frame=1&q=92&s=14b0967932741bd909c499d4341c288f"
+        class="img-thumbnail" alt="Our Queen Crumbles: a Weird-Fantasy RPG">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/blooperly/our-queen-crumbles-a-weird-fantasy-rpg?ref=mazmorreoensolitario">
+    Our Queen Crumbles: a Weird-Fantasy RPG</a></h4> 
+        <p>Es un juego de contar historias colaborativo sobre venganza, la
+        muerte inevitable y decir adiós a los que amas. Tomarás el rol de El
+        Caballero de los Susurros, La Bruja de la Gravedad, El Gólem Ahorcado y
+        de El Historiador Sangriento, los cuatro lacayos más leales de la una
+        vez grandiosa Reina. Ir en búsqueda del asesino de la Reina en un épico
+        y fantástico viaje de carretera.</p> 
+        <p><strong>¿Por qué creo que es solo-friendly?</strong> El juego se
+        describe como un sistema de contar historias progresivo sin GM basado
+        en que vas descubriendo poco a poco la historia de tus personajes, y
+        que a la vez vas creando el mundo. Creo que esta fórmula funciona igual
+        de bien con una o varias personas.</p>
+     </div>
+</div>
+
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/027/870/722/ccf3ff93fb59bc2c6fa2bc5ac722671c_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1580087057&auto=format&frame=1&q=92&s=c012998ba96a91cb7aca0420d139dc33"
+        class="img-thumbnail" alt="i'm sorry did you say street magic">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/caro-asercion/im-sorry-did-you-say-street-magic-a-citybuilding-storygame?ref=mazmorreoensolitario">
+    i'm sorry did you say street magic</a></h4> 
+        <p>i'm sorry did you say street magic es un juego de contar historias y
+        de construcción de ciudades. Los jugadores exploran de forma
+        colaborativa una ciudad que crean juntos. En cada turno los jugadores
+        añaden a la ciudad un Barrio, un Punto de Referencia o un Residente,
+        apilando cartas unas encima de otras para mostrar la relación entre los
+        habitantes de la ciudad y los lugares en los que viven. Estas cartas se
+        complican con Eventos que tienen lugar en la ciudad: festivales,
+        elecciones, ceremonias, desastres naturales, misterios o
+        descubrimientos que cambian el flujo y el foco del juego. A medida que
+        juegues las cartas descubrirás los nombres verdaderos de la ciudad,
+        cualidades y singularidades que hacen al sitio único. </p>
+        <p><strong>¿Por qué creo que es solo-friendly?</strong> No necesita GM
+        y pone que es colaborativo, creo que todos los roles de los jugadores
+        van a ser iguales, por lo que podéis jugar en solitario con varias
+        manos sin mayor problema.</p>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/013/806/e14ced3d1f0c67dff5d36680c0e09cc4_original.jpeg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1581119651&auto=format&frame=1&q=92&s=4330bbf50a2f855a7c480fe518f6ff6a"
+        class="img-thumbnail" alt="Dirt RPG">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/1149041918/dirt-rpg-zinequest?ref=mazmorreoensolitario">
+    Dirt RPG</a></h4> 
+        <p>Dirt es un juego de rol sobre supervivencia y descubrimientos en un
+        mundo post-apocalíptico que podría haberse considerado en algún momento
+        pasado una ambientación fantástica clásica. Para crear un personaje
+        cada jugador elige un Kin (parecido, parentesco), Calling (llamada) y
+        Trade (profesión). Cada Kin tiene acceso a tablas de rasgos aleatorios,
+        después elegirás un Calling para determinar tus habilidades iniciales y
+        tu objeto principal, que determinará el foco de tu viaje. Utiliza el
+        conocimiento de tu profesión para conseguir las recompensas del
+        pasado.</p>
+        <p><strong>¿Por qué creo que es solo-friendly?</strong> Además de tener
+        muchas tablas para la generación de personajes el sistema de encuentros
+        de Dirt está dividido en varias categorías: Denizen, Site y
+        Artifact. Solamente leyendo esto ya me imagino un sistema estructurado
+        que fomenta el juego en solitario.</p>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/027/721/136/e1b7d0ee86cadd88b0c4129fe117118e_original.png?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1578776625&auto=format&frame=1&q=92&s=ea0cb95c3937f50e156ecb733e49cfcd"
+        class="img-thumbnail" alt="memoria">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/citadelofswords/memoria-the-zine-edition?ref=mazmorreoensolitario">
+    memoria</a></h4> 
+        <p>Es una zine sin GM en el que cuentas las historias de personajes en
+        largos periodos de tiempo. En este juego te adentrarás en las siempre
+        cambiantes relaciones entre personajes y las políticas que existen entre
+        ellos, con una forma de escenas muy libre.</p> 
+        <p><strong>¿Por qué creo que es solo-friendly?</strong> No tiene GM y
+        habla en plural sobre "tus personajes", me da la sensación de que habla
+        de llevar más de uno como si fuera algo normal, aunque eso es poco
+        común en los juegos de rol multi, es más de solo. Además el juego no
+        menciona nada de interacción.</p>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/060/815/6ff197670bea77e43da54d5f88dad6ac_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1581482123&auto=format&frame=1&q=92&s=4b19227227b29609773a3e5ad6b22194"
+        class="img-thumbnail" alt="Lost Roads">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/ary/lost-roads-zine-quest?ref=mazmorreoensolitario">
+    Lost Roads</a></h4> 
+        <p>Lost Roads en un juego de rol que sigue a unos migrantes en su viaje
+        a través de un mundo implacable y extremo. Los humanos, una vez que
+        fueron ricos gracias a la magia y a los recursos, explotaron la
+        naturaleza por encima de sus posibilidades. La sociedad moderna
+        colapsó, volviendo a un nivel tecnológico pre-medieval. Pequeñas
+        comunidades se apiñan en paisajes áridos y retorcidos conectados
+        mediante Carreteras Perdidas (Lost Roads), caminos caducos que han sido
+        reclamados. Los jugadores, expulsados por los desastres naturales,
+        viajan por las Carreteras Perdidas en busca de un lugar al que llamar
+        hogar. Cada jugador tiene un papel y un dominio elemental (aire, agua,
+        fuego o tierra). Usarán magia para mejorar o corromper la naturaleza y
+        así llegar a su objetivo, pero dañar a la naturaleza da fuerzas a una
+        malvada y sobrenatural Tormenta. </p> 
+        <p><strong>¿Por qué creo que es solo-friendly?</strong> Aunque el juego
+        pone que necesita un GM tiene una estructura muy definida, tanto la de
+        los roles de los personajes como la del propio juego. Nos dice que el
+        juego tiene cinco fases: construcción del mundo (que es colaborativa),
+        viaje por el mundo creado, una confrontación, un descanso y finalmente
+        el fin del juego. Veo una estructura clara, incluso tipo roguelike, que
+        puede favorecer el juego en solitario.</p>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/027/899/665/4d12c2e3dc2cadb520c8837397887394_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1580306512&auto=format&frame=1&q=92&s=625736bf2db3fe103ffbee67dec1e2ad"
+        class="img-thumbnail" alt="No Stone Unturned">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/adamebell/no-stone-unturned-zinequest?ref=mazmorreoensolitario">
+    No Stone Unturned</a></h4> 
+        <p>Crearás una historia con personajes en un mundo completamente
+        diferente al nuestro. La sociedad está empezando a organizarse después
+        de otro apocalipsis. Desastres naturales, desastres causados por el ser
+        humano e influencias externas han causado un colapso detrás de otro,
+        pero la humanidad ha aguantado. Los restos de estas civilizaciones y
+        artefactos de su caída acechan escondidos en el mundo. Ha pasado
+        suficiente tiempo y se han establecido algunos asentamientos, los
+        personajes que tú juegas viven en uno de estos asentamientos y tienen
+        como misión explorar el mundo que los rodea para adquirir recursos y
+        conocimiento. </p> 
+        <p><strong>¿Por qué creo que es solo-friendly?</strong> Es un juego de
+        rol que pone que puede jugarse sin GM y en el que se diseña de forma
+        colaborativa el mundo y el asentamiento. Cuando un personaje no "está
+        en focus" el jugador que lleva a ese personaje hace de GM, por lo que
+        creo que esa mecánica favorece el juego en solitario. Puedes llevar a
+        varios personajes y dejar a uno fuera de focus para decidir qué pasa
+        con el resto.</p>
+        <p>Puedes conseguir una copia del juego fuera de la campaña de
+            Kickstarter por <a
+        href="https://adamebell.itch.io/">itch.io</a></p>
+     </div>
+</div>
+
+
+### Zines que están en el limbo
+
+Estas zines me causan dudas:
+
+* [Celestial Bodies, Orbital
+  Mechanics](https://www.kickstarter.com/projects/mossytoes/celestial-bodies-orbital-mechanics?ref=mazmorreoensolitario).
+* [Snake People: A Post-Apocalyptic Story
+  Game](https://www.kickstarter.com/projects/ruthtillman/snake-people-a-post-apocalyptic-story-game-zinequest-2?ref=mazmorreoensolitario). 
+* [Heaven Has No Taste; And Other True
+  Statements](https://www.kickstarter.com/projects/heaven-has-no-taste/heaven-has-no-taste-and-other-true-statements?ref=mazmorreoensolitario).
+* [Space Goblins!
+  RPG](https://www.kickstarter.com/projects/spacegoblins/space-goblins-rpg-zinequest?ref=mamorreoensolitario).
+  
+
+### ¿Por qué la zine X no está en la lista de solo o solo-friendly?
+
+Se me ocurren cinco opciones:
+
+**1)** Hoy no me he metido (aún) en kickstarter para ver si han salido zines
+    nuevas.
+
+**2)** Me la he saltado por error.
+   Me remito a esta captura de pantalla de mis pestañas del viernes tras
+   haber cerrado otras tantas, para que veáis el caos al que me enfrento:
+   
+   ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200221-zinequest-2/chaos.png)
+   
+   Evidentemente, algo se me ha podido pasar.
+
+   Suelo mirar varias veces los proyectos de kickstarter, por lo que puede que
+   eventualmente aparezca en la lista.
+
+   También se me habrá podido pasar completamente. Así que cae ante ti la
+   imperiosa responsabilidad de hacérmelo saber para que esta entrada quede
+   completa. Utiliza los comentarios de esta entrada o cualquier otro medio,
+   gracias de antemano :)
+
+**3)** No creo que sea solo-friendly (ver abajo). Pero por favor, si tú crees
+    que sí es ¡coméntamelo sin problemas! Igual se me ha pasado una zine súper
+    interesante porque no se me ha ocurrido jugarla de una manera X porque yo
+    solo he pensado en Y. Como fan de los juegos en solitario, no quiero
+    perderme nada, así que insisto, comenta sin problemas.
+
+**4)** La zine va de un tema tan abstracto que no tengo ni idea de qué va.
+
+**5)** La zine no da detalles suficientes sobre cómo se hacen algunas
+cosas. Ejemplo: [Mage Against The
+Machine](https://www.kickstarter.com/projects/tabletopcrow/mage-against-the-machine).
+
+
+### ¿Cómo decides si es solo-friendly o no?
+    
+Básicamente me leo *toda* la página del proyecto y busco algunas ideas clave:
+
+* **Que sea GM-less.** Es un buen comienzo. Pero no todos los RPGs GM-less son
+  solitarios. Algunos son "muy sociales" y el objetivo del juego es
+  interactuar con otros personajes, por lo que esto dificulta el juego en
+  solitario. Si usáis un emulador de NPCs o algo similar, podría ser
+  solitario, pero de buenas a primeras si el objetivo principal del juego es
+  interactuar con personas y "crear" algo nuevo todos juntos... derrota un
+  poco el propósito del juego que se juegue en solitario, aunque ciertamente es
+  posible, pero no muy *friendly*.
+
+  [Moonsailors](https://www.kickstarter.com/projects/annamdejong/moonsailors)
+  podría ser un pequeño ejemplo; empieza super bien diciéndonos que es GM-less,
+  sobre viajeros *solitarios* en el espacio... pero luego comenta que "otros
+  jugadores *nos ayudan* a contar la historia preguntándonos..." eso me huele a
+  que principalmente el juego busca interacción. Le sumo eso a que tiene un
+  número de jugadores recomendado alto, que pone que los detalles de las
+  localizaciones que se exploran se dejan sin concretar (ver abajo, está
+  relacionado con la aleatoriedad) y descarto la zine muy dolorosamente,
+  ya que los temas espaciales me gustan mucho. Ojalá sea solo-friendly y me
+  haya confundido.
+
+* **Que tenga aleatoriedad.** Para ayudar a nuestra imaginación necesitamos
+  pequeñas ideas atómicas, esto suele traducirse a que tengamos muchas tablas o
+  generadores de donde vayamos recolectando pequeños detalles que nos ayuden a
+  formar una  imagen concreta.
+  
+  Siguiendo con el ejemplo de arriba, Moonsailors pone que los detalles de las
+  localizaciones se dejan sin concretar y no nos indica si tendremos "un algo"
+  que nos de pistas. Si no tenemos esto yo tiendo a pensar que las ideas surgen
+  de las conversaciones que tengamos con otras personas, así que otra vez,
+  descarto que sea solo-friendly (también otra vez: espero equivocarme).
+
+* **Que tenga una estructura de juego clara.** Simplemente decir que el juego
+  estructurado, ya bien sea para solitario o no es una necesidad. De la misma
+  forma en la que en un juego de rol multi hay un procedimiento para mirar si
+  hay un encuentro en la mazmorra cada dos turnos de exploración, en el juego
+  en solitario nos tenemos que regir por alguna serie de normas, que son lo que
+  dan estructura al juego, para que todo fluya más fácilmente.
+  
+  Cómo de definida esté esta estructura del juego ayudará a que el juego de rol
+  en cuestión sea más o menos solo-friendly.
+
+**¿Todos los juegos de rol en solitario/solo-friendly tienen que cumplir estas
+características?** Claro que no. Yo estoy jugando una campaña tipo hexcrawl para
+Labyrinth Lord en solitario y clarísimamente LL no fue creado teniendo en mente
+este tipo de juego; pero se puede jugar. Suplo las lacras que tiene con muchas
+muchas tablas y reglas de otros juegos para que me ayuden, pero LL no es
+solo-friendly.
 
 <hr>
 
