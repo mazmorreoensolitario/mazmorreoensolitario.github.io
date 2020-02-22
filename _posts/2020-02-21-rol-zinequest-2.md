@@ -50,7 +50,7 @@ terminen de escribir.
 **Tenéis una explicación de mi criterio para considerar una zine solo-friendly
 o no más abajo.**
 
-### Zines para el juego en solitario (actualizada el 22/02)
+### Zines para el juego en solitario (actualizada el 22/02, mañana)
 
 Estas zines permiten el juego en solitario por diseño o tienen guías para el
 juego en solitario:
@@ -191,7 +191,30 @@ juego en solitario:
      </div>
 </div>
 
-### Zines solo-friendly (actualizada el 22/02)
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/163/176/6238df1e7c6d76d5c494db6005a578a0_original.JPG?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1582214036&auto=format&frame=1&q=92&s=bdd22e5eb0668560e832022420b47f72"
+        class="img-thumbnail" alt="Dark Path: A weird interactive fiction zine">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+     href="https://www.kickstarter.com/projects/geargrind/dark-path-a-weird-interactive-fiction-zine?ref=mazmorreoensolitario">
+     Dark Path: A weird interactive fiction zine</a></h4> 
+        <p>Es una zine de ficción interactiva al estilo
+        elige-tu-propia-aventura con bellas ilustraciones y elementos RPG. La
+        zine utilizará el formato clásico de los libro-juegos de "Para hacer X,
+        ve al apartado 32" y vendrá con una hoja de personaje dentro que te
+        ayudará a tomar nota de la salud, coraje, habilidad y el progreso
+        general durante el viaje. Los chequeos de habilidad se harán mediante
+        un d20.</p> 
+        <p><ul><li><strong>Diseño específico para el juego en solitario.</strong></li></ul></p>
+     </div>
+</div>
+
+
+
+### Zines solo-friendly (actualizada el 22/02, madrugada)
 
 Esta es una selección en base a lo que *yo creo* que puede ser **solo-friendly,
 aka: que necesitas poco o ningún elemento extra para poder jugar en
@@ -225,6 +248,8 @@ si para vosotros sería también solo-friendly.
         podrá llevar a varios personajes y asignares
         características/personalidades concretas y así poder jugar al juego en
         solitario.</p>
+        <p><ul><li>De desbloquearse un strech goal (1400$) se añadirá una
+        versión en solitario oficial.</li></ul></p>
      </div>
 </div>
 
