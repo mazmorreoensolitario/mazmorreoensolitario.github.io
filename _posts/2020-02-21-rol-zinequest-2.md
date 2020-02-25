@@ -50,10 +50,12 @@ terminen de escribir.
 **Tenéis una explicación de mi criterio para considerar una zine solo-friendly
 o no más abajo.**
 
-### Zines para el juego en solitario (actualizada el 22/02, mañana)
+### Zines para el juego en solitario (actualizada el 25/02, mañana)
 
 Estas zines permiten el juego en solitario por diseño o tienen guías para el
 juego en solitario:
+
+**(Zines más nuevas abajo)**
 
 <div class="row">
     <div class="col-md-3">
@@ -212,9 +214,48 @@ juego en solitario:
      </div>
 </div>
 
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/141/557/bd2c170580447bf1e847fb21966c7f62_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1582059192&auto=format&frame=1&q=92&s=46921e137b243a717d83a40d93b92f40"
+        class="img-thumbnail" alt="We're Just Friends">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+     href="https://www.kickstarter.com/projects/252728880/were-just-friends?ref=mazmorreoensolitario">
+     We're Just Friends</a></h4> 
+        <p>Esta es otra zine interactiva del estilo de elige-tu-propia-aventura
+        en el que eres Philotes el/la dios/a de la amistad romántica, que
+        muchos llaman "el pequeño beso". Conoces a Marte, Venus, Plutón,
+        Minerva. Los dioses que conoces han mostrado su faceta como parte del
+        mundo, muchos ellos más de una vez, y han hecho que sus mortales
+        elegidos hagan su trabajo. PMuchos de ellos mas de una vez. Pero no
+        Philotes. Todavía no.</p> 
+        <p><ul><li><strong>Diseño específico para el juego en solitario.</strong></li></ul></p>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/205/766/3e6e5073093ea7bf7cf3724e8de774d7_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1582569448&auto=format&frame=1&q=92&s=583dbc725c834ba910f65f8a90c6d057"
+        class="img-thumbnail" alt="Nadir">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+     href="https://www.kickstarter.com/projects/nadirrpg/nadir?ref=mazmorreoensolitario">
+     Nadir</a></h4> 
+        <p>Te encuentras en una pequeña nave perdido en una parte desconocida
+        del espacio. Tienes que hacer que tanto la nave como la tripulación
+        sobrevivan a medida que te enfrentas a uno de los cien diferentes
+        encuentros que puedes tener en cada turno. El viaje que tienes delante
+        no será uno fácil. </p> 
+        <p><ul><li><strong>Diseño específico para el juego en solitario.</strong></li></ul></p>
+     </div>
+</div>
 
 
-### Zines solo-friendly (actualizada el 22/02, madrugada)
+### Zines solo-friendly (actualizada el 25/02, mañana)
 
 Esta es una selección en base a lo que *yo creo* que puede ser **solo-friendly,
 aka: que necesitas poco o ningún elemento extra para poder jugar en
@@ -223,6 +264,31 @@ solitario**.
 Antes de meteros en alguna de estas revistas para el juego en
 solitario, por favor leer bien la página del proyecto y haceros la pregunta de
 si para vosotros sería también solo-friendly.
+
+**(Zines más nuevas arriba)**
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/176/295/f4c9a7a895f49a4d63817a525091e68d_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1582307314&auto=format&frame=1&q=92&s=0d5488755921aa8dfcbd56754bc4a6c2"
+        class="img-thumbnail" alt="The Magical Repair Shop">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/eliseitz/the-last-place-on-earth?ref=mazmorreoensolitario">
+    The Magical Repair Shop</a></h4> 
+        <p>The Magical Repair Shop es una zine sobre los artesanos que trabajan
+        en la antes mencionada tienda, magos que han dedicado su considerable
+        conocimiento y habilidades para reparar y restaurar reliquias y
+        artefactos mágicos.</p> 
+        <p><strong>¿Por qué creo que es solo-friendly?</strong> Aunque se
+        describe como un juego para al menos tres jugadores, las mecánicas de
+        cómo jugar favorecen el juego en solitario, ya que tratan sobre hacerse
+        preguntas sobre la escena que queremos jugar, responder entradas para
+        dar forma al mundo, los personajes y los objetos mágicos en los que
+        estás trabajando. </p>
+     </div>
+</div>
 
 <div class="row">
     <div class="col-md-3">
@@ -434,6 +500,8 @@ Estas zines me causan dudas:
   Statements](https://www.kickstarter.com/projects/heaven-has-no-taste/heaven-has-no-taste-and-other-true-statements?ref=mazmorreoensolitario).
 * [Space Goblins!
   RPG](https://www.kickstarter.com/projects/spacegoblins/space-goblins-rpg-zinequest?ref=mamorreoensolitario).
+* [Affliction: Coping With the Apocalypse RPG
+  Zine](https://www.kickstarter.com/projects/1577794148/affliction-coping-with-the-apocalypse-rpg-zine?ref=mazmorreoensolitario)
   
 
 ### ¿Por qué la zine X no está en la lista de solo o solo-friendly?
