@@ -299,7 +299,7 @@ juego en solitario:
      </div>
 </div>
 
-### Zines solo-friendly (actualizada el 26/02, mañana)
+### Zines solo-friendly (actualizada el 26/02, mediodía)
 
 Esta es una selección en base a lo que *yo creo* que puede ser **solo-friendly,
 aka: que necesitas poco o ningún elemento extra para poder jugar en
@@ -311,6 +311,42 @@ si para vosotros sería también solo-friendly.
 
 **(Zines más nuevas arriba)**
 
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/159/915/0e34ce27f7411bcb7272e26c56655abd_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1582188824&auto=format&frame=1&q=92&s=6f20f05e0f75ed07fb62b44fb193fa60"
+        class="img-thumbnail" alt="Damocles' Decay: A Zine Quest RPG">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/dandoesgames/damocles-decay-a-zine-quest-rpg?ref=mazmorreoensolitario">
+    Damocles' Decay: A Zine Quest RPG</a></h4> 
+        <p>El Sol se está convirtiendo en una gigante roja y pronto destruirá
+        la Tierra... La buena noticia es que la población de la Tierra ya sabía
+        que esto iba a pasar y han conseguido ejecutar un éxodo planetario
+        meticulosamente planeado. La mala noticia es que puede que haya habido
+        un pequeño descuido, los reclusos de todas las prisiones orbitales no
+        han sido parte de este plan, y aún peor, dado a la expansión de la
+        gigante roja, las naves están en una órbita en deterioro alrededor de
+        la ahora deshabitada tierra. Y todavía peor, cada nave prisión carece
+        de los recursos necesarios para escapar de la órbita y reencontrarse
+        con la flota. Eres el autoproclamado capitán de una de las naves
+        "olvidadas" y es tu trabajo liderar tu nave y parte de tu tribulación
+        de convictos hacia un lugar seguro. Necesitarás comerciar, asaltar las
+        otras naves en la misma situación o rebuscar para encontrar partes de
+        equipamiento, recursos y suministros para este viaje.</p> 
+        <p><strong>¿Por qué creo que es solo-friendly?</strong> En el proyecto
+        dicen que un GM no es realmente necesario porque el rol de este puede
+        ir rotando (además hay un stretch goal para añadir el modo en solitario
+        oficial). En cada turno pasan ciertos eventos determinados como gastar
+        combustible para mantenernos en órbita y podemos elegir asaltar
+        satélites y naves. Parece ser que estos asaltos se resolverán con
+        tiradas de dados y tenemos algunos planos de las naves incluidos en la
+        revista.</p>
+        <p><ul><li>De desbloquearse un stretch goal (500£) se añadirá una
+        versión en solitario oficial.</li></ul></p>
+     </div>
+</div>
 
 <div class="row">
     <div class="col-md-3">
@@ -389,7 +425,7 @@ si para vosotros sería también solo-friendly.
         podrá llevar a varios personajes y asignares
         características/personalidades concretas y así poder jugar al juego en
         solitario.</p>
-        <p><ul><li>De desbloquearse un strech goal (1400$) se añadirá una
+        <p><ul><li>De desbloquearse un stretch goal (1400$) se añadirá una
         versión en solitario oficial.</li></ul></p>
      </div>
 </div>
