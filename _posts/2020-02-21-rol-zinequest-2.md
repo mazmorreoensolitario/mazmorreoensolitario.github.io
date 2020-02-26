@@ -50,7 +50,7 @@ terminen de escribir.
 **Tenéis una explicación de mi criterio para considerar una zine solo-friendly
 o no más abajo.**
 
-### Zines para el juego en solitario (actualizada el 25/02, mañana)
+### Zines para el juego en solitario (actualizada el 26/02, mañana)
 
 Estas zines permiten el juego en solitario por diseño o tienen guías para el
 juego en solitario:
@@ -254,8 +254,52 @@ juego en solitario:
      </div>
 </div>
 
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/210/891/1b02a7670ba7c2bd99b0896ceffecfcf_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1582600116&auto=format&frame=1&q=92&s=608304fafb84ee76d668d83376d148b0"
+        class="img-thumbnail" alt="Journey Back, a solo journaling RPG">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+     href="https://www.kickstarter.com/projects/rebelle-de-jour/journey-back-a-solo-journaling-rpg?ref=mazmorreoensolitario">
+     Journey Back, a solo journaling RPG</a></h4> 
+        <p>Journey Back es un RPG de registro diario en solitario de que cambia
+            abruptamente el viaje del héroe. El concepto del viaje del héroe
+            está arraigado en el concepto de mitificar a los hombres (y también
+            ha sido adaptado a mitificar "fuertes líderes femeninos") a través
+            de un viaje mágico de heroísmo. En Journey Back juegas como un
+            aventurero que no necesita el toque de magia y tampoco necesita
+            convertirse en un héroe, porque ya es el héroe y ya es
+            mágico. Para jugar necesitas papel, lapiz y un mazo de cartas.
+            </p> 
+        <p><ul><li><strong>Diseño específico para el juego en solitario.</strong></li></ul></p>
+     </div>
+</div>
 
-### Zines solo-friendly (actualizada el 25/02, mañana)
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/222/149/904fba174e8d01ae8de88753f561e837_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1582667581&auto=format&frame=1&q=92&s=8f1b931783867b3c826cfe11951db326"
+        class="img-thumbnail" alt="Wandering Dreams">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/sleepysasquatch/wandering-dreams?ref=mazmorreoensolitario">
+       Wandering Dreams</a></h4> 
+        <p>Wandering Dreams es una zine de aventuras que trata sobre explorar
+        un mundo inspirado en Soulsborne y Lovecraft que está lleno de
+        localizaciones únicas, seres y cosas que te llaman a que las describa
+        el jugador. Está diseñado para el juego en solitario y usa reglas
+        ligeras de RPGs para el combate. Usando un mazo de cartas (de póker) y
+        un dado de seis caras el jugador parte en una experiencia de contar
+        historias.</p>
+        <p><ul><li><strong>Diseño específico para el juego en solitario.</strong></li></ul></p>
+     </div>
+</div>
+
+### Zines solo-friendly (actualizada el 26/02, mañana)
 
 Esta es una selección en base a lo que *yo creo* que puede ser **solo-friendly,
 aka: que necesitas poco o ningún elemento extra para poder jugar en
@@ -266,6 +310,37 @@ solitario, por favor leer bien la página del proyecto y haceros la pregunta de
 si para vosotros sería también solo-friendly.
 
 **(Zines más nuevas arriba)**
+
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/163/628/1f1a41463b7ec1bea1b032b365fe3179_original.jpg?ixlib=rb-2.1.0&w=680&fit=max&v=1582216305&auto=format&gif-q=50&q=92&s=808557c5e07e43b741ff78557aa16417"
+        class="img-thumbnail" alt="Incarnis">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/peterelroy/incarnis?ref=mazmorreoensolitario">
+    Incarnis</a></h4> 
+        <p>Incarnis es un RPG sobre un panteón de dioses que están interesados
+        en interferir en las vidas de cada uno y en las vidas de los mortales
+        que están por ahí abajo. Los dioses son personas, propensas a ser
+        emocionales y muy independientes. Resulta que también son las
+        encarnaciones de la pura creación. Mientras que tu bandada de dioses
+        persigue sus intereses personales, el mundo tiembla con su despertar,
+        para siempre cambiado. Esta revista contiene todas las reglas y
+        condimento que necesitas para crear tu propio mito en una sesión y te
+        deja cambiar el rol del GM en cada mito.</p> 
+        <p><strong>¿Por qué creo que es solo-friendly?</strong> Como bien dice
+        en la descripción, se recomienda cambiar el rol del GM en cada
+        mito/sesión, por lo que las sesiones no parece que vayan a ser muy
+        largas y se dará énfasis a la construcción de la historia de forma
+        colaborativa. A mí esto me parece fácilmente jugable en
+        solitario. Además, en la sección de estructura de juego (Panteón,
+        Manifestación, El reino, Creación) hay varias secciones relacionadas
+        con los dioses que se juegan sin DM.</p>
+     </div>
+</div>
 
 <div class="row">
     <div class="col-md-3">
@@ -502,7 +577,7 @@ Estas zines me causan dudas:
   RPG](https://www.kickstarter.com/projects/spacegoblins/space-goblins-rpg-zinequest?ref=mamorreoensolitario).
 * [Affliction: Coping With the Apocalypse RPG
   Zine](https://www.kickstarter.com/projects/1577794148/affliction-coping-with-the-apocalypse-rpg-zine?ref=mazmorreoensolitario)
-  
+* [Lost Scriptures](https://www.kickstarter.com/projects/vagrantludology/lost-scriptures?ref=mazmorreoensolitario)
 
 ### ¿Por qué la zine X no está en la lista de solo o solo-friendly?
 
