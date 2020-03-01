@@ -50,7 +50,7 @@ terminen de escribir.
 **Tenéis una explicación de mi criterio para considerar una zine solo-friendly
 o no más abajo.**
 
-### Zines para el juego en solitario (actualizada el 26/02, mañana)
+### Zines para el juego en solitario (actualizada el 1/03, noche)
 
 Estas zines permiten el juego en solitario por diseño o tienen guías para el
 juego en solitario:
@@ -299,7 +299,121 @@ juego en solitario:
      </div>
 </div>
 
-### Zines solo-friendly (actualizada el 26/02, mediodía)
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/156/635/04551ff9c5354304ffdc5c6ad7e88c67_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1582157575&auto=format&frame=1&q=92&s=1462f0ac3ac4b1569c153b7db16f3bc2"
+        class="img-thumbnail" alt="The Last Place on Earth">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/eliseitz/the-last-place-on-earth?ref=mazmorreoensolitario">
+    The Last Place on Earth</a></h4> 
+        <p>Es un juego inspirado por la edad heroica de la exploración de la
+        Antártida y por la fatídica expedición de Robert F. Scott en 1912 al
+        Polo Sur. Es un juego sobre las adversidades que presenta la exploración
+        en la Antártida y sobre la arrogancia de los hombres que creen que
+        pueden y deben conquistar el mundo natural. En este juego se asumen los
+        roles de miembros de la expedición en una carrera hacia el Polo Sur
+        bajo el mando de un Gran Líder inspirado en Robert F. Scott. Juegas
+        para averiguar qué fuerza a nuestros exploradores a viajar 1800 millas
+        a un trozo de hielo en uno de los entornos más severos del mundo.</p> 
+        <p><ul><li><strong>Modo solitario desbloqueado como objetivo de un stretch goal.</strong></li></ul></p>
+        <p><strong>Actualización 1/03: antes estaba en la lista de solo-friendly.</strong></p>
+        <p><strike><strong>¿Por qué creo que es solo-friendly?</strong> Es un RPG de
+        contar historias de forma colaborativa sin GM, por lo que creo que se
+        podrá llevar a varios personajes y asignares
+        características/personalidades concretas y así poder jugar al juego en
+        solitario.</strike></p>
+     </div>
+</div>
+
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/143/976/e2b889ebc1619345977fcc4326e0e6a7_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1582071873&auto=format&frame=1&q=92&s=9d55ae38d6401fc89b67bcd14349eb22"
+        class="img-thumbnail" alt="THEY FEED ON FEAR: A Horror RPG.">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/alexeivella/they-feed-on-fear-a-horror-rpg?ref=mazmorreoensolitario">
+       THEY FEED ON FEAR: A Horror RPG.</a></h4> 
+        <p>Es un sistema de rol que permite a los jugadores crear y jugar como
+        los Fear-Eaters, horribles seres interdimensionales que se mantienen
+        devorando el miedo/esencia de sus víctimas. Los jugadores ponen un
+        nombre a su Fear-Eater, piensan su apariencia, comportamiento,
+        trasfondo y mitología.</p>
+        <p><ul><li><strong>Modo en solitario experimental desbloqueado en un
+        stretch goal.</strong></li></ul></p>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/266/373/d393801228752e38189b94cf2b74f838_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1582951054&auto=format&frame=1&q=92&s=8b815e8ab244cc6c47de1f4704bb0c72"
+        class="img-thumbnail" alt="Command? Dungeon World: A Solo Game About Learning Games">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/spincut/command-a-choose-your-own-adventure-zine-zinequest2?ref=mazmorreoensolitario">
+       Command? Dungeon World: A Solo Game About Learning Games</a></h4> 
+        <p>Command? es un juego en una zine que te enseña cómo jugar a juegos
+        de rol. Esta zine está pensada para Dungeon World y te enseña lo que el
+        juego puede ofrecerte. Tiene mecánicas similares a los juegos de elige
+        tu propia aventura de Fighting Fantasy.</p>
+        <p><ul><li><strong>Diseño específico para el juego en solitario.</strong></li></ul></p>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/027/856/344/ce9dc148b40fd64643a4f4803cb1244f_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1579919153&auto=format&frame=1&q=92&s=c4b535ac5b29bca0b70bf27b6b054dff"
+        class="img-thumbnail" alt="The Treasure At The End Of This Dungeon">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/13dp/the-treasure-at-the-end-of-this-dungeon-zinequest2?ref=mazmorreoensolitario">
+    The Treasure At The End Of This Dungeon</a></h4> 
+        <p>The Treasure At The End Of This Dungeon es una salida de esta
+        mazmorra y nosotros nunca escaparemos de esta mazmorra. Esta zine es un
+        juego de rol de de uno a cuatro jugadores sin GM. Cada habitación de la
+        mazmorra es diferente y tiene sus propias reglas. Cada personaje
+        explorando la mazmorra es diferente y tiene sus propias reglas. Es un
+        juego caleidoscópico de una mazmorra cada vez más complicada de la que
+        no hay salida, y de lo que pasa a los jugadores mientras mueren en sus
+        paredes. Cada jugador juega a un Personaje, que representa a uno de los
+        cuatro arquetipos de los juegos de mazmorreo: el musculitos, el ladrón,
+        el mago y el que cura.</p> 
+        <p><ul><li><strong>Diseño específico para el juego en solitario.</strong></li></ul></p>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/271/182/ab8e0f77c1f36c74ef75d1ba4a5a5173_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1582999169&auto=format&frame=1&q=92&s=7c2434ed2afeab56ad4d14f2985b33f3"
+        class="img-thumbnail" alt="DM Yourself">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/tomscutt/dm-yourself?ref=mazmorreoensolitario">
+    DM Yourself</a></h4> 
+        <p>DM Yourself es una guía que te enseña a jugar campañas/aventuras de
+        5e ya existentes en solitario con un único personaje, de forma tan
+        similar a la que fueron escritas. El objetivo es permitir a los
+        jugadores disfrutar de estas aventuras en solitario con una
+        preparación, trabajo o reglas adicionales mínima y una máxima
+        inmersión.
+        </p> 
+        <p><ul><li><strong>Diseño específico para el juego en solitario.</strong></li></ul></p>
+     </div>
+</div>
+
+### Zines solo-friendly (actualizada el 1/03, noche)
 
 Esta es una selección en base a lo que *yo creo* que puede ser **solo-friendly,
 aka: que necesitas poco o ningún elemento extra para poder jugar en
@@ -310,6 +424,31 @@ solitario, por favor leer bien la página del proyecto y haceros la pregunta de
 si para vosotros sería también solo-friendly.
 
 **(Zines más nuevas arriba)**
+
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/028/258/426/98bffae36199ab08504f84e6bd967c52_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1582900412&auto=format&frame=1&q=92&s=0785aa53c2014bb67930fd12b5f358d8"
+        class="img-thumbnail" alt="Shadow of Mogg - A Post-Brexit RPG Zine">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/panny/shadow-of-mogg-a-post-brexit-rpg-zine?ref=mazmorreoensolitario">
+    Shadow of Mogg - A Post-Brexit RPG Zine</a></h4> 
+        <p>Shadow of Mogg es un juego de rol post-apocalíptico ambientado en el
+        metro de Londres después de que un evento catastrófico, conocido
+        solamente como "el evento", ocurra. Utiliza un simple sistema de d6
+        combinado con mecánicas de grupo y resolución de votos con un énfasis
+        en la supervivencia, un estilo OSR de exploración de túneles y la
+        gestión de recursos.
+    </p> 
+        <p><strong>¿Por qué creo que es solo-friendly?</strong> La descripción
+        del juego comenta que dará mecanismos para generar eventos, NPCs,
+        estaciones de metro y encuentros. Así que podremos crearlas nosotros
+        on-the-fly según vayamos jugando, me parece solo-friendly.</p>
+     </div>
+</div>
 
 <div class="row">
     <div class="col-md-3">
@@ -398,35 +537,6 @@ si para vosotros sería también solo-friendly.
         preguntas sobre la escena que queremos jugar, responder entradas para
         dar forma al mundo, los personajes y los objetos mágicos en los que
         estás trabajando. </p>
-     </div>
-</div>
-
-<div class="row">
-    <div class="col-md-3">
-        <img width="500" height="500"
-            src="https://ksr-ugc.imgix.net/assets/028/156/635/04551ff9c5354304ffdc5c6ad7e88c67_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1582157575&auto=format&frame=1&q=92&s=1462f0ac3ac4b1569c153b7db16f3bc2"
-        class="img-thumbnail" alt="The Last Place on Earth">
-    </div>
-    <div class="col-md-9">
-         <h4><a
-    href="https://www.kickstarter.com/projects/eliseitz/the-last-place-on-earth?ref=mazmorreoensolitario">
-    The Last Place on Earth</a></h4> 
-        <p>Es un juego inspirado por la edad heroica de la exploración de la
-        Antártida y por la fatídica expedición de Robert F. Scott en 1912 al
-        Polo Sur. Es un juego sobre las adversidades que presenta la exploración
-        en la Antártida y sobre la arrogancia de los hombres que creen que
-        pueden y deben conquistar el mundo natural. En este juego se asumen los
-        roles de miembros de la expedición en una carrera hacia el Polo Sur
-        bajo el mando de un Gran Líder inspirado en Robert F. Scott. Juegas
-        para averiguar qué fuerza a nuestros exploradores a viajar 1800 millas
-        a un trozo de hielo en uno de los entornos más severos del mundo.</p> 
-        <p><strong>¿Por qué creo que es solo-friendly?</strong> Es un RPG de
-        contar historias de forma colaborativa sin GM, por lo que creo que se
-        podrá llevar a varios personajes y asignares
-        características/personalidades concretas y así poder jugar al juego en
-        solitario.</p>
-        <p><ul><li>De desbloquearse un stretch goal (1400$) se añadirá una
-        versión en solitario oficial.</li></ul></p>
      </div>
 </div>
 
