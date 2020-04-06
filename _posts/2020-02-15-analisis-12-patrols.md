@@ -288,7 +288,7 @@ fácil de hacer os recomiendo que le echéis un par de partidas.
 ### Extra
 
 Os recomiendo que juguéis a **[Land
-6]({{site.baseurl}}/2019/02/09/analisis-pocket-landship/)** que es otro juego
+6]({{site.baseurl}}/2019/03/19/analisis-land-6/)** que es otro juego
 abstracto print & play que me gusta mucho (y este vais a querer jugarlo más).
 
 <hr>
