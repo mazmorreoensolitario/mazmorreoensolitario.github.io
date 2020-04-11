@@ -23,8 +23,8 @@ medios en inglés.
   (juegos de mesa, español)
 * [El Solitario Games](https://elsolitariogames.com) (juegos de mesa, español)
 * [Solitaire Times](https://www.solitairetimes.net/) (juegos de mesa, inglés)
-* [The Eerie Space](https://eeriespace.github.io) (rol, inglés, **este es my
-  otro blog**)
+* **[The Eerie Space](https://eeriespace.github.io) (rol, inglés, este es
+  mi otro blog)**
 
 ### Canales de YouTube
 
