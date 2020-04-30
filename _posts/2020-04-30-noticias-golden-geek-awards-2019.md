@@ -540,7 +540,7 @@ un pequeño comentario mio sobre el juego:
     </div>
     <div class="col-md-9">
         <h4>Marvel Champions: The Card Game</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i></strong></p>
+        <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
 <br>
@@ -553,7 +553,7 @@ un pequeño comentario mio sobre el juego:
     </div>
     <div class="col-md-9">
         <h4>Pax Pamir (Second Edition)</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i></strong></p>
+        <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
 <br>
@@ -566,7 +566,7 @@ un pequeño comentario mio sobre el juego:
     </div>
     <div class="col-md-9">
         <h4>Tainted Grail: the Fall of Avalon</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i></strong></p>
+        <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
 <br>
@@ -603,7 +603,7 @@ un pequeño comentario mio sobre el juego:
     </div>
     <div class="col-md-9">
         <h4>Wingspan</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i></strong></p>
+        <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
 
@@ -771,7 +771,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>The Crew: The Quest for Planet Nine</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i></strong></p>
+        <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
 <br>
@@ -816,7 +816,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>It’s a Wonderful World</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i></strong></p>
+        <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
 <br>
@@ -829,7 +829,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Marvel Champions: The Card Game</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i></strong></p>
+        <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
 <br>
@@ -842,7 +842,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Res Arcana</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i></strong></p>
+        <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
 <br>
@@ -931,7 +931,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Wingspan</h4>
-         <p><strong>Nominado también a <i>Mejor juego del año</i></strong></p>
+         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
 
@@ -981,7 +981,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>The Crew: The Quest for Planet Nine</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i> y <i>Mejor
+        <p><strong>Nominado también a <i>Juego de mesa del año</i> y <i>Mejor
         juego de cartas</i></strong>.</p>
     </div>
 </div>
@@ -1056,7 +1056,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Marvel Champions: The Card Game</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i> y <i>Mejor
+        <p><strong>Nominado también a <i>Juego de mesa del año</i> y <i>Mejor
         juego de cartas</i></strong>.</p>
     </div>
 </div>
@@ -1070,7 +1070,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Tainted Grail: The Fall of Avalon</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i></strong>.</p>
+        <p><strong>Nominado también a <i>Juego de mesa del año</i></strong>.</p>
     </div>
 </div>
 <br>
@@ -1288,7 +1288,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Barrage</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i></strong></p>
+        <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
 <br>
@@ -1301,7 +1301,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Maracaibo</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i></strong>.</p>
+        <p><strong>Nominado también a <i>Juego de mesa del año</i></strong>.</p>
     </div>
 </div>
 <br>
@@ -1314,7 +1314,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Paladins of the West Kingdom</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i></strong>.</p>
+        <p><strong>Nominado también a <i>Juego de mesa del año</i></strong>.</p>
     </div>
 </div>
 <br>
@@ -1327,7 +1327,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Pax Pamir (Second Edition)</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i></strong>.</p>
+        <p><strong>Nominado también a <i>Juego de mesa del año</i></strong>.</p>
     </div>
 </div>
 <br>
@@ -1340,7 +1340,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Res Arcana</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i> y <i>Mejor
+        <p><strong>Nominado también a <i>Juego de mesa del año</i> y <i>Mejor
         juego de cartas</i></strong>.</p>
     </div>
 </div>
@@ -1354,7 +1354,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Tapestry</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i></strong>.</p>
+        <p><strong>Nominado también a <i>Juego de mesa del año</i></strong>.</p>
     </div>
 </div>
 <br>
@@ -1367,7 +1367,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Wingspan</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i>,
+        <p><strong>Nominado también a <i>Juego de mesa del año</i>,
         <i>Mejor juego en solitario</i> y <i>Mejor juego de
         cartas</i></strong>.</p> 
     </div>
@@ -1425,7 +1425,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Marvel Champions: The Card Game</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i>, <i>Mejor
+        <p><strong>Nominado también a <i>Juego de mesa del año</i>, <i>Mejor
         juego en solitario</i>, <i>Mejor juego de cartas</i> y
         <i>Mejor juego coopeartivo</i></strong>.</p>
     </div>
@@ -1468,7 +1468,7 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Tainted Grail: The Fall of Avalon</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i>, <i>Mejor
+        <p><strong>Nominado también a <i>Juego de mesa del año</i>, <i>Mejor
         juego en solitario</i>, y
         <i>Mejor juego coopeartivo</i></strong>.</p>
     </div>
@@ -1706,7 +1706,7 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>The Crew: The Quest for Planet Nine</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i>, <i>Mejor
+        <p><strong>Nominado también a <i>Juego de mesa del año</i>, <i>Mejor
         juego de cartas</i> y <i>Mejor juego cooperativo</i></strong>.</p>
     </div>
 </div>
@@ -1788,7 +1788,7 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>Wingspan</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i>,
+        <p><strong>Nominado también a <i>Juego de mesa del año</i>,
         <i>Mejor juego en solitario</i>, <i>Mejor juego de
         cartas</i> y <i>Mejor juego de estrategia</i></strong>.</p> 
     </div>
@@ -1806,7 +1806,7 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>Barrage</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i> y <i>Mejor
+        <p><strong>Nominado también a <i>Juego de mesa del año</i> y <i>Mejor
         juego de estrategia</i></strong>.</p>
     </div>
 </div>
@@ -1821,7 +1821,7 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>The Crew: The Quest for Planet Nine</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i>, <i>Mejor
+        <p><strong>Nominado también a <i>Juego de mesa del año</i>, <i>Mejor
         juego de cartas</i>, <i>Mejor juego cooperativo</i> y <i>Mejor juego
         familiar</i></strong>.</p> 
     </div>
@@ -1837,7 +1837,7 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>Pax Pamir (Second Edition)</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i> y <i>Mejor
+        <p><strong>Nominado también a <i>Juego de mesa del año</i> y <i>Mejor
         juego de estrategia</i></strong>.</p>
     </div>
 </div>
@@ -1852,7 +1852,7 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>Tainted Grail: The Fall of Avalon</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i>, <i>Mejor
+        <p><strong>Nominado también a <i>Juego de mesa del año</i>, <i>Mejor
         juego en solitario</i>, <i>Mejor juego coopeartivo</i>, y <i>Mejor
         juego temático</i></strong>.</p>
     </div>
@@ -1884,7 +1884,7 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>Wingspan</h4>
-        <p><strong>Nominado también a <i>Mejor juego del año</i>,
+        <p><strong>Nominado también a <i>Juego de mesa del año</i>,
         <i>Mejor juego en solitario</i>, <i>Mejor juego de
         cartas</i>,<i>Mejor juego de estrategia</i> y <i>Mejor juego
         familiar</i></strong>.</p>
