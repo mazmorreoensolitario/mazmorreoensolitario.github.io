@@ -1041,7 +1041,6 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>The Lord of the Rings: Journeys in Middle-earth</h4>
-        <p><strong>The Lord of the Rings: Journeys in Middle-earth</strong></p>
         <p><strong>También nominado a <i>Mejor juego en
         solitario</i>.</strong></p>
     </div>
@@ -1669,9 +1668,9 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>Azul: Summer Pavilion</h4>
-        <p>En <strong>Summer Pavilion</strong> los jugadores regresa a Portugal
+        <p>En <strong>Summer Pavilion</strong> los jugadores regresan a Portugal
         para conseguir la tarea que nunca comenzó. Como un maestro artesano
-        deberás usar los materiales de m´as calidad para crear el pabellón de
+        deberás usar los materiales de más calidad para crear el pabellón de
         verano a la vez que evitas malgastar recursos. Solamente los mejores se
         alzarán para poder honrar a la familia real Portuguesa.</p>
         <p>Este juego tiene un <a
@@ -1773,9 +1772,7 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>Tiny Towns</h4>
-         <p><strong>Tiny Towns</strong></p>
-         <p><strong>Nominado también a <i>Mejor juego
-         del año</i></strong>.</p>
+         <p><strong>Nominado también a <i>Mejor juego del año</i></strong>.</p>
     </div>
 </div>
 <br>
