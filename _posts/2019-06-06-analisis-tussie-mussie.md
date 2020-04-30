@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Tussie Mussie"
 date:   2019-06-06
 categories: [Análisis, Print & play]
-tags: [Tussie Mussie, Print & play]
+tags: [Tussie Mussie, Print & play, Golden Geek]
 imghtml: https://cf.geekdo-images.com/imagepage/img/Ap9t-N6nzY1pbU0OOlXZnhZrQzo=/fit-in/900x600/filters:no_upscale()/pic4751990.png
 score: 2
 post_desc: "La pequeña floristería del barrio que tenemos es nuestro
@@ -47,6 +47,10 @@ montar sus ramos, y al mismo tiempo, dejar claro quién está al mando."
                 <li>Si no sabéis quién es la autora del juego, entonces
                 vivisteis ajenos al <i>revuelo</i> que causó la anterior
                 publicación de la autora, y os envidio.</li>
+                <li><strong>Para jugar en solitario es obligatorio tener la
+                expansión <a
+                href="https://boardgamegeek.com/boardgameexpansion/291182/tussie-mussie-flower-shoppe">Flower
+                Shoppe</a>.</strong></li>
              </ul>
          </div>
     </div>
@@ -80,8 +84,8 @@ está yendo tan bien que es hora de contratar ayuda. Mientras estamos entrenando
 a nuestro nuevo empleado vamos a ayudar a montar sus ramos, y al mismo tiempo,
 dejar claro quién está al mando.*
 
-[Tussie Mussie](https://boardgamegeek.com/boardgame/257614/tussie-mussie) es un
-juego de gestión de cartas en el que trataremos de obtener una puntuación
+**[Tussie Mussie](https://boardgamegeek.com/boardgame/257614/tussie-mussie)**
+es un juego de gestión de cartas en el que trataremos de obtener una puntuación
 superior a la de nuestro empleado, el rival, en una serie de tres rondas. Para
 ello tendremos que gestionar una colección de flores, representada por flores 
 en nuestro ramo (boca arriba) y flores recuerdo (boca abajo).

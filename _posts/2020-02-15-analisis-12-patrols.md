@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - 12 Patrols"
 date:   2020-02-15
 categories: [Análisis, Print & play]
-tags: [12 Patrols, Print & play, 9 Card Game Print & Play Design Contest]
+tags: [12 Patrols, Print & play, 9 Card Game Print & Play Design Contest, Golden Geek]
 imghtml: https://cf.geekdo-images.com/imagepage/img/-O8xiMbqhFHDklqGLwK46tDWs-A=/fit-in/900x600/filters:no_upscale()/pic4559694.png
 score: 2.5
 post_desc: "12 Patrols es un juego abstracto de estrategia en el que tendremos 
