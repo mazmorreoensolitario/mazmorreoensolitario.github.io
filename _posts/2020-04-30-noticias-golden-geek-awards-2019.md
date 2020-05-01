@@ -65,6 +65,7 @@ un pequeño comentario mio sobre el juego:
          <p>Dramas a un lado, a mí no es un juego que me interesase cuando
          salió la campaña de KS y ahora sigo con la misma opinión, pero desde
          luego lo probaría.</p>
+         <p><i><a href="https://amzn.to/3d2IEfO">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -203,6 +204,7 @@ un pequeño comentario mio sobre el juego:
         de Marvel Champions. Desde entonces el juego sigue recibiendo buenas
         críticas, aunque tiene un precio moderado si queréis jugarlo a ritmo
         del que van sacando las expansiones.</p>
+        <p><i><a href="https://amzn.to/3d65bZk">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -237,6 +239,7 @@ un pequeño comentario mio sobre el juego:
          les estoy cogiendo un punto diferente desde que he vuelto a jugar a
          Anachrony, por lo que finalmente me decidiré a probar alguno de la
          saga.</p>
+         <p><i><a href="https://amzn.to/3d6LtN2">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -294,6 +297,7 @@ un pequeño comentario mio sobre el juego:
          perfecto para un día de mucho trabajo entre semana. Ahora mismo tengo
          a este juego y a Tiny Towns en un empate para ver cuál de los dos
          quiero probar primero.</p>
+         <p><i><a href="https://amzn.to/2xpwYod">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -392,6 +396,7 @@ un pequeño comentario mio sobre el juego:
          que me tendré que decidir por uno. Este juego sí viene con un modo en
          solitario de base, a diferencia de Res Arcana, que ha sido creado por
          fans, así que al menos esto está en favor de Tiny Towns.</p>
+         <p><i><a href="https://amzn.to/2YzrKSf">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -440,6 +445,7 @@ un pequeño comentario mio sobre el juego:
          <p><strong>Comentario.</strong> De la saga del Oniverso solo he podido
          jugar a la primera entrega, Onirim y desde entonces no he seguido
          mucho el desarrollo de la saga.</p>
+         <p><i><a href="https://amzn.to/2SpFwmy">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -462,6 +468,7 @@ un pequeño comentario mio sobre el juego:
          tiene un tema interesante, pero de momento no podría decir que el
          roll & write sea un mecanismo que me enamore, así que este juego a mí
          no me interesa.</p>
+         <p><i><a href="https://amzn.to/2Ssj5wZ">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -507,6 +514,7 @@ un pequeño comentario mio sobre el juego:
          los Anillos la verdad es que este juego no me atrae, no sé si es la
          app, el precio o la pinta que tiene el tablero, pero no termina de
          conectar conmigo.</p>
+         <p><i><a href="https://amzn.to/2VTAsZC">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -591,6 +599,7 @@ un pequeño comentario mio sobre el juego:
          un juego del "mismo universo" fue nominado a los Golden Geek el año
          pasado, a mí me sorprendió muchísimo porque es un juego que me atrae
          muy poco, pero oye, hay gustos muy variados en esta vida.</p>
+         <p><i><a href="https://amzn.to/35ofPHX">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -759,6 +768,7 @@ por la comunidad.
         salvar mi cartera. Sigo teniendo gamas de probar algún juego de la
         serie, posiblemente me decante por War Eternal, pero temo que estén
         quemando demasiado la franquicia con tanto juego.</p>
+         <p><i><a href="https://amzn.to/2WfYFIz">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -803,6 +813,7 @@ por la comunidad.
         nuevo modo en solitario, aunque me he prometido no comprármelo hasta
         que termine de jugar un par de Modos Campaña con el Colonos del Imperio
         viejo, que todavía tiene mucho juego.</p>
+        <p><i><a href="https://amzn.to/3aOwgyw">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -919,6 +930,7 @@ por la comunidad.
          veces suelo coger fichas de otros juegos, pero me gustaría tener unas
          fichas más genéricas. Así que posiblemente en algún momento de mi vida
          compre estas monedas de madera.</p>
+         <p><i><a href="https://amzn.to/3aTv8tp">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -1029,6 +1041,7 @@ por la comunidad.
         No sé cómo estará ahora la distribución en Europa, pero en los meses
         pre-Essen'19 había muchísima gente que pedía <i>mulas</i> desde Estados
         Unidos para que les hicieran llegar este juego a Europa.</p>
+        <p><i><a href="https://amzn.to/2yW5Dui">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -1095,6 +1108,7 @@ por la comunidad.
         juegos de mesa, aunque tengo que admitir que el submarino me parece más
         interesante. Otra cosa curiosa es que este es uno de los pocos juegos
         que requieren app que me interesa aunque tenga app.</p>
+        <p><i><a href="https://amzn.to/35kwMDa">Link de compra.</a></i></p>
     </div>
 </div>
 
@@ -1137,6 +1151,7 @@ por la comunidad.
         recurso nuevo, perlas.</p>
         <p><strong>Comentario.</strong> Menos mal que no viene con un río que
         tienes que montar tú de cartón.</p>
+        <p><i><a href="https://amzn.to/3aR45ij">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -1155,6 +1170,7 @@ por la comunidad.
         de trabajadores.</p>
         <p><strong>Comentario.</strong> No entiendo la razón por la que han
         hecho dos expansiones separadas en vez de una grande y ya está...</p>
+        <p><i><a href="https://amzn.to/2ykdSjI">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -1178,6 +1194,7 @@ por la comunidad.
         href="https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion">Jaws
         of the Lion</a> para poder probar el sistema sin que mi vida corra
         peligro.</p>
+        <p><i><a href="https://amzn.to/2SqMBmB">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -1198,7 +1215,8 @@ por la comunidad.
         Games</a></strong> ya ha traído esta expansión.</p>
         <p><strong>Comentario.</strong> Bueno, todos los euros no se pueden
         jugar, y este es uno que desafortunadamente no entra dentro del
-    corte.</p> 
+        corte.</p>
+        <p><i><a href="https://amzn.to/2xlY8wa">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -1225,6 +1243,7 @@ por la comunidad.
         Terraforming Mars que me trajo los tableros con relieve, así que
         tendrá siempre un lugar en mi corazón (¡jaja!). Os hablaré de ella con
         detalle en el futuro.</p>
+        <p><i><a href="https://amzn.to/3bPKel0">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -1274,6 +1293,7 @@ por la comunidad.
         aprendes nuevas cosas, en este caso relacionadas con las especies
         europeas de aves, muchísimo mejor. Desafortunadamente no ha sido
         así, aunque aquí dejo la idea.</p>
+        <p><i><a href="https://amzn.to/2VSkOgV">Link de compra.</a></i></p>
     </div>
 </div>
 
@@ -1678,7 +1698,9 @@ solitario.
         solitario hecho por fans</a>.</p> 
         <p><strong>Comentario.</strong> No he jugado a ningún Azul, pero cada
         año parece que sacan una variante diferente, parece que hacen estos
-        juegos de la nada. Todos muy vistos y visualmente muy cuidados eso sí.</p>
+        juegos de la nada. Todos muy vistos y visualmente muy cuidados eso
+        sí.</p>
+        <p><i><a href="https://amzn.to/2y7v8cb">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
