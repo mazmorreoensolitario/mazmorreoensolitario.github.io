@@ -496,7 +496,7 @@ un pequeño comentario mio sobre el juego:
     </div>
     <div class="col-md-9">
         <h4>The Lord of the Rings: Journeys in Middle-earth</h4>
-         <p><strong>The Lord of the Rings: Vieajes por la Tierra Media</strong>
+         <p><strong>El Señor de los Anillos: Viajes por la Tierra Media</strong>
          es un juego de aventuras que integra diferentes aventuras en una
          campaña más larga. Explorarás el vasto mundo de la Tierra Media y
          lucharás contra las fuerzas de la oscuridad.</p>
