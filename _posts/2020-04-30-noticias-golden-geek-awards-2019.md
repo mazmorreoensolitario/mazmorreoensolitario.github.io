@@ -1627,6 +1627,8 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>Stalingrad '42</h4>
+        <p><i>Puedes jugar en solitario a Stalingrad '42 si controlas ambos
+        bandos.</i></p>
         <p><strong>Stalingrad '42</strong> es un wargame a nivel de divisiones
         ambientado en la ofensiva veraniega de las fuerzas del eje contra
         Stalingrado y el Cáucaso en el año 1942 de la Segunda Guerra
