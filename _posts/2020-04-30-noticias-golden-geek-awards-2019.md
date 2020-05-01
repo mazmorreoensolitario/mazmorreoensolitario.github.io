@@ -107,11 +107,11 @@ un pequeño comentario mio sobre el juego:
     </div>
     <div class="col-md-9">
         <h4>The Isle of Cats</h4>
-         <p><strong>La Isla de los Gatos</strong> que se financió en junio de 2019
-         gracias a una <a
-    href="https://www.kickstarter.com/projects/tcokgame/the-isle-of-cats">campaña
-         de Kickstarter</a> es un juego competitivo de 
-         colocación de gatos/losetas. Estás en una misión de rescate a la Isla
+         <p><strong>La Isla de los Gatos</strong>, que se financió en junio de
+         2019 gracias a una <a
+         href="https://www.kickstarter.com/projects/tcokgame/the-isle-of-cats">campaña
+         de Kickstarter</a>, es un juego competitivo de 
+         colocación de gatos/losetas. Estás en una misión de rescate en la Isla
          de los Gatos y tienes que rescatar al mayor número de gatos antes de
          que el malvado Lord Vesh llegue, tendrás que colocar las diferentes
          losetas (que representan gatos) en tu barco, de forma que consigas
@@ -264,8 +264,8 @@ un pequeño comentario mio sobre el juego:
          juego, pero hay que admitir que es bonito. La verdad es que este juego
          en general me parece que tiene una producción muy buena y por eso me
          cuesta diferenciar si es un juego que realmente me gustaría jugar, o
-         es simplemente queme está entrando por los ojos. El tema me gusta, eso
-         sin dudas.</p>
+         es simplemente que me está entrando por los ojos. El tema me gusta,
+         eso sin dudas.</p>
     </div>
 </div>
 <br>
@@ -527,7 +527,7 @@ un pequeño comentario mio sobre el juego:
          <p><strong>Comentario.</strong> Este es un juego que pude comprar en
          Essen'19 y que me está gustando mucho, tiene unos objetivos siempre
          muy variados, y aunque en general yo siga siempre la misma estrategia
-         para intentar ganar el juego es impredecible.</p>
+         para intentar ganar, el juego es impredecible.</p>
     </div>
 </div>
 <br>
@@ -687,7 +687,7 @@ por la comunidad.
     <div class="col-md-9">
         <h4>TINYforming Mars</h4>
          <p>En <strong>TINYforming Mars</strong> es una miniaturización de
-         <strong>Terraforming Mars</strong>. Al igual que en este juego,
+         <strong>Terraforming Mars</strong>. Al igual que en ese juego,
          tenemos que terraformar Marte, 
          futuro destino de la humanidad. Usaremos proyectos que tienen como
          objetivo aumentar alguno de los parámetros requeridos para mantener la
@@ -1082,13 +1082,13 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>UBOOT: The Board Game</h4>
-        <p><strong>UBOOT: Lobos de la Kriegsmrine</strong> es un juego cooperativo, en
+        <p><strong>UBOOT: Lobos de la Kriegsmarine</strong> es un juego cooperativo, en
         tiempo real, sobre guerras de submarinos durante la Segunda Guerra
         Mundial. Tomarás los roles de capitán, primer oficial, piloto e
         ingeniero jefe en misiones de combate de una campaña. El juego utiliza
         una aplicación asociada que ayuda en el desarrollo de la acción.</p>
         <p><strong><a
-        href="http://www.masqueoca.com/tienda/producto.asp?item=6299">Ediciones Más
+        href="https://www.masqueoca.com/tienda/producto.asp?item=6299&tit=Uboot%20Lobos%20de%20la%20Kriegsmarine">Ediciones Más
         Que Oca</a></strong> traerá este juego en español.</p>
         <p><strong>Comentario.</strong> Creo que el arbolito de Everdell y el
         submarino de UBOOT entran dentro de mis pesadillas de componentes de
@@ -1537,9 +1537,9 @@ solitario.
         <h4>Gandhi: The Decolonization of British India, 1917 – 1947</h4>
          <p><strong>Gandhi</strong> es la novena entrega de la serie COIN de
          GMT en la que se vive uno de los ejemplos de la resistencia pacífica
-         más importantes de la historia. Ganghi nos lleva a India, la joya de
+         más importantes de la historia. Gandhi nos lleva a India, la joya de
          la corona del Imperio Británico. En este juego los jugadores
-         determinan el futuro del paáis: ¿será la transición pacífica? ¿habrá
+         determinan el futuro del país: ¿será la transición pacífica? ¿habrá
          una guerra civil? ¿se mantendrá el país dentro del Imperio?</p>
          <p><strong>Comentario.</strong> No he jugado a ningún juego de la
          serie COIN, y puede que este sea el que menos me interese jugar, hay
@@ -1584,7 +1584,7 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>Peloponnesian War</h4>
-        <p><strong>Peloponnesian War</strong> te deja vivir las guerra del
+        <p><strong>Peloponnesian War</strong> te deja vivir las guerras del
         Peloponeso comenzando con la guerra arquidámica en el 431 a. C. hasta
         la caída de Atenas en el año 404. Utiliza a tus generales, hoplitas y
         navíos para luchar batallas en un intento de llevar la guerra a un
@@ -1611,7 +1611,7 @@ solitario.
         ambientado en la ofensiva veraniega de las fuerzas del eje contra
         Stalingrado y el Cáucaso en el año 1942 de la Segunda Guerra
         Mundial. Históricamente esta ofensiva duró seis meses y vio a las
-        fuerzas del Ejemplos llegar al río Volga y las montañas del Cáucaso. La
+        fuerzas del Eje llegar al río Volga y las montañas del Cáucaso. La
         resistencia soviética se endureció y la victoria eludió a los alemanes
         en el Cáucaso y en Stalingrado. En noviembre la ofensiva soviética
         atrapó al ejército Wehrmacht más grande (el 6º) y marcó el principio
