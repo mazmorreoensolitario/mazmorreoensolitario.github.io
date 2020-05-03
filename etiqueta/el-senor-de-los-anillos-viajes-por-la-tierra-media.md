@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: El Senor de los Anillos: Viajes por la Tierra Media"
-tag: "El Senor de los Anillos: Viajes por la Tierra Media"
+title: "Etiqueta: El Señor de los Anillos: Viajes por la Tierra Media"
+tag: "El Señor de los Anillos: Viajes por la Tierra Media"
 ---
