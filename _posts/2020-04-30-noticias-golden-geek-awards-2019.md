@@ -3,7 +3,7 @@ layout: post
 title: "Guía de juegos en solitario: Nominaciones de los Premios Golden Geek de 2019"
 date: 2020-04-30
 categories: [Noticias]
-tags: [Golden Geek, Oniverso, Barrage, "The Crew: The Quest for Planet Nine", The Isle of Cats, La Isla de los Gatos, "It's a Wonderful World", Maracaibo, "Marvel Champions: The Card Game", Paladins of the West Kingdom, Paladines del Reino del Oeste, Res Arcana, "Tainted Grail: The Fall of Avalon", "Tainted Grail: La caída de Ávalon", Tapestry, Tiny Towns, Wingspan, Aerion, "Cartographers: A Roll Player Tale", Cloudspire, "The Lord of the Rings: Journeys in Middle-earth", Lux Aeterna, Pax Pamir, Twice As Clever, 12 Patrols, 13 Sheep, Roll Estate, TINYforming Mars, "Under Falling Skies", "Aeon's End: Legacy", "Imperial Settlers: Empires of the North", Colonos del Imperio, "Colonos del Imperio: Imperios del Norte", Tussie Mussie, Villagers, Atlantis Rising, "Cthulhu: Death May Die", Horrified, "El Señor de los Anillos: Viajes por la Tierra Media", "UBOOT: The Board Game", "Blitzkrieg!", "Gandhi: The Decolonization of British India", "Nevsky: Teutons and Rus in Collision", Peloponnesian War, Stalingrad 42, "Tank Duel: Enemy in the Crosshairs"]
+tags: [Golden Geek, Oniverso, Barrage, "Undaunted: Normandy", "The Crew: The Quest for Planet Nine", The Isle of Cats, La Isla de los Gatos, "It's a Wonderful World", Maracaibo, "Marvel Champions: The Card Game", Paladins of the West Kingdom, Paladines del Reino del Oeste, Res Arcana, "Tainted Grail: The Fall of Avalon", "Tainted Grail: La caída de Ávalon", Tapestry, Tiny Towns, Wingspan, Aerion, "Cartographers: A Roll Player Tale", Cloudspire, "The Lord of the Rings: Journeys in Middle-earth", Lux Aeterna, Pax Pamir, Twice As Clever, 12 Patrols, 13 Sheep, Roll Estate, TINYforming Mars, "Under Falling Skies", "Aeon's End: Legacy", "Imperial Settlers: Empires of the North", Colonos del Imperio, "Colonos del Imperio: Imperios del Norte", Tussie Mussie, Villagers, Atlantis Rising, "Cthulhu: Death May Die", Horrified, "El Señor de los Anillos: Viajes por la Tierra Media", "UBOOT: The Board Game", "Blitzkrieg!", "Gandhi: The Decolonization of British India", "Nevsky: Teutons and Rus in Collision", Peloponnesian War, Stalingrad 42, "Tank Duel: Enemy in the Crosshairs"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200430-golden-geek/golden-geek-awards-2019.jpg
 post_desc: "Guía de juegos en solitario de entre todas las nominaciones a los
 premios Golden Geek para que puedas enterearte de las novedades que nos dejó 2019"
@@ -11,6 +11,8 @@ premios Golden Geek para que puedas enterearte de las novedades que nos dejó 20
 
 ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200430-golden-geek/golden-geek-awards-2019.jpg)
 <br>
+
+*Actualización 4 de mayo: Se añade Undaunted: Normandy.*
 
 Este es un momento del año que me gusta mucho, se han retrasado un poco, pero
 ¡aquí están las **[nominaciones de los Premios Golden
@@ -1676,6 +1678,39 @@ solitario.
         <h4>UBOOT: The Board Game</h4>
         <p><strong>Nominado también a <i>Mejor juego
             cooperativo</i> y <i>Mejor juego temático</i></strong>.</p>
+    </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/imagepage/img/PiUUgTasjCOzVHIZbKJfinLQBBk=/fit-in/900x600/filters:no_upscale()/pic4602347.jpg"
+        class="img-thumbnail" alt="Undaunted: Normandy">
+    </div>
+    <div class="col-md-9">
+        <h4>Undaunted: Normandy</h4>
+        <p><strong>Undaunted: Normandy</strong> es un juego de construcción de
+        mazos ambientado en la Segunda Guerra Mundial; los Aliados han
+        desembarcado en las playas de Normandía en el Día-D y ahora tienen que
+        seguir adentrándose en Francia. Jugarás una serie de misiones que son
+        críticas para obtener la victoria en la guerra.</p>
+        <p><strong><a href="https://doitgames.com/juegos-de-mesa/">Do it
+        games</a></strong> traerá este juego en español a España.</p>
+        <p><strong>Comentario.</strong> Este es otro juego que tiene un
+        <strong><a
+        href="https://boardgamegeek.com/filepage/195393/solitaire-i">modo en
+        solitario creado por fans</a></strong> y que ha sido una gran sorpresa
+        descubrir. Cada año hay un par de juegos que me gustaría mucho poder
+        probar, pero que no tienen modo en solitario y me quedo con las ganas;
+        este era uno de ellos hasta que recientemente he encontrado ese pequeño
+        modo en solitario. A lo mejor cuando Do it games lo traiga a España
+        gente con copia en inglés se anima a venderlo y lo puedo conseguir de
+        segunda mano a buen precio.</p>
+        <p>Este año saldrá una nueva entrega, <strong><a
+        href="https://boardgamegeek.com/boardgame/290359/undaunted-north-africa">Undaunted:
+        North Africa</a></strong>, que como podéis intuir, se ambientará en el
+        teatro de operaciones de Africa.</p>
     </div>
 </div>
 <br>
