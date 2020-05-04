@@ -12,7 +12,8 @@ premios Golden Geek para que puedas enterearte de las novedades que nos dejó 20
 ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200430-golden-geek/golden-geek-awards-2019.jpg)
 <br>
 
-*Actualización 4 de mayo: Se añade Undaunted: Normandy.*
+*Actualización 4 de mayo: Se añade Undaunted: Normandy y los resultados de los
+premios.*
 
 Este es un momento del año que me gusta mucho, se han retrasado un poco, pero
 ¡aquí están las **[nominaciones de los Premios Golden
@@ -219,6 +220,8 @@ un pequeño comentario mio sobre el juego:
     </div>
     <div class="col-md-9">
         <h4>Paladins of the West Kingdom</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong>Paladines del Reino del Oeste</strong> es la segunda entrega
          de la Trilogía del Reino del oeste, formada además por el anterior
          <a
@@ -338,6 +341,8 @@ un pequeño comentario mio sobre el juego:
     </div>
     <div class="col-md-9">
         <h4>Tapestry</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p>En <strong>Tapestry</strong> compartes el camino de una
          civilización desde el comienzo de la humanidad, cuando no tiene nada,
          y tratas de mejorarla invirtiendo en ciencia, tecnología, exploración
@@ -411,6 +416,8 @@ un pequeño comentario mio sobre el juego:
     </div>
     <div class="col-md-9">
         <h4>Wingspan</h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Juego de mesa del año!</strong></div>
          <p><strong>Wingspan</strong> es un juego de construcción de motor con
          una temática muy especial. Eres un aficionado de las aves y buscas
          descubrir y atraer las mejores especies a tu red de reservas
@@ -550,6 +557,8 @@ un pequeño comentario mio sobre el juego:
     </div>
     <div class="col-md-9">
         <h4>Marvel Champions: The Card Game</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
@@ -589,6 +598,8 @@ un pequeño comentario mio sobre el juego:
     </div>
     <div class="col-md-9">
         <h4>Twice As Clever</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong>Twice As Clever</strong> sigue el modelo de juego de That's
          Pretty Clever, un juego que también fue nominado a los Golden Geek el
          año pasado. Twice As Clever es un juego roll & write en el que el
@@ -614,6 +625,8 @@ un pequeño comentario mio sobre el juego:
     </div>
     <div class="col-md-9">
         <h4>Wingspan</h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego en solitario!</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
@@ -671,6 +684,8 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Roll Estate</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong>Roll Estate</strong> es un juego roll & write en el que
          tratas de convertirte el el emprendedor más rico. Tira los dados tres
          ves para conseguir nuevas propiedades, abre nuevos negocios y prueba
@@ -697,6 +712,8 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>TINYforming Mars</h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego print & play!</strong></div>
          <p>En <strong>TINYforming Mars</strong> es una miniaturización de
          <strong>Terraforming Mars</strong>. Al igual que en ese juego,
          tenemos que terraformar Marte, 
@@ -725,6 +742,8 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Under Falling Skies: A 9-Card Print-and-Play Game</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p>En <strong>Under Falling Skies</strong> la humanidad ha sido
         obligada a resguardarse bajo tierra tras la llegada de una nave nodriza
         alienígena y que esta empezara a bombardear la superficie. Como líder
@@ -783,6 +802,8 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>The Crew: The Quest for Planet Nine</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
@@ -842,6 +863,8 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Marvel Champions: The Card Game</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
@@ -945,6 +968,8 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Wingspan</h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego de cartas!</strong></div>
          <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
@@ -995,6 +1020,8 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>The Crew: The Quest for Planet Nine</h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego cooperativo!</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i> y <i>Mejor
         juego de cartas</i></strong>.</p>
     </div>
@@ -1056,6 +1083,8 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>The Lord of the Rings: Journeys in Middle-earth</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p><strong>También nominado a <i>Mejor juego en
         solitario</i>.</strong></p>
     </div>
@@ -1070,6 +1099,8 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Marvel Champions: The Card Game</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i> y <i>Mejor
         juego de cartas</i></strong>.</p>
     </div>
@@ -1231,6 +1262,8 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Terraforming Mars: Conflictos</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p><strong>Conflictos</strong> es la quinta expansión para Terraforming
         Mars, que añade nuevas corporaciones, proyectos y un nuevo tipo de
         cartas, los eventos globales, que pueden darte algo diferente que tener
@@ -1284,6 +1317,8 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Wingspan: European Expansion</h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor expansión!</strong></div>
         <p>La <strong>Expansión Europea</strong> añade diferentes variedades de
         aves que pueden observarse por Europa.</p>
         <p><strong><a
@@ -1322,6 +1357,8 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Maracaibo</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong>.</p>
     </div>
 </div>
@@ -1335,6 +1372,8 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Paladins of the West Kingdom</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong>.</p>
     </div>
 </div>
@@ -1388,6 +1427,8 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Wingspan</h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego de estrategia!</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i>,
         <i>Mejor juego en solitario</i> y <i>Mejor juego de
         cartas</i></strong>.</p> 
@@ -1395,6 +1436,9 @@ por la comunidad.
 </div>
 
 ### Mejor juego temático
+
+*El ganador de esta categoría ha sido Dune, que no permite el juego en
+solitario.*
 
 <div class="row">
     <div class="col-md-3">
@@ -1432,6 +1476,8 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>The Lord of the Rings: Journeys in Middle-earth</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Mejor juego en solitario</i> y <i>Mejor
         juego cooperativo</i></strong>.</p>
     </div>
@@ -1461,6 +1507,8 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>Star Wars: Outer Rim</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p><strong>Star Wars: El borde exterior</strong> es un juego temático
         dentro del universo de Star Wars que te lleva al mundo de los caza
         recompensas, mercenarios y contrabandistas. En El borde exterior juegas
@@ -1528,6 +1576,8 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>Blitzkrieg!: World War Two in 20 Minutes</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong>Blitzkrieg!</strong> es un juego que permite a los
          jugadores adentrarse en los teatros de operaciones más famosos de la
          Segunda Guerra Mundial, ganando campañas clave y construyendo fuerzas
@@ -1676,6 +1726,8 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>UBOOT: The Board Game</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Mejor juego
             cooperativo</i> y <i>Mejor juego temático</i></strong>.</p>
     </div>
@@ -1690,6 +1742,8 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>Undaunted: Normandy</h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor wargame!</strong></div>
         <p><strong>Undaunted: Normandy</strong> es un juego de construcción de
         mazos ambientado en la Segunda Guerra Mundial; los Aliados han
         desembarcado en las playas de Normandía en el Día-D y ahora tienen que
@@ -1725,6 +1779,8 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>Azul: Summer Pavilion</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p>En <strong>Summer Pavilion</strong> los jugadores regresan a Portugal
         para conseguir la tarea que nunca comenzó. Como un maestro artesano
         deberás usar los materiales de más calidad para crear el pabellón de
@@ -1831,7 +1887,9 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>Tiny Towns</h4>
-         <p><strong>Nominado también a <i>Mejor juego del año</i></strong>.</p>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p><strong>Nominado también a <i>Mejor juego del año</i></strong>.</p>
     </div>
 </div>
 <br>
@@ -1844,6 +1902,8 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>Wingspan</h4>
+         <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego de mesa familiar!</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i>,
         <i>Mejor juego en solitario</i>, <i>Mejor juego de
         cartas</i> y <i>Mejor juego de estrategia</i></strong>.</p> 
@@ -1877,6 +1937,8 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>The Crew: The Quest for Planet Nine</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i>, <i>Mejor
         juego de cartas</i>, <i>Mejor juego cooperativo</i> y <i>Mejor juego
         familiar</i></strong>.</p> 
@@ -1940,12 +2002,39 @@ solitario.
     </div>
     <div class="col-md-9">
         <h4>Wingspan</h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Juego más innovador!</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i>,
         <i>Mejor juego en solitario</i>, <i>Mejor juego de
         cartas</i>,<i>Mejor juego de estrategia</i> y <i>Mejor juego
         familiar</i></strong>.</p>
     </div>
 </div>
+
+
+### Tras los resultados
+
+¡Bueno! **Wingspan** ha arrasado en todas las categorías en las que estaba
+nominado, yo pensaba que en alguna categoría no iba a ganar, por ejemplo en la
+de *Mejor juego de estrategia* y en la de *Mejor juego en solitario*, lo que ha
+sido una gran sorpresa, pero ya sabemos como va esto.
+
+Me indigna un poco que el juego ese roll & write que yo ni lo quiero ni oler
+(**Twice As Clever**) haya quedado como subcampeón a mejor juego en solitario,
+¡já!
+
+Otro punto interesante ha sido la categoría de *Mejor Wargame*, que justamente
+ha ganado un juego  que yo no consideraría wargame, sino una especie de
+euro/temático con temática de guerra, **Undaunted: Normandy**, pero bueno.
+Los dos subcampeones de esta categoría también
+han sido los que menos pintan aquí. Os redirijo a un [hilo
+de Twitter de la tienda especializada en wargames SNAFU
+Store](https://twitter.com/snafustore/status/1247141065720807425?s=09) que os
+trata de ilustrar sobre lo que es un wargame y lo que no es un wargame.
+
+En conclusión, estos premios siempre son muy interesantes, por descubrir juegos
+nuevos y por saber qué ha gustado en la comunidad, en muchos casos dando
+resultados curiosos.
 
 <hr>
 
