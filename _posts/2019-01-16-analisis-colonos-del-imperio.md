@@ -496,6 +496,7 @@ Sumo* de los Japoneses. Un lector avispado se dará cuenta de que antes hemos
 comentado que las localizaciones de Facción se distinguen porque no se pueden
 saquear, existe una excepción, la facción de los Japoneses </small></p>
 
+**Apartado gráfico y componentes.**
 Empezando por el apartado gráfico, Colonos del Imperio es precioso y tiene
 ilustraciones que han cuidado con muchísimo el detalle. Si se alarga una
 partida puede que sea porque te has quedado mirando los mercaderes Egipcios de
@@ -506,6 +507,7 @@ facción de los Japoneses.
 
 Las cartas son en definitiva, de pararse a mirarlas una a una.
 
+**El juego.**
 En cuanto al apartado mecánico/jugabilidad, sinceramente, me cuesta poder sacar
 pegas al juego. Hay gestión de recursos, gestión de cartas y estrategia
 tratando de hacer tus combos que se complementan muy bien.

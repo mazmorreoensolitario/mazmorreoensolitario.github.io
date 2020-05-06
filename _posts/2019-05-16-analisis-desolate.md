@@ -389,6 +389,7 @@ src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ojo de pez</small></p>
 
 
+**Apartado gráfico y componentes.**
 El apartado gráfico es bestial y entra dentro de mi selección personal de
 favoritos. Las ilustraciones, aunque sean en blanco y negro, son muy
 evocativas y tienen gran detalle. Mi ilustración favorita es sin ninguna duda
@@ -407,6 +408,7 @@ sensación táctil es algo que me gusta del juego, así que no las tengo
 enfundadas, aunque el juego sufra. Aunque es necesario decir que cuando el
 juego quede destrozado de jugar me compraré otro.
 
+**El juego.**
 La pequeña anécdota de las cartas ya os ha dejado entrever que me gusta mucho
 el juego. Directamente creo que es de los mejores de push-your-luck que he
 podido jugar. Es rápido de preparar, rápido de jugar, las mecánicas le dan

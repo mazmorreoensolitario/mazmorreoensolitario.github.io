@@ -439,6 +439,7 @@ aleatoriamente el efecto de otro edificio.
 
 ### Opinión
 
+**Apartado gráfico y componentes.**
 Las ilustraciones de las cartas de Edificio y las naves de los jugadores me
 gustan mucho, hace sonreír que los nombres de las naves estén sacados de series
 de ciencia ficción de culto (Nostr o-mo, Nostromo de *Alien*; Rocinant-9,
@@ -453,6 +454,7 @@ ponen una estrella en la zona que vale 2PV y 2 estrellas en la zona que vale
 Mención especial a una caja de tamaño justo para el juego, sin parafernalias
 extra que no hacen más que quitar espacio.
 
+**El juego.**
 Sobre el juego en sí, creo que la propia descripción del juego en la caja le
 hace bastante justicia "It's a heavy weight filler!". Un filler con bastante
 peso, y creo que en solitario funciona mejor (no he jugado con más gente, pero 
