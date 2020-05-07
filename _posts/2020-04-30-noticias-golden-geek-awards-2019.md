@@ -227,7 +227,7 @@ un pequeño comentario mio sobre el juego:
          <a
          href="{{site.baseurl}}/etiqueta/arquitectos-del-reino-del-oeste/">Arquitectos
          del Reino del Oeste</a> y el futuro Vizcondes del Reino del Oeste.
-         Arquitectos es un juego de colocación de trabajadores en el que
+         Paladines es un juego de colocación de trabajadores en el que
          tenemos que conseguir más puntos de victoria que nuestro rival (un
          bot). Ganaremos puntos construyendo fortificaciones y puestos
          fronterizos, contratando a monjes y luchando contra los invasores. En
