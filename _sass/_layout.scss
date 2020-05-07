@@ -111,10 +111,16 @@ footer {
 .recent ul {
     list-style: none;
     padding: 0;
-    text-align: justify;
+    text-align: left;
 }
 
 .recent {
+    padding: 10px;
+    border: 1px solid $grey-color-light;
+    border-radius: 5px;
+}
+
+.box {
     padding: 10px;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
