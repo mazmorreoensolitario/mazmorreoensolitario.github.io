@@ -473,6 +473,7 @@ src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 alinear las cartas como el grid de guía de la cámara"... con algo de
 éxito</small></p>
 
+**Apartado gráfico y componentes.**
 Reinos de Papel está maravillosamente producido. El arte de las cartas es
 original y muy bonito, la iconografía es clara y concisa, la letra tiene un
 buen tamaño, y cómo se ha diseñado la carta para que los elementos mecánicos
@@ -492,6 +493,7 @@ las unidades humanas tienen diferentes características raciales (aunque no en
 misma proporción, pequeña pega ahí), por lo que creo que el diseño de este
 juego es de 10. 
 
+**El juego.**
 En cuanto a mi opinión sobre las sensaciones de juego, el juego es bueno, creo
 que le falta algo para que las combinaciones de los efectos que tratas de crear
 con tus unidades y edificios puedan despegar del todo, y por muy bonito y
