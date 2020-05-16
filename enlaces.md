@@ -59,6 +59,8 @@ medios en inglés.
 * [One Stop Co-op
   Shop](https://www.youtube.com/channel/UCrOtGhui_jdLdoQNI7PU4Pg) (juegos de
   mesa, inglés)
+* [RPG Tips](https://www.youtube.com/channel/UCp_qWaHM9O5dz7gMiXpqKnQ) (rol,
+  inglés)
 * [Rolling Solo](https://www.youtube.com/channel/UCuh4j6WB-Lh1DbjKe4nBj7w)
   (juegos de mesa, inglés)
 * [SoloMode

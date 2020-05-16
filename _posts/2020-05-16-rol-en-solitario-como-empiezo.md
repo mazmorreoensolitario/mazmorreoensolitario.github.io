@@ -1143,7 +1143,7 @@ de rol por temática son los siguientes:
   es uno de los pocos libros de este estilo que tenemos en castellano, no
   es exactamente un generador, sino un libro que te ayuda a crear
   ambientaciones y utiliza el sistema de Dungeon World, aunque podéis
-  utilizarlo fácilmente para cualquier partida.
+  utilizarlo fácilmente para cualquier sistema.
 
 * **[The Adventure
   Crafter](https://www.drivethrurpg.com/product/261479/The-Adventure-Crafter?affiliate_id=1914894)**
