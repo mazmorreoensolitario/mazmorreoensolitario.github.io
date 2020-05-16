@@ -36,7 +36,7 @@ peculiaridades y puntos fuertes.
 La mayoría de juegos que pueden jugarse en solitario están en inglés (por si
 alguien tiene algún problema con el idioma), salvo algunas contadas
 excepciones, mientras que los recursos para convertir vuestros juegos de rol 
-multijugador en juegos que puedan jugarse en solitario están todas en inglés. 
+multijugador en juegos que puedan jugarse en solitario están todos en inglés. 
 
 Si tenéis problemas con el idioma, os traigo buenas noticias, ya que **se van a 
 publicar algunos juegos de rol en solitario en castellano**, y los recursos que
@@ -291,7 +291,7 @@ descripción de la adaptación, un bestiario, y el resto es cosa vuestra. Pero
 tablas**.
 
 Y estas tablas son oro puro para el jugador de rol en solitario ya **que os dan
-ideas u os ayudan a refinar ideas que ya tengáis**. Pueden oráculos que os
+ideas u os ayudan a refinar ideas que ya tengáis**. Pueden ser oráculos que os
 ayuden a tomar decisiones, o generadores para crear historias, una lista de
 problemas que pueda tener un pequeño pueblo o asentamiento, listas de rumores,
 leyendas, nombres de mazmorras, artefactos místicos, motivaciones malvadas,
@@ -307,7 +307,7 @@ Así pues, a medio camino entre lo mecánico y lo narrativo se encuentran:
   y  **[Mad Moonks of
   Kawantoom](https://www.drivethrurpg.com/product/129506/Mad-Monks-of-Kwantoom?affiliate_id=1914894).**
   Voy a hablaros de estos dos juegos de Kabuki Kaiser a la vez porque comparten
-  sistema de juego, Ruins of the Undercity fue el precursor y Mad Moonks of
+  sistema de juego; Ruins of the Undercity fue el precursor y Mad Moonks of
   Kawantoom añade más cosas y refina algunas, aunque ambos juegos tienen dos
   ambientaciones diferentes.
   
@@ -391,7 +391,7 @@ Así pues, a medio camino entre lo mecánico y lo narrativo se encuentran:
   misiones. Por ejemplo, si encontráis un grimorio antiguo podréis tratar de
   invocar el espíritu/demonio/cosa del que hable, ganando magia poderosa o
   alguna que otra habilidad; también os podéis dedicar a la alquimia para
-  ahorrar en vendajes cuando hieran a vuestro personaje y así crear vuestras
+  ahorrar en vendajes cuando hieran a vuestro personaje y crear vuestras
   propias pociones, y si ya os sobran los obols (dinero) y el tiempo, podéis
   crear vuestra propia sala de invocaciones.
   
@@ -410,7 +410,7 @@ Así pues, a medio camino entre lo mecánico y lo narrativo se encuentran:
   todos los encuentros están balanceados según el nivel de vuestra party y si
   no lo están, mágicamente no podéis pasar a la zona peligrosa o cosas del
   estilo, vuestros personajes de Seekers van a  morir. No porque el juego no
-  esté balanceado, que lo está, y muy bien, sino porque es de cajón de maderga
+  esté balanceado, que lo está, y muy bien, sino porque es de cajón de madera
   de pino que si sois un mago con d4 hit points de nivel 1 en D&D y os aparece
   un dragón, tenéis que salir corriendo. En Seekers, si estáis a "Nivel de
   ritual 1" y os aparece una Quimera, un Gólem, o un Mago anciano, también
@@ -509,9 +509,9 @@ estándar, solo que tienen reglas especiales para el juego en solitario:
   ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200516-rol-como-empezar/scarlet-heroes-adventures.jpg)
   <p align="center"><small>Detalla de aventuras en Scarlet Heroes</small></p>
   
-  Scarlet Heroes divide las diferentes aventuras que puedes tener en aventuras
-  urbanas, en la naturaleza o en una mazmorra y te propone reglas para que
-  cuando juegues solo sepas cómo investigar en las aventuras urbanas, cómo
+  Scarlet Heroes divide las diferentes aventuras que puedes tener en: aventuras
+  urbanas, en la naturaleza o en una mazmorra, y te propone reglas para que
+  cuando juegues solo, sepas cómo investigar en las aventuras urbanas, cómo
   viajar por la naturaleza o cómo generar mazmorras. Usando estas reglas puedes
   jugar todo tipo de aventuras en solitario usando las reglas adecuadas según
   la situación en la que te encuentres.
@@ -555,10 +555,10 @@ estándar, solo que tienen reglas especiales para el juego en solitario:
    habilidades.
    
    Como todo juego basado en PbtA, tendremos *Movimientos* que podremos usar
-   durante cuando se desencadenen ciertas condiciones, y los podremos usar
-   durante la partida para resolver acciones. Estos movimientos están
-   relacionados con la aventura, las relaciones que tenemos con las personas,
-   el combate, el daño que sufrimos, las misiones que obtenemos y el destino.
+   cuando se desencadenen ciertas condiciones durante la partida para resolver
+   acciones. Estos movimientos están relacionados con la aventura, las
+   relaciones que tenemos con las personas,  el combate, el daño que sufrimos,
+   las misiones que obtenemos y el destino.
    
    Para el juego en solitario Ironworn viene preparado con un Movimiento
    llamado *Pregunta al oráculo*, que podemos usar para utilizar cualquier
@@ -616,10 +616,10 @@ que creo que les vaya a dar una oportunidad en el futuro:
 
 * **[Quill: A Letter-Writing Roleplaying Game for a Single
     Player](https://www.drivethrurpg.com/product/170400/Quill-A-LetterWriting-Roleplaying-Game-for-a-Single-Player?affiliate_id=1914894)**,
-    de Scott Malthouse,es un juego que tiene un título muy descriptivo;
+    de Scott Malthouse, es un juego que tiene un título muy descriptivo;
     tratamos de escribir 
     cartas a un receptor imaginario con el objetivo de maravillarlo con nuestra 
-    escritura. Tendremos que elegir qué personaje somos, un monje, caballero,
+    escritura. Tendremos que elegir qué personaje somos: un monje, caballero,
     poeta, aristócrata, académico o cortesano; con unas atributos de
     caligrafía, lenguaje y corazón determinados. Dependiendo de los valores de
     estos atributos, a la hora de escribir nuestras cartas podremos impresionar
@@ -718,7 +718,7 @@ que creo que les vaya a dar una oportunidad en el futuro:
   timeline de twitter. En este juego eres el último superviviente de una nave
   espacial intergaláctica de rescate, The Wretched, que ha sido atacada por un
   forma de vida alienígena y ahora se encuentra a la deriva. Usando una baraja
-  francesa, un dado d6 y fichas robarás cartas que te narran los diferentes
+  francesa, un dado d6 y fichas, robarás cartas que te narran los diferentes
   eventos que van pasando dentro de la nave. 
   
   Este juego también ha conseguido que sus reglas se conviertan en un marco,
@@ -837,7 +837,8 @@ comunidad:
     
   Para ayudarte a definir qué son esas cosas extra que ocurren por los
   modificadores, se utilizan estas dos tablas adicionales, tira un dado en cada
-  una, y utiliza la idea. Puedes hacer este segundo paso opcional o utilizarlo
+  una, y utiliza la idea. Puedes hacer que  este segundo paso de utilizar dos
+  tablas adicionales sea completamente opcional o puedes utilizarlo
   solamente cuando tras tirar en el oráculo principal, tiras otro dado y sale
   un resultado de 1, por ejemplo.
   
@@ -1155,7 +1156,7 @@ personal, son de los pocos que tengo en físico con encuadernación buena,
 generalmente los compro en digital y los imprimo y encuaderno con espirales</small></p>
   
 
-#### ¿Cómo se si mi libro de rol es bueno para jugar en solitario con estos recursos?
+#### ¿Cómo sé si mi libro de rol es bueno para jugar en solitario con estos recursos?
 
 En general, como he dicho arriba casi todos los libros de rol pueden jugarse en
 solitario con ayuda de oráculos y generadores, pongo un "casi todos" porque
