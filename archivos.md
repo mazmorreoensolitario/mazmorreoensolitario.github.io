@@ -19,6 +19,7 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or
+        tag[0] == "Four Against Darkness" or
         tag[0] == "Dyson's Delve" or
         tag[0] == "ENnie" or 
         tag[0] == "Labyrinth Lord" or
@@ -43,13 +44,42 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
         tag[0] == "The Hole in The Oak" or
         tag[0] == "Trilemma Adventures"  or
         tag[0] == "Zine Quest" or
-        tag[0] == "Zine Quest 2" %}
+        tag[0] == "Zine Quest 2" or
+        tag[0] == "A Thousand Year Old Vampire" or
+        tag[0] == "A Torch in the Dark" or
+        tag[0] == "Alone Among the Stars" or
+        tag[0] == "Beak, Feather & Bone" or
+        tag[0] == "Pico, Pluma & Hueso" or
+        tag[0] == "Cuentos de ánimas" or
+        tag[0] == "Disciples of Bone and Shadow" or
+        tag[0] == "Do Not Let Us Die In The Dark Night Of This Cold Winter" or
+        tag[0] == "English Eerie" or
+        tag[0] == "Malditos" or
+        tag[0] == "Mythic" or
+        tag[0] == "Nadir" or
+        tag[0] == "Non Gratus Rodentum" or
+        tag[0] == "Oneironaut" or
+        tag[0] == "Quill" or
+        tag[0] == "SCRAWL" or
+        tag[0] == "Scarlet Heroes" or
+        tag[0] == "Sigils in the Dark" or
+        tag[0] == "The Adventure Crafter" or
+        tag[0] == "The Adventurer" or
+        tag[0] == "The Metamorphica Revised" or
+        tag[0] == "The Perilous Wilds" or
+        tag[0] == "The Quest" or
+        tag[0] == "The Wretched" or
+        tag[0] == "Tome of Adventure Design" or
+        tag[0] == "UNE" or
+        tag[0] == "Wilderness Hexploration" or
+        tag[0] == "D30 Sandbox Companion" %}
         <span class="label label-danger">#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
     {% else %}
         {% if tag[0] == "9 Card Game Print & Play Design Contest" or
             tag[0] == "Golden Geek" or
-            tag[0] == "Solitaire Print & Play Design Contest" %}
+            tag[0] == "Solitaire Print & Play Design Contest" or
+            tag[0] == "Wargame Print & Play Design Contest" %}
             <span class="label label-success">#<a class="tag-color"
             href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
         {% else %}
