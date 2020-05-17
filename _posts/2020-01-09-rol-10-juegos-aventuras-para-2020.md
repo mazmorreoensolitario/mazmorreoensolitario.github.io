@@ -137,11 +137,13 @@ soportan ese modo de juego, os iré comentando en cada apartado de cada juego:
     <div class="col-md-9">
          <h4>2. A Rasp of Sand</h4>
          <p><strong><a
-         href="https://www.kickstarter.com/projects/dastardlydave/a-rasp-of-sand-a-roguelike-tabletop-rpg-experience?ref=mazmorreoensolitario"
+         href="https://www.drivethrurpg.com/product/298057/A-Rasp-of-Sand?affiliate_id=1914894"
          target="_blank">A Rasp of Sand</a></strong> de Dave Cox, es un RPG
          <i>roguelike</i>  que se creó gracias a la iniciativa de <a
          href="https://www.kickstarter.com/zine-quest">Zine Quest</a> de
-         Kickstarter en febrero de 2019 y es la segunda adquisición de rol de
+         <a
+         href="https://www.kickstarter.com/projects/dastardlydave/a-rasp-of-sand-a-roguelike-tabletop-rpg-experience?ref=mazmorreoensolitario">Kickstarter</a>
+         en febrero de 2019 y es la segunda adquisición de rol de
          2019 que con más ganas he esperado para poder jugar.</p>
          <p><strong>En A Rasp of Sand tomamos el rol de una familia en sus
          intentos de devolver la Corona de la Reina de las Profundidades a su
