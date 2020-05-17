@@ -874,8 +874,8 @@ comunidad:
   refinar tus ideas. El *Fate Chart*, que es el oráculo principal de Mythic, es
   igual de famoso.
   
-  ![](https://i.4pcdn.org/tg/1577892064774s.jpg)
-  <p align="center"><small>Miniatura de el Fate Chart</small></p>
+  ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200516-rol-como-empezar/mythic.png)
+  <p align="center"><small>Fate Chart de Mythic</small></p>
   
   En este oráculo tenemos que elegir dos factores en la tabla, que se
   corresponden a una fila y una columna, para después hacer referencia a la
