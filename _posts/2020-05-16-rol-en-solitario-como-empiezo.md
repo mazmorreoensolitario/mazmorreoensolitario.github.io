@@ -81,7 +81,7 @@ juegos de estas dos categorías más adelante, ahora nos vamos a centrar en los
 juegos más mecánicos:
 
 * En **[Four Against
-  Darkness](https://www.drivethrurpg.com/product/180588/Four-Against-Darkness?affiliate_id=1914894)**
+  Darkness](https://www.drivethrurpg.com/product/180588/Four-Against-Darknessaffiliate_id=1914894)**
   de Andrea Sfiligoi, controlas a cuatro aventureros (ni uno más y ni uno
   menos) en sus diferentes misiones en una mazmorra generada aleatoriamente.
   En 4AD empiezas creando tu party eligiendo diferentes clases para tus
@@ -122,13 +122,14 @@ juegos más mecánicos:
   ambientaciones.
   
 * **[Do Not Let Us Die In The Dark Night Of This Cold
-  Winter](https://cone.itch.io/coldwinter)** es una de mis últimas
-  incorporaciones al regimiento de juegos de rol (está en oferta a ~1.4$ de los
-  10$ que costaba, ¡corred insensatos!), y aunque no es estrictamente un juego
-  que se promocione como de "rol en solitario", tras leer las reglas os puedo
-  asegurar de que no vais a tener ningún problema en jugarlo en solitario; el
-  rol del DM en este juego es simplemente leer los eventos, así que
-  literalmente, es un juego 100% jugable en solitario.
+  Winter](https://www.drivethrurpg.com/product/198895/Do-Not-Let-Us-Die-In-The-Dark-Night-Of-This-Cold-Winter?affiliate_id=1914894)**
+  es una de mis últimas incorporaciones al regimiento de juegos de rol (~~está en
+  oferta a ~1.4$ de los 10$ que costaba, ¡corred insensatos!~~ ya no está en
+  oferta), y aunque no es estrictamente un juego que se promocione como de "rol
+  en solitario", tras leer las reglas os puedo asegurar de que no vais a tener
+  ningún problema en jugarlo en solitario; el rol del DM en este juego es
+  simplemente leer los eventos, así que literalmente, es un juego 100% jugable
+  en solitario.
   
   ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200516-rol-como-empezar/cold-winter.png)
   <p align="center"><small>Hojas de juego de Do Not Let Us Die In The Dark
