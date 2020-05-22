@@ -299,6 +299,5 @@ más de ser de esta forma.
 <img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
 2 de 5 monedas. **Es algo entretenido, pero no me engancha.**
 
-<hr>
 
  

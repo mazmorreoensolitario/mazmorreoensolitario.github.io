@@ -779,4 +779,3 @@ quieres ayuda no los leas:
    hoguera y curarte, en este juego las cosas pueden ponerse feas muy
    rápido. Que no te pillen desprevenido.
 
-<hr>

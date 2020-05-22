@@ -290,4 +290,3 @@ pero si pruebo la expansión, tendréis noticias :)
 Y si me llega la inspiración igual os sorprendo con la variante de Mazmorreo en
 solitario.
 
-<hr>

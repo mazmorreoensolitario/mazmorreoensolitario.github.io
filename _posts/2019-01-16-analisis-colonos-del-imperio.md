@@ -495,7 +495,7 @@ src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 Sumo* de los Japoneses. Un lector avispado se dará cuenta de que antes hemos
 comentado que las localizaciones de Facción se distinguen porque no se pueden
 saquear, existe una excepción, la facción de los Japoneses </small></p>
-
+v
 **Apartado gráfico y componentes.**
 Empezando por el apartado gráfico, Colonos del Imperio es precioso y tiene
 ilustraciones que han cuidado con muchísimo el detalle. Si se alarga una
@@ -533,5 +533,4 @@ genialidad dure más tiempo.
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 4 de 5
 monedas. **¡Este juego es genial! Voy a jugar otra vez ya mismo.** 
 
-<hr>
 

@@ -354,6 +354,5 @@ hicieran una versión más compleja.
 <img width="50" src="{{site.baseurl}}/images/fire.png"> **Nivel de hype:** fans
 de lo medieval, es lo vuestro.
 
-<hr>
 
 

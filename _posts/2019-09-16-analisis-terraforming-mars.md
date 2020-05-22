@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Terraforming Mars"
 date:   2019-09-16
 categories: [Análisis]
-tags: [Terraforming Mars]
+tags: [Terraforming Mars, Golden Geek]
 imghtml: https://cf.geekdo-images.com/imagepage/img/e1HQZXKPpYmjGibD1jl-2o2U1N8=/fit-in/900x600/filters:no_upscale()/pic3791227.png
 score: 4.5
 post_desc: "La Tierra está superpoblada y los recursos cada vez son más 

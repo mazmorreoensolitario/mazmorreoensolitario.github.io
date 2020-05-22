@@ -3,8 +3,8 @@ layout: post
 title: "Traducciones - Monstruo Final - Modo en solitario"
 date:   2018-12-07
 categories: [Traducciones]
-tags: [Monstruo Final]
-img: traducciones.png
+tags: [Monstruo Final, Traducciones]
+imghtml: https://cf.geekdo-images.com/imagepage/img/ylpDfK5MT7UHpFWb5DqWr1meOnc=/fit-in/900x600/filters:no_upscale()/pic1732644.jpg
 ---
 
 Hemos estado trabajando en la traducción del Modo en solitario para Monstruo 

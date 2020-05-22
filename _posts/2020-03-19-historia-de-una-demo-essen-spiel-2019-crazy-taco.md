@@ -303,5 +303,3 @@ No os olvidéis de seguir la cuenta de Twitter de
 las últimas noticias sobre el juego, o si me seguís a mí, yo estoy al tanto
 para asegurarme de hacer RT.
 
-<hr>
-

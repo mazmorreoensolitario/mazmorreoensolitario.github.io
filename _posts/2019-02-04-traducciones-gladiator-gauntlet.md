@@ -3,8 +3,8 @@ layout: post
 title: "Traducciones - Gladiator Gauntlet"
 date:   2019-02-04
 categories: [Traducciones]
-tags: [Gladiator Gauntlet, Print & play, 9 Card Game Print & Play Design Contest]
-img: traducciones.png
+tags: [Gladiator Gauntlet, Print & play, 9 Card Game Print & Play Design Contest, Traducciones]
+imghtml: https://cf.geekdo-images.com/imagepage/img/6-UxjVSi5mukaZHL71uymQxj3iQ=/fit-in/900x600/filters:no_upscale()/pic3543520.png
 ---
 
 La semana pasada os traíamos un [análisis de Gladiator Gauntlet]({{site.baseur}}/2019/02/02/analisis-gladiator-gauntlet/),

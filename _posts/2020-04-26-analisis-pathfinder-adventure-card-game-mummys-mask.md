@@ -483,5 +483,4 @@ os interesa el juego es muy importante que tengáis esto en cuenta. Yo por
 ejemplo tengo el juego en pausa hasta que baje de precio el siguiente mazo de
 aventuras.
 
-<hr>
 

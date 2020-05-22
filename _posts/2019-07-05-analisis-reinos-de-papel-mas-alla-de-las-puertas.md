@@ -495,7 +495,7 @@ juego es de 10.
 
 **El juego.**
 En cuanto a mi opinión sobre las sensaciones de juego, el juego es bueno, creo
-que le falta algo para que las combinaciones de los efectos que tratas de crear
+vque le falta algo para que las combinaciones de los efectos que tratas de crear
 con tus unidades y edificios puedan despegar del todo, y por muy bonito y
 familiar que parezca, es difícil de ganar. Y a su vez puedes controlar la
 dificultad a tu gusto.
@@ -566,7 +566,5 @@ pero con el juego base.
 
 <img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
 3.5 de 5 monedas. **Me lo paso muy bien jugando a este juego.**
-
-<hr>
 
  

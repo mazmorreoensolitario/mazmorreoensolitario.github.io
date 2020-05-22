@@ -69,7 +69,7 @@ layout: default
     <div class="col-md-4">  </div>
     <div class="col-md-4">
         {% if paginator.total_pages > 1 %}
-        <ul class="pagination">
+        <ul class="pager">
           {% if paginator.previous_page %}
             <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Nuevos</a></li>
           {% else %}
@@ -78,7 +78,7 @@ layout: default
 
           {% for page in (1..paginator.total_pages) %}
             {% if page == paginator.page %}
-              <li class="active"><span><em>{{ page }}</em></span></li>
+              <li class="active"><span style="background-color: #4582ec;color:white">{{ page }}</span></li>
             {% elsif page == 1 %}
             <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
             {% else %}

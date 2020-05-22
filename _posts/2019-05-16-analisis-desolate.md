@@ -413,7 +413,7 @@ La pequeña anécdota de las cartas ya os ha dejado entrever que me gusta mucho
 el juego. Directamente creo que es de los mejores de push-your-luck que he
 podido jugar. Es rápido de preparar, rápido de jugar, las mecánicas le dan
 dinamismo a la partida, siempre hay que hacer algo, y como mínimo vas a echar
-dos partidas cada vez que lo saques.
+vdos partidas cada vez que lo saques.
 
 Desolate depende muchísimo del azar, y esto hay que tenerlo en cuenta para
 saber si es un juego que os puede gustar o no. El juego trata de minimizar los
@@ -470,6 +470,5 @@ strech goals ni similares, el objetivo de eso es que a más copias, menos dinero
 cuesta producirlas y consecuentemente, hay que cobrarles menos dinero a los
 clientes.
 
-<hr>
 
  

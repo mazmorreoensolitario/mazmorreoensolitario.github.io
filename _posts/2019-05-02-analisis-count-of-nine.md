@@ -440,4 +440,3 @@ que puede pareceros un reto interesante.
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**  2.5 de 5
 monedas. **Es entretenido, pero no me engancha.**
 
-<hr>

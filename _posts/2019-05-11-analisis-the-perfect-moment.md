@@ -499,6 +499,5 @@ Hemos hablado de otros juegos de Button Shy Games, como
 of Dsyx: Dragonvault]({{site.baseurl}}/2018/11/28/analisis-dragonvault/)
 previamente en el blog. Animaros a echarles un vistazo.
 
-<hr>
 
  

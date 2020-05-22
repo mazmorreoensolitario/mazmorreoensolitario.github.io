@@ -390,6 +390,5 @@ a pasar pipa.
 <img width="50" src="{{site.baseurl}}/images/fire.png"> **Nivel de hype:** 
  All in!!
 
-<hr>
 
 

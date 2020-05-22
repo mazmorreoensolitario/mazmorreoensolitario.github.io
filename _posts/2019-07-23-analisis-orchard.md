@@ -268,4 +268,3 @@ que me ha gustado algo más que Orchard y que ha sido publicado recientemente en
 España por [Salt and Pepper Games](https://saltandpeppergames.es/). Animaros a
 echarle un vistazo.
 
-<hr>

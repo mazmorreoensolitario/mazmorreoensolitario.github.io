@@ -240,4 +240,3 @@ que sí me gusta) y
 [Deep Space D-6]({{site.baseurl}}/2018/12/05/analisis-deep-space-d6/), un juego
 al que merece que le eche más partidas.
 
-<hr>

@@ -287,6 +287,5 @@ la menor duda seguir descubriendo sus secretos.
 <img width="50" src="{{site.baseurl}}/images/fire.png"> **Nivel de hype:** 
 a día de hoy, entro en la campaña.
 
-<hr>
 
 

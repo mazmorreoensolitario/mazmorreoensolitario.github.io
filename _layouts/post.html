@@ -39,7 +39,14 @@ layout: default
               </span>{% endif %}
 
             </p>
-            <p class="post-meta">
+            <hr>
+          </header>
+          <div class="post-content text-justify text-sm-left" itemprop="articleBody">
+            {{ content }}
+          </div>
+          <p class="post-meta">
+            <hr>
+            <strong>Etiquetas</strong><br>
               {% assign sorted_tags = page.tags | sort %}
               {% for tag in sorted_tags %}
               <!--span class="label label-primary">#<a class="tag-color"
@@ -113,7 +120,7 @@ layout: default
               {% if tag == "Campaña" or tag == "Expansión" or
               tag == "Kickstarter" or tag == "Print & play" or
               tag == "Tabletopia" or tag == "Tops" or
-              tag == "Verkami" %}
+              tag == "Verkami" or tag == "Traducciones" %}
               <span class="label label-warning">#<a class="tag-color"
               href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></span> 
               {% else %}
@@ -131,13 +138,8 @@ layout: default
               {% endif %}
               {% endif %}
               {% endfor %}
-            </p>
-            <hr>
-          </header>
-        
-          <div class="post-content text-justify text-sm-left" itemprop="articleBody">
-            {{ content }}
-          </div>
+          </p>
+          <hr>
     </article>
     <div class="row">
     {% assign hasSimilar = '' %}
