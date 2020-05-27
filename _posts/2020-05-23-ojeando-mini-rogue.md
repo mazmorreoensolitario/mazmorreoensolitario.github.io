@@ -88,7 +88,7 @@ controlamos a uno o dos aventureros a través de los diferentes niveles de una
 mazmorra en su búsqueda por la Sangre de Og, un misterioso artefacto que se
 rumorea ser un rubí extraordinario.
 
-Este juego está inspirado por los videojuegos de estilo *roguelike*, con muerte
+Este juego está inspirado en los videojuegos de estilo *roguelike*, con muerte
 permanente, niveles generados aleatoriamente, gestión de recursos y movimiento
 por una cuadrícula; además tiene influencias de los juegos de rol de la vieja
 escuela.
