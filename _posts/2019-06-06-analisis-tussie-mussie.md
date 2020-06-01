@@ -35,6 +35,7 @@ versión en castellaño por Salt & Pepper Games.
         <table class="table table-striped table-hover">
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2019</td></tr>
             <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left">3$ (print & play)</td></tr>
+            <tr><td class="text-left"></td><td class="text-left">14€ edición física</td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-4</td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">15 mins</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Español / Inglés</td></tr>
