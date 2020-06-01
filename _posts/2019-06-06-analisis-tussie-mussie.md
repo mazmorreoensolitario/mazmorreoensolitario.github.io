@@ -12,6 +12,11 @@ ayuda. Mientras estamos entrenando a nuestro nuevo empleado vamos a ayudar a
 montar sus ramos, y al mismo tiempo, dejar claro quién está al mando." 
 ---
 
+
+**Actualizado: 1 de junio de 2020.** Se añade información relativa a la
+versión en castellaño por Salt & Pepper Games.
+
+
 <div class="panel panel-primary">
     <div class="panel-heading">
         <h3 class="panel-title">Ficha técnica - Tussie Mussie</h3>
@@ -32,40 +37,51 @@ montar sus ramos, y al mismo tiempo, dejar claro quién está al mando."
             <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left">3$ (print & play)</td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-4</td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">15 mins</td></tr>
-            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés</td></tr>
-            <tr><td class="text-left"><strong><strong>Dependencia del idioma:</strong></strong></td><td class="text-left">Alta, es necesario saber inglés para poder jugar</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Español / Inglés</td></tr>
         </table>
         </div>
         <div class="col-md-12"></div>
         <div class="col-md-12">
             <ul>
+                <br>
                 <li>Diseñado por Elizabeth Hargrave, modo en solitario por Mike
                 Mullins.</li>
                 <li>Ilustraciones de Beth Sobel.</li>
                 <li>Editado por <a href="https://buttonshygames.com/"
                 target="_blank">Button Shy Games</a>.</li> 
+                <li>Editado en español por <strong><a
+                href="https://saltandpeppergames.es/">Salt & Pepper
+                Games</a></strong>, editorial también responsable de otro micro
+                juego de cartas que ya ha aparecido en el blog: <a
+                href="{{site.baseurl}}/2018/12/23/analisis-sprawlopolis/">Expansiópolis</a>.</li>
                 <li>Si no sabéis quién es la autora del juego, entonces
                 vivisteis ajenos al <i>revuelo</i> que causó la anterior
                 publicación de la autora, y os envidio.</li>
                 <li><strong>Para jugar en solitario es obligatorio tener la
                 expansión <a
                 href="https://boardgamegeek.com/boardgameexpansion/291182/tussie-mussie-flower-shoppe">Flower
-                Shoppe</a>.</strong></li>
+                Shoppe</a> (Floristería).</strong></li>
+                <li>La campaña de Verkami en castellano <strong>tiene el juego base
+                y la expansión para jugar en solitario</strong>.</li>
              </ul>
          </div>
     </div>
 </div>
 
-Esta es la versión que se puede conseguir del juego como parte del [Patreon de
-Button Shy Games](https://www.patreon.com/buttonshy) (a fecha de publicación de
-esta entrada aún podéis conseguir el juego), del que se ha hablado
-[otras veces]({{site.baseurl}}/2019/05/11/analisis-the-perfect-moment/) en el
-blog. 
+En esta entrada se utiliza la versión que se puede conseguir del juego como
+parte del [Patreon de Button Shy Games](https://www.patreon.com/buttonshy) (a
+fecha de publicación de esta entrada aún podéis conseguir el juego), del que se
+ha hablado [otras
+veces]({{site.baseurl}}/2019/05/11/analisis-the-perfect-moment/) en el blog. 
 
 **La versión del juego producida tras la campaña de Kickstarter puede variar a
 lo presentado en esta entrada.**
 
-> **Link a la [campaña de Kickstarter](https://www.kickstarter.com/projects/239309591/tussie-mussie-by-elizabeth-hargrave-wingspan?ref=mazmorreoensolitario).**
+> **Campaña de Kickstarter el 28 de mayo de 2019. Link a la [campaña de
+> Kickstarter](https://www.kickstarter.com/projects/239309591/tussie-mussie-by-elizabeth-hargrave-wingspan?ref=mazmorreoensolitario).**
+
+> **Campaña de Verkami el 1 de junio de 2020. Link a la [campaña de
+> Verkami](https://www.verkami.com/projects/26521-tussie-mussie-y-seasons-of-rice?ref=mazmorreoensolitario).**
 
 ### Información general
 
