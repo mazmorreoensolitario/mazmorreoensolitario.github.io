@@ -54,6 +54,10 @@ versión en castellaño por Salt & Pepper Games.
                 Games</a></strong>, editorial también responsable de otro micro
                 juego de cartas que ya ha aparecido en el blog: <a
                 href="{{site.baseurl}}/2018/12/23/analisis-sprawlopolis/">Expansiópolis</a>.</li>
+                <li>Nominado en la categoría de <i>Mejor juego de cartas</i> en
+                los <strong><a
+                href="{{site.baseurl}}/2020/04/30/noticias-golden-geek-awards-2019/">Golden
+                Geek de 2019</a></strong>.</li>
                 <li>Si no sabéis quién es la autora del juego, entonces
                 vivisteis ajenos al <i>revuelo</i> que causó la anterior
                 publicación de la autora, y os envidio.</li>
@@ -297,7 +301,7 @@ puntos en base a la información disponible e igual nos la podemos jugar un
 poco. Pero como os he contado en [otros
 análisis]({{site.baseurl}}/2019/03/01/analisis-farmers-finances/), si puedo
 reducir la estrategia a maximizar/minimizar algo ya deja de divertirme, gane o
-no, ya que ya sé que voy a hacer en el resto de partidas.
+no, ya que ya sé qué voy a hacer en el resto de partidas.
 
 Esto no significa que no pueda ser un juego que no os vaya a gustar, aunque los
 combos que se pueden hacer con la cartas están limitados (evidentemente porque
