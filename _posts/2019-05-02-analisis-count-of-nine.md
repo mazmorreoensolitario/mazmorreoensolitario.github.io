@@ -3,13 +3,15 @@ layout: post
 title: "Análisis - Count of Nine"
 date:   2019-05-02
 categories: [Análisis, Print & play]
-tags: [Count of Nine, Print & play, 9 Card Game Print & Play Design Contest, Golden Geek]
+tags: [Count of Nine, Print & play, 9 Card Game Print & Play Design Contest, Golden Geek, "Mars: Colony Nine"]
 imghtml: https://cf.geekdo-images.com/imagepage/img/OtnWgqB7NC7AGPkQcB4si1iuaaY=/fit-in/900x600/filters:no_upscale()/pic4037746.png
 score: 2.5
 post_desc: "En Count of Nine estamos a cargo del pequeño condado de nueve; con 
 recursos limitados tendremos que tomar sabias decisiones para construir en 
 nuestro territorio y así ganar recompensas."
 ---
+
+**Actualizado: 3 de junio de 2020.** Se añade información sobre el rediseño.
 
 <div class="panel panel-primary">
     <div class="panel-heading">
@@ -38,6 +40,7 @@ nuestro territorio y así ganar recompensas."
         <div class="col-md-12"></div>
         <div class="col-md-12">
          <ul>
+         <br>
              <li> Diseñado por Scott Allen Czysz. De este autor ya hemos
              hablado anteriormente en el blog con <a
                  href="{{site.baseurl}}/2019/02/09/analisis-pocket-landship/"
@@ -440,3 +443,19 @@ que puede pareceros un reto interesante.
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**  2.5 de 5
 monedas. **Es entretenido, pero no me engancha.**
 
+
+## Extras 
+
+Recientemente se ha hecho un rediseño de este juego, principalmente es solo
+estético, con las mismas reglas, pero están más organizadas y el tema ha
+cambiado, ahora tenemos que **construir una ciudad en Marte**.
+
+El rediseño se llama **Mars: Colony Nine** y tiene un diseño gráfico muy
+bueno, aquí tenéis una imagen de un par de cartas:
+
+![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20190502-count-of-nine-mars-colony-nine/mars-colony-nine.png)
+
+> **Descarga el print & play del rediseño:**
+> [Cartas y
+> reglas](https://boardgamegeek.com/filepage/202570/count-nine-mars-colony-nine),
+> ambas en inglés.
