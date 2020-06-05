@@ -39,6 +39,7 @@ falta terraformar un planeta terriblemente frío, seco y casi sin atmósfera."
         <div class="col-md-12"></div>
         <div class="col-md-12">
          <ul>
+             <br>
              <li>Diseñado por Jacob Fryxelius, diseño gráfico de Isaac
              Fryxelius. Muchas imágenes que ilustran las cartas son de dominio
              público, por lo que igual <a

@@ -40,6 +40,7 @@ nuestros caballeros y lacayos estratégicamente."
         <div class="col-md-12"></div>
         <div class="col-md-12">
          <ul>
+             <br>
              <li>Diseñado por Scott Allen Czysz, arte de Ilya Baranovsky.</li>
              <li>Participó en el concurso de 2019 de <a
              href="https://boardgamegeek.com/thread/2126346/article/32055371#32055371"

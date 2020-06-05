@@ -41,6 +41,7 @@ la ocupación alemana."
         <div class="col-md-12"></div>
         <div class="col-md-12">
          <ul>
+             <br>
              <li>
                  Diseñado por Jake Staines, ilustraciones de Ilya Baranovsky.
              </li>

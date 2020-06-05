@@ -43,6 +43,7 @@ estación."
         <div class="col-md-12"></div>
         <div class="col-md-12">
             <ul>
+                <br>
                 <li>Diseño y arte por Jason Glover de <a href=""
                 target="blank_">Grey Gnome Games</a>.</li>
                 <li>La versión estándar (no print & play) solo puede
