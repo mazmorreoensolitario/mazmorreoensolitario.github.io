@@ -223,7 +223,7 @@ soportan ese modo de juego, os iré comentando en cada apartado de cada juego:
     <div class="col-md-9">
          <h4>3. Solar Blades & Cosmic Spells</h4>
          <p><strong><a
-         href="https://www.drivethrurpg.com/product/260378/Solar-Blades--Cosmic-Spells?term=solar+blades+and+cosmic?affiliate_id=1914894"
+         href="https://www.drivethrurpg.com/product/260378/Solar-Blades--Cosmic-Spells?affiliate_id=1914894"
          target="_blank">Solar Blades & Cosmic Spells</a></strong> de Diogo
          Nogueira, también autor de  <a
          href="https://www.drivethrurpg.com/product/198163/Sharp-Swords--Sinister-Spells?affiliate_id=1914894">Swarp
