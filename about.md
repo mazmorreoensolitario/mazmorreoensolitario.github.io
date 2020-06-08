@@ -66,7 +66,6 @@ del tema [cards](https://github.com/sharu725/cards).
 
 # Sobre mí
 
-* Libros que estoy leyendo ahora: *El bosque oscuro* de Liu Cixin y *14 de
-  julio* de Éric Vuillard
-* Siguiente libro en mi lista para leer: *Tiamat's Wrath* de James S. A. Corey
-* Series que estoy viendo: Star Trek: Picard
+* Libros que estoy leyendo ahora: *Tiamat's Wrath* de James S. A. Corey.
+* Siguiente libro en mi lista para leer: *A Memory Called Empire* de Arkady Martine.
+* Series que estoy viendo: Snowpiercer.
