@@ -67,5 +67,6 @@ del tema [cards](https://github.com/sharu725/cards).
 # Sobre mí
 
 * Libros que estoy leyendo ahora: *Tiamat's Wrath* de James S. A. Corey.
-* Siguiente libro en mi lista para leer: *A Memory Called Empire* de Arkady Martine.
+* Siguientes libros en mi lista para leer: *A Memory Called Empire* de Arkady
+  Martine y Guideon the Ninth de Tamsyn Muir.
 * Series que estoy viendo: Snowpiercer.

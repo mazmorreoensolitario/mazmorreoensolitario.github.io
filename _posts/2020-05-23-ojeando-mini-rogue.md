@@ -63,7 +63,8 @@ misterioso artefacto que se rumorea ser un rubí extraordinario."
     </div>
 </div>
 
-> **Campaña de Kickstarter el 9 de junio de 2020.**
+> **Campaña de Kickstarter el 9 de junio de 2020. [Link a la
+> campaña](https://www.kickstarter.com/projects/483438961/mini-rogue?ref=mazmorreoensolitario).**
 
 > **Descarga el print & play de la versión Kickstarter/retail:**
 > [Cartas y
