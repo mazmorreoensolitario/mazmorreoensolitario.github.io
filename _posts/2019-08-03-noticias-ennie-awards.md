@@ -3,7 +3,7 @@ layout: post
 title: "Premios ENnie 2019"
 date: 2019-08-03
 categories: [Rol]
-tags: [Rol, GenCon, ENnie, Mothership, "Mothership: Dead Planet", OSR, Ironsworn, "Winter's Daughter"]
+tags: [Rol, GenCon, ENnie, Troika, Mothership, "Mothership: Dead Planet", OSR, Ironsworn, "Winter's Daughter"]
 imghtml: http://www.ennie-awards.com/blog/wp-content/uploads/new-logo-1-e1551140487639.jpg
 ---
 

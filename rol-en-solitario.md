@@ -29,6 +29,9 @@ lúdico, por lo que también va a tener un espacio dedicado en el blog.
 
 ### Artículos generales
 
+* 13 Junio, 2020. [Lo recomendado del Paquete de juegos por la justicia
+  racial y la
+  igualdad]({{site.baseurl}}/2020/06/13/rol-bundle-for-racial-justice-and-equality/).
 * 22 Marzo, 2020. [Bestiario Yōkai para Seekers Beyond The
   Shroud]({{site.baseurl}}/2020/03/22/rol-bestiario-yokai-para-seekers/).
 * 9 Enero, 2020. [10 juegos de rol en solitario y módulos de aventuras para

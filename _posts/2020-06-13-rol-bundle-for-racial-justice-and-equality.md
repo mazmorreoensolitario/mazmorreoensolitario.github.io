@@ -33,7 +33,7 @@ vais a recibir un total de más de 1000 juegos con una donación mínima de 5$
 (~4.62€). Esta donación se reparte en partes iguales a las dos entidades que os
 he enlazado arriba.
 
-Este paquete de juego comenzó con unas 700 entradas el viernes 5 de junio,
+Este paquete de juegos comenzó con unas 700 entradas el viernes 5 de junio,
 buscando llegar a conseguir 500.000$ en donaciones, y a fecha de publicación de
 esta entrada, ya hemos recaudado más de 6 MILLONES DE DÓLARES. Todo un orden de
 magnitud más, es fantástico.
@@ -488,7 +488,7 @@ Juegos que poseo / están en mi whishlist / que conocía de antemano / sigo su
 desarrollo: 
 
 * **LOVE**: está en mi whishlist de Steam, me recuerda gráficamente mucho a
-  [VVVVVV](https://store.steampowered.com/app/70300/VVVVVV/) (de verdad que el
+  [VVVVVV](https://store.Steampowered.com/app/70300/VVVVVV/) (de verdad que el
   juego se llama así), que es un juego que jugué hace unos 10 años. No suelo
   jugar mucho a juegos de plataformas (ya tuve suficientes durante mi niñez),
   pero de tener que jugar a alguno, sería a este o a otro que está por esta
@@ -500,7 +500,7 @@ desarrollo:
 * **Super Hexagon**: tengo este juego, lo jugué un día muchísimas horas
   seguidas (no me hagáis dar un número) en una lan-party, es muy adictivo, no
   he vuelto a jugarlo.
-* **FLAMBERGE**: también lleva eones en mi whishlist de steam, todavía es un
+* **FLAMBERGE**: también lleva eones en mi whishlist de Steam, todavía es un
   juego que está en desarrollo, así que no lo he comprado por eso. Es un juego
   táctico en el que tenemos que defender nuestro pueblo, o algo así, como os he
   dicho aún está en desarrollo. Los gráficos son muy bonitos.
@@ -510,7 +510,7 @@ desarrollo:
 * **Overland**: otro que lleva eones en mi whishlist de Steam, y que tras
   jugarlo un rato, creo que es demasiado procedural para mí pero puede que os
   guste. Los gráficos son muy chulos.
-* **Celeste**: este es el segundo juego de plataformas de esta lista y en steam
+* **Celeste**: este es el segundo juego de plataformas de esta lista y en Steam
   tiene una puntuación de *Overwhelmingly Positive*, Steam no es como BGG, las
   puntuaciones suelen ser relevantes, así que hay que probarlo.
 * **Lenna's Inception**: está hecho por uno de los programadores de Stardew
@@ -519,14 +519,14 @@ desarrollo:
   bien cuál fue la razón, pero me dijo que le gustó y yo me fío de su criterio,
   así que me interesa.
 * **Long Gone Days** otro juego en Early Access que está en mi whishlist de
-  steam y que tenía pensado comprar cuando termine de desarrollarse. Ahora lo
+  Steam y que tenía pensado comprar cuando termine de desarrollarse. Ahora lo
   puedo probar antes. Este juego es un RPG con ambientación militar y en el que
   también tendremos que centrarnos en las relaciones interpersonales. Los
   graficos también son chachis.
 * **Haque** me lo recomendó un colega hace tiempo, es un juego con gráficos muy
-  oldschool y mecánicas roquelike.
+  oldschool y mecánicas roguelike.
 * **Depth of Extinction** un juego militar táctico por turnos con temática
-  espacial. No me lo he comprado porque las reviews en steam solo de dan un
+  espacial. No me lo he comprado porque las reviews en Steam solo de dan un
   *Mixed*, sino ya lo tenía.
 * **Anodyne** otro juego tipo Zelda con gráficos tipo NES. 
 * **Nuclear Throne** roguelike, algo bullet hell, muy divertido, aunque ya
@@ -540,7 +540,7 @@ Juegos nuevos (para mí) que han captado mi interés:
 * **STRAWBERRY CUBES** no tengo ni idea de qué va este juego, pero conozco
   otros trabajos del autor, me gusta su pixel art, también ha trabajado en
   [Caves of Qud](https://freeholdgames.itch.io/cavesofqud) (también en
-  [Steam](https://store.steampowered.com/app/333640/Caves_of_Qud/)), si no
+  [Steam](https://store.Steampowered.com/app/333640/Caves_of_Qud/)), si no
   sabéis cuál es ese juego, necesitáis saber cuál es, necesitamos un juego de
   rol de Caves of Qud ¡ya!
 * **Dungeons & Lesbians**. Me he reído mucho al ver el título de este juego y
@@ -553,3 +553,4 @@ Juegos nuevos (para mí) que han captado mi interés:
   lan-party y además tiene gráficos de NES.
 * **Steam Marines 2** segunda iteración de Steam Marines (estaba en la lista de
   arriba) igual este es mejor que el uno.
+

@@ -72,7 +72,11 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
         tag[0] == "Tome of Adventure Design" or
         tag[0] == "UNE" or
         tag[0] == "Wilderness Hexploration" or
-        tag[0] == "D30 Sandbox Companion" %}
+        tag[0] == "D30 Sandbox Companion" or
+        tag[0] == "Blades in the Dark" or
+        tag[0] == "Ironsworn: Delve" or
+        tag[0] == "Mausritter" or
+        tag[0] == "Troika" %}
         <span class="label label-danger">#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
     {% else %}
