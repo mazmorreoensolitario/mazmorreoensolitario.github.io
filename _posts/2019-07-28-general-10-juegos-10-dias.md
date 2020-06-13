@@ -4,7 +4,7 @@ title: "10 juegos en 10 días"
 date: 2019-07-28
 categories: [General]
 tags: [Ardennes 44, Desolate, Austerity, The City of Kings, Legends Untold, "Legends Untold: The Weeping Caves", "Legends Untold: The Great Sewers", "Manhattan Project: Energy Empire", Orchard, Terraforming Mars, Four Against Darkness, Set A Watch]
-imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/201907028-10-juegos-10-dias/photo_2019-07-28_13-40-27.jpg
+imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20190728-10-juegos-10-dias/photo_2019-07-28_13-40-27.jpg
 ---
 
 Recientemente en Instagram hubo un pequeño "movimiento" de subir durante diez 

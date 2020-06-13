@@ -394,6 +394,10 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
   poder jugar en solitario con él porque tiene muchas tablas y ya tenéis un
   mini escenario gracias al mapa para el hexcrawl.
     
+    <p align="center">
+    <img src="https://img.itch.zone/aW1nLzMzOTA2NTkucG5n/315x250%23cb/8KnsmN.png">
+    </p>
+
     * En este bundle también podéis conseguir esta aventura para Mausritter:
       **Honey in the Rafters**.
       
@@ -452,6 +456,11 @@ src="https://img.itch.zone/aW1hZ2UvNDg0MzE3LzI1NTE4NjAuanBn/347x500/o2psP6.jpg">
   
 Otras cosas interesantes que no se encuentran en las categorías anteriores y
 que voy a poner poca información porque ya he escrito bastante:
+
+<p align="center">
+<img
+src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200613-blm/lowcountry.png">
+</p>
 
 * **Lowcountry crawl** es una zine que contiene una aventura tipo pointcrawl
   con varias localizaciones en diferentes islas.
