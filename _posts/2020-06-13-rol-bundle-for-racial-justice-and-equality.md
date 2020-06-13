@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recomendaciones del Paquete de juegos por la justicia racial y la igualdad"
+title: "Lo recomendado del Paquete de juegos por la justicia racial y la igualdad"
 date: 2020-06-13
 categories: [Rol]
 tags: [Rol, Zine Quest, Zine Quest 2, Mausritter, The Wretched, Troika, Ironsworn, "Ironsworn: Delve", Blades in the Dark]
@@ -135,12 +135,12 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
 </p>
 
 * **Blades in the Dark** se juega principalmente en una ciudad fantástica
-  que se encuentra en una perpetua oscuridad y está encantada durante la
-  revolución industrial de los años 1870. Nosotros somos parte de un grupo
-  criminal que trata de aumentar su poder e influencia. Tiene mecánicas PbtA,
-  pero sus reglas se han convertido en un marco diferenciado llamado **[Forged
-  in the Dark](https://bladesinthedark.com/forged-dark)** del que ya se han
-  desarrollado otros juegos.
+  que se encuentra en una perpetua oscuridad y está encantada. Se ambienta
+  durante la revolución industrial de los años 1870. Nosotros somos parte de un
+  grupo criminal que trata de aumentar su poder e influencia. Tiene mecánicas
+  PbtA, pero sus reglas se han convertido en un marco diferenciado llamado
+  **[Forged in the Dark](https://bladesinthedark.com/forged-dark)** del que ya
+  se han desarrollado otros juegos.
   
   No os puedo contar mucho más, es un juego por el que me interesé para jugar en
   solitario el año pasado, pero como ya tengo muchos juegos que probar, lo dejé
@@ -227,7 +227,7 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
 * **Mnemonic: Lost in the Grey** es un mini (solo tiene 1 página
   de reglas) juego de **rol en solitario** en el que nos encontramos
   deambulando por la niebla y tenemos que dibujar un mapa que nos ayude a
-  orientarnos además de descubrir quién en nuestro personaje, dónde se ha
+  orientarnos además de descubrir quién es nuestro personaje, dónde se ha
   perdido y otras preguntas relevantes.
   
   Es un juego dentro del mundo de [Mnemonic](https://mnemonicrpg.itch.io/), que
@@ -238,7 +238,7 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
 src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200613-blm/im-sorry.png">
 </p>
 
-* **i'm sorry did you say street magic** tendremos que
+* En **i'm sorry did you say street magic** tendremos quede
   contar historias a medida que construimos una ciudad. Los jugadores exploran
   de forma colaborativa una ciudad que crean juntos. En cada turno los
   jugadores añaden a la ciudad un Barrio, un Punto de Referencia o un
@@ -246,8 +246,8 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
   entre los habitantes de la ciudad y los lugares en los que viven.
   
   Es un juego en formato zine que yo considero amigable
-  para el juego en solitario de la que os hablé en la entrada sobre [Zine Quest
-  2]({{site.baseurl}}/2020/02/21/rol-zinequest-2/), en su momento no me metí en
+  para el juego en solitario del que os hablé en la entrada sobre [Zine Quest
+  2]({{site.baseurl}}/2020/02/21/rol-zinequest-2/); en su momento no me metí en
   el Kickstarter de esta zine, pero ya que la he podido conseguir y leer por
   encima, creo que voy a intentar jugarla.
 
@@ -357,7 +357,7 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
 </p>
 
 * **Mausritter** es un pequeño juego de rol en el que jugamos como valientes
-  aventureros que exploran un peligroso mundo para conseguir tesoros y
+  aventureros ratones que exploran un peligroso mundo para conseguir tesoros y
   traerlos a los asentamientos de ratones. Los ratones tienen solamente tres
   atributos (STR, DEX, WIL) y su vida es un d6, a la hora de crear los
   personajes utilizaremos diferentes tablas, para saber algo más de
@@ -374,17 +374,18 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
   (me encantan los hexcrawls) además de un mapa con hexágonos y sus
   descripciones, además viene un mini-bestiario muy acorde a la
   ambientación, nuestros enemigos pueden ser gatos, hadas, ratas,
-  arañas... además, un punto interesante del bestiario es que no se enfoca como
+  arañas... Un punto interesante de este bestiario es que no se enfoca como
   un juego en el que vamos a tener siempre combate, sino que en relación a
   nuestro grado de relación con la especie, seremos más o menos capaces de
-  entendernos y no ser violentos. Y muchísimas tablas con semillas de aventura,
-  generación de sitios, nombres... es muy compacto y completo.
+  entendernos y no ser violentos. También os podéis encontrar muchísimas tablas
+  con semillas de aventura, generación de sitios, nombres... es muy compacto y
+  completo.
   
   Me gustaría hablaros mucho más de este juego, ya que lo tenía antes de
   encontrarlo en el bundle y aunque aún no lo he jugado tengo muchas ganas de
-  probarlo. Además, tenéis suerte, ya que [El Refugio
+  probarlo. Además, tenéis suerte, ya que **[El Refugio
   Editorial](https://twitter.com/elrefugioedit/status/1260161438607441920) va a
-  publicar este juego en español 
+  publicar este juego en español**.
   
   Como habéis visto, las reglas son muy ligeras, y se inspira en [Into the
   Odd](https://www.drivethrurpg.com/product/145536/Into-the-Odd),
@@ -444,9 +445,9 @@ src="https://img.itch.zone/aW1hZ2UvNDg0MzE3LzI1NTE4NjAuanBn/347x500/o2psP6.jpg">
   sistema, en mi mejor saber, nació con el juego [Dream Askew/Dream
   Apart](https://www.drivethrurpg.com/product/261155/Dream-Askew---Dream-Apart?affiliate_id=1914894)
   (del que hablé brevemente
-  [aquí]({{site.baseurl}}/2019/08/03/noticias-ennie-awards/) y que se publicará
-  en español por [The Hills
-  Press](https://twitter.com/TheHillsPress/status/1255244646420303876)).
+  [aquí]({{site.baseurl}}/2019/08/03/noticias-ennie-awards/)) y que **se
+  publicará en español por [The Hills
+  Press](https://twitter.com/TheHillsPress/status/1255244646420303876))**.
   
   
 Otras cosas interesantes que no se encuentran en las categorías anteriores y
@@ -483,7 +484,7 @@ tengo, que están en mi whishlist de Steam, o de los que he seguido el
 desarrollo; y 2) juegos que me he enterado que existen con este bundle, y que
 han captado mi interés:
 
-Juegos en poseo / están en mi whishlist / que conocía de antemano / sigo su
+Juegos que poseo / están en mi whishlist / que conocía de antemano / sigo su
 desarrollo: 
 
 * **LOVE**: está en mi whishlist de Steam, me recuerda gráficamente mucho a
