@@ -213,7 +213,7 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
 
 <p align="center">
 <img
-src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200613-blm/exnovo.png">
+src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200613-blm/ex-novo.png">
 </p>
 
 * **Ex Novo** es otro juego de rol **en solitario** en el que tenemos que
