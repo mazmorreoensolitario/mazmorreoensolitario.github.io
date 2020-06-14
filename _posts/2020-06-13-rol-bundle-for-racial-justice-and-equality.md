@@ -9,6 +9,9 @@ post_desc: "Los juegos de rol más destacables dentro del paquete de juegos por
 la justicia racial y la igualdad"
 ---
 
+<small><strong>Actualizado: 14 de junio.</strong> Se añade información sobre
+Hex Kit.</small>
+
 ![](https://img.itch.zone/aW1nLzM2MTA3NDkucG5n/original/PocJeR.png)
 
 Hay varios momentos durante el año en el que el logo de esta página cambia y
@@ -451,7 +454,7 @@ src="https://img.itch.zone/aW1hZ2UvNDg0MzE3LzI1NTE4NjAuanBn/347x500/o2psP6.jpg">
   (del que hablé brevemente
   [aquí]({{site.baseurl}}/2019/08/03/noticias-ennie-awards/)) y que **se
   publicará en español por [The Hills
-  Press](https://twitter.com/TheHillsPress/status/1255244646420303876))**.
+  Press](https://twitter.com/TheHillsPress/status/1255244646420303876)**.
   
   
 Otras cosas interesantes que no se encuentran en las categorías anteriores y
@@ -479,6 +482,31 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
 
 * **One Page Dungeons** una serie de aventuras que contenidas cada una en una
   página.
+  
+![](https://img.itch.zone/aW1hZ2UvNjEzOTAyLzMyNjY2NzcucG5n/original/H%2FJFMa.png)
+  
+* **Hex Kit** es un programa para hacer mapas hexagonales, es ideal para
+  documentar tu campaña tipo hexcrawl. Para pintar mapas necesitas usar
+  colecciones de losetas (*tilesets*) que puedes comprar por separado, aunque
+  el programa viene con un tileset básico con losetas que tienen ríos, caminos,
+  ruinas, montañas...
+  
+  Compré este programa hace unos meses y lo he estado usando para documentar la
+  ruta de mis personajes en el playtesting que he participado de una expansión
+  para [Disciples of Bone and
+  Shadow](https://www.drivethrurpg.com/product/278377/Disciples-of-Bone--Shadow?affiliate_id=1914894)
+  (os he hablado de este juego
+  [aquí]({{site.baseurl}}/2020/05/16/rol-en-solitario-como-empiezo/)). En este
+  bundle, además del programa con el tileset básico, se pueden conseguir otros
+  tilesets:
+  
+  * **Hex Kit: Spaceland Part One; Space** un tileset con losetas de tema
+    espacial: espacio, asteroides, planetas, interfaces...
+    
+  * **HPS Cartography Kit** un tileset muy colorido que acaba de reemplazar el
+    tileset básico para mí, con este tenéis el mismo estilo de losetas, digamos
+    que para cualquier juego de fantasía medieval, pero que encima son en
+    color (es el que se muestra en la imagen de arriba).
 
 
 **Actualizaré esta entrada a medida que vayan añadiendo (y descubra) cosas
@@ -563,3 +591,7 @@ Juegos nuevos (para mí) que han captado mi interés:
 * **Steam Marines 2** segunda iteración de Steam Marines (estaba en la lista de
   arriba) igual este es mejor que el uno.
 
+<hr>
+ 
+<small>Nota: Las imágenes de los juegos de rol pertenecen a sus respectivos
+autores.</small>
