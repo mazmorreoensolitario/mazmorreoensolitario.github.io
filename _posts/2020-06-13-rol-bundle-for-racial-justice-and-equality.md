@@ -12,6 +12,9 @@ la justicia racial y la igualdad"
 <small><strong>Actualizado: 14 de junio.</strong> Se añade información sobre
 Hex Kit.</small>
 
+<small><strong>Actualiado: 16 de junio.</strong> Se añade enlace a la página de
+búsqueda externa.</small>
+
 ![](https://img.itch.zone/aW1nLzM2MTA3NDkucG5n/original/PocJeR.png)
 
 Hay varios momentos durante el año en el que el logo de esta página cambia y
@@ -62,6 +65,9 @@ Finalmente, si algún juego os gusta, también es recomendable que si es de pago
 encontrar las cosas de las que os voy a ir hablando, por eso no pongo links a
 ellas, con los links itch.io pensaría que queréis volver a pagar por ellas (sí,
 itch.io funciona *raro*).
+
+**Unas maravillosas personas han hecho un buscador con filtros:**
+[buscador](https://randombundlegame.com/browse?categories=Physical%20game).
 
 ### Juegos de rol
 
