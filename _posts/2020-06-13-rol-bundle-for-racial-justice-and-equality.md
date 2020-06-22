@@ -397,11 +397,11 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
   publicar este juego en español**.
   
   Como habéis visto, las reglas son muy ligeras, y se inspira en [Into the
-  Odd](https://www.drivethrurpg.com/product/145536/Into-the-Odd),
-  [Knave](https://www.drivethrurpg.com/product/250888/Knave) y otros juegos
-  minimalistas. Creo que es uno de los que primero tenéis que ojear, es fácil
-  poder jugar en solitario con él porque tiene muchas tablas y ya tenéis un
-  mini escenario gracias al mapa para el hexcrawl.
+  Odd](https://www.drivethrurpg.com/product/145536/Into-the-Odd?affiliate_id=1914894),
+  [Knave](https://www.drivethrurpg.com/product/250888/Knave?affiliate_id=1914894)
+  y otros juegos minimalistas. Creo que es uno de los que primero tenéis que
+  ojear, es fácil poder jugar en solitario con él porque tiene muchas tablas y
+  ya tenéis un mini escenario gracias al mapa para el hexcrawl.
     
     <p align="center">
     <img src="https://img.itch.zone/aW1nLzMzOTA2NTkucG5n/315x250%23cb/8KnsmN.png">
