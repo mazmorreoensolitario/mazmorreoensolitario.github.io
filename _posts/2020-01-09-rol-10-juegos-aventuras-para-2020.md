@@ -124,6 +124,11 @@ soportan ese modo de juego, os iré comentando en cada apartado de cada juego:
          utiliza un sistema precursor al que tiene Seekers ahora; y están
          creando <strong>Under Ashen Skies</strong>, un juego de rol de terror
          también pensado para el juego solitario (y cooperativo).</p>
+         <p><strong>Actualizado:</strong> el juego puede conseguirse en PDF en
+         DriveThruRPG y en <a
+         href="https://www.exaltedfuneral.com/products/seekers-beyond-the-shroud">Exalted
+         Funeral</a>, que es más barato. Las copias físico están de
+         camino.</p>
      </div>
 </div>
 <br>
