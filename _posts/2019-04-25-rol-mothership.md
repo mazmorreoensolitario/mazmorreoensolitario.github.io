@@ -3,7 +3,7 @@ layout: post
 title: "Rol - Mothership: Player's survival guide"
 date: 2019-04-25
 categories: [Rol]
-tags: [Rol, Mothership, "Mothership: Dead Planet"]
+tags: [Rol, Mothership, "Mothership: Dead Planet", ENnie, OSR]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/mothership/mothership.png
 post_desc: "Mothership es un RPG con temática espacial y énfasis en la
 supervivencia, nuestros personajes se encontraran con horrores y harán frente a
@@ -29,7 +29,10 @@ pánico."
         <div class="col-md-6">
         <table class="table table-striped table-hover">
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2018</td></tr>
-            <tr><td class="text-left"><strong>Precio (PDF):</strong></td><td class="text-left">Paga lo que quieras (PVP: 10$)</td></tr>
+            <tr><td class="text-left"><strong>Precio (PDF):</strong></td><td
+        class="text-left"><a
+        href="https://www.drivethrurpg.com/product/245017/Mothership-Players-Survival-Guide?affiliate_id=1914894">Paga
+        lo que quieras</a> (PVP: 7$)</td></tr>
             <tr><td class="text-left"><strong>Número de páginas:</strong></td><td class="text-left">44</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés</td></tr>
          </table>
@@ -37,21 +40,25 @@ pánico."
         <div class="col-md-12"></div>
         <div class="col-md-12">
             <ul>
+                <br>
                 <li>Escrito e ilustrado por Sean McCoy</li>
                 <li>Desarrollado por Donn stroud, Nick Reed, Tyler Kimball,
                     Fiona Maeve Geist.</li> 
                 <li>Editado por Jarret Crader.</li> 
                 <li>Producido por <a
-    href="http://www.tuesdayknightgames.com/mothership" target="_blank">Tuesday
-    Knight Games</a>.</li>
+                href="http://www.tuesdayknightgames.com/mothership" target="_blank">Tuesday
+                Knight Games</a>.</li>
+                <li>Ganador de un Ennie de oro en la categoría de <i>Mejor
+                juego></i> en los premios Ennie de 2019.</li>
              </ul>
          </div>
     </div>
 </div>
 
-Mothership es un juego de rol ambientado en el espacio con toques de terror. La
-*Guía de supervivencia para el jugador* son 44 páginas muy bien organizadas que 
-permiten catapultarte al ambiente más inhóspito del universo: el espacio.
+**Mothership** es un juego de rol ambientado en el espacio con toques de
+terror. La *Guía de supervivencia para el jugador* son 44 páginas muy bien
+organizadas que  permiten catapultarte al ambiente más inhóspito del universo:
+el espacio.
 
 <a href="https://www.drivethrurpg.com/product/245017/Mothership-Players-Survival-Guide?affiliate_id=1914894"
 target="_blank">Mothership</a>, que está a *"paga lo que quieras"* en

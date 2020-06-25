@@ -5,13 +5,18 @@ date: 2019-08-03
 categories: [Rol]
 tags: [Rol, GenCon, ENnie, Troika, Mothership, "Mothership: Dead Planet", OSR, Ironsworn, "Winter's Daughter"]
 imghtml: http://www.ennie-awards.com/blog/wp-content/uploads/new-logo-1-e1551140487639.jpg
+post_desc: "Los ENnies son unos premios otorgados cada año en la GenCon a los 
+mejores juegos de rol que hayan salido durante el año anterior"
 ---
 
-Los **ENnies** son unos premios otorgados cada año en la [Gen
-Con](https://www.gencon.com/) a los mejores juegos de rol que hayan salido 
-durante el año anterior. Las votaciones generales se hacen a través de un
-jurado popular y hay una sección particular en la que un grupo de jueces hace
-su elección.
+![](https://www.chaosium.com/product_images/uploaded_images/screen-shot-2018-07-05-at-1.14.27-am.png)
+
+Los
+**[ENnies](http://www.ennie-awards.com/blog/about-us/2019-nominations-and-winners/)**
+son unos premios otorgados cada año en la [Gen Con](https://www.gencon.com/) a
+los mejores juegos de rol que hayan salido durante el año anterior. Las
+votaciones generales se hacen a través de un jurado popular y hay una sección
+particular en la que un grupo de jueces hace su elección.
 
 Os dejo aquí las nominaciones y los juegos ganadores de cada categoría, he
 omitido las categorías no relacionadas directamente con los juegos de rol en sí
@@ -934,7 +939,7 @@ solitario.**
 </div>
 <br>
 
-### Mejor disposición y diseño
+### Mejor maquetación y diseño
 
 <div class="row">
     <div class="col-md-3">
