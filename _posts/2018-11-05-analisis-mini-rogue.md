@@ -63,10 +63,12 @@ en inglés (oficial), [cartas](https://boardgamegeek.com/filepage/138859/cartas-
 y [reglas](https://boardgamegeek.com/filepage/151276/reglas-de-mini-rogue-v121-en-espanol)
 en castellano (traducido por fans).
 
+> Puedes leer sobre la nueva **versión retail/Kickstarter
+> [aquí]({{site.baseurl}}/2020/05/23/ojeando-mini-rogue/)**. 
 
 ### Información general
 
-[Mini Rogue](https://boardgamegeek.com/boardgame/199242/mini-rogue) es un
+**[Mini Rogue](https://boardgamegeek.com/boardgame/199242/mini-rogue)** es un
 pequeño juego print & play de tan solo nueve cartas en el que nuestro personaje
 se adentra en una mazmorra, con el objetivo de conseguir un misterioso rubí
 llamado Sangre de Og.

@@ -902,8 +902,9 @@ por la comunidad.
         gestionar una colección de flores.</p>
         <p><strong><a
         href="https://saltandpeppergames.es/2020/04/13/tussie-mussie-y-seasons-of-rice-se-unen-a-la-familia-de-salt-pepper-games/">Salt
-        & Pepper Games</a></strong> traerá Tussie Mussie a España, sin embargo
-        no se ha hablado sobre la mini-expansión que permite el juego en
+        & Pepper Games</a></strong> traerá Tussie Mussie a España, <strike>sin
+        embargo no se ha hablado sobre la mini-expansión que permite el juego
+        en solitario</strike> junto con la expansión que permite el juego en
         solitario.</p>
         <p>Puedes leer un análisis de la versión print & play este juego
         <strong><a
