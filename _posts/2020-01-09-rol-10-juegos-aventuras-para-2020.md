@@ -3,7 +3,7 @@ layout: post
 title: "10 juegos de rol en solitario y módulos de aventuras para probar en 2020"
 date: 2020-01-09
 categories: [Rol]
-tags: [Rol, OSR, Zine Quest, ENnie, Seekers Beyond The Shroud, A Rasp of Sand, Ruins of the Undercity, Mad Monks of Kwantoom, "Solar Blades & Cosmic Spells", Ironsworn, Mothership, "Mothership: A Pound of Flesh", "Winter's Daughter", "The Hole in The Oak", "Trilemma Adventures", Labyrinth Lord]
+tags: [Rol, OSR, Zine Quest, Ennie, Seekers Beyond The Shroud, A Rasp of Sand, Ruins of the Undercity, Mad Monks of Kwantoom, "Solar Blades & Cosmic Spells", Ironsworn, Mothership, "Mothership: A Pound of Flesh", "Winter's Daughter", "The Hole in The Oak", "Trilemma Adventures", Labyrinth Lord]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200109-10-juegos-aventuras-rol/rol-10-juegos-aventuras-para-2020.jpg
 post_desc: "2019 ha sido un año muy bueno para el rol para mí, tanto en 
 solitario como en multi, pero como a mucha gente le suele pasar con el rol, a 

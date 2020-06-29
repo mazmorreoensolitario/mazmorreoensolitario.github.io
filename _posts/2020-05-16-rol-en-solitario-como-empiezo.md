@@ -748,8 +748,9 @@ Y finalmente, hay una categoría adicional, los **juegos en solitario de *creaci
 de mundos*** pueden ser también interesantes, solo conozco uno de este estilo,
 pero me interesaría mucho poder conocer otros:
 
-* **[Beak, Feather & Bone](https://tyler-crumrine.itch.io/bfb)** que será
-  publicado en español por [The Hills
+* **[Beak, Feather &
+  Bone](https://www.drivethrurpg.com/product/311602/Beak-Feather--Bone?affiliate_id=1914894)**
+  que será publicado en español por [The Hills
   Press](https://twitter.com/TheHillsPress/status/1255243327865344000?s=20)
   bajo el nombre de **Pico, Pluma & Hueso** es un juego de creación de mundos
   en el que tomamos diferentes roles dentro de una comunidad y vamos

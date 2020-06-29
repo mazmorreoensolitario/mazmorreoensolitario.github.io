@@ -19,9 +19,14 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or
+        tag[0] == "Dead Halt" or
+        tag[0] == "Tunnel Goons" or
+        tag[0] == "Lancer" or
+        tag[0] == "Sleepaway" or
+        tag[0] == "The Ultraviolet Grasslands" or
         tag[0] == "Four Against Darkness" or
         tag[0] == "Dyson's Delve" or
-        tag[0] == "ENnie" or 
+        tag[0] == "Ennie" or 
         tag[0] == "Labyrinth Lord" or
         tag[0] == "Mothership" or 
         tag[0] == "Mothership: Dead Planet" or 
