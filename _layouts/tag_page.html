@@ -28,7 +28,7 @@ layout: default
             {% when '11' %}Nov,
             {% when '12' %}Dic,
             {% endcase %}
-            {{ post.date | date: "%Y"}}. <a href="{{ post.url }}">{{ post.title }}.</a>
+            {{ post.date | date: "%Y"}}. <a href="{{ post.url }}">{{ post.title }}</a>
           </li>
           {% endif %}
           {% endfor %}
