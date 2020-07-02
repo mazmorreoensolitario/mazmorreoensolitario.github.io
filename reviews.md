@@ -24,6 +24,20 @@ La escala es la siguiente:
 * 4 monedas - ¡este juego es genial! Voy a jugar otra vez ya mismo
 * 5 monedas - ES IDEAL
 
+## Índice alfabético
+
+<ul>
+{% assign sorted = (site.posts | sort: 'game') %}
+{% for post in sorted %}
+    {% if post.game %}
+        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+
+## Índice por puntuaciones
+
 ### 5 monedas
 **ES IDEAL.** Si no sabes a qué jugar, **debes** empezar por estos. **Son
 juegos ideales que te puedo recomendar sin ninguna duda.**
@@ -176,7 +190,7 @@ y darme cuenta antes de jugarlo que no es lo mio.
 {% endfor %}
 
 
-<hr>
+## Primeras impresiones
 
 Aquí tenéis una lista de **primeras impresiones** de juegos, que eventualmente
 tendrán un análisis del mismo:
@@ -208,35 +222,4 @@ tendrán un análisis del mismo:
 </ul>
 {% endif %}
 {% endfor %}
-
-Aquí tenéis una lista de los **análisis y reseñas** más recientes:
-
-{% for category in site.categories %}
-{% if category[0] == "Reseña" or category[0] == "Análisis" %}
-<ul>
-{% for post in category[1] %}
-<li>
-    {% assign m = post.date | date: "%-m" %}
-    {{ post.date | date: "%-d" }}
-    {% case m %}
-    {% when '1' %}Ene,
-    {% when '2' %}Feb,
-    {% when '3' %}Mar,
-    {% when '4' %}Abr,
-    {% when '5' %}May,
-    {% when '6' %}Jun,
-    {% when '7' %}Jul,
-    {% when '8' %}Ago,
-    {% when '9' %}Sep,
-    {% when '10' %}Oct,
-    {% when '11' %}Nov,
-    {% when '12' %}Dic,
-    {% endcase %}
-    {{ post.date | date: "%Y"}}. <a href="{{ post.url }}">{{ post.title }}.</a>
-</li>
-{% endfor %}
-</ul>
-{% endif %}
-{% endfor %}
-
 
