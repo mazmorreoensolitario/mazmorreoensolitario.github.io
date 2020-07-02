@@ -6,6 +6,7 @@ categories: [Análisis, Print & play]
 tags: [The Perfect Moment, Print & play]
 imghtml: https://cf.geekdo-images.com/imagepage/img/V2lWHxtx-xyNZ-NpbAoyKr7wIjY=/fit-in/900x600/filters:no_upscale()/pic4252992.png
 score: 2.5
+game: "The Perfect Moment"
 post_desc: "De forma abrupta, un portal se abre y una persona pasa a través de
 él. No cualquier persona, eres tú. Antes de que puedas decir nada tu otro yo
 dice - Calla y escucha. Esto es una máquina del tiempo. Sabes lo que tienes

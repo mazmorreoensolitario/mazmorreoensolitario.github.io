@@ -6,6 +6,7 @@ categories: [Análisis, Print & play]
 tags: [Micro City, Print & play]
 imghtml: https://cf.geekdo-images.com/imagepage/img/N6g0HWdISaYI2hmCYN5UX1BulhM=/fit-in/900x600/filters:no_upscale()/pic4192652.jpg
 score: 2
+game: "Micro City"
 post_desc: "En Micro City somos un pequeño ingeniero al que nos han encargado la
 construcción de ciertos edificios, con este fin tendremos que producir
 materiales, recoger impuestos e intercambiar recursos antes de que se nos acabe

@@ -6,6 +6,7 @@ categories: [Análisis, Print & play]
 tags: [Orchard, Print & play, 9 Card Game Print & Play Design Contest, Golden Geek]
 imghtml: https://cf.geekdo-images.com/imagepage/img/1PU92Oxucaldi3o20rCbCOHQI5k=/fit-in/900x600/filters:no_upscale()/pic3974515.jpg
 score: 2.5
+game: "Orchard"
 post_desc: "En Orchard: A 9 card solitaire game, somos propietarios de una
 serie de árboles frutales y queremos cosechar el mayor número de frutas posible"
 ---

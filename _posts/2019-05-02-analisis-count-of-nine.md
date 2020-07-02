@@ -6,6 +6,7 @@ categories: [Análisis, Print & play]
 tags: [Count of Nine, Print & play, 9 Card Game Print & Play Design Contest, Golden Geek, "Mars: Colony Nine"]
 imghtml: https://cf.geekdo-images.com/imagepage/img/OtnWgqB7NC7AGPkQcB4si1iuaaY=/fit-in/900x600/filters:no_upscale()/pic4037746.png
 score: 2.5
+game: "Count of Nine"
 post_desc: "En Count of Nine estamos a cargo del pequeño condado de nueve; con 
 recursos limitados tendremos que tomar sabias decisiones para construir en 
 nuestro territorio y así ganar recompensas."

@@ -7,6 +7,7 @@ tags: [Monstruo Final]
 img: monstruo-final.jpg
 imghtml: https://cf.geekdo-images.com/imagepage/img/ylpDfK5MT7UHpFWb5DqWr1meOnc=/fit-in/900x600/filters:no_upscale()/pic1732644.jpg
 score: 2
+game: "Monstruo Final"
 post_desc: "En Monstruo Final
  tomamos el papel de un monstruo que tiene que defender su
 mazmorra contra oleadas de héroes, ya que estos tratan de invadirla para

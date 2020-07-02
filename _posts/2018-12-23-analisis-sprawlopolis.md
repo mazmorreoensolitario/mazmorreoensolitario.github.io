@@ -6,6 +6,7 @@ categories: [Análisis, Print & play]
 tags: [Sprawlopolis, Expansiópolis, Print & play]
 imghtml: https://cf.geekdo-images.com/imagepage/img/zVdTWmP8omIsSaNHgz3pvMrKzDw=/fit-in/900x600/filters:no_upscale()/pic4654146.png
 score: 3
+game: "Expansiópolis"
 post_desc: "En este juego de cartas tomamos el papel de planificadores urbanos para
 desarrollar la ciudad definitiva: Sprawlopolis, pero nuestra tarea no será
 fácil, ya que recibiremos peticiones de lo más variopintas y tendremos que

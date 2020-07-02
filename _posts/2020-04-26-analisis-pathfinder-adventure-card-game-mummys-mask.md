@@ -6,6 +6,7 @@ categories: [Análisis]
 tags: [Pathfinder, "Pathfinder Adventure Card Game Mummy's Mask"]
 imghtml:  https://cf.geekdo-images.com/imagepage/img/mKqlGbRXfdh0LUn6tZKTXIVgmV0=/fit-in/900x600/filters:no_upscale()/pic3531593.jpg
 score: 3.5
+game: "Pathfinder Adventure Card Game: Mummy's Mask"
 post_desc: "Mummy's Mask es un juego de cartas con mecánicas de construcción de
 mazos ambientado en el universo de rol de Pathfinder"
 ---

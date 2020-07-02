@@ -6,6 +6,7 @@ categories: [Análisis]
 tags: [Desolate, "Desolate: Dark Matters", Print & play]
 imghtml: https://cf.geekdo-images.com/imagepage/img/uDcC2QpZxFSlcFEp97qkDW6MoQU=/fit-in/900x600/filters:no_upscale()/pic4140880.jpg
 score: 4
+game: "Desolate"
 post_desc: "No ha habido comunicaciones con la Estación 4 en la distante luna, 
 X483. Tú eras parte de una misión de rescate para investigar el silencio. Al 
 llegar, tu nave espacial pierde el control y se estrella a unos metros de la 

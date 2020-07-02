@@ -6,6 +6,7 @@ categories: [Análisis, Print & play]
 tags: [12 Patrols, Print & play, 9 Card Game Print & Play Design Contest, Golden Geek]
 imghtml: https://cf.geekdo-images.com/imagepage/img/-O8xiMbqhFHDklqGLwK46tDWs-A=/fit-in/900x600/filters:no_upscale()/pic4559694.png
 score: 2.5
+game: "12 Patrols"
 post_desc: "12 Patrols es un juego abstracto de estrategia en el que tendremos 
 que proteger las regiones de nuestro reino distribuyendo las patrullas de 
 nuestros caballeros y lacayos estratégicamente." 

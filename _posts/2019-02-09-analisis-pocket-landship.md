@@ -6,6 +6,7 @@ categories: [Análisis, Print & play]
 tags: [Pocket Landship, Print & play, 9 Card Game Print & Play Design Contest, Golden Geek]
 imghtml: https://cf.geekdo-images.com/imagepage/img/FylFOD6u50PWazHgSDLT9bFRTDY=/fit-in/900x600/filters:no_upscale()/pic4411882.png
 score: 2
+game: "Pocket Landship"
 post_desc: "Pocket Landship nos traslada a la Primera Guerra Mundial como comandantes de un tanque
 británico con la misión de despejar un sector de la infantería, artillería y
 tanques enemigos."

@@ -6,7 +6,8 @@ categories: [Análisis, Print & play]
 tags: [Rocketships to Eos, Print & play]
 imghtml: https://cf.geekdo-images.com/imagepage/img/F5PlokByFyWd6a5E_CbI5fikJmo=/fit-in/900x600/filters:no_upscale()/pic2445794.png
 score: 1.5
-post_desc: "En Rocketship to Eos capitaneamos una nave espacial y nuestro 
+game: "Rocketships to Eos"
+post_desc: "En Rocketships to Eos capitaneamos una nave espacial y nuestro 
 objetivo es conducir la nave a través de las diferentes dificultades que nos
 ponga el espacio hasta el sistema Eos"
 ---

@@ -6,6 +6,7 @@ categories: [Análisis]
 tags: [Legends Untold, "Legends Untold: The Weeping Caves"]
 imghtml: https://cf.geekdo-images.com/imagepage/img/7J3gXs-3MtFFBI3-x9vk9sOMxNw=/fit-in/900x600/filters:no_upscale()/pic4175300.jpg
 score: 4
+game: "Legends Untold: The Weeping Caves"
 post_desc: "Tu pueblo, los Sax, han sido echados de sus tierras por la invasión 
 de los Recién Llegados. Forzados a retirarse por estos fuertemente armados 
 elfos y su poderosa magia, has conseguido salvar a los que has podido y los has 

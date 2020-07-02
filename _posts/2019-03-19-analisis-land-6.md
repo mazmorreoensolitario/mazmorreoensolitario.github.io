@@ -6,6 +6,7 @@ categories: [Análisis, Print & play]
 tags: [Land 6, Print & play, Solitaire Print & Play Design Contest]
 imghtml: https://cf.geekdo-images.com/imagepage/img/GboUm5TjVvV0zeB-WrybWwEHJs8=/fit-in/900x600/filters:no_upscale()/pic2653991.jpg
 score: 3.5
+game: "Land 6"
 post_desc: "Land 6 es un juego de estrategia que nos sitúa en la guerra eterna 
 entre el Señor de los Dados y el Señor de Los Cubos. Nosotros tomaremos el rol 
 del Señor de los Dados y con nuestro ejército trataremos de conquistar la 

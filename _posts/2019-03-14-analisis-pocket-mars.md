@@ -5,6 +5,7 @@ date:   2019-03-14
 categories: [Análisis]
 tags: [Pocket Mars]
 score: 4
+game: "Pocket Mars"
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/analisis/pocket-mars.png
 post_desc: "El futuro en la Tierra es incierto. Nos han encargado preparar una
 infraestructura viable para la vida en Marte que ayude a que mas colonos puedan 

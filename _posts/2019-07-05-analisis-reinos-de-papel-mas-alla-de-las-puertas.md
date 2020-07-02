@@ -6,6 +6,7 @@ categories: [Análisis]
 tags: [Reinos de Papel, "Reinos de Papel: Más allá de las puertas", Paper Tales, Expansión]
 imghtml: https://cf.geekdo-images.com/imagepage/img/vwjFdNh9aOYYbPXkezZSaJoZKu0=/fit-in/900x600/filters:no_upscale()/pic4261957.jpg
 score: 3.5
+game: "Reinos de Papel: Más allá de las puertas"
 post_desc: "En Reinos de Papel: Más allá de las puertas nos enfrentamos al 
 poderoso Rey Exánime y su ejército, que han sido atraídos por las prácticas de 
 magia oculta de los Reinos Humanos."

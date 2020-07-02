@@ -6,6 +6,7 @@ categories: [Análisis, Print & play]
 tags: [Tussie Mussie, Print & play, Golden Geek]
 imghtml: https://cf.geekdo-images.com/imagepage/img/Ap9t-N6nzY1pbU0OOlXZnhZrQzo=/fit-in/900x600/filters:no_upscale()/pic4751990.png
 score: 2
+game: "Tussie Mussie"
 post_desc: "La pequeña floristería del barrio que tenemos es nuestro
 orgullo. El negocio está yendo tan bien que es hora de contratar
 ayuda. Mientras estamos entrenando a nuestro nuevo empleado vamos a ayudar a

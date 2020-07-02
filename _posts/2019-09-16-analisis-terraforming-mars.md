@@ -6,6 +6,7 @@ categories: [Análisis]
 tags: [Terraforming Mars, Golden Geek]
 imghtml: https://cf.geekdo-images.com/imagepage/img/e1HQZXKPpYmjGibD1jl-2o2U1N8=/fit-in/900x600/filters:no_upscale()/pic3791227.png
 score: 4.5
+game: "Terraforming Mars"
 post_desc: "La Tierra está superpoblada y los recursos cada vez son más 
 escasos. La humanidad ha empezado a expandirse por el Sistema Solar para poder 
 crear un futuro mejor. En Marte se han empezado a construir unas pequeñas 

@@ -6,6 +6,7 @@ categories: [Análisis, Print & play]
 tags: [Gladiator Gauntlet, Print & play, 9 Card Game Print & Play Design Contest]
 img: gladiator-gauntlet.png
 score: 3.5
+game: "Gladiator Gauntlet"
 post_desc: "Tu brazo está cansado de balancear tu espada tanto tiempo. El sudor te pica en
 los ojos, difuminando la sangre de la arena. El rugido de la multitud - y la
 promesa de victoria - son todo lo que te hace seguir adelante. Gladiador,
