@@ -817,7 +817,7 @@ varias categorías solo lo comentaré en la primera.
         Year Zero Engine conocido por otros juegos como Tales from the Loop y
         Mutant: Year Zero.</p>
         <p>Edición física en <a
-    href="https://frialigan.se/en/store/?product_id=3687283228720">Fee Leage</a></p>
+    href="https://frialigan.se/en/store/?product_id=3687283228720">Fee League</a.></p>
     </div>
 </div>
 <br>
@@ -855,7 +855,7 @@ varias categorías solo lo comentaré en la primera.
         <h4><a href="https://www.drivethrurpg.com/product/195672/Royal-Blood?affiliate_id=1914894">Royal Blood RPG</a></h4>
         <p>En <strong>Royal Blood RPG</strong> eres de la realeza, mitad mágia,
         mitad humano. Eres una de las cartas del mazo de tarot, la impulsiva
-        Princesa de las Baritas, el calculador Rey de los Pentagramas. En Royal
+        Princesa de las Varitas, el calculador Rey de los Pentagramas. En Royal
         Blood juegas el escenario de un robo y su posterior huída con monedas y
         un mazo de cartas de tarot.</p>
         <p>Físico en <a
@@ -1027,7 +1027,7 @@ varias categorías solo lo comentaré en la primera.
         <p><strong>Worm Witch</strong> es una aventura para <a
         href="https://www.drivethrurpg.com/product/279183/OldSchool-Essentials-Classic-Fantasy-Rules-Tome?affiliate_id=1914894">Old-School
         Essentials</a> ambientada en la isla de Annalida, con 20 localizaciones
-        únicas, nuevas clases, una nueva forma de mágia <i>Mágia de gusanos</i>,
+        únicas, nuevas clases, una nueva forma de magia (<i>Magia de gusanos</i>),
         con 42 hechizos y diversos horripilantes monstruos.</p>
         <p>Edición física en <a
     href="https://knightowlpublishing.com/product/worm-witch-the-life-and-death-of-belinda-blood-hardback/">Knight
@@ -1419,7 +1419,7 @@ varias categorías solo lo comentaré en la primera.
         es una ambientación muy interesante y he visto algunas sesiones del
         autor hablando del diseño del juego en <a
         href="https://www.youtube.com/channel/UCQO6EwDBUxOYRR6jcAtv_0A/videos">su
-        canal</a>, muy interesante, una pena que no e pueda tener todo en esta
+        canal</a>, muy interesante, una pena que no se pueda tener todo en esta
         vida</p> 
         <p>Edición física en <a href="http://www.bastionland.com/">Bastionland
         Press</a>.</p>
