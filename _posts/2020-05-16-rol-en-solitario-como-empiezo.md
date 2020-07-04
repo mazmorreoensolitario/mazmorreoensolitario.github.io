@@ -682,7 +682,9 @@ que creo que les vaya a dar una oportunidad en el futuro:
 ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200516-rol-como-empezar/atyov.png)
 <p align="center"><small>Portada de A Thousand Year Old Vampire</small></p>
 
-* **[A Thousand Year Old Vampire](https://timhutchings.itch.io/tyov)** es un
+* **[A Thousand Year Old Vampire](https://timhutchings.itch.io/tyov)**
+  ([aquí](https://www.drivethrurpg.com/product/306279/Thousand-Year-Old-Vampire?affiliate_id=1914894) 
+  en físico) es un
   juego en el que escribimos las memorias de un vampiro a lo largo de sus
   siglos y siglos de vida. Este vampiro está perdiendo las memorias de su vida,
   por lo que tiene que hacer uso de diarios para tomar nota de sus recuerdos.
