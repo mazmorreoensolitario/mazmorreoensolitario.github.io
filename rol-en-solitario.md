@@ -15,12 +15,14 @@ lúdico, por lo que también va a tener un espacio dedicado en el blog.
 
 ### Análisis de juegos de rol
 
-* 25 Abr, 2019. [Mothership: Player's survival
+* 25 Abril, 2019. [Mothership: Player's survival
   guide.]({{site.baseurl}}/2019/04/25/rol-mothership/)
 
 
 ### Noticias
 
+* 4 Julio, 2020. [Premios ENnie
+  2020]({{site.baseurl}}/2020/07/04/rol-ennie-awards-2020/).
 * 21 Febrero, 2020. [Zine Quest 2: las zines de RPGs
   solo-friendly]({{site.baseurl}}/2020/02/21/rol-zinequest-2/).
 * 3 Agosto, 2019. [Premios ENnie
