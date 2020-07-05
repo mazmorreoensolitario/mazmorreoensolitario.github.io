@@ -853,7 +853,7 @@ varias categorías solo lo comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/195672/Royal-Blood?affiliate_id=1914894">Royal Blood RPG</a></h4>
-        <p>En <strong>Royal Blood RPG</strong> eres de la realeza, mitad mágia,
+        <p>En <strong>Royal Blood RPG</strong> eres de la realeza, mitad magia,
         mitad humano. Eres una de las cartas del mazo de tarot, la impulsiva
         Princesa de las Varitas, el calculador Rey de los Pentagramas. En Royal
         Blood juegas el escenario de un robo y su posterior huída con monedas y
@@ -1155,7 +1155,7 @@ varias categorías solo lo comentaré en la primera.
             un juego de rol que consiguió financiación en Zine Quest de 2019 y
         que viene por tanto, en formato zine. El juego consta de cuatro zines
         que cuentan cómo jugar al juego, cómo crear a los personajes, qué es la
-        mágia y cómo crear aventuras.</p>
+        magia y cómo crear aventuras.</p>
     </div>
 </div>
 <br>
