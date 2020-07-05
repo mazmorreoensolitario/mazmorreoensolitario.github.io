@@ -817,7 +817,7 @@ varias categorías solo lo comentaré en la primera.
         Year Zero Engine conocido por otros juegos como Tales from the Loop y
         Mutant: Year Zero.</p>
         <p>Edición física en <a
-    href="https://frialigan.se/en/store/?product_id=3687283228720">Fee League</a.></p>
+        href="https://frialigan.se/en/store/?product_id=3687283228720">Fee League</a>.</p>
     </div>
 </div>
 <br>
