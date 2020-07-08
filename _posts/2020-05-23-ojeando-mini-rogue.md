@@ -27,11 +27,12 @@ misterioso artefacto que se rumorea ser un rubí extraordinario."
         <div class="col-md-6">
         <table class="table table-striped table-hover">
 	    <tr><td class="text-left"><strong>Inicio de la campaña:</strong></td><td class="text-left">9 de junio de 2020</td></tr>
-            <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">?</td></tr>
-            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left">?</td></tr>
+            <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">Mayo 2021</td></tr>
+            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left">22€</td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-2</td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">10-50min</td></tr>
-            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td
+            class="text-left">Inglés / Español (manual)</td></tr>
             <tr><td class="text-left"><strong>Dependencia del idioma:</strong></td><td class="text-left">Baja, solo manual</td></tr>
          </table>
         </div>

@@ -3,7 +3,7 @@ layout: post
 title: "Lo recomendado del Paquete de juegos por la justicia racial y la igualdad"
 date: 2020-06-13
 categories: [Rol]
-tags: [Rol, Zine Quest, Zine Quest 2, Tunnel Goons, Lancer, Sleepaway, Mausritter, The Wretched, Troika, Ironsworn, "Ironsworn: Delve", Blades in the Dark]
+tags: [Rol, Zine Quest, Zine Quest 2, Ennie, Tunnel Goons, Lancer, Sleepaway, Mausritter, The Wretched, Troika, Ironsworn, "Ironsworn: Delve", Blades in the Dark]
 imghtml: https://img.itch.zone/aW1nLzM2MTA3NDkucG5n/original/PocJeR.png
 post_desc: "Los juegos de rol más destacables dentro del paquete de juegos por 
 la justicia racial y la igualdad"
