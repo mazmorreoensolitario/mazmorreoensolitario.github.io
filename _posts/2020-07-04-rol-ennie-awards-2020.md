@@ -10,6 +10,9 @@ post_desc: "Los ENnie son unos galardones otorgados a los juegos de rol
  publicado el año anterior y tras deliberar"
 ---
 
+<small><strong>Actualizado 10/07</strong>. Se añade más información sobre
+editoriales españolas.</small>
+
 ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200704-ennies/ennies-background.png)
 
 Los **[Premios ENnie](http://www.ennie-awards.com/blog/)** son unos galardones
@@ -59,7 +62,7 @@ varias categorías solo lo comentaré en la primera.
          href="https://www.drivethrurpg.com/product/261155/Dream-Askew---Dream-Apart?affiliate_id=1914894">Dream 
          Askew/Dream Apart</a> (juego que <a
          href="https://twitter.com/TheHillsPress/status/1255244646420303876">se
-         publicará en español</a> por The Hills Press).</p>
+         publicará en español</a> por <strong>The Hills Press</strong>).</p>
          <p>Este juego formó parte del <a
          href="{{site.baseurl}}/2020/06/13/rol-bundle-for-racial-justice-and-equality/">Bundle
          for Racial Justice and Equality</a>.</p>
@@ -327,6 +330,12 @@ varias categorías solo lo comentaré en la primera.
         <p>Edición física en <a
         href="https://www.exaltedfuneral.com/collections/enies-nominated/products/the-ultraviolet-grasslands">Exalted
         Funeral</a> (ahora agotada).</p>
+        <p>No sé si es un anuncio que se ha hecho público aún, pero en su
+        Patreon del autor de UVG <a
+        href="https://www.patreon.com/posts/looks-back-looks-37645090">ha
+        comentado</a> que <strong>ha firmado un 
+        contrato para que UVG se traduzca al español con Cursed Ink
+        games</strong>.</p>
         <p>Nominado también a: <i>Mejor arte, interior</i>.</p>
     </div>
 </div>
@@ -413,6 +422,13 @@ varias categorías solo lo comentaré en la primera.
         describen de la Unidad. No pasa nada si se nos mueren los personajes
         porque lo importante es la historia de la Unidad, esto puede ser muy
         interesante desde el punto de vista del rol en solitario.</p>
+        <p>Este juego <strong>será publicado en español por <a
+        href="https://www.cursedink.es/2020/06/23/verkami-de-never-going-home/">Cursed
+        Ink</a></strong>. La
+        campaña de Verkami comenzará pronto, el <strong>15 de julio</strong>,
+        por lo que podéis ser notificados de cuando empiece la campaña desde <a
+        href="https://www.verkami.com/projects/27126-never-going-home">esta
+        página</a>.</p> 
     </div>
 </div>
 <br>
@@ -430,6 +446,9 @@ varias categorías solo lo comentaré en la primera.
         esta ambientación puedes conseguir más detalles sobre lo mejor y lo peor
         que puede ofrecer la ciudad de Spire. Se añaden además nuevas clases y
         mejoras para cada una y diez escenarios.</p>
+        <p>El libro core <strong>Spire será publicado en español por <a
+        href="https://www.cursedink.es/en-desarrollo/">Cursed
+        Ink</a></strong>.</p>
     </div>
 </div>
 <br>
@@ -649,8 +668,9 @@ varias categorías solo lo comentaré en la primera.
         contiene semillas de aventuras y guías para crearlas para <a
         href="https://www.drivethrurpg.com/product/231938/Kids-on-Bikes-Core-Rulebook?affiliate_id=1914894">Kids
         on Bikes</a>. Contiene 17 nuevos pueblos que explorar.</p>
-        <p><a href="https://www.thehillspress.es/">The Hills Press</a> hizo una
-        <a href="https://www.verkami.com/projects/25285-kids-on-bikes">campaña
+        <p><strong><a href="https://www.thehillspress.es/">The Hills
+        Press</a></strong> hizo una <a
+        href="https://www.verkami.com/projects/25285-kids-on-bikes">campaña 
         de Verkami</a> en enero de este mismo año para traer Kids on Bikes en
         español a españa.</p>
     </div>
@@ -1351,9 +1371,9 @@ varias categorías solo lo comentaré en la primera.
         <p>Ya lo comenté en su día, pero Ironsworn y todos sus suplementos son
         un regalo caído del cielo para los jugadores de rol en solitario y me
         alegro muchísimo de que esta expansión esté nominada a los ENnies.</p>
-        <p><a href="https://www.thehillspress.es/en-desarrollo/">The Hills
-        Press</a> publicará Ironsworn en castellano (y esta expansión también
-        si el juego base tiene éxito).</p> 
+        <p><strong><a href="https://www.thehillspress.es/en-desarrollo/">The Hills
+        Press</a> publicará Ironsworn en castellano</strong> (y esta expansión
+        también si el juego base tiene éxito).</p> 
         <p>Este juego formó parte del <a
         href="{{site.baseurl}}/2020/06/13/rol-bundle-for-racial-justice-and-equality/">Bundle
          for Racial Justice and Equality</a>.</p>
