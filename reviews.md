@@ -200,26 +200,28 @@ tendrán un análisis del mismo:
 <ul>
 {% for post in category[1] %}
 <li>
-    {% assign m = post.date | date: "%-m" %}
-    {{ post.date | date: "%-d" }}
-    {% case m %}
-    {% when '1' %}Ene,
-    {% when '2' %}Feb,
-    {% when '3' %}Mar,
-    {% when '4' %}Abr,
-    {% when '5' %}May,
-    {% when '6' %}Jun,
-    {% when '7' %}Jul,
-    {% when '8' %}Ago,
-    {% when '9' %}Sep,
-    {% when '10' %}Oct,
-    {% when '11' %}Nov,
-    {% when '12' %}Dic,
-    {% endcase %}
-    {{ post.date | date: "%Y"}}. <a href="{{ post.url }}">{{ post.title }}.</a>
+    <a href="{{ post.url }}">{{ post.title }}.</a>
 </li>
 {% endfor %}
 </ul>
 {% endif %}
 {% endfor %}
 
+## Demos
+
+Estas son mis impresiones sobre **demos de juegos**, en muchos casos de
+**versiones todavía sin terminar** de juegos que saldrán en el futuro, por lo
+que no puedo hacer un análisis o primeras impresiones per se, ya que el juego
+aún no está entero o porque no lo he jugado lo suficiente:
+
+{% for category in site.categories %}
+{% if category[0] == "Ojeando" %}
+<ul>
+{% for post in category[1] %}
+<li>
+    <a href="{{ post.url }}">{{ post.title }}.</a>
+</li>
+{% endfor %}
+</ul>
+{% endif %}
+{% endfor %}

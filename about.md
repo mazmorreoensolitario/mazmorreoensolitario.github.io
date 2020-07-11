@@ -1,26 +1,31 @@
 ---
 layout: page
-title: Sobre esta página
+title: Acerca de y Contacto
 permalink: /acerca-de/
 ---
 
+Si quieres ponerte en contacto manda un email a:
+
+![imagen de email](/images/email.png)
+
+O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
+ redes sociales:
+
+ * Twitter: **[@mazmorreo](https://twitter.com/mazmorreo)**
+ * Instagram: **[@mazmorreo](https://www.instagram.com/mazmorreo/?hl=es)**
+
+# Sobre el blog
+
 **Mazmorreo en solitario** es un blog sobre toda clase de información
-relacionada con el hobby de los juegos de mesa de un jugador.
+relacionada con el hobby de los **juegos de mesa y rol  de un jugador**.
 
-Espera encontrar **análisis de juegos** a los que
-[hemos podido jugar]({{site.baseurl}}/analisis/), **pequeñas
-reseñas** sobre algún tema en concreto, a qué juegos estamos **echando el ojo**
-últimamente y [nos planteamos jugar]({{site.baseurl}}/ojeando), un pequeño 
-rincón dedicado a los juegos [print &
-play]({{site.baseurl}}/rincon-print-and-play), **noticias sobre los últimos
-juegos** en ferias, [Kickstarter]({{site.baseurl}}/etiqueta/kickstarter/),
+Espera encontrar **[análisis de juegos]({{site.baseurl}}/analisis/)**, un
+pequeño rincón dedicado a los juegos **[print &
+play]({{site.baseurl}}/rincon-print-and-play)**, **noticias sobre los últimos
+juegos** en ferias, [Kickstarter]({{site.baseurl}}/etiqueta/kickstarter/), 
 Indiegogo, [Verkami]({{site.baseurl}}/etiqueta/verkami) u otras plataformas de
-crowdfunding, pequeñas **traducciones** de reglas juegos y cualquier otra
-información aleatoria sobre juegos en solitario que nos parezca relevante :) 
-
-
-La información de contacto se encuentra en
-[Contacto]({{site.baseurl}}/contacto/). 
+crowdfunding, y lo último sobre el **[rol en
+solitario](http://localhost:4000/rol-en-solitario/)**.
 
 
 **Entidades colaboradoras**
@@ -66,7 +71,6 @@ del tema [cards](https://github.com/sharu725/cards).
 
 # Sobre mí
 
-* Libros que estoy leyendo ahora: *Tiamat's Wrath* de James S. A. Corey.
-* Siguientes libros en mi lista para leer: *A Memory Called Empire* de Arkady
-  Martine y *Gideon the Ninth* de Tamsyn Muir.
-* Series que estoy viendo: Snowpiercer.
+* Libros que estoy leyendo ahora: *Raven Stratagem* de Yoon Ha Lee.
+* Siguientes libros en mi lista para leer: *Gideon the Ninth* de Tamsyn Muir.
+* Series que estoy viendo: ~~Snowpiercer.~~
