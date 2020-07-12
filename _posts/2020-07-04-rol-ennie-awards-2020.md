@@ -34,10 +34,10 @@ Con**, este año, por la pandemia, los premios se otorgarán de forma virtual.
 A mí los Ennies me parecen una forma muy interesante de saber qué está pasando
 con el panorama de los juegos de rol y así poder descubrir juegos.
 
-Antes de que se anuncien los ganadores (las votaciones están abiertas hasta
-agosto), vamos a dar un repaso a los **juegos nominados en cada una de las
-categorías** y haré algunos comentarios, cuando un juego esté nominado en
-varias categorías solo lo comentaré en la primera.
+Antes de que se anuncien los ganadores (finales de julio), vamos a dar un
+repaso a los **juegos nominados en cada una de las categorías** y haré algunos
+comentarios, cuando un juego esté nominado en varias categorías solo lo
+comentaré en la primera.
 
 ### Premiados de la elección particular del jurado
 
