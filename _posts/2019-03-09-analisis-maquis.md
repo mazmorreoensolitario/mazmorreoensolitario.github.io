@@ -451,6 +451,7 @@ Finalmente, es un juego que merece la pena imprimir en color.
 
 ### Opinión
 
+**Apartado gráfico.**
 Visualmente, Maquis es un juego precioso, y me alegra muchísimo que para
 la edición del Kickstarter hayan decidido utilizar las ilustraciones de Ilya
 Baranovsky.
@@ -464,6 +465,7 @@ históricamente, ellas tuvieron un rol importante en la Resistencia Francesa.
 Los edificios que forman parte del mapa no se repiten y en general el arte
 ayuda a conseguir que tu atención se mantenga durante toda la partida.
 
+**El juego**.
 Hablando de cómo se vive jugar contra el juego, a diferencia de muchos otros,
 en la que la presión es constante, o que aparece hacia el final de la partida,
 en Maquis han sabido hacer de esa presión un elemento más sutil que despunta a
