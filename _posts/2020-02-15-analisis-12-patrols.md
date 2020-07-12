@@ -251,7 +251,7 @@ en Maquis, pero esta vez utiliza composiciones más complicadas, lo que hace que
 las cartas sean muy bonitas y den profundidad al juego. Sin embargo, esta es
 toda la 'profundidad' en cuanto al tema que vais a ver, nos encontramos contra
 un juego abstracto puro y el tema es lo de menos.
-v
+
 **El juego.** El juego esconde un puzle dentro de otro puzle y es muy
 interesante que esto se haya conseguido con nueve cartas. Por un lado, hay que
 cumplir con los requisitos de cada reino para colocar nuestras fichas (dados y
