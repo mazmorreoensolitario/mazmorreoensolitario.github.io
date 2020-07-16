@@ -54,9 +54,6 @@ Muchas gracias, los beneficios irán a que me compre estos libros (y que en un
 futuro os hable de ellos) :) 
 
 * [Downcrawl](https://www.drivethrurpg.com/product/278571/Downcrawl?affiliate_id=1914894)
-* [Solar Blades & Cosmic Spells](https://www.drivethrurpg.com/product/260378/Solar-Blades--Cosmic-Spells?affiliate_id=1914894)
-* [Umerican Survival
-  Guide](https://www.drivethrurpg.com/product/223269/Umerican-Survival-Guide-Chase-cover-DCC?affiliate_id=1914894)
 * [Castle
   Gargantua](https://www.drivethrurpg.com/product/149190/Castle-Gargantu?affiliate_id=1914894)
 * [Slumbering Ursine
