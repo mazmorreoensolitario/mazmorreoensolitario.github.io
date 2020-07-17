@@ -3,12 +3,15 @@ layout: post
 title: "Premios ENnie 2020"
 date: 2020-07-04
 categories: [Rol]
-tags: [Rol, Ennie, GenCon, Sleepaway, Dead Halt, Ironsworn, "Ironsworn: Delve",Zine Quest, A Thousand Year Old Vampire, Tunnel Goons, The Ultraviolet Grasslands, Trilemma Adventures, Mothership, "Mothership: A Pound of Flesh"]
+tags: [Rol, Ennie, GenCon, A Cool and Lonely Courage, Sleepaway, Dead Halt, Ironsworn, "Ironsworn: Delve",Zine Quest, A Thousand Year Old Vampire, Tunnel Goons, The Ultraviolet Grasslands, Trilemma Adventures, Mothership, "Mothership: A Pound of Flesh"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200704-ennies/ennies-background-2.png
 post_desc: "Los ENnie son unos galardones otorgados a los juegos de rol 
  más destacados del año. Las editoriales nominan los juegos que hayan 
  publicado el año anterior y tras deliberar"
 ---
+
+<small><strong>Actualizado 17/07</strong>. Se actualiza A Cool and Lonely
+Courage: modo en solitario.</small>
 
 <small><strong>Actualizado 10/07</strong>. Se añade más información sobre
 editoriales españolas.</small>
@@ -808,7 +811,7 @@ comentaré en la primera.
             class="img-thumbnail" alt="A Cool and Lonely Courage">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.indiepressrevolution.com/xcart/A-Cool-and-Lonely-Courage-Print-PDF.html">A Cool and Lonely Courage</a></h4>
+        <h4><a href="https://www.drivethrurpg.com/product/283986/A-Cool-and-Lonely-Courage?affiliate_id=1914894">A Cool and Lonely Courage</a></h4>
         <p><strong>A Cool and Lonely Courage</strong> es un juego sin GM
         ambientado en la Segunda Guerra Mundial. Francia ha caído a la Alemania
         Nazi y Churchill necesita parar la máquina de guerra de Hitler. El
@@ -817,9 +820,22 @@ comentaré en la primera.
         juego siendo capturada por los Nazis y juegas cartas para guiar tu
         historia y ver cómo esta se desarrolla en flashbacks de amor, victoria,
         desgracia y muerte de las personas con las que has luchado.</p>
-        <p>Este juego puede ser interesante para el juego en solitario
-        dependiendo de cómo hayan implementado el motor de cartas. Indie Press
-        Revolution suele traer RPGS muy diferentes.</p>
+        <p>(Actualizado) Cuenta con un <strong>modo en solitario</strong>,
+        llamado <strong><i>Versión Diario</i></strong>. En este modo de juego
+        cada vez que robas una carta tendrás que escribir los recuerdos del
+        personaje en un diario. El juego cuenta con un apéndice con sugerencias
+        de escenas y actitudes que nos ayudan a crear esta historia.</p>
+        <p>Aquí <a href="https://www.youtube.com/watch?v=q4GYFFb-9qA">tenéis un
+        vídeo</a> donde podéis ver la estructura del libro, es una youtuber
+        comentándolo según pása las páginas.</p>
+        <p>También podéis conseguirlo en <a
+        href="https://www.indiepressrevolution.com/xcart/A-Cool-and-Lonely-Courage-Print-PDF.html">Indie
+        Press Revolution</a>, pero envía desde Estados Unidos.</p>
+        <p><strike>Este juego puede ser interesante para el juego en solitario
+        dependiendo de cómo hayan implementado el motor de
+        cartas</strike>. Visto que tiene un modo en solitario, lo añado a mi
+        lista de futuras adquisiciones. Indie Press Revolution suele traer RPGS
+        muy diferentes.</p>
     </div>
 </div>
 <br>
