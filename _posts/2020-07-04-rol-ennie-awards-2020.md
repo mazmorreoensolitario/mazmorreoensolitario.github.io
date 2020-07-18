@@ -3,7 +3,7 @@ layout: post
 title: "Premios ENnie 2020"
 date: 2020-07-04
 categories: [Rol]
-tags: [Rol, Ennie, GenCon, A Cool and Lonely Courage, Sleepaway, Dead Halt, Ironsworn, "Ironsworn: Delve",Zine Quest, A Thousand Year Old Vampire, Tunnel Goons, The Ultraviolet Grasslands, Trilemma Adventures, Mothership, "Mothership: A Pound of Flesh"]
+tags: [Rol, Ennie, OSR, GenCon, A Cool and Lonely Courage, Sleepaway, Dead Halt, Ironsworn, "Ironsworn: Delve",Zine Quest, A Thousand Year Old Vampire, Tunnel Goons, The Ultraviolet Grasslands, Trilemma Adventures, Mothership, "Mothership: A Pound of Flesh"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200704-ennies/ennies-background-2.png
 post_desc: "Los ENnie son unos galardones otorgados a los juegos de rol 
  más destacados del año. Las editoriales nominan los juegos que hayan 
