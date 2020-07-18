@@ -272,7 +272,7 @@ para averiguar en qué losetas se tira un d6, las losetas con ese número
 colapsan</small></p>
 
 Otro obstáculo molesto son las losetas de lava, en un principio, tampoco nos
-hacen daño, pero si en el dado de peligro tenemos un resultado de ""**lava**"
+hacen daño, pero si en el dado de peligro tenemos un resultado de "**lava**"
 los exploradores que estén sobre estás losetas de lava perderán vida.
 
 <p align="center">
