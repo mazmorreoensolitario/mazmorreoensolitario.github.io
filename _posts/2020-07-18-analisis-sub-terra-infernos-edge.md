@@ -430,7 +430,7 @@ bien, me gusta cómo funcionan y son variadas, pero los guardianes son
 simplemente aburridos y creo que han dejado pasar una gran oportunidad para
 darnos algo más de contenido en el juego. Cuando lees la premisa del juego
 *"recuperar un artefacto de un templo dentro de un volcán"* tu imaginación
-vuela, ¿quienes han construido un templo de un volcán? ¿qué hace el artefacto?,
+vuela, ¿quiénes han construido un templo de un volcán? ¿qué hace el artefacto?,
 pero luego no tenemos más información sobre el tema, y a mí me deja con ganas
 de saber más. También aunque no es un juego orientado hacia el combate, me
 hubiese gustado que este tuviera algo más de vidilla. Puede que estas cosas
