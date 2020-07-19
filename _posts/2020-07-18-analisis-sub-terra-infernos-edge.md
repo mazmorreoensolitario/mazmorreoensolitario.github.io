@@ -362,9 +362,9 @@ lava**.
 
 <p align="center">
 <a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/50127010181/in/dateposted-public/"
+href="https://www.flickr.com/photos/165706612@N02/50129426887/in/dateposted-public/"
 title="00-outro"><img
-src="https://live.staticflickr.com/65535/50127010181_5b032b7582_c.jpg"
+src="https://live.staticflickr.com/65535/50129426887_2234d8fb8f_c.jpg"
 width="800" height="389" alt="00-outro"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
