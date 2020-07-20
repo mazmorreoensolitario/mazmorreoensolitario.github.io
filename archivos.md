@@ -89,7 +89,8 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
         {% if tag[0] == "9 Card Game Print & Play Design Contest" or
             tag[0] == "Golden Geek" or
             tag[0] == "Solitaire Print & Play Design Contest" or
-            tag[0] == "Wargame Print & Play Design Contest" %}
+            tag[0] == "Wargame Print & Play Design Contest" or
+            tag[0] == "Spiel des Jahres" %}
             <span class="label label-success">#<a class="tag-color"
             href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
         {% else %}

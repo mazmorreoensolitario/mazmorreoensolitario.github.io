@@ -3,7 +3,7 @@ layout: post
 title: "Guía de juegos en solitario: Nominaciones de los Premios Golden Geek de 2019"
 date: 2020-04-30
 categories: [Noticias]
-tags: [Golden Geek, GMT Games, Oniverso, Barrage, "Undaunted: Normandy", "The Crew: The Quest for Planet Nine", The Isle of Cats, La Isla de los Gatos, "It's a Wonderful World", Maracaibo, "Marvel Champions: The Card Game", Paladins of the West Kingdom, Paladines del Reino del Oeste, Res Arcana, "Tainted Grail: The Fall of Avalon", "Tainted Grail: La caída de Ávalon", Tapestry, Tiny Towns, Wingspan, Aerion, "Cartographers: A Roll Player Tale", Cloudspire, "The Lord of the Rings: Journeys in Middle-earth", Lux Aeterna, Pax Pamir, Twice As Clever, 12 Patrols, 13 Sheep, Roll Estate, TINYforming Mars, "Under Falling Skies", "Aeon's End: Legacy", "Imperial Settlers: Empires of the North", Colonos del Imperio, "Colonos del Imperio: Imperios del Norte", Tussie Mussie, Villagers, Atlantis Rising, "Cthulhu: Death May Die", Horrified, "El Señor de los Anillos: Viajes por la Tierra Media", "UBOOT: The Board Game", "Blitzkrieg!", "Gandhi: The Decolonization of British India", "Nevsky: Teutons and Rus in Collision", Peloponnesian War, Stalingrad 42, "Tank Duel: Enemy in the Crosshairs"]
+tags: [Golden Geek, "La Tripulación: En busca del noveno planeta", GMT Games, Oniverso, Barrage, "Undaunted: Normandy", "The Crew: The Quest for Planet Nine", The Isle of Cats, La Isla de los Gatos, "It's a Wonderful World", Maracaibo, "Marvel Champions: The Card Game", Paladins of the West Kingdom, Paladines del Reino del Oeste, Res Arcana, "Tainted Grail: The Fall of Avalon", "Tainted Grail: La caída de Ávalon", Tapestry, Tiny Towns, Wingspan, Aerion, "Cartographers: A Roll Player Tale", Cloudspire, "The Lord of the Rings: Journeys in Middle-earth", Lux Aeterna, Pax Pamir, Twice As Clever, 12 Patrols, 13 Sheep, Roll Estate, TINYforming Mars, "Under Falling Skies", "Aeon's End: Legacy", "Imperial Settlers: Empires of the North", Colonos del Imperio, "Colonos del Imperio: Imperios del Norte", Tussie Mussie, Villagers, Atlantis Rising, "Cthulhu: Death May Die", Horrified, "El Señor de los Anillos: Viajes por la Tierra Media", "UBOOT: The Board Game", "Blitzkrieg!", "Gandhi: The Decolonization of British India", "Nevsky: Teutons and Rus in Collision", Peloponnesian War, Stalingrad 42, "Tank Duel: Enemy in the Crosshairs"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200430-golden-geek/golden-geek-awards-2019.jpg
 post_desc: "Guía de juegos en solitario de entre todas las nominaciones a los
 premios Golden Geek para que puedas enterearte de las novedades que nos dejó 2019"
@@ -88,6 +88,9 @@ un pequeño comentario mio sobre el juego:
          solo se gana si se consiguen los objetivos individuales de cada
          jugador.
          </p>
+         <p><strong>Devir</strong> ha publicado este juego en España, bajo el
+         nombre de <strong><a href="https://amzn.to/3hgeXdm">La
+         Tripulación: En busca del noveno planeta</a></strong>.</p>
          <p><strong>Comentario.</strong> Esta es la primera sorpresa de los
          Golden Geeks, ya que este juego, que ni sabía que existía, tiene un
          modo en <strong><a
