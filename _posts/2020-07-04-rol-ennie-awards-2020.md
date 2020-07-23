@@ -9,6 +9,8 @@ post_desc: "Los ENnie son unos galardones otorgados a los juegos de rol
  más destacados del año. Las editoriales nominan los juegos que hayan 
  publicado el año anterior y tras deliberar"
 ---
+<small><strong>Actualizado 23/07</strong>. Se actualiza A Thousand Year Old
+Vampire: será publicado en español.</small>
 
 <small><strong>Actualizado 17/07</strong>. Se actualiza A Cool and Lonely
 Courage: modo en solitario.</small>
@@ -1157,6 +1159,11 @@ comentaré en la primera.
         empezar a jugar a rol en solitario</a>, me alegra ver que el rol en
         solitario tenga representación en estos premios (aunque hay algún otro
         más que aparecerá más abajo).</p>
+        <p>Este juego <strong>será publicado en español por <a
+    href="https://twitter.com/elrefugioedit/status/1280085925750542337">El
+    Refugio Editorial</a></strong> que ya ha traído en español otros juegos de rol en
+    solitario, como <a
+    href="{{site.baseurl}}/etiqueta/cuentos-de-animas/">Cuéntos de ánimas</a>.</p>
         <p>Versión física más barata en <a
     href="https://www.drivethrurpg.com/product/306279/Thousand-Year-Old-Vampire?affiliate_id=1914894">DriveThruRPG</a>.</p>
         <p>Nominado también a: <i>Mejores reglas</i> y <i>Producto del año</i>.</p>
