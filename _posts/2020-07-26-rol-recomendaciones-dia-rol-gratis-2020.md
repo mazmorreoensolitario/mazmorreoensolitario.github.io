@@ -5,10 +5,9 @@ date: 2020-07-26
 categories: [Rol]
 tags: [Rol, OSR, One Page Dungeon, Mausritter, The Adventurer, Mothership]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200726-dia-rol-gratis-2020/dia-rol-gratis-2020.jpg
-post_desc: "EAyer, día 25 de julio se celebró el Día del Rol Gratis, en el que 
+post_desc: "Ayer, día 25 de julio se celebró el Día del Rol Gratis, en el que 
 se regalan pequeñas aventuras o libros de rol. Durante todo
-el año suele haber bastantes productos que ya se pueden conseguir de forma
-gratuita, tanto juegos de rol, como aventuras o generadores/tablas" 
+el año suele haber bastantes productos se" 
 ---
 
 ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200726-dia-rol-gratis-2020/dia-rol-gratis-2020.jpg)
@@ -47,10 +46,10 @@ Sin más dilación, estas son mis recomendaciones:
          <p><strong>Mausritter</strong> es un juego de rol que utiliza el
          sistema de <a
     href="https://www.drivethrurpg.com/product/145536/Into-the-Odd?affiliate_id=1914894">Into
-         the Odd</a> en el que controlamos a pequeños roedores en una
-         ambientación actual, pero desde su perspectiva: todo es inmenso, hay
-         muchos peligros, vivimos en un mundo muy diverso, con diferentes
-         animales que serán amigos o enemigos y los objetos de los humanos
+         the Odd</a> y en el que controlamos a pequeños roedores en una
+         ambientación actual, pero desde su perspectiva: todo es inmenso; hay
+         muchos peligros; vivimos en un mundo muy diverso, con diferentes
+         animales que serán amigos o enemigos; y los objetos que los humanos
          utilizan tienen usos diferentes para estos
          animalitos. En este libro de rol en formato revista tenemos una
          descripción de las reglas, muchas tablas para generar ratones,
@@ -79,7 +78,7 @@ Sin más dilación, estas son mis recomendaciones:
          <p>Una forma muy interesante de jugar a este juego es con otro sistema
          de rol como base, utilizando las mecánicas de The Adventurer para
          crear una aventura, pero el sistema de rol para resolver tests, o
-         encuentros que puedan por ejemplo derivar en combate. Yo os recomiendo
+         encuentros que puedan derivar en combate. Yo os recomiendo
          que utilicéis un sistema ligero, yo he jugado de esta forma con <a
          href="https://www.drivethrurpg.com/product/250888/Knave?affiliate_id=1914894">Knave</a>
          (cuesta 3$, un café vamos) y me ha ido muy bien.</p></div>
@@ -89,7 +88,7 @@ Sin más dilación, estas son mis recomendaciones:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
-            src="https://www.drivethrurpg.com/images/5606/272802-thumb140.jpg"
+            src="https://cdn.shopify.com/s/files/1/0017/2330/1933/products/Old-SchoolEssentials-BasicRules_540x.png?v=1587544962"
         class="img-thumbnail" alt="Old-School Essentials: Basic Rules">
     </div>
     <div class="col-md-9">
@@ -100,8 +99,8 @@ Sin más dilación, estas son mis recomendaciones:
          organizar las reglas de B/X y aclarar algunas que eran ambiguas,
          utiliza una maquetación nivel dios (toda sección se explica en un
          máximo de dos caras, justo la página par e impar que tienes cuando
-         abres un libro por cualquier sitio) para todo quede perfectamente
-         ordenado y organizado, también utiliza alguna nomenclatura moderna
+         abres un libro por cualquier sitio) para que todo quede perfectamente
+         ordenado y organizado; también utiliza alguna nomenclatura moderna
          para tener compatibilidad con diferentes aventuras del mundillo OSR,
          permitiendo jugar con AC (armour class) ascendente y descendente, y da
          el THAC0 (To hit armour class 0) como valor adicional en el bestiario,
@@ -109,7 +108,8 @@ Sin más dilación, estas son mis recomendaciones:
          <p>El <a
          href="{{site.baseurl}}/2019/06/16/rol-recomendaciones-dia-rol-gratis/">año
          pasado</a> os comentaba que mi retroclón
-         para jugar a juegos dentro del panorama OSR era Labyrinth Lord, que
+         para jugar a juegos dentro del panorama OSR era
+         <a href="{{site.baseurl}}/etiqueta/labyrinth-lord/>Labyrinth Lord</a>, que
          también se basa en B/X, pero decidí pasarme a OSE porque, aunque en
          esencia es el mismo juego, te lo pintan de forma tan digerible y
          organizada, que merece la pena tener otro.</p> 
@@ -128,6 +128,7 @@ Sin más dilación, estas son mis recomendaciones:
          por dónde van los tiros antes de que salga por nuestras tierras.</p>
      </div>
 </div>
+<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -159,7 +160,7 @@ Sin más dilación, estas son mis recomendaciones:
      </div>
 </div>
 
-### Tablas
+### Suplementos y tablas
 
 <div class="row">
     <div class="col-md-3">
@@ -306,11 +307,11 @@ Sin más dilación, estas son mis recomendaciones:
     </div>
     <div class="col-md-9">
          <h4><a href="https://itch.io/jam/solo-dungeon-tabletop-rpg-jam/entries">One Page Dungeon Contest</a></h4>
-         <p><strong>One Page Dungeon Contest</strong>, es un concurso en el que
+         <p><strong>One Page Dungeon Contest</strong> (OPDC), es un concurso en el que
          se aceptan aventuras o mazmorras que entren en una cara como
          máximo. El año pasado también os recomendé las entradas del concurso
-         de ese año, no es que me esté quedando sin ideas, es que es algo que
-         es muy bueno todos los años y que en general espero con ganas.</p>
+         de ese año, no es que me esté quedando sin ideas, es que el OPDC es 
+         muy bueno todos los años y que en general espero cada año.</p>
          <p>Es un poco complicado ojear todos los pdfs, este año hay unos 150,
          pero echarle ganas, cada año suele haber mazmorras interesantes.</p>
      </div>
