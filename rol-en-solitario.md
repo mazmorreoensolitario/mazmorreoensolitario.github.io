@@ -31,6 +31,8 @@ lúdico, por lo que también va a tener un espacio dedicado en el blog.
 
 ### Artículos generales
 
+* 26 de Julio, 2020. [10 recomendaciones por el Día del Rol Gratis de
+  2020]({{site.baseurl}}/2020/07/26/rol-recomendaciones-dia-rol-gratis-2020/) 
 * 13 Junio, 2020. [Lo recomendado del Paquete de juegos por la justicia
   racial y la
   igualdad]({{site.baseurl}}/2020/06/13/rol-bundle-for-racial-justice-and-equality/).

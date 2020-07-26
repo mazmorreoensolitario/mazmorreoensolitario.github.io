@@ -12,7 +12,58 @@
     src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('¡Invítame
     a un café!', '#29abe0', 'G2G11C3DK');kofiwidget2.draw();</script>
   </div>
-  <div class="mt10 recent">
+   <div class="mt10 box">
+    <h4>Lo más leído</h4>
+    <div id="most-read">
+      <p>1. <a href="{{site.baseurl}}/2020/05/16/rol-en-solitario-como-empiezo/">Rol en solitario: ¿cómo empiezo?</a></p>
+      <p>2. <a href="{{site.baseurl}}/2020/01/09/rol-10-juegos-aventuras-para-2020/">10 juegos de rol en solitario y módulos de aventuras para probar en 2020</a></p>
+      <p>3. <a href="{{site.baseurl}}/2020/07/19/crowdfunding-1307-1907/">Noticias - Kickstarters 13/07 - 19/07</a></p>
+      <p>4. <a href="{{site.baseurl}}/2019/05/16/analisis-desolate/">Análisis - Desolate</a></p>
+      <p>5. <a href="{{site.baseurl}}/2019/09/16/analisis-terraforming-mars/">Análisis - Terraforming Mars</a></p>
+      <p>6. <a href="{{site.baseurl}}/2020/07/18/analisis-sub-terra-infernos-edge/">Análisis - Sub Terra II: Inferno's Edge</a></p>
+      <p>7. <a href="{{site.baseurl}}/2020/04/30/noticias-golden-geek-awards-2019/">Guía de juegos en solitario: Nominaciones de los Premios Golden Geek de 2019</a></p>
+      <p>8. <a href="{{site.baseurl}}/2019/02/09/analisis-pocket-landship/">Análisis - Pocket Landship</a></p>
+      <p>9. <a href="{{site.baseurl}}/2019/07/05/analisis-reinos-de-papel-mas-alla-de-las-puertas/">Análisis - Reinos de Papel: Más allá de las puertas</a></p>
+      <p>10. <a href="{{site.baseurl}}/2019/08/03/noticias-ennie-awards/">Premios Ennie 2019</a></p>
+    </div>
+    <span id="dummy"></span>
+  </div>
+  <div clas="mt10">
+    <h4>Etiquetas más populares</h4>
+    <p class="text-left">
+      {% for tag in site.tags %}
+      {% if tag[0] == "Res Arcana"
+      or tag[0] == "Héroes de Terrinoth"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Pandemic: La caída de Roma"
+      or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Cuentos de ánimas"
+      or tag[0] == "Pathfinder"
+      or tag[0] == "Pax Pamir"
+      or tag[0] == "Root: Riverfolk"
+      or tag[0] == "Root: The Clockwork Expansion"
+      or tag[0] == "The City of Kings"
+      or tag[0] == "Too Many Bones"
+      or tag[0] == "Cthulhu: Death May Die"
+      or tag[0] == "Everdell"
+      or tag[0] == "Fábulas de Peluche"
+      or tag[0] == "Four Against Darkness"
+      or tag[0] == "Ironsworn"
+      or tag[0] == "Mothership: Dead Planet"
+      or tag[0] == "Scythe: El Auge de Fenris"
+      or tag[0] == "Sub Terra"
+      or tag[0] == "The 7th Continent"
+      or tag[0] == "Tiny Towns"
+      or tag[0] == "Tops"
+      or tag[0] == "Undaunted: Normandy" %}
+<span class="label label-danger">#<a class="tag-color"
+        href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
+      {% endif %}
+      {% endfor %}
+    </p>
+  </div>
+ <div class="mt10 recent">
     <h4>Artículos recientes</h4>
     <ul>
       {% for post in site.related_posts limit:5 %}
@@ -45,57 +96,6 @@
       {% endfor %}
     </ul>
   </div>
-  <div clas="mt10">
-    <h4>Etiquetas más populares</h4>
-    <p class="text-left">
-      {% for tag in site.tags %}
-      {% if tag[0] == "Labyrinth Lord"
-      or tag[0] == "Res Arcana"
-      or tag[0] == "9 Card Game Print & Play Design Contest"
-      or tag[0] == "Héroes de Terrinoth"
-      or tag[0] == "Pandemic: La caída de Roma"
-      or tag[0] == "A Rasp of Sand"
-      or tag[0] == "Pathfinder"
-      or tag[0] == "Pax Pamir"
-      or tag[0] == "Root: Riverfolk"
-      or tag[0] == "Root: The Clockwork Expansion"
-      or tag[0] == "Scythe: El Auge de Fenris"
-      or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "The City of Kings"
-      or tag[0] == "Tiny Towns"
-      or tag[0] == "Too Many Bones"
-      or tag[0] == "Cataclysm: A Second World War"
-      or tag[0] == "Cthulhu: Death May Die"
-      or tag[0] == "Everdell"
-      or tag[0] == "Fábulas de Peluche"
-      or tag[0] == "Four Against Darkness"
-      or tag[0] == "Iron Helm"
-      or tag[0] == "Sub Terra"
-      or tag[0] == "Tainted Grail: La caída de Ávalon"
-      or tag[0] == "The 7th Continent"
-      or tag[0] == "Tops" %}
-<span class="label label-danger">#<a class="tag-color"
-        href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
-      {% endif %}
-      {% endfor %}
-    </p>
-  </div>
-  <div class="mt10 box">
-    <h4>Lo más leído</h4>
-    <div id="most-read">
-      <p>1. <a href="{{site.baseurl}}/2020/01/09/rol-10-juegos-aventuras-para-2020/">10 juegos de rol en solitario y módulos de aventuras para probar en 2020</a></p>
-      <p>2. <a href="{{site.baseurl}}/2020/05/16/rol-en-solitario-como-empiezo/">Rol en solitario: ¿cómo empiezo?</a></p>
-      <p>3. <a href="{{site.baseurl}}/2020/07/19/crowdfunding-1307-1907/">Noticias - Kickstarters 13/07 - 19/07</a></p>
-      <p>4. <a href="{{site.baseurl}}/2020/07/18/analisis-sub-terra-infernos-edge/">Análisis - Sub Terra II: Inferno's Edge</a></p>
-      <p>5. <a href="{{site.baseurl}}/2019/03/09/analisis-maquis/">Análisis - Maquis</a></p>
-      <p>6. <a href="{{site.baseurl}}/2019/09/16/analisis-terraforming-mars/">Análisis - Terraforming Mars</a></p>
-      <p>7. <a href="{{site.baseurl}}/2019/05/16/analisis-desolate/">Análisis - Desolate</a></p>
-      <p>8. <a href="{{site.baseurl}}/2019/02/09/analisis-pocket-landship/">Análisis - Pocket Landship</a></p>
-      <p>9. <a href="{{site.baseurl}}/2020/07/12/crowdfunding-0607-1207/">Noticias - Kickstarters 6/07 - 12/07</a></p>
-      <p>10. <a href="{{site.baseurl}}/2019/01/26/analisis-micro-city/">Análisis - Micro City</a></p> 
-    </div>
-    <span id="dummy"></span>
-  </div>
   <div class="mt10">
     <h4>Entidades colaboradoras</h4>
     <div class="row">
@@ -108,7 +108,6 @@
     </div>
   </div>
   <br>
-  
   <div class="mt10">
     <a class="twitter-timeline"
        href="https://twitter.com/mazmorreo?ref_src=twsrc%5Etfw"

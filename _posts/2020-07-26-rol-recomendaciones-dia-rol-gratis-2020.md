@@ -3,7 +3,7 @@ layout: post
 title: "10 recomendaciones por el Día del Rol Gratis de 2020"
 date: 2020-07-26
 categories: [Rol]
-tags: [Rol, OSR, One Page Dungeon, Mausritter, The Adventurer, Mothership]
+tags: [Rol, OSR, Old-School Essentials, The Nightmares Underneath, One Page Dungeon, Mausritter, The Adventurer, Mothership]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200726-dia-rol-gratis-2020/dia-rol-gratis-2020.jpg
 post_desc: "Ayer, día 25 de julio se celebró el Día del Rol Gratis, en el que 
 se regalan pequeñas aventuras o libros de rol. Durante todo
@@ -109,7 +109,7 @@ Sin más dilación, estas son mis recomendaciones:
          href="{{site.baseurl}}/2019/06/16/rol-recomendaciones-dia-rol-gratis/">año
          pasado</a> os comentaba que mi retroclón
          para jugar a juegos dentro del panorama OSR era
-         <a href="{{site.baseurl}}/etiqueta/labyrinth-lord/>Labyrinth Lord</a>, que
+         <a href="{{site.baseurl}}/etiqueta/labyrinth-lord/">Labyrinth Lord</a>, que
          también se basa en B/X, pero decidí pasarme a OSE porque, aunque en
          esencia es el mismo juego, te lo pintan de forma tan digerible y
          organizada, que merece la pena tener otro.</p> 

@@ -30,7 +30,8 @@ que hemos caído en una trampa."
         <div class="col-md-6">
         <table class="table table-striped table-hover">
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2016</td></tr>
-            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left">Print & play gratis, <a href="https://amzn.to/2Pm7dYK">edición normal 38€</a></td></tr>
+            <tr><td class="text-left"><strong>Precio:</strong></td><tdclass="text-left">Print & play gratis</td></tr>
+            <tr></td></td>Edición retail ~30€</a></td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1</td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">~30 mins</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés, partes en castellano (traducido por fans)</td></tr>
