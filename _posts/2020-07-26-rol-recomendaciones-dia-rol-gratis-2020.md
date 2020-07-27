@@ -41,7 +41,7 @@ Sin más dilación, estas son mis recomendaciones:
     </div>
     <div class="col-md-9">
          <h4><a
-    href="https://www.drivethrurpg.com/product/288946/Mothership-Hive-Mind-Issue-01">Mausritter:
+    href="https://losing-games.itch.io/mausritter">Mausritter:
         Sword-and-whiskers role playing</a></h4>
          <p><strong>Mausritter</strong> es un juego de rol que utiliza el
          sistema de <a
