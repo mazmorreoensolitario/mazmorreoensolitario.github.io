@@ -280,7 +280,7 @@ Sin más dilación, estas son mis recomendaciones:
         class="img-thumbnail" alt="Deep Carbon Observatory">
     </div>
     <div class="col-md-9">
-         <h4><a href="https://www.drivethrurpg.com/product/288946/Mothership-Hive-Mind-Issue-01">Deep Carbon Observatory</a></h4>
+         <h4><a href="https://www.drivethrurpg.com/product/131801/Deep-Carbon-Observatory">Deep Carbon Observatory</a></h4>
          <p><strong>Deep Carbon Observatory</strong> de Patrick Stuart y Scrap
          Princess es uno de los módulos de aventuras más conocidos dentro del
          mundillo de OSR, y bueno, más que una recomendación que os hago yo
@@ -306,7 +306,7 @@ Sin más dilación, estas son mis recomendaciones:
         class="img-thumbnail" alt="One Page Dungeon Contest">
     </div>
     <div class="col-md-9">
-         <h4><a href="https://itch.io/jam/solo-dungeon-tabletop-rpg-jam/entries">One Page Dungeon Contest</a></h4>
+         <h4><a href="https://www.dungeoncontest.com/">One Page Dungeon Contest</a></h4>
          <p><strong>One Page Dungeon Contest</strong> (OPDC), es un concurso en el que
          se aceptan aventuras o mazmorras que entren en una cara como
          máximo. El año pasado también os recomendé las entradas del concurso
