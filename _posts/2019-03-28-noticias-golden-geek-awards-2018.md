@@ -1576,7 +1576,7 @@ jugarse en solitario.</div>
             <div class="alert alert-info" role="alert">
             Subcampeón a mejor expansión del año.</div>
          <p>Como he comentado en el juego base de esta expansión, <strong><a target="_blank"
-             href="https://2tomatoesgames.com/es/content/11-proximos-lanzamientos?ref=mazmorreoensolitario">
+             href="https://2tomatoesgames.com">
              2 Tomatoes Games</a></strong> traerá Root así como esta expansión
              sobre Mayo-Junio de este mismo año.</p>
          <p>Podéis leer el resumen de <strong>Root</strong> en la primera tanda

@@ -359,7 +359,7 @@ Así pues, a medio camino entre lo mecánico y lo narrativo se encuentran:
   Shroud](https://www.exaltedfuneral.com/products/seekers-beyond-the-shroud).**
   Ya hablamos de este juego de Alex T. a principios de año en mi lista de
   [juegos de rol en solitario que  tengo que probar en
-  2020]({{site.baseurl}}2020/01/09/rol-10-juegos-aventuras-para-2020/), y ya
+  2020]({{site.baseurl}}/2020/01/09/rol-10-juegos-aventuras-para-2020/), y ya
   con más partidas a mis espaldas, os lo puedo recomendar sin dudas y he tenido
   el placer de recomendárselo a más gente.
   

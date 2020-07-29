@@ -302,7 +302,7 @@ comentaré en la primera.
         ENnies, me parece que tiene una ambientación interesante, me lo apunto
         para ver en un futuro alguna sesión.</p>
         <p>Edición física en <a
-        href="https://www.modiphius.net/products/nibiru-corebook-hardcover">Modiphius</a>.</p> 
+        href="https://www.modiphius.net/">Modiphius</a>.</p> 
         <p>Nominado también a: <i>Mejor cartografía</i>.</p>
     </div>
 </div>

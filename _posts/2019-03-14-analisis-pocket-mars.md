@@ -409,7 +409,7 @@ nuestra estrategia de juego tenemos que tener en cuenta también qué va a
 suceder con el autómata de jugar nuestro turno de cierta manera.
 A mí esto es algo que me gusta, ya que a  diferencia de otros autómatas, por
 ejemplo el de [Colonos del
-Imperio]({{site.baseurl}}/analisis-colonos-del-imperio/) del que os hablaba
+Imperio]({{site.baseurl}}/2019/01/16/analisis-colonos-del-imperio/) del que os hablaba
 hace unos meses, en el que el siempre se comporta igual, con el autómata de
 Pocket Mars tenemos algo de interacción con este rival virtual ya que forma
 parte de nuestra estrategia.

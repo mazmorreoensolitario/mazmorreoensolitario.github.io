@@ -266,7 +266,7 @@ un pequeño comentario mio sobre el juego:
          tablero que construiremos comprando cartas de un mercado
          central. Jugando esas cartas podremos añadir unidades al mapa central
          y trataremos de dominar las diferentes coaliciones.</p>
-         <p><strong><a href="https://2tomatoesgames.com/es/">2Tomatoes
+         <p><strong><a href="https://2tomatoesgames.com/">2Tomatoes
          Games</a></strong> traerá este juego en español.</p>
          <p><strong>Comentario.</strong> He de admitir que el tapete blanco que
          usa el juego me parece un poco peligroso, por si se cae o mancha con
