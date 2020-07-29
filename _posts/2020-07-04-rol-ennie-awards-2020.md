@@ -333,7 +333,7 @@ comentaré en la primera.
         que podéis utilizar la ambientación con el sistema que más os guste. Es
         otro libro que os puedo recomendar de estos ENnies.</p>
         <p>Edición física en <a
-        href="https://www.exaltedfuneral.com/collections/enies-nominated/products/the-ultraviolet-grasslands">Exalted
+        href="https://www.exaltedfuneral.com/collections/preorders/products/the-ultra-violet-grasslands-and-the-black-city">Exalted
         Funeral</a> (ahora agotada).</p>
         <p>No sé si es un anuncio que se ha hecho público aún, pero en su
         Patreon del autor de UVG <a

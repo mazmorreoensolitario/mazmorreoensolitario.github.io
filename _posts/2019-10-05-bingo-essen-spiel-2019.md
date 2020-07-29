@@ -502,8 +502,8 @@ Aquí os dejo los juegos (ordenados por nombre de editorial):
          (un matemático británico importante de hoy en día).</p>
          <p>Resumiendo mucho y sin meternos en los detalles
          técnicos, en el Juego de la vida de Conway, que es un <strong>juego de
-         0 jugaores</strong> <a
-    href="https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC2vgICfQawE&usg=AOvVaw0UMz07kcVlPTuc8WJaifwy">vemos 
+         0 jugadores</strong> <a
+         href="https://www.youtube.com/watch?v=Gbvy6gY5Ev4">vemos 
          cómo evolucionan una especie de criaturas en un tablero</a>, que
          mueren, se reproducen o incluso destruyen a otras. El final del juego,
          o incluso el no final, ya que puede seguir de forma indefinida, puede

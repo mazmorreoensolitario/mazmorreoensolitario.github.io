@@ -25,7 +25,7 @@ play]({{site.baseurl}}/rincon-print-and-play)**, **noticias sobre los últimos
 juegos** en ferias, [Kickstarter]({{site.baseurl}}/etiqueta/kickstarter/), 
 Indiegogo, [Verkami]({{site.baseurl}}/etiqueta/verkami) u otras plataformas de
 crowdfunding, y lo último sobre el **[rol en
-solitario](http://localhost:4000/rol-en-solitario/)**.
+solitario]({{site.baseurl}}/rol-en-solitario/)**.
 
 
 **Entidades colaboradoras**

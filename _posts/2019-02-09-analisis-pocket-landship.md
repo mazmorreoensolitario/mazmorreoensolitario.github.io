@@ -77,7 +77,7 @@ británico con la misión de despejar un sector de la infantería, artillería y
 tanques enemigos.
 
 El juego entra dentro del [famoso formato de 9
-cartas]({{site.baseurl}}http://localhost:4000/etiqueta/9-card-game-print-play-design-contest/)
+cartas]({{site.baseurl}}/etiqueta/9-card-game-print-play-design-contest/)
 que nos gusta tanto, de las cuáles tres cartas representan nuestras fuerzas y las
 seis restantes son las diferentes unidades del enemigo. 
 

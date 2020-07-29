@@ -34,7 +34,7 @@ de proyectos, vamos a demostrar que están equivocados."
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2017</td></tr>
             <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left"><a href="https://amzn.to/2UzgdND">21€</a>
             (Inglés), <a
-            href="https://2tomatoesgames.com/es/juego-casual/64-pocket-mars-8437016497159.html?ref=mazmorreoensolitario">15€</a>
+            href="https://amzn.to/2P19tqS">15€</a>
             (Español)</td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-4</td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">20-30 mins</td></tr>
@@ -50,7 +50,7 @@ de proyectos, vamos a demostrar que están equivocados."
              <li>
                  Ha sido editado por <a href="https://boardanddice.com/">Board
                  & Dice</a> y a España nos llega por <a
-                 href="https://2tomatoesgames.com/es/">2Tomatoes Games</a>.
+                 href="https://2tomatoesgames.com/">2Tomatoes Games</a>.
              </li>
              <li>
                  El tamaño de la caja es perfecto para el contenido del juego.
@@ -467,9 +467,9 @@ En cada partida, según toquen las cartas vas a poder usar una forma diferente
 de ganar, ya que hay combinaciones de efectos de cartas bastante variados.
 
 Al igual que me pasaba en [Colonos del
-Imperio]({{site.baseurl}}/analisis-colonos-del-imperio/) me gustaría que las
-partidas durasen más, pero como es tan fácil de preparar y ponerse a jugar se
-soluciona sin problemas echando varias partidas seguidas.
+Imperio]({{site.baseurl}}/2019/01/16/analisis-colonos-del-imperio/) me gustaría
+que las partidas durasen más, pero como es tan fácil de preparar y ponerse a
+jugar se soluciona sin problemas echando varias partidas seguidas.
 
 En definitiva, es un juego en solitario muy recomendable y por ese precio
 deberían quitárselos de las manos a los tenderos.

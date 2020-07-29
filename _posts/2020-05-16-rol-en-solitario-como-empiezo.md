@@ -339,7 +339,7 @@ Así pues, a medio camino entre lo mecánico y lo narrativo se encuentran:
   
   Aunque tengo ambos juegos solo he podido jugar a Ruins of the Undercity (el
   otro se encuentra en mi [lista de pendientes para
-  2020]({{site.baseurl}}2020/01/09/rol-10-juegos-aventuras-para-2020/)),
+  2020]({{site.baseurl}}/2020/01/09/rol-10-juegos-aventuras-para-2020/)),
   también os los puedo recomendar. Creo que además estos juegos tienen dos
   puntos positivos muy muy fuertes, y es que, por un lado se integran con un
   sistema tan conocido como es Labyrinth Lord (si no sabéis lo que es,

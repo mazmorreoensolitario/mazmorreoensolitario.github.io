@@ -459,7 +459,7 @@ también me gusta, pero no considero imprescindible.
 Si este juego os ha parecido interesante, os animo a que sigáis las noticias
 del autor del juego en Twitter
 ([@GreyGnomeGames](https://twitter.com/@greygnomegames)), ya que [ha anunciado
-un juego](https://greygnome.com/news-and-reviews/), llamado **Iron Helm**, que
+un juego](https://greygnome.com/2018/11/21/3149/), llamado **Iron Helm**, que
 es de mazmorreo, con temática medieval y utiliza una versión avanzada del
 sistema de Desolate. 
 

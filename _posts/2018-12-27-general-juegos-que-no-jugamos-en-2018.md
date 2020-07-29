@@ -75,7 +75,7 @@ La lista no está en ningún orden en particular:
          reglas de un autómata para poder jugar de forma cooperativa,
          controlando una o varias facciones contra este autómata.</p>
          <p>Si queréis jugarlo en español, <a
-         href="https://2tomatoesgames.com/es/content/11-proximos-lanzamientos"> 2
+         href="https://2tomatoesgames.com/"> 2
          Tomatoes Games</a> <strong>está trabajando en una edición en
          español</strong>, tanto del juego como de la expansión, que según su
          página debería salir en Marzo de 2019.</p>

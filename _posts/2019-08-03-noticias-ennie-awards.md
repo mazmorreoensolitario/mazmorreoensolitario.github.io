@@ -1109,7 +1109,7 @@ solitario.**
         class="img-thumbnail" alt="Tyrants & Hellions">
     </div>
     <div class="col-md-9">
-         <h4><a href="https://www.2cgaming.com/store/p45/tnh.html">Tyrants & Hellions</a></h4>
+         <h4><a href="https://www.2cgaming.com/">Tyrants & Hellions</a></h4>
          <p><strong>Titans & hellions</strong> es una guía para el director de
     juego, contiene quince diferentes villanos con sus tramas, guaridas,
     contexto y todo lo necesario para que puedas utilizarlos en tu campaña de

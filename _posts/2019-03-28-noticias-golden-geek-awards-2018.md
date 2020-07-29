@@ -241,7 +241,7 @@ ganador y los subcampeones.
             Underworld</a>, el juego <strong>sí</strong> puede jugarse en 
             solitario.</i></p>
          <p><strong><a target="_blank"
-             href="https://2tomatoesgames.com/es/content/11-proximos-lanzamientos?ref=mazmorreoensolitario">
+             href="https://2tomatoesgames.com/">
              2 Tomatoes Games</a></strong> traerá Root así como la expansión Los Ribereños
              sobre Mayo-Junio de este mismo año.</p>
          <p><strong>Root</strong> es un juego asimétrico basado en la guerra del gran bosque en
@@ -1467,7 +1467,7 @@ jugarse en solitario.</div>
         <p><i>Este juego se puede jugar en solitario controlando ambos
         bandos.</i></p>
         <p><strong><a
-        href="https://www.victorypointgames.com/thunder-in-the-east/"
+        href="https://www.victorypointgames.com/"
         target="_blank">Victory Point Games</a></strong> consiguió sacar este juego
         a la venta gracias a una <a
         href="https://www.kickstarter.com/projects/567823005/thunder-in-the-east"
