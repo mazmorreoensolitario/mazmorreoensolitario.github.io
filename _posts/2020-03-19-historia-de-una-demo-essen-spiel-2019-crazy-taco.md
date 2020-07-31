@@ -42,7 +42,7 @@ familiar que nos necesita."
         <div class="col-md-12"></div>
         <div class="col-md-12">
          <ul>
-             <li>Diseñado por Jesus Álvarez.</li>
+             <li>Diseñado por Jesús Álvarez.</li>
              <li>Arte de Jaime González García y Mariano Saura Copete.</li>
              <li>Producido por <a
                 href="http://ctrlaltcreative.com/index.html">CrtlAltCreative</a>,
