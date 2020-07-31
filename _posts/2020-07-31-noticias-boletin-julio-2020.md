@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: julio 2020"
 date: 2020-07-31
 categories: [Noticias]
-tags: ["Expansión", "GenCon", Spiel des Jahres, "Pavlov's House", "La Tripulación: En busca del noveno planeta", "The Crew: The Quest for Planet Nine", Set A Watch, A Cool and Lonely Courage, Black Sonata, Legends Untold, GMT Games, A Thousand Year Old Vampire, "Undaunted: Normandy", "Beak, Feather & Bone", "Pico, Pluma & Hueso", Ironsworn, "Ironsworn: Delve"]
+tags: ["Expansión", "GenCon", Crazy Taco, Spiel des Jahres, "Pavlov's House", "La Tripulación: En busca del noveno planeta", "The Crew: The Quest for Planet Nine", Set A Watch, A Cool and Lonely Courage, Black Sonata, Legends Untold, GMT Games, A Thousand Year Old Vampire, "Undaunted: Normandy", "Beak, Feather & Bone", "Pico, Pluma & Hueso", Ironsworn, "Ironsworn: Delve"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200731-bis/boletin-informativo.png
 post_desc: "Primer boletín informativo de juegos en solitario donde tendréis un
 resumen de las noticias del mundillo y lo que ha acontecido durante este mes"
@@ -356,6 +356,9 @@ Habiendo visto qué tenemos por agosto, ahora vamos a hacer un resumen rápido d
 * **[Streets](https://boardgamegeek.com/boardgame/279720/streets)**, **1 de
     septiembre**, pre-campaña
     [aquí](https://www.kickstarter.com/projects/sinisterfish/streets?ref=mazmorreoensolitario).
+* **[Crazy Taco](https://boardgamegeek.com/boardgame/289397/crazy-taco)**,
+  **3 de septiembre**. Tenéis mis sensaciones tras una demo [en esta
+  entrada]({{site.baseurl}}/2020/03/19/historia-de-una-demo-essen-spiel-2019-crazy-taco/).
 * **[Fredom Five: A Sentinel Comics Board
   Game](https://boardgamegeek.com/boardgame/311731/freedom-five-sentinel-comics-board-game)**,
   **8 de septiembre**.
