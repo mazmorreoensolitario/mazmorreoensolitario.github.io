@@ -365,7 +365,9 @@ Habiendo visto qué tenemos por agosto, ahora vamos a hacer un resumen rápido d
   Coin](https://boardgamegeek.com/boardgame/307386/set-watch-swords-coin)**,
   **22 de septiembre**.
 
-* Nuevas cajas para **[Aventuria Adventure Card Game]()**, **septiembre**,
+* Nuevas cajas para **[Aventuria Adventure Card
+  Game](https://boardgamegeek.com/boardgame/190400/aventuria-adventure-card-game)**,
+  en **septiembre**,
   [fecha sin
   concretar](https://www.youtube.com/watch?v=kxG6X79XDj4&feature=youtu.be&t=1018).
 * **[Deliverance](https://boardgamegeek.com/boardgame/273814/deliverance)**,
