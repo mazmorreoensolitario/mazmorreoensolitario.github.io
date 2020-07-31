@@ -279,7 +279,7 @@ agosto:**
 <p align="center">
 <img src="https://cf.geekdo-images.com/camo/b58db89aa3fc324da1bb4e1659050031f5ba41ad/68747470733a2f2f692e696d6775722e636f6d2f7a6b655849666f2e706e67"></p>
 * **[CMON](https://cmon.com/news/light-to-fight-the-darkness)** anuncia
-  **Massive Darkness 2**, una nueva edición del juego en mazmorreo Massive
+  **Massive Darkness 2**, una nueva edición del juego de mazmorreo Massive
       Darkness. En esta nueva edición del juego se han hecho cambios en el
   gameplay y además de los escenarios sueltos, se ha añadido un **nuevo modo
   campaña**. 
@@ -318,8 +318,8 @@ agosto:**
   próximo juego de **Eclipse Editorial**, un juego narrativo en el que nuestro
   objetivo final será conseguir el tesoro guardado por el Gran Dragón.
   Empezaremos siendo un aventurero novato, que tendrá que vivir aventuras a lo
-  largo del Reino para mejorar nuestro equipo, y solamente cuando estemos
-  preparados nos enfrentaremos al Dragón.
+  largo del Reino para mejorar su equipo, y solamente cuando esté preparado
+  podrá enfrentarse al Dragón. 
 
     Campaña el **25 de agosto de 2020 en Verkami**, pre-campaña
     [aquí](https://www.verkami.com/projects/27242-cartaventuras-deluxe-expansion).
