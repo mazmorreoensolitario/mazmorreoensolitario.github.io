@@ -147,7 +147,7 @@ src="https://cf.geekdo-images.com/imagepage/img/RDcf5CIYdb32CTci47ldkylJUJg=/fit
   de DVG nominado a los premios [Golden Geek de
   2018]({{site.baseurl}}/2019/03/28/noticias-golden-geek-awards-2018/). Pavlov's
   House es un juego de 1 a 3 jugadores que financió mediante Kickstarter y que
-  llegó a los mecenas en 2018. David Thompson, el autor de este jugo, también
+  llegó a los mecenas en 2018. David Thompson, el autor de este jeugo, también
   ha participado en War Chest, Undaunted: Normandy y By Stealth and Sea, entre
   otros juegos.
 
@@ -213,9 +213,9 @@ src="https://cf.geekdo-images.com/imagepage/img/RDcf5CIYdb32CTci47ldkylJUJg=/fit
   Games](https://www.blacklistgamesllc.com/post/contra-dev-diary-1) que
   ha abierto sus preorders coincidiendo con la Gen Con de este año.
   
-  **Contra** fue un videojuego que salió por primera vez para la NES, en este
+  **Contra** fue un videojuego que salió por primera vez para la NES; en este
   juego de mesa cooperativo los jugadores son los soldados de élite del siglo
-  XXVII detrás de las líneas enemigas as una misión: destruir las fuerzas de la
+  XXVII detrás de las líneas enemigas en una misión: destruir las fuerzas de la
   Armada del Halcón Rojo, una organización terrorista controlada por
   alienígenas que ha sido siempre una espina clavada dentro del Gobierno de la
   Federación Tierra y su legendaria fuerza operativa Contra.
