@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: julio 2020"
 date: 2020-07-31
 categories: [Noticias]
-tags: ["Expansión", "GenCon", Crazy Taco, Spiel des Jahres, "Pavlov's House", "La Tripulación: En busca del noveno planeta", "The Crew: The Quest for Planet Nine", Set A Watch, A Cool and Lonely Courage, Black Sonata, Legends Untold, GMT Games, A Thousand Year Old Vampire, "Undaunted: Normandy", "Beak, Feather & Bone", "Pico, Pluma & Hueso", Ironsworn, "Ironsworn: Delve"]
+tags: ["Expansión", "GenCon", Crazy Taco, On Mars, Spiel des Jahres, "Pavlov's House", "La Tripulación: En busca del noveno planeta", "The Crew: The Quest for Planet Nine", Set A Watch, A Cool and Lonely Courage, Black Sonata, "Legends Untold: The Weeping Caves", Legends Untold, GMT Games, A Thousand Year Old Vampire, "Undaunted: Normandy", "Beak, Feather & Bone", "Pico, Pluma & Hueso", Ironsworn, "Ironsworn: Delve"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200731-bis/boletin-informativo.png
 post_desc: "Primer boletín informativo de juegos en solitario donde tendréis un
 resumen de las noticias del mundillo y lo que ha acontecido durante este mes"
@@ -413,8 +413,10 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
   las **nominaciones a los premios ENnie de 2020**. Entre los juegos en
   solitario nominados están **[A
   Cool and Lonely Courage](https://www.drivethrurpg.com/product/283986/A-Cool-and-Lonely-Courage?affiliate_id=1914894)**,
-  **[A Thousand Year Old Vampire](https://timhutchings.itch.io/tyov)** (se publicará en español por El
-  Refugio Editorial) e **[Ironsworn: Delve](https://www.drivethrurpg.com/product/302260/Ironsworn-Delve?affiliate_id=1914894)**
+  **[A Thousand Year Old
+  Vampire](https://www.drivethrurpg.com/product/306279/Thousand-Year-Old-Vampire?affiliate_id=1914894)**
+  (se publicará en español por El Refugio Editorial) e **[Ironsworn:
+  Delve](https://www.drivethrurpg.com/product/302260/Ironsworn-Delve?affiliate_id=1914894)**
   (el libro base será publicado en español por The Hills Press).
   
   En [esta
