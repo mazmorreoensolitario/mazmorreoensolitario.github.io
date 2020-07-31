@@ -108,7 +108,7 @@ inglés) es **agosto de 2021**.
   **nuevo juego en solitario aéreo de la Segunda Guerra Mundial**.
 
 <p align="center">
-<img src="https://www.gmtgames.com/images/product/medium/870.jpg"></p>
+<img src="https://gmtwebsiteassets.s3-us-west-2.amazonaws.com/UnconditionalSurrender_WesternCampaigns/US_WesternCampaigns_banner1.jpg"></p>
 <p align="center"><small></small></p>
 
 
@@ -221,7 +221,7 @@ src="https://cf.geekdo-images.com/imagepage/img/RDcf5CIYdb32CTci47ldkylJUJg=/fit
   Federación Tierra y su legendaria fuerza operativa Contra.
 
 <p align="center">
-<img src="https://pbs.twimg.com/media/EdIVAzoWkAMyaWk?format=jpg&name=large">
+<img src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200731-bis/black-sonata-melmac-games.jpeg">
 </p>
 
 * **[Melmac
@@ -383,7 +383,7 @@ han tenido bastante movimiento.
 
 <p align="center">
 <img
-src="https://pbs.twimg.com/media/Ebv2IikXgAEwbKl?format=jpg&name=4096x4096"></p>
+src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200731-bis/ironsworn-hills-press.jpeg"></p>
 
 * **[The Hills
   Press](https://twitter.com/TheHillsPress/status/1277885611664343042?s=09)**
