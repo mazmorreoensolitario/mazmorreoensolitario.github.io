@@ -1762,7 +1762,7 @@ en sí ya es un exitazo.
 
 El autor de A Thousand Year Old Vampire tiene que estar orgulloso por haber
 ganado en Mejores Reglas, eso dice mucho de cómo eres como diseñador, y también
-que halla ganado el Mejor valor de producción, eso a mí me dice que el precio
+que haya ganado el Mejor valor de producción, eso a mí me dice que el precio
 es ajustado; y luego ya el  Producto del año (plata) es una barbaridad,
 enhorabuena otra vez.
 
