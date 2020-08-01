@@ -272,9 +272,10 @@ src="https://images.gencon.com/2020.gencon.logo.black.png">
 
 #### Lo que el futuro nos depara en el crowdfunding de juegos de mesa 
     
-Llegamos a la sección sobre novedades en el panorama de **crowdfunding** donde
-vamos a ver lo que tenemos en los próximos meses, **empezando en detalle con
-agosto:**
+Llegamos a la sección sobre
+[novedades](https://boardgamegeek.com/geeklist/192002/prelaunched-kickstarter-board-game-projects/page/1)
+en el panorama de **crowdfunding** donde vamos a ver lo que tenemos en los
+próximos meses, **empezando en detalle con agosto:**
 
 <p align="center">
 <img src="https://cf.geekdo-images.com/camo/b58db89aa3fc324da1bb4e1659050031f5ba41ad/68747470733a2f2f692e696d6775722e636f6d2f7a6b655849666f2e706e67"></p>

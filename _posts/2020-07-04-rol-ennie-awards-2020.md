@@ -9,6 +9,8 @@ post_desc: "Los ENnie son unos galardones otorgados a los juegos de rol
  más destacados del año. Las editoriales nominan los juegos que hayan 
  publicado el año anterior y tras deliberar"
 ---
+<small><strong>Actualizado 1/08</strong>. Se añaden los ganadores.</small>
+
 <small><strong>Actualizado 23/07</strong>. Se actualiza A Thousand Year Old
 Vampire: será publicado en español.</small>
 
@@ -149,6 +151,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/288945/Mothership-A-Pound-of-Flesh?affiliate_id=1914894">A Pound of Flesh</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de oro!</strong></div>
         <p><strong>A Pound of Flesh</strong> es un módulo de aventuras para el
         juego de horror espacial <a
         href="https://www.drivethrurpg.com/product/245017/Mothership-Players-Survival-Guide?affiliate_id=1914894">Mothership
@@ -228,6 +232,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I?affiliate_id=1914894">Trilemma Adventures Compendium Vol 1</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de plata!</strong></div>
         <p><strong>Trilemma Adventures Compendium Vol 1</strong> es un libro
         que contiene 48 aventuras que ocupan una o dos páginas y son perfectas
         para jugar como one-shots. Las aventuras no están escritas para ningún
@@ -255,6 +261,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/269387/Berlin--The-Wicked-City?affiliate_id=1914894">Berlin - The Wicked City</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de oro!</strong></div>
         <p><strong>Berlin - The Wicked City</strong> es una aventura para Call
         of Cthulhu ambientada en Berlín de los años 20 tras la Gran
         Guerra. Esta aventura añade elementos extraños del Mito de Cthulhu,
@@ -446,6 +454,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/281085/Strata?affiliate_id=1914894">Strata</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de plata!</strong></div>
         <p><strong>Strata</strong> es una ambientación para <a
         href="https://www.drivethrurpg.com/product/235679/Spire?affiliate_id=1914894">Spire</a>. En 
         esta ambientación puedes conseguir más detalles sobre lo mejor y lo peor
@@ -466,6 +476,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/302021/Ultraviolet-Grasslands-and-the-Black-City?affiliate_id=1914894">The Ultraviolet Grasslands</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de oro!</strong></div>
         <p>Nominado también a: <i>Mejor arte, portada</i>.</p>
     </div>
 </div>
@@ -497,6 +509,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://riverhorse.eu/product/rh_lab_005/">Jim Henson’s Labyrinth, the Adventure Game</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de plata!</strong></div>
         <p><strong>Jim Henson’s Labyrinth, the Adventure Game</strong> es un
         juego de rol en el que puedes adentrarte en el mágico mundo que creó
         Jim Henson con la película de El Laberinto.</p>
@@ -548,6 +562,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/286792/Trilemma-Adventures-Compendium-Volume-I?affiliate_id=1914894">Trilemma Adventures Compendium Vol 1</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de oro!</strong></div>
         <p>Nominado también a: <i>Mejor aventura</i>, <i>Mejor maquetación y
         diseño</i> y <i>Producto del año</i>.</p>
     </div>
@@ -594,6 +610,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/299661/New-Tales-of-the-Miskatonic-Valley-2nd-Ed?affiliate_id=1914894">New Tales of the Miskatonic Valley</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de oro!</strong></div>
         <p><strong>New Tales of the Miskatonic Valley</strong> es una aventura
         para Call of Cthulhu (7e).</p>
     </div>
@@ -608,6 +626,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.dmsguild.com/product/290973/Uncaged--Volume-III?affiliate_id=1914894">Uncaged Vol III</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de plata!</strong></div>
         <p><strong>Uncaged Vol III</strong> es una colección de aventuras para
         D&D (5e) con temas de mitos y folclore relacionados con alguna criatura
         mitológica femenina, como harpías, medusas y mucho más.</p>
@@ -656,6 +676,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://riverhorse.eu/product/rh_lab_005/">Jim Henson’s Labyrinth, the Adventure Game</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de oro!</strong></div>
         <p>Nominado también a: <i>Mejor cartografía</i>.</p>
     </div>
 </div>
@@ -669,6 +691,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/290354/Strange-Adventures-Volume-Two?affiliate_id=1914894">Strange Adventures: Volume Two</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de plata!</strong></div>
         <p><strong>Strange Adventures: Volume Two</strong> es un libro que
         contiene semillas de aventuras y guías para crearlas para <a
         href="https://www.drivethrurpg.com/product/231938/Kids-on-Bikes-Core-Rulebook?affiliate_id=1914894">Kids
@@ -773,6 +797,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj">TTRPG Safety Toolkit</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de oro!</strong></div>
         <p><strong>TTRPG Safety Toolkit</strong> no es un juego, sino
         repositorio en el que se han centralizado los diferentes métodos y
         recursos para jugar a juegos de rol con todas las garantías de
@@ -780,7 +806,6 @@ comentaré en la primera.
     </div>
 </div>
 <br>
-
 
 <div class="row">
     <div class="col-md-3">
@@ -790,6 +815,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://natetreme.itch.io/tunnelgoons">Tunnel Goons</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de plata!</strong></div>
         <p><strong>Tunnel Goons</strong> es un juego de rol muy simple y ligero
         que utiliza un sistema de 2d6. </p>
         <p>De el sistema de Tunnel Goons se han creado otros juegos muy
@@ -850,6 +877,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/293976/ALIEN-RPG-Core-Rulebook?affiliate_id=1914894">ALIEN RPG Core Rulebook</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de oro!</strong></div>
         <p><strong>ALIEN RPG Core Rulebook</strong> es un juego de rol que
         representa el universo de la película de Alien y que utiliza el sistema
         Year Zero Engine conocido por otros juegos como Tales from the Loop y
@@ -868,6 +897,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/295910/Mork-Borg-English?affiliate_id=1914894">MÖRK BORG Artpunk RPG</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de plata!</strong></div>
         <p><strong>MÖRK BORG Artpunk RPG</strong> es un juego de rol de
         fantasía apocalípitca sobre almas perdidas buscando redención, perdón o
         los últimos tesoros del moribundo mundo.</p>
@@ -931,6 +962,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/288945/Mothership-A-Pound-of-Flesh?affiliate_id=1914894">A Pound of Flesh</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de plata!</strong></div>
         <p>Nominado también a: <i>Mejor aventura</i>.</p>
     </div>
 </div>
@@ -959,6 +992,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/295910/Mork-Borg-English?affiliate_id=1914894">MÖRK BORG Artpunk RPG</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de oro!</strong></div>
         <p>Nominado también a: <i>Mejor juego</i>, <i>Mejor escritura</i> y
         <i>Producto del año</i>.</p>
     </div>
@@ -1003,7 +1038,9 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://thedeckofmany.com/search?q=big+bad+booklet">Big Bad Booklet 1-6</a></h4>
-        <p><strong>Big Bad Booklet 1-6</strong> son una serie de libritos
+       <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de plata!</strong></div>
+       <p><strong>Big Bad Booklet 1-6</strong> son una serie de libritos
         ilustrados que contienen cada uno un nuevo monstruo para D&D (5e)
         detallando su historia, personalidad y las tácticas que utiliza en
         combate.</p> 
@@ -1047,6 +1084,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.dmsguild.com/product/296621/Mordenkainens-Fiendish-Folio-Volume-1-Monsters-Malevolent-and-Benign?affiliate_id=1914894">Mordenkainen’s Fiendish Folio, Volume 1: Monsters Malevolent and Benign</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de oro!</strong></div>
         <p><strong>Mordenkainen’s Fiendish Folio, Volume 1: Monsters Malevolent
     and Benign</strong> es un bestiario para D&D (5e) que contiene las
     criaturas que aparecieron originalmente en el Fiend Folio de AD&D.</p>
@@ -1101,6 +1140,8 @@ comentaré en la primera.
         <h4><a
         href="https://thedeckofmany.com/products/humblewood-box-set">Humblewood Box
         Set</a></h4> 
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de plata!</strong></div>
         <p><strong>Humblewood Box Set</strong> es una campaña para D&D
         (5e).</p>
     </div>
@@ -1148,6 +1189,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://timhutchings.itch.io/tyov">A Thousand Year Old Vampire</a></h4>
+        <div class="alert alert-warning" role="alert">
+        <strong>¡Medalla de oro!</strong></div>
         <p><strong>A Thousand Year Old Vampire</strong> es un juego de rol
         <strong>para jugar en solitario</strong> en el que
         escribimos las memorias de un vampiro a lo largo de sus siglos y siglos de
@@ -1230,6 +1273,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://timhutchings.itch.io/tyov">A Thousand Year Old Vampire</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de oro!</strong></div>
         <p>Nominado también a: <i>Mejor valor de producción</i> y <i>Producto del año</i>.</p>
     </div>
 </div>
@@ -1243,6 +1288,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.magpiegames.com/product/zombie-world-full-set/">Zombie World</a></h4>
+        <div class="alert alert-warning" role="alert">
+        <strong>¡Medalla de plata!</strong></div>
         <p>Nominado también a: <i>Mejor juego</i> y <i>Producto del año</i>.</p>
     </div>
 </div>
@@ -1276,6 +1323,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/277656/Arkadia--The-Greek-Setting-for-5e?affiliate_id=1914894">Arkadia – The Greek Setting for 5e</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de plata!</strong></div>
         <p>Como su nombre indica, <strong>Arkadia – The Greek Setting for
         5e</strong> es un ambientación griega para D&D (5e). También incluye un
         manual para los jugadores inspirado por la historia y los mitos de la
@@ -1293,6 +1342,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/269387/Berlin--The-Wicked-City?affiliate_id=1914894">Berlin - The Wicked City</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de oro!</strong></div>
         <p>Nominado también a: <i>Mejor arte, portada</i>.</p>
     </div>
 </div>
@@ -1354,6 +1405,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/294687/Delta-Green-The-Labyrinth?affiliate_id=1914894">Delta Green: The Labyrinth</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de oro!</strong></div>
         <p><strong>Delta Green: The Labyrinth</strong> es un suplemento de
         Delta Green en el que podemos observar las fisuras de America en el
         nuevo milenio.</p>
@@ -1385,6 +1438,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/302260/Ironsworn-Delve?affiliate_id=1914894">Ironsworn: Delve</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de plata!</strong></div>
         <p><strong>Ironsworn: Delve</strong> es una expansión para el
         galardonado <a
         href="https://www.drivethrurpg.com/product/238369/Ironsworn">Ironsworn</a>,
@@ -1478,6 +1533,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/295910/Mork-Borg-English?affiliate_id=1914894">MÖRK BORG Artpunk RPG</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de oro!</strong></div>
         <p>Nominado también a: <i>Mejor juego</i>, <i>Mejor maquetación y
             diseño</i> y <i>Producto del año</i>.</p>
     </div>
@@ -1507,6 +1564,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.simonandschuster.com/books/The-Monsters-Know-What-Theyre-Doing/Keith-Ammann/The-Monsters-Know-What-They-re-Doing/9781982122669">The Monsters Know What They're Doing</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de plata!</strong></div>
         <p><strong>The Monsters Know What They're Doing</strong> es un libro
         que explica las habilidades de los monstruos de D&D (5e) para que tú,
         como GM puedas entenderlos y saber cómo se comportarían en cada
@@ -1573,7 +1632,11 @@ comentaré en la primera.
             class="img-thumbnail" alt="MÖRK BORG Artpunk RPG">
     </div>
         <div class="col-md-9">
-        <h4><a href="https://www.drivethrurpg.com/product/295910/Mork-Borg-English?affiliate_id=1914894">MÖRK BORG Artpunk RPG</a></h4>
+            <h4><a
+        href="https://www.drivethrurpg.com/product/295910/Mork-Borg-English?affiliate_id=1914894">MÖRK
+            BORG Artpunk RPG</a></h4>
+                <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de oro!</strong></div>
         <p>Nominado también a: <i>Mejor juego</i>, <i>Mejor maquetación y
         diseño</i> y  <i>Mejor escritura</i>.</p>
     </div>
@@ -1629,6 +1692,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://timhutchings.itch.io/tyov">A Thousand Year Old Vampire</a></h4>
+        <div class="alert alert-warning" role="alert">
+        <strong>¡Medalla de plata!</strong></div>
         <p>Nominado también a: <i>Mejor valor de producción</i> y <i>Mejores reglas</i>.</p>
     </div>
 </div>
@@ -1681,6 +1746,29 @@ Y ¡esto es todo! Las votaciones finalizan el 12 de julio a las 11:45 PM EST
 hay tiempo de sobra de leer, jugar y votar.
 
 Volveré a repasar esta entrada cuando tengamos los resultados de la votación.
+
+#### Tras los resultados....
+
+¡Muchas felicidades a los ganadores! He acertado en algunas cosas: en el
+arte de Ultraviolet Grasslands, que A Pound of Flesh fuera ganadora en mejor
+aventura, y el premio a la cartografía de Trilemma Adventures; mientras que en
+otras me he llevado sorpresas, por ejemplo Mörk Borg ha desbancado a la 
+aventura para Mothership en Mejor maquetación y diseño, palabras mayores.
+
+Me alegro mucho de que la mayoría de juegos en solitario (A Thousand Year Old
+Vampire, Ironsworn: Delve) hayan sido premiados en alguna categoría; A Cool and
+Lonely Courage, aunque no ha ganado nada al menos ha sido nominado, que eso
+en sí ya es un exitazo. 
+
+El autor de A Thousand Year Old Vampire tiene que estar orgulloso por haber
+ganado en Mejores Reglas, eso dice mucho de cómo eres como diseñador, y también
+que halla ganado el Mejor valor de producción, eso a mí me dice que el precio
+es ajustado; y luego ya el  Producto del año (plata) es una barbaridad,
+enhorabuena otra vez.
+
+Para mí lo mejor de los Ennies es descubrir juegos nuevos, independientemente
+de quién gane o no, y me quedaré siempre con esto último.
+
 
 <hr>
 
