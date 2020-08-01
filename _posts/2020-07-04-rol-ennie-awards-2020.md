@@ -20,7 +20,7 @@ editoriales españolas.</small>
 
 ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200704-ennies/ennies-background.png)
 
-Los **[Premios ENnie](http://www.ennie-awards.com/blog/)** son unos galardones
+Los **[Premios ENnie](https://ennie-awards.com/2020-nominees/)** son unos galardones
 otorgados a los juegos de rol más destacados del año. Las editoriales pueden
 nominar los juegos que hayan publicado el año anterior (en este caso en 2019) y
 tras deliberar un jurado elige cinco juegos nominados en cada una de las

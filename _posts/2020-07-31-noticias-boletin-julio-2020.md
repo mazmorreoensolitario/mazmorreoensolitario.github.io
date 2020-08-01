@@ -409,7 +409,7 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
 ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200704-ennies/ennies-background.png)
 
 * Se
-  [han anunciado](http://www.ennie-awards.com/blog/2020-nominees-and-judges-spotlight-winners/)
+  [han anunciado](https://ennie-awards.com/2020-nominees/)
   las **nominaciones a los premios ENnie de 2020**. Entre los juegos en
   solitario nominados están **[A
   Cool and Lonely Courage](https://www.drivethrurpg.com/product/283986/A-Cool-and-Lonely-Courage?affiliate_id=1914894)**,

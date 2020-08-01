@@ -12,7 +12,7 @@ mejores juegos de rol que hayan salido durante el año anterior"
 ![](https://www.chaosium.com/product_images/uploaded_images/screen-shot-2018-07-05-at-1.14.27-am.png)
 
 Los
-**[ENnies](http://www.ennie-awards.com/blog/about-us/2019-nominations-and-winners/)**
+**[ENnies](https://ennie-awards.com/portfolio-item/2019-nominees-and-winners/)**
 son unos premios otorgados cada año en la [Gen Con](https://www.gencon.com/) a
 los mejores juegos de rol que hayan salido durante el año anterior. Las
 votaciones generales se hacen a través de un jurado popular y hay una sección
