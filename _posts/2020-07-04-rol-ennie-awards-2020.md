@@ -324,6 +324,8 @@ comentaré en la primera.
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.drivethrurpg.com/product/302021/Ultraviolet-Grasslands-and-the-Black-City?affiliate_id=1914894">The Ultraviolet Grasslands</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Medalla de plata!</strong></div>
         <p><strong>The Ultraviolet Grasslands</strong> (UVG) es un juego de rol
         con una ambientación fantástica y de ciencia ficción futurista
         que empezó solamente como ambientación y al que luego se le añadió
