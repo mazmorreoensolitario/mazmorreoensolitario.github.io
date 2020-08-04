@@ -147,9 +147,9 @@ src="https://cf.geekdo-images.com/imagepage/img/RDcf5CIYdb32CTci47ldkylJUJg=/fit
   de DVG nominado a los premios [Golden Geek de
   2018]({{site.baseurl}}/2019/03/28/noticias-golden-geek-awards-2018/). Pavlov's
   House es un juego de 1 a 3 jugadores que financió mediante Kickstarter y que
-  llegó a los mecenas en 2018. David Thompson, el autor de este jeugo, también
+  llegó a los mecenas en 2018. David Thompson, el autor de este juego, también
   ha participado en War Chest, Undaunted: Normandy y By Stealth and Sea, entre
-  otros juegos.
+  otros títulos.
 
   En la Segunda Guerra mundial, **Pavlov's House** (casa de Pavlov), fue un
   edificio de apartamentos fortificados que se usó como puesto defensivo por el
