@@ -318,7 +318,14 @@ Así pues, a medio camino entre lo mecánico y lo narrativo se encuentran:
   [NOSOLOROL](https://www.nosolorol.com/es/labyrinth-lord/452/labyrinth-lord-papel))
   para todo lo relacionado con la creación de personajes, reglas sobre magia,
   combate, movimiento etc. pero añaden su propio sistema para jugar en
-  solitario y una ambientación. En cuanto a la ambientación, en el caso de
+  solitario y una ambientación. Para jugar a Ruins y Mad Monks **necesitáis
+  Labyrinth Lord** (tiene una [versión
+  gratuita](https://www.drivethrurpg.com/product/64331/Labyrinth-Lord-Revised-Edition-noart-version?affiliate_id=1914894)
+  de las reglas básicas y otra [versión
+  gratuita](https://www.drivethrurpg.com/product/78524/Advanced-Edition-Companion-Labyrinth-Lord-noart-version?affiliate_id=1914894)
+  de las avanzadas).
+
+  En cuanto a la ambientación, en el caso de
   Ruins of the Undercity nos situamos en una ciudad en el desierto, y nuestros
   personajes hacen sus misiones en unas ruinas cercanas, mientras que en Mad
   Monks la ambientación es oriental y las misiones suceden en unas pagodas.
