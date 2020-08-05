@@ -575,7 +575,9 @@ estándar, solo que tienen reglas especiales para el juego en solitario:
    nos dan ideas para resolver situaciones que tradicionalmente decidiría sobre
    ellas el DM. 
   
-  ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200516-rol-como-empezar/ironsworn-hoja.png) 
+   <p align="center"><img
+   src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200516-rol-como-empezar/ironsworn-hoja.png">
+   </p>
   <p align="center"><small>Hoja de personaje en Ironsworn</small></p>
   
    No os puedo contar mucho más de este juego, ya que todavía sigue en mi lista
@@ -600,7 +602,9 @@ estándar, solo que tienen reglas especiales para el juego en solitario:
   hay un nuevo bestiario, más arquetipos, más magia, reglas para muchísimas más
   cosas ya que añade nuevos mecanismos...
   
-  ![](https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1585678108519-CBRGYYCRJZ2V9G0HYDTI/ke17ZwdGBToddI8pDm48kFBffkseagYn7mI_lqGhucB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua0lhRhdc7zM0rdkFZwl4rm_EydcEib8z0GPZ_xcr7vEj98zSYky2TCTwUpJT7udpA/image-asset.jpeg?format=500w)
+  <p align="center"><img
+  src="https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1585678108519-CBRGYYCRJZ2V9G0HYDTI/ke17ZwdGBToddI8pDm48kFBffkseagYn7mI_lqGhucB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua0lhRhdc7zM0rdkFZwl4rm_EydcEib8z0GPZ_xcr7vEj98zSYky2TCTwUpJT7udpA/image-asset.jpeg?format=500w">
+  </p>
   <p align="center"><small>Portada del futuro Narrative Playbook de Disciples
   of Bone & Shadow, sujeta a cambios</small></p>
   
@@ -654,7 +658,10 @@ que creo que les vaya a dar una oportunidad en el futuro:
   en las escenas de tu cuento (en la edición española además del libro tienes
   todo el material necesario para jugar).
   
-  ![](https://images.squarespace-cdn.com/content/v1/5d1dac1a1a7a2400017eeff0/1572242346650-96NYAA9P7M64S61WCD2M/ke17ZwdGBToddI8pDm48kGKbyQi7IvrYIA6oGql6dHR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UbxggNwZyS5NSaMJC6IdRO0ifkOS-iZctFlM7mVCp3UcOGt9VC43k9b4uVPZI91GgQ/Portada_Cuentos-de-animas.jpg?format=500w)
+  <p align="center">
+  <img
+  src="https://images.squarespace-cdn.com/content/v1/5d1dac1a1a7a2400017eeff0/1572242346650-96NYAA9P7M64S61WCD2M/ke17ZwdGBToddI8pDm48kGKbyQi7IvrYIA6oGql6dHR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UbxggNwZyS5NSaMJC6IdRO0ifkOS-iZctFlM7mVCp3UcOGt9VC43k9b4uVPZI91GgQ/Portada_Cuentos-de-animas.jpg?format=500w">
+  </p>
   <p align="center"><small>Portada de Cuentos de Ánimas, de El Refugio
   Editorial</small></p> 
   
