@@ -56,8 +56,4 @@ Muchas gracias, los beneficios irán a que me compre estos libros (y que en un
 futuro os hable de ellos) :) 
 
 * [Downcrawl](https://www.drivethrurpg.com/product/278571/Downcrawl?affiliate_id=1914894)
-* [Castle
-  Gargantua](https://www.drivethrurpg.com/product/149190/Castle-Gargantu?affiliate_id=1914894)
-* [Slumbering Ursine
-  Dunes](https://www.drivethrurpg.com/product/140450/Slumbering-Ursine-Dunes?affiliate_id=1914894)
-* [Woodfall](https://www.drivethrurpg.com/product/258469/Woodfall?affiliate_id=1914894)
+* [Hope](https://www.drivethrurpg.com/product/232710/Hope?affiliate_id=1914894)
