@@ -4,7 +4,9 @@ title: El rincón de los Print & Play
 permalink: /rincon-print-and-play/
 ---
 
-El género print 'n' play, imprime y juega, necesita un espacio dedicado en
+![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/core/pnp-banner.jpg)
+
+El género print 'n' play, **imprime y juega**, necesita un espacio dedicado en 
 nuestro blog. En este rincón analizamos los juegos que hemos imprimido y jugado.
 
 {% for category in site.categories %}
