@@ -25,6 +25,8 @@ saga de **Pathfinder Avdenture Card Game.**
 
 > **Nota importante:** no hay spoilers.
 
+> **También he hecho un [análisis del juego]({{site.baseurl}}/2020/04/26/analisis-pathfinder-adventure-card-game-mummys-mask/)**.
+
 ### El juego en el punto de mira
 
 <p align="center">
