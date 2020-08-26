@@ -496,7 +496,7 @@ juego es de 10.
 
 **El juego.**
 En cuanto a mi opinión sobre las sensaciones de juego, el juego es bueno, creo
-vque le falta algo para que las combinaciones de los efectos que tratas de crear
+que le falta algo para que las combinaciones de los efectos que tratas de crear
 con tus unidades y edificios puedan despegar del todo, y por muy bonito y
 familiar que parezca, es difícil de ganar. Y a su vez puedes controlar la
 dificultad a tu gusto.
