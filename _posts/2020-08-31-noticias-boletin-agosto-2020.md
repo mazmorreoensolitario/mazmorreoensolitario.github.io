@@ -180,7 +180,9 @@ además de un resumen de lo que nos espera en septiembre y octubre"
 
 * Siguiendo con **Board & Dice**, han desvelado también el nuevo juego de su
   franquicia: **[Tabannusi: Builders of
-  Ur](https://boardgamegeek.com/boardgame/316786/tabannusi-builders-ur)**. Tabannusi
+  Ur](https://boardgamegeek.com/boardgame/316786/tabannusi-builders-ur)**.
+  
+  Tabannusi
   es un juego de estrategia de 1 a 4 jugadores diseñado por Daniele Tascini y
   David Spada con un modo en solitario hecho por Tascini. De momento no tenemos
   más información, solo que **saldrá aproximadamente en 2022**.
@@ -424,6 +426,9 @@ rápido de **las campañas anunciadas para octubre**:
 * **[Lost in
   Jurassica](https://boardgamegeek.com/boardgame/318059/lost-jurassica)**, **1
   de octubre**.
+* **[Agrópolis](https://boardgamegeek.com/boardgame/314088/agropolis)**
+  (español, véase la tilde) y expansiones para **Expansiópolis**, **en Verkami
+  por octubre**, fecha sin concretar.
 * **Bios: Mesofauna**, **octubre**, fecha sin concretar.
 * **[Dungeon
   Universalis](https://boardgamegeek.com/boardgame/261393/dungeon-universalis)**,
