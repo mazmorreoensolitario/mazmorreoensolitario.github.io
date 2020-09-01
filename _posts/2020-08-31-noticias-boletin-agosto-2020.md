@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: agosto 2020"
 date: 2020-08-31
 categories: [Noticias]
-tags: ["Expansión", Undaunted, GMT Games, Set A Watch, Crazy Taco, Teotihuacán, Agropolis, Expansiópolis, Sprawlopolis, GenCon, Disciples of Bone and Shadow, "Darkest Dungeon: The Board Game", "Bios: Megafauna", "Bios: Mesofauna", "Marvel Champions: The Card Game", "Undaunted: North Africa", Cuentos de ánimas, English Eerie, The Wretched, A Thousand Year Old Vampire, "Ironsworn: Delve"]
+tags: [The 7th Citadel, "Expansión", Undaunted, GMT Games, Set A Watch, Crazy Taco, Teotihuacán, Agropolis, Expansiópolis, Sprawlopolis, GenCon, Disciples of Bone and Shadow, "Darkest Dungeon: The Board Game", "Bios: Megafauna", "Bios: Mesofauna", "Marvel Champions: The Card Game", "Undaunted: North Africa", Cuentos de ánimas, English Eerie, The Wretched, A Thousand Year Old Vampire, "Ironsworn: Delve"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200831-bis/boletin-informativo.png
 post_desc: "Boletín Informativo Solitario de agosto, donde tendréis un
 resumen de las noticias del mundillo de los juegos de mesa y rol en solitairo
@@ -11,6 +11,8 @@ además de un resumen de lo que nos espera en septiembre y octubre"
 ---
 
 ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200831-bis/boletin-informativo.png)
+
+<small><strong>Actualizado 1/09:</strong> se añade información sobre The 7th Citadel.</small>
 
  Bienvenid@s a la segunda entrega del **Boletín Informativo Solitario (BIS)**
  que trae puntualmente cada final de mes las noticias más destacadas de los
@@ -399,6 +401,20 @@ src="https://cf.geekdo-images.com/imagepage/img/JybWeBywyoOD6QaM4SA2AmyCaRI=/fit
 * **[Galactic Era](https://boardgamegeek.com/boardgame/281676/galactic-era)**
   es un juego de estrategia espacial con un énfasis en la exploración, la
   expansión y el combate.
+
+  Campaña de Kickstarter el **22 de septiembre**.
+  
+<p align="center">
+<img src="https://cf.geekdo-images.com/imagepage/img/90WSxFkQr4yeiJv-aCiAg-MrwlM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4889228.jpg"></p>
+  
+* **[The 7th Citadel](https://boardgamegeek.com/boardgame/286063/7th-citadel)**
+  es el siguiente juego de la editorial parisina [Serious
+  Poulp](https://www.seriouspoulp.com/), que utiliza el sistema de The 7th
+  Continent, añade nuevos elementos de juego y una historia y ambientación
+  completamente diferentes.
+  
+  Puedes leer mis impresiones tras una demo en Essen 2019 [en esta
+  entrada]({{site.baseurl}}/2019/10/24/demo-essen-spiel-2019-the-7th-citadel/).
 
   Campaña de Kickstarter el **22 de septiembre**.
   
