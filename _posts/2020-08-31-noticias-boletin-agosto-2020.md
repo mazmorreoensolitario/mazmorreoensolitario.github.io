@@ -565,7 +565,7 @@ src="https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1585
 src="https://www.drivethrurpg.com/images/11717/311334.png"></p>
 
 * **[The
-  Wretched](https://www.drivethrurpg.com/product/311334/The-Wretched??affiliate_id=1914894)**,
+  Wretched](https://www.drivethrurpg.com/product/311334/The-Wretched?affiliate_id=1914894)**,
   un juego de rol en solitario sobre supervivencia en una nave espacial,
   buscará financiación en Kickstarter el **1 de septiembre** para conseguir
   sacar una versión física del juego.
