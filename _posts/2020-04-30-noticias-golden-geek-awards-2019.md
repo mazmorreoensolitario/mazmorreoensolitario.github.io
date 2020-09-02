@@ -89,7 +89,7 @@ un pequeño comentario mio sobre el juego:
          jugador.
          </p>
          <p><strong>Devir</strong> ha publicado este juego en España, bajo el
-         nombre de <strong><a href="https://amzn.to/3hgeXdm">La
+         nombre de <strong><a href="zhttps://amzn.to/3hgeXdm">La
          Tripulación: En busca del noveno planeta</a></strong>.</p>
          <p><strong>Comentario.</strong> Esta es la primera sorpresa de los
          Golden Geeks, ya que este juego, que ni sabía que existía, tiene un
@@ -102,6 +102,7 @@ un pequeño comentario mio sobre el juego:
          tema, pero recordad que el modo en solitario es extraoficial y que por
          tanto la calidad del juego en solitario puede que no refleje las
          nominaciones que ha recibido por su modo de juego en multi.</p> 
+         <p><i><a href="https://amzn.to/3hgeXdm">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -136,6 +137,7 @@ un pequeño comentario mio sobre el juego:
          Kings</a>. Me gusta ver que otro de sus juegos ha llegado a estas
          nominaciones, pero por temática y mecanismos, a mí The Isle of Cats no
          es un juego que me interese mucho.</p> 
+         <p><i><a href="https://amzn.to/31NiY4a">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -186,6 +188,7 @@ un pequeño comentario mio sobre el juego:
          tenía un modo en solitario un poco "limitado", creo recordar que no se
          podía jugar la campaña, o algo pasaba, lo que hizo que en su momento
          lo descartara, sin embargo no me importaría nada poder jugarlo.</p>
+         <p><i><a href="https://amzn.to/3jD0ARo">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -375,6 +378,7 @@ un pequeño comentario mio sobre el juego:
          cuando hay sobreproducción y menos si repercute en aumentar el espacio
          de la caja.
          </p>
+         <p><i><a href="https://amzn.to/3gQTRBB">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -434,7 +438,8 @@ un pequeño comentario mio sobre el juego:
          temática muy diferente, y como es de engine building seguro que me
          gusta, pero posiblemente prefiera otro tipo de juegos igual que
          ligeros que este (salvo si tuviera una "Versión Europea", ver abajo mi
-        comentario sobre la expansión que también ha sido nominada).</p>
+         comentario sobre la expansión que también ha sido nominada).</p>
+         <p><i><a href="https://amzn.to/32MFt8x">Link de compra.</a></i></p>
     </div>
 </div>
 
@@ -1308,7 +1313,8 @@ por la comunidad.
         que Terraforming Mars, a mí me parece un supuesto bastante interesante,
         así que espero poder probar Underwater Cities en un futuro. Por otro
         lado me pone de los nervios tener unos tableros de jugador tan grandes
-        desperdiciando tanto espacio, así que ya veremos. </p> 
+        desperdiciando tanto espacio, así que ya veremos.</p> 
+        <p><i><a href="https://amzn.to/2ERuToT">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -1529,6 +1535,7 @@ solitario.*
         mí pierde mucho un juego cuando ponen fotos de los actores para los
         personajes (o versiones hiper-realistas) en vez de dibujos sacados de
         arte de la película o comics. No es un juego que vaya a probar.</p>
+        <p><i><a href="https://amzn.to/3bqHUBK">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -1598,6 +1605,7 @@ solitario.
          mucho pero no sé si lo terminaré jugando muchas veces, aunque la
          temática obviamente me guste. Si se lo puedo pedir a algún amigo
          durante un tiempo terminaré haciendo un análisis para el blog.</p>
+         <p><i><a href="https://amzn.to/352BfMC">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -1621,6 +1629,7 @@ solitario.
          serie COIN, y puede que este sea el que menos me interese jugar, hay
          otros que sí que quiero probar, aunque según dicen los más versados en
          estos juegos, hay que dedicarle bastante tiempo.</p>
+         <p><i><a href="https://amzn.to/2YRKdZt">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -1648,6 +1657,7 @@ solitario.
         componentes tienen una pinta genial. Me encantaría poder probarlo,
         tengo que leer las reglas aún, pero de buenas a primeras entra en mi
         lista de futuras adquisiciones de wargames.</p>
+         <p><i><a href="https://amzn.to/2YX6MvX">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -1671,6 +1681,7 @@ solitario.
         leerme un libro histórico sobre el conflicto, es una época muy
         interesante llena de historia, pero que en cuanto a sistema no sé yo si
         me gustaría. Aún tengo que leerme las reglas con más detalle.</p>
+        <p><i><a href="https://amzn.to/3jDqPaE">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -1698,6 +1709,7 @@ solitario.
         edición de Ardennes '44, del mismo autor, y me ha gustado el
         sistema. Este es un wargame que me gustaría jugar y además tiene un
         precio ajustado.</p>
+        <p><i><a href="https://amzn.to/34QOgci">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -1718,6 +1730,7 @@ solitario.
         objetivos y eliminando a los tanques enemigos.</p>
         <p><strong>Comentario.</strong> Creo que este es uno de los pocos
         juegos que tiene GMT que no me dice nada.</p>
+        <p><i><a href="https://amzn.to/2YWYS5C">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
@@ -1769,6 +1782,7 @@ solitario.
         href="https://boardgamegeek.com/boardgame/290359/undaunted-north-africa">Undaunted:
         North Africa</a></strong>, que como podéis intuir, se ambientará en el
         teatro de operaciones de Africa.</p>
+        <p><i><a href="https://amzn.to/32M4wZr">Link de compra.</a></i></p>
     </div>
 </div>
 <br>
