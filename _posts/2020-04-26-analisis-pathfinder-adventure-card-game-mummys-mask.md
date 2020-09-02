@@ -62,14 +62,7 @@ mazos ambientado en el universo de rol de Pathfinder"
 
 ### Información general
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49821523347/in/dateposted-public/"
-title="00-intro"><img
-src="https://live.staticflickr.com/65535/49821523347_a6f383352e_z.jpg"
-width="640" height="480" alt="00-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49821523347_a6f383352e_z.jpg"></p>
 <p align="center"><small>Algunas cartas del juego.</small></p>
 
 **[Pathfinder Adventure Card Game: Mummy's

@@ -62,14 +62,7 @@ el primer trimestre de 2019, y finalmente pude comprar el juego en Abril.
 
 ### Información general
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48207311152/in/dateposted-public/"
-title="00-intro"><img
-src="https://live.staticflickr.com/65535/48207311152_42f22ae33a_z.jpg"
-width="640" height="537" alt="00-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48207311152_42f22ae33a_z.jpg"></p>
 <p align="center"><small>Final de una partida en solitario a Reinos de
 Papel</small></p>
 
@@ -112,14 +105,7 @@ nuestra mejor combinación de estrategia y suerte para poder ganarle.
 
 ### Preparación
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48207310887/in/dateposted-public/"
-title="00-setup"><img
-src="https://live.staticflickr.com/65535/48207310887_0eaea661e7_z.jpg"
-width="640" height="553" alt="00-setup"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48207310887_0eaea661e7_z.jpg"></p>
 <p align="center"><small>Partida de Reinos de Papel en solitario
 preparada</small></p>
 
@@ -146,14 +132,7 @@ preparada</small></p>
   Nosotros elegimos jugar con una, así que colocamos una al azar al lado del
   marcador.
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/48207638887/in/dateposted-public/"
-  title="00-cartas-poder"><img
-  src="https://live.staticflickr.com/65535/48207638887_5d1131cacb_z.jpg"
-  width="584" height="640" alt="00-cartas-poder"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </p>
+  <p align="center"><img src="https://live.staticflickr.com/65535/48207638887_5d1131cacb_z.jpg"></p>
   <p align="center"><small>Las cuatro cartas de habilidades para el Rey
   Exánime</small></p>
   
@@ -166,14 +145,7 @@ preparada</small></p>
   y Villa, y elegimos tres edificios más al azar. De esta forma, podemos tener
   cinco o siete edificios disponibles para construir.
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/48207311172/in/dateposted-public/"
-  title="00-edificios"><img
-  src="https://live.staticflickr.com/65535/48207311172_b33c578fe8_z.jpg"
-  width="640" height="369" alt="00-edificios"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </p>
+  <p align="center"><img src="https://live.staticflickr.com/65535/48207311172_b33c578fe8_z.jpg"></p>
   <p align="center"><small>Diferentes construcciones disponibles en el
   juego</small></p>
   
@@ -206,14 +178,7 @@ habilidades se activan en la fase indicada por la carta y hay que tener en
 cuenta que las habilidades de las cartas siempre reemplazan las reglas del
 juego. 
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48207259276/in/dateposted-public/"
-title="08-ejemplo-habilidad"><img
-src="https://live.staticflickr.com/65535/48207259276_f5e223edeb_z.jpg"
-width="499" height="640" alt="08-ejemplo-habilidad"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48207259276_f5e223edeb_z.jpg"></p>
 <p align="center"><small>En este caso, el Espíritu de la Cueva tendría que
 morir, por tener una Ficha de Edad, sin embargo, la habilidad del Místico, nos
 permite mantener al Espíritu</small></p>
@@ -249,14 +214,7 @@ Estas son las fases que constituyen una partida:
 
 ##### 1. Reclutamiento
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48207259896/in/dateposted-public/"
-title="01-reclutamiento"><img
-src="https://live.staticflickr.com/65535/48207259896_92085ffd10_z.jpg"
-width="640" height="470" alt="01-reclutamiento"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48207259896_92085ffd10_z.jpg"></p>
 <p align="center"><small>Hemos reclutado las unidades que se ven a la
 izquierda, a la derecha se ve el Inframundo</small></p>
 
@@ -286,14 +244,7 @@ no elijamos va a dar puntos al Rey o no.
 
 ##### 2. Despliegue
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48207309837/in/dateposted-public/"
-title="02-despliegue"><img
-src="https://live.staticflickr.com/65535/48207309837_b1fb2ee9f3_z.jpg"
-width="640" height="476" alt="02-despliegue"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48207309837_b1fb2ee9f3_z.jpg"></p>
 <p align="center"><small>Hemos pagado 1 de Oro para sacar al Minero,
 quedándonos con 2 Oros. El resto de unidades son gratis. Hemos guardado al
 Arquero para la siguiente ronda</small></p>
@@ -309,27 +260,13 @@ resto de unidades son descartadas.
 En la fase de despliegue hay que tener en cuenta que sólo las unidades de la
 línea superior pueden atacar.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48207310127/in/dateposted-public/"
-title="06-despliegue-con-5"><img
-src="https://live.staticflickr.com/65535/48207310127_a7b0b7a9ab_z.jpg"
-width="640" height="480" alt="06-despliegue-con-5"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48207310127_a7b0b7a9ab_z.jpg"></p>
 <p align="center"><small>En un estado avanzado de la partida podremos desplegar
 tres unidades el la línea de arriba y dos en la de abajo</small></p>
 
 ##### 3. Guerras
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48207310532/in/dateposted-public/"
-title="03-guerra"><img
-src="https://live.staticflickr.com/65535/48207310532_2a4cc0a3c0_z.jpg"
-width="640" height="495" alt="03-guerra"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48207310532_2a4cc0a3c0_z.jpg"></p>
 <p align="center"><small>Primera guerra contra el Rey Exánime</small></p>
 
 Aquí tendremos la oportunidad de luchar contra los ejércitos del Rey Exánime,
@@ -347,14 +284,7 @@ Tenemos que comparar nuestra fuerza de ataque contra la de los ejércitos del
 Rey, si ganamos o empatamos, obtenemos 3 Puntos Leyenda, el Rey Exánime, por su
 parte, obtiene 1 Punto Leyenda al ganar o empatar.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48207310432/in/dateposted-public/"
-title="03-resultados-guerra"><img
-src="https://live.staticflickr.com/65535/48207310432_7edc13e108_z.jpg"
-width="640" height="472" alt="03-resultados-guerra"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48207310432_7edc13e108_z.jpg"></p>
 <p align="center"><small>Resultado de la primera fase de Guerra. Hemos ganado
 una guerra y perdido otra, por lo que ganamos 3 puntos y el Rey Exánime gana 1
 </small></p>
@@ -371,14 +301,7 @@ Ganamos dos oros.
 
 ##### 5. Construcción 
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48207259661/in/dateposted-public/"
-title="04-construcción"><img
-src="https://live.staticflickr.com/65535/48207259661_425227c543_z.jpg"
-width="640" height="473" alt="04-construcción"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48207259661_425227c543_z.jpg"></p>
 <p align="center"><small><strong>Ejemplo de construcción de
 edificio.</strong> Para construir el
 edificio en nivel 2 necesitamos 2 de Madera y 1 de Mineral (1 de Madera por el
@@ -402,6 +325,7 @@ nivel 2.
     conseguir un tercero necesitamos 4 de oro y pagar los recursos que requiera
     el edificio.
     
+    <p align="center"><img src=""></p>
     <p align="center">
     <a data-flickr-embed="true"
     href="https://www.flickr.com/photos/165706612@N02/48207259331/in/dateposted-public/"
@@ -423,14 +347,7 @@ nivel 2.
 
 ##### 6. Envejecimiento
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48207259571/in/dateposted-public/"
-title="05-envejecimiento"><img
-src="https://live.staticflickr.com/65535/48207259571_58a1fb7116_z.jpg"
-width="583" height="640" alt="05-envejecimiento"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48207259571_58a1fb7116_z.jpg"></p>
 <p align="center"><small>Las unidades que tienen una Ficha de Edad
 mueren, en este ejemplo, el Veterano es descartado por tener una Ficha de
 Edad</small></p>
@@ -442,14 +359,7 @@ Avanzamos el Marcador de Ronda a la siguiente carta de Necrópolis. Si no hemos
 llegado a la **Ronda Final** (una F en la carta de Necrópolis), empezamos una
 nueva ronda en la Fase de Reclutamiento.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48207310207/in/dateposted-public/"
-title="05-fin-ronda-1"><img
-src="https://live.staticflickr.com/65535/48207310207_76be2f4c92_z.jpg"
-width="640" height="593" alt="05-fin-ronda-1"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48207310207_76be2f4c92_z.jpg"></p>
 <p align="center"><small>Final de la primera ronda, el resto de unidades han
 recibido una Ficha de Edad</small></p>
 
@@ -462,14 +372,7 @@ Quién haya obtenido más puntos gana el juego.
 
 ### Opinión
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48207260281/in/dateposted-public/"
-title="00-outro"><img
-src="https://live.staticflickr.com/65535/48207260281_bb02f89ba4_z.jpg"
-width="640" height="480" alt="00-outro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48207260281_bb02f89ba4_z.jpg"></p>
 <p align="center"><small>Cartas de edificio colocadas a lo "vamos a intentar
 alinear las cartas como el grid de guía de la cámara"... con algo de
 éxito</small></p>

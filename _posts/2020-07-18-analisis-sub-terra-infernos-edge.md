@@ -76,7 +76,6 @@ title="00-intro"><img
 src="https://live.staticflickr.com/65535/50126161013_f3bf83042c_c.jpg"
 width="800" height="389" alt="00-intro"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<p align="center"><small></small></p>
 
 **[Sub Terra II: Inferno's
 Edge](https://boardgamegeek.com/boardgame/281258/sub-terra-ii-infernos-edge)**

@@ -69,14 +69,7 @@ falta terraformar un planeta terriblemente frío, seco y casi sin atmósfera."
 
 ### Información general
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48738012457/in/dateposted-public/"
-title="IMG_2470"><img
-src="https://live.staticflickr.com/65535/48738012457_f3ecb5f7b9_z.jpg"
-width="640" height="480" alt="IMG_2470"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48738012457_f3ecb5f7b9_z.jpg"></p>
 <p align="center"><small>Los vibrantes colores de Terraforming Mars</small></p>
 
 *La Tierra está superpoblada y los recursos cada vez son más escasos. La
@@ -133,14 +126,7 @@ línea de forma convexa[^1]; una curva hacia arriba tipo montaña) y de
 *acción/efecto repetido* (las azules, tienen la línea en forma cóncava[^2]; 
 una curva hacia abajo como un vaso).
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48737830926/in/dateposted-public/"
-title="IMG_2461"><img
-src="https://live.staticflickr.com/65535/48737830926_7a0af04143_z.jpg"
-width="640" height="597" alt="IMG_2461"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48737830926_7a0af04143_z.jpg"></p>
 <p align="center"><small>Cartas de proyecto</small></p>
 
 En estas cartas de proyecto tenemos la siguiente **información común:**
@@ -187,14 +173,7 @@ minerales* no requiere que paguemos nada (salvo el coste de la carta en sí), y
 en cada generación podremos gastar 4 unidades de energía para conseguir 1 de
 titanio e incrementar el nivel de oxígeno 1 nivel.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48738012827/in/dateposted-public/"
-title="IMG_2459"><img
-src="https://live.staticflickr.com/65535/48738012827_6d89395c30_z.jpg"
-width="640" height="469" alt="IMG_2459"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48738012827_6d89395c30_z.jpg"></p>
 <p align="center"><small>Tablero del jugador. De izquierda a derecha y de
 arriba a abajo: megacréditos, acero, titanio, plantas, energía y
 calor.</small></p>
@@ -254,14 +233,7 @@ Con todo esto ya tenéis la preparación necesaria para entender mejor el juego.
 
 ### Preparación
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48737831196/in/dateposted-public/"
-title="IMG_2458"><img
-src="https://live.staticflickr.com/65535/48737831196_4409f225d8_z.jpg"
-width="640" height="527" alt="IMG_2458"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48737831196_4409f225d8_z.jpg"></p>
 <p align="center"><small>Tablero de Terraforming Mars preparado para jugar. Los
 cubos blancos están colocados en la generación 14, donde se indica con la
 palabra "Solo"; en el nivel de 0% de oxígeno, y en el nivel de -30ºC. Los nueve
@@ -302,28 +274,14 @@ jugador:
   habilidades que nos ofrece cada corporación y las cartas que hemos robado
   elegimos la más conveniente.
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/48738012547/in/dateposted-public/"
-  title="IMG_2463"><img
-  src="https://live.staticflickr.com/65535/48738012547_11c4229b4b_z.jpg"
-  width="640" height="584" alt="IMG_2463"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </p>
+  <p align="center"><img src="https://live.staticflickr.com/65535/48738012547_11c4229b4b_z.jpg"></p>
   <p align="center"><small>Diferentes corporaciones que quieren terraformar
   Marte</small></p>
   
 Las corporaciones nos indican con cuántos fondos empezamos la partida, además
 de posibles valores de producción de distintos recursos, en base a esto:
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48737831006/in/dateposted-public/"
-title="IMG_2460"><img
-src="https://live.staticflickr.com/65535/48737831006_b8959d98e3_z.jpg"
-width="577" height="640" alt="IMG_2460"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48737831006_b8959d98e3_z.jpg"></p>
 <p align="center"><small>Jugando con la corporación <i>Producciones
 Interplanetarias</i> el tablero del jugador empieza de esta forma</small></p>
 
@@ -356,14 +314,7 @@ Finalmente,
 
 ### Empezando a jugar
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48737504223/in/dateposted-public/"
-title="IMG_2472"><img
-src="https://live.staticflickr.com/65535/48737504223_867e285fca_z.jpg"
-width="640" height="480" alt="IMG_2472"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48737504223_867e285fca_z.jpg"></p>
 <p align="center"><small>Marte terraformado</small></p>
 
 En Terraforming Mars contamos con 14 generaciones (rondas) para conseguir
@@ -403,13 +354,7 @@ generaciones (rondas):
    y si es de efecto/acción inmediato, la colocaremos en otra pila de forma que
    su palo esté visible.
    
-    <p align="center">
-    <a data-flickr-embed="true"
-    href="https://www.flickr.com/photos/165706612@N02/48737830841/in/dateposted-public/"
-    title="IMG_2462"><img
-    src="https://live.staticflickr.com/65535/48737830841_4b2214e3ff_z.jpg"
-    width="640" height="468" alt="IMG_2462"></a><script async
-    src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <p align="center"><img src="https://live.staticflickr.com/65535/48737830841_4b2214e3ff_z.jpg"></p>
     <p align="center"><small>Ejemplo del tablero de juego de un jugador con su
     espacio de juego</small></p>
     
@@ -430,14 +375,7 @@ Estas fases se repiten hasta la catorceava generación.
 
 ### Opinión
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48738014567/in/dateposted-public/"
-title="IMG_2471"><img
-src="https://live.staticflickr.com/65535/48738014567_16dd5a18fd_z.jpg"
-width="480" height="640" alt="IMG_2471"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48738014567_16dd5a18fd_z.jpg"></p>
 <p align="center"><small>Magnífica carta que permite colocar océanos a razón de
 8 megacréditos y ¡puedes pagar con acero! y ¡la carta no tiene
 requisitos!</small></p> 

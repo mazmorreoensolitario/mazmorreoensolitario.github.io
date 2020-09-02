@@ -59,16 +59,8 @@ y ambientación completamente diferentes."
 
 ### The 7th Citadel
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48954342768/in/dateposted-public/"
-title="00-inicio"><img
-src="https://live.staticflickr.com/65535/48954342768_df40eb7cce_z.jpg"
-width="640" height="465" alt="00-inicio"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48954342768_df40eb7cce_z.jpg"></p>
 <p align="center"><small>Una nueva aventura nos espera</small></p>
-
 
 [**The 7th Citadel**](https://boardgamegeek.com/boardgame/286063/7th-citadel)
 es el siguiente juego de la editorial parisina [Serious Poulp](https://www.seriouspoulp.com/), 
@@ -99,15 +91,7 @@ vivido.
 
 ### ¿De qué va el juego?
 
-
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48954897666/in/dateposted-public/"
-title="01-historia"><img
-src="https://live.staticflickr.com/65535/48954897666_463512ebb4_z.jpg"
-width="480" height="640" alt="01-historia"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48954897666_463512ebb4_z.jpg"></p>
 <p align="center"><small>Un pequeño libro nos cuenta cómo comienza nuestra
 aventura</small></p>
 
@@ -128,16 +112,8 @@ representa el lugar donde comienza la aventura)...
 
 ### La demo
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48954343383/in/dateposted-public/"
-title="02-personaje-1"><img
-src="https://live.staticflickr.com/65535/48954343383_ee1983fd70_z.jpg"
-width="640" height="373" alt="02-personaje-1"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48954343383_ee1983fd70_z.jpg"></p>
 <p align="center"><small>Mi preparación terminada</small></p>
-
 
 En la demo, que jugué con otras dos personas, teníamos que elegir cada uno a un
 personaje de los cuatro disponibles, y en palabras de Sautter representaban a
@@ -151,14 +127,7 @@ habilidades especiales de cada personaje. Este mazo **podremos confeccionarlo
 nosotros** hasta cierto punto al inicio de la aventura (en la demo nos los daban
 hechos).
 
-
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48954897376/in/dateposted-public/"
-title="02-personaje-2"><img
-src="https://live.staticflickr.com/65535/48954897376_cef83b44b6_z.jpg"
-width="617" height="640" alt="02-personaje-2"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48954897376_cef83b44b6_z.jpg"></p>
 <p align="center"><small>Mi personaje con su dial de vida</small></p>
 
 Otra diferencia destacable es **la gestión de los puntos de vida**, ya
@@ -179,14 +148,7 @@ Continent)...
 
 **La siguiente foto puede contener spoilers (exploración).**
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48955083527/in/dateposted-public/"
-title="03-exploracion-1"><img
-src="https://live.staticflickr.com/65535/48955083527_2463676d06_z.jpg"
-width="640" height="407" alt="03-exploracion-1"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48955083527_2463676d06_z.jpg"></p>
 <p align="center"><small>Explorando en The 7th Citadel</small></p>
 
 Durante la exploración de nuestra aventura podremos conseguir **cartas que
@@ -210,14 +172,7 @@ la loseta en la que está ocurriendo el combate.
 
 **La siguiente foto puede contener spoilers (foto de un monstruo).**
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48954344188/in/dateposted-public/"
-title="04-combate"><img
-src="https://live.staticflickr.com/65535/48954344188_08ba4027bf_z.jpg"
-width="573" height="640" alt="04-combate"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48954344188_08ba4027bf_z.jpg"></p>
 <p align="center"><small>El primer enemigo... ¿es musgo mutante?</small></p>
 
 La vida del monstruo viene dada en la carta de monstruo y está representada por
@@ -234,14 +189,7 @@ acción de combate.
 
 **La siguiente foto puede contener spoilers (foto de exploración).**
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48955082852/in/dateposted-public/"
-title="04-gameplay"><img
-src="https://live.staticflickr.com/65535/48955082852_677d5a4f1c_z.jpg"
-width="640" height="480" alt="04-gameplay"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48955082852_677d5a4f1c_z.jpg"></p>
 <p align="center"><small>Una compañera de demo ejecutando la acción de
 conversar</small></p>
 
@@ -257,14 +205,7 @@ conversar</small></p>
 
 **La siguiente foto puede contener spoilers (foto de exploración).**
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48955082447/in/dateposted-public/"
-title="05-exploracion-2"><img
-src="https://live.staticflickr.com/65535/48955082447_d72da5abac_z.jpg"
-width="640" height="480" alt="05-exploracion-2"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48955082447_d72da5abac_z.jpg"></p>
 <p align="center"><small>Tras finalizar la demo</small></p>
 
 ### Sensaciones
