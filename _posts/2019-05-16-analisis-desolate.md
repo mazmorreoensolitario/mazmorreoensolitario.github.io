@@ -62,14 +62,7 @@ estación."
 
 ### Información general
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/47811713842/in/dateposted-public/"
-title="00-intro"><img
-src="https://live.staticflickr.com/65535/47811713842_6db8c4f111_z.jpg"
-width="640" height="480" alt="00-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/47811713842_6db8c4f111_z.jpg"></p>
 <p align="center"><small>Desolate con expansiones desplegado en la
 mesa</small></p>
 
@@ -133,14 +126,8 @@ mecánicas abajo en una sección específica.
 
 ### Preparación
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/47811713412/in/dateposted-public/"
-title="0-setup"><img
-src="https://live.staticflickr.com/65535/47811713412_650694e651_z.jpg"
-width="640" height="382" alt="0-setup"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+
+<p align="center"><img src="https://live.staticflickr.com/65535/47811713412_650694e651_z.jpg"></p>
 <p align="center"><small>Partida de Desolate preparada para jugar</small></p>
 
 * Dejamos los cinco cubitos verdes, que representan las Células de Energía a
@@ -167,16 +154,8 @@ forma:
 
 2. Revelamos una carta, decidimos si la queremos resolver o no.
 
-   <p align="center">
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/40897379643/in/dateposted-public/"
-   title="01-explorar-1"><img
-   src="https://live.staticflickr.com/65535/40897379643_8c9a23b18c_z.jpg"
-   width="640" height="321" alt="01-explorar-1"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-   </p>
+   <p align="center"><img src="https://live.staticflickr.com/65535/40897379643_8c9a23b18c_z.jpg"></p>
    <p align="center"><small>En esta ronda hemos encontrado un alien</small></p>
-
    
    * Si queremos resolverla, descartamos boca abajo (sin ver la carta) la
    segunda carta de Exploración.
@@ -185,14 +164,7 @@ forma:
    
 3. Resolvemos la carta que hayamos elegido (ver *Resolución de cartas* abajo).
 
-    <p align="center">
-    <a data-flickr-embed="true"
-    href="https://www.flickr.com/photos/165706612@N02/47074471204/in/dateposted-public/"
-    title="01-explorar-2"><img
-    src="https://live.staticflickr.com/65535/47074471204_5ec9a66a6c_z.jpg"
-    width="640" height="291" alt="01-explorar-2"></a><script async
-    src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-    </p>
+    <p align="center"><img src="https://live.staticflickr.com/65535/47074471204_5ec9a66a6c_z.jpg"></p>
     <p align="center"><small>Como el alien no nos parecía una buena opción
     hemos decidido resolver la otra Habitación, que ¡tachán! resulta que es la
     Habitación de Ingeniería, la que nos da una Célula de Energía</small></p>
@@ -221,20 +193,7 @@ alienígena. El combate lo resolveremos de la siguiente forma:
    alien. Marcamos su vida poniendo dos dados negros encima de la carta de
    Conflicto. 
    
-   <p align="center">
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/40897379253/in/dateposted-public/"
-   title="02-conflicto-0"><img
-   src="https://live.staticflickr.com/65535/40897379253_fb0aa860fc_z.jpg"
-   width="640" height="335" alt="02-conflicto-0"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/40897378993/in/dateposted-public/"
-   title="02-conflicto-1"><img
-   src="https://live.staticflickr.com/65535/40897378993_88380fb85d_z.jpg"
-   width="640" height="360" alt="02-conflicto-1"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-   </p>
+   <p align="center"><img src="https://live.staticflickr.com/65535/40897379253_fb0aa860fc_z.jpg"></p>
    <p align="center"><small>Tenemos que resolver un conflicto con el
    alien. La carta de conflicto de la derecha nos indica que el alien nos hace
    3 de daño (3 Damage!). En
@@ -250,14 +209,7 @@ alienígena. El combate lo resolveremos de la siguiente forma:
    alien el daño que le hayamos ocasionado y actualizamos los dados negros que
    marcan su nivel de vida.
    
-   <p align="center">
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/47863908221/in/dateposted-public/"
-   title="02-conflicto-2"><img
-   src="https://live.staticflickr.com/65535/47863908221_6c132b529d_z.jpg"
-   width="640" height="396" alt="02-conflicto-2"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-   </p>
+   <p align="center"><img src="https://live.staticflickr.com/65535/47863908221_6c132b529d_z.jpg"></p>
    <p align="center"><small>Hacemos una tirada de dos dados, que nos cuesta 2
    de Munición. La tirada da un resultado de 7, con lo cual, el alien no muere
    y queda con 1 de vida</small></p>
@@ -272,14 +224,7 @@ alienígena. El combate lo resolveremos de la siguiente forma:
      daño descartamos esa carta de Conflicto y volvemos a atacar (empieza otra
      vez el punto 2).
      
-     <p align="center">
-     <a data-flickr-embed="true"
-     href="https://www.flickr.com/photos/165706612@N02/46947718035/in/dateposted-public/"
-     title="02-conflicto-3"><img
-     src="https://live.staticflickr.com/65535/46947718035_993fce2990_z.jpg"
-     width="640" height="561" alt="02-conflicto-3"></a><script async
-     src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-     </p>
+     <p align="center"><img src="https://live.staticflickr.com/65535/46947718035_993fce2990_z.jpg"></p>
      <p align="center"><small>La nueva carta de Conflicto girada nos dice que
      el alien nos hace 3 de daño</small></p>
 
@@ -292,14 +237,7 @@ alienígena. El combate lo resolveremos de la siguiente forma:
    en el otro caso, elegimos solo uno como recompensa. Una vez elegida la
    recompensa descartamos la carta de Exploración (boca abajo siempre).
    
-   <p align="center">
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/47863907931/in/dateposted-public/"
-   title="02-conflicto-4"><img
-   src="https://live.staticflickr.com/65535/47863907931_8a8afbd74c_z.jpg"
-   width="640" height="462" alt="02-conflicto-4"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-   </p>
+   <p align="center"><img src="https://live.staticflickr.com/65535/47863907931_8a8afbd74c_z.jpg"></p>
    <p align="center"><small>El alien que acabamos de derrotar tiene una caja
    pequeña, por lo que en la nueva carta de Exploración que hemos robado y
    girado, podremos decidir si quedarnos con el paquete de medicinas o con la
@@ -317,14 +255,7 @@ especiales introducidas por mecánicas de las expansiones.
 
 ### Sobre las expansiones Dark Matters 1 y 2
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/47074469164/in/dateposted-public/"
-title="06-personajes"><img
-src="https://live.staticflickr.com/65535/47074469164_d34b187fff_z.jpg"
-width="640" height="271" alt="06-personajes"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/47074469164_d34b187fff_z.jpg"></p>
 <p align="center"><small>Personajes que vienen en las expansiones</small></p>
 
 En ambas expansiones se añaden 17 cartas, ahora os detallo lo que tiene cada
@@ -342,14 +273,7 @@ resultados de 6 en tus tiradas de combate o cuando abres Cajas de recompensa
 deberás elegir la que tiene menos) que puedes acumular.
 
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/47074469624/in/dateposted-public/"
-title="04-aflicciones"><img
-src="https://live.staticflickr.com/65535/47074469624_d1c3802ddc_z.jpg"
-width="640" height="400" alt="04-aflicciones"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/47074469624_d1c3802ddc_z.jpg"></p>
 <p align="center"><small>Las cuatro cartas de Aflicción que contiene Dark
    Matters 1</small></p>
 
@@ -366,27 +290,13 @@ lo que no hay que descartar los objetos que nos hayan sobrado en la
 preparación. Además, añade una carta con la imagen de una nave espacial con
 cinco huecos libres, se usa para almacenar ahí las Células de Energía. 
 
-   <p align="center">
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/46947717035/in/dateposted-public/"
-   title="05-nave"><img
-   src="https://live.staticflickr.com/65535/46947717035_92e7b0cc69_z.jpg"
-   width="640" height="498" alt="05-nave"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-   </p>
+   <p align="center"><img src="https://live.staticflickr.com/65535/46947717035_92e7b0cc69_z.jpg"></p>
    <p align="center"><small>En Desolate tratamos de conseguir Células de
    Energía para que funcione esta nave</small></p>
 
 ### Opinión
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/40897380183/in/dateposted-public/"
-title="00-outro"><img
-src="https://live.staticflickr.com/65535/40897380183_8a4ec404b3_z.jpg"
-width="640" height="444" alt="00-outro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/40897380183_8a4ec404b3_z.jpg"></p>
 <p align="center"><small>Haciendo nuevos inventos fotográficos con una lente de
 ojo de pez</small></p>
 

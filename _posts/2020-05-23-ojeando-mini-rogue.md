@@ -74,14 +74,7 @@ misterioso artefacto que se rumorea ser un rubí extraordinario."
 
 ### Mini Rogue
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49926000651/in/dateposted-public/"
-title="00-intro"><img
-src="https://live.staticflickr.com/65535/49926000651_8edc09e60f_c.jpg"
-width="800" height="600" alt="00-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49926000651_8edc09e60f_c.jpg"></p>
 <p align="center"><small>Foto artística de Mini Rogue</small></p>
 
 
@@ -108,14 +101,7 @@ concurso 9 Card Game Print & Play Contest de Board Game Geek,
 
 ### ¿Cómo se juega?
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49926012541/in/dateposted-public/"
-title="02-tableros"><img
-src="https://live.staticflickr.com/65535/49926012541_a749665c6a_c.jpg"
-width="800" height="458" alt="02-tableros"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49926012541_a749665c6a_c.jpg"></p>
 <p align="center"><small>Tablero de personaje a la izquierda y tablero del mapa
 de la mazmorra a la derecha, en medio se encuentran la carta de ayuda y del
 personaje</small></p>
@@ -133,14 +119,7 @@ sirve para medir la experiencia, vida, dinero, pociones y nivel de armadura que
 tiene el personaje, finalmente, el área de la mazmorra representa lo que está
 explorando nuestro personaje.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49926298747/in/dateposted-public/"
-title="03-area-2"><img
-src="https://live.staticflickr.com/65535/49926298747_e4cfb28d9d_c.jpg"
-width="800" height="660" alt="03-area-2"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49926298747_e4cfb28d9d_c.jpg"></p>
 <p align="center"><small>Área de la mazmorra actual en una cuadrícula de 3x3,
 las cartas de habitación que nos sobran se ignoran para el área actual</small></p>
 
@@ -159,14 +138,7 @@ la mazmorra y consumiremos comida, si no tenemos comida, perderemos vida;
 cuando estas escaleras estarán custodiadas por el jefe del área, lo
 tendremos que derrotar para seguir explorando la mazmorra.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49926000626/in/dateposted-public/"
-title="03-area-3"><img
-src="https://live.staticflickr.com/65535/49926000626_1b75ef1ea5_c.jpg"
-width="800" height="712" alt="03-area-3"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49926000626_1b75ef1ea5_c.jpg"></p>
 <p align="center"><small>Explorando la mazmorra. Hemos empezado en la carta de
 trampa de arriba a la izquierda, y tras resolverla podremos elegir ir a la de
 la derecha (un cuervo) o a la hoguera (abajo)</small></p>
@@ -175,14 +147,7 @@ Cuando hayamos bajado a otra zona de la mazmorra, recogeremos todas las cartas
 (salvo el montón de abajo a la izquierda, que son los monstruos de área),
 las exploradas y no exploradas, barajaremos y crearemos otra cuadrícula.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49926298837/in/dateposted-public/"
-title="05-cartas"><img
-src="https://live.staticflickr.com/65535/49926298837_8b1aa3e1b0_c.jpg"
-width="800" height="547" alt="05-cartas"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49926298837_8b1aa3e1b0_c.jpg"></p>
 <p align="center"><small>Diferentes cartas de Mini Rogue</small></p>
 
 Antes de movernos de una carta a otra tendremos que resolver la carta actual,
@@ -232,14 +197,7 @@ Cuando nos encontremos contra algún monstruo o jefe de área entraremos en
 hace de atinar su ataque, además algunos monstruos podrán ignorar nuestra
 armadura, nos envenenarán o nos podrán maldecir.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49925481723/in/dateposted-public/"
-title="04-jefes"><img
-src="https://live.staticflickr.com/65535/49925481723_5ddff8f7b9_c.jpg"
-width="800" height="598" alt="04-jefes"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49925481723_5ddff8f7b9_c.jpg"></p>
 <p align="center"><small>Los monstruos finales</small></p>
 
 En el combate tiraremos los dados de nuestro personaje (empezamos con 1 dado,
@@ -271,17 +229,9 @@ diferencias ya que el juego ha sido aumentado:
   empieza con diferentes cantidades de dinero y comida, tiene unos puntos de
   vida específicos y un par de habilidades. 
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/49926061371/in/dateposted-public/"
-  title="04-personajes"><img
-  src="https://live.staticflickr.com/65535/49926061371_23ccd04acf_c.jpg"
-  width="800" height="561" alt="04-personajes"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </p>
+  <p align="center"><img src="https://live.staticflickr.com/65535/49926061371_23ccd04acf_c.jpg"></p>
   <p align="center"><small>Los dos personajes disponibles en la versión de
   demo</small></p>
-
   
   En un principio tenemos dos: la pícara y el mago, pero se podrán desbloquear
   hasta cuatro por stretch goals.
@@ -312,14 +262,7 @@ diferencias ya que el juego ha sido aumentado:
 
 ### Sensaciones
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49925481673/in/dateposted-public/"
-title="01-setup"><img
-src="https://live.staticflickr.com/65535/49925481673_3ba7854633_c.jpg"
-width="800" height="521" alt="01-setup"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49925481673_3ba7854633_c.jpg"></p>
 <p align="center"><small>Una partida en progreso</small></p>
 
 Uno de los "miedos" que pueden asaltarte cuando van a sacar una nueva versión

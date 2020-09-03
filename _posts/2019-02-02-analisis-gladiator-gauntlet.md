@@ -115,12 +115,7 @@ diferenciar nuestros dados de los del enemigo y cuatro marcadores.
   Nosotros elegimos dados *azules* para nuestro gladiador y dados *amarillos*
   para los enemigos.
   
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/46236543614/in/dateposted-public/"
-  title="00-preparacion"><img
-  src="https://farm8.staticflickr.com/7873/46236543614_07bee0df33_c.jpg"
-  width="800" height="341" alt="00-preparacion"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+  <p align="center"><img src="https://farm8.staticflickr.com/7873/46236543614_07bee0df33_c.jpg"></p>
   <p align="center"><small>Preparación de Gladiator Gauntlet</small></p>
   
 * Finalmente elegimos nuestra dificultad, que únicamente sirve para especificar
@@ -137,14 +132,8 @@ fases:
 
 #### 1. Fase de robo de cartas de enemigo
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/46236598054/in/dateposted-public/"
-title="02-primera-ronda"><img
-src="https://farm5.staticflickr.com/4906/46236598054_29ec715387_c.jpg"
-width="800" height="603" alt="02-primera-ronda"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm5.staticflickr.com/4906/46236598054_29ec715387_c.jpg"></p>
 <p align="center"><small>Enemigos de la primera ronda</small></p>
-
 
 El título dice todo, miraremos en qué ronda estamos en la carta de Ronda, y
 esta carta nos dirá la cantidad de enemigos que tenemos que desvelar.
@@ -164,12 +153,7 @@ los Gladiadores enemigos en el orden en el que hayan salido (nos guste o no).
 
 #### 2. Fase de evento
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/46960998981/in/dateposted-public/"
-title="04-eventos-y-tacticas"><img
-src="https://farm5.staticflickr.com/4850/46960998981_77a1c26725_c.jpg"
-width="800" height="570" alt="04-eventos-y-tacticas"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm5.staticflickr.com/4850/46960998981_77a1c26725_c.jpg"></p>
 <p align="center"><small>Carta de Eventos a la izquierda y de Tácticas a la
 derecha</small></p>
 
@@ -200,12 +184,7 @@ siguiente hasta que terminemos (o termine con nosotros) el enemigo actual.
    decir, dos parejas de un dado nuestro y otro dado del enemigo, que sean los
    más bajos y los más altos respectivamente.
    
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/46960999131/in/dateposted-public/"
-   title="03-ejemplo-combate-ganado"><img
-   src="https://farm5.staticflickr.com/4875/46960999131_5f010a787d_c.jpg"
-   width="800" height="553" alt="03-ejemplo-combate-ganado"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+   <p align="center"><img src="https://farm5.staticflickr.com/4875/46960999131_5f010a787d_c.jpg"></p>
    <p align="center"><small>Ejemplo de combate contra Mvrmillo. Nosotros somos
    los dados azules y el enemigo los amarillos</small></p>
 
@@ -266,12 +245,7 @@ perder 1 de Gloria en cada encuentro que tengamos con ese Gladiador. Estas
 habilidades son acumulativas con el efecto que esté en juego durante esta ronda
 (el que marca la carta de Eventos).
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/46960999141/in/dateposted-public/"
-title="03-ejemplo-combate-empate"><img
-src="https://farm5.staticflickr.com/4809/46960999141_33a5689c05_z.jpg"
-width="633" height="438" alt="03-ejemplo-combate-empate"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+<p align="center"><img src="https://farm5.staticflickr.com/4809/46960999141_33a5689c05_z.jpg"></p>
 <p align="center"><small>Ejemplo de combate contra Eqves. Nosotros somos
 los dados azules y el enemigo los amarillos</small></p>
 
@@ -311,12 +285,8 @@ pasa nada, hay que hacer las tiradas de forma más estricta, un bando antes y
 después otro y ya está. Sin mayor problema.
 
 ### Opinión
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/46960999281/in/dateposted-public/"
-title="01-enemigos-01"><img
-src="https://farm5.staticflickr.com/4856/46960999281_4cce310b85_z.jpg"
-width="640" height="440" alt="01-enemigos-01"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<p align="center"><img src="https://farm5.staticflickr.com/4856/46960999281_4cce310b85_z.jpg"></p>
 <p align="center"><small>Cartas de enemigo con dos orientaciones y diferentes
 habilidades</small></p>
 

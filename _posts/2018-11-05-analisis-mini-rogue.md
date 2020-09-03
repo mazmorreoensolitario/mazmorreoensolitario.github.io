@@ -98,7 +98,7 @@ nivel de armadura, vida, oro, comida, y en el área que estemos de la mazmorra.
 Elegimos jugar a nivel normal y asignamos 0 de armadura, 5 de vida, 3 de oro
 y 6 de comida; empezamos en el Nivel 1 - Área 1.
 
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/45686380912/in/dateposted-public/" title="setup-markers"><img src="https://farm5.staticflickr.com/4809/45686380912_cd2c023677_b.jpg" width="1024" height="702" alt="setup-markers"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm5.staticflickr.com/4809/45686380912_cd2c023677_b.jpg"></p>
   <p align="center"><small>Preparación de los marcadores en las cartas de seguimiento</small></p>
 
 - Como empezamos en Rango 1 (el nivel del personaje) tenemos una reserva de un
@@ -114,7 +114,7 @@ colocaremos boca abajo en cuatro columnas, alternando una y dos cartas por
 columna. En el último Área de cada Nivel de la mazmorra se colocará la carta 
 del monstruo jefe.
 
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/45736755891/in/dateposted-public/" title="setup-boss-monster-area"><img src="https://farm5.staticflickr.com/4887/45736755891_59acb8b252_b.jpg" width="1024" height="570" alt="setup-boss-monster-area"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm5.staticflickr.com/4887/45736755891_59acb8b252_b.jpg"></p>
   <p align="center"><small>Preparación para un área con monstruo jefe, si es
   un área normal, se quita el monstruo</small></p>
   
@@ -136,7 +136,7 @@ avanzamos al siguiente área de la mazmorra, que también marcamos con el
 contador.
 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/45011769574/in/dateposted-public/" title="habitaciones"><img src="https://farm2.staticflickr.com/1920/45011769574_3fd0b9cb80_b.jpg" width="1024" height="722" alt="habitaciones"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm2.staticflickr.com/1920/45011769574_3fd0b9cb80_b.jpg"></p>
 <p align="center"><small>Tres habitaciones abiertas, la carta de
 mercader, la carta de descanso y la carta de monstruo</small></p>
 
@@ -216,8 +216,7 @@ es el daño que nos hace el monstruo.
 Se repiten estas dos fases hasta que el monstruo sea derrotado o bien, él nos
 derrote a nosotros.
 
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/43919062200/in/dateposted-public/" title="setup-monster-life"><img src="https://farm2.staticflickr.com/1937/43919062200_5ee76b2222_b.jpg" width="1024" height="753" alt="setup-monster-life"></a>
+<p align="center"><img src="https://farm2.staticflickr.com/1937/43919062200_5ee76b2222_b.jpg"></p>
 <p align="center"><small>Al final del Nivel 4, en el Área 10 tenemos que luchar
 contra La Serpiente Demonio, el monstruo jefe de ese nivel, en la carta de
 monstruo jefe podemos ver que para este nivel tiene 25 de vida.</small></p>

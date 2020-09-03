@@ -69,16 +69,8 @@ Games.
 
 ### Información general
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/40413269853/in/dateposted-public/"
-title="00-intro"><img
-src="https://farm8.staticflickr.com/7866/40413269853_821b139146_c.jpg"
-width="600" height="800" alt="00-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7866/40413269853_821b139146_c.jpg"></p>
 <p align="center"><small>A colonizar Marte se ha dicho</small></p>
-
 
 El futuro en la Tierra es incierto. Nos han encargado preparar una
 infraestructura viable para la vida en Marte que ayude a que mas colonos puedan
@@ -145,14 +137,7 @@ mayorías.
 
 ### Preparación
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/40413269373/in/dateposted-public/"
-title="01-setup"><img
-src="https://farm8.staticflickr.com/7871/40413269373_78dd40f5a6_c.jpg"
-width="800" height="488" alt="01-setup"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7871/40413269373_78dd40f5a6_c.jpg"></p>
 <p align="center"><small>Pocket Mars preparado para jugar. Arriza a la
 izquierda está el mazo de cartas de Proyecto seguido de los 5 edificios del
 juego: Ciencia, Ecosistema, Gestión de Agua, Energía y Construcción. En la
@@ -192,14 +177,7 @@ empezamos solamente con 1. Salvo que lo indique alguna carta **no** podemos
 mover colonos desde la Tierra a Marte, siempre tendrán que pasar antes por
 nuestra nave.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/40413268753/in/dateposted-public/"
-title="03-cartas-proyecto"><img
-src="https://farm8.staticflickr.com/7875/40413268753_8f6948ab8d_c.jpg"
-width="800" height="566" alt="03-cartas-proyecto"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7875/40413268753_8f6948ab8d_c.jpg"></p>
 <p align="center"><small>Dos cartas de Proyecto, de Ciencia a la izquierda y de
 Energía a la derecha. Ambas cartas tienen un valor de 5. En la parte inferior
 están las acciones que se ejecutan desde la mano (arriba) y desde el Módulo
@@ -217,14 +195,7 @@ ejecutar si jugamos la carta desde los Módulos de Preparación, tanto del
 autómata como del nuestro (viene representada por un iconito de un cuadrado con
 las esquinas en negrita). Explicamos cómo jugar las cartas más abajo.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/40413268393/in/dateposted-public/"
-title="04-cartas-edificio"><img
-src="https://farm8.staticflickr.com/7838/40413268393_07b0680506_c.jpg"
-width="800" height="338" alt="04-cartas-edificio"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7838/40413268393_07b0680506_c.jpg"></p>
 <p align="center"><small>Cartas de Edificio, de Ecosistema a la izquierda y de
 Gestión de Agua a la derecha. El valor por defecto de los Edificios es 3. Abajo
 están los espacios para colocar los colonos.</small></p>
@@ -250,14 +221,7 @@ del sistema*, *Fase de activación del autómata*.
 
 #### 1. Fase de arquitecto
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/40413269023/in/dateposted-public/"
-title="02-mano"><img
-src="https://farm8.staticflickr.com/7876/40413269023_c4af66dcd7_c.jpg"
-width="800" height="482" alt="02-mano"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7876/40413269023_c4af66dcd7_c.jpg"></p>
 <p align="center"><small>Mano y Módulo de Preparación del jugador.</small></p>
 
 En esta fase jugamos nosotros, y podemos elegir hacer una de las siguientes
