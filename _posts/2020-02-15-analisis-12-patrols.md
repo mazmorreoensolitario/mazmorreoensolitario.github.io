@@ -71,14 +71,7 @@ nuestros caballeros y lacayos estratégicamente."
 
 ### Información general
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49540287407/in/dateposted-public/"
-title="00-intro"><img
-src="https://live.staticflickr.com/65535/49540287407_c60e25d188_z.jpg"
-width="640" height="480" alt="00-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49540287407_c60e25d188_z.jpg"></p>
 <p align="center"><small>El pequeño 12 Patrols</small></p>
 
 **[12 Patrols](https://boardgamegeek.com/boardgame/271270/12-patrols)** es un
@@ -106,14 +99,7 @@ solucionar.
 
 ### Preparación
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49540287282/in/dateposted-public/"
-title="01-setup"><img
-src="https://live.staticflickr.com/65535/49540287282_1002156056_z.jpg"
-width="640" height="480" alt="01-setup"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49540287282_1002156056_z.jpg"></p>
 <p align="center"><small>12 Patrols preparado para jugar (¡un saludo a las
 personas que leen el blog desde Ecuador, Colombia y Venezuela!)</small></p>
 
@@ -158,14 +144,7 @@ tiene que haber un total de 3 elementos (por eso colocamos una ficha, que se
 suma con los dos dados de arriba para tener un total de 3 elementos en la
 columna).
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49540062561/in/dateposted-public/"
-title="02-fila"><img
-src="https://live.staticflickr.com/65535/49540062561_1f6b2be496_z.jpg"
-width="640" height="480" alt="02-fila"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49540062561_1f6b2be496_z.jpg"></p>
 <p align="center"><small>Ejemplo de cómo cumplir con los requisitos de las
 cartas en una columna</small></p>
   
@@ -191,14 +170,7 @@ Una vez sabido esto, se juega de la siguiente forma:
    tercero y así poder cumplir con el requisito de la carta *Wild plains* que
    nos dice que tenemos que tener una suma de 3 en el espacio superior.
    
-   <p align="center">
-    <a data-flickr-embed="true"
-    href="https://www.flickr.com/photos/165706612@N02/49540287132/in/dateposted-public/"
-    title="03-cambio"><img
-    src="https://live.staticflickr.com/65535/49540287132_3f6689a0c5_z.jpg"
-    width="640" height="466" alt="03-cambio"></a><script async
-    src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-    </p>
+    <p align="center"><img src="https://live.staticflickr.com/65535/49540287132_3f6689a0c5_z.jpg"></p>
     <p align="center"><small>Ejemplo de descarte de elementos para cambiar el
     valor a un dado</small></p>
 
@@ -212,14 +184,7 @@ Para ganar, al final del juego tienes que haber colocado las nueve cartas y las
 doce patrullas (si has descartado dados serían menos) cumpliendo los requisitos
 de las cartas.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49539564163/in/dateposted-public/"
-title="04-no-viable"><img
-src="https://live.staticflickr.com/65535/49539564163_1463ec8810_z.jpg"
-width="640" height="466" alt="04-no-viable"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49539564163_1463ec8810_z.jpg"></p>
 <p align="center"><small>Ejemplo de requisito imposible de satisfacer: la carta
 Wild Plains requiere que tengamos 3 elementos a su izquierda, mientras que la
 carta Green Valley nos obliga a tener solamente 1. Puesto que estas cartas
@@ -235,16 +200,8 @@ coordinar los colores puede ser más o menos complicado.
 
 ### Opinión
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49540062181/in/dateposted-public/"
-title="05-outro"><img
-src="https://live.staticflickr.com/65535/49540062181_5d29e18170_z.jpg"
-width="640" height="480" alt="05-outro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49540062181_5d29e18170_z.jpg"></p>
 <p align="center"><small>Otra partida perdida...</small></p>
-
 
 **Apartado gráfico.** El arte de Ilya Baranovsky sigue el estilo que ha usado
 en Maquis, pero esta vez utiliza composiciones más complicadas, lo que hace que

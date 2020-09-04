@@ -77,14 +77,7 @@ reunido en las afueras de la poderosa ciudad de Dun Mordhain."
 
 ### Información general
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49294352152/in/dateposted-public/"
-title="intro"><img
-src="https://live.staticflickr.com/65535/49294352152_4e2ce8726f_c.jpg"
-width="620" height="800" alt="intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49294352152_4e2ce8726f_c.jpg"></p>
 <p align="center"><small>Legends Untold</small></p>
 
 *Tu pueblo, los Sax, han sido echados de sus tierras por la invasión de los
@@ -171,14 +164,7 @@ etapas**. Os hablaré de esto con algo de más detalle abajo.
 
 ### Preparación
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49293503383/in/dateposted-public/"
-title="setup-episodio"><img
-src="https://live.staticflickr.com/65535/49293503383_ff7c593e84_c.jpg"
-width="800" height="555" alt="setup-episodio"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49293503383_ff7c593e84_c.jpg"></p>
 <p align="center"><small>Carta de preparación de escenario, abajo tenemos el
 número de cartas de cada tipo que tenemos que utilizar para crear los distintos
 mazos</small></p>
@@ -208,13 +194,7 @@ de cómo jugar a este juego, y así decidir si es para vosotros o no.
 
 #### Elección de personaje/s
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49294189887/in/dateposted-public/"
-title="personajes-h"><img
-src="https://live.staticflickr.com/65535/49294189887_3398c896fe_c.jpg"
-width="800" height="320" alt="personajes-h"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49294189887_3398c896fe_c.jpg"></p>
 <p align="center"><small>Distintos personajes (hombres, tenéis foto de las
 mujeres en la sección de opinión)</small></p>
 
@@ -235,14 +215,7 @@ a medida que vayamos subiendo de nivel y consiguiendo más talentos, seremos má
 resistentes.  Veremos cómo se utilizan los talentos y su relación con los
 puntos de vida más abajo en los apartados de Tests y en el de Combate.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49293994131/in/dateposted-public/"
-title="setup-personaje"><img
-src="https://live.staticflickr.com/65535/49293994131_e84104243d_c.jpg"
-width="737" height="800" alt="setup-personaje"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49293994131_e84104243d_c.jpg"></p>
 <p align="center"><small>Personaje de nivel 1 preparado para jugar</small></p>
 
 En cuanto a las armas tenemos que tener en cuenta si son de melee o a
@@ -255,14 +228,7 @@ tenemos la lanza, obviamente). Más acerca de las armas en Combate.
 
 #### Exploración
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49293994376/in/dateposted-public/"
-title="setup"><img
-src="https://live.staticflickr.com/65535/49293994376_628904a2a2_c.jpg"
-width="800" height="566" alt="setup"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49293994376_628904a2a2_c.jpg"></p>
 <p align="center"><small>Una partida preparada de Legends Untold</small></p>
 
 La exploración es el núcleo del juego y es lo que nos llevará a hacer Tests y
@@ -289,14 +255,7 @@ de salida. En base a si lo hemos conseguido (y en qué medida) o no, nuestro
 grupo se encontrará entre **tres niveles de preparación: alerta, será atrevido
 o incauto**. 
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49294190102/in/dateposted-public/"
-title="exploración"><img
-src="https://live.staticflickr.com/65535/49294190102_ed5ef76b3e_c.jpg"
-width="800" height="675" alt="exploración"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49294190102_ed5ef76b3e_c.jpg"></p>
 <p align="center"><small>El grupo está preparado para hacer un test de
 preparación tras salir por una salida oscura, tendrá que sacar al menos 10 (ver
 localización Skybridge) para al menos intentar estar atrevido</small></p>
@@ -315,14 +274,7 @@ cada localización, y después de resolverlos podremos pasar a la "parte
 opcional" (si la hubiera), en la que podremos buscar objetos que puede que
 estén escondidos tras *barreras*. 
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49293504088/in/dateposted-public/"
-title="cartas"><img
-src="https://live.staticflickr.com/65535/49293504088_32c6e2293a_c.jpg"
-width="800" height="629" alt="cartas"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49293504088_32c6e2293a_c.jpg"></p>
 <p align="center"><small>Estos tipos de cartas formarán el mazo de
 aventuras</small></p> 
 
@@ -343,14 +295,7 @@ En general, los obstáculos, curiosidades y barreras nos presentarán algún tip
 de test, que veremos ahora lo que son; y los enemigos nos harán entrar en
 combate.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49293994666/in/dateposted-public/"
-title="obstáculos"><img
-src="https://live.staticflickr.com/65535/49293994666_fd88c36b39_c.jpg"
-width="800" height="405" alt="obstáculos"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49293994666_fd88c36b39_c.jpg"></p>
 <p align="center"><small>Diferentes obstáculos que nos podremos encontrar
 durante la exploración</small></p>
 
@@ -368,14 +313,7 @@ tendrán que superarlo, o podrá ser grupal, de forma que nominaremos a un héro
 superarlo para que el grupo tenga éxito. Después, los tests serán un tipo
 diferente: básicos, de tabla o en etapas.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49293503058/in/dateposted-public/"
-title="tipos-de-tests"><img
-src="https://live.staticflickr.com/65535/49293503058_693f438899_c.jpg"
-width="800" height="404" alt="tipos-de-tests"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49293503058_693f438899_c.jpg"></p>
 <p align="center"><small>Diferentes tipos de tests. De izquierda a derecha: una
 carta de barrera, que tiene un test básico; un obstáculo con un test de tabla
 que además es un test que tendrá que hacerlo todo el grupo; y un descubrimiento
@@ -402,14 +340,7 @@ resultados. **Podemos afectar la tirada de los tests** (pero no siempre) con
 kits de supervivencia, nuestro nivel de preparación (alerta, atrevido o
 incauto) y por los talentos. 
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49293994851/in/dateposted-public/"
-title="estados"><img
-src="https://live.staticflickr.com/65535/49293994851_83d3b8a095_c.jpg"
-width="800" height="600" alt="estados"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49293994851_83d3b8a095_c.jpg"></p>
 <p align="center"><small>Personaje con tres talentos, en diferentes estados; de
 izquierda a derecha: talento de combate activo, un talento de habilidad agotado
 y otro talento de habilidad usado. Por tanto, al personaje le quedan 2 puntos
@@ -426,14 +357,7 @@ Podremos **recuperar vida, es decir re-activar talentos agotados, descansando
 al final de cada turno**, además al descansar las habilidades usadas se
 re-activan.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49293994011/in/dateposted-public/"
-title="talentos"><img
-src="https://live.staticflickr.com/65535/49293994011_72f2eb55a7_c.jpg"
-width="800" height="715" alt="talentos"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49293994011_72f2eb55a7_c.jpg"></p>
 <p align="center"><small>Diferentes talentos del juego que podrán usar nuestros
 héroes</small></p>
 
@@ -453,14 +377,7 @@ moral** y si tienen alguna **habilidad especial**.
 Además los monstruos serán melee (reaccionarán a nuestros ataques) o a
 distancia (hacen sus propias tiradas).
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49293994921/in/dateposted-public/"
-title="enemigos"><img
-src="https://live.staticflickr.com/65535/49293994921_8d5df94152_c.jpg"
-width="800" height="435" alt="enemigos"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49293994921_8d5df94152_c.jpg"></p>
 <p align="center"><small>Diferentes enemigos que nos podemos encontrar en el
 juego</small></p>
 
@@ -498,14 +415,7 @@ obligándoles a que luchen contra héroes a melee.
 
 ### Opinión
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49294361342/in/dateposted-public/"
-title="outro"><img
-src="https://live.staticflickr.com/65535/49294361342_804835ae83_c.jpg"
-width="800" height="599" alt="outro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49294361342_804835ae83_c.jpg"></p>
 <p align="center"><small>Explorando las cuevas</small></p>
 
 Al final parece que he escrito mucho sobre las reglas del juego, espero que no
@@ -593,14 +503,7 @@ no hace falta saber exactamente qué representan (el de insectos por ejemplo se
 parece mucho al de hadas, pero pueden diferenciarse y no tenemos porqué saber
 qué icono representa exactamente a cada cosa).
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49294189782/in/dateposted-public/"
-title="personajes-m"><img
-src="https://live.staticflickr.com/65535/49294189782_57c83c4fed_c.jpg"
-width="800" height="326" alt="personajes-m"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49294189782_57c83c4fed_c.jpg"></p>
 <p align="center"><small>Personajes (mujeres)</small></p>
 
 Finalmente, este juego es correcto e incluye la misma proporción de hombres y
@@ -665,15 +568,8 @@ sobre los componentes, la maquetación puede ayudar a que te metas dentro del
 juego, puede estorbar o puede ir por libre y ser parte "del arte del juego". En
 este caso ayuda a que te metas en el juego y no molesta.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49294387812/in/dateposted-public/"
-title="cueva"><img
-src="https://live.staticflickr.com/65535/49294387812_d25d26706c_c.jpg"
-width="800" height="582" alt="cueva"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49294387812_d25d26706c_c.jpg"></p>
 <p align="center"><small>Un habitante de la cueva</small></p>
-
 
 Cambiando de tema hacia el combate, pero siguiendo con el ritmo, los combates
 pueden hacerse largos, pero no los considero tediosos. Me gusta mucho que los

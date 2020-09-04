@@ -30,8 +30,8 @@ que hemos caído en una trampa."
         <div class="col-md-6">
         <table class="table table-striped table-hover">
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2016</td></tr>
-            <tr><td class="text-left"><strong>Precio:</strong></td><tdclass="text-left">Print & play gratis</td></tr>
-            <tr></td></td>Edición retail ~30€</a></td></tr>
+            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left">¡Gratis! (print & play)</td></tr>
+            <tr><td class="text-left"></td><td class="text-left">~30€ (retail)</td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1</td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">~30 mins</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés, partes en castellano (traducido por fans)</td></tr>
@@ -101,8 +101,7 @@ preferiblemente tendremos 6d6 de un color para identificar a nuestra
 tripulación, y el último d6 de un color diferente; será el dado de las
 Amenazas.
 
- 
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/46145570642/in/dateposted-public/" title="04-tripulacion"><img src="https://farm5.staticflickr.com/4901/46145570642_2c723bdcd5_b.jpg" width="1024" height="318" alt="04-tripulacion"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm5.staticflickr.com/4901/46145570642_2c723bdcd5_b.jpg"></p>
   <p align="center"><small>Tipos de tripulación, de izquierda a derecha:
   Comandantes, Tácticos, Médicos, Científicos, Ingenieros. El símbolo de valor
   6 se utiliza para marcar el nivel de escaneo de Amenazas</small></p>
@@ -128,7 +127,7 @@ Amenazas.
   podemos tratar de cumplir ambas restricciones, reducir la vida y asignar la
   tripulación).
   
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/46145570342/in/dateposted-public/" title="03-tipos-de-amenazas"><img src="https://farm5.staticflickr.com/4846/46145570342_5f6c09ab3d_b.jpg" width="1024" height="343" alt="03-tipos-de-amenazas"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm5.staticflickr.com/4846/46145570342_5f6c09ab3d_b.jpg"></p>
   <p align="center"><small>A la izquierda, carta de Ameneza Interna, se
   activa con un valor de 2 en el dado de Amenaza y necesitaremos asignar 2 
   tripulantes Científicos para neutralizarla. A la derecha, tenemos una Amenaza
@@ -195,7 +194,7 @@ cuando la vida llegue a cero descartaremos la Amenaza.
    nave. Colocaremos un dado en la zona de ingeniería para reparar 1 de casco,
    cada dado de ingeniero adicional nos da un +2 en la reparación.
 
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/32324011808/in/dateposted-public/" title="00-asignando"><img src="https://farm5.staticflickr.com/4808/32324011808_7b22c16602_b.jpg" width="768" height="1024" alt="00-asignando"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm5.staticflickr.com/4808/32324011808_7b22c16602_b.jpg"></p>
   <p align="center"><small>Hemos asignado un Comandante (valor 1) que nos
   permite volver a repetir la tirada de dados, después colocamos un
   Táctico (valor 2) para hacer 1 de daño a una Amenaza Externa</small></p>
@@ -206,7 +205,7 @@ carta de Amenaza y la colocamos donde proceda.
 **Quinta fase: activar amenazas.** Utilizamos el dado de Amenaza para averiguar
 qué Amenazas se activan en este turno y sufrimos las consecuencias.
 
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/32324012048/in/dateposted-public/" title="01-activando-amenazas"><img src="https://farm5.staticflickr.com/4850/32324012048_e4373463bb_b.jpg" width="1024" height="768" alt="01-activando-amenazas"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm5.staticflickr.com/4850/32324012048_e4373463bb_b.jpg"></p>
   <p align="center"><small>Activando amenazas tenemos malísima suerte y nos
   sale un 5, que activa el *Assault Cruiser* quitándonos 2 de escudo (lo
   tenemos disponible) y después la *Nebula*, que tiene un curioso efecto, nos
@@ -223,7 +222,7 @@ requeridos para desactivar la Amenaza.
 
 Los dados que tengamos disponibles pueden usarse en la siguiente ronda.
 
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/32324012308/in/dateposted-public/" title="02-nos-libramos"><img src="https://farm5.staticflickr.com/4856/32324012308_bd09f0aede_b.jpg" width="1024" height="768" alt="02-nos-libramos"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm5.staticflickr.com/4856/32324012308_bd09f0aede_b.jpg"></p> 
   <p align="center"><small>En la siguiente ronda conseguimos reducir a 0 la
   vida de la *Nebula* (que nos había inhabilitado los escudos), y usamos
   rápidamente un dado de Científico para recargar los escudos. Seguidamente

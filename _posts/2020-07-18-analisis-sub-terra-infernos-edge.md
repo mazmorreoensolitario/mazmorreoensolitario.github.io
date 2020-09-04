@@ -68,14 +68,7 @@ hayan enviado la copia.
 
 ### Información general
 
-<p align="center">
-</p>
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/50126161013/in/dateposted-public/"
-title="00-intro"><img
-src="https://live.staticflickr.com/65535/50126161013_f3bf83042c_c.jpg"
-width="800" height="389" alt="00-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://live.staticflickr.com/65535/50126161013_f3bf83042c_c.jpg"></p>
 
 **[Sub Terra II: Inferno's
 Edge](https://boardgamegeek.com/boardgame/281258/sub-terra-ii-infernos-edge)**
@@ -96,10 +89,6 @@ consumidas por la lava del volcán y nosotros también si no tenemos cuidado...
 
 ### Preparación
 
-<p align="center">
-</p>
-<p align="center"><small></small></p>
-
 Para jugar en solitario obligatoriamente tendremos que jugar con un mínimo de
 tres exploradores, y podremos usar hasta seis. **Los exploradores** son los
 diferentes personajes que usamos en esta aventura, cada uno con una profesión y
@@ -111,27 +100,13 @@ de Erupción**, una cuenta atrás que nos indica cuándo empezarán las cuevas a
 ser inundadas de lava. Cuanto más tiempo tengáis más fáciles serán las
 partidas.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/50126679781/in/dateposted-public/"
-title="01-tableros"><img
-src="https://live.staticflickr.com/65535/50126679781_d5f6520fdd_z.jpg"
-width="640" height="466" alt="01-tableros"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/50126679781_d5f6520fdd_z.jpg"></p>
 <p align="center"><small>Los tres exploradores que hemos elegido</small></p>
 
 * Primero tendremos que elegir nuestros exploradores, cada uno tendrá varias
   habilidades especiales y una cantidad de vida diferente.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/50126679816/in/dateposted-public/"
-title="01-init"><img
-src="https://live.staticflickr.com/65535/50126679816_a1d6ec5aa5_z.jpg"
-width="640" height="311" alt="01-init"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/50126679816_a1d6ec5aa5_z.jpg"></p>
 <p align="center"><small>La entrada de la cueva con nuestros tres exploradores,
 en marrón, blanco y verde</small></p>
 
@@ -140,14 +115,7 @@ en marrón, blanco y verde</small></p>
   el resto de las losetas en la bolsa; además, dejamos la loseta del santuario,
   el artefacto y las llaves a un lado.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/50126679756/in/dateposted-public/"
-title="01-track"><img
-src="https://live.staticflickr.com/65535/50126679756_f46da70fb9_z.jpg"
-width="640" height="425" alt="01-track"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/50126679756_f46da70fb9_z.jpg"></p>
 <p align="center"><small>Contador de erupción</small></p>
 
 
@@ -166,14 +134,7 @@ activar trampas y guardianes); después todos
 **se moverá el contador de erupción**. Entonces se pasará el turno al siguiente
 explorador.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/50126110068/in/dateposted-public/"
-title="01-colocación-losetas"><img
-src="https://live.staticflickr.com/65535/50126110068_7b58f2787e_z.jpg"
-width="640" height="343" alt="01-colocación-losetas"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/50126110068_7b58f2787e_z.jpg"></p>
 <p align="center"><small>Empezando a explorar la cueva</small></p>
 
 Usando esta estructura de juego **los exploradores tendrán que cumplir con
@@ -182,29 +143,14 @@ ciertos objetivos para ganar el juego**:
 1. El primer objetivo es **encontrar el santuario**, que solamente aparecerá
 cuando hayamos colocado todas las losetas en juego.
 
-    <p align="center">
-    <a data-flickr-embed="true"
-    href="https://www.flickr.com/photos/165706612@N02/50126954137/in/dateposted-public/"
-    title="03-santuario"><img
-    src="https://live.staticflickr.com/65535/50126954137_5cd835d54e_c.jpg"
-    width="446" height="800" alt="03-santuario"></a><script async
-    src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></scrip>
-    </p>
-    <p align="center"><small>El santuario con el artefacto
-    desbloqueado</small></p>
+    <p align="center"><img src="https://live.staticflickr.com/65535/50126954137_5cd835d54e_c.jpg"></p>
+    <p align="center"><small>El santuario con el artefacto desbloqueado</small></p>
 
 2. Después tendremos que **llevar las llaves al santuario** (las habremos
 encontrado por el camino a medida que hayamos colocado losetas en la cueva),
 para desbloquear el artefacto.
 
-    <p align="center">
-    <a data-flickr-embed="true"
-    href="https://www.flickr.com/photos/165706612@N02/50126109668/in/dateposted-public/"
-    title="02-losetas-llave"><img
-    src="https://live.staticflickr.com/65535/50126109668_f6b87d227a_z.jpg"
-        width="640" height="311" alt="02-losetas-llave"></a><script async
-    src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-    </p>
+    <p align="center"><img src="https://live.staticflickr.com/65535/50126109668_f6b87d227a_z.jpg"></p>
     <p align="center"><small>Las llaves se podrán conseguir de las losetas de
     llave, cada explorador solo podrá llevar una llave</small></p>
 
@@ -232,14 +178,7 @@ que representan trampas, una **trampa de pinchos**, que hace daño si hay un
 explorador en su loseta, y una **trampa de flechas**, que hace daño en en las
 losetas adyacentes. 
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/50126902332/in/dateposted-public/"
-title="02-dado-trampas"><img
-src="https://live.staticflickr.com/65535/50126902332_fbfcdd0435_z.jpg"
-width="640" height="315" alt="02-dado-trampas"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/50126902332_fbfcdd0435_z.jpg"></p>
 <p align="center"><small>La mala tirada del explorador blanco ha activado las
 trampas, la de flechas afecta al explorador blanco, mientras que la de pinchos
 afecta al explorador verde</small></p>
@@ -258,14 +197,7 @@ número coincida con el resultado del dado colapsarán (ponemos una ficha de
 columna rota encima) y no podremos pasar por ellas hasta que gastemos una
 **acción de excavar** para limpiar el camino. 
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/50126109888/in/dateposted-public/"
-title="02-dado-derrumbe"><img
-src="https://live.staticflickr.com/65535/50126109888_f012cca954_z.jpg"
-width="640" height="400" alt="02-dado-derrumbe"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/50126109888_f012cca954_z.jpg"></p>
 <p align="center"><small>La cueva se ha colapsado en las losetas de derrumbe,
 para averiguar en qué losetas se tira un d6, las losetas con ese número
 colapsan</small></p>
@@ -274,14 +206,7 @@ Otro obstáculo molesto son las losetas de lava, en un principio, tampoco nos
 hacen daño, pero si en el dado de peligro tenemos un resultado de "**lava**"
 los exploradores que estén sobre estás losetas de lava perderán vida.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/50126109828/in/dateposted-public/"
-title="02-dado-lava"><img
-src="https://live.staticflickr.com/65535/50126109828_ef7455284e_z.jpg"
-width="640" height="435" alt="02-dado-lava"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/50126109828_ef7455284e_z.jpg"></p>
 <p align="center"><small>El explorador verde ha tenido mala suerte y ha sacado
 un resultado de lava cuando estaba sobre una loseta de lava, sufrirá
 daño</small></p>
@@ -292,30 +217,14 @@ Los **guardianes** son los principales enemigos que nos encontraremos en la
 cueva. En un principio estarán dormidos, pero podrán aparecer desde las losetas
 de guardián.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/50126109833/in/dateposted-public/"
-title="02-dado-guardian"><img
-src="https://live.staticflickr.com/65535/50126109833_7d610171a4_z.jpg"
-width="640" height="395" alt="02-dado-guardian"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
-<p align="center"><small></small></p>
+<p align="center"><img src="https://live.staticflickr.com/65535/50126109833_7d610171a4_z.jpg"></p>
 
 Cuando el dado de peligro saque un resultado de "**guardián**" (ver imagen de
 arriba), los guardianes **aparecerán en las losetas de guardiánn**;
 estos enemigos se moverán dos veces cada turno hacia el explorador más cercano,
 para intentar noquearlo.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/50126109603/in/dateposted-public/"
-title="03-dado-movimiento"><img
-src="https://live.staticflickr.com/65535/50126109603_03a6422b06_z.jpg"
-width="640" height="387" alt="03-dado-movimiento"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
-<p align="center"><small></small></p>
+<p align="center"><img src="https://live.staticflickr.com/65535/50126109603_03a6422b06_z.jpg"></p>
 
 Adicionalmente los guardianes podrán moverse una vez más en el turno si un
 explorador saca un resultado de "**mover guardián**" (ver imagen de arriba) en
@@ -327,15 +236,7 @@ habremos derrotado.
 
 #### Acciones de explorador
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/50126902247/in/dateposted-public/"
-title="01-exploradores"><img
-src="https://live.staticflickr.com/65535/50126902247_02da3475d3_z.jpg"
-width="640" height="415" alt="01-exploradores"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
-<p align="center"><small></small></p>
+<p align="center"><img src="https://live.staticflickr.com/65535/50126902247_02da3475d3_z.jpg"></p>
 
 Cada explorador tiene unas acciones estándar (revelar una loseta, moverse,
 explorar, curar, manejar un objeto, atacar, correr o excavar) que cuestan uno o
@@ -359,16 +260,7 @@ lava**.
 
 ### Opinión
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/50129426887/in/dateposted-public/"
-title="00-outro"><img
-src="https://live.staticflickr.com/65535/50129426887_2234d8fb8f_c.jpg"
-width="800" height="389" alt="00-outro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
-<p align="center"><small></small></p>
-
+<p align="center"><img src="https://live.staticflickr.com/65535/50129426887_2234d8fb8f_c.jpg"></p>
 
 **Apartado gráfico y componentes.** Me gusta mucho el arte de las losetas de la
 cueva, los colores son muy vivos y le dan una buena ambientación al juego. Los

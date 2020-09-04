@@ -91,14 +91,7 @@ lo presentado en esta entrada.**
 
 ### Información general
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48014814676/in/dateposted-public/"
-title="0-intro"><img
-src="https://live.staticflickr.com/65535/48014814676_ca5cf0f744_z.jpg"
-width="640" height="459" alt="0-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48014814676_ca5cf0f744_z.jpg"></p>
 <p align="center"><small>Tussie Mussie en todo su colorido</small></p>
 
 *La pequeña floristería del barrio que tenemos es nuestro orgullo. El negocio
@@ -152,14 +145,7 @@ Una ronda de juego consiste de los siguientes pasos:
 2. Se revelan 2 cartas del mazo de cartas de Flores como indica la carta de
    Turno.
    
-   <p align="center">
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/48014827403/in/dateposted-public/"
-   title="01-inicio"><img
-   src="https://live.staticflickr.com/65535/48014827403_f6fae14c47_z.jpg"
-   width="640" height="251" alt="01-inicio"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-   </p>
+   <p align="center"><img src="https://live.staticflickr.com/65535/48014827403_f6fae14c47_z.jpg"></p>
    <p align="center"><small>Los dos mazos de la izquierda son el mazo de Flores
    y el de Turno, respectivamente; les sigue la carta de turno actual, que nos
    indica colocar dos flores boca arriba</small></p>
@@ -167,14 +153,7 @@ Una ronda de juego consiste de los siguientes pasos:
 3. En base a las restricciones que nos imponga la carta de Turno, colocamos las
    2 cartas reveladas en nuestra zona y la zona del rival.
    
-   <p align="center">
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/48014903982/in/dateposted-public/"
-   title="02-repartiendo"><img
-   src="https://live.staticflickr.com/65535/48014903982_a039ef4c40_z.jpg"
-   width="588" height="640" alt="02-repartiendo"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-   </p>
+   <p align="center"><img src="https://live.staticflickr.com/65535/48014903982_a039ef4c40_z.jpg"></p>
    <p align="center"><small>La carta de Turno nos indica que tenemos que
    colocar una carta boca arriba para nosotros y otra para el rival, o bien
    poner una boca abajo para nosotros y otra para el rival. Nos decidimos por
@@ -183,28 +162,15 @@ Una ronda de juego consiste de los siguientes pasos:
 Estos tres pasos se repiten cuatro veces y después comienza la **fase de
 puntuación** de la ronda:
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48014827293/in/dateposted-public/"
-title="03-estado-final"><img
-src="https://live.staticflickr.com/65535/48014827293_0b02b499e4_z.jpg"
-width="640" height="480" alt="03-estado-final"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48014827293_0b02b499e4_z.jpg"></p>
 <p align="center"><small>Tras completar cuatro rondas la mano del rival
 (arriba) y la nuestra han quedado de esta forma</small></p>
 
 - Separamos nuestra cartas boca arriba (*bouquets*, ramos) y nuestras cartas
 boca abajo (*keepsakes*, recuerdos) en dos filas, respetando el orden de las
 cartas.
-    <p align="center">
-    <a data-flickr-embed="true"
-        href="https://www.flickr.com/photos/165706612@N02/48014827193/in/dateposted-public/"
-    title="04-puntuando"><img
-    src="https://live.staticflickr.com/65535/48014827193_08daa6e1b7_z.jpg"
-    width="640" height="616" alt="04-puntuando"></a><script async
-    src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-    </p>
+
+    <p align="center"><img src="https://live.staticflickr.com/65535/48014827193_08daa6e1b7_z.jpg"></p>
     <p align="center"><small>Para diferenciar las flores recuerdo (boca abajo)
     de las flores en el ramo (boca arriba) colocamos las flores recuerdo en una
     fila abajo. Por razones de espacio en esta foto aparecen ligeramente hacia
@@ -216,14 +182,7 @@ cartas.
   además tendremos que sumar los puntos que nos de cada carta en base a sus
   efectos. 
       
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/48014814286/in/dateposted-public/"
-      title="04-puntuando-2"><img
-  src="https://live.staticflickr.com/65535/48014814286_ebed8bbf84_z.jpg"
-  width="640" height="480" alt="04-puntuando-2"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-  </p>
+  <p align="center"><img src="https://live.staticflickr.com/65535/48014814286_ebed8bbf84_z.jpg"></p>
   <p align="center"><small>Manos tras terminar la partida</small></p>
   
   Usando las manos que se han conseguido en la imagen de arriba el rival
@@ -272,14 +231,7 @@ encuentro actualizaré esta entrada.
 
 ### Opinión
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48014827448/in/dateposted-public/"
-title="0-outro"><img
-src="https://live.staticflickr.com/65535/48014827448_6dbe1d26e3_z.jpg"
-width="640" height="480" alt="0-outro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48014827448_6dbe1d26e3_z.jpg"></p>
 <p align="center"><small>Detalle de Tussie Mussie</small></p>
 
 

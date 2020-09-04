@@ -105,12 +105,7 @@ puntuación objetivo, pero no creáis que es algo sencillo...
 
 ### Preparación
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/32565322738/in/dateposted-public/"
-title="00-objetivos"><img
-src="https://farm8.staticflickr.com/7891/32565322738_9c6a001fa6_c.jpg"
-width="800" height="194" alt="00-objetivos"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm8.staticflickr.com/7891/32565322738_9c6a001fa6_c.jpg"></p>
 <p align="center"><small>Los tres objetivos que tenemos para la construcción
 de la ciudad</small></p>
 
@@ -151,12 +146,7 @@ Y así sucesivamente hasta que no tengamos más cartas que colocar. Si nos
 quedamos sin cartas para robar no pasa nada, utilizamos las cartas que nos
 queden en la mano.
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/32565323498/in/dateposted-public/"
-title="01-ciudad"><img
-src="https://farm8.staticflickr.com/7832/32565323498_f930bbbf09_c.jpg"
-width="800" height="520" alt="01-ciudad"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm8.staticflickr.com/7832/32565323498_f930bbbf09_c.jpg"></p>
 <p align="center"><small>Nuestra pequeña ciudad tras colocar todas las
 cartas</small></p>
 
@@ -167,12 +157,7 @@ En Sprawlopolis hay dos formas generales de puntuar:
 1. **Obtenemos puntos por el número de bloques en cada grupo más grande de cada
    zona** (Residencial, Industrial, Parques, Comercial). 
 
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/46437817471/in/dateposted-public/"
-   title="03-puntos-general-bloques"><img
-   src="https://farm8.staticflickr.com/7829/46437817471_86969cfc61_c.jpg"
-   width="800" height="520" alt="03-puntos-general-bloques"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+   <p align="center"><img src="https://farm8.staticflickr.com/7829/46437817471_86969cfc61_c.jpg"></p>
    <p align="center"><small>Los grupos más grandes de las diferentes
    zonas</small></p>
    
@@ -187,13 +172,7 @@ En Sprawlopolis hay dos formas generales de puntuar:
    contar "carreteras seguidas", si tenemos dos bloques seguidos de carretera
    cuenta como una única carretera.
    
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/46437824211/in/dateposted-public/"
-   title="03-puntos-general-carreteras"><img
-   src="https://farm5.staticflickr.com/4872/46437824211_d6c87807d2_c.jpg"
-   width="800" height="520" alt="03-puntos-general-carreteras"></a><script
-   async src="//embedr.flickr.com/assets/client-code.js"
-   charset="utf-8"></script>
+   <p align="center"><img src="https://farm5.staticflickr.com/4872/46437824211_d6c87807d2_c.jpg"></p>
    <p align="center"><small>Marcamos las diferentes carreteras con una X</small></p>
    
    En la imagen anterior hemos marcado las diferentes carreteras de nuestra
@@ -208,12 +187,7 @@ caso:
 1. *Looping lanes.*. Contamos el círculo más grande que hayamos conseguido con
    una carretera.
    
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/46437905641/in/dateposted-public/"
-   title="03-puntos-loop"><img
-   src="https://farm5.staticflickr.com/4857/46437905641_c8c128bf97_c.jpg"
-   width="800" height="520" alt="03-puntos-loop"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+   <p align="center"><img src="https://farm5.staticflickr.com/4857/46437905641_c8c128bf97_c.jpg"></p>
    <p align="center"><small>Este es el único círculo que hemos hecho con
    carreteras, y por tanto, el más grande</small></p>
    
@@ -222,13 +196,7 @@ caso:
 2. *Master planned.* Restamos nuestro grupo Residencial más grande (6
    bloques) de nuestro grupo Industrial más grande (2 bloques).
    
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/32565574928/in/dateposted-public/"
-   title="03-puntos-residencial-vs-industrial"><img
-   src="https://farm8.staticflickr.com/7861/32565574928_fb072cb9a9_c.jpg"
-   width="800" height="520"
-   alt="03-puntos-residencial-vs-industrial"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+   <p align="center"><img src="https://farm8.staticflickr.com/7861/32565574928_fb072cb9a9_c.jpg"></p>
    <p align="center"><small>Nuestra zona Industrial VS zona Residencial</small></p>
    
    En total, 4 puntos.
@@ -236,12 +204,7 @@ caso:
 3. *The outskirts.* Cada carretera que no termine en el borde de la ciudad nos
    da un punto, y si termina en el borde de la ciudad nos lo resta.
    
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/46437828881/in/dateposted-public/"
-   title="03-puntos-outskirts"><img
-   src="https://farm5.staticflickr.com/4910/46437828881_b02a789a5d_c.jpg"
-   width="800" height="520" alt="03-puntos-outskirts"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+   <p align="center"><img src="https://farm5.staticflickr.com/4910/46437828881_b02a789a5d_c.jpg"></p>
    <p align="center"><small>Carreteras que no terminan en bordes (+) y
    carreteras que terminan en el borde (-)</small></p>
    
@@ -253,12 +216,7 @@ puntos, así que hemos perdido :(
 
 ### Edición en print & play
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/32565325118/in/dateposted-public/"
-title="02-bordes"><img
-src="https://farm8.staticflickr.com/7814/32565325118_8bfb9a19ab_c.jpg"
-width="800" height="466" alt="02-bordes"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm8.staticflickr.com/7814/32565325118_8bfb9a19ab_c.jpg"></p>
 <p align="center"><small>Detalle de las cartas</small></p>
 
 La edición print & play de este juego no me parece muy buena porque las 
