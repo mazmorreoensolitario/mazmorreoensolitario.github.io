@@ -74,14 +74,7 @@ de la Golden Geek de 2018.
 
 ### Información general
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48358970412/in/dateposted-public/"
-title="00-intro"><img
-src="https://live.staticflickr.com/65535/48358970412_f5fb790f68_z.jpg"
-width="640" height="471" alt="00-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48358970412_f5fb790f68_z.jpg"></p>
 <p align="center"><small>Vista de nuestro huerto de árboles frutales en
 Orchard</small></p>
 
@@ -118,14 +111,7 @@ podrida nos quitará tres puntos de la puntuación final.
 
 ### Preparación
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48358970277/in/dateposted-public/"
-title="01-setup"><img
-src="https://live.staticflickr.com/65535/48358970277_d758823d05_z.jpg"
-width="625" height="640" alt="01-setup"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48358970277_d758823d05_z.jpg"></p>
 <p align="center"><small>Orchard preparado para jugar</small></p>
 
 Para jugar a Orchard necesitamos 2 marcadores negros y un total de 15 dados
@@ -159,29 +145,15 @@ En cada turno:
    superponga. Es obligatorio que se superponga al menos uno y debemos hacer
    coincidir el tipo de árbol (hay una excepción que se comenta abajo).
    
-   <p align="center">
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/48358835961/in/dateposted-public/"
-   title="02-over"><img
-   src="https://live.staticflickr.com/65535/48358835961_76850f50f9_z.jpg"
-   width="640" height="581" alt="02-over"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-    </p>
-    <p align="center"><small>Superponemos dos cartas sobre un peral (amarillo)
+   <p align="center"><img src="https://live.staticflickr.com/65535/48358835961_76850f50f9_z.jpg"></p>
+   <p align="center"><small>Superponemos dos cartas sobre un peral (amarillo)
    y un ciruelo (azul)</small></p>
    
 2. Colocamos un dado en cada árbol que hayamos hecho superponer si no tiene ya
    un dado colocado. Este dado será del color que hayamos asignado al tipo de
    árbol y se colocará mostrando la cara que representa 1. 
    
-   <p align="center">
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/48358970182/in/dateposted-public/"
-   title="02-over-dice"><img
-   src="https://live.staticflickr.com/65535/48358970182_32d50d102c_z.jpg"
-   width="640" height="606" alt="02-over-dice"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-   </p>
+   <p align="center"><img src="https://live.staticflickr.com/65535/48358970182_32d50d102c_z.jpg"></p>
    <p align="center"><small>Colocamos dos dados en la cara 1 ya que es la
    primera superposición que hacemos sobre esos árboles</small></p>
 
@@ -189,15 +161,8 @@ En cada turno:
    un dado, lo volvemos a colocar, pero aumentamos su valor, un 1 pasa a 3, un
    3 pasa a 6.
    
-   <p align="center">
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/48358835886/in/dateposted-public/"
-   title="03-over-more-dice-result"><img
-   src="https://live.staticflickr.com/65535/48358835886_11bcbbec9a_z.jpg"
-   width="640" height="385" alt="03-over-more-dice-result"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-    </p>
-    <p align="center"><small>Superponemos otra carta, que coincide sobre dos
+   <p align="center"><img src="https://live.staticflickr.com/65535/48358835886_11bcbbec9a_z.jpg"></p>
+   <p align="center"><small>Superponemos otra carta, que coincide sobre dos
    perales, de los cuales uno ya tenia un dado, y un manzano</small></p>
 
 3. Robamos una carta si aún quedan cartas en el mazo.
@@ -223,14 +188,7 @@ dos marcadores negros. Creo que ambas cosas son fáciles de conseguir.
 
 ### Opinión
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48358970367/in/dateposted-public/"
-title="00-outro"><img
-src="https://live.staticflickr.com/65535/48358970367_2aec6b16c6_z.jpg"
-width="640" height="491" alt="00-outro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48358970367_2aec6b16c6_z.jpg"></p>
 <p align="center"><small>Fin de una partida mala a Orchard, tan solo 23
 puntos</small></p>
 

@@ -339,6 +339,8 @@ src="https://cf.geekdo-images.com/imagepage/img/JybWeBywyoOD6QaM4SA2AmyCaRI=/fit
   Campaña de Kickstarter el **3 de septiembre**. Tenéis mis sensaciones tras una demo [en esta
   entrada]({{site.baseurl}}/2020/03/19/historia-de-una-demo-essen-spiel-2019-crazy-taco/)
   y tendréis un **análisis del juego** muy muy pronto :)
+  
+  **[¡Aquí está el análisis!]({{site.baseurl}}/2020/09/03/analisis-crazy-taco/)**
 
 <p align="center">
 <img src="https://cf.geekdo-images.com/imagepage/img/QsjOXpGKKu3vnrxGGuAwkjObMSA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5410206.png"></p>

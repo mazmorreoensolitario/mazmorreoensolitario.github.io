@@ -96,14 +96,7 @@ ficheros de la BGG con estos cambios.
 
 ### Información general
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/46604691054/in/dateposted-public/"
-title="00-intro"><img
-src="https://farm8.staticflickr.com/7849/46604691054_cff07ef5f0_z.jpg"
-width="640" height="480" alt="00-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7849/46604691054_cff07ef5f0_z.jpg"></p>
 
 [Maquis](https://boardgamegeek.com/boardgame/148729/maquis) es un juego de
 colocación de trabajadores ambientado en la ocupación de Francia por las
@@ -163,14 +156,7 @@ propios archivos del print & play.
 * Colocamos la carta de Moral y Soldados en la mesa y ponemos los marcadores en
   6 de Moral y 0 de Soldados.
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/47274931712/in/dateposted-public/"
-  title="03-moral-soldados-ayuda"><img
-  src="https://farm8.staticflickr.com/7830/47274931712_5afdf997c4_z.jpg"
-  width="640" height="479" alt="03-moral-soldados-ayuda"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </p>
+  <p align="center"><img src="https://farm8.staticflickr.com/7830/47274931712_5afdf997c4_z.jpg"></p>
   <p align="center"><small>A la izquierda carta de Moral y Soldados en su
   estado inicial, en el marcador de Moral, hay dos números, el grande, que
   indica el nivel de moral, y el pequeño, que se usará pasa saber el número de
@@ -185,14 +171,7 @@ propios archivos del print & play.
   y *Libera la ciudad* (liberate the town), explicamos qué es esto de *misiones
   de localización* más abajo.
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/47274931772/in/dateposted-public/"
-  title="02-misiones"><img
-  src="https://farm8.staticflickr.com/7826/47274931772_7c9e79c6fe_z.jpg"
-  width="640" height="479" alt="02-misiones"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </p>
+  <p align="center"><img src="https://farm8.staticflickr.com/7826/47274931772_7c9e79c6fe_z.jpg"></p>
   <p align="center">Diferentes misiones del juego. La misión que puede leerse
   completa, la de más a la derecha, "Sabotaje", es una misión que también
   cuenta como una localización<small></small></p>
@@ -211,14 +190,7 @@ propios archivos del print & play.
   Explosivos) en un montón, formarán el suministro general y están limitadas a
   lo que trae el juego, 4 por recurso.
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/46412508075/in/dateposted-public/"
-  title="04-recursos-fichas"><img
-  src="https://farm8.staticflickr.com/7823/46412508075_f2551143de_z.jpg"
-  width="640" height="478" alt="04-recursos-fichas"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-  </p>
+  <p align="center"><img src="https://farm8.staticflickr.com/7823/46412508075_f2551143de_z.jpg"></p>
   <p align="center"><small>Diferentes fichas que forman el juego. De arriba a
   abajo y de izquierda a derecha: fichas de soldado (rojas), fichas de polocías
   (azules), fichas de la Resistencia (blancas), fichas de recursos de Medicina
@@ -230,14 +202,7 @@ propios archivos del print & play.
  
 ### Empezando a jugar
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/46412508285/in/dateposted-public/"
-title="00-setup"><img
-src="https://farm8.staticflickr.com/7840/46412508285_16f635ebe7_z.jpg"
-width="640" height="479" alt="00-setup"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7840/46412508285_16f635ebe7_z.jpg"></p>
 <p align="center"><small>Maquis preparado para jugar</small></p>
 
 
@@ -286,14 +251,7 @@ intercalada:
    ni por policías/soldados) que nos indique, si no es posible probamos con la
    segunda y si no es posible con la tercera.
    
-   <p align="center">
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/46412508165/in/dateposted-public/"
-   title="02-patrullas"><img
-   src="https://farm8.staticflickr.com/7855/46412508165_f49864fa8d_z.jpg"
-   width="640" height="471" alt="02-patrullas"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-   </p>
+   <p align="center"><img src="https://farm8.staticflickr.com/7855/46412508165_f49864fa8d_z.jpg"></p>
    <p align="center"><small>Carta de patrulla, nos indica que la policía/soldado irá
    primero a la estación de radio B, si no es posible entonces a Rue Baradat y 
    si tampoco es posible a Pont Leveque</small></p>
@@ -327,14 +285,7 @@ un precio en recursos por ellos. Si aparece una flecha, tendremos que pagar el
 número de recursos que aparezca a la izquierda de la flecha. Una barra indica
 que tendremos que elegir uno de los dos recursos como pago o beneficio.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/47274931622/in/dateposted-public/"
-title="05-localizaciones"><img
-src="https://farm8.staticflickr.com/7842/47274931622_4787916233_z.jpg"
-width="640" height="480" alt="05-localizaciones"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7842/47274931622_4787916233_z.jpg"></p>
 <p align="center"><small>En la localización de doctor, obtendremos 1 de
 medicina si el maqui consigue llegar al piso franco, en el distrito pobre (poor
 district) el maqui deberá pagar 1 de comida y 1 de medicina para aumentar la
@@ -345,27 +296,13 @@ el icono de estrella)</small></p>
   recursos de dinero para elegir cualquiera de las fichas de habitación que no
   estén en juego para convertir la localización en lo que nos diga la ficha.
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/46412507965/in/dateposted-public/"
-  title="07-habitación-de-sobra"><img
-  src="https://farm8.staticflickr.com/7844/46412507965_bdcf7db32a_z.jpg"
-  width="640" height="479" alt="07-habitación-de-sobra"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-  </p>
+  <p align="center"><img src="https://farm8.staticflickr.com/7844/46412507965_bdcf7db32a_z.jpg"></p>
   <p align="center"><small>La mujer de la Resistencia está volviendo del
   laboratorio químico, que antes era una habitación de sobra. De volver sana y
   salva al piso franco, tras haber pagado 1 de medicina, conseguiría 1 de
   explosivos</small></p>
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/47274931402/in/dateposted-public/"
-  title="08-habitaciones"><img
-  src="https://farm8.staticflickr.com/7922/47274931402_eebda9e853_z.jpg"
-  width="640" height="478" alt="08-habitaciones"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-  </p>
+  <p align="center"><img src="https://farm8.staticflickr.com/7922/47274931402_eebda9e853_z.jpg"></p>
   <p align="center"><small>Diferentes tipos de localizaciones que se pueden
   construir en las habitaciones de sobra</small></p>
 
@@ -376,14 +313,7 @@ el icono de estrella)</small></p>
   cualquiera libre y tendremos que mover a un maqui a esa localización **en un
   turno posterior** para que recoja los recursos.
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/47274931552/in/dateposted-public/"
-  title="06-paracaidas"><img
-  src="https://farm8.staticflickr.com/7884/47274931552_58b9a7e77e_z.jpg"
-  width="479" height="640" alt="06-paracaidas"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-  </p>
+  <p align="center"><img src="https://farm8.staticflickr.com/7884/47274931552_58b9a7e77e_z.jpg"></p>
   <p align="center"><small>En esta imagen, la maqui ha pedido
   satisfactoriamente (ya que hay un camino libre hasta el piso franco) 3 de
   comida vía suministro de paracaídas por la estación de radio B, estos 

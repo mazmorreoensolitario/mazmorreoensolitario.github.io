@@ -188,7 +188,7 @@ cliente</small></p>
    qué hacen en la siguiente fase.
    
    <p align="center"><img src="https://live.staticflickr.com/65535/50302619262_4e5b6d42f4_z.jpg"></p>
-   <p align="center"><small>Un empleado en la zona de descanso</small></p>
+   <p align="center"><small>Un empleado en la zona de descanso (dado con ZzZz)</small></p>
    
    En este momento puedes intercambiar algunos de los valores
    conseguidos en tus dados por algunos efectos especiales, como hacer que los
