@@ -60,7 +60,7 @@ Hay varias formas de jugar a Root en solitario:
    
 2. En la expansión **The Clockwork tienes 4 bots**: Mechanical Marquise 2.0
    (los zorros, versión mejorada del bot the viene en la expansión Los
-   Ribereños), The Electric Eyrie (las águilas), The Automated Ailliance (los
+   Ribereños), The Electric Eyrie (las águilas), The Automated Alliance (los
    conejos) y The Vagabot (el mapache); **estos bots se corresponden con las 4
    facciones del juego base de Root**.
    
@@ -91,7 +91,7 @@ Hay varias formas de jugar a Root en solitario:
     proyecto se llama **The Better Bot Proyect** y está completamente **[gratis en
     BGG](https://boardgamegeek.com/filepage/170084/root-better-bot-project)**.
     Este proyecto sigue en desarrollo y su autor a añadido bots para algunas de
-    las acciones más nuevas (nutrias y lagartos de Los Ribereños y los cuervos
+    las facciones más nuevas (nutrias y lagartos de Los Ribereños y los cuervos
     de The Underworld).
     
     A Leder Games le gustó el trabajo que estaba haciendo este hombre y
