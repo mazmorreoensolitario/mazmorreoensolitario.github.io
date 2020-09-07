@@ -88,7 +88,7 @@ Hay varias formas de jugar a Root en solitario:
     La expansión **Clockwork** nace de un proyecto hecho por un fan, **Benjamin
     Schmauss**, que trató de mejorar el Marqués mecánico de la expansión Los
     Ribereños y además hizo otros bots para el resto de las facciones, este
-    proyecto se llama **The Better Bot Proyect** y está completamente **[gratis en
+    proyecto se llama **The Better Bot Project** y está completamente **[gratis en
     BGG](https://boardgamegeek.com/filepage/170084/root-better-bot-project)**.
     Este proyecto sigue en desarrollo y su autor a añadido bots para algunas de
     las facciones más nuevas (nutrias y lagartos de Los Ribereños y los cuervos
@@ -101,10 +101,10 @@ Hay varias formas de jugar a Root en solitario:
     Root. *Posiblemente*, el resto de facciones saldrán también como bots en
     otra expansión oficial una vez que Schmauss termine de
     desarrollarlos. Podéis leer más sobre el desarrollo de The Better Bot
-    Proyect y The Clockwork
+    Project y The Clockwork
     [aquí](https://boardgamegeek.com/thread/2068034/better-bot-project-mega-update-v6b-directors-cut-c).
     
-    **The Clockwork/Better Bot Proyect es la forma de jugar a Root en solitario
+    **The Clockwork/Better Bot Project es la forma de jugar a Root en solitario
     que recomiendo**. Podéis jugar partidas de 1 contra 1, 1 contra 2, ó 1
     contra 3, exprimiendo así todo el contenido del juego base y las
     combinaciones de facciones recomendadas por los autores.
