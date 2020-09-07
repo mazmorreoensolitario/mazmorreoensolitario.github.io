@@ -72,5 +72,7 @@ del tema [cards](https://github.com/sharu725/cards).
 # Sobre mí
 
 * Libros que estoy leyendo ahora: *Raven Stratagem* de Yoon Ha Lee.
-* Siguientes libros en mi lista para leer: *Gideon the Ninth* de Tamsyn Muir.
+* Siguiente/s libro/s en mi lista para leer: *Gideon the Ninth* de Tamsyn Muir.
 * Series que estoy viendo: ~~Snowpiercer.~~
+* Videojuegos que ocasionalmente juego durante estos meses: Deep Sky Derelicts,
+  Caves of Qud.
