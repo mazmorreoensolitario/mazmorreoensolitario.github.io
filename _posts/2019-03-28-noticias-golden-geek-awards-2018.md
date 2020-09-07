@@ -4,8 +4,10 @@ title: "Nominaciones de los Premios Golden Geek de 2018 - Guía de juegos en sol
 date: 2019-03-28
 categories: [Noticias]
 tags: [Golden Geek, GMT Games, Arquitectos del Reino del Oeste, Coimbra, Crónicas del Crimen, Detective, Everdell, Gugong, Root, Teotihuacán, Underwater Cities, Welcome Hacia el Perfecto Hogar, Hardback, Palm Island, Sprawlopolis, Expansiópolis, Star Realms, "Star Realms: Frontiers", Thunderstone Quest, Arkham Horror, "CO2: Segunda Oportunidad", Forbidden Sky, "Pandemic: La caída de Roma", "Fábulas de Peluche", Too Many Bones, "The Coin Tribes' Revolt: Boudica's Rebellion Against Rome", Count of Nine, "Orchard", Railroad Ink, Renegade, Newton, Nemesis, "1066 Tears To Many Mothers", "Cataclysm: A Second World War", Gettysburg, Great War Commander, "Hitler's Reich", Meltwater, "Pavlov's House", Thunder in the East, Dinosaur Island, "Dinosaur Island: Totally Liquid", "A Feast for Odin: The Norwegians", Roll Player, "Roll Player: Monsters & Minions", "Root: Riverfolk", "Root: Los Ribereños", Scythe, "Scythe: El Auge de Fenris", Terraforming Mars, "Terraforming Mars: Colonias", "Terraforming Mars: Preludio"]
-img: golden-geek-nominee.png
+imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20190328-golden-geek/golden-geek-awards-2018.jpg
 ---
+
+![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20190328-golden-geek/golden-geek-awards-2018.jpg)
 
 Estas son unas fechas emocionantes para el mundillo de los juegos de mesa 
 porque salen las nominaciones a los [Premios Golden Geek de 2018](https://boardgamegeek.com/thread/2170977/13th-annual-golden-geek-awards-nominees-announced). 
