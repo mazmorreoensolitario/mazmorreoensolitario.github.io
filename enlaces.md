@@ -77,6 +77,7 @@ medios en inglés.
 
 * [Blackoath entertainment](https://discordapp.com/invite/xjQTcUr) (rol,
   inglés)
+* [Ironsworn](https://discordapp.com/invite/8fpWH6J) (rol, inglés)
 * [Lone Wolf Roleplaying](https://discordapp.com/invite/jwYknJY) (rol, inglés)
 
 ### Podcasts
@@ -147,7 +148,6 @@ También por orden alfabético:
 * [Button Shy](https://discordapp.com/invite/VEkEhCu) (juegos de mesa, inglés)
 * [High Time for High Frontier](https://discordapp.com/invite/qSvEYZZ) (juegos
   de mesa, inglés)
-* [Ironsworn](https://discordapp.com/invite/8fpWH6J) (rol, inglés)
 * [Mothership RPG](https://discord.gg/uuvxG29) (rol, inglés)
 * [Necrotic Gnome](https://discord.gg/YprM5nq) (rol, inglés)
 * [OSR](https://discordapp.com/invite/4RpPs2c) (rol, inglés)

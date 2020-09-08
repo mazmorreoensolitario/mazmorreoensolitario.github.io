@@ -115,8 +115,8 @@ Hay varias formas de jugar a Root en solitario:
         
     * **¿Va a publicar 2Tomatoes Games esta expansión en español?** Ni idea. Las
     traducciones suelen ir con un año/año y medio de retraso; a mí The
-    Clockwork me llegó en junio de este año, así que podéis esperar; pero
-    insisto, ni idea.
+    Clockwork me llegó en junio de este año (2020), así que podéis esperar;
+    pero insisto, ni idea.
     
     * **¿Merece la pena gastarse 40$ en cuatro tableros, unos marcadores, las
     reglas, 28 cartas y una caja bonita?** Que cada uno decida, viendo lo que me
