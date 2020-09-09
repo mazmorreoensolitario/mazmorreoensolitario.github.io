@@ -69,14 +69,7 @@ meses como parte de esa oferta.
 
 ### Información general
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/46910738735/in/dateposted-public/"
-title="00-intro-2"><img
-src="https://live.staticflickr.com/65535/46910738735_a64dc8079c_z.jpg"
-width="640" height="480" alt="00-intro-2"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/46910738735_a64dc8079c_z.jpg"></p>
 <p align="center"><small>Detalle de The Perfect Moment</small></p>
 
 *De forma abrupta, un portal se abre y una persona pasa a través de él. No
@@ -133,14 +126,7 @@ carta se pone encima del montón de robar (se convierte en la primera carta).
   Colocamos el resto de cartas en un montón a la izquierda de la Paradoja (ver
   la imagen de abajo).
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/47826890571/in/dateposted-public/"
-  title="01-setup-0"><img
-  src="https://live.staticflickr.com/65535/47826890571_83f3c9b63d_z.jpg"
-  width="640" height="480" alt="01-setup-0"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-  </p>
+  <p align="center"><img src="https://live.staticflickr.com/65535/47826890571_83f3c9b63d_z.jpg"></p>
   <p align="center"><small></small></p>
   
 * Robamos cuatro cartas para nosotros, de estas cartas tendremos que elegir
@@ -151,14 +137,7 @@ carta se pone encima del montón de robar (se convierte en la primera carta).
   3. Una como Equipamiento de Echo.
   4. La restante se descarta.
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/47826889801/in/dateposted-public/"
-  title="01-setup-1"><img
-  src="https://live.staticflickr.com/65535/47826889801_eb28e03bac_z.jpg"
-  width="640" height="491" alt="01-setup-1"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </p>
+  <p align="center"><img src="https://live.staticflickr.com/65535/47826889801_eb28e03bac_z.jpg"></p>
   <p align="center"><small></small></p>
   
 * Robamos una carta para completar nuestro equipamiento con dos cartas.
@@ -166,14 +145,7 @@ carta se pone encima del montón de robar (se convierte en la primera carta).
 * Robamos una carta sin verla para que sea el Plan de Echo. La ponemos boca
   abajo en horizontal en su zona.
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/47826889251/in/dateposted-public/"
-  title="01-setup-2"><img
-  src="https://live.staticflickr.com/65535/47826889251_905b92fa25_z.jpg"
-  width="640" height="480" alt="01-setup-2"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-  </p>
+  <p align="center"><img src="https://live.staticflickr.com/65535/47826889251_905b92fa25_z.jpg"></p>
   <p align="center"><small>The Perfect Moment preparado para jugar</small></p>
 
 ### Empezando a jugar
@@ -197,14 +169,7 @@ misión*, *Fase de plan B*, *Fase de recuperación*.
 
 ##### 1. Fase de revelar Planes
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/40862129103/in/dateposted-public/"
-title="02-echo-0"><img
-src="https://live.staticflickr.com/65535/40862129103_554f81b51c_z.jpg"
-width="640" height="473" alt="02-echo-0"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/40862129103_554f81b51c_z.jpg"></p>
 <p align="center"><small>El plan de Echo es revelado, mostrando la Cartera
 (Wallet) y las Entradas (Tickets)</small></p>
 
@@ -232,14 +197,7 @@ Si tuviéramos la partida como se muestra en la siguiente imagen (ignorar la
 carta en horizontal encima del mazo de robo, se explica qué es en la siguiente
 fase), Echo podría borrar la Paradoja:
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/40862125793/in/dateposted-public/"
-title="04-echo-score-0"><img
-src="https://live.staticflickr.com/65535/40862125793_6bb80b2db2_z.jpg"
-width="640" height="480" alt="04-echo-score-0"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/40862125793_6bb80b2db2_z.jpg"></p>
 <p align="center"><small>Echo puede Borrar la Paradoja, ya que tiene dos cartas
 de Equipamiento Llaves y Teléfono que coinciden con los objetos de la
 Paradoja</small></p> 
@@ -247,14 +205,7 @@ Paradoja</small></p>
 Cuando Echo Borra una carta se retira del juego, en la imagen siguiente la
 hemos colocado en un montón arriba a la izquierda:
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/46912442015/in/dateposted-public/"
-title="04-echo-score-1"><img
-src="https://live.staticflickr.com/65535/46912442015_c4000d34f5_z.jpg"
-width="640" height="480" alt="04-echo-score-1"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/46912442015_c4000d34f5_z.jpg"></p>
 <p align="center"><small>Echo ha Borrado la Paradoja, que se retira del
 juego</small></p> 
 
@@ -282,15 +233,8 @@ consigue Borrar una carta, se descarta como hemos visto en la fase dos.
 - Si no consigue Borrar una carta, buscaremos, de izquierda a derecha en las
 cartas de Equipamiento de Echo, su Plan y la Paradoja, un objeto que se
 encuentre en la carta objetivo. 
-
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/40862129103/in/dateposted-public/"
-  title="02-echo-0"><img
-  src="https://live.staticflickr.com/65535/40862129103_554f81b51c_z.jpg"
-  width="640" height="473" alt="02-echo-0"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </p>
+ 
+  <p align="center"><img src="https://live.staticflickr.com/65535/40862129103_554f81b51c_z.jpg"></p>
   <p align="center"><small>Esta es la situación de juego, Echo no ha podido
   Borrar una carta, así que comprobaremos si existe un objeto en común entre
   las cartas objetivo</small></p>
@@ -305,28 +249,14 @@ encuentre en la carta objetivo.
   Entradas que se encuentra en su Plan, por lo que coloca la carta de
   Entradas-Teléfono en el hueco de carta Disipada.
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/40862128693/in/dateposted-public/"
-  title="02-echo-1"><img
-  src="https://live.staticflickr.com/65535/40862128693_1a4b258755_z.jpg"
-  width="640" height="452" alt="02-echo-1"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-  </p>
+  <p align="center"><img src="https://live.staticflickr.com/65535/40862128693_1a4b258755_z.jpg"></p>
   <p align="center"><small>La carta de Entradas-Teléfono es la carta
   Disipada</small></p> 
   
 
 ##### 4. Fase de recuperación
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/46912446495/in/dateposted-public/"
-title="02-echo-2"><img
-src="https://live.staticflickr.com/65535/46912446495_d6ba921641_z.jpg"
-width="640" height="480" alt="02-echo-2"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/46912446495_d6ba921641_z.jpg"></p>
 <p align="center"><small>Mano de Echo tras aplicar las acciones de la fase de
 recuperación</small></p> 
 
@@ -342,17 +272,10 @@ tenemos dos fases: *Fase de activación de objetos* y *Fase de puntuación*.
 
 ##### 1. Fase de activación de objetos
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/40862127873/in/dateposted-public/"
-title="03-us-0"><img
-src="https://live.staticflickr.com/65535/40862127873_712001e7b4_z.jpg"
-width="640" height="465" alt="03-us-0"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
-  <p align="center"><small>En nuestro turno activamos uno de los objetos Flores
-  de Echo, intercambiando nuestro antiguo Plan, Teléfono-Llaves, por la carta
-  de Equipamiento Anillo-Poesía</small></p>
+<p align="center"><img src="https://live.staticflickr.com/65535/40862127873_712001e7b4_z.jpg"></p>
+<p align="center"><small>En nuestro turno activamos uno de los objetos Flores
+de Echo, intercambiando nuestro antiguo Plan, Teléfono-Llaves, por la carta
+de Equipamiento Anillo-Poesía</small></p>
 
 Esta fase es opcional y nos permite activar hasta dos objetos. Los objetos que
 pueden activarse son los siguientes:
@@ -373,14 +296,7 @@ como se ve en la imagen de arriba.
 
 ##### 2. Fase de puntuación
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/46912445605/in/dateposted-public/"
-title="03-us-1"><img
-src="https://live.staticflickr.com/65535/46912445605_d50d48303d_z.jpg"
-width="640" height="443" alt="03-us-1"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/46912445605_d50d48303d_z.jpg"></p>
 <p align="center"><small>Tomando la carta Disipada de Echo como objetivo,
 podemos puntuarla como dos puntos ya que tenemos una carta de Equipamiento con
 Entradas mirando a Echo y otra con Teléfono mirando hacia nosotros</small></p>
@@ -435,14 +351,7 @@ material extra.
 
 ### Opinión
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/47826891141/in/dateposted-public/"
-title="00-intro"><img
-src="https://live.staticflickr.com/65535/47826891141_257a65a1a7_z.jpg"
-width="640" height="480" alt="00-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/47826891141_257a65a1a7_z.jpg"></p>
 <p align="center"><small>Algunas cartas de The Perfect Moment alineadas a lo
 "Créditos iniciales de Star Wars"</small></p>
 

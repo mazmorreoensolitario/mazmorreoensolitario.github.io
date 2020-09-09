@@ -91,14 +91,7 @@ procesar el manual después.
 
 ### ¿De qué va el juego?
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49025451052/in/dateposted-public/"
-title="00-map"><img
-src="https://live.staticflickr.com/65535/49025451052_02c3cba25f_c.jpg"
-width="600" height="800" alt="00-map"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49025451052_02c3cba25f_c.jpg"></p>
 <p align="center"><small>La codiciada mesa de High Frontier 4 All con un mapa
 igual de impresionante en papel</small></p>
 
@@ -141,14 +134,7 @@ nos interesen para conseguir más combustible**. El juego da otras opciones para
 conseguir combustible, pero la compra-venta de patentes es sin duda la más
 beneficiosa y efectiva.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49025450982/in/dateposted-public/"
-title="01-rocket"><img
-src="https://live.staticflickr.com/65535/49025450982_d42d20d25b_c.jpg"
-width="800" height="600" alt="01-rocket"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49025450982_d42d20d25b_c.jpg"></p>
 <p align="center"><small>Me lancé a explorar el espacio con esta
 nave</small></p>
 
@@ -212,14 +198,7 @@ de cinco horas y media donde además explican las reglas del juego.
 
 ### La demo
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49025450892/in/dateposted-public/"
-title="02-player-board"><img
-src="https://live.staticflickr.com/65535/49025450892_4ac44c7a22_c.jpg"
-width="600" height="800" alt="02-player-board"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49025450892_4ac44c7a22_c.jpg"></p>
 <p align="center"><small>Mi tablero tras completar mi viaje</small></p>
 
 **Justin Grey y Brad Smith** (diseñadores del módulo de Política) eran los
@@ -262,14 +241,7 @@ lanzarnos a la exploración espacial, y para tratar de conseguir algo tangible
 en la demo, Justin nos recomendó que **pusiéramos rumbo a Marte**, un destino
 fácil para unos astronautas primerizos.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49025591026/in/dateposted-public/"
-title="04-earth-to-mars"><img
-src="https://live.staticflickr.com/65535/49025591026_0eaf1006e4_c.jpg"
-width="800" height="456" alt="04-earth-to-mars"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49025591026_0eaf1006e4_c.jpg"></p>
 <p align="center"><small>Detalle de la ruta entre la Tierra y Marte. Este mapa
 está sacado del <a
 href="https://www.kickstarter.com/projects/684398802/high-frontier-4-all/posts/2675576">Easter
@@ -306,14 +278,7 @@ otros dos al menos pusieron su cohete en el espacio.
 
 ### Sensaciones
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49024729778/in/dateposted-public/"
-title="03-landing"><img
-src="https://live.staticflickr.com/65535/49024729778_b6899529ed_c.jpg"
-width="600" height="800" alt="03-landing"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49024729778_b6899529ed_c.jpg"></p>
 <p align="center"><small>El cohete Mazmorreo Naranjito pudo llegar y
 aterrizar en Marte con su tripulación sana y salva</small></p>
 

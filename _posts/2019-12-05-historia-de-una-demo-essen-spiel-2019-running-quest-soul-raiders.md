@@ -73,16 +73,7 @@ Quest, un marco en el que se piensan hacer más sagas."
 
 ### Running Quest: Soul Raiders
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48986816161/in/dateposted-public/"
-title="foto-soul-raiders"><img
-src="https://live.staticflickr.com/65535/48986816161_c35616770e_c.jpg"
-width="800" height="600" alt="foto-soul-raiders"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
-<p align="center"><small></small></p>
-
+<p align="center"><img src="https://live.staticflickr.com/65535/48986816161_c35616770e_c.jpg"></p>
 
 **[Running Quest: Soul
 Raiders](https://boardgamegeek.com/boardgame/274525/running-quest-soul-raiders)**,
@@ -106,14 +97,7 @@ hacen todo el arte así de bien, va a quedar genial.
 
 ### ¿De qué va el juego?
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49174876248/in/dateposted-public/"
-title="09-intro"><img
-src="https://live.staticflickr.com/65535/49174876248_40b0491422_c.jpg"
-width="647" height="800" alt="09-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49174876248_40b0491422_c.jpg"></p>
 <p align="center"><small>¡Comenzamos con Soul Raiders!</small></p>
 
 **Running Quest: Soul Raiders** es un juego narrativo de aventuras
@@ -134,14 +118,7 @@ otras misiones secundarias. Cuando estemos jugando completamente en solitario
 principal. Completaremos estas misiones cuando consigamos una **carta de trama
 especial** durante la aventura.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49175495342/in/dateposted-public/"
-title="01-localización"><img
-src="https://live.staticflickr.com/65535/49175495342_641c95b5c1_c.jpg"
-width="670" height="800" alt="01-localización"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49175495342_641c95b5c1_c.jpg"></p>
 <p align="center"><small>Localización 2, cara A del tutorial. Podemos gastar
 dos puntos de acción para ir la la localización 8, o ir a la
 localización 1. Además podemos buscar robando la carta X2 en el mazo de cartas
@@ -170,14 +147,7 @@ por ejemplo, si hemos conseguido forzar una puerta en la cara A de una
 localización, en la cara B podremos ver la puerta abierta y una nueva acción de
 movernos hacia lo que esté más allá de este nuevo camino que hemos descubierto.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49174792663/in/dateposted-public/"
-title="02-jugando"><img
-src="https://live.staticflickr.com/65535/49174792663_13b5710e4f_c.jpg"
-width="600" height="800" alt="02-jugando"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49174792663_13b5710e4f_c.jpg"></p>
 <p align="center"><small>Durante un encontronazo contra dos monstruos. El
 cuadrado de abajo a la izquierda, que muestra una B nos indica que tenemos que
 dar la vuelta a la localización cuando acabemos el turno</small></p>
@@ -201,14 +171,7 @@ combate, los diferentes enemigos (algunos con unas habilidades muy engorrosas y
 divertidas) tendrán un valor de salud, y tendremos que jugar cartas cuyos
 puntos de acción igualen o sumen los puntos de salud del enemigo.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49174792553/in/dateposted-public/"
-title="03-combate"><img
-src="https://live.staticflickr.com/65535/49174792553_002d09a351_c.jpg"
-width="800" height="600" alt="03-combate"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49174792553_002d09a351_c.jpg"></p>
 <p align="center"><small>Ejemplo de combate, la carta con un tres a la derecha
 muestra el daño que podemos hacer, o en su defecto podemos utilizar
 la habilidad que indica debajo, que en este caso es magia de ataque</small></p>
@@ -225,14 +188,7 @@ En las diferentes fotos de esta entrada vais a poder ver que los **enemigos
 los **enemigos especiales** que nos pide el juego que saquemos en diferentes
 momentos tienen cartas más grandes y alargadas, y además tienen fondo.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49175277936/in/dateposted-public/"
-title="04-marcador"><img
-src="https://live.staticflickr.com/65535/49175277936_2798d58028_c.jpg"
-width="656" height="800" alt="04-marcador"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49175277936_2798d58028_c.jpg"></p>
 <p align="center"><small>Tablero con diferentes marcadores, nuestra salud,
 turno actual, número de cartas que podemos tener en mano...</small></p>
 
@@ -251,14 +207,7 @@ tamaño de mano se ve reducido.
 
 ### La demo
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49175494892/in/dateposted-public/"
-title="06-intro-demo"><img
-src="https://live.staticflickr.com/65535/49175494892_5862b1f237_c.jpg"
-width="581" height="800" alt="06-intro-demo"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49175494892_5862b1f237_c.jpg"></p>
 <p align="center"><small>Introducción del tutorial</small></p>
 
 La demo disponible en Essen era el Capítulo 0, que es el tutorial de antes de
@@ -276,14 +225,7 @@ y tras comentarlo con Jim me comentó que parte de la familia del autor tiene
 raíces en el departamento cerca del País Vasco francés y de ahí ha sacado los
 nombres.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49175075213/in/dateposted-public/"
-title="07-personajes"><img
-src="https://live.staticflickr.com/65535/49175075213_96c8ecafac_c.jpg"
-width="800" height="600" alt="07-personajes"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49175075213_96c8ecafac_c.jpg"></p>
 <p align="center"><small>Diferentes personajes</small></p>
 
 
@@ -313,14 +255,7 @@ lucho, me envenenan, y a duras penas consigo superar la misión.
 
 ### Sensaciones
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49175277866/in/dateposted-public/"
-title="05-outro"><img
-src="https://live.staticflickr.com/65535/49175277866_5b6a505db3_c.jpg"
-width="800" height="599" alt="05-outro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49175277866_5b6a505db3_c.jpg"></p>
 <p align="center"><small>Mesa de juego tras conseguir superar la
 demo</small></p>
 
@@ -365,14 +300,7 @@ que podías saltar entre dos localizaciones que no estuvieran conectadas de
 forma directa. Esta magia tan poco vista me parece la bomba para el estilo de
 exploración que tiene este juego.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49175277456/in/dateposted-public/"
-title="08-monstruos"><img
-src="https://live.staticflickr.com/65535/49175277456_219a2fedc3_c.jpg"
-width="800" height="351" alt="08-monstruos"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49175277456_219a2fedc3_c.jpg"></p>
 <p align="center"><small>Varios enemigos del juego</small></p>
 
 Me gustó mucho también que se intercalase la narración entre las cartas de
@@ -426,13 +354,6 @@ persona" que ofrece frente a otros juegos similares. Yo ya estoy ahorrando.
 Aquí os dejo una foto más grande del fuerte en ruinas por si no ha quedado
 claro que me encanta :)
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49175357176/in/dateposted-public/"
-title="10-outro"><img
-src="https://live.staticflickr.com/65535/49175357176_f34a171030_c.jpg"
-width="600" height="800" alt="10-outro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49175357176_f34a171030_c.jpg"></p>
 <p align="center"><small>Fuerte en ruinas</small></p>
 

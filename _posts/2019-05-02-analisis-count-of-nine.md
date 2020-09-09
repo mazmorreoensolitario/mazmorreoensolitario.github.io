@@ -74,14 +74,8 @@ Premios Golden Geek de 2018. Después de conocer los resultados de la
 votaciones, vamos a analizar más detenidamente este juego.
 
 ### Información general
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/40792834903/in/dateposted-public/"
-title="0-intro"><img
-src="https://live.staticflickr.com/65535/40792834903_bdcb5cfb96_z.jpg"
-width="640" height="480" alt="0-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+
+<p align="center"><img src="https://live.staticflickr.com/65535/40792834903_bdcb5cfb96_z.jpg"></p>
 <p align="center"><small>Detalle de una partida de Count of Nine</small></p>
 
 En [Count of Nine](https://boardgamegeek.com/boardgame/247778/count-nine)
@@ -118,13 +112,7 @@ nueve cartas de doble cara que conforman el juego y una pequeña preparación.
 2. Colocamos el resto de las cartas en un montón poniendo el **borde cuadrado**
    de todas las cartas mirando hacia el mismo lado.
    
-   <p align="centre">
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/32815704057/in/dateposted-public/"
-   title="2-bordes"><img
-   src="https://live.staticflickr.com/65535/32815704057_b73634b525_z.jpg"
-   width="640" height="390" alt="2-bordes"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+   <p align="center"><img src="https://live.staticflickr.com/65535/32815704057_b73634b525_z.jpg"></p>
    <p align="center"><small>La carta central tiene los bordes cuadrados y las
    cartas de los lados bordes redondeados.</small></p>
 
@@ -136,14 +124,7 @@ nueve cartas de doble cara que conforman el juego y una pequeña preparación.
    hacia nosotros. Podemos elegir qué borde queremos poner hacia arriba (que
    estaría activo, sobre esto más abajo) y cuál hacia abajo.
    
-   <p align="center">
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/32815704397/in/dateposted-public/"
-   title="1-setup-00"><img
-   src="https://live.staticflickr.com/65535/32815704397_77af84679c_z.jpg"
-   width="640" height="414" alt="1-setup-00"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-   </p>
+   <p align="center"><img src="https://live.staticflickr.com/65535/32815704397_77af84679c_z.jpg"></p>
    <p align="center"><small>En esta partida vamos a construir la Estructura
    Elevada Monumento (Monument) y hemos preparado el montón de cartas iniciales
    a su derecha, en apaisado</small></p>
@@ -186,15 +167,7 @@ mano de obra una vez que han sido construidos. **Si tenemos un icono en la
 parte superior** dentro del cuadrado del edificio, produciremos ese recurso o
 tendremos esa mano de obra.
 
-
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/47759321951/in/dateposted-public/"
-title="3-carta-1"><img
-src="https://live.staticflickr.com/65535/47759321951_460ac32577_z.jpg"
-width="496" height="640" alt="3-carta-1"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/47759321951_460ac32577_z.jpg"></p>
 <p align="center"><small>Esta carta se llama Taberna (Tavern) y cuesta 1 de
 Leña y 1 de Trabajadores. Cuando la construyamos nos dará 1
 Trabajador. En el reverso hay dos edificios Iglesia (Church) y Mercado
@@ -205,14 +178,7 @@ Trabajador. En el reverso hay dos edificios Iglesia (Church) y Mercado
 especie de escudo y dentro del recuadro del edificio puede aparecer o no una
 cantidad de puntos de victoria (PV) que se consiguen por construir el edificio.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/47759322211/in/dateposted-public/"
-title="2-carta-2"><img
-src="https://live.staticflickr.com/65535/47759322211_70ef677e19_z.jpg"
-width="562" height="640" alt="2-carta-2"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/47759322211_70ef677e19_z.jpg"></p>
 <p align="center"><small>La carta de Mercado (Market) nos da 1 PV al final de
 la partida</small></p>
 
@@ -221,14 +187,7 @@ dos recursos, uno en la parte superior y otro en la inferior. El que está
 derecho, en la parte superior, **es el recurso activo** y podremos usarlo para
 construir. El inferior es el inactivo y lo ignoramos.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/32815703477/in/dateposted-public/"
-title="3-carta-1-1"><img
-src="https://live.staticflickr.com/65535/32815703477_df77869e69_z.jpg"
-width="640" height="496" alt="3-carta-1-1"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/32815703477_df77869e69_z.jpg"></p>
 <p align="center"><small>Esta carta tiene 1 de Oro en su recurso activo, su
 recurso inactivo es 1 Trabajador</small></p>
 
@@ -248,19 +207,8 @@ lo que antes era arriba ahora es abajo y vice versa.
 
 #### Ya podemos empezar a jugar
 
-<p align="center">
-</p>
-<p align="center"><small></small></p>
-
-<p align="center">
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/32815704397/in/dateposted-public/"
-   title="1-setup-00"><img
-   src="https://live.staticflickr.com/65535/32815704397_77af84679c_z.jpg"
-   width="640" height="414" alt="1-setup-00"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-   </p>
-   <p align="center"><small>Recordemos que empezamos con el juego así</small></p>
+<p align="center"><img src="https://live.staticflickr.com/65535/32815704397_77af84679c_z.jpg"></p>
+<p align="center"><small>Recordemos que empezamos con el juego así</small></p>
 
 En este juego vamos a tener dos áreas diferentes, el *Área de los Montones*,
 que es una línea con tres zonas diferentes (dos montones activos y el montón de
@@ -271,14 +219,7 @@ Montones (ver imagen de arriba) y lo primero que vamos a hacer es *deslizar* la
 carta superior para tener dos montones, el más grande a la izquierda y el
 montón con la única carta a la derecha (ver imagen de abajo).
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/32815704287/in/dateposted-public/"
-title="1-setup-01"><img
-src="https://live.staticflickr.com/65535/32815704287_335920993e_z.jpg"
-width="640" height="296" alt="1-setup-01"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/32815704287_335920993e_z.jpg"></p>
 <p align="center"><small>Hemos deslizado la carta de Blackmith/Stonemason hacia
 la derecha mostrando la carta de Tavern/Goldsmith</small></p>
 
@@ -299,14 +240,7 @@ los edificios que ya tengamos construidos en nuestra Zona de Ciudad.
   columna de forma que podamos leer el nombre del edificio correctamente (es
   decir, en vertical).
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/47759321741/in/dateposted-public/"
-  title="4-juego1"><img
-  src="https://live.staticflickr.com/65535/47759321741_21c6e4930f_z.jpg"
-  width="640" height="368" alt="4-juego1"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-  </p>
+  <p align="center"><img src="https://live.staticflickr.com/65535/47759321741_21c6e4930f_z.jpg"></p>
   <p align="center"><small>En este ejemplo tenemos una Taberna
   construida</small></p> 
 
@@ -319,14 +253,7 @@ orden:
 * Si hemos usado recursos de edificios en nuestra Zona de Ciudad no podremos
   volver a usarlos en esta ronda. Los ladeamos un poco para acordarnos.
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/32815703197/in/dateposted-public/"
-  title="4-juego-2"><img
-  src="https://live.staticflickr.com/65535/32815703197_46c7bba324_z.jpg"
-  width="640" height="402" alt="4-juego-2"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </p>
+  <p align="center"><img src="https://live.staticflickr.com/65535/32815703197_46c7bba324_z.jpg"></p>
   <p align="center"><small>Hemos usado el recurso que nos proporcionaba la
   Taberna, 1 Trabajador, así que lo dejamos ladeado para acordarnos</small></p>
 
@@ -336,28 +263,14 @@ orden:
 * Si hay una carta en la zona central del Área de los montones la volteamos y
   descartamos.
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/47759322431/in/dateposted-public/"
-  title="1-setup-02"><img
-  src="https://live.staticflickr.com/65535/47759322431_4a46ab4162_z.jpg"
-  width="640" height="247" alt="1-setup-02"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-  </p>
+  <p align="center"><img src="https://live.staticflickr.com/65535/47759322431_4a46ab4162_z.jpg"></p>
   <p align="center"><small>No hemos construido nada, así que volteamos la carta
   central y la ponemos en el montón de descartes (a la derecha del todo)</small></p>
 
 * Si la zona central del Área de los Montones está vacía deslizamos una carta
   del montón de la izquierda a esta zona.
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/32815703787/in/dateposted-public/"
-  title="2-setup-03"><img
-  src="https://live.staticflickr.com/65535/32815703787_e273b5439a_z.jpg"
-  width="640" height="239" alt="2-setup-03"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </p>
+  <p align="center"><img src="https://live.staticflickr.com/65535/32815703787_e273b5439a_z.jpg"></p>
   <p align="center"><small>Como teníamos un vacío en el montón del medio (ver
   imagen superior) hemos
   deslizado una carta del montón de la izquierda al centro</small></p>

@@ -110,7 +110,7 @@ en las siguientes secciones.
   necesarios para su reserva. Para este análisis vamos a usar a la Cazadora,
   que tiene 3 dados de fuerza, 3 dados de agilidad y 1 dado de magia.
   
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/45416403595/in/dateposted-public/" title="00-personajes"><img src="https://farm5.staticflickr.com/4876/45416403595_67ab9a8174_c.jpg" width="800" height="591" alt="00-personajes"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm5.staticflickr.com/4876/45416403595_67ab9a8174_c.jpg"></p>
   <p align="center"><small>Diferentes personajes que trae el juego (la Cazadora
   no sale en esta foto), cada personaje tiene una Habilidad y Hazaña Heroica
   única, además sus características de Fuerza, Agilidad, Magia y Puntos de Daño
@@ -130,7 +130,7 @@ en las siguientes secciones.
 * Barajamos las cartas de Habitación y colocamos la carta de Escaleras al
   final. 
   
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/45416404075/in/dateposted-public/" title="01-setup-personaje-mazmorra"><img src="https://farm5.staticflickr.com/4867/45416404075_249523b592_c.jpg" width="800" height="585" alt="01-setup-personaje-mazmorra"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm5.staticflickr.com/4867/45416404075_249523b592_c.jpg"></p>
   <p align="center"><small>Después de la preparación de nuestro personaje la
   zona del personaje debería tener una organización similar a esta.</small></p>
 
@@ -161,7 +161,7 @@ En cada turno tendremos que hacer las siguientes acciones:
      Habitación y decidiremos si entrar en ella o huir; o por otro lado,
      podremos decidir entrar en una Habitación que ya esté descubierta.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/45416404385/in/dateposted-public/" title="02-explorando"><img src="https://farm5.staticflickr.com/4804/45416404385_f5cfe963e6_c.jpg" width="800" height="580" alt="02-explorando"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm5.staticflickr.com/4804/45416404385_f5cfe963e6_c.jpg"></p>
 <p align="center"><small>En el primer turno Exploramos la Mazmorra, poniendo
 cuatro Habitaciones sin abrir. El mazo de la mazmorra está arriba a la izquierda
 y la pila de descartes abajo</small></p>
@@ -193,7 +193,7 @@ cuadrados/rectángulos:
    valor más bajo de los dos. Los dados negros pueden utilizarse como dados de
    Fuerza, Habilidad o Magia.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/45416405065/in/dateposted-public/" title="04-tipos-de-encuentro"><img src="https://farm5.staticflickr.com/4814/45416405065_fa854992b4_c.jpg" width="800" height="297" alt="04-tipos-de-encuentro"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm5.staticflickr.com/4814/45416405065_fa854992b4_c.jpg"></p>
 <p align="center"><small>A la izquierda un Encuentro tipo Peligro y a la
 derecha un evento tipo Combate</small></p>
 
@@ -206,7 +206,7 @@ encuentro seguiremos esta secuencia:
    Habitación del Peligro *Thornspitter* (Escupe Espinas) y decidimos tratar de
    golpearlo (*Strike Down*), lo que implica que utilicemos nuestros dados de Fuerza.
    
-   <a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/45416404685/in/dateposted-public/" title="03-entrando-en-una-habitacion"><img src="https://farm5.staticflickr.com/4816/45416404685_9ce5accd5d_c.jpg" width="800" height="609" alt="03-entrando-en-una-habitacion"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+   <p align="center"><img src="https://farm5.staticflickr.com/4816/45416404685_9ce5accd5d_c.jpg"></p>
    <p align="center"><small>Entramos en una Habitación de la Mazmorra y
    encontramos un Peligro</small></p>
 2. Si queremos podemos **utilizar la Hazaña Heroica de nuestra aventurera.** En
@@ -218,7 +218,7 @@ encuentro seguiremos esta secuencia:
    estamos enfrentando al Peligro intentando golpearlo, lo que nos exige perder
    1 de Tiempo y hemos tirado nuestros dados de Fuerza, dándonos un 6-3-3.
 
-    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/45416405355/in/dateposted-public/" title="05-encuentro"><img src="https://farm5.staticflickr.com/4903/45416405355_1667373e34_c.jpg" width="800" height="544" alt="05-encuentro"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <p align="center"><img src="https://farm5.staticflickr.com/4903/45416405355_1667373e34_c.jpg"></p>
     <p align="center"><small>Intentamos resolver en Encuentro tipo Peligro y tenemos
     una mala tirada</small></p>
 4. **Usamos Habilidades, Pociones y colocamos los dados.** Podremos utilizar
@@ -235,7 +235,7 @@ encuentro seguiremos esta secuencia:
    con un 6-5-3, utilizaríamos el 5 para tapar los requisitos de la Mazmorra y
    el 6 y 3 restantes para tapar los requisitos del Peligro.
 
-    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/45416405685/in/dateposted-public/" title="06-resolviendo-encuentro"><img src="https://farm5.staticflickr.com/4855/45416405685_e1e93a2c10_c.jpg" width="800" height="282" alt="06-resolviendo-encuentro"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <p align="center"><img src="https://farm5.staticflickr.com/4855/45416405685_e1e93a2c10_c.jpg"></p>
     <p align="center"><small>Ejemplo de resolución del Encuentro Peligro</small></p>
 
 5. **Sufrimos las consecuencias.** Cada cuadrado/rectángulo que no tapemos tiene
@@ -251,7 +251,7 @@ encuentro seguiremos esta secuencia:
     En la imagen de abajo tenemos a nuestra Cazadora en un momento más avanzado
     de la partida.
     
-    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/44512288210/in/dateposted-public/" title="07-progresion-personaje"><img src="https://farm5.staticflickr.com/4900/44512288210_e575ebd602_c.jpg" width="773" height="800" alt="07-progresion-personaje"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <p align="center"><img src="https://farm5.staticflickr.com/4900/44512288210_e575ebd602_c.jpg"></p>
     <p align="center"><small>Ejemplo de progresión del personaje. La aventurera ha
     ganado dos Objetos, que le han dado un dado extra de Fuerza y otro de Agilidad,
     además ha aumentado sus Puntos de Daño máximos en uno. Además tiene una

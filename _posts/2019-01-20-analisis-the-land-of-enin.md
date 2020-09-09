@@ -96,12 +96,7 @@ conseguido en nuestro viaje.
   
 * Dejamos las dos cartas de Encuentros y la carta de Tesoro a mano.
   
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/32926371178/in/dateposted-public/"
-  title="00-encuentros-tesoro"><img
-  src="https://farm8.staticflickr.com/7903/32926371178_c407ab7008_z.jpg"
-  width="640" height="303" alt="00-encuentros-tesoro"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm8.staticflickr.com/7903/32926371178_c407ab7008_z.jpg"></p>
   <p align="center"><small>De izquierda a derecha, carta de Encuentros 1, carta
   de Encuentros 2 y carta de Tesoro.</small></p>
 
@@ -134,12 +129,7 @@ conseguido en nuestro viaje.
   Tesoro utilizaremos el resto de los marcadores negros, cuatro, para indicar
   los objetos mágicos que poseamos.
 
-<a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/46749676452/in/dateposted-public/"
-  title="00-preparación"><img
-  src="https://farm8.staticflickr.com/7871/46749676452_b4c8cd5295_z.jpg"
-  width="640" height="459" alt="00-preparación"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm8.staticflickr.com/7871/46749676452_b4c8cd5295_z.jpg"></p>
   <p align="center"><small>Ya tenemos preparado el mundo de Enin, el dado de
   poker representa a nuestro personaje, el valeroso Caballero Romboide de la
   Orden de la Margarita</small></p>
@@ -238,12 +228,7 @@ de 3 hace que comience en *Las Colinas de Hierro*.
   el caballero, '*Las Ciudades de la Noche* están a un día de viaje y quizás
   pueda adquirir pociones para mi viaje'.
   
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/46749676312/in/dateposted-public/"
-  title="01-turno-01"><img
-  src="https://farm8.staticflickr.com/7882/46749676312_3bd62383be_z.jpg"
-  width="640" height="532" alt="01-turno-01"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm8.staticflickr.com/7882/46749676312_3bd62383be_z.jpg"></p>
   <p align="center"><small>Localización de *El Bosque de Wyr* a la izquierda, y
   carta de encuentro de tipo 1 a la derecha</small></p>
   
@@ -256,12 +241,7 @@ de 3 hace que comience en *Las Colinas de Hierro*.
   resultado de 2 y ya que el caballero es de nivel 1, la mujer bruja le susurra
   la *contraseña*.
 
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/32926370878/in/dateposted-public/"
-  title="01-fin-turno-01"><img
-  src="https://farm5.staticflickr.com/4913/32926370878_3713927c37_z.jpg"
-  width="511" height="640" alt="01-fin-turno-01"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm5.staticflickr.com/4913/32926370878_3713927c37_z.jpg"></p>
   <p align="center"><small>Estadísticas del Caballero Romboide tras el primer
   turno</small></p>
   
@@ -281,13 +261,8 @@ de 3 hace que comience en *Las Colinas de Hierro*.
   nivel 1 del caballero, así que sale de la biblioteca sin tan siquiera haber
   podido averiguar en qué parte de esta está la *llave*.
 
-  <a data-flickr-embed="true"
-    href="https://www.flickr.com/photos/165706612@N02/32926370548/in/dateposted-public/"
-    title="02-turno-02"><img
-    src="https://farm8.staticflickr.com/7894/32926370548_c05576baba_z.jpg"
-    width="596" height="640" alt="02-turno-02"></a><script async
-    src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-    <p align="center"><small>El caballero visita Las ciudades de la Noche</small></p>
+  <p align="center"><img src="https://farm8.staticflickr.com/7894/32926370548_c05576baba_z.jpg"></p>
+  <p align="center"><small>El caballero visita Las ciudades de la Noche</small></p>
 
 * En el tercer día, el caballero decide dirigirse a *Los Peñascos en la
   Oscuridad*, tierra de dragones en Enin, quienes tienen un amor por el oro que
@@ -315,12 +290,7 @@ de 3 hace que comience en *Las Colinas de Hierro*.
   mal' - piensa en caballero, 'con un par de piezas de oro más podría comprarme
   más pociones y asegurar mi victoria en esta misión'.
 
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/46749676202/in/dateposted-public/"
-  title="03-turno-03"><img
-  src="https://farm5.staticflickr.com/4907/46749676202_ab131829dc_z.jpg"
-  width="640" height="547" alt="03-turno-03"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm5.staticflickr.com/4907/46749676202_ab131829dc_z.jpg"></p>
   <p align="center"><small>El caballero lucha contra un Withe en Los Peñascos
   en la Oscuridad</small></p>
 
@@ -335,12 +305,7 @@ de 3 hace que comience en *Las Colinas de Hierro*.
   caballero, contando el oro que tiene en su propiedad (17 monedas), 'con estas
   monedas podré comprarme las pociones que harán mi misión pan comido'.
 
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/31860496627/in/dateposted-public/"
-  title="04-turno-04"><img
-  src="https://farm5.staticflickr.com/4850/31860496627_35b9bc23e5_z.jpg"
-  width="640" height="535" alt="04-turno-04"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm5.staticflickr.com/4850/31860496627_35b9bc23e5_z.jpg"></p>
   <p align="center"><small>El caballero encuentra un saco de oro en las Tierras
   Baldías Perdidas</small></p>
 
@@ -386,12 +351,7 @@ de 3 hace que comience en *Las Colinas de Hierro*.
   ver escurrirse la sangre del cuerpo del Caballero Romboide por las grietas de
   las rocas.
 
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/32926370318/in/dateposted-public/"
-  title="05-turno-05"><img
-  src="https://farm8.staticflickr.com/7891/32926370318_98609d2876_z.jpg"
-  width="640" height="308" alt="05-turno-05"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+  <p align="center"><img src="https://farm8.staticflickr.com/7891/32926370318_98609d2876_z.jpg"></p>
   <p align="center"><small>Últimos momentos del Caballero Romboide</small></p>
 
 *Y así termina la historia del Caballero Romboide, que fue corrompido por los
