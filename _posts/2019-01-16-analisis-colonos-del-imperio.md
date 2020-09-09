@@ -58,16 +58,10 @@ el de nuestro rival virtual."
     </div>
 </div>
 
-<p align="center"><small></small></p>
 
 ### Información general
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/31825516497/in/dateposted-public/"
-title="00-facciones"><img
-src="https://farm8.staticflickr.com/7879/31825516497_80ca69bda1_c.jpg"
-width="782" height="800" alt="00-facciones"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+<p align="center"><img src="https://farm8.staticflickr.com/7879/31825516497_80ca69bda1_c.jpg"></p>
 <p align="center"><small>Tableros de cada Facción, cada tablero tiene una
 versión en cada lado, solamente cambia la ilustración de la persona que
 representa a la civilización</small></p>
@@ -121,18 +115,7 @@ futuro.
   las fichas de Saqueo a mano, formarán el Suministro General.
   Las fichas de Defensa no se usan.
   
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/46767140261/in/dateposted-public/"
-  title="01-recursos"><img
-  src="https://farm8.staticflickr.com/7844/46767140261_57ac0e17c2_c.jpg"
-  width="800" height="281" alt="Recursos"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/31825517327/in/dateposted-public/"
-  title="02-otras-cosas"><img
-  src="https://farm5.staticflickr.com/4875/31825517327_1ddbbddc32_c.jpg"
-  width="800" height="272" alt="Oro, Trabajadores y Fichas de Saqueo"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm5.staticflickr.com/4875/31825517327_1ddbbddc32_c.jpg"></p>
   <p align="center"><small>De arriba a abajo y de izquierda a derecha recursos
   de Madera, Comida y Piedra, Oro, Trabajadores y fichas de Saqueo. Forman el
   Suministro General</small></p> 
@@ -142,12 +125,7 @@ futuro.
   Ponemos el marcador de ronda en la primera ronda, cuando finalicemos la
   quinta ronda se terminará la partida.
   
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/45851973755/in/dateposted-public/"
-  title="03-tablero-de-punt"><img
-  src="https://farm8.staticflickr.com/7911/45851973755_f43ecf672d_c.jpg"
-  width="800" height="422" alt="03-tablero-de-punt"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+  <p align="center"><img src="https://farm8.staticflickr.com/7911/45851973755_f43ecf672d_c.jpg"></p>
   <p align="center"><small>El marcador de ronda es una vaca lechera y en
   nuestra partida cogemos el marcador de Facción de los Bárbaros para anotar
   los PVs</small></p>
@@ -157,12 +135,7 @@ futuro.
   primera. Estas cartas de Ataque son usadas por el rival virtual para saber
   qué localizaciones de nuestro imperio nos va a atacar.
   
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/45851974375/in/dateposted-public/"
-  title="04-carta-de-ataque"><img
-  src="https://farm5.staticflickr.com/4809/45851974375_61b8173a07_c.jpg"
-  width="800" height="546" alt="04-carta-de-ataque"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm5.staticflickr.com/4809/45851974375_61b8173a07_c.jpg"></p>
   <p align="center"><small>Las cartas de Ataque tiene iconos bastante sutiles
   en la parte superior, en este caso la carta de Ataque revelada muestra el
   recurso Madera</small></p>
@@ -183,13 +156,7 @@ partida.
 En esta fase conseguiremos nuevas cartas:
 1. Robaremos una carta de nuestro mazo de Facción y la añadimos a nuestra mano.
    
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/46042273994/in/dateposted-public/"
-   title="09-cartas-de-faccion-y-comun"><img
-   src="https://farm5.staticflickr.com/4885/46042273994_616cac2155_c.jpg"
-   width="800" height="555" alt="09-cartas-de-faccion-y-comun"></a><script
-   async src="//embedr.flickr.com/assets/client-code.js"
-   charset="utf-8"></script>
+   <p align="center"><img src="https://farm5.staticflickr.com/4885/46042273994_616cac2155_c.jpg"></p>
    <p align="center"><small>Reverso de las cartas de Facción arriba, de
    izquierda a derecha: Bárbaros, Japoneses, Romanos y Egipcios. Reverso de las
    cartas Comunes abajo</small></p>
@@ -208,12 +175,7 @@ nuevas y una de Facción.
 
 #### Fase de producción
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/31825870977/in/dateposted-public/"
-title="10-produccion"><img
-src="https://farm5.staticflickr.com/4889/31825870977_7154e7b96e_c.jpg"
-width="800" height="600" alt="10-produccion"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm5.staticflickr.com/4889/31825870977_7154e7b96e_c.jpg"></p>
 <p align="center"><small>Ejemplo de lo que producen los Bárbaros en una fase
 avanzada del juego</small></p>
 
@@ -252,12 +214,7 @@ ejecutar acciones.
 
 #### Fase de acción
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/45851982435/in/dateposted-public/"
-title="07-apoyo-accion"><img
-src="https://farm5.staticflickr.com/4887/45851982435_c7c9d60d11_c.jpg"
-width="800" height="550" alt="07-apoyo-accion"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm5.staticflickr.com/4887/45851982435_c7c9d60d11_c.jpg"></p>
 <p align="center"><small>Localización de Apoyo *Incursores* de los Bárbaros a
 la izquierda y localización de Acción *Aserradero* del mazo Común a la derecha
 </small></p>
@@ -374,12 +331,7 @@ los siguientes pasos:
    ataque tendremos que seguir con el segundo, empezando otra vez por el paso
    1, sino la fase de ataque ha terminado).
    
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/39802352083/in/dateposted-public/"
-   title="12-ataque-1"><img
-   src="https://farm8.staticflickr.com/7885/39802352083_8d76156e49_c.jpg"
-   width="800" height="600" alt="12-ataque-1"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+   <p align="center"><img src="https://farm8.staticflickr.com/7885/39802352083_8d76156e49_c.jpg"></p>
    <p align="center"><small>Ejemplo del inicio de la Fase de ataque. El rival
    virtual tiene ya dos cartas Comunes que forman parte de su Colección (abajo
    a la derecha). Las cartas de ataque son Madera y PV, miradas de abajo a
@@ -423,12 +375,7 @@ los siguientes pasos:
    el paso 1, sino el la Fase de ataque del rival virtual termina.  
    
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/31826151127/in/dateposted-public/"
-title="13-ataque-2"><img
-src="https://farm8.staticflickr.com/7856/31826151127_d68d8e9c9e_c.jpg"
-width="800" height="600" alt="13-ataque-2"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm8.staticflickr.com/7856/31826151127_d68d8e9c9e_c.jpg"></p>
 <p align="center"><small>Ejemplo del final de la fase de ataque. El rival
 virtual nos ha saqueado la carta *Patíbulo* y la ha añadido a su
 colección. Hemos colocado las cartas que hemos utilizado para hacer el ataque
@@ -486,17 +433,12 @@ permitirte ir a PVs cuándo sabes que vas bien.
 
 ### Opinión
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/45851982525/in/dateposted-public/"
-title="08-cartas-bonitas"><img
-src="https://farm5.staticflickr.com/4844/45851982525_1d9a9ef1b8_c.jpg"
-width="800" height="566" alt="08-cartas-bonitas"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm5.staticflickr.com/4844/45851982525_1d9a9ef1b8_c.jpg"></p>
 <p align="center"><small>Cartas del *Gran Bazar* de los Egipcios y *Escuela de
 Sumo* de los Japoneses. Un lector avispado se dará cuenta de que antes hemos
 comentado que las localizaciones de Facción se distinguen porque no se pueden
 saquear, existe una excepción, la facción de los Japoneses </small></p>
-v
+
 **Apartado gráfico y componentes.**
 Empezando por el apartado gráfico, Colonos del Imperio es precioso y tiene
 ilustraciones que han cuidado con muchísimo el detalle. Si se alarga una

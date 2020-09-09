@@ -64,14 +64,7 @@ ciudad del Señor de los Cubos."
 
 ### Información general
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/46504296355/in/dateposted-public/"
-title="00-intro"><img
-src="https://farm8.staticflickr.com/7883/46504296355_35533a7d66_z.jpg"
-width="640" height="479" alt="00-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7883/46504296355_35533a7d66_z.jpg"></p>
 <p align="center"><small>La batalla contra el Señor de los Cubos comienza</small></p>
 
 [Land 6](https://boardgamegeek.com/boardgame/161849/land-6) es un juego de
@@ -103,14 +96,7 @@ dados colocados en casillas de ciudades son derrotadas, perderemos la partida.
 
 ### Preparación
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/40453901093/in/dateposted-public/"
-title="00-setup"><img
-src="https://farm8.staticflickr.com/7817/40453901093_f91b9d0924_z.jpg"
-width="640" height="343" alt="00-setup"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7817/40453901093_f91b9d0924_z.jpg"></p>
 <p align="center"><small>Land 6 preparado para jugar. Las losetas con valor 1 y
 6 se encuentran en los laterales, mientras que el resto se han puesto de forma
 aleatoria formando un cuadrado en el centro. Se ha colocado un ejército (dado
@@ -159,14 +145,7 @@ losetas para entender cuál es el alcance de nuestros movimientos en el juego.
 
 #### Conociendo las losetas
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/40453901183/in/dateposted-public/"
-title="01-loseta"><img
-src="https://farm8.staticflickr.com/7898/40453901183_b653b66090_z.jpg"
-width="640" height="626" alt="01-loseta"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7898/40453901183_b653b66090_z.jpg"></p>
 <p align="center"><small>Loseta del juego. De izquierda a derecha y de arriba a
 abajo casillas de: Bosque, Ciudad, Campo de cultivo y Mar</small></p>
 
@@ -252,14 +231,7 @@ que desplegará uno de sus ejércitos (los cubos).
  de cada ejército nuestro en dicha loseta, si no tenemos ejércitos allí 
  reducimos en 1 el valor de un ejército en una Ciudad cualquiera.
  
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/40453901383/in/dateposted-public/"
-  title="02-tirada-señor-de-los-cubos"><img
-  src="https://farm8.staticflickr.com/7906/40453901383_5d4fb2a36a_z.jpg"
-  width="471" height="640" alt="02-tirada-señor-de-los-cubos"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-  </p>
+  <p align="center"><img src="https://farm8.staticflickr.com/7906/40453901383_5d4fb2a36a_z.jpg"></p>
   <p align="center"><small>Resultado de la tirada del Señor de los Cubos</small></p>
  
   En el ejemplo de la imagen de arriba el Señor de los Cubos ha tenido un
@@ -291,14 +263,7 @@ conseguir, y el juego en si es extremadamente fácil de producir.
 
 ### Opinión
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/46504300015/in/dateposted-public/"
-title="03-media-partida"><img
-src="https://farm8.staticflickr.com/7882/46504300015_0ea14831f9_z.jpg"
-width="640" height="352" alt="03-media-partida"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7882/46504300015_0ea14831f9_z.jpg"></p>
 <p align="center"><small>Partida en un estado avanzado</small></p>
  
 

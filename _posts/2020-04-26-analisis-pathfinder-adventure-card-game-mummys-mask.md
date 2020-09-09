@@ -85,14 +85,7 @@ quieres que destaquen.
 
 ### Preparación
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49821523272/in/dateposted-public/"
-title="02-setup"><img
-src="https://live.staticflickr.com/65535/49821523272_eacdac366e_z.jpg"
-width="640" height="536" alt="02-setup"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49821523272_eacdac366e_z.jpg"></p>
 <p align="center"><small>De izquierda a derecha y de arriba a abajo, cartas de
 caja de aventura de Mummy's Mask, carta de mazo de aventura, escenario de la
 aventura y tres localizaciones.</small></p>
@@ -162,14 +155,7 @@ En ambos casos, tendremos que fijarnos en la habilidad que necesitamos para
 adquirir/derrotar la carta y usar la habilidad del personaje para esto. **Vamos
 a ver esto usando un ejemplo de combate:**
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49820671148/in/dateposted-public/"
-title="03-combate-1"><img
-src="https://live.staticflickr.com/65535/49820671148_c98d780592_z.jpg"
-width="640" height="565" alt="03-combate-1"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49820671148_c98d780592_z.jpg"></p>
 <p align="center"><small>Zadim luchando contra un Saqueador de caravanas (los
 dados mostrados no vienen con el juego)</small></p>
 
@@ -210,14 +196,7 @@ dado base de Zadim es el de melee, que es un d8. Por lo que si Zadim usase una
 bendición además del arma u otro personaje la usase en él tiraría 2d8 en vez de
 d8.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49820671103/in/dateposted-public/"
-title="04-combate-2"><img
-src="https://live.staticflickr.com/65535/49820671103_f98f6691b4_z.jpg"
-width="640" height="588" alt="04-combate-2"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49820671103_f98f6691b4_z.jpg"></p>
 <p align="center"><small>Alahzra luchando contra una Hidra de Fuego (los dados
 de la imagen no vienen con el juego)</small></p>
 
@@ -246,14 +225,7 @@ Pero en este juego no todo lo malo es combate, sino que también tendremos
 trampas u alguna otra carta que al añadirse a nuestro equipo es buena, pero que
 adquirirla nos puede poner alguna dificultad.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/32638640997/in/dateposted-public/"
-title="06-cartas-buenas"><img
-src="https://live.staticflickr.com/7867/32638640997_792c222193_z.jpg"
-width="640" height="289" alt="06-cartas-buenas"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/7867/32638640997_792c222193_z.jpg"></p>
 <p align="center"><small>De izquierda a derecha, cartas de armadura, bendición,
 aliado y objeto.</small></p>
 
@@ -270,15 +242,7 @@ cambiar con otros personajes o qué cartas desechamos.
 
 ### Opinión
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49821214016/in/dateposted-public/"
-title="01-outro"><img
-src="https://live.staticflickr.com/65535/49821214016_b646ba030f_z.jpg"
-width="640" height="480" alt="01-outro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
-<p align="center"><small></small></p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49821214016_b646ba030f_z.jpg"></p>
 
 Antes que nada, si queréis tener una visión más completa de lo
 que pensaba al principio y lo que pienso ahora de este juego, me gustaría que
@@ -337,14 +301,7 @@ usos bien diferenciados, quiero que gráficamente también esté diferenciado de
 forma clara, pero no. Toca leer todo y discernir qué parte te interesa en cada
 momento. 
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/32638641577/in/dateposted-public/"
-title="01-personajes"><img
-src="https://live.staticflickr.com/7849/32638641577_29a0217290_z.jpg"
-width="640" height="480" alt="01-personajes"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/7849/32638641577_29a0217290_z.jpg"></p>
 <p align="center"><small>Diferentes personajes a elegir de Mummy's
 Mask.</small></p>
 
@@ -397,15 +354,7 @@ lugar" no es suficiente, en estos juegos la historia tiene que ser lo
 principal. Así que si estáis buscando un juego de aventuras, en mi modesta
 opinión, este juego no entra ni dentro de la categoría.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49820671068/in/dateposted-public/"
-title="05-monstruos"><img
-src="https://live.staticflickr.com/65535/49820671068_95f668cf6a_z.jpg"
-width="640" height="561" alt="05-monstruos"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
-<p align="center"><small></small></p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49820671068_95f668cf6a_z.jpg"></p>
 
 ¿Entonces qué es? Este juego de cartas de Pathfinder es un tiradados muy
 variado, tanto en escenarios, enemigos, objetos, poderes... todo lo que queráis
