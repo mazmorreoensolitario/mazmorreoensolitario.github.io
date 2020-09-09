@@ -95,12 +95,7 @@ Para este print and play necesitamos cinco marcadores y 1d6.
   Marciano, cuál es la posición de la nave respecto a Marte y si la nave tiene
   un buen rumbo, respectivamente.
 
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/45749962024/in/dateposted-public/"
-  title="00-preparacion"><img
-  src="https://farm8.staticflickr.com/7871/45749962024_9c2e5f8b06_c.jpg"
-  width="699" height="800" alt="00-preparacion"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+  <p align="center"><img src="https://farm8.staticflickr.com/7871/45749962024_9c2e5f8b06_c.jpg"></p>
   <p align="center"><small>Colocando los marcadores en las cartas de Recursos
   (arriba), Trayectoria (izquierda) y Blanco (derecha)</small></p>
   
@@ -159,12 +154,7 @@ que va a sufrir el Marciano.
    carta de Recursos. Aquí crearemos una fila con los diferentes fallos de
    equipamiento que vayan ocurriendo.
    
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/45749968904/in/dateposted-public/"
-   title="01-marte-peligros-01"><img
-   src="https://farm8.staticflickr.com/7875/45749968904_b52c61404e_c.jpg"
-   width="800" height="336" alt="01-marte-peligros-01"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+   <p align="center"><img src="https://farm8.staticflickr.com/7875/45749968904_b52c61404e_c.jpg"></p>
    <p align="center"><small>Aquí tenemos dos fallos de equipamiento, los
    valores de la izquierda junto con la cara del dado especifican qué cosas
    malas le pasan al Marciano</small></p>
@@ -202,12 +192,7 @@ que va a sufrir el Marciano.
    * Icono con un círculo y Comida + Energía + Refugio: perdemos la cantidad
      que nos pongan de recursos elegido por nosotros, podemos mezclar.
  
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/44656563570/in/dateposted-public/"
-   title="00-marte-cartas"><img
-   src="https://farm5.staticflickr.com/4820/44656563570_4ddeae2174_c.jpg"
-   width="800" height="353" alt="00-marte-cartas"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+   <p align="center"><img src="https://farm5.staticflickr.com/4820/44656563570_4ddeae2174_c.jpg"></p>
    <p align="center"><small>Ejemplo de cartas de marte, podemos ver en la
    parte izquierda de cada una diferentes iconos de valores de fallos de
    equipamiento</small></p>
@@ -259,12 +244,7 @@ El Marciano puede:
   Hay algunas cartas que cuando se reparar tienen una habilidad que solamente
   puede usarse como carta de Reacción.
   
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/45749971874/in/dateposted-public/"
-  title="02-marte-reparaciones"><img
-  src="https://farm8.staticflickr.com/7845/45749971874_974874ac1f_c.jpg"
-  width="770" height="800" alt="02-marte-reparaciones"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+  <p align="center"><img src="https://farm8.staticflickr.com/7845/45749971874_974874ac1f_c.jpg"></p>
   <p align="center"><small>El Marciano ha reparado una pieza de equipamiento,
   lo que evita que sus fallos de equipamiento se activen y
   ahora puede usar su habilidad especial. Sin embargo, todavía tiene una pieza
@@ -295,12 +275,7 @@ Control de Misión puede:
   usar la carta de la izquierda para pagar los dos recursos que nos cuesta el
   segundo Empuje.
   
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/44656571020/in/dateposted-public/"
-  title="00-tierra-cartas"><img
-  src="https://farm8.staticflickr.com/7879/44656571020_98e439fa27_c.jpg"
-  width="800" height="275" alt="00-tierra-cartas"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm8.staticflickr.com/7879/44656571020_98e439fa27_c.jpg"></p>
   <p align="center"><small>Cartas de Control de Misión. Si hubiésemos elegido
   jugar estas cartas, en la izquierda podríamos mandar 2 unidades de Energía
   al Marciano o mover el Blanco a la izquierda o hacia abajo; en la derecha
@@ -313,12 +288,7 @@ Control de Misión puede:
   podríamos preparar cartas que nos permitan *reaccionar* en la Fase de
   peligros. 
 
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/44656562420/in/dateposted-public/"
-  title="03-tierra"><img
-  src="https://farm8.staticflickr.com/7854/44656562420_183e4668b1_c.jpg"
-  width="800" height="762" alt="03-tierra"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm8.staticflickr.com/7854/44656562420_183e4668b1_c.jpg"></p>
   <p align="center"><small>Control de Misión ha preparado una carta que podrá
   usarla en el siguiente turno. En el siguiente turno, podrá usar la carta en
   la fase de acción y conseguirá 3 unidades de energía para el Marciano o bien

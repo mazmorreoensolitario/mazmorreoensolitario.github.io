@@ -29,14 +29,8 @@ saga de **Pathfinder Avdenture Card Game.**
 
 ### El juego en el punto de mira
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/32638641577/in/dateposted-public/"
-title="01-personajes"><img
-src="https://live.staticflickr.com/7849/32638641577_29a0217290_z.jpg"
-width="640" height="480" alt="01-personajes"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+
+<p align="center"><img src="https://live.staticflickr.com/7849/32638641577_29a0217290_z.jpg"></p>
 <p align="center"><small>Diferentes personajes de la caja base, cada uno con
 sus habilidades y características únicas. En mis partidas he usado las tres de
 arriba </small></p>
@@ -74,14 +68,7 @@ tras todo esto **me convencí de que era un juego de mazmorreo típico, de los
 que si en una tarde me apetecía tirar dados y pasar un checkeo tras otro me iba
 a gustar**.  Pero me seguía pareciendo salami del caro para algo sin más.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/32638641377/in/dateposted-public/"
-title="02-localizaciones"><img
-src="https://live.staticflickr.com/7923/32638641377_9e439338b7_z.jpg"
-width="640" height="342" alt="02-localizaciones"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/7923/32638641377_9e439338b7_z.jpg"></p>
 <p align="center"><small>Tres localizaciones de la aventura básica. En la parte
 trasera está la descripción de cada una de ellas</small></p>
 
@@ -116,14 +103,8 @@ Así que cuando vi el juego a ese precio, y con el cambio tan bueno que tenemos
 últimamente haciéndose el Euro cada vez más fuerte, decidí comprarlo. Tardó
 algo más de una semana en llegar, y por supuesto, el trayecto nacional con
 Correos fue lo más lento de todo el proceso.
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/47528167452/in/dateposted-public/"
-title="03-hechizos-armas"><img
-src="https://live.staticflickr.com/7883/47528167452_21aae02539_z.jpg"
-width="640" height="356" alt="03-hechizos-armas"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+
+<p align="center"><img src="https://live.staticflickr.com/7883/47528167452_21aae02539_z.jpg"></p>
 <p align="center"><small>Dos hechizos básicos y un arma</small></p>
 
 Pero, **¿porqué no se te ocurrió esperar a que salga el juego en español?**
@@ -165,14 +146,7 @@ uno, esos me quedan por jugar.
 
 #### ¿De qué va el juego?
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/32638641147/in/dateposted-public/"
-title="05-monstruos-trampas"><img
-src="https://live.staticflickr.com/7877/32638641147_49dc972d8f_z.jpg"
-width="480" height="640" alt="05-monstruos-trampas"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/7877/32638641147_49dc972d8f_z.jpg"></p>
 <p align="center"><small>Arriba dos monstruos y abajo dos trampas. Los villanos
 y los secuaces son un tipo especial de monstruos (no os los enseño para evitar 
 spoilers)</small></p>
@@ -207,14 +181,7 @@ cartas que nos permitan añadir dados a la tirada.
 
 #### Ahora sí, primeras impresiones
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/32638640997/in/dateposted-public/"
-title="06-cartas-buenas"><img
-src="https://live.staticflickr.com/7867/32638640997_792c222193_z.jpg"
-width="640" height="289" alt="06-cartas-buenas"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/7867/32638640997_792c222193_z.jpg"></p>
 <p align="center"><small>Varios tipos de cartas buenas, de izquierda a derecha:
 armadura (en este caso un casco), bendición, aliado y objeto</small></p>
 

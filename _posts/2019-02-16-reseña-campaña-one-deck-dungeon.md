@@ -19,14 +19,8 @@ fijado en que el apartado de opinión del juego dimos una nota relativamente
 alta pero no explicamos demasiado el porqué, esta reseña es la respuesta a
 esas preguntas.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/47059537362/in/dateposted-public/"
-title="close-up"><img
-src="https://farm8.staticflickr.com/7800/47059537362_5f96f5a3e0_z.jpg"
-width="640" height="480" alt="close-up"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+
+<p align="center"><img src="https://farm8.staticflickr.com/7800/47059537362_5f96f5a3e0_z.jpg"></p>
 <p align="center"><small>Chan chan.... ¿qué será esto del modo campaña?</small></p>
  
 Las diferentes clases que proporciona One Deck Dungeon para tus aventuras por
@@ -74,14 +68,7 @@ pero en si no vas a encontrar aventuras ni historias predefinidas en el
 juego.
 Es por eso que hablamos del *modo campaña* del juego en vez de *la campaña*.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/33236616228/in/dateposted-public/"
-title="fichas-campaña"><img
-src="https://farm8.staticflickr.com/7914/33236616228_e28dc480c7_z.jpg"
-width="447" height="640" alt="fichas-campaña"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7914/33236616228_e28dc480c7_z.jpg"></p>
 <p align="center"><small>Fichas del modo campaña de One Deck Dungeon: Forest of
 Shadows</small></p>
 
