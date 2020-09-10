@@ -65,12 +65,7 @@ edición.
 
 ### Información general
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/39919132683/in/dateposted-public/"
-title="00-intro-micro-city"><img
-src="https://farm5.staticflickr.com/4815/39919132683_3d054d6f70_z.jpg"
-width="640" height="480" alt="00-intro-micro-city"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm5.staticflickr.com/4815/39919132683_3d054d6f70_z.jpg"></p>
 <p align="center"><small>Micro City en todo su colorido</small></p>
 
 En [Micro City](https://boardgamegeek.com/boardgame/255586/micro-city) somos un
@@ -117,35 +112,20 @@ fichas de Inversión, 10 marcadores y 3d6.
   En las fotos de abajo podéis ver
   todos los Edificios disponibles en el juego.
   
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/39919137283/in/dateposted-public/"
-  title="03-cartas-de-edificio-1"><img
-  src="https://farm5.staticflickr.com/4864/39919137283_f864752e3a_z.jpg"
-  width="640" height="442" alt="03-cartas-de-edificio-1"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm5.staticflickr.com/4864/39919137283_f864752e3a_z.jpg"></p>
   <p align="center"><small>A la izquierda, cara A de la carta de Edificios, a la
   derecha carta de Edificio de la Torre Eiffel, se usa en el Modo
   Desafío</small>
   </p>
   
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/39919137593/in/dateposted-public/"
-  title="03-cartas-de-edificio-2"><img
-  src="https://farm8.staticflickr.com/7925/39919137593_dd3ca1002e_z.jpg"
-  width="640" height="447" alt="03-cartas-de-edificio-2"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+  <p align="center"><img src="https://farm8.staticflickr.com/7925/39919137593_dd3ca1002e_z.jpg"></p>
   <p align="center"><small>A la izquierda, cara B de la arta de Edificios, a la
   derecha carta de Edificio del rascacielos Empire State, se usa en el Modo
   Desafío</small></p>
 
 * Colocamos el meeple en un distrito Residencial (os rojos) al azar.
 
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/39919133213/in/dateposted-public/"
-  title="01-setup"><img
-  src="https://farm8.staticflickr.com/7877/39919133213_55339b3fb1_z.jpg"
-  width="640" height="542" alt="01-setup"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm8.staticflickr.com/7877/39919133213_55339b3fb1_z.jpg"></p>
   <p align="center"><small>Preparación de Micro City</small></p>
   
 * Colocamos 4 marcadores en la carta de Recursos, poniendo 0 de Carbón, 0 de
@@ -153,12 +133,7 @@ fichas de Inversión, 10 marcadores y 3d6.
   los recursos, siempre que obtengamos o usemos recursos deberemos actualizar
   esta carta.
   
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/39919137033/in/dateposted-public/"
-  title="02-recursos-tiempo"><img
-  src="https://farm8.staticflickr.com/7837/39919137033_ff14424992_z.jpg"
-  width="640" height="245" alt="02-recursos-tiempo"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm8.staticflickr.com/7837/39919137033_ff14424992_z.jpg"></p>
   <p align="center"><small>Carta de Recursos a la izquierda, y carta de Medidor
   de Rondas/Tiempo a la derecha</small></p>
 
@@ -228,12 +203,7 @@ siguiente:
      ronda debemos saltarnos la Fase de inversión e ir directamente a la Fase
      final.
    
-   <a data-flickr-embed="true"
-   href="https://www.flickr.com/photos/165706612@N02/39919138063/in/dateposted-public/"
-   title="04-cartas-de-proyecto"><img
-   src="https://farm8.staticflickr.com/7831/39919138063_fc3cb02deb_z.jpg"
-   width="640" height="278" alt="04-cartas-de-proyecto"></a><script async
-   src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+   <p align="center"><img src="https://farm8.staticflickr.com/7831/39919138063_fc3cb02deb_z.jpg"></p>
    <p align="center"><small>Cartas de Proyecto, poco a poco intentaremos que
    las fotos nos salgan algo menos desequilibradas</small></p>
 
@@ -286,12 +256,7 @@ con iconos claros y la letra es perfectamente legible.
 
 ### Opinión
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/39919138443/in/dateposted-public/"
-title="05-cartas-de-ayuda"><img
-src="https://farm8.staticflickr.com/7920/39919138443_3a0b15c8a8_z.jpg"
-width="640" height="454" alt="05-cartas-de-ayuda"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm8.staticflickr.com/7920/39919138443_3a0b15c8a8_z.jpg"></p>
 <p align="center"><small>Las cartas de Ayuda son super útiles. Con este pequeño
 análisis del juego y estas dos cartas aprenderéis a jugar sin problemas. No
 utilicéis el manual para aprender el juego, para mirar los modos de dificultad

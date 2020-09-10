@@ -98,10 +98,10 @@ sido capturados y perderemos la partida.
  
 ### Preparación
 
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/45356136664/in/dateposted-public/" title="monstruo-final-juego"><img src="https://farm5.staticflickr.com/4837/45356136664_f7e48e76f0_b.jpg" width="1024" height="736" alt="monstruo-final-juego"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  <p align="center"><small>Nuestra mazmorra. Tenemos cuatro pasillos, con
-  dos, dos, tres y una Habitación en cada pasillo. Desafortunadamente dos
-  Héroes se han escondido en varias Habitaciones.</small></p>
+<p align="center"><img src="https://farm5.staticflickr.com/4837/45356136664_f7e48e76f0_b.jpg"></p>
+<p align="center"><small>Nuestra mazmorra. Tenemos cuatro pasillos, con
+dos, dos, tres y una Habitación en cada pasillo. Desafortunadamente dos
+Héroes se han escondido en varias Habitaciones.</small></p>
 
 Además del contenido original del juego necesitaremos 1d6 y cuatro marcadores.
 

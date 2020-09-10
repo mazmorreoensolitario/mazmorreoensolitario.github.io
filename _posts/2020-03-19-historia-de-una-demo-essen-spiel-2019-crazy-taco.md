@@ -68,14 +68,7 @@ familiar que nos necesita."
 
 ### Crazy Taco
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49662929837/in/dateposted-public/"
-title="00-intro"><img
-src="https://live.staticflickr.com/65535/49662929837_44599a1936_c.jpg"
-width="800" height="600" alt="00-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49662929837_44599a1936_c.jpg"></p>
 <p align="center"><small>Toda la alegría y colorido que emana Crazy
 Taco</small></p>
 
@@ -97,14 +90,7 @@ pude probarlo en la feria.
 
 ### ¿De qué va el juego?
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49662127058/in/dateposted-public/"
-title="03-setup"><img
-src="https://live.staticflickr.com/65535/49662127058_dfaac5a68b_c.jpg"
-width="800" height="393" alt="03-setup"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49662127058_dfaac5a68b_c.jpg"></p>
 <p align="center"><small>Empezaríamos a jugar con esta preparación</small></p>
 
 Como ya os he adelantado arriba, en **Crazy Taco** nos dejan a cargo de un
@@ -128,14 +114,7 @@ la fila de clientes, si ya tuviéramos otro, este avanzaría en la fila y si en
 algún momento llega al final de esta sin que le hayamos servido y cobrado, se
 irá y nuestro local perderá prestigio.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49662651181/in/dateposted-public/"
-title="01-clientes"><img
-src="https://live.staticflickr.com/65535/49662651181_79136fa216_c.jpg"
-width="800" height="403" alt="01-clientes"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49662651181_79136fa216_c.jpg"></p>
 <p align="center"><small>En este estado tenemos dos clientes, una familia a la
 derecha que requiere: dos raciones de nachos (icono de triángulo) y un refresco,
 tenemos también un obrero a la izquierda que quiere un refresco y además, en el
@@ -174,14 +153,7 @@ siguiente turno sabremos qué falta para que terminemos con ese cliente. Si
 conseguimos cobrar y servir al cliente en el mismo turno descartaremos la carta
 directamente.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49662651881/in/dateposted-public/"
-title="02-clientes-2"><img
-src="https://live.staticflickr.com/65535/49662651881_df1d72ccb0_c.jpg"
-width="800" height="466" alt="02-clientes-2"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49662651881_df1d72ccb0_c.jpg"></p>
 <p align="center"><small>Aquí ya hemos cobrado a un cliente y servido una
 bebida a otro. Además, tenemos una tarea de sacar la basura por completar, que
 nos está bloqueando la entrada del almacén. Es necesario que completemos las
@@ -212,14 +184,7 @@ acciones especiales** que podemos utilizar si tenemos cierta combinación en
 los resultados de los dados, o también si las compramos con nuestro dinero
 recaudado.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49662656411/"
-title="03-mitigación"><img
-src="https://live.staticflickr.com/65535/49662656411_7b94551a7e_c.jpg"
-width="567" height="800" alt="03-mitigación"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49662656411_7b94551a7e_c.jpg"></p>
 <p align="center"><small>Acciones especiales que podemos adquirir, podemos
 gastar 10$ para aumentar el prestigio en uno, gastar 3$ para volver a tirar los
 dados, y luego de tener ciertas combinaciones de dados podremos convertirlas en
@@ -254,16 +219,7 @@ partida con ojo avizor, y comentamos un poco el juego.
 
 ### Sensaciones
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49676727751/in/dateposted-public/"
-title="04-outro"><img
-src="https://live.staticflickr.com/65535/49676727751_b6a3f5e401_c.jpg"
-width="800" height="408" alt="04-outro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
-<p align="center"><small></small></p>
-
+<p align="center"><img src="https://live.staticflickr.com/65535/49676727751_b6a3f5e401_c.jpg"></p>
 
 Sabía que el tema me iba a engatusar (doy la bienvenida a todo juego de mesa
 que tenga que ver con comida) pero no sabía qué esperar sobre la forma de jugar

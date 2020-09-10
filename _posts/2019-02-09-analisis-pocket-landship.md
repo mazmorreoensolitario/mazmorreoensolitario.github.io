@@ -112,12 +112,7 @@ dobles.
   se coloca en el número que tenga un recuadro, que se corresponde a su valor
   máximo. 
   
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/32089834887/in/dateposted-public/"
-  title="03-unidades-enemigas"><img
-  src="https://farm8.staticflickr.com/7809/32089834887_2203585b5f_z.jpg"
-  width="640" height="480" alt="03-unidades-enemigas"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+  <p align="center"><img src="https://farm8.staticflickr.com/7809/32089834887_2203585b5f_z.jpg"></p>
   <p align="center"><small>Tipos de unidades enemigas</small></p>
   
 * Colocamos la carta de Casco de nuestro Tanque en la zona de juego y colocamos
@@ -128,18 +123,7 @@ dobles.
   tanque o tropas de choque. Una vez elegidas colocamos dos marcadores en sus
   respectivos círculos de vida.
   
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/32089835327/in/dateposted-public/"
-  title="00-unidades-amigas-01"><img
-  src="https://farm8.staticflickr.com/7839/32089835327_732f217cf9_z.jpg"
-  width="640" height="326" alt="00-unidades-amigas-01"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/40066619633/in/dateposted-public/"
-  title="00-unidades-amigas-02"><img
-  src="https://farm5.staticflickr.com/4912/40066619633_0013d8a839_z.jpg"
-  width="640" height="320" alt="00-unidades-amigas-02"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <p align="center"><img src="https://farm5.staticflickr.com/4912/40066619633_0013d8a839_z.jpg"></p>
   <p align="center"><small>Tipos de unidades amigas, siempre tendremos que
   jugar con la carta de Casco (a la derecha)</small></p>
   
@@ -149,12 +133,7 @@ dobles.
 
 ### Empezando a jugar
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/32089835077/in/dateposted-public/"
-title="01-setup"><img
-src="https://farm5.staticflickr.com/4838/32089835077_d0f09d2459_z.jpg"
-width="640" height="537" alt="01-setup"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm5.staticflickr.com/4838/32089835077_d0f09d2459_z.jpg"></p>
 <p align="center"><small>Juego preparado y listo para jugar</small></p>
 
 
@@ -191,12 +170,7 @@ Choque, en vez de tirar 3 dados en cada ronda, pasamos a tirar 2.
 
 #### Fase del enemigo
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/46979365722/in/dateposted-public/"
-title="02-ataque-enemigo"><img
-src="https://farm5.staticflickr.com/4881/46979365722_0d93a6c69a_z.jpg"
-width="640" height="161" alt="02-ataque-enemigo"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm5.staticflickr.com/4881/46979365722_0d93a6c69a_z.jpg"></p>
 <p align="center"><small>Ejemplo de fase del enemigo, los dados se han colocado
 de forma ascendente de izquierda a derecha</small></p>
 

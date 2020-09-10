@@ -73,16 +73,8 @@ de los enlaces a Dropbox.
 
 ### Información general
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/47194020982/in/dateposted-public/"
-title="00-intro"><img
-src="https://farm8.staticflickr.com/7892/47194020982_b39e5b2cbc_z.jpg"
-width="640" height="479" alt="00-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7892/47194020982_b39e5b2cbc_z.jpg"></p>
 <p align="center"><small>Farmers Finances</small></p>
- 
 
 Hasta ahora todas las entradas relacionadas con el concurso de [9 Card Game
 Print & Play
@@ -102,14 +94,7 @@ tendremos que comprar y vender estos bienes en un mercado muy oscilante.
 
 ### Preparación
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/47194020932/in/dateposted-public/"
-title="01-setup"><img
-src="https://farm8.staticflickr.com/7842/47194020932_740a19b2ef_z.jpg"
-width="640" height="449" alt="01-setup"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7842/47194020932_740a19b2ef_z.jpg"></p>
 <p align="center"><small>Preparación del juego. El la parte superior tenemos la
 carta de Turno con un marcador negro, la carta de Mercado y los dos montones
 que forman el Mercado. En la parte de abajo tenemos la carta de Dinero con un
@@ -146,14 +131,7 @@ nuestro primer turno lo dejamos en el uno y listo.
 
 #### 2. Tiramos el dado para actualizar el Mercado
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/47194020862/in/dateposted-public/"
-title="03-setup"><img
-src="https://farm8.staticflickr.com/7866/47194020862_041b86a676_c.jpg"
-width="634" height="800" alt="03-setup"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7866/47194020862_041b86a676_c.jpg"></p>
 <p align="center"><small>En la primera ronda ha salido un 4 por lo que los
 modificadores de la carta de Mercado son -1 para compras y +1 para ventas</small></p>
 
@@ -166,14 +144,7 @@ nuestra granja. Más acerca de cómo se vende en el siguiente apartado.
 
 #### 3. Hacemos una Acción
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/47194020752/in/dateposted-public/"
-title="05-partida"><img
-src="https://farm8.staticflickr.com/7891/47194020752_f518d8366e_z.jpg"
-width="640" height="363" alt="05-partida"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7891/47194020752_f518d8366e_z.jpg"></p>
 <p align="center"><small>Estado avanzado del juego</small></p>
 
 El juego nos permite hacer tres acciones diferentes: *Comprar del mercado*,
@@ -197,14 +168,7 @@ El juego nos permite hacer tres acciones diferentes: *Comprar del mercado*,
   acción también podremos hacer pan con todas nuestras cartas de trigo de una
   vez.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/47194020842/in/dateposted-public/"
-title="04-compra-venta"><img
-src="https://farm8.staticflickr.com/7853/47194020842_b7ec4f72c2_z.jpg"
-width="640" height="427" alt="04-compra-venta"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<p align="center"><img src="https://farm8.staticflickr.com/7853/47194020842_b7ec4f72c2_z.jpg"></p>
 <p align="center"><small>Ejemplo de venta de una vaca en el valor de
 Mercado 4. Las ventas obtienen +1 de beneficios</small></p>
 

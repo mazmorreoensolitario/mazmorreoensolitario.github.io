@@ -65,14 +65,7 @@ post_desc: "Glory: A Game of Knights está ambientado en Europa medieval, en el
 
 ### Glory: A Game of Knights
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49056957787/in/dateposted-public/"
-title="00-intro"><img
-src="https://live.staticflickr.com/65535/49056957787_c164f3515a_c.jpg"
-width="800" height="600" alt="00-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49056957787_c164f3515a_c.jpg"></p>
 <p align="center"><small>La gran mesa de Glory: A Game of Knights</small></p>
 
 La editorial polaca **Strategos Games** se estrena con
@@ -90,10 +83,6 @@ solitario con un autómata.
 
 ### ¿De qué va el juego?
 
-<p align="center">
-</p>
-<p align="center"><small></small></p>
-
 **Glory: A Game of Knights** está ambientado en Europa medieval, en el que cada
   jugador controla a un joven caballero, cuyo único objetivo es conseguir
   gloria (puntos de victoria). 
@@ -101,10 +90,6 @@ solitario con un autómata.
   A grandes rasgos, **es un juego que mezcla tiradas de dados y trata de
   mitigar los malos resultados mediante bonos o habilidades que  hayamos
   conseguido en la fase de colocación de trabajadores.**
-  
-  <p align="center">
-</p>
-<p align="center"><small></small></p>
   
   Para conseguir gloria **participaremos en justas** y trataremos de conseguir
   **títulos**. El juego se centra principalmente en las justas, teniendo un
@@ -120,14 +105,7 @@ solitario con un autómata.
   ayuda de sirvientes para cambiar resultados de dados, y usar nuestra fe para
   repetir tiradas (más sobre las justas abajo). 
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/49056957407/in/dateposted-public/"
-  title="03-worker-placement"><img
-  src="https://live.staticflickr.com/65535/49056957407_485313c2b7_c.jpg"
-  width="800" height="600" alt="03-worker-placement"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </p>
+  <p align="center"><img src="https://live.staticflickr.com/65535/49056957407_485313c2b7_c.jpg"></p>
   <p align="center"><small>La parte de colocación de trabajadores del
   juego</small></p>
   
@@ -153,14 +131,7 @@ solitario con un autómata.
   poseedor del título. Podremos adquirir más títulos secretos durante la
   partida.
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/49056957652/in/dateposted-public/"
-  title="02-detalle-justas"><img
-  src="https://live.staticflickr.com/65535/49056957652_c23d6a0967_c.jpg"
-  width="800" height="600" alt="02-detalle-justas"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </p>
+  <p align="center"><img src="https://live.staticflickr.com/65535/49056957652_c23d6a0967_c.jpg"></p>
   <p align="center"><small>Parte de justas del juego, en este modo se permite
   el jugador VS jugador</small></p>
   
@@ -179,14 +150,7 @@ solitario con un autómata.
   luchamos tienen diferentes niveles de dificultad, al preparar el juego
   podremos elegir la dificultad en la que jugamos.
   
-  <p align="center">
-  <a data-flickr-embed="true"
-  href="https://www.flickr.com/photos/165706612@N02/49056740491/in/dateposted-public/"
-  title="01-personaje"><img
-  src="https://live.staticflickr.com/65535/49056740491_25e092007c_c.jpg"
-  width="800" height="600" alt="01-personaje"></a><script async
-  src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </p>
+  <p align="center"><img src="https://live.staticflickr.com/65535/49056740491_25e092007c_c.jpg"></p>
   <p align="center"><small>Caballero con cartas de sirviente abajo a la
   izquierda y reliquias abajo a la derecha. En un cuenco se pueden ver los
   recursos de fuerza y fe, además de varias monedas.</small></p>
@@ -228,14 +192,7 @@ solitario con un autómata.
 
 ### La demo
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49056253148/in/dateposted-public/"
-title="04-ser-loras"><img
-src="https://live.staticflickr.com/65535/49056253148_cbf79fc1c6_c.jpg"
-width="800" height="479" alt="04-ser-loras"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49056253148_cbf79fc1c6_c.jpg"></p>
 <p align="center"><small>Detalle de Ser Loras</small></p>
 
 La demo de este juego estaba en uno de esos stands que quieren cuidar la
@@ -267,14 +224,7 @@ yo en la ronda final. Tuve unas tiradas muy buenas, y las malas las pude
 mitigar con mis sirvientes que colocaban los dados de fuerza en su valor
 máximo, por lo que Ser Loras se alzó victorioso.
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49056227698/in/dateposted-public/"
-title="02-resultado-justa"><img
-src="https://live.staticflickr.com/65535/49056227698_6a388fc630_c.jpg"
-width="800" height="600" alt="02-resultado-justa"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49056227698_6a388fc630_c.jpg"></p>
 <p align="center"><small>Detalle del final de las justas, Ser Loras se alza
 victorioso</small></p>
 
@@ -285,14 +235,7 @@ ventaja de dos puntos y fulminando mi estrategia.
 
 ### Sensaciones
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/49056740056/in/dateposted-public/"
-title="05-fin-partida"><img
-src="https://live.staticflickr.com/65535/49056740056_578a85962c_c.jpg"
-width="800" height="600" alt="05-fin-partida"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/49056740056_578a85962c_c.jpg"></p>
 <p align="center"><small>Tablero tras finalizar la demo</small></p>
 
 Como esperaba, la parte que más me ha gustado del juego ha sido el momento de

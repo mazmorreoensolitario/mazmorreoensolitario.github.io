@@ -56,14 +56,7 @@ ponga el espacio hasta el sistema Eos"
 
 ### Información general
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48799421428/in/dateposted-public/"
-title="00-intro"><img
-src="https://live.staticflickr.com/65535/48799421428_136721686e_z.jpg"
-width="640" height="467" alt="00-intro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48799421428_136721686e_z.jpg"></p>
 <p align="center"><small>Mucho contraste de colores en este pequeño
 juego</small></p>
 
@@ -98,15 +91,7 @@ como tu rival.
 
 ### Preparación
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48799421283/in/dateposted-public/"
-title="01-setup"><img
-src="https://live.staticflickr.com/65535/48799421283_c7f6432ab7_z.jpg"
-width="640" height="640" alt="01-setup"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
-<p align="center"><small></small></p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48799421283_c7f6432ab7_z.jpg"></p>
 
 Para jugar a Rocketships to Eos necesitas imprimir las cartas de la edición
 print & play, un dado d6 y cuatro cubitos.
@@ -125,14 +110,7 @@ print & play, un dado d6 y cuatro cubitos.
 
 ### Empezando a jugar
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48799914257/in/dateposted-public/"
-title="02-middle"><img
-src="https://live.staticflickr.com/65535/48799914257_5752bb79fe_z.jpg"
-width="640" height="305" alt="02-middle"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48799914257_5752bb79fe_z.jpg"></p>
 <p align="center"><small>Detalle de algunas cartas del mapa por el que tenemos
 que viajar. Cada carta está dividida en tres sectores, en cada sector tenemos
 una pequeña ilustración y abajo un coste en recursos; tendremos que pagar dicho
@@ -180,14 +158,7 @@ fácilmente.
 
 ### Opinión
 
-<p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48799914197/in/dateposted-public/"
-title="03-outro"><img
-src="https://live.staticflickr.com/65535/48799914197_12f6b1308c_z.jpg"
-width="640" height="480" alt="03-outro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<p align="center"><img src="https://live.staticflickr.com/65535/48799914197_12f6b1308c_z.jpg"></p>
 <p align="center"><small>A punto de perder una partida</small></p>
 
 
