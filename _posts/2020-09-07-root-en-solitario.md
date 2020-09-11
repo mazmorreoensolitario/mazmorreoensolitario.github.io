@@ -24,10 +24,13 @@ aquí en escrito, así podéis hacerla referencia.
 
 ## Root en solitario
 
-Hay varias formas de jugar a Root en solitario:
+Hay varias formas de jugar a
+[Root](https://boardgamegeek.com/boardgame/237182/root) en solitario:
 
-1. En la expansión **Los Ribereños** (The Riverfolk) **tienes un único bot**: El
-   Marqués Mecánico (Mechanical Marquise).
+1. En la expansión **[Los
+   Ribereños](https://boardgamegeek.com/boardgame/241386/root-riverfolk-expansion)**
+   (The Riverfolk) **tienes un único bot**: El Marqués Mecánico (Mechanical
+   Marquise).
    
    <p align="center"><img
    src="https://cf.geekdo-images.com/imagepage/img/A_ATiOKcL-EXlTFkrlGm8H5VdK0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4252654.jpg"></p>
@@ -58,23 +61,25 @@ Hay varias formas de jugar a Root en solitario:
    parecen más divertidas y 3) solamente podéis jugar partidas de 1 contra 1
    contra el mismo oponente siempre.
    
-2. En la expansión **The Clockwork tienes 4 bots**: Mechanical Marquise 2.0
-   (los zorros, versión mejorada del bot the viene en la expansión Los
-   Ribereños), The Electric Eyrie (las águilas), The Automated Alliance (los
-   conejos) y The Vagabot (el mapache); **estos bots se corresponden con las 4
-   facciones del juego base de Root**.
+2. En la expansión **[The
+   Clockwork](https://boardgamegeek.com/boardgameexpansion/287220/root-clockwork-expansion)
+   tienes 4 bots**: Mechanical Marquise 2.0 (los zorros, versión mejorada del
+   bot the viene en la expansión Los Ribereños), The Electric Eyrie (las
+   águilas), The Automated Alliance (los conejos) y The Vagabot (el mapache);
+   **estos bots se corresponden con las 4 facciones del juego base de Root**.
    
    <p align="center"><img
    src="https://cf.geekdo-images.com/imagepage/img/uBkOVgzkm7kOHVdwQ1KnqyS2YZE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4909933.png"></p>
 
     **Root: The Clockwork** se podía conseguir por 15$ como add-on en el
     [Kickstarter](https://www.kickstarter.com/projects/2074786394/root-the-underworld-expansion)
-    que trataba de financiar la segunda expansión de Root: The Underworld. El
-    precio de venta recomendado ahora es 40$ y podéis conseguirlo en la página
-    de [Leder Games](https://ledergames.com/collections/full-catalog) o algo
-    más caro pero sin sablazo en aduanas desde [Amazon
-    España](https://amzn.to/35cEqRZ) (puede que esté en otros sitios, pero ni
-    idea).
+    que trataba de financiar la segunda expansión de
+    [Root](https://amzn.to/2ZnSRim): [The
+    Underworld](https://amzn.to/2Rb27lx). El precio de venta recomendado ahora
+    es 40$ y podéis conseguirlo en la página de [Leder
+    Games](https://ledergames.com/collections/full-catalog) o algo más caro
+    pero sin sablazo en aduanas desde [Amazon España](https://amzn.to/35cEqRZ)
+    (puede que esté en otros sitios, pero ni idea).
     
     En esta expansión se incluyen: los tableros de los cuatro bots que he
     mencionado arriba, que mantienen la forma de jugar de las facciones que
