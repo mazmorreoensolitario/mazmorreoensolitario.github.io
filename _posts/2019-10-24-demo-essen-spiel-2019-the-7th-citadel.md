@@ -54,7 +54,7 @@ y ambientación completamente diferentes."
 > **Las fotos del juego son de un prototipo**. La producción final del juego
 > puede diferir (y diferirá) de lo aquí expuesto.
 
-> Campaña de Kickstarter el **22 de septiembre**. Link a la **precampaña 
+> Campaña de Kickstarter el **22 de septiembre**. Link a la **campaña 
 > [aquí](https://www.kickstarter.com/projects/seriouspoulp/the-7th-citadel-explore-build-you-are-the-hero?ref=mazmorreoensolitario)**. 
 
 ### The 7th Citadel
