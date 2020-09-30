@@ -19,6 +19,9 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or
+        tag[0] == "Ex Novo" or tag[0] == "Ex Umbra" or
+        tag[0] == "Under Ashen Skies" or
+        tag[0] == "Mapping the Catacombs" or
         tag[0] == "Old-School Essentials" or
         tag[0] == "The Nightmares Underneath" or
         tag[0] == "A Cool and Lonely Courage" or
