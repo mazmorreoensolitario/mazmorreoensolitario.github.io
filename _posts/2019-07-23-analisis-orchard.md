@@ -54,6 +54,8 @@ serie de árboles frutales y queremos cosechar el mayor número de frutas posibl
     href="https://boardgamegeek.com/boardgame/231218/black-sonata"><strong>Black
     Sonata</strong></a> y <a
     href="{{site.baseurl}}/2019/03/09/analisis-maquis/"><strong>Maquis</strong></a>.</li>
+    <li><strong><a href="http://melmacgames.com/">Melmac Games</a></strong>
+    traerá próximamente este juego en español a España.</li>
          </ul>
          </div>
     </div>
