@@ -81,7 +81,7 @@ juegos de estas dos categorías más adelante, ahora nos vamos a centrar en los
 juegos más mecánicos:
 
 * En **[Four Against
-  Darkness](https://www.drivethrurpg.com/product/180588/Four-Against-Darknessaffiliate_id=1914894)**
+  Darkness](https://www.drivethrurpg.com/product/180588/Four-Against-Darkness?affiliate_id=1914894)**
   de Andrea Sfiligoi, controlas a cuatro aventureros (ni uno más y ni uno
   menos) en sus diferentes misiones en una mazmorra generada aleatoriamente.
   En 4AD empiezas creando tu party eligiendo diferentes clases para tus
