@@ -120,7 +120,7 @@ src="https://cf.geekdo-images.com/imagepage/img/jrqiRbyu0rCWhMRCD2mML0xQExc=/fit
   
   En la BGG [tenemos una
   entrada](https://boardgamegeek.com/boardgame/209557/pulp) que puede ser el
-  juego del que Marco nos esté hablado.
+  juego del que Marco nos esté hablando.
 
 <p align="center"><img src="https://gallery.mailchimp.com/64afd67af980f39db7df40b12/images/45ff4ba6-a272-42c5-9d07-e0429afcbc36.jpg"></p>
 
@@ -406,7 +406,7 @@ src="https://pbs.twimg.com/media/EhksuXHXYAA0v3B?format=jpg&name=small"></p>
   Shroud](https://www.drivethrurpg.com/product/298721/Seekers-Beyond-The-Shroud?affiliate_id=1914894)
   y [Disciples of Bone and
   Shadow](https://www.drivethrurpg.com/product/278377/Disciples-of-Bone--Shadow?affiliate_id=1914894),
-  de **Blackoath Entertainmnet**, [está
+  de **Blackoath Entertainment**, [está
   trabajando]((https://twitter.com/iamthehornedone/status/1304122880322658311?s=09))
   en una baraja de cartas para Seekers Beyond the Shroud (la imagen de arriba
   es un render de un prototipo, el resultado final puede cambiar).
