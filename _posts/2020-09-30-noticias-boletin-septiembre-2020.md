@@ -116,7 +116,7 @@ src="https://cf.geekdo-images.com/imagepage/img/jrqiRbyu0rCWhMRCD2mML0xQExc=/fit
   [anunciado](https://twitter.com/marco_wargamer/status/1309502232862298112)
   que **Osprey Games** publicará **Pulp!!**, un wargame de escaramuzas que está
   diseñando y que él mismo describe como *"¡toda la acción de los años 30, pero
-  sin el racismo y el sexismo!*
+  sin el racismo y el sexismo!"*
   
   En la BGG [tenemos una
   entrada](https://boardgamegeek.com/boardgame/209557/pulp) que puede ser el
