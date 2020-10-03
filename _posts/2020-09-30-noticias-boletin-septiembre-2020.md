@@ -143,9 +143,10 @@ src="https://cf.geekdo-images.com/imagepage/img/jrqiRbyu0rCWhMRCD2mML0xQExc=/fit
 
 <p align="center"><img src="https://cf.geekdo-images.com/imagepage/img/Mix3jMgARGOyir4u5HUTPmIKbJk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3713897.jpg"></p>
 
-* **Arrakis Games** comenta que traerá las dos expansiones para **Spirit
-  Island**: **Branch & Claw** (2017) y **Jagged Earth** (2020) a la vez, en los
-  primeros meses de 2021.
+* **Arrakis Games**
+  [comenta](https://twitter.com/ArrakisGames/status/1301253309051924486) que
+  traerá las dos expansiones para **Spirit Island**: **Branch & Claw** (2017) y
+  **Jagged Earth** (2020) a la vez, en los primeros meses de 2021.
   
   **[Branch &
   Claw](https://boardgamegeek.com/boardgame/193065/spirit-island-branch-claw)**
