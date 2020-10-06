@@ -232,6 +232,10 @@ src="https://cf.geekdo-images.com/imagepage/img/2_k-9Y5ReNfQtKYcmcsHN4i0pIU=/fit
   
   Campaña de Kickstarter el **6 de octubre**. [Preview.](https://www.kickstarter.com/projects/glasscannonunplugged/1418298299?ref=mazmorreoensolitario)
 
+<p align="center">
+<img
+src="https://cf.geekdo-images.com/imagepage/img/OAHPTrGwx95ufJOg_CiL-GrihAQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5697068.jpg"></p>
+
 * En **[Studies in
   Sorcery](https://weirdgiraffegames.com/degreesindarkness.php)** los jugadores
   son estudiantes en la Academia de Artes Oscuras y están tratando de terminar
