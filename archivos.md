@@ -128,9 +128,15 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
 
 En esta sección tienes ordenadas las entradas del blog por categoría:
 
+<p>{% assign sorted_categories = site.categories | sort %}
+{% for category in sorted_categories %}
+<a href="#{{ category[0] }}">{{ category[0] }}</a>{% if forloop.last == false
+%},{% endif %}{% endfor %}</p>
+
+
 {% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
-  <h4>{{ category[0] }}</h4>
+  <h4><a name="{{ category[0] }}">{{ category[0]}}</a></h4>
   <ul>
     {% for post in category[1] %}
     <li>
