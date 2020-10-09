@@ -16,15 +16,15 @@
     <h4>Lo más leído</h4>
     <div id="most-read">
       <p>1. <a href="{{site.baseurl}}/2020/05/16/rol-en-solitario-como-empiezo/">Rol en solitario: ¿cómo empiezo?</a></p>
-      <p>2. <a href="{{site.baseurl}}/2020/09/30/noticias-boletin-septiembre-2020/">Boletín Informativo Solitario: septiembre 2020</a></p>
-      <p>3. <a href="{{site.baseurl}}/2020/01/09/rol-10-juegos-aventuras-para-2020/">10 juegos de rol en solitario y módulos de aventuras para probar en 2020</a></p>
+      <p>2. <a href="{{site.baseurl}}/2020/01/09/rol-10-juegos-aventuras-para-2020/">10 juegos de rol en solitario y módulos de aventuras para probar en 2020</a></p>
+      <p>3. <a href="{{site.baseurl}}/2020/09/30/noticias-boletin-septiembre-2020/">Boletín Informativo Solitario: septiembre 2020</a></p>
       <p>4. <a href="{{site.baseurl}}/2020/10/04/crowdfunding-0928-1004/">Noticias - Kickstarters 28/09 - 4/10</a></p>
       <p>5. <a href="{{site.baseurl}}/2020/04/30/noticias-golden-geek-awards-2019/">Guía de juegos en solitario: Nominaciones de los Premios Golden Geek de 2019</a></p>
-      <p>6. <a href="{{site.baseurl}}/2019/01/26/analisis-micro-city/">Análisis - Micro City</a></p>
-      <p>7. <a href="{{site.baseurl}}/2019/09/16/analisis-terraforming-mars/">Análisis - Terraforming Mars</a></p>
-      <p>8. <a href="{{site.baseurl}}/2020/09/27/crowdfunding-0914-0927/">Noticias - Kickstarters 14/09 - 27/09</a></p>
-      <p>9. <a href="{{site.baseurl}}/2020/09/07/root-en-solitario/">Cómo jugar a Root en solitario</a></p>
-      <p>10. <a href="{{site.baseurl}}/2019/03/09/analisis-maquis/">Análisis - Maquis</a></p>
+      <p>6. <a href="{{site.baseurl}}/2020/09/27/crowdfunding-0914-0927/">Noticias - Kickstarters 14/09 - 27/09</a></p>
+      <p>7. <a href="{{site.baseurl}}/2019/01/26/analisis-micro-city/">Análisis - Micro City</a></p>
+      <p>8. <a href="{{site.baseurl}}/2019/09/16/analisis-terraforming-mars/">Análisis - Terraforming Mars</a></p>
+      <p>9. <a href="{{site.baseurl}}/2019/03/09/analisis-maquis/">Análisis - Maquis</a></p>
+      <p>10. <a href="{{site.baseurl}}/2019/01/16/analisis-colonos-del-imperio/">Análisis - Colonos del Imperio</a></p>
     </div>
     <span id="dummy"></span>
   </div>
@@ -34,16 +34,19 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "Legends Untold"
-      or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Ironsworn"
+      or tag[0] == "Fábulas de Peluche"
+      or tag[0] == "Expansiópolis"
       or tag[0] == "Undaunted: Normandy"
       or tag[0] == "Arkham Horror"
       or tag[0] == "Dark Venture"
-      or tag[0] == "Expansiópolis"
       or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Bios: Origins 2"
       or tag[0] == "Root: Riverfolk"
       or tag[0] == "Scarlet Heroes"
       or tag[0] == "Too Many Bones"
+      or tag[0] == "Zine Quest"
+      or tag[0] == "Arquitectos del Reino del Oeste"
       or tag[0] == "Decision Games"
       or tag[0] == "Ex Novo"
       or tag[0] == "GMT Games"
@@ -59,6 +62,7 @@
       or tag[0] == "Spirit Island"
       or tag[0] == "Tops"
       or tag[0] == "Trudvang Legends"
+      or tag[0] == "Tussie Mussie"
       or tag[0] == "Under Ashen Skies" %}
 <span class="label label-danger">#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
