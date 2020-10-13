@@ -85,7 +85,7 @@ hoguera, un elemento muy importante en Set A Watch, ya que, aunque cada
 localización nos indica cuántos enemigos debemos robar y colocar en una línea,
 estas cartas se colocarán boca abajo (salvo la primera), y dependiendo de la
 fuerza de nuestra hoguera, podremos ver más a allá del primer monstruo,
-revelando cartas y así prepararnos.
+revelando cartas y así podremos prepararnos para lo que nos espera.
 
 El combate es contra todas las criaturas que aparezcan en la línea de
 monstruos, y haremos una **única tirada de dados** por cada uno de los
@@ -211,6 +211,12 @@ criatura con 8 o menos de vida.
 Cuando una criatura sea derrotada, se descarta y se lleva al cementerio e
 inmediatamente mostraríamos la siguiente criatura o criaturas dependiendo del
 rango de nuestro nivel de hoguera.
+
+Cuando nos quedemos sin dados habremos terminado esta fase y si queda aún algún
+enemigo en la fila, nos harán daño (según el valor de la esquina superior
+izquierda) y tendremos que agotar cartas de habilidad de nuestros
+personajes. Si en algún momento todos los personajes tienen todas sus
+habilidades agotadas, habremos perdido la partida.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/50461871838_ed1987d8f0_h.jpg"></p>
 <p align="center"><small>Diferentes enemigos del juego</small></p>
