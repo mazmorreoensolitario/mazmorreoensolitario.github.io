@@ -73,7 +73,8 @@ del tema [cards](https://github.com/sharu725/cards).
 
 * Libros que estoy leyendo ahora: *Revenant Gun* de Yoon Ha Lee.
 * Siguiente/s libro/s en mi lista para leer: *The Winter War: The Russo-Finish
-  War of 1939-1940* de Willian R. Trotter y *The Dying Earth* de Jack Vance.
+  War of 1939-1940* de Willian R. Trotter, *The Dying Earth* de Jack Vance y
+  *The Book of the New Sun* de Gene Wolfe.
 * Series que estoy viendo: ~~Snowpiercer.~~
 * Videojuegos que ocasionalmente juego durante estos meses: Deep Sky Derelicts,
-  Caves of Qud.
+  Caves of Qud, Star Wars Battlefront II.
