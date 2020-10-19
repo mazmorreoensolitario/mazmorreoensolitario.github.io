@@ -73,8 +73,8 @@ de nuestra cámara acorazada.
 Como buen roll and write, necesitaremos dados, en este caso 3d6 y un lápiz;
 y desde luego no tenemos que olvidarnos de imprimir la hoja del juego.
 
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/32223301848/in/dateposted-public/" title="dragonvault-vault"><img src="https://farm5.staticflickr.com/4886/32223301848_ee3f94a303_b.jpg" width="1024" height="768" alt="dragonvault-vault"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  <p align="center"><small>Vista de nuestra cámara acorazada con varias trampas</small></p>
+<p align="center"><img src="https://farm5.staticflickr.com/4886/32223301848_ee3f94a303_b.jpg"></p>
+<p align="center"><small>Vista de nuestra cámara acorazada con varias trampas</small></p>
 
   
   Tras esta minúscula preparación ya estamos listos para jugar.
@@ -99,7 +99,7 @@ intercaladas. Finalmente tenemos una puntuación basada en el número de tesoros
 que nos quedan, los héroes que hayamos derrotado y si hemos tenido que usar
 todas las fases de construcción o no.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/165706612@N02/32223301368/in/dateposted-public/" title="dragonvault-heroes"><img src="https://farm5.staticflickr.com/4869/32223301368_6a66b42722_b.jpg" width="1024" height="768" alt="dragonvault-heroes"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center"><img src="https://farm5.staticflickr.com/4869/32223301368_6a66b42722_b.jpg"></p>
 <p align="center"><small>Lista de héroes, en esta partida el Mago consiguió
 robarnos un tesoro en el último turno</small></p>
 
