@@ -107,6 +107,7 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
                 href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
             {% else %}
                 {% if tag[0] == "GenCon"
+                or tag[0] == "Spiel Digital"
                 or tag[0] == "Essen Spiel"
                 or tag[0] == "Essen Spiel 2019"
                 or tag[0] == "UKGE" %}
