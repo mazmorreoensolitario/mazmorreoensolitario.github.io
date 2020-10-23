@@ -101,7 +101,9 @@ par de ellos antes de que termine el año:
         de publicación de esta entrada.</strong> Sin embargo, el propio autor
         está desarrollando un bot para que podamos tener un modo en
         solitario ya que en su momento recibió muchas peticiones para que
-        añadiera un modo en solitario para Pipeline, y ya que en ese no pudo
+        añadiera un modo en solitario para <a
+    href="https://boardgamegeek.com/boardgame/256730/pipeline">Pipeline</a>,
+        del que también es autor, y ya que en ese no pudo
         hacerlo (aunque hay actualmente un modo solo hecho por fans), en este
         juego sí que quería darnos un modo para jugar en solitario.</p>
         <img
@@ -245,8 +247,8 @@ entran en mi Top 4 por diversas razones.
     destruir la amenaza, además de seguir expandiendo tu base y lidiar con los
     cazas enemigos.</p>
          <p><strong>¿Por qué me interesa este juego?</strong> Es el ganador del
-         9-Card Print & Play contest del año pasado (2019)que ha llamado mucho la
-         atención desde entonces, para esta versión retail han añadido una
+         9-Card Print & Play contest del año pasado (2019) que ha llamado mucho la
+         atención desde entonces; para esta versión retail han añadido una
          campaña para vestirlo, y además el apartado gráfico ha sido mejorado
          mucho y tenemos componentes que nos permiten jugar de forma más
          cómoda.</p>
