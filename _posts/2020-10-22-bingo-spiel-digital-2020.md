@@ -63,7 +63,7 @@ par de ellos antes de que termine el año:
          ganar puntos de prestigio construyendo, recolectando... en general
          desarrollando la región de Faiyum, que se nos presenta en un mapa
          hexagonal, y así esperamos que el faraón esté contento.</p>
-         <p>La acciones básicas de las cartas son cosechar un recurso,
+         <p>Las acciones básicas de las cartas son cosechar un recurso,
          construir algo o comerciar y se aplican sobre diferentes hexágonos del
          mapa siempre y cuando se cumplan algunas condiciones.</p>
          <p>Es algo muy sencillo (el manual del juego son 8 páginas, pero hay
@@ -245,15 +245,19 @@ entran en mi Top 4 por diversas razones.
     destruir la amenaza, además de seguir expandiendo tu base y lidiar con los
     cazas enemigos.</p>
          <p><strong>¿Por qué me interesa este juego?</strong> Es el ganador del
-         9-Card Print & Play contest del año pasado que ha llamado mucho la
-         atención y al que han añadido una campaña para vestirlo, además el
-         apartado gráfico ha sido mejorado mucho.</p>
+         9-Card Print & Play contest del año pasado (2019)que ha llamado mucho la
+         atención desde entonces, para esta versión retail han añadido una
+         campaña para vestirlo, y además el apartado gráfico ha sido mejorado
+         mucho y tenemos componentes que nos permiten jugar de forma más
+         cómoda.</p>
          <p><strong>¿Por qué no está en mi top?</strong> Porque muchas veces el
          desarrollo que hacen para pasar un juego del concurso de 9 cartas a un
-         juego full-retail no suele salir bien, y creo que es mejor esperar;
-         además a España nos lo trae <strong>Devir</strong> así que tenemos dos
-         ediciones diferentes para poder decidir cuál compramos y el mercado de
-        segunda mano creo que será bastante jugoso.</p>
+         juego full-retail no suele salir bien, y creo que es mejor esperar. En
+         este caso además, sabemos que a España nos lo va a traer
+             <strong>Devir</strong>, así que tenemos dos ediciones diferentes
+         para poder decidir cuál compramos y esto implica también, que dependiendo
+         de los tiempos de salida de una versión u otra, el mercado de segunda
+    mano creo que será bastante jugoso.</p>
      </div>
 </div>
 
