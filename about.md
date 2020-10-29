@@ -14,6 +14,17 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
  * Twitter: **[@mazmorreo](https://twitter.com/mazmorreo)**
  * Instagram: **[@mazmorreo](https://www.instagram.com/mazmorreo/?hl=es)**
 
+# Sobre mí
+
+* Libros que estoy leyendo ahora: *Revenant Gun* de Yoon Ha Lee.
+* Siguiente/s libro/s en mi lista para leer: *The Winter War: The Russo-Finish
+  War of 1939-1940* de Willian R. Trotter, *The Dying Earth* de Jack Vance y
+  *The Book of the New Sun* de Gene Wolfe.
+* Series que estoy viendo: Star Trek Discovery.
+* Videojuegos que ocasionalmente juego durante estos meses: Deep Sky Derelicts,
+  Caves of Qud y Star Wars Battlefront II.
+
+
 # Sobre el blog
 
 **Mazmorreo en solitario** es un blog sobre toda clase de información
@@ -67,14 +78,3 @@ del tema [cards](https://github.com/sharu725/cards).
   
   El dinero recaudado por este método se reinvierte para traer más
   contenido al blog.
-
-
-# Sobre mí
-
-* Libros que estoy leyendo ahora: *Revenant Gun* de Yoon Ha Lee.
-* Siguiente/s libro/s en mi lista para leer: *The Winter War: The Russo-Finish
-  War of 1939-1940* de Willian R. Trotter, *The Dying Earth* de Jack Vance y
-  *The Book of the New Sun* de Gene Wolfe.
-* Series que estoy viendo: ~~Snowpiercer.~~
-* Videojuegos que ocasionalmente juego durante estos meses: Deep Sky Derelicts,
-  Caves of Qud, Star Wars Battlefront II.
