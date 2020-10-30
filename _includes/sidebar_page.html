@@ -19,11 +19,11 @@
       <p>3. <a href="{{site.baseurl}}/2020/10/22/bingo-spiel-digital-2020/">Spiel Digital 2020: mi bingo de juegos en solitario</a></p>
       <p>4. <a href="{{site.baseurl}}/2020/10/25/crodwfunding-1019-1025/">Noticias - Kickstarters 19/10 - 25/10</a></p>
       <p>5. <a href="{{site.baseurl}}/2020/04/30/noticias-golden-geek-awards-2019/">Guía de juegos en solitario: Nominaciones de los Premios Golden Geek de 2019</a></p>
-      <p>6. <a href="{{site.baseurl}}/2019/01/26/analisis-micro-city/">Análisis - Micro City</a></p>
-      <p>7. <a href="{{site.baseurl}}/2019/05/16/analisis-desolate/">Análisis - Desolate (y expansiones)</a></p>
+      <p>6. <a href="{{site.baseurl}}/2019/03/19/analisis-land-6/">Análisis - Land 6</a></p>
+      <p>7. <a href="{{site.baseurl}}/2019/01/26/analisis-micro-city/">Análisis - Micro City</a></p>
       <p>8. <a href="{{site.baseurl}}/2020/09/30/noticias-boletin-septiembre-2020/">Boletín Informativo Solitario: septiembre 2020</a></p>
-      <p>9. <a href="{{site.baseurl}}/2020/07/31/noticias-boletin-julio-2020/">Boletín Informativo Solitario: julio 2020</a></p>
-      <p>10. <a href="{{site.baseurl}}/2019/04/25/rol-mothership/">Rol - Mothership: Player's survival guide</a></p>
+      <p>9. <a href="{{site.baseurl}}/2019/04/25/rol-mothership/">Rol - Mothership: Player's survival guide</a></p>
+      <p>10. <a href="{{site.baseurl}}/2019/05/16/analisis-desolate/">Análisis - Desolate (y expansiones)</a></p>
     </div>
     <span id="dummy"></span>
   </div>
@@ -33,9 +33,9 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Ironsworn"
+      or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Labyrinth Lord"
-      or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Faiyum"
       or tag[0] == "Pax Pamir"
@@ -44,24 +44,18 @@
       or tag[0] == "High Frontier 4 All"
       or tag[0] == "Imperial Settlers: Empires of the North"
       or tag[0] == "Print & play"
-      or tag[0] == "Undaunted: Normandy"
-      or tag[0] == "Arkham Horror"
-      or tag[0] == "Atlantis Rising"
-      or tag[0] == "Colonos del Imperio: Imperios del Norte"
       or tag[0] == "Crónicas del Crimen"
-      or tag[0] == "Disciples of Bone and Shadow"
-      or tag[0] == "Essen Spiel"
-      or tag[0] == "Everdell"
-      or tag[0] == "Expansiópolis"
       or tag[0] == "Hallertau"
+      or tag[0] == "Agrópolis"
       or tag[0] == "One Deck Dungeon: Forest of Shadows"
       or tag[0] == "One Page Dungeon"
       or tag[0] == "Pandemic: La caída de Roma"
       or tag[0] == "Root: The Clockwork"
-      or tag[0] == "Tank Duel: Enemy in the Crosshairs"
       or tag[0] == "The 7th Continent"
       or tag[0] == "Too Many Bones"
-      or tag[0] == "Trudvang Legends"%}
+      or tag[0] == "Trudvang Legends"
+      or tag[0] == "Undaunted: Normandy"
+      or tag[0] == "Curious Cargo" %}
 <span class="label label-danger">#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
       {% endif %}
