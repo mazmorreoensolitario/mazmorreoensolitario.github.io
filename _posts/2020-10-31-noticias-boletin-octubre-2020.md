@@ -28,7 +28,7 @@ resumen de las noticias del mundillo y lo que ha acontecido durante este mes"
   el mes: **[semana 1]({{site.baseurl}}/2020/10/04/crowdfunding-0928-1004/)**,
   **[semana 2]({{site.baseurl}}/2020/10/11/crowdfunding-1005-1011/)**,
   **[semana 3]({{site.baseurl}}/2020/10/18/crowdfunding-1012-1018/)** y
-  **[semana 4]({{site.baseurl}}/2020/10/25/crodwfunding-1019-1025/)**
+  **[semana 4]({{site.baseurl}}/2020/10/25/crowdfunding-1019-1025/)**
   
 <p align="center"><img
 src="https://cf.geekdo-images.com/nOX6mxOobJvVPEwaTSJSMA__imagepage/img/T5rQznEe-xo_jWg4SQ3MB_TkNzo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5729611.jpg"></p> 
