@@ -215,8 +215,8 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
   
   Por otro lado, en el podcast de
   **[Sendido Antihorario](https://www.youtube.com/watch?v=elrT-2XJUso)** han
-  tenido a varios invitados de editoriales españolas que han ido confirmando
-  algunos lanzamientos o nos han dado algunas pistas sobre su futuro catálogo:
+  tenido a varios invitados de **editoriales españolas que han ido confirmando
+  algunos lanzamientos** o nos han dado algunas pistas sobre su futuro catálogo:
 
 <p align="center"><img
   src="https://cf.geekdo-images.com/aUPeXVwc40xrgud2XeZwyA__imagepage/img/ZZJm8Ip3ANP5TUcOEiZKs5Sti9k=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5671087.png"></p> 
