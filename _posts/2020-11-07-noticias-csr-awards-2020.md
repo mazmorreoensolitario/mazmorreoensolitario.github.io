@@ -1159,13 +1159,13 @@ podéis ver otros juegos de las categorías que no he comentado (expansiones,
 juegos de revista, mejores mapas) en la [página de los
 premios](https://charlieawards.wordpress.com/2019-charles-s-roberts-nominees-and-awards/). 
 
-He descubierto un juego que me ha pasado desapercibido este año: **Crossing the
-Line: Aachen 1944**, que se añade a mi lista de futuras adquisiciones ya que me
-ha impresionado bastante la calidad y me han hecho gracia los comentarios sobre
-las reglas que ha Agustí en su vídeo; comenta que las reglas no tienen
-excepciones, a diferencia de los juegos de Mark Simonitch (Ardennes'44,
-Stalingrad'42), a mí me gusta el sistema de los juegos de Simonitch, pero si
-nos quitan excepciones tampoco me quejaría...
+He descubierto un juego que se me ha pasado desapercibido este año: **Crossing
+the Line: Aachen 1944**, que se añade a mi lista de futuras adquisiciones ya
+que me ha impresionado bastante la calidad y me han hecho gracia los
+comentarios sobre las reglas que ha Agustí en su vídeo; comenta que las reglas
+no tienen excepciones, a diferencia de los juegos de Mark Simonitch
+(Ardennes'44, Stalingrad'42), a mí me gusta el sistema de los juegos de
+Simonitch, pero si nos quitan excepciones tampoco me quejaría...
 
 Otro juego interesante que me deja la espina un poco clavada porque no sé si me
 gustará o no es **The Last Hundred Yards**, las simulaciones tácticas a tan
