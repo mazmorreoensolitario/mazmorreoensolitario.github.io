@@ -92,6 +92,7 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
     {% else %}
         {% if tag[0] == "9 Card Game Print & Play Design Contest" or
+            tag[0] == "Charles S. Roberts Awards" or
             tag[0] == "Golden Geek" or
             tag[0] == "Solitaire Print & Play Design Contest" or
             tag[0] == "Wargame Print & Play Design Contest" or
@@ -107,7 +108,6 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
                 href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
             {% else %}
                 {% if tag[0] == "GenCon"
-                or tag[0] == "Charles S. Roberts Awards"
                 or tag[0] == "Spiel Digital"
                 or tag[0] == "Essen Spiel"
                 or tag[0] == "Essen Spiel 2019"
