@@ -780,8 +780,8 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         que tiene una <strong>idoneidad alta para jugar en solitario.</strong></p>
         <p>Además, el juego cuenta con una expansión, <a
     href="https://boardgamegeek.com/boardgameexpansion/279866/solo-assistant-nations-war-world-war-85">Solo
-        Assistant</a> que otra baraja de cartas con órdenes de batalla
-        especialmente diseñada para aumentar la mecánica de
+        Assistant</a> que añade otra baraja de cartas, con órdenes de batalla,
+        que está especialmente diseñada para aumentar la mecánica de
         chit-pull-con-cartas original del juego. La baraja del Solo Assistant
         nos dice qué tipo de acción toma cada unidad/formación enemiga en base
         a si tiene línea de tiro, a qué distancia, y qué ha pasado con las
