@@ -103,7 +103,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Nevsky: Teutons and Rus in Collision, 1240-1242">
     </div>
     <div class="col-md-9">
-        <h4>Nevsky: Teutons and Rus in Collision, 1240-1242</h4>
+        <h4><a href="https://amzn.to/36nKDcS">Nevsky: Teutons and Rus in Collision, 1240-1242</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>Ganador de la categoría</strong></div>
         <p><strong><a
@@ -145,7 +145,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Peloponnesian War">
     </div>
     <div class="col-md-9">
-        <h4>Peloponnesian War</h4>
+        <h4><a href="https://amzn.to/3kgff55">Peloponnesian War</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/279644/peloponnesian-war">Peloponnesian
         War</a></strong> por <strong>Mark Herman</strong> de <strong>GMT 
@@ -236,9 +236,6 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
     francesa que contempla las batallas acontecidas entre el 6 de marzo de 1814
     y el 13 de marzo del mismo año. </p>
          <ul>
-        <li>Puedes ojear las <a
-        href="https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/PeloponnesianWar/PW_Rulebook.pdf">reglas
-            aquí</a>.</li>
             <li>Puedes ver un unboxing en el canal de <a
             href="https://www.youtube.com/watch?v=Qq2cqnPdock">Ardwulf's Lair</a>.</li>
         </ul>
@@ -401,7 +398,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Death Valley: Battles for the Shenandoah">
     </div>
     <div class="col-md-9">
-        <h4>Death Valley: Battles for the Shenandoah</h4>
+        <h4><a href="https://amzn.to/3kdxZSF">Death Valley: Battles for the Shenandoah</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>Ganador de la categoría</strong></div>
         <p><strong><a
@@ -507,7 +504,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
     a lo largo de 12 escenarios en Europa central.</p>
          <ul>
         <li>Puedes ojear las <a
-        href="https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/PeloponnesianWar/PW_Rulebook.pdf">reglas
+        href="https://gmtwebsiteassets.s3-us-west-2.amazonaws.com/LHY/LHY+Series+Living+Rules.pdf">reglas
             aquí</a>.</li>
             <li>Puedes ver un unboxing en el canal de <a
             href="https://www.youtube.com/watch?v=PHFCbK_iLuI">The Player's
@@ -527,7 +524,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Stalingrad ’42: Southern Russia, June-December, 1942">
     </div>
     <div class="col-md-9">
-        <h4>Stalingrad ’42: Southern Russia, June-December, 1942</h4>
+        <h4><a href="https://amzn.to/38sf8kB">Stalingrad ’42: Southern Russia, June-December, 1942</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/255393/stalingrad-42-southern-russia-june-december-1942">Stalingrad
     ’42</a></strong> por <strong>Mark Simonitch</strong> y publicado por
@@ -556,7 +553,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="U-Boot: The Board Game">
     </div>
     <div class="col-md-9">
-        <h4>U-Boot: The Board Game</h4>
+        <h4><a href="https://amzn.to/38s51MB">U-Boot: The Board Game</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>Ganador de la categoría</strong></div>
         <p><strong><a
@@ -722,7 +719,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Red Storm: The Air War Over Central Germany, 1987">
     </div>
     <div class="col-md-9">
-        <h4>Red Storm: The Air War Over Central Germany, 1987</h4>
+        <h4><a href="https://amzn.to/38tYwZC">Red Storm: The Air War Over Central Germany, 1987</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/213497/red-storm-air-war-over-central-germany-1987">Red
     Storm: The Air War Over Central Germany, 1987</a></strong> por
@@ -734,7 +731,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         href="https://gmtwebsiteassets.s3-us-west-2.amazonaws.com/RedStorm/RS_Rules_Final_Low-Res.pdf">reglas
             aquí</a>.</li>
             <li>Puedes ver un unboxing en el canal de <a
-            href="https://www.youtube.com/watch?v=SZfw-VCv_Bo"></a>.</li>
+            href="https://www.youtube.com/watch?v=SZfw-VCv_Bo">Moe's Game Table</a>.</li>
         </ul>
         <p><strong>En solitario...</strong> el juego cuenta con cuatro
         <strong>escenarios que se pueden jugar completamente en
@@ -807,7 +804,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Dune">
     </div>
     <div class="col-md-9">
-        <h4>Dune</h4>
+        <h4><a href="https://amzn.to/3lt3rh2">Dune</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>Ganador de la categoría</strong></div>
         <p><strong><a
@@ -821,11 +818,10 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
     recursos más valiosos del universo: la melange.</p>
          <ul>
         <li>Puedes ojear las <a
-        href="https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/PeloponnesianWar/PW_Rulebook.pdf">reglas
+        href="https://www.gf9games.com/dunegame/wp-content/uploads/Dune-Rulebook.pdf">reglas
             aquí</a>.</li>
             <li>Puedes ver un unboxing en el canal de <a
-            href="https://www.youtube.com/watch?v=8cat9NNsIw0">The Player's
-            Aid</a>.</li>
+            href="https://www.youtube.com/watch?v=SxlxHRhNs3w">The Dice Tower</a>.</li>
         </ul>
         <p><strong>En solitario...</strong> bastante difícil, si queréis jugar
         en solitario a algún juego de Dune, esperar a Dune: Imperium nuevo del que
@@ -873,7 +869,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Red Alert: Space Fleet Warfare">
     </div>
     <div class="col-md-9">
-        <h4>Red Alert: Space Fleet Warfare</h4>
+        <h4><a href="https://amzn.to/35drwTs">Red Alert: Space Fleet Warfare</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/250467/red-alert-space-fleet-warfare">Red
     Alert: Space Fleet Warfare</a></strong> por <strong>Richard Borg</strong> y
@@ -937,9 +933,6 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
     los demonios azotaban a los malvados; el pueblo llano hacía guardias cada
     noche para cuidarse de los hombres lobo y los dragones.</p>
          <ul>
-        <li>Puedes ojear las <a
-        href="https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/PeloponnesianWar/PW_Rulebook.pdf">reglas
-            aquí</a>.</li>
             <li>Puedes ver un unboxing en el canal de <a
             href="https://www.youtube.com/watch?v=GvjciQzMF-s">Foyble Games</a>.</li>
         </ul>
@@ -959,7 +952,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Fields of Fire 2">
     </div>
     <div class="col-md-9">
-        <h4>Fields of Fire 2</h4>
+        <h4><a href="https://amzn.to/3n9Dl39">Fields of Fire 2</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/139433/fields-fire-2">Fields of
     Fire 2</a></strong> por <strong>Ben Hull</strong> y publicado por
@@ -1019,7 +1012,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="">
     </div>
     <div class="col-md-9">
-        <h4>Peloponnesian War</h4>
+        <h4><a href="https://amzn.to/3kgff55">Peloponnesian War</a></h4>
         <p>Visto en <i>Mejor wargame del periodo antiguo al
     pre-napoleónico</i></p>
     </div>
@@ -1033,7 +1026,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="">
     </div>
     <div class="col-md-9">
-        <h4>U-Boot: The Board Game</h4>
+        <h4><a href="https://amzn.to/38s51MB">U-Boot: The Board Game</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>Ganador de la categoría</strong></div>
         <p>Visto en <i>Mejor wargame de la Segunda Guerra Mundial</i></p>
@@ -1117,7 +1110,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Nevsky: Teutons and Rus in Collision, 1240-1242">
     </div>
     <div class="col-md-9">
-        <h4>Nevsky: Teutons and Rus in Collision, 1240-1242</h4>
+    <h4><a href="https://amzn.to/36nKDcS">Nevsky: Teutons and Rus in Collision, 1240-1242</a></h4>
         <p>Visto en <i>Mejor wargame del Periodo antiguo al
     pre-napoleónico</i></p>
     </div>
@@ -1131,7 +1124,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="UBOOT: The Board Game">
     </div>
     <div class="col-md-9">
-        <h4>UBOOT: The Board Game</h4>
+        <h4><a href="https://amzn.to/38s51MB">U-Boot: The Board Game</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>Ganador de la categoría</strong></div>
         <p>Visto en <i>Mejor wargame de la Segunda Guerra Mundial</i>.</p>
