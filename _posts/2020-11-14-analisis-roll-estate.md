@@ -31,7 +31,7 @@ resultados de nuestra combinación de dados"
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2019</td></tr>
             <tr><td class="text-left"><strong>Precio:</strong></td><td
             class="text-left"><a
-            href="https://www.pnparcade.com/products/roll-estate?_pos=1&_sid=c1ffaa20c&_ss=r">3$</a></td></tr>
+            href="https://www.pnparcade.com/products/roll-estate">3$</a></td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-5</td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">5-15 min</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés</td></tr>

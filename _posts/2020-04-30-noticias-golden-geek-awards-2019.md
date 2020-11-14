@@ -702,6 +702,9 @@ por la comunidad.
          <p>Puedes conseguir Roll Estate en <strong><a
          href="https://www.pnparcade.com/products/roll-estate">PNP Arcade.</a>
          </strong></p>
+         <p><strong><a
+    href="{{site.baseurl}}/2020/11/14/analisis-roll-estate/">Puedes leer
+        aquí</a></strong> un análisis de este juego.</p>
          <p><strong>Comentario.</strong> Este es otro juego que he descubierto
          gracias a estos premios y me ha sorprendido gratamente que sea del PNP
          Arcade, una pequeña tienda online especializada en juegos print & play
