@@ -826,7 +826,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         <p><strong>En solitario...</strong> bastante difícil, si queréis jugar
         en solitario a algún juego de Dune, esperar a Dune: Imperium nuevo del que
         hablamos <a
-        href="{{localhost:4000}}/2020/10/31/noticias-boletin-octubre-2020/">aquí</a>.</p>
+        href="{{site.baseurl}}/2020/10/31/noticias-boletin-octubre-2020/">aquí</a>.</p>
     </div>
 </div>
 <br>
