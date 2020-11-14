@@ -37,7 +37,7 @@ resultados de nuestra combinación de dados"
             <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés</td></tr>
             <tr><td class="text-left"><strong>Dependencia del
             idioma:</strong></td><td class="text-left">Baja, solo manual y un
-            par de palabras la hoja de juego</td></tr>
+            par de palabras en la hoja del juego</td></tr>
          </table>
         </div>
         <div class="col-md-12"></div>
