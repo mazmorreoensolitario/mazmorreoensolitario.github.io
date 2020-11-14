@@ -4,7 +4,7 @@ title: "Análisis - Colonos del Imperio"
 date:   2019-01-16
 categories: Análisis
 tags: [Colonos del Imperio]
-img: colonos-del-imperio.jpg
+imghtml: https://cf.geekdo-images.com/pRwsvyfsRJ-lWWwVJCdXNg__imagepage/img/HgmIUdB5tZ5Jf_6SGWVlw-c8d8I=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2871265.jpg
 score: 4
 game: "Colonos del Imperio"
 post_desc: "En Colonos del Imperio tomamos el rol de una civilización entre Romanos,
@@ -18,8 +18,13 @@ el de nuestro rival virtual."
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
+	    {% if page.imghtml %}
+            <img width="400" src="{{page.imghtml}}"
+                alt="{{page.title}}">
+            {% else %}
             <img width="400" src="{{site.baseurl}}/images/{{page.img}}"
                 alt="{{page.title}}">
+            {% endif %}
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">

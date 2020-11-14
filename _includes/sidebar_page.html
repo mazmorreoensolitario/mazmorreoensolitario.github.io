@@ -11,21 +11,89 @@
     src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('¡Invítame
     a un café!', '#29abe0', 'G2G11C3DK');kofiwidget2.draw();</script>
   </div>
-  <div class="mt10 box">
+  <div class="mt10">
     <h4>Lo más leído</h4>
-    <div id="most-read">
-      <p>1. <a href="{{site.baseurl}}/2020/05/16/rol-en-solitario-como-empiezo/">Rol en solitario: ¿cómo empiezo?</a></p>
-      <p>2. <a href="{{site.baseurl}}/2020/01/09/rol-10-juegos-aventuras-para-2020/">10 juegos de rol en solitario y módulos de aventuras para probar en 2020</a></p>
-      <p>3. <a href="{{site.baseurl}}/2020/11/08/crowdfunding-1102-1108/">Noticias - Kickstarters y Verkami 2/11 - 8/11</a></p>
-      <p>4. <a href="{{site.baseurl}}/2020/11/07/noticias-csr-awards-2020/">Guía de wargames en solitario: Premios Charles S. Roberts de 2019</a></p>
-      <p>5. <a href="{{site.baseurl}}/2019/09/16/analisis-terraforming-mars/">Análisis - Terraforming Mars</a></p>
-      <p>6. <a href="{{site.baseurl}}/2020/04/30/noticias-golden-geek-awards-2019/">Guía de juegos en solitario: Nominaciones de los Premios Golden Geek de 2019</a></p>
-      <p>7. <a href="{{site.baseurl}}/2019/01/16/analisis-colonos-del-imperio/">Análisis - Colonos del Imperio</a></p>
-      <p>8. <a href="{{site.baseurl}}/2020/10/31/noticias-boletin-octubre-2020/">Boletín Informativo Solitario: octubre 2020</a></p>
-      <p>9. <a href="{{site.baseurl}}/2018/11/05/analisis-mini-rogue/">Análisis - Mini Rogue</a></p>
-      <p>10. <a href="{{site.baseurl}}/2019/03/09/analisis-maquis/">Análisis - Maquis</a></p>
+    <div id="most-read"></div>
+    <div class="image-container">
+      {% for post in site.posts %}
+      {% if post.url == "/2020/05/16/rol-en-solitario-como-empiezo/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
     </div>
-    <span id="dummy"></span>
+    <div class="image-container">
+      {% for post in site.posts %}
+      {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% for post in site.posts %}
+      {% if post.url == "/2020/11/08/crowdfunding-1102-1108/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% for post in site.posts %}
+      {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% for post in site.posts %}
+      {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% for post in site.posts %}
+      {% if post.url == "/2020/04/30/noticias-golden-geek-awards-2019/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% for post in site.posts %}
+      {% if post.url == "/2019/01/16/analisis-colonos-del-imperio/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% for post in site.posts %}
+      {% if post.url == "/2020/10/31/noticias-boletin-octubre-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% for post in site.posts %}
+      {% if post.url == "/2018/11/05/analisis-mini-rogue/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% for post in site.posts %}
+      {% if post.url == "/2019/03/09/analisis-maquis/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
   </div>
   <div clas="mt10">
     <h4>Etiquetas más populares</h4>
