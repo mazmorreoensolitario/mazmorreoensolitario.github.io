@@ -9,11 +9,13 @@ categorías.
 
 ### Nube de etiquetas
 
-Juegos en <span class="label label-primary">azul</span>, concursos y premios en 
-<span class="label label-success">verde</span>, eventos y ferias en <span
-class="label label-info">azul clarito</span>, etiquetas generales en <span
-class="label label-warning">naranja</span> y cosas relacionadas con rol en
-<span class="label label-danger">rojo</span>.
+Juegos en <span class="label label-primary">azul</span>,
+concursos y premios en  <span class="label
+label-success">verde</span>, eventos y ferias en <span 
+class="label label-info">azul clarito</span>, etiquetas generales en 
+<span class="label label-warning">naranja</span> y cosas
+relacionadas con rol en <span class="label
+label-danger">rojo</span>.
 
 <p class="text-left">
 {% assign sorted_tags = site.tags | sort %}
@@ -88,8 +90,8 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
         tag[0] == "Ironsworn: Delve" or
         tag[0] == "Mausritter" or
         tag[0] == "Troika" %}
-        <span class="label label-danger">#<a class="tag-color"
-        href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
+        <span class="label label-danger"><strong>#<a class="tag-color"
+        href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
     {% else %}
         {% if tag[0] == "9 Card Game Print & Play Design Contest" or
             tag[0] == "Charles S. Roberts Awards" or
@@ -97,28 +99,28 @@ class="label label-warning">naranja</span> y cosas relacionadas con rol en
             tag[0] == "Solitaire Print & Play Design Contest" or
             tag[0] == "Wargame Print & Play Design Contest" or
             tag[0] == "Spiel des Jahres" %}
-            <span class="label label-success">#<a class="tag-color"
-            href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
+            <span class="label label-success"><strong>#<a class="tag-color"
+            href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
         {% else %}
             {% if tag[0] == "Campaña" or tag[0] == "Expansión" or
             tag[0] == "Kickstarter" or tag[0] == "Print & play" or
             tag[0] == "Tabletopia" or tag[0] == "Tops" or
             tag[0] == "Verkami" or tag[0] == "Traducciones" %}
-                <span class="label label-warning">#<a class="tag-color"
-                href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
+                <span class="label label-warning"><strong>#<a class="tag-color"
+                href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
             {% else %}
                 {% if tag[0] == "GenCon"
                 or tag[0] == "Spiel Digital"
                 or tag[0] == "Essen Spiel"
                 or tag[0] == "Essen Spiel 2019"
                 or tag[0] == "UKGE" %}
-                    <span class="label label-info">#<a class="tag-color"
+                    <span class="label label-info"><strong>#<a class="tag-color"
                     href="/etiqueta/{{tag[0] | slugify:
-                    "latin"}}">{{tag[0]}}</a></span> 
+                    "latin"}}">{{tag[0]}}</a></strong></span> 
                 {% else %}
-                    <span class="label label-primary">#<a class="tag-color"
+                    <span class="label label-primary"><strong>#<a class="tag-color"
                     href="/etiqueta/{{tag[0] | slugify:
-                    "latin"}}">{{tag[0]}}</a></span> 
+                    "latin"}}">{{tag[0]}}</a></strong></span> 
                 {% endif %}
             {% endif %}
         {% endif %}

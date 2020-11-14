@@ -65,8 +65,8 @@
       or tag[0] == "Vuca Simulations"
       or tag[0] == "White Dog Games"
       or tag[0] == "Worthington Publishing" %}
-<span class="label label-danger">#<a class="tag-color"
-        href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
+<span class="label label-danger"><strong>#<a class="tag-color"
+        href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
       {% endfor %}
     </p>

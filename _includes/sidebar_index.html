@@ -44,8 +44,8 @@
       or tag[0] == "GMT Games"
       or tag[0] == "Héroes de Terrinoth"
       or tag[0] == "Hollandspiele" %}
-      <span class="label label-danger">#<a class="tag-color"
-                                           href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
+      <span class="label label-danger"><strong>#<a class="tag-color"
+                                           href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
       {% endfor %}
     </p>
