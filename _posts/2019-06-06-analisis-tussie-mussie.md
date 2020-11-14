@@ -5,6 +5,7 @@ date:   2019-06-06
 categories: [Análisis, Print & play]
 tags: [Tussie Mussie, Print & play, Golden Geek]
 imghtml: https://cf.geekdo-images.com/imagepage/img/Ap9t-N6nzY1pbU0OOlXZnhZrQzo=/fit-in/900x600/filters:no_upscale()/pic4751990.png
+crop: true
 score: 2
 game: "Tussie Mussie"
 post_desc: "La pequeña floristería del barrio que tenemos es nuestro

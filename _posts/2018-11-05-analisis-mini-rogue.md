@@ -5,6 +5,7 @@ date:   2018-11-05
 categories: [Análisis, Print & play]
 tags: [Mini Rogue, Print & play, 9 Card Game Print & Play Design Contest, Golden Geek]
 imghtml: https://cf.geekdo-images.com/qVKsZqjmAWh7E8kIIRRReQ__imagepage/img/qKZVgTCuOwqmrClbKXF0k_pjaj8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5542107.png
+crop: true
 score: 4
 game: "Mini Rogue"
 post_desc: "Mini Rogue es un

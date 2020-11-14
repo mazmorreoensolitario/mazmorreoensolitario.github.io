@@ -4,12 +4,12 @@ title: "Premios Ennie 2019"
 date: 2019-08-03
 categories: [Rol]
 tags: [Rol, GenCon, Ennie, Troika, Mothership, "Mothership: Dead Planet", OSR, Ironsworn, "Winter's Daughter"]
-imghtml: http://www.ennie-awards.com/blog/wp-content/uploads/new-logo-1-e1551140487639.jpg
+imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200704-ennies/ennies.jpg
 post_desc: "Los ENnies son unos premios otorgados cada año en la GenCon a los 
 mejores juegos de rol que hayan salido durante el año anterior"
 ---
 
-![](https://www.chaosium.com/product_images/uploaded_images/screen-shot-2018-07-05-at-1.14.27-am.png)
+![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200704-ennies/ennies.jpg)
 
 Los
 **[ENnies](https://ennie-awards.com/portfolio-item/2019-nominees-and-winners/)**

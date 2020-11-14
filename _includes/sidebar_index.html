@@ -1,0 +1,70 @@
+
+<div class="col-md-2">
+  <div class="mt10index">
+    <h4>Ayuda a esta página</h4>
+    <script type='text/javascript'
+            src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('¡Invítame
+      a un café!', '#29abe0', 'G2G11C3DK');kofiwidget2.draw();</script>
+  </div>
+  <div class="mt10index">
+    <h4>En las redes</h4>
+      {% if site.twitter %}
+      <a target="_blank" href="{{site.twitter}}"><li class="social twitter"><i class="fa fa-twitter-square"></i></li></a>
+      {% endif %}
+      {% if site.instagram %}
+      <a target="_blank" href="{{site.instagram}}"><li class="social
+                                                              instagram"><i class="fa fa-instagram"></i></li></a>
+      {% endif %}
+      {% if site.email %}
+      <a target="_blank" href="mailto:{{site.email}}"><li class="social email"><i class="fa fa-envelope"></i></li></a>
+      {% endif %}
+      <a target="_blank" href="{{site.baseursl}}/feed.xml"><li class="social rss"><i class="fa fa-rss"></i></li></a>
+  </div>
+  <div class="mt10index">
+    <h4>Etiquetas más populares</h4>
+    <p class="text-left">
+      {% for tag in site.tags %}
+      {% if tag[0] == "Ironsworn"
+      or tag[0] == "Fábulas de Peluche"
+      or tag[0] == "Undaunted: Normandy"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Nemesis"
+      or tag[0] == "Pax Pamir"
+      or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "Faiyum"
+      or tag[0] == "Scarlet Heroes"
+      or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Arquitectos del Reino del Oeste"
+      or tag[0] == "Charles S. Roberts Awards"
+      or tag[0] == "Colonos del Imperio: Imperios del Norte"
+      or tag[0] == "Compass Games"
+      or tag[0] == "D30 Sandbox Companion"
+      or tag[0] == "Decision Games"
+      or tag[0] == "Etherfields"
+      or tag[0] == "GMT Games"
+      or tag[0] == "Héroes de Terrinoth"
+      or tag[0] == "Hollandspiele" %}
+      <span class="label label-danger">#<a class="tag-color"
+                                           href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></span> 
+      {% endif %}
+      {% endfor %}
+    </p>
+  </div>
+  <div class="mt10index box">
+    <h4>Lo más leído</h4>
+    <div id="most-read">
+      <p>1. <a href="{{site.baseurl}}/2020/05/16/rol-en-solitario-como-empiezo/">Rol en solitario: ¿cómo empiezo?</a></p>
+      <p>2. <a href="{{site.baseurl}}/2020/01/09/rol-10-juegos-aventuras-para-2020/">10 juegos de rol en solitario y módulos de aventuras para probar en 2020</a></p>
+      <p>3. <a href="{{site.baseurl}}/2020/11/08/crowdfunding-1102-1108/">Noticias - Kickstarters y Verkami 2/11 - 8/11</a></p>
+      <p>4. <a href="{{site.baseurl}}/2020/11/07/noticias-csr-awards-2020/">Guía de wargames en solitario: Premios Charles S. Roberts de 2019</a></p>
+      <p>5. <a href="{{site.baseurl}}/2019/09/16/analisis-terraforming-mars/">Análisis - Terraforming Mars</a></p>
+      <p>6. <a href="{{site.baseurl}}/2020/04/30/noticias-golden-geek-awards-2019/">Guía de juegos en solitario: Nominaciones de los Premios Golden Geek de 2019</a></p>
+      <p>7. <a href="{{site.baseurl}}/2019/01/16/analisis-colonos-del-imperio/">Análisis - Colonos del Imperio</a></p>
+      <p>8. <a href="{{site.baseurl}}/2020/10/31/noticias-boletin-octubre-2020/">Boletín Informativo Solitario: octubre 2020</a></p>
+      <p>9. <a href="{{site.baseurl}}/2018/11/05/analisis-mini-rogue/">Análisis - Mini Rogue</a></p>
+      <p>10. <a href="{{site.baseurl}}/2019/03/09/analisis-maquis/">Análisis - Maquis</a></p>
+    </div>
+    <span id="dummy"></span>
+  </div>
+</div>
+

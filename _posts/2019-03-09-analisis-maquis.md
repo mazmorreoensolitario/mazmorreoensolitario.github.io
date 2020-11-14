@@ -7,6 +7,7 @@ tags: [Maquis, Print & play, Solitaire Print & Play Design Contest, Golden Geek]
 img: maquis.jpg
 imghtml: https://cf.geekdo-images.com/imagepage/img/HFn5Fv2UD6hwyzGfvXKn7InXXBE=/fit-in/900x600/filters:no_upscale()/pic3531368.png
 score: 4
+crop: true
 game: "Maquis"
 post_desc: "Maquis es un juego de colocación de trabajadores ambientado en la 
 ocupación de Francia por las fuerzas de la Alemania Nazi en la Segunda Guerra 

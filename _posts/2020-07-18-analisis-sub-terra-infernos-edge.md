@@ -6,6 +6,7 @@ categories: [Análisis]
 tags: [Sub Terra II, Sub Terra]
 imghtml: https://cf.geekdo-images.com/imagepage/img/WBkYq0gbBdQJ5kbT0gbuNxyCsJ4=/fit-in/900x600/filters:no_upscale()/pic4933104.jpg
 score: 2.5
+crop: true
 game: "Sub Terra II: Inferno's Edge"
 post_desc: "En Sub Terra II: Inferno's Edge somos un grupo de exploradores que
 tienen que recuperar un valioso artefacto de un templo dentro de las entrañas de

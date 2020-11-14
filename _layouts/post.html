@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_container
 ---
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:title" content="{{page.title}}"/>
@@ -172,8 +172,14 @@ layout: default
             <!--ul-->
               <div class="row">
            {% endif %}
-             <div class="col-sm-4 col-xs-4">
+           <div class="col-sm-4 col-xs-4">
+             <a href="{{ site.url }}{{ post.url }}">
                <img
+                 {% if post.crop %}
+                 class="crop-similar"
+                 {% else %}
+                 class="crop-nocrop"
+                 {% endif %}
                  {% if post.imghtml %}
                  src="{{ post.imghtml }}"
                  {% else %}
@@ -181,7 +187,8 @@ layout: default
                  {% endif %}
                     class="img-thumbnail related-caption" alt="{{post.title}}">
                <span class="related-caption">
-                 <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                 {{ post.title }}
+                 </a>
                </span>
              </div>
            {% capture hasSimilar %}{{ hasSimilar }}*{% endcapture %}

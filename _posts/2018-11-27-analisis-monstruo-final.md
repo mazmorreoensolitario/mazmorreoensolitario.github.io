@@ -6,6 +6,7 @@ categories: Análisis
 tags: [Monstruo Final]
 img: monstruo-final.jpg
 imghtml: https://cf.geekdo-images.com/imagepage/img/ylpDfK5MT7UHpFWb5DqWr1meOnc=/fit-in/900x600/filters:no_upscale()/pic1732644.jpg
+crop: true
 score: 2
 game: "Monstruo Final"
 post_desc: "En Monstruo Final

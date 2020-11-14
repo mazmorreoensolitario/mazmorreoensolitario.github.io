@@ -4,6 +4,7 @@ title: "Traducciones - Gladiator Gauntlet"
 date:   2019-02-04
 categories: [Traducciones]
 tags: [Gladiator Gauntlet, Print & play, 9 Card Game Print & Play Design Contest, Traducciones]
+crop: true
 imghtml: https://cf.geekdo-images.com/imagepage/img/6-UxjVSi5mukaZHL71uymQxj3iQ=/fit-in/900x600/filters:no_upscale()/pic3543520.png
 ---
 

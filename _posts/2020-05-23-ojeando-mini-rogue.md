@@ -5,6 +5,7 @@ date: 2020-05-23
 categories: [Ojeando]
 tags: [9 Card Game Print & Play Design Contest, Golden Geek, Print & play, Mini Rogue]
 imghtml: https://cf.geekdo-images.com/imagepage/img/H2fHdy5ffujf-y_nIel2V0jA61c=/fit-in/900x600/filters:no_upscale()/pic4608534.jpg
+crop: true
 post_desc: "En Mini Rogue controlamos a uno o dos aventureros a través de los
 diferentes niveles de una mazmorra en su búsqueda por la Sangre de Og, un
 misterioso artefacto que se rumorea ser un rubí extraordinario."

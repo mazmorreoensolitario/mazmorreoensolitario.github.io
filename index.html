@@ -2,106 +2,118 @@
 layout: default
 ---
 
-<div class="home">
+<!-- <div class="home"> -->
  
-  
-    <div class="row pack">
-
-        {% for post in paginator.posts %}   
-            <div class="col-md-4 card">
-             <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
-                <div class="panel panel-default">
-
-                  
-                  {% if post.imghtml %}
-                  <img width="100%" src="{{post.imghtml}}" alt="{{post.title}}">
-                  {% else %}
-                    {% if post.img %}
-                    <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
-                    {% else %}
-                    <img width="100%" src="{{site.baseurl}}/images/logo.png"
-                         alt="{{site.title}}">
-                    {% endif %}
-                  {% endif %}
-                  
-                  <div class="panel-body">
-                    <h3 class="panel-title pull-left">
-                      {{ post.title | truncate: 70 }}
-                    </h3>
-                    <br>
-                    <span class="post-meta pull-right"><small>
-                        {% assign m = post.date | date: "%-m" %}
-                        {{ post.date | date: "%-d" }}
-                        {% case m %}
-                        {% when '1' %}Enero,
-                        {% when '2' %}Febrero,
-                        {% when '3' %}Marzo,
-                        {% when '4' %}Abril,
-                        {% when '5' %}Mayo,
-                        {% when '6' %}Junio,
-                        {% when '7' %}Julio,
-                        {% when '8' %}Agosto,
-                        {% when '9' %}Septiembre,
-                        {% when '10' %}Octubre,
-                        {% when '11' %}Noviembre,
-                        {% when '12' %}Diciembre,
-                        {% endcase %}
-                        {{ post.date | date: "%Y" }}</small>
-                    </span>
-                    <div>
-                      {% assign categ_sorted = post.categories | sort %}
-                      <span class="pull-left label label-default">
-                        {{categ_sorted[0]}}
-                      </span>
-                    </div>
-                  </div>
-                  
-                  <div class="panel-body"><small>
-                      {% if post.post_desc %}
-                      {{ post.post_desc | strip_html | strip_newlines | truncate: 180}}
-                      {% else %}
-                      {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}
-                      {% endif %}
-                    </small>
-                  </div>
-                </div>
-                </a>
-            </div>
-        
-          {% endfor %}
-
-    </div> 
-    
 <div class="row">
-    <div class="col-md-4">  </div>
-    <div class="col-md-4">
-        {% if paginator.total_pages > 1 %}
-        <ul class="pager">
-          {% if paginator.previous_page %}
-            <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Nuevos</a></li>
-          {% else %}
-            <li><span>&laquo; Nuevos</span></li>
-          {% endif %}
-
-          {% for page in (1..paginator.total_pages) %}
-            {% if page == paginator.page %}
-              <li class="active"><span style="background-color: #4582ec;color:white">{{ page }}</span></li>
-            {% elsif page == 1 %}
-            <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+  <div class="col-md-2"></div>
+  <div class="pack col-md-7">
+    {% for post in paginator.posts %}   
+    <div class="col-md-4 card">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
+        <div class="panel panel-default">
+          {% if post.imghtml %}
+          <!---width="100%" --->
+          <img
+            {% if post.crop %}
+            class="try-to-crop" 
             {% else %}
-            <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+            width="100%" 
             {% endif %}
-          {% endfor %}
-
-          {% if paginator.next_page %}
-            <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Viejos &raquo;</a></li>
+             src="{{post.imghtml}}" alt="{{post.title}}">
           {% else %}
-            <li><span >Viejos &raquo;</span></li>
+          {% if post.img %}
+          <img width="100%" src="{{site.baseurl}}/images/{{post.img}}"
+               alt="{{post.title}}">
+          {% else %}
+          <img width="100%" src="{{site.baseurl}}/images/logo.png"
+               alt="{{site.title}}">
           {% endif %}
-          </ul>
-        {% endif %}
-
+          {% endif %}
+          
+          <div class="panel-body">
+            <h3 class="panel-title pull-left">
+              {{ post.title | truncate: 70 }}
+            </h3>
+            <br>
+            <span class="post-meta pull-right"><small>
+                {% assign m = post.date | date: "%-m" %}
+                {{ post.date | date: "%-d" }}
+                {% case m %}
+                {% when '1' %}Enero,
+                {% when '2' %}Febrero,
+                {% when '3' %}Marzo,
+                {% when '4' %}Abril,
+                {% when '5' %}Mayo,
+                {% when '6' %}Junio,
+                {% when '7' %}Julio,
+                {% when '8' %}Agosto,
+                {% when '9' %}Septiembre,
+                {% when '10' %}Octubre,
+                {% when '11' %}Noviembre,
+                {% when '12' %}Diciembre,
+                {% endcase %}
+                {{ post.date | date: "%Y" }}</small>
+            </span>
+            <div>
+              {% assign categ_sorted = post.categories | sort %}
+              <span class="pull-left label label-default">
+                {{categ_sorted[0]}}
+              </span>
+            </div>
+          </div>
+          
+          <div class="panel-body"><small>
+              {% if post.post_desc %}
+              {{ post.post_desc | strip_html | strip_newlines | truncate: 180}}
+              {% else %}
+              {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}
+              {% endif %}
+            </small>
+          </div>
+        </div>
+      </a>
     </div>
-    <div class="col-md-4">  </div>
+    
+    {% endfor %}
+  </div>
+  {% include sidebar_index.html %}
+  <div class="col-md-1"></div>
+  
 </div>
+
+<div class="row">
+  <div class="col-md-4">  </div>
+  <div class="col-md-4">
+    {% if paginator.total_pages > 1 %}
+    <ul class="pager">
+      {% if paginator.previous_page %}
+      <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Nuevos</a></li>
+      {% else %}
+      <li><span>&laquo; Nuevos</span></li>
+      {% endif %}
+      
+      {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+      <li class="active"><span style="background-color: #4582ec;color:white">{{ page }}</span></li>
+      {% elsif page == 1 %}
+      <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+      {% else %}
+      <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+      {% endif %}
+      {% endfor %}
+      
+      {% if paginator.next_page %}
+      <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Viejos &raquo;</a></li>
+      {% else %}
+      <li><span >Viejos &raquo;</span></li>
+      {% endif %}
+    </ul>
+    {% endif %}
+    
+  </div>
+  <div class="col-md-4">  </div>
 </div>
+
+<!-- </div> -->
+
+

@@ -4,7 +4,8 @@ title: "Análisis - Gladiator Gauntlet"
 date:   2019-02-02
 categories: [Análisis, Print & play]
 tags: [Gladiator Gauntlet, Print & play, 9 Card Game Print & Play Design Contest]
-img: gladiator-gauntlet.png
+imghtml: https://cf.geekdo-images.com/imagepage/img/6-UxjVSi5mukaZHL71uymQxj3iQ=/fit-in/900x600/filters:no_upscale()/pic3543520.png
+crop: true
 score: 3.5
 game: "Gladiator Gauntlet"
 post_desc: "Tu brazo está cansado de balancear tu espada tanto tiempo. El sudor te pica en

@@ -5,6 +5,7 @@ date:   2019-09-26
 categories: [Análisis, Print & play]
 tags: [Rocketships to Eos, Print & play]
 imghtml: https://cf.geekdo-images.com/imagepage/img/F5PlokByFyWd6a5E_CbI5fikJmo=/fit-in/900x600/filters:no_upscale()/pic2445794.png
+crop: true
 score: 1.5
 game: "Rocketships to Eos"
 post_desc: "En Rocketships to Eos capitaneamos una nave espacial y nuestro 

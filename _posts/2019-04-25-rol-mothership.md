@@ -4,6 +4,7 @@ title: "Rol - Mothership: Player's survival guide"
 date: 2019-04-25
 categories: [Rol]
 tags: [Rol, Mothership, "Mothership: Dead Planet", Ennie, OSR]
+crop: true
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/mothership/mothership.png
 post_desc: "Mothership es un RPG con temática espacial y énfasis en la
 supervivencia, nuestros personajes se encontraran con horrores y harán frente a

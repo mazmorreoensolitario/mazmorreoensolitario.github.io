@@ -6,6 +6,7 @@ categories: [Análisis, Print & play]
 tags: [Legends of Dsyx, "Legends of Dsyx: Dragonvault", Print & play]
 imghtml: https://cf.geekdo-images.com/imagepage/img/pPTGhZ6XSRsGYZA10JjZovRFILw=/fit-in/900x600/filters:no_upscale()/pic4351803.png
 score: 2.5
+crop: true
 game: "Legends of Dsyx: Dragonvault"
 post_desc: "Legends of Dsyx: Dragonvault es un
 print and play, concretamente del género roll and write, en el que controlamos

@@ -7,6 +7,7 @@ tags: ["Roll Estate", Print & play, Golden Geek]
 imghtml: https://cdn.shopify.com/s/files/1/0068/4988/8367/products/ImageTemplate_RollEstate0_540x.jpg
 score: 2.5
 game: "Roll Estate"
+crop: true
 post_desc: "Roll Estate es un juego roll & write en el que tratamos de
 convertirnos en el emprendedor más rico tratando de comprar activos con los 
 resultados de nuestra combinación de dados"

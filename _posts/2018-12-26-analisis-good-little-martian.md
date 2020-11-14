@@ -6,6 +6,7 @@ categories: [Análisis, Print & play]
 tags: [Good Little Martian, Print & play]
 imghtml: https://cf.geekdo-images.com/imagepage/img/G0fg0f0V8tcemcenK-WrtvWKFXg=/fit-in/900x600/filters:no_upscale()/pic3555101.png
 score: 2.5
+crop: true
 game: "Good Little Martian"
 post_desc: "Good Little Martian es un
 juego de supervivencia interplanetaria en el que tomamos dos papeles, el de un

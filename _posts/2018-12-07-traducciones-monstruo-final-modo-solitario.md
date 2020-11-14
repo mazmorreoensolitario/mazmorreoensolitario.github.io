@@ -4,6 +4,7 @@ title: "Traducciones - Monstruo Final - Modo en solitario"
 date:   2018-12-07
 categories: [Traducciones]
 tags: [Monstruo Final, Traducciones]
+crop: true
 imghtml: https://cf.geekdo-images.com/imagepage/img/ylpDfK5MT7UHpFWb5DqWr1meOnc=/fit-in/900x600/filters:no_upscale()/pic1732644.jpg
 ---
 
