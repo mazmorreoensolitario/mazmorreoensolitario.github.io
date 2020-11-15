@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-
-<!-- <div class="home"> -->
  
 <div class="row">
   <div class="col-md-2"></div>
@@ -73,47 +71,74 @@ layout: default
         </div>
       </a>
     </div>
-    
     {% endfor %}
-  </div>
-  {% include sidebar_index.html %}
-  <div class="col-md-1"></div>
-  
-</div>
-
-<div class="row">
-  <div class="col-md-4">  </div>
-  <div class="col-md-4">
+    <!--- pagination---->
+    <div class="col-md-12">
     {% if paginator.total_pages > 1 %}
-    <ul class="pager">
+    <ul class="pagination">
       {% if paginator.previous_page %}
-      <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Nuevos</a></li>
+      <li class="page-item">
+        <a class="page-link"
+           href="{{ paginator.previous_page_path | prepend: site.baseurl |
+           replace: '//', '/' }}">
+          &laquo; Nuevos</a>
+      </li>
       {% else %}
-      <li><span>&laquo; Nuevos</span></li>
+      <li class="page-item disabled">
+        <a class="page-link" href="#">&laquo; Nuevos</a>
+      </li>
       {% endif %}
       
       {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-      <li class="active"><span style="background-color: #4582ec;color:white">{{ page }}</span></li>
-      {% elsif page == 1 %}
-      <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+      {% if page == 1 %}
+      <li
+        {% if page == paginator.page %}
+        class="page-item active">
+        <span class="page-link">
+          {{ page }}
+          <span class="sr-only">(current)</span>
+        </span>
+        {% else %}
+      class="page-item">
+        <a class="page-link"
+           href="{{ paginator.previous_page_path | prepend: site.baseurl |
+                 replace: '//', '/' }}">{{page}}</a>
+        {% endif %}
+      </li>
+    {% elsif page == paginator.page %}
+      <li class="page-item active">
+        <span class="page-link">
+          {{ page }}
+        <span class="sr-only">(current)</span>
+        </span>
+    </li>
       {% else %}
-      <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+      <li class="page-item">
+        <a class="page-link"
+           href="{{ site.paginate_path | prepend: site.baseurl | replace: '//',
+                 '/' | replace: ':num', page }}">{{page}}</a>
+      </li> 
       {% endif %}
       {% endfor %}
       
       {% if paginator.next_page %}
-      <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Viejos &raquo;</a></li>
+      <li class="page-item">
+        <a class="page-link" href="{{ paginator.next_page_path | prepend:
+                                   site.baseurl | replace: '//', '/' }}">Viejos &raquo;</a> 
+      </li>
       {% else %}
-      <li><span >Viejos &raquo;</span></li>
+      <li class="page-item disabled">
+        <a class="page-link" href="#">Viejos &raquo;</a>
+      </li>
       {% endif %}
     </ul>
     {% endif %}
-    
+    <!--- end pagination----->
+    </div>
   </div>
-  <div class="col-md-4">  </div>
+  {% include sidebar_index.html %}
 </div>
 
-<!-- </div> -->
+
 
 

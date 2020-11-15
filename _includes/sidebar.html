@@ -13,6 +13,20 @@
     a un café!', '#29abe0', 'G2G11C3DK');kofiwidget2.draw();</script>
   </div>
   <div class="mt10">
+    <h4>En las redes</h4>
+      {% if site.twitter %}
+      <a target="_blank" href="{{site.twitter}}"><li class="social twitter"><i class="fa fa-twitter-square"></i></li></a>
+      {% endif %}
+      {% if site.instagram %}
+      <a target="_blank" href="{{site.instagram}}"><li class="social
+                                                              instagram"><i class="fa fa-instagram"></i></li></a>
+      {% endif %}
+      {% if site.email %}
+      <a target="_blank" href="mailto:{{site.email}}"><li class="social email"><i class="fa fa-envelope"></i></li></a>
+      {% endif %}
+      <a target="_blank" href="{{site.baseursl}}/feed.xml"><li class="social rss"><i class="fa fa-rss"></i></li></a>
+  </div>
+  <div class="mt10">
     <h4>Lo más leído</h4>
     <div id="most-read"></div>
     <div class="image-container">
