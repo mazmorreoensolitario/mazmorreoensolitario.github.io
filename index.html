@@ -3,8 +3,8 @@ layout: default
 ---
  
 <div class="row">
-  <div class="col-md-2"></div>
-  <div class="pack col-md-7">
+  <div class="col-md-1"></div>
+  <div class="pack col-md-8">
     {% for post in paginator.posts %}   
     <div class="col-md-4 card">
       <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
@@ -123,8 +123,9 @@ layout: default
       
       {% if paginator.next_page %}
       <li class="page-item">
-        <a class="page-link" href="{{ paginator.next_page_path | prepend:
-                                   site.baseurl | replace: '//', '/' }}">Viejos &raquo;</a> 
+        <a class="page-link"
+           href="{{ paginator.next_page_path | prepend:
+                 site.baseurl | replace: '//', '/' }}">Viejos &raquo;</a> 
       </li>
       {% else %}
       <li class="page-item disabled">
@@ -137,8 +138,72 @@ layout: default
     </div>
   </div>
   {% include sidebar_index.html %}
-</div>
+</div><!--- row --->
+<div class="row">
+
+  <div class="col-md-1"></div>
+  <div class="col-md-2 col-sm-2 col-xs-6">
+    <h4>Últimos análisis</h4>
+    {% for category in site.categories %}
+    {% if category[0] == "Análisis" %}
+    {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+    {% for post in sorted limit: 6%}
+    <div class="image-container">
+      <a href="{{site.url}}{{post.url}}">
+        <img class="crop-sidebar" src="{{post.imghtml}}">
+        <div class="text-block"><h5>{{post.game | truncate: 40}}</h5></div></a>
+    </div>
+    {% endfor %}
+    {% endif %}
+    {% endfor %}
+  </div><!-- col-md-2 -->
+  <div class="col-md-2 col-sm-2 col-xs-6">
+    <h4>Rol en solitario</h4>
+    {% for category in site.categories %}
+    {% if category[0] == "Rol" %}
+    {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+    {% for post in sorted limit: 6%}
+    <div class="image-container">
+      <a href="{{site.url}}{{post.url}}">
+        <img class="crop-sidebar" src="{{post.imghtml}}">
+        <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+    </div>
+    {% endfor %}
+    {% endif %}
+    {% endfor %}
+  </div><!-- col-md-2 -->
+  <div class="col-md-2 col-sm-2 col-xs-6">
+    <h4>Crowdfunding</h4>
+    {% for category in site.categories %}
+    {% if category[0] == "Crowdfunding" %}
+    {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+    {% for post in sorted limit: 6 %}
+    <div class="image-container">
+      <a href="{{site.url}}{{post.url}}">
+        <img class="crop-sidebar" src="{{post.imghtml}}">
+        <div class="text-block"><h5>{{post.title | slice: 11, 100  | truncate: 40}}</h5></div></a>
+    </div>
+    {% endfor %}
+    {% endif %}
+    {% endfor %}
+  </div><!-- col-md-2 -->
+  <div class="col-md-2 col-sm-2 col-xs-6">
+    <h4>Ojeando</h4>
+    {% for category in site.categories %}
+    {% if category[0] == "Ojeando" %}
+    {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+    {% for post in sorted limit: 6%}
+    <div class="image-container">
+      <a href="{{site.url}}{{post.url}}">
+        <img class="crop-sidebar" src="{{post.imghtml}}">
+        <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+    </div>
+    {% endfor %}
+    {% endif %}
+    {% endfor %}
+  </div><!-- col-md-3 -->
+</div><!--- row -->
 
 
-
+<div class="row"><div class="col-md-12"><br></div></div>
 
