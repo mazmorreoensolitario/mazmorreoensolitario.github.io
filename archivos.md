@@ -9,13 +9,11 @@ categorías.
 
 ### Nube de etiquetas
 
-Juegos en <span class="label label-primary">azul</span>,
-concursos y premios en  <span class="label
-label-success">verde</span>, eventos y ferias en <span 
-class="label label-info">azul clarito</span>, etiquetas generales en 
-<span class="label label-warning">naranja</span> y cosas
-relacionadas con rol en <span class="label
-label-danger">rojo</span>.
+<span class="label label-primary"><strong>Juegos</strong></span>,
+<span class="label label-success"><strong>concursos y premios</strong></span>,
+<span class="label label-info"><strong>eventos y ferias</strong></span>,
+<span class="label label-warning"><strong>general</strong></span>
+<span class="label label-danger"><strong>rol</strong></span>.
 
 <p class="text-left">
 {% assign sorted_tags = site.tags | sort %}
