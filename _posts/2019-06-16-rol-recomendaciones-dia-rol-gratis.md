@@ -57,13 +57,13 @@ href="http://www.tuesdayknightgames.com/mothership" target="_blank">Mothership</
     <div class="col-md-9">
          <h4>Swarp Swords & Sinister Spells</h4>
          <p><strong><a
-         href="https://www.drivethrurpg.com/product/198163/Sharp-Swords--Sinister-Spells"
+         href="https://www.drivethrurpg.com/product/198163/Sharp-Swords--Sinister-Spells?affiliate_id=1914894"
          target="_blank">Swarp Swords & Sinister Spells</a></strong> es un
          pequeño juego de rol de una ambientación medieval fantástica
          clásica. No he llegado a jugar ninguna partida con las reglas del
          propio juego, pero sí he reutilizado muchas veces las tablas de
          generación de aventuras, habilidades especiales de monstruos y otras
-         del <a href="https://www.drivethrurpg.com/product/219747/Sharp-Swords--Sinister-Spells--Addendum"
+         del <a href="https://www.drivethrurpg.com/product/219747/Sharp-Swords--Sinister-Spells--Addendum?affiliate_id=1914894"
          target="_blank">Addendum</a> para insertar en otras partidas de
          fantasía medieval. Solamente por estas tablas merecen la pena ambos
          libros.
@@ -90,9 +90,9 @@ href="http://www.tuesdayknightgames.com/mothership" target="_blank">Mothership</
     <div class="col-md-9">
          <h4>Labyrinth Lord</h4>
          <p><strong><a
-    href="https://www.drivethrurpg.com/product/64331/Labyrinth-Lord-Revised-Edition-noart-version"
+    href="https://www.drivethrurpg.com/product/64331/Labyrinth-Lord-Revised-Edition-noart-version?affiliate_id=1914894"
         target="_blank">Labyrinth Lord</a></strong> y su <a
-    href="https://www.drivethrurpg.com/product/78524/Advanced-Edition-Companion-Labyrinth-Lord-noart-version"
+    href="https://www.drivethrurpg.com/product/78524/Advanced-Edition-Companion-Labyrinth-Lord-noart-version?affiliate_id=1914894"
         target="_blank">Advanced Edition Companion</a> son retroclones de BD&D
         y AD&D. Os lo recomiendo encarecidamente si queréis jugar una aventura
         OSR ya que tenéis muchísimo material compatible que va a poder
@@ -143,7 +143,7 @@ href="http://www.tuesdayknightgames.com/mothership" target="_blank">Mothership</
     <div class="col-md-9">
          <h4>Augmented Reality, The Holistic City Kit For Cyberpunk Games</h4>
          <p><strong><a
-    href="https://www.drivethrurpg.com/product/202175/Augmented-Reality-The-Holistic-City-Kit-For-Cyberpunk-Games"
+    href="https://www.drivethrurpg.com/product/202175/Augmented-Reality-The-Holistic-City-Kit-For-Cyberpunk-Games?affiliate_id=1914894"
         target="_blank">Augmented Reality</a></strong> es un generador de
         ciudades cyberpunk, y a su vez podéis utilizar cualquiera de sus tablas
         para vuestras aventuras de ciencia ficción. 
@@ -174,7 +174,7 @@ href="http://www.tuesdayknightgames.com/mothership" target="_blank">Mothership</
     <div class="col-md-9">
          <h4>Strange Nations: A Worldbuilding Resource</h4>
              <p><strong><a
-         href="https://www.drivethrurpg.com/product/200950/Strange-Nations-A-Worldbuilding-Resource"
+         href="https://www.drivethrurpg.com/product/200950/Strange-Nations-A-Worldbuilding-Resource?affiliate_id=1914894"
          target="_blank">Strange Nations</a></strong> es una colección de 30
          descipciones detalladas de 30 naciones diferentes que podéis utilizar
          para añadir detalles en vuestro mundo de ciencia ficción, fantasía
@@ -202,7 +202,7 @@ href="http://www.tuesdayknightgames.com/mothership" target="_blank">Mothership</
          <h4>Veinscrawl</h4>
          <p><strong><a
 href="https://coinsandscrolls.blogspot.com/2018/05/osr-veinscrawl.html" target="_blank">Veinscrawl</a></strong>
-         es un hexcrawl ambientado en el marco que nos provee <a href="https://www.drivethrurpg.com/product/209509/Veins-of-the-Earth">Veins of the
+         es un hexcrawl ambientado en el marco que nos provee <a href="https://www.drivethrurpg.com/product/209509/Veins-of-the-Earth?affiliate_id=1914894">Veins of the
     Earth</a> (de pago), que a su vez es un marco <i>underdark</i> para Lamentations of the
     Flame Princess (LotFP). Para jugar a Veinscrawl no hace falta que uséis
     LotFP, cualquier clon de B/X o AD&D vale, pero sí que necesitáis estar

@@ -92,7 +92,7 @@ Sin más dilación, estas son mis recomendaciones:
         class="img-thumbnail" alt="Old-School Essentials: Basic Rules">
     </div>
     <div class="col-md-9">
-         <h4><a href="https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules">Old-School Essentials: Basic Rules</a></h4>
+         <h4><a href="https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules?affiliate_id=1914894">Old-School Essentials: Basic Rules</a></h4>
          <p><strong>Old-School Essentials (OSE)</strong> es un retroclón de la
          edición de 1981 Basic/Expert de D&D que se ha convertido en el
          sistema sobre el que orbita la mayor parte del mundillo OSR. Además de
@@ -138,7 +138,7 @@ Sin más dilación, estas son mis recomendaciones:
     </div>
     <div class="col-md-9">
          <h4><a
-    href="https://www.drivethrurpg.com/product/196352/The-Nightmares-Underneath-Free-Edition">The
+    href="https://www.drivethrurpg.com/product/196352/The-Nightmares-Underneath-Free-Edition?affiliate_id=1914894">The
     Nighmares Underneath (Free Edition)</a></h4>
          <p><strong>The Nightmares Underneath</strong> por Johnstone Metzger,
          es un juego de rol de temática de terror ambientado en un Oriente
@@ -169,7 +169,7 @@ Sin más dilación, estas son mis recomendaciones:
         class="img-thumbnail" alt="Mothership: Hive Mind">
     </div>
     <div class="col-md-9">
-         <h4><a href="https://www.drivethrurpg.com/product/288946/Mothership-Hive-Mind-Issue-01">Mothership: Hive Mind</a></h4>
+         <h4><a href="https://www.drivethrurpg.com/product/288946/Mothership-Hive-Mind-Issue-01?affiliate_id=1914894">Mothership: Hive Mind</a></h4>
          <p>El <a
          href="{{site.baseurl}}/2019/06/16/rol-recomendaciones-dia-rol-gratis/">año
          pasado</a> recomendaba el juego de rol <strong><a
@@ -192,7 +192,7 @@ Sin más dilación, estas son mis recomendaciones:
         class="img-thumbnail" alt="The Metamorphica (Classic Edition)">
     </div>
     <div class="col-md-9">
-         <h4><a href="https://www.drivethrurpg.com/product/115703/The-Metamorphica-Classic-Edition">The Metamorphica (Classic Edition)</a></h4>
+         <h4><a href="https://www.drivethrurpg.com/product/115703/The-Metamorphica-Classic-Edition?affiliate_id=1914894">The Metamorphica (Classic Edition)</a></h4>
          <p><strong>The Metamorphica</strong> es el segundo libro de Johnstone
          Metzger que vemos en esta entrada, y en contrario al primero, que era
          un juego de rol completo, este es <i>solamente</i> un libro de
@@ -280,7 +280,7 @@ Sin más dilación, estas son mis recomendaciones:
         class="img-thumbnail" alt="Deep Carbon Observatory">
     </div>
     <div class="col-md-9">
-         <h4><a href="https://www.drivethrurpg.com/product/131801/Deep-Carbon-Observatory">Deep Carbon Observatory</a></h4>
+         <h4><a href="https://www.drivethrurpg.com/product/131801/Deep-Carbon-Observatory?affiliate_id=1914894">Deep Carbon Observatory</a></h4>
          <p><strong>Deep Carbon Observatory</strong> de Patrick Stuart y Scrap
          Princess es uno de los módulos de aventuras más conocidos dentro del
          mundillo de OSR, y bueno, más que una recomendación que os hago yo
