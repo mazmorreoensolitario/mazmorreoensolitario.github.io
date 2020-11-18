@@ -54,6 +54,14 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
+       {% if post.url == "/2019/01/16/analisis-colonos-del-imperio/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
        {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -70,14 +78,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/01/16/analisis-colonos-del-imperio/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2020/11/08/crowdfunding-1102-1108/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -86,15 +86,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2018/11/05/analisis-mini-rogue/" %}
+       {% if post.url == "/2020/11/14/analisis-roll-estate/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -103,6 +95,14 @@
     <div class="image-container">
        {% for post in site.posts %}
        {% if post.url == "/2020/09/07/root-en-solitario/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -122,22 +122,21 @@
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Solitaire Print & Play Design Contest"
       or tag[0] == "Too Many Bones"
-      or tag[0] == "Arquitectos del Reino del Oeste"
       or tag[0] == "Deep Space-D6"
+      or tag[0] == "Etherfields"
+      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Old-School Essentials"
       or tag[0] == "Scarlet Heroes"
       or tag[0] == "Tops"
       or tag[0] == "1066 Tears To Many Mothers"
+      or tag[0] == "Arquitectos del Reino del Oeste"
       or tag[0] == "Charles S. Roberts Awards"
       or tag[0] == "D30 Sandbox Companion"
       or tag[0] == "Dune: Imperium"
-      or tag[0] == "Etherfields"
       or tag[0] == "Faiyum"
       or tag[0] == "Golden Geek"
       or tag[0] == "Hallertau"
-      or tag[0] == "Héroes de Terrinoth"
       or tag[0] == "Ironsworn: Delve"
-      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Legends Untold"
       or tag[0] == "Mini Rogue"
       or tag[0] == "Mothership"
