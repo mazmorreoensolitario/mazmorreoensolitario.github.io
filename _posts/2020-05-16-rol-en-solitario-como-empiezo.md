@@ -447,8 +447,11 @@ porque utiliza mecánicas de Forged in the Dark, que vienen de Blades in The Dar
 Quest](https://www.reddit.com/r/Solo_Roleplaying/comments/ek2we5/i_have_developed_a_solo_rpgwriting_game_the_quest/)
 (este lo descubrí en Reddit, me gustó la premisa, y lo descargué).
 
-Estos juegos tienen la misma estructura que un libro de rol
-estándar, solo que tienen reglas especiales para el juego en solitario:
+<hr>
+
+Como segundo tipo de juegos, estos tienen la **misma estructura que un
+libro de rol estándar**, solo que tienen **reglas especiales para el juego en
+solitario:**
 
 * **[Scarlet
   Heroes](https://www.drivethrurpg.com/product/127180/Scarlet-Heroes?affiliate_id=1914894)**, de
