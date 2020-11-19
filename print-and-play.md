@@ -48,3 +48,9 @@ print & play que puedo recomendar:
   Puede recortar 3-4 cartas a la vez y cartulina, pero no se puede usar para
   cartón.
 
+* Antes yo cortaba las cartas con tijeras, pero me he pasado al cuchillo y
+  regla, me resulta más rápido hacer todo así. Las cizallas también puede que
+  sean una buena opción, pero las calidades dejan bastante que desear.
+  - [Cuchillo con tres recambios](https://amzn.to/38V4Gm2)
+  - [Regla de acero](https://amzn.to/2UEXDFM)
+  - [Base para cortar](https://amzn.to/36JRDRv)

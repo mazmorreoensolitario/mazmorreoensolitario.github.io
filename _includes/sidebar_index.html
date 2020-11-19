@@ -24,16 +24,16 @@
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
       {% for tag in site.tags %}
-      {% if tag[0] == "Ironsworn"
+      {% if tag[0] == "Undaunted: Normandy"
+      or tag[0] == "Ironsworn"
       or tag[0] == "Fábulas de Peluche"
-      or tag[0] == "Undaunted: Normandy"
       or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Etherfields"
       or tag[0] == "Pax Pamir"
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Solitaire Print & Play Design Contest"
       or tag[0] == "Too Many Bones"
       or tag[0] == "Deep Space-D6"
-      or tag[0] == "Etherfields"
       or tag[0] == "Labyrinth Lord"
       or tag[0] == "Old-School Essentials"
       or tag[0] == "Scarlet Heroes"
@@ -46,7 +46,6 @@
       or tag[0] == "Faiyum"
       or tag[0] == "Golden Geek"
       or tag[0] == "Hallertau"
-      or tag[0] == "Ironsworn: Delve"
       or tag[0] == "Legends Untold"
       or tag[0] == "Mini Rogue"
       or tag[0] == "Mothership"
@@ -54,7 +53,8 @@
       or tag[0] == "Res Arcana"
       or tag[0] == "Rome & Roll"
       or tag[0] == "Scythe: El Auge de Fenris"
-      or tag[0] == "Stalingrad 42" %}
+      or tag[0] == "Stalingrad 42"
+      or tag[0] == "Zine Quest" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
                                            href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
@@ -66,7 +66,7 @@
     <div id="most-read"></div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
+       {% if post.url == "/2020/05/16/rol-en-solitario-como-empiezo/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -74,7 +74,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/05/16/rol-en-solitario-como-empiezo/" %}
+       {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -114,14 +114,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/11/08/crowdfunding-1102-1108/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2020/11/14/analisis-roll-estate/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -130,7 +122,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/09/07/root-en-solitario/" %}
+       {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -138,7 +130,15 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
+       {% if post.url == "/2020/11/08/crowdfunding-1102-1108/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2020/09/07/root-en-solitario/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
