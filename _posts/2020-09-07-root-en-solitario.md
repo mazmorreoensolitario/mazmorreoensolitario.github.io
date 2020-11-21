@@ -9,6 +9,7 @@ post_desc: "¿Se puede jugar a Root en solitario? ¿Cómo juego? ¿De dónde has
  sacado los tableros de los bots? Lee esta entrada para solucionar tus dudas" 
 ---
 
+<small><strong>Actualizado 31/10/20</strong>. Se añade link al BIS - Octubre</small>
 <p align="center"><img
    src="https://live.staticflickr.com/65535/50315024792_2ed72a378d_c.jpg"></p>
 <p align="center"><small>Una de mis primeras partidas a Root, Marquise de Cat
@@ -121,7 +122,9 @@ Hay varias formas de jugar a
     * **¿Va a publicar 2Tomatoes Games esta expansión en español?** Ni idea. Las
     traducciones suelen ir con un año/año y medio de retraso; a mí The
     Clockwork me llegó en junio de este año (2020), así que podéis esperar;
-    pero insisto, ni idea.
+    pero insisto, ni idea. Aquí tenéis una actualización sobre este tema:
+    [Boletín Informativo Solitario de
+    octubre]({{site.baseurl}}/2020/10/31/noticias-boletin-octubre-2020/).
     
     * **¿Merece la pena gastarse 40$ en cuatro tableros, unos marcadores, las
     reglas, 28 cartas y una caja bonita?** Que cada uno decida, viendo lo que me
