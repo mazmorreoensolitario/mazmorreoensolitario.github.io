@@ -366,7 +366,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         <p><strong>En solitario...</strong> Vais a tener que llevar a ambos
         bandos y tener alguna solución creativa para ver cómo decidís jugar las
         cartas del rival.</p>
-        <img src="https://www.compassgames.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/a/map_1_2.gif">
+        <img src="https://cf.geekdo-images.com/Jrpwx4pQmPOzUC_yr7szxA__imagepage/img/Nx8xdzHhoxeXtCkF5PMBCi73r-0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1581740.jpg">
     </div>
 </div>
 <br>
@@ -641,7 +641,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
     href="https://boardgamegeek.com/filepage/188202/solo-bot-ussr">ha subido un
         bot</a> para controlar las fuerzas de la Unión Soviética y así poder
         jugar más fácilmente en solitario.</p>
-        <img src="https://www.compassgames.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/w/bwn_map.jpg">
+        <img src="https://cf.geekdo-images.com/ArgBb8tINtZGhRdZ_2HZvg__imagepage/img/6OE0q9wizRfAMx_u5EA9HVxVy8U=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4476947.png">
     </div>
 </div>
 <br>
@@ -674,7 +674,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         de cartas generalmente ocultan la mano de cada jugador, por lo que
         en solitario eso no es ideal, sin embargo en solitario se puede jugar
         con la mano del rival oculta o vista sin mayor problema. </p>
-        <img src="https://www.compassgames.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/a/ham_gamemap_180418_r_opt.jpg">
+        <img src="https://cf.geekdo-images.com/Za43gvuvW2h7ch7G77ESCA__imagepage/img/MPhQeHI4lNmVg6hDiobQkkz-xPY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4222628.jpg">
     </div>
 </div>
 <br>
@@ -1061,7 +1061,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         </ul>
         <p><strong>En solitario...</strong> está diseñado solamente para el
         juego en solitario, así que perfecto.</p>
-        <img src="https://www.compassgames.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/a/mat-s_copy.png">
+        <img src="https://cf.geekdo-images.com/yZHjt4_3ntVtKsHur6hAbw__imagepage/img/jHdlYM96KuXVLziz4ryw2kr0x2M=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4275879.jpg">
     </div>
 </div>
 <br>
