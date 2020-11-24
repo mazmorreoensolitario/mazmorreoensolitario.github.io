@@ -28,25 +28,23 @@
       or tag[0] == "Undaunted: Normandy"
       or tag[0] == "Etherfields"
       or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Pax Pamir"
       or tag[0] == "Barrage"
+      or tag[0] == "Colonos del Imperio: Imperios del Norte"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Mini Rogue"
-      or tag[0] == "Too Many Bones"
-      or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Mothership"
       or tag[0] == "Nemesis"
-      or tag[0] == "Solitaire Print & Play Design Contest"
-      or tag[0] == "1066 Tears To Many Mothers"
-      or tag[0] == "Arquitectos del Reino del Oeste"
-      or tag[0] == "Colonos del Imperio: Imperios del Norte"
+      or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Hallertau"
+      or tag[0] == "Héroes de Terrinoth"
       or tag[0] == "Labyrinth Lord"
-      or tag[0] == "Old-School Essentials"
       or tag[0] == "One Page Dungeon"
+      or tag[0] == "Print & play"
       or tag[0] == "Scarlet Heroes"
       or tag[0] == "Scythe: El Auge de Fenris"
       or tag[0] == "Tank Duel: Enemy in the Crosshairs"
+      or tag[0] == "Tiny Towns"
       or tag[0] == "UBOOT: The Board Game"
       or tag[0] == "Undaunted: North Africa"
       or tag[0] == "Zine Quest 2"
@@ -94,14 +92,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/04/30/noticias-golden-geek-awards-2019/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2020/11/22/crowdfunding-1116-1122/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -110,7 +100,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/11/15/crowdfunding-1109-1115/" %}
+       {% if post.url == "/2020/04/30/noticias-golden-geek-awards-2019/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -134,7 +124,15 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/11/14/analisis-roll-estate/" %}
+       {% if post.url == "/2019/06/06/analisis-tussie-mussie/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2020/11/15/crowdfunding-1109-1115/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
