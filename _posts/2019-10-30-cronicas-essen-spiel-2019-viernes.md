@@ -28,13 +28,8 @@ teníamos por Alemania, cogí el metro en una plaza que lucía muy favorecida po
 el otoño para darme algo de descanso.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48987011267/in/dateposted-public/"
-title="foto-plaza-metro"><img
-src="https://live.staticflickr.com/65535/48987011267_4171e9f5fe_z.jpg"
-width="640" height="480" alt="foto-plaza-metro"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48987011267_4171e9f5fe_z.jpg"
+alt="foto-plaza-metro"></p>
 <p align="center"><small>Pequeño parque con una boca de metro</small></p>
 
 Tras llegar a Messe Essen consulté mi lista de demos pendientes, y era el
@@ -59,13 +54,8 @@ nuestra colonia y en cada partida tendremos condiciones de puntuación
 diferentes.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48986816456/in/dateposted-public/"
-title="foto-on-mars"><img
-src="https://live.staticflickr.com/65535/48986816456_ca3a35d492_z.jpg"
-width="480" height="640" alt="foto-on-mars"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48986816456_ca3a35d492_z.jpg"
+alt="foto-on-mars"></p>
 <p align="center"><small>On Mars. La producción de este juego es
 exquisita</small></p>
 
@@ -80,18 +70,15 @@ una de las cosas más interantes de Essen, poder hablar con gente con gustos
 diversos.
 Me sorprendió bastante que no supieran a grandes rasgos cuáles iban a ser los
 grandes estrenos de la feria, yo les comenté que había comprado [**Expedition
-to Newdale**]() el día anterior, y no lo conocían, tampoco les sonaba
-[**Maracaibo**](), del mismo autor, sin embargo, allí estábamos los tres
-esperando una demo de On Mars, así que no supe qué pensar.
+to Newdale**](https://boardgamegeek.com/boardgame/272682/expedition-newdale) el
+día anterior, y no lo conocían, tampoco les sonaba
+[**Maracaibo**](https://boardgamegeek.com/boardgame/276025/maracaibo), del
+mismo autor, sin embargo, allí estábamos los tres esperando una demo de On
+Mars, así que no supe qué pensar. 
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48987010852/in/dateposted-public/"
-title="foto-newdale"><img
-src="https://live.staticflickr.com/65535/48987010852_f7364748dc_z.jpg"
-width="640" height="480" alt="foto-newdale"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48987010852_f7364748dc_z.jpg"
+alt="foto-newdale"></p>
 <p align="center"><small>Expedition to Newdale. Esta foto es de una partida que
 eché ayer a mi copia, no saqué fotos de este juego en la feria</small></p>
 
@@ -127,8 +114,8 @@ alemán e inglés, era el de la editorial alemana del juego, y había un stand d
 la editorial norteamericana, así pues, crucé los dedos y me dirigí al stand de
 **Eagle-Gryphon Games** para ver si por fin podía conseguir la ansiada demo de
 On Mars. No pudo ser. Una amable señora me explicó que como el año pasado no
-habían hecho demo de [**Escape
-Plan**](https://boardgamegeek.com/boardgame/142379/escape-plan), este año iban
+habían hecho demo de **[Escape
+Plan](https://boardgamegeek.com/boardgame/142379/escape-plan)**, este año iban
 a hacer demos de Escape Plan. A quién demonios le importa Escape Plan cuando
 solo tienes una mesa de demos y la novedad es On Mars, pensé internamente. Le
 comenté a la señora lo que me había pasado en el otro stand que tenían el juego
@@ -139,18 +126,13 @@ a gustar porque el universo se ha empeñado a frustrar todos mis intentos de
 probarlo. 
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48987011732/in/dateposted-public/"
-title="foto-dadaocheng-demo"><img
-src="https://live.staticflickr.com/65535/48987011732_acb2c67a61_z.jpg"
-width="480" height="640" alt="foto-dadaocheng-demo"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48987011732_acb2c67a61_z.jpg"
+alt="foto-dadaocheng-demo"></p>
 <p align="center"><small>Dadaocheng. Gente ocupando mesas de demo sin
 jugar... paciencia</small></p>
 
 De camino a mi siguiente demo, me crucé con la segunda edición de
-[**Dadaocheng**](https://boardgamegeek.com/boardgame/289802/dadaocheng-2nd-edition)
+**[Dadaocheng](https://boardgamegeek.com/boardgame/289802/dadaocheng-2nd-edition)**
 de **Soso Studio** que se estaba vendiendo bastante bien. Este es un juego de
 esos que gráficamente me atraen mucho, las mecánicas parecen estar bien, pero
 el modo en solitario no me convence, pero como es bonito me lo pienso dos
@@ -167,13 +149,8 @@ contar nuestros puntos de victoria, y se compararán contra una escala, que nos
 dirá lo bien o mal que hemos jugado.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48986255873/in/dateposted-public/"
-title="foto-board-and-dice"><img
-src="https://live.staticflickr.com/65535/48986255873_9f48596078_z.jpg"
-width="640" height="480" alt="foto-board-and-dice"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48986255873_9f48596078_z.jpg"
+alt="foto-board-and-dice"></p>
 <p align="center"><small>Stand de Board and Dice. Este era un buen stand,
 muchísimas mesas, espacio suficiente para pasar entre ellas o quedarse mirando
 una partida y sin parafernalia que agobie</small></p> 
@@ -197,18 +174,15 @@ extraer conclusiones que se resumen en que es un juego divertido, posiblemente
 en solitario más, pero no creo que entre en mi colección.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48986817221/in/dateposted-public/"
-title="foto-crazy-taco"><img
-src="https://live.staticflickr.com/65535/48986817221_2621db364b_z.jpg"
-width="640" height="353" alt="foto-crazy-taco"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48986817221_2621db364b_z.jpg"
+alt="foto-crazy-taco"></p>
 <p align="center"><small>Crazy Taco. Un tablero muy colorido y alegre</small></p>
 
 La mañana iba de dados, así que me dirigí al stand de **CtrlAltCreative** para
 probar [**Crazy
-Taco**](https://boardgamegeek.com/boardgame/289397/crazy-taco) un juego que se
+Taco**](https://boardgamegeek.com/boardgame/289397/crazy-taco) ([demo
+aquí]({{site.baseurl}}/2020/03/19/historia-de-una-demo-essen-spiel-2019-crazy-taco/))
+un juego que se 
 pensó principalmente para el juego en solitario, pero que también tienen una
 versión competitiva en su modo de dos jugadores. Buscará financiación en
 **Kickstarter en 2020**. Como os comenté en la [lista de juegos
@@ -221,13 +195,8 @@ explico muy amablemente cómo se jugaba y algunas decisiones de diseño detrás
 del juego. Os contaré todo con más detalle próximamente.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48986255418/in/dateposted-public/"
-title="foto-galleria"><img
-src="https://live.staticflickr.com/65535/48986255418_01f0217af6_z.jpg"
-width="640" height="480" alt="foto-galleria"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48986255418_01f0217af6_z.jpg"
+alt="foto-galleria"></p>
 <p align="center"><small>Galleria, donde se mezcla la comida con
 juegos</small></p>
 
@@ -240,13 +209,8 @@ de sala a base de kétchup y curry (recomendación de un tuitero, pero entiendo
 que no esperaba que lo probase en un puesto de la feria).
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48986817411/in/dateposted-public/"
-title="foto-bios-origins"><img
-src="https://live.staticflickr.com/65535/48986817411_986fa77b0a_z.jpg"
-width="640" height="377" alt="foto-bios-origins"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48986817411_986fa77b0a_z.jpg"
+alt="foto-bios-origins"></p>
 <p align="center"><small>Bios: Origins 2. Ha quedado genial, me arrepiento no
 haber entrado en la campaña de Kickstarter, y más después de que se agotara y
 me quedara sin copia</small></p>
@@ -271,13 +235,8 @@ jugadores y la caja tiene un tamaño justo. En esto Sierra Madre siempre es
 sobresaliente.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48987011487/in/dateposted-public/"
-title="foto-gmt-games"><img
-src="https://live.staticflickr.com/65535/48987011487_a4493c04e5_z.jpg"
-width="640" height="480" alt="foto-gmt-games"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48987011487_a4493c04e5_z.jpg"
+alt="foto-gmt-games"></p>
 <p align="center"><small>Stand de GMT Games. Cuatro paredes llenas de
 wargames</small></p>
 
@@ -289,14 +248,9 @@ folio de **Decision Games**, [**D-Day Omaha Beach: Veach to Bocage**](https://bo
 me llamaban entre otras muchas cosas...
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48986816316/in/dateposted-public/"
-title="foto-psc-games"><img
-src="https://live.staticflickr.com/65535/48986816316_ce4bfbd50d_z.jpg"
-width="640" height="629" alt="foto-psc-games"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
-<p align="center"><small>Stand de PSC Games. </small></p>
+<img src="https://live.staticflickr.com/65535/48986816316_ce4bfbd50d_z.jpg"
+alt="foto-psc-games"></p>
+<p align="center"><small>Stand de PSC Games.</small></p>
 
 El stand de **PSC Games** mostraba principalmente grandes carteles de
 [**Blitzkrieg!**](https://boardgamegeek.com/boardgame/258210/blitzkrieg), que
@@ -308,13 +262,8 @@ foto, y no me entusiasmó mucho. Así pues, oficialmente desde que empezó el bo
 de los roll & write hasta ahora, no he encontrado ninguno que me interese.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48986816161/in/dateposted-public/"
-title="foto-soul-raiders"><img
-src="https://live.staticflickr.com/65535/48986816161_c35616770e_z.jpg"
-width="640" height="480" alt="foto-soul-raiders"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48986816161_c35616770e_z.jpg"
+width="640" height="480" alt="foto-soul-raiders"></p>
 <p align="center"><small>Running Quest: Soul Raiders. Prestad atención cuando
 salga el Kickstarter de este juego</small></p>
 
@@ -329,13 +278,8 @@ medida que exploramos el mapa, y las acciones que hayamos tomado en cierto
 punto repercuten en el resto de la partida.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48986254698/in/dateposted-public/"
-title="foto-zaar"><img
-src="https://live.staticflickr.com/65535/48986254698_97db7061f1_z.jpg"
-width="640" height="472" alt="foto-zaar"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48986254698_97db7061f1_z.jpg"
+alt="foto-zaar"></p>
 <p align="center"><small>Zaar. El tablero/mantel de zaar. El dibujo de la parte
 inferior no es decorativo, sino que es parte de una mecánica del
 juego</small></p>
@@ -350,13 +294,8 @@ comentaba uno de los autores, es mejor jugarlo con más gente, por lo que en
 solitario, aunque es posible, igual no es la mejor opción.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48986256063/in/dateposted-public/"
-title="foto-alubari"><img
-src="https://live.staticflickr.com/65535/48986256063_4dc92be311_z.jpg"
-width="640" height="447" alt="foto-alubari"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48986256063_4dc92be311_z.jpg"
+alt="foto-alubari"></p>
 <p align="center"><small>Alubari. La gente tenía muchas caras de concentración
 jugando a este juego</small></p>
 
@@ -374,13 +313,8 @@ las manos. La verdad es que tenían bastante gente y no se podía hablar con el
 autor tranquilamente.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48987011607/in/dateposted-public/"
-title="foto-excavation-earth"><img
-src="https://live.staticflickr.com/65535/48987011607_a6a9fd0775_z.jpg"
-width="480" height="640" alt="foto-excavation-earth"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48987011607_a6a9fd0775_z.jpg"
+alt="foto-excavation-earth"></p>
 <p align="center"><small>Excavation Earth. Tras ver este mapa no sé yo qué
 esperarme del juego, no se parece a nada que haya hecho Turczi con
 anterioridad</small></p>

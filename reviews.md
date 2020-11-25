@@ -38,157 +38,235 @@ La escala es la siguiente:
 
 ## Índice por puntuaciones
 
-### 5 monedas
-**ES IDEAL.** Si no sabes a qué jugar, **debes** empezar por estos. **Son
-juegos ideales que te puedo recomendar sin ninguna duda.**
+<div class="col-md-12">
+<h3>5 monedas</h3>
+<p><strong>ES IDEAL.</strong> Si no sabes a qué jugar, <strong>debes</strong>
+empezar por estos. <strong>Son 
+juegos ideales que te puedo recomendar sin ninguna duda.</strong></p>
+
+<div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-<ul>
     {% for post in category[1] %}
         {% if post.score and post.score == 5 %}
-        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+            <div class="image-container">
+                <a href="{{site.url}}{{post.url}}">
+                    <img class="crop-sidebar" src="{{post.imghtml}}">
+                    <div class="text-block"><h5>{{post.game}}</h5></div>
+                </a>
+            </div>
         {% endif %}
     {% endfor %}
-</ul>
 {% endif %}
 {% endfor %}
+</div>
 
-*(actualmente me encuentro en búsqueda del juego ideal, no sé aún si existe)*
+<div class="col-md-12">
+<p><i>(actualmente me encuentro en búsqueda del juego ideal, no sé aún si
+existe)</i></p>
+</div>
+</div>
 
-### 4.5 monedas
-**Fantástico.**
+<div class="col-md-12">
+<h3> 4.5 monedas</h3>
+<p><strong>Fantástico.</strong>
 Juegos fantásticos, de los que quieres volver a jugar cuando has terminado la
 partida, y si no puedes volver a jugar acto seguido, es por Una Causa
-Mayor. También **te los recomiendo sin dudas.**
+Mayor. También <strong>te los recomiendo sin dudas.</strong></p>
 
+<div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-<ul>
     {% for post in category[1] %}
         {% if post.score and post.score == 4.5 %}
-        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+            <div class="image-container">
+                <a href="{{site.url}}{{post.url}}">
+                    <img class="crop-sidebar" src="{{post.imghtml}}">
+                    <div class="text-block"><h5>{{post.game}}</h5></div>
+                </a>
+            </div>
         {% endif %}
     {% endfor %}
-</ul>
 {% endif %}
 {% endfor %}
+</div>
+</div>
 
-### 4 monedas
-**¡Este juego es genial! Voy a jugar otra vez ya mismo.**
+<h3> 4 monedas</h3>
+<div class="col-md-12">
+<p><strong>¡Este juego es genial! Voy a jugar otra vez ya mismo.</strong>
 Juegos muy muy buenos, también quiero jugar otra vez según he terminado la
-partida, pero a lo mejor no en el mismo día. **Recomendados.**
+partida, pero a lo mejor no en el mismo día. <strong>Recomendados.</strong></p>
+
+<div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-<ul>
     {% for post in category[1] %}
         {% if post.score and post.score == 4 %}
-        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+            <div class="image-container">
+                <a href="{{site.url}}{{post.url}}">
+                    <img class="crop-sidebar" src="{{post.imghtml}}">
+                    <div class="text-block"><h5>{{post.game}}</h5></div>
+                </a>
+            </div>
         {% endif %}
     {% endfor %}
-</ul>
 {% endif %}
 {% endfor %}
+</div>
+</div>
 
-### 3.5 monedas
-**Me lo paso muy bien jugando a este juego.** Estos juegos me gustan, son
+<h3> 3.5 monedas</h3>
+<div class="col-md-12">
+<p><strong>Me lo paso muy bien jugando a este juego.</strong> Estos juegos me gustan, son
 buenos, pero no los saco a la mesa tan a menudo porque tengo otros que me
-tiran más. Yo los llamo *juegos estacionales*, a veces me dan rachas en los que
+tiran más. Yo los llamo <i>juegos estacionales</i>, a veces me dan rachas en los que
 los juego mucho y otras veces pasan temporadas muy largas sin
-jugarlos. **Solamente los recomiendo si algún aspecto del juego te llama la
-atención.**
+jugarlos. <strong>Solamente los recomiendo si algún aspecto del juego te llama la
+atención.</strong></p>
+
+<div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-<ul>
     {% for post in category[1] %}
         {% if post.score and post.score == 3.5 %}
-        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+            <div class="image-container">
+                <a href="{{site.url}}{{post.url}}">
+                    <img class="crop-sidebar" src="{{post.imghtml}}">
+                    <div class="text-block"><h5>{{post.game}}</h5></div>
+                </a>
+            </div>
         {% endif %}
     {% endfor %}
-</ul>
 {% endif %}
 {% endfor %}
+</div>
+</div>
 
-### 3 monedas
-**Me lo paso bien jugando a este juego.** El último escalón de los juegos que
+<h3> 3 monedas</h3>
+<div class="col-md-12">
+<p><strong>Me lo paso bien jugando a este juego.</strong> El último escalón de los juegos que
 puedo decir que me gustan. Son los que menos saco a la mesa, también son 
-*estacionales* (mira qué es esto en la descripción de la categoría superior). 
+*estacionales* (mira qué es esto en la descripción de la categoría superior).</p>
+
+<div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-<ul>
     {% for post in category[1] %}
         {% if post.score and post.score == 3 %}
-        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+            <div class="image-container">
+                <a href="{{site.url}}{{post.url}}">
+                    <img class="crop-sidebar" src="{{post.imghtml}}">
+                    <div class="text-block"><h5>{{post.game}}</h5></div>
+                </a>
+            </div>
         {% endif %}
     {% endfor %}
-</ul>
 {% endif %}
 {% endfor %}
+</div>
+</div>
 
-### 2.5 monedas
-**Es entretenido, pero no me engancha.** En estos juegos empiezo a ver algunas
+<h3> 2.5 monedas</h3>
+<div class="col-md-12">
+<p><strong>Es entretenido, pero no me engancha.</strong> En estos juegos empiezo a ver algunas
 pegas, y como dice el título, son entretenidos, pero no me enganchan y salvo
-que se cambie algo en el juego, dudo que repita.
+que se cambie algo en el juego, dudo que repita.</p>
+
+<div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-<ul>
     {% for post in category[1] %}
         {% if post.score and post.score == 2.5 %}
-        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+            <div class="image-container">
+                <a href="{{site.url}}{{post.url}}">
+                    <img class="crop-sidebar" src="{{post.imghtml}}">
+                    <div class="text-block"><h5>{{post.game}}</h5></div>
+                </a>
+            </div>
         {% endif %}
     {% endfor %}
-</ul>
 {% endif %}
 {% endfor %}
+</div>
+</div>
 
-### 2 monedas
-**Es algo entretenido, pero no me engancha.** A estos juegos les veo pegas
+<h3>2 monedas</h3>
+<div class="col-md-12">
+<p><strong>Es algo entretenido, pero no me engancha.</strong> A estos juegos les veo pegas
 mayores que a los de la categoría anterior y hasta me pueden llegar a parecer
-aburridos. 
+aburridos.</p>
+
+<div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-<ul>
     {% for post in category[1] %}
         {% if post.score and post.score == 2 %}
-        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+            <div class="image-container">
+                <a href="{{site.url}}{{post.url}}">
+                    <img class="crop-sidebar" src="{{post.imghtml}}">
+                    <div class="text-block"><h5>{{post.game}}</h5></div>
+                </a>
+            </div>
         {% endif %}
     {% endfor %}
-</ul>
 {% endif %}
 {% endfor %}
+</div>
+</div>
 
-### 1.5 monedas
-**Creo que prefiero hacer otra cosa.** Como dice el título, creo que prefiero
-hacer alguna otra actividad de ocio antes que jugar a estos juegos, no conectan
-conmigo. 
+
+<h3> 1.5 monedas</h3>
+<div class="col-md-12">
+<p><strong>Creo que prefiero hacer otra cosa.</strong>Como dice el título, creo
+que prefiero hacer alguna otra actividad de ocio antes que jugar a estos
+juegos, no conectan conmigo.</p>
+
+<div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-<ul>
     {% for post in category[1] %}
         {% if post.score and post.score == 1.5 %}
-        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+            <div class="image-container">
+                <a href="{{site.url}}{{post.url}}">
+                    <img class="crop-sidebar" src="{{post.imghtml}}">
+                    <div class="text-block"><h5>{{post.game}}</h5></div>
+                </a>
+            </div>
         {% endif %}
     {% endfor %}
-</ul>
 {% endif %}
 {% endfor %}
+</div>
+</div>
 
-### 1 moneda
-**Prefiero hacer otra cosa.** Espero no jugar a ningún juego de esta categoría
-y darme cuenta antes de jugarlo que no es lo mio.
+<p></p>
+<h3> 1 moneda</h3>
+<div class="col-md-12">
+<p>
+<strong>Definitivamente, prefiero hacer otra cosa.</strong> Espero no jugar a ningún juego
+de esta categoría y darme cuenta antes de jugarlo que no es lo mio.</p>
 
-*(de momento no he jugado a ninguno de estos, existen, pero evito jugarlos)*
+<p><i>(de momento no he jugado a ninguno de estos, existen, pero evito
+jugarlos)</i></p>
+
+<div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-<ul>
     {% for post in category[1] %}
         {% if post.score and post.score == 1 %}
-        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+            <div class="image-container">
+                <a href="{{site.url}}{{post.url}}">
+                    <img class="crop-sidebar" src="{{post.imghtml}}">
+                    <div class="text-block"><h5>{{post.game}}</h5></div>
+                </a>
+            </div>
         {% endif %}
     {% endfor %}
-</ul>
 {% endif %}
 {% endfor %}
-
+</div>
+</div>
 
 ## Primeras impresiones
 

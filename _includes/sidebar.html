@@ -31,6 +31,14 @@
     <div id="most-read"></div>
     <div class="image-container">
        {% for post in site.posts %}
+       {% if post.url == "/2020/05/16/rol-en-solitario-como-empiezo/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
        {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -40,22 +48,6 @@
     <div class="image-container">
        {% for post in site.posts %}
        {% if post.url == "/2020/11/19/rol-beak-feather-bone/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2020/05/16/rol-en-solitario-como-empiezo/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -79,7 +71,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/09/07/root-en-solitario/" %}
+       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -88,6 +80,14 @@
     <div class="image-container">
        {% for post in site.posts %}
        {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2020/09/07/root-en-solitario/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -117,23 +117,30 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Ironsworn"
       or tag[0] == "Undaunted: Normandy"
-      or tag[0] == "Etherfields"
       or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "Pax Pamir"
+      or tag[0] == "Etherfields"
       or tag[0] == "Barrage"
-      or tag[0] == "Colonos del Imperio: Imperios del Norte"
       or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Pax Pamir"
+      or tag[0] == "Colonos del Imperio: Imperios del Norte"
       or tag[0] == "Mini Rogue"
+      or tag[0] == "Too Many Bones"
+      or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Mothership"
       or tag[0] == "Nemesis"
-      or tag[0] == "Fábulas de Peluche"
+      or tag[0] == "Solitaire Print & Play Design Contest"
+      or tag[0] == "1066 Tears To Many Mothers"
+      or tag[0] == "Arquitectos del Reino del Oeste"
       or tag[0] == "Hallertau"
       or tag[0] == "Héroes de Terrinoth"
       or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Old-School Essentials"
       or tag[0] == "One Page Dungeon"
       or tag[0] == "Print & play"
+      or tag[0] == "Rome & Roll"
       or tag[0] == "Scarlet Heroes"
       or tag[0] == "Scythe: El Auge de Fenris"
+      or tag[0] == "Spirit Island: Jagged Earth"
       or tag[0] == "Tank Duel: Enemy in the Crosshairs"
       or tag[0] == "Tiny Towns"
       or tag[0] == "UBOOT: The Board Game"

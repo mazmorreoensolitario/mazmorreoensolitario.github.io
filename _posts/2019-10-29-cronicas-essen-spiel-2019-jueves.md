@@ -27,15 +27,12 @@ irme antes por un imprevisto, la crónica sobre **los juegos jugables en solitar
 de Essen Spiel** comienza el jueves a la mañana caminando por la ciudad de
 Essen, a la que el otoño vestía con sus preciosos colores. 
 
+
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48981603888/in/dateposted-public/"
-title="foto-otoño"><img
-src="https://live.staticflickr.com/65535/48981603888_a385a06823_z.jpg"
-width="640" height="480" alt="foto-otoño"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48981603888_a385a06823_z.jpg"
+alt="foto-otoño"></p>
 <p align="center"><small>El camino sigue y sigue...</small></p>
+
 
 Tras un paseo de media hora para bajar el copioso desayuno, llegamos a Messe
 Essen. Para entrar a la feria hay tres entradas diferentes: Este, Sur y Oeste,
@@ -46,13 +43,9 @@ feria bastante antes de que abra. Yo llegué media hora antes, y aunque no hay
 colas en el sentido estricto de lo que es una cola, sí que tenía una gran
 maraña de gente que iba a entrar antes que yo.
 
+
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48981604803/in/dateposted-public/"
-title="foto-cola"><img
-src="https://live.staticflickr.com/65535/48981604803_b3909e41d0_z.jpg"
-width="640" height="480" alt="foto-cola"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://live.staticflickr.com/65535/48981604803_b3909e41d0_z.jpg">
 </p>
 <p align="center"><small>Esperando pacíficamente al inicio de la cacería de
 mesas de juego</small></p>
@@ -68,20 +61,18 @@ la pequeña lista de compra, la lista de demos, y la lista de juegos que ojear
 además de un par de mapas de los pabellones señalizados con los stands que me
 interesaban. Todo sea por maximizar el tiempo. Tal fue mi nivel de
 organización que una dependienta del stand de la editorial taiwanesa **The Wood
-Games** se sorprendió, yo por mi parte me sorprendí que trajeran el [**Small
-Islands**](https://boardgamegeek.com/boardgame/236248/small-islands) rebajado, 
+Games** se sorprendió, yo por mi parte me sorprendí que trajeran el **[Small
+Islands](https://boardgamegeek.com/boardgame/236248/small-islands)** rebajado, 
 un juego que estaba en mi lista de [top 10 juegos que no había podido jugar en
 2018]({{site.baseurl}}/2018/12/27/general-juegos-que-no-jugamos-en-2018/)
 y que compré sin pensármelo dos veces. Acto seguido procedí a fardar del precio
 al que había comprado el juego en un par de chats privados. 
 
+
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48981603683/in/dateposted-public/"
-title="foto-small-islands"><img
+<img
 src="https://live.staticflickr.com/65535/48981603683_6731a8ee9a_z.jpg"
-width="466" height="640" alt="foto-small-islands"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+alt="foto-small-islands">
 </p>
 <p align="center"><small>La portada más bonita del día</small></p>
 
@@ -103,12 +94,9 @@ juego (en teoría) y el arte se ha cambiado completamente, dándole al primer
 diseño de Fryxelius una pinta más actual.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48981604173/in/dateposted-public/"
-title="foto-star-scrappers"><img
+<img
 src="https://live.staticflickr.com/65535/48981604173_c898783571_z.jpg"
-width="480" height="640" alt="foto-star-scrappers"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+alt="foto-star-scrappers">
 </p>
 <p align="center"><small>Se ofrecía un chupito de champán a todos los jugones
 defraudados por no poder hacer demo del juego</small></p>
@@ -127,13 +115,8 @@ pasé el viernes y nada... me conformé cerciorándome de que al menos, el juego
 parece que sigue vivo; aunque me hubiese gustado mucho probarlo.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48981604533/in/dateposted-public/"
-title="foto-dead-eye"><img
-src="https://live.staticflickr.com/65535/48981604533_4bbe5977b9_z.jpg"
-width="480" height="640" alt="foto-dead-eye"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48981604533_4bbe5977b9_z.jpg"
+alt="foto-dead-eye"></p>
 <p align="center"><small>Despliegue de The Dead Eye</small></p>
 
 **The Dead Eye** es un juego exclusivo en solitario con una ambientación
@@ -170,13 +153,9 @@ día siguiente cambié de estrategia, aprendiendo de mis errores, pero os
 adelanto que tampoco fue efectivo, al final estás en manos del azar.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48982350282/in/dateposted-public/"
-title="foto-covenant"><img
+<img
 src="https://live.staticflickr.com/65535/48982350282_dd9bfdb65a_z.jpg"
-width="480" height="640" alt="foto-covenant"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+alt="foto-covenant"></p>
 <p align="center"><small>Endarth: Covenant es una mezcla de madera y cartón, y
 además, había hasta un altavoz para los efectos de sonido</small></p>
 
@@ -193,13 +172,8 @@ prevista en 2021, por lo que a lo mejor en 2020 se puede volver a intentar
 conseguir una demo en la feria.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48982163111/in/dateposted-public/"
-title="foto-raid-takao"><img
-src="https://live.staticflickr.com/65535/48982163111_12e0ec7137_z.jpg"
-width="480" height="640" alt="foto-raid-takao"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48982163111_12e0ec7137_z.jpg"
+alt="foto-raid-takao"></p>
 <p align="center"><small>Raid on Takao. Hubiese podido hacer mejor fe al mapa,
 que tenía su punto, si hubiese metido codo a los pobres jugones que estaban
 haciendo la demo, pero aún me queda algo de civismo</small></p>
@@ -211,13 +185,8 @@ cumplir ciertas misiones por Takao mientras sufren los bombardeos. La estética
 del juego es de estilo manga/anime, lo que me pareció muy alegre.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48982163231/in/dateposted-public/"
-title="foto-ni-no"><img
-src="https://live.staticflickr.com/65535/48982163231_7f7f6fe270_z.jpg"
-width="640" height="480" alt="foto-ni-no"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48982163231_7f7f6fe270_z.jpg"
+alt="foto-ni-no"></p>
 <p align="center"><small>Ni no Kuni II. En la demo estaban colocando las
 localizaciones que explorar, este juego es precioso</small></p>
 
@@ -232,7 +201,8 @@ Shroud para 3DS y el Dark Cloud para PS1).
 Pero no temáis, tras estos pequeños inconvenientes, mi experiencia fue muy
 positiva e incluso tuve gratas 
 sorpresas, como poder participar en una demo de [**The 7th
-Citadel**]({{site.baseurl}}/2019/10/24/demo-essen-spiel-2019-the-7th-citadel/).
+Citadel**]({{site.baseurl}}/2019/10/24/demo-essen-spiel-2019-the-7th-citadel/)
+([demo aquí]({{site.baseurl}}/2019/10/24/demo-essen-spiel-2019-the-7th-citadel/)).
 Esto fue una sorpresa ya que, el juego no estaba en la lista de la BGG y aunque
 el stand de **Serious Poulp** estaba en el plano de la feria, sospechaba que
 podríamos ver la edición retail de The 7th Continent (también llamada Classic
@@ -244,13 +214,8 @@ de compras. Eso sí, había semi escondido un fabuloso papel para apuntarse a la
 demo de The 7th Citadel. Gran victoria del día.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48981604268/in/dateposted-public/"
-title="foto-retail-7th"><img
-src="https://live.staticflickr.com/65535/48981604268_30b5697f6f_z.jpg"
-width="640" height="480" alt="foto-retail-7th"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48981604268_30b5697f6f_z.jpg"
+alt="foto-retail-7th"></p>
 <p align="center"><small>La versión retail de The 7th Continent que llegará a
 mediados de noviembre, ¡no queda nada!</small></p>
 
@@ -262,20 +227,16 @@ de **Paradox Interactive**, estaban a rebosar. Me sorprendió bastante que este
 juego tuviera tanta repercusión, ya que pensaba que sería algo más de nicho.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48982349867/in/dateposted-public/"
-title="foto-sierra-madre"><img
-src="https://live.staticflickr.com/65535/48982349867_f33e2f3890_z.jpg"
-width="640" height="480" alt="foto-sierra-madre"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48982349867_f33e2f3890_z.jpg"
+alt="foto-sierra-madre"></p>
 <p align="center"><small>El fabuloso stand de Sierra Madre, seguro que
 encontráis a una cara conocida en la foto</small></p>
 
 Salí de la feria a airearme y a comer algo más decente de lo que hay dentro
 para tomar fuerzas para la siguiente demo del día: [**High Frontier 4
-All**](https://boardgamegeek.com/boardgame/281655/high-frontier-4-all) de
-**Sierra Madre Games**. Qué
+All**](https://boardgamegeek.com/boardgame/281655/high-frontier-4-all) ([demo
+aquí]({{site.baseurl}}/2019/11/06/demo-essen-spiel-2019-high-frontier-4-all/))
+de **Sierra Madre Games**. Qué
 gran demo y qué personas tan amables y dedicadas pude encontrar detrás del
 nuevo diseño del juego. Os hablaré en más detalle de estas experiencias. Tras
 la demo se me olvidó hacer mis compras en el stand de Sierra Madre y tras
@@ -291,13 +252,8 @@ propio pabellón 7, donde había un par de alfombras, verde fosforito chillón
 radiactivo y rojo cono de tráfico. Perfectas para ser el punto de encuentro.
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48982350312/in/dateposted-public/"
-title="foto-colonos-del-imperio-norte"><img
-src="https://live.staticflickr.com/65535/48982350312_13c64f7590_z.jpg"
-width="480" height="640" alt="foto-colonos-del-imperio-norte"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48982350312_13c64f7590_z.jpg"
+alt="foto-colonos-del-imperio-norte"></p>
 <p align="center"><small>Colonos del Imperio: Los Reinos del Norte y la
 expansión Las Islas Japonesas. Creo que a España nos llegaba el juego el año
 que viene... igual puedo probarlo en alguna tienda</small></p>
@@ -311,13 +267,8 @@ Imperio**]({{site.baseurl}}/2019/01/16/analisis-colonos-del-imperio/) clásico,
 que poseo. Mirar era lo único que iba a hacer porque tenían unos precios...
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48981604143/in/dateposted-public/"
-title="foto-maestros-del-renacimiento"><img
-src="https://live.staticflickr.com/65535/48981604143_99919abab7_z.jpg"
-width="480" height="640" alt="foto-maestros-del-renacimiento"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48981604143_99919abab7_z.jpg"
+alt="foto-maestros-del-renacimiento"></p>
 <p align="center"><small>Maestros del Renacimiento. Este juego tenía una caja
 inmensa para lo que es, la verdad; el mecanismo de robar canicas para
 representar recursos me ha gustado</small></p>
@@ -334,13 +285,8 @@ todo pronóstico, ¡eran lisas! (espero que a los que os ha llegado el juego mal
 me perdonéis, tenía que hacer el chiste).
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48982350552/in/dateposted-public/"
-title="foto-barrage"><img
-src="https://live.staticflickr.com/65535/48982350552_889a7276bd_z.jpg"
-width="480" height="640" alt="foto-barrage"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
+<img src="https://live.staticflickr.com/65535/48982350552_889a7276bd_z.jpg"
+alt="foto-barrage"></p>
 <p align="center"><small>Un Barrage como tenía que haberle llegado a todo el
 mundo, cuento una, dos, tres... ruedas lisas</small></p>
 
@@ -350,20 +296,16 @@ demo", "voy a ir a ver si tienen demo de este juego". También me embarqué en l
 aventura de encontrar el stand de un misterioso juego (de esos que no tienen ni
 fotos, ni reglas en BGG para cuando empieza la feria) que no veía en ningún
 sitio, pero algo me decía que tenía que probar: [**Running Quest: Soul
-Raiders**](https://boardgamegeek.com/boardgame/274525/running-quest-soul-raiders).
+Raiders**](https://boardgamegeek.com/boardgame/274525/running-quest-soul-raiders)
+([demo aquí]({{site.baseurl}}/2019/12/05/historia-de-una-demo-essen-spiel-2019-running-quest-soul-raiders/)).
 
 ¡Ah! Y también estaba [**Tainted
 Grail**](https://boardgamegeek.com/boardgame/264220/tainted-grail-fall-avalon),
 en modo se mira pero no se toca. 
 
 <p align="center">
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/48981603663/in/dateposted-public/"
-title="foto-tainted-grail"><img
-src="https://live.staticflickr.com/65535/48981603663_5d6c548d7d_z.jpg"
-width="640" height="480" alt="foto-tainted-grail"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-</p>
+<img src="https://live.staticflickr.com/65535/48981603663_5d6c548d7d_z.jpg"
+alt="foto-tainted-grail"></p>
 <p align="center"><small>Tainted Grail. La caja ha terminado siendo algo más
 pequeña de lo esperado, ¡genial! Las minis tenían muy buena pinta</small></p>
 
