@@ -6,7 +6,7 @@ categories: Análisis
 tags: [Expansión, One Deck Dungeon, "One Deck Dungeon: Forest of Shadows", Golden Geek]
 imghtml: https://cf.geekdo-images.com/imagepage/img/KPfINXOetkASZLZMsnj_L6EUHPs=/fit-in/900x600/filters:no_upscale()/pic3496794.jpg
 score: 3.5
-game: "One Deck Dungeon: Forst of Shadows"
+game: "One Deck Dungeon: Forest of Shadows"
 post_desc: "En One Deck Dungeon: Forest of Shadows podemos vivir la clásica aventura de 
 exploración de mazmorras, lucha contra monstruos, superación de trampas y la
 esperada batalla contra el jefe de la mazmorra"
