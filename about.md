@@ -16,11 +16,14 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
 
 # Sobre mí
 
-* Libros que estoy leyendo ahora: *Revenant Gun* de Yoon Ha Lee.
-* Siguiente/s libro/s en mi lista para leer: *The Winter War: The Russo-Finish
-  War of 1939-1940* de Willian R. Trotter, *The Dying Earth* de Jack Vance y
-  *The Book of the New Sun* de Gene Wolfe.
-* Series que estoy viendo: Star Trek Discovery.
+* Libros que estoy leyendo ahora: *[Ardenas 1944](https://amzn.to/3fACxSx)* de
+   Antony Beevor y *[The Unspoken Name](https://amzn.to/2HDA8d8)* de
+   A. K. Larkwood.
+* Siguiente/s libro/s en mi lista para leer: *[The Winter War: The Russo-Finish
+  War of 1939-1940](https://amzn.to/3lajpfl)* de Willian R. Trotter,
+  *[The Dying Earth](https://amzn.to/2V4HLMN)* de Jack Vance y
+  *[The Book of the New Sun](https://amzn.to/2HIcs7A)* de Gene Wolfe.
+* Series que estoy viendo: Star Trek Discovery, The Mandalorian.
 * Videojuegos que ocasionalmente juego durante estos meses: Deep Sky Derelicts,
   Caves of Qud y Star Wars Battlefront II.
 

@@ -51,6 +51,6 @@ print & play que puedo recomendar:
 * Antes yo cortaba las cartas con tijeras, pero me he pasado al cuchillo y
   regla, me resulta más rápido hacer todo así. Las cizallas también puede que
   sean una buena opción, pero las calidades dejan bastante que desear.
-  - [Cuchillo con tres recambios](https://amzn.to/38V4Gm2)
+  - [Cuchillo con tres recambios APLI](https://amzn.to/38V4Gm2)
   - [Regla de acero](https://amzn.to/2UEXDFM)
-  - [Base para cortar](https://amzn.to/36JRDRv)
+  - [Base para cortar APLI](https://amzn.to/36JRDRv)
