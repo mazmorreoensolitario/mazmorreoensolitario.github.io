@@ -94,7 +94,7 @@ tenemos nuestro  tablero, que es donde colocamos los recursos para construir
 edificios.
 
 En nuestro turno **elegimos una de las cartas de recurso para colocar dicho
-recurso** en alguno de los huevos de nuestro tablero. La carta de recurso no se
+recurso** en alguno de los huecos de nuestro tablero. La carta de recurso no se
 descarta, vuelve a la parte inferior del mazo y robamos una para dejar siempre
 tres cartas de recurso disponibles. Esto es lo que hacemos básicamente en cada
 turno.
