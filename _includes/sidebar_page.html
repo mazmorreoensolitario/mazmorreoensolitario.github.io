@@ -46,14 +46,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/11/19/rol-beak-feather-bone/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2020/11/22/crowdfunding-1116-1122/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -70,7 +62,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
+       {% if post.url == "/2020/11/19/rol-beak-feather-bone/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -78,7 +70,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
+       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -94,6 +86,14 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
+       {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
        {% if post.url == "/2019/06/06/analisis-tussie-mussie/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -102,15 +102,14 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/11/15/crowdfunding-1109-1115/" %}
+       {% if post.url == "/2020/10/31/noticias-boletin-octubre-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
       {% endfor %}
     </div>
-    <span id="dummy"></span>
+<span id="dummy"></span>
   </div>
-  <div class="mt10">
     <div id="590077865">
       <script type="text/javascript">
         try {window._mNHandle.queue.push(function (){
@@ -118,7 +117,6 @@
         });}catch (error) {}
       </script>
     </div>
-  </div>
   <div class="mt10">
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
@@ -126,16 +124,19 @@
       {% if tag[0] == "Ironsworn"
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Barrage"
-      or tag[0] == "Etherfields"
-      or tag[0] == "Undaunted: Normandy"
-      or tag[0] == "Colonos del Imperio: Imperios del Norte"
-      or tag[0] == "Paladines del Reino del Oeste"
       or tag[0] == "Pax Pamir"
+      or tag[0] == "Undaunted: Normandy"
+      or tag[0] == "Paladines del Reino del Oeste"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Colonos del Imperio: Imperios del Norte"
+      or tag[0] == "Etherfields"
       or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Mini Rogue"
       or tag[0] == "Nemesis"
       or tag[0] == "Scarlet Heroes"
       or tag[0] == "Tank Duel: Enemy in the Crosshairs"
+      or tag[0] == "1066 Tears To Many Mothers"
+      or tag[0] == "Bios: Origins 2"
       or tag[0] == "Hallertau"
       or tag[0] == "Héroes de Terrinoth"
       or tag[0] == "Ironsworn: Delve"
@@ -144,12 +145,10 @@
       or tag[0] == "One Page Dungeon"
       or tag[0] == "Print & play"
       or tag[0] == "Rome & Roll"
-      or tag[0] == "Scythe: El Auge de Fenris"
       or tag[0] == "Spirit Island: Jagged Earth"
       or tag[0] == "Tiny Towns"
       or tag[0] == "UBOOT: The Board Game"
-      or tag[0] == "Undaunted: North Africa"
-      or tag[0] == "Zine Quest 2" %}
+      or tag[0] == "Undaunted: North Africa" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
