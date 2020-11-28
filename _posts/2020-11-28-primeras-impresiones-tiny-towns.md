@@ -124,7 +124,7 @@ estas cartas algo más grandes que las de tamaño Tarot</small></p>
 
 Os diré algo para poneros en contexto, me compré el juego el 30 de octubre
 (2020) y desde entonces hasta ahora, en este mes escaso, de juegos de mesa,
-solo he jugado a este juego y a tres mas. Generalmente suelo tener bastante más
+solo he jugado a este juego y a tres más. Generalmente suelo tener bastante más
 variedad, por lo menos 10 juegos al mes. Pero este mes no. Me ha enganchado
 completamente.
 
