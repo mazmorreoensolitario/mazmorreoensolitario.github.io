@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: agosto 2020"
 date: 2020-08-31
 categories: [Noticias]
-tags: [The 7th Citadel, Undaunted, GMT Games, Set A Watch, Crazy Taco, Teotihuacán, Agropolis, Expansiópolis, Sprawlopolis, GenCon, Disciples of Bone and Shadow, "Darkest Dungeon: The Board Game", "Bios: Megafauna", "Bios: Mesofauna", "Marvel Champions: The Card Game", "Undaunted: North Africa", Cuentos de ánimas, English Eerie, The Wretched, A Thousand Year Old Vampire, "Ironsworn: Delve"]
+tags: ["Boletín Informativo Solitario", The 7th Citadel, Undaunted, GMT Games, Set A Watch, Crazy Taco, Teotihuacán, Agropolis, Expansiópolis, Sprawlopolis, GenCon, Disciples of Bone and Shadow, "Darkest Dungeon: The Board Game", "Bios: Megafauna", "Bios: Mesofauna", "Marvel Champions: The Card Game", "Undaunted: North Africa", Cuentos de ánimas, English Eerie, The Wretched, A Thousand Year Old Vampire, "Ironsworn: Delve"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200831-bis/boletin-informativo.png
 post_desc: "Boletín Informativo Solitario de agosto, donde tendréis un
 resumen de las noticias del mundillo de los juegos de mesa y rol en solitairo

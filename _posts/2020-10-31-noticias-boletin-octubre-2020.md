@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: octubre 2020"
 date: 2020-10-31
 categories: [Noticias]
-tags: [Carnegie, Praga Caput Regni, Streets, Roll Player Adventures, "Cartographers: Heroes", Last Aurora, Fossilis, Curious Cargo, Planet Unknown, "Endless Winter: Paleomericans", One Deck Dungeon, Excavation Earth, Burgle Bros, "Burgle Bros 2: The Casino Capers", "Dune: Imperium", Spiel Digital, Root, "Root: The Clockwork", "Root: The Underworld", GMT Games, Red Dust Rebellion, Wingspan, Seekers Beyond The Shroud]
+tags: ["Boletín Informativo Solitario", Carnegie, Praga Caput Regni, Streets, Roll Player Adventures, "Cartographers: Heroes", Last Aurora, Fossilis, Curious Cargo, Planet Unknown, "Endless Winter: Paleomericans", One Deck Dungeon, Excavation Earth, Burgle Bros, "Burgle Bros 2: The Casino Capers", "Dune: Imperium", Spiel Digital, Root, "Root: The Clockwork", "Root: The Underworld", GMT Games, Red Dust Rebellion, Wingspan, Seekers Beyond The Shroud]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20201031-bis/boletin-informativo.png
 post_desc: "Boletín Informativo Solitario de octubre, donde tendréis un
 resumen de las noticias del mundillo y lo que ha acontecido durante este mes"

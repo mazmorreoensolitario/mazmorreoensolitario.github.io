@@ -2,8 +2,9 @@
 layout: post
 title: "Historia de una demo: The 7th Citadel"
 date: 2019-10-24
-categories: [Ojeando]
+categories: [Demos]
 tags: [The 7th Citadel, Essen Spiel, Essen Spiel 2019]
+game: The 7th Citadel
 imghtml: https://cf.geekdo-images.com/imagepage/img/IFJeSuerdC4sf766AjTNRkNAK8g=/fit-in/900x600/filters:no_upscale()/pic4889228.jpg
 post_desc: "The 7th Citadel es el siguiente juego de Serious Poulp, que utiliza
 el sistema de The 7th Continent, añade nuevos elementos de juego y una historia

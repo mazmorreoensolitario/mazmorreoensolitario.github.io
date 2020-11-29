@@ -103,7 +103,8 @@ categorías.
             {% if tag[0] == "Campaña" or tag[0] == "Expansión" or
             tag[0] == "Kickstarter" or tag[0] == "Print & play" or
             tag[0] == "Tabletopia" or tag[0] == "Tops" or
-            tag[0] == "Verkami" or tag[0] == "Traducciones" %}
+            tag[0] == "Verkami" or tag[0] == "Traducciones" or
+            tag[0] == "Boletín Informativo Solitario" %}
                 <span class="label label-warning"><strong>#<a class="tag-color"
                 href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
             {% else %}

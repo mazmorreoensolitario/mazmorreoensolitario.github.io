@@ -293,6 +293,22 @@ que no puedo hacer un análisis o primeras impresiones per se, ya que el juego
 aún no está entero o porque no lo he jugado lo suficiente:
 
 {% for category in site.categories %}
+{% if category[0] == "Demos" %}
+<ul>
+{% for post in category[1] %}
+<li>
+    <a href="{{ post.url }}">{{ post.title }}.</a>
+</li>
+{% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+
+## Ojeando
+
+Aquí os presento brevemente algunos juegos:
+
+{% for category in site.categories %}
 {% if category[0] == "Ojeando" %}
 <ul>
 {% for post in category[1] %}

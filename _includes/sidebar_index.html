@@ -26,31 +26,34 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Ironsworn"
       or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "Barrage"
-      or tag[0] == "Pax Pamir"
       or tag[0] == "Undaunted: Normandy"
       or tag[0] == "Paladines del Reino del Oeste"
+      or tag[0] == "Pax Pamir"
+      or tag[0] == "Spirit Island"
       or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Barrage"
       or tag[0] == "Colonos del Imperio: Imperios del Norte"
       or tag[0] == "Etherfields"
-      or tag[0] == "Fábulas de Peluche"
+      or tag[0] == "Kickstarter"
       or tag[0] == "Mini Rogue"
       or tag[0] == "Nemesis"
-      or tag[0] == "Scarlet Heroes"
-      or tag[0] == "Tank Duel: Enemy in the Crosshairs"
+      or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "1066 Tears To Many Mothers"
       or tag[0] == "Bios: Origins 2"
+      or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Hallertau"
       or tag[0] == "Héroes de Terrinoth"
       or tag[0] == "Ironsworn: Delve"
       or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Marvel Champions: The Card Game"
       or tag[0] == "Non Gratus Rodentum"
-      or tag[0] == "One Page Dungeon"
+      or tag[0] == "Pandemic: La caída de Roma"
       or tag[0] == "Print & play"
       or tag[0] == "Rome & Roll"
+      or tag[0] == "Scarlet Heroes"
       or tag[0] == "Spirit Island: Jagged Earth"
+      or tag[0] == "Tank Duel: Enemy in the Crosshairs"
       or tag[0] == "Tiny Towns"
-      or tag[0] == "UBOOT: The Board Game"
       or tag[0] == "Undaunted: North Africa" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
                                            href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
@@ -111,7 +114,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/09/07/root-en-solitario/" %}
+       {% if post.url == "/2020/11/28/primeras-impresiones-tiny-towns/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -127,7 +130,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/06/06/analisis-tussie-mussie/" %}
+       {% if post.url == "/2020/09/07/root-en-solitario/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -135,7 +138,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/10/31/noticias-boletin-octubre-2020/" %}
+       {% if post.url == "/2019/06/06/analisis-tussie-mussie/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}

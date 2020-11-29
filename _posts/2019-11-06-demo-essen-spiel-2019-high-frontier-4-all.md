@@ -2,8 +2,9 @@
 layout: post
 title: "Historia de una demo: High Frontier 4 All"
 date: 2019-11-06
-categories: [Ojeando]
+categories: [Demos]
 tags: ["High Frontier 4 All", Essen Spiel, Essen Spiel 2019]
+game: "High Frontier 4 All"
 imghtml: https://cf.geekdo-images.com/imagepage/img/Avsv7tcSXmEoM9m5yYVgXxMV08Y=/fit-in/900x600/filters:no_upscale()/pic5013003.jpg
 post_desc: "En High Frontier 4 All tomamos el rol de una facción de la Tierra 
 en su carrera por conquistar el espacio, conseguiremos puntos de victoria por 

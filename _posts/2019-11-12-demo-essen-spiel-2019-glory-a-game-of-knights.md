@@ -2,8 +2,9 @@
 layout: post
 title: "Historia de una demo: Glory: A Game of Knights"
 date: 2019-11-12
-categories: [Ojeando]
+categories: [Demos]
 tags: ["Glory: A Game of Knights", Essen Spiel, Essen Spiel 2019]
+game: "Glory: A Game of Knights"
 imghtml: https://cf.geekdo-images.com/imagepage/img/6R87cxSjvDzscag5DWKJZURt7lg=/fit-in/900x600/filters:no_upscale()/pic3815271.jpg
 post_desc: "Glory: A Game of Knights está ambientado en Europa medieval, en el 
   que cada jugador controla a un joven caballero tratando de conseguir gloria 

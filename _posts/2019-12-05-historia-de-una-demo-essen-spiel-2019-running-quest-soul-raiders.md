@@ -2,8 +2,9 @@
 layout: post
 title: "Historia de una demo: Running Quest: Soul Raiders"
 date: 2019-12-05
-categories: [Ojeando]
+categories: [Demos]
 tags: ["Running Quest: Soul Raiders", Soul Raiders, Essen Spiel, Essen Spiel 2019]
+game: "Running Quest: Soul Raiders"
 imghtml: https://cf.geekdo-images.com/imagepage/img/n_5Te26O0gbUCtBlAIQtyVcHDjY=/fit-in/900x600/filters:no_upscale()/pic5086171.jpg
 post_desc: "Running Quest: Soul Raiders es un juego narrativo de aventuras 
 completamente cooperativo ambientado en un mundo fantástico. Soul Raiders 
