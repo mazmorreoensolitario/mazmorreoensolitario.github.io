@@ -140,7 +140,6 @@ layout: default
   {% include sidebar_index.html %}
 </div><!--- row --->
 <div class="row">
-
   <div class="col-md-1"></div>
   <div class="col-md-2 col-sm-2 col-xs-6">
     <h4>Análisis</h4>
@@ -188,9 +187,9 @@ layout: default
     {% endfor %}
   </div><!-- col-md-2 -->
   <div class="col-md-2 col-sm-2 col-xs-6">
-    <h4>Ojeando</h4>
+    <h4>Demos</h4>
     {% for category in site.categories %}
-    {% if category[0] == "Ojeando" %}
+    {% if category[0] == "Demos" %}
     {% assign sorted = (category[1] | sort: 'date' | reverse) %}
     {% for post in sorted limit: 6%}
     <div class="image-container">
@@ -202,6 +201,70 @@ layout: default
     {% endif %}
     {% endfor %}
   </div><!-- col-md-3 -->
+</div><!--- row -->
+
+<div class="row">
+  <div class="col-md-1"></div>
+  <div class="col-md-2 col-sm-2 col-xs-6">
+    <h4>Print & Play</h4>
+    {% for category in site.categories %}
+    {% if category[0] == "Print & play" %}
+    {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+    {% for post in sorted limit: 6%}
+    <div class="image-container">
+      <a href="{{site.url}}{{post.url}}">
+        <img class="crop-sidebar" src="{{post.imghtml}}">
+        <div class="text-block"><h5>{{post.game | truncate: 40}}</h5></div></a>
+    </div>
+    {% endfor %}
+    {% endif %}
+    {% endfor %}
+  </div><!-- col-md-2 -->
+  <div class="col-md-2 col-sm-2 col-xs-6">
+    <h4>General</h4>
+    {% for category in site.categories %}
+    {% if category[0] == "General" %}
+    {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+    {% for post in sorted limit: 6%}
+    <div class="image-container">
+      <a href="{{site.url}}{{post.url}}">
+        <img class="crop-sidebar" src="{{post.imghtml}}">
+        <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+    </div>
+    {% endfor %}
+    {% endif %}
+    {% endfor %}
+  </div><!-- col-md-2 -->
+  <div class="col-md-2 col-sm-2 col-xs-6">
+    <h4>Noticias</h4>
+    {% for category in site.categories %}
+    {% if category[0] == "Noticias" %}
+    {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+    {% for post in sorted limit: 6 %}
+    <div class="image-container">
+      <a href="{{site.url}}{{post.url}}">
+        <img class="crop-sidebar" src="{{post.imghtml}}">
+        <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+    </div>
+    {% endfor %}
+    {% endif %}
+    {% endfor %}
+  </div><!-- col-md-2 -->
+   <div class="col-md-2 col-sm-2 col-xs-6">
+    <h4>Primeras impresiones</h4>
+    {% for category in site.categories %}
+    {% if category[0] == "Primeras impresiones" %}
+    {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+    {% for post in sorted limit: 6 %}
+    <div class="image-container">
+      <a href="{{site.url}}{{post.url}}">
+        <img class="crop-sidebar" src="{{post.imghtml}}">
+        <div class="text-block"><h5>{{post.title | slice: 23, 100 | truncate: 40}}</h5></div></a>
+    </div>
+    {% endfor %}
+    {% endif %}
+    {% endfor %}
+  </div><!-- col-md-2 -->
 </div><!--- row -->
 
 
