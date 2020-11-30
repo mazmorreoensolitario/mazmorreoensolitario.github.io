@@ -293,7 +293,7 @@ src="https://img.itch.zone/aW1hZ2UvNzE5NDAyLzQxODk4MDkucG5n/347x500/rv15pR.png">
 
 <p align="center">
 <img height="450"
-src="https://pbs.twimg.com/media/EmMIxnqWMAMcTSs?format=jpg&name=large"></p>
+src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20201130-bis/descent-into-the-abyss.jpeg"></p>
 
 * **Diogo Nogueira** (autor de [Solar Blades & Cosmic
   Spells](https://www.drivethrurpg.com/product/260378/Solar-Blades--Cosmic-Spells?term=Solar+Blades+%26+Cosmic+Spells&affiliate_id=1914894) y [Swarp
