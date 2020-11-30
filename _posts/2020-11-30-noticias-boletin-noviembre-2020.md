@@ -310,7 +310,7 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
 
 <p align="center">
 <img 
-src="https://pbs.twimg.com/media/EmkQUKIVMAA2IjU?format=jpg&name=small"></p>
+src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20201130-bis/mythic-magazine.jpeg"></p>
 
 * **Tana Pigeon**, la famosísima autora del oráculo **[Mythic Game Master
   Emulator](https://www.drivethrurpg.com/product/20798/Mythic-Game-Master-Emulator?affiliate_id=1914894)**
