@@ -3,7 +3,7 @@ layout: post
 title: "Zine Quest 2: las zines de RPGs solo-friendly"
 date: 2020-02-21
 categories: [Rol]
-tags: [Rol, Zine Quest, Zine Quest 2, Nadir, "Beak, Feather & Bone", "Pico, Pluma & Hueso"]
+tags: [Rol, Zine Quest, Zine Quest 2, DELVE, Nadir, "Beak, Feather & Bone", "Pico, Pluma & Hueso"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200221-zinequest-2/zinequest-2.jpg
 post_desc: "Zine Quest 2 es una iniciativa de Kickstarter para englobar a 
 diseñadores de RPGs que diseñan una revista y buscan 
