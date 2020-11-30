@@ -19,6 +19,10 @@ categorías.
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or
+        tag[0] == "T-DEF" or tag[0] == "Mörk Borg" or
+        tag[0] == "RISE" or tag[0] == "DELVE" or
+        tag[0] == "UMBRA" or tag[0] == "WASTE" or
+        tag[0] == "Descent Into The Abyss" or
         tag[0] == "Ex Novo" or tag[0] == "Ex Umbra" or
         tag[0] == "Under Ashen Skies" or
         tag[0] == "Mapping the Catacombs" or
@@ -63,6 +67,7 @@ categorías.
         tag[0] == "Pico, Pluma & Hueso" or
         tag[0] == "Cuentos de ánimas" or
         tag[0] == "Disciples of Bone and Shadow" or
+        tag[0] == "Disciples of Bone and Shadow: Conquered Sun Edition" or
         tag[0] == "Do Not Let Us Die In The Dark Night Of This Cold Winter" or
         tag[0] == "English Eerie" or
         tag[0] == "Malditos" or

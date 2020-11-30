@@ -408,3 +408,8 @@ src="https://pbs.twimg.com/media/EhksuXHXYAA0v3B?format=jpg"></p>
   Esta **baraja de 324 cartas** es un Mazo de Misión, en el que se sustituyen
   todas las tiradas de dados que hay que hacer para jugar misiones con robos de
   cartas del mazo. 
+
+<hr>
+
+<small>Nota: Las imágenes de los juegos pertenecen sus respectivos
+autores.</small>
