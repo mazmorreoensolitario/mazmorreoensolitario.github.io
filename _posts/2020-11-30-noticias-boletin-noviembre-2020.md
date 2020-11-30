@@ -160,9 +160,8 @@ src="https://cf.geekdo-images.com/4XzRDw3VrgNpNfZlzZl66w__imagepage/img/CRQKXYrY
   
 <p align="center">
 <img height="450"
-src="https://pbs.twimg.com/media/EnKkw_1VEAAvv_g?format=jpg&name=large"></p>
+src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20201130-bis/akira-circadians.jpeg"></p>
 
-  
 * Siguiendo con **Garphil Games**, Shem Philips [lanzaba un pequeño
   "avance"](https://twitter.com/garphillgames/status/1329306111275536387?s=09)
   del siguiente juego/expansión de la editorial. Un producto en el que un
