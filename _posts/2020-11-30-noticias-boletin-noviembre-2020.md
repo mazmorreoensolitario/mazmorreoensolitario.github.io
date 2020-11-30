@@ -355,7 +355,7 @@ src="https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1605
   
     <p align="center">
     <img height="650"
-    src="https://cdn.discordapp.com/attachments/586580601428115466/775021762899345429/Product_Line__Upgrade_Path.jpg"></p>
+    src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20201130-bis/Product_Line__Upgrade_Path.jpg"></p>
   
   En la imagen de arriba tenéis una explicación gráfica de cómo se integran
   cada uno de los productos ahora disponibles de Disciples of Bone & Shadow:
