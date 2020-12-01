@@ -40,7 +40,7 @@ en un patrón concreto en una cuadrícula"
         <div class="col-md-12">
          <ul>
              <br>
-             <li>Diseñado porPeter McPherson.</li>
+             <li>Diseñado por Peter McPherson.</li>
              <li>Arte de Gong Studios y Matt Paquette.</li>
              <li>Publicado por AEG (Alderac Entertainment Group), a España nos
              llega desde <strong>Arrakis Games</strong>.</li>
