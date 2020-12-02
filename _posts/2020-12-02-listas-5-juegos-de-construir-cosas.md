@@ -270,7 +270,6 @@ Aquí tenéis mi selección:
         necesitas aprendices de un tipo específico. Los aprendices son otro
         tipo de cartas que se pueden conseguir si colocas un meeple en un sitio
         concreto del tablero y pagas un precio.</p>
-        <img src="https://live.staticflickr.com/65535/50672645233_025d35becf_b.jpg">
         <p><strong>¿Cómo gano?</strong> La partida termina cuando se coloca el
         último trabajador en el track de construcción de la catedral, así
         que corre, tienes que conseguir más puntos que
@@ -278,6 +277,7 @@ Aquí tenéis mi selección:
         edificios, consigue bonos de puntuación y recursos que puntúen al final
         de la partida y sé el primero en construir la catedral porque eso te da
         una tonelada de puntos.</p> 
+        <img src="https://live.staticflickr.com/65535/50672645233_025d35becf_b.jpg">
          <p><strong>¿Por qué te puede gustar este juego?</strong> Si eres un
          asiduo del blog, me habrás oído comentar que en un principio los
          juegos de colocación de trabajadores puros no me suelen gustar, pero
