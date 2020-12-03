@@ -43,7 +43,7 @@ Aquí tenéis mi selección:
         class="img-thumbnail" alt="The Colonists">
     </div>
     <div class="col-md-9">
-         <h4>1. The Colonists</h4>
+         <h4>1. <a href="https://amzn.to/3g6WCjt">The Colonists</a></h4>
          <p>En <strong><a
     href="https://boardgamegeek.com/boardgame/192836/colonists">The
         Colonists</a></strong> de Tim Puls y publicado por la antigua
@@ -335,7 +335,7 @@ Aquí tenéis mi selección:
     </div>
     <div class="col-md-9">
          <h4>5. <a href="https://amzn.to/2Jmbgrh">Colonos del Imperio: Imperios
-    del Norte</a> / Colonos del Imperio</h4>
+    del Norte</a> / <a href="https://amzn.to/3g4pqcu">Colonos del Imperio</a></h4>
          <p><i>Pequeño apunte: solo he jugado a la versión 'antigua' de este
          juego: Colonos del Imperio; pero tengo entendido que la
          re-implementación del juego como Imperios del Norte es mejor. Aquí os
@@ -387,11 +387,14 @@ Aquí tenéis mi selección:
 
 Otros juegos que no he probado pero que pueden entrar dentro de esta lista y me
 dan buenas vibraciones son:
-[Villagers](https://boardgamegeek.com/boardgame/241724/villagers),
-[Ginkgopolis](https://boardgamegeek.com/boardgame/128271/ginkgopolis),
+[Villagers](https://boardgamegeek.com/boardgame/241724/villagers) ([Arrakis
+Games](https://amzn.to/3g4MQOJ)),
+[Ginkgopolis](https://boardgamegeek.com/boardgame/128271/ginkgopolis) (SD Games),
 [Underwater
-Cities](https://boardgamegeek.com/boardgame/247763/underwater-cities) y
-[Nations](https://boardgamegeek.com/boardgame/126042/nations). Y posiblemente
+Cities](https://boardgamegeek.com/boardgame/247763/underwater-cities) ([Arrakis
+Games](https://amzn.to/3oj18yl))y
+[Nations](https://boardgamegeek.com/boardgame/126042/nations)
+([Lautapelit](https://amzn.to/3ogPPXo)). Y posiblemente 
 otros pero no me vienen a la mente, ya editaré esta entrada según me vengan.
 
 

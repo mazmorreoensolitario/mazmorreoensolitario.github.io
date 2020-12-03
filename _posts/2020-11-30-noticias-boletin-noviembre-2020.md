@@ -329,7 +329,7 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
 src="https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1605481463682-2ZX78YRY56ZYRC34BE4P/ke17ZwdGBToddI8pDm48kPJczaPt6X_wKMLHO-ydOIJ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0oycmklwMHPwSb2Cr-KYzbqhnvQ3OhpjDwPCEbkQT8gTLQoNySP6jic6deuLNkhT6Q/Slipcase-Book-Mockup-Vol8.jpg?format=2500w"></p>
 
 
-* **Blackoath Games** [anuncia](https://blackoathgames.com/news) una nueva
+* **Blackoath Entertainment** [anuncia](https://blackoathgames.com/news) una nueva
   edición de **Disciples of Bone & Shadow**, la **Conquered Sun Edition**. Esta
   edición definitiva de Disciples of Bone & Shadow combina el material de las
   reglas básicas de Disciples con el Narrative Playbook, además se añaden
@@ -341,7 +341,7 @@ src="https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1605
   logo de Disciples gravado en una lámina dorada como portada. Además, se añade
   una caja/funda (slipcase) para el juego. Puede reservarse en la [tienda de
   Blackoath
-  Games](https://blackoathgames.com/store/disciples-of-bone-amp-shadow-conquered-sun-edition)
+  Entertainment](https://blackoathgames.com/store/disciples-of-bone-amp-shadow-conquered-sun-edition) 
   por 60€.
   
   En un futuro (fecha sin concretar) la **edición en tapa blanda y en PDF** de
@@ -349,8 +349,7 @@ src="https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1605
   Funeral](https://www.exaltedfuneral.com/).
   
   Además, las **reglas básicas** de Disciples of Bone & Shadow pasan a ser
-  **totalmente gratuitas** y se pueden descargar de la [página de Blackoath
-  Games](https://blackoathgames.com/store/disciples-of-bone-amp-shadow-basic-edition).
+  **totalmente gratuitas** y se pueden descargar de la [página de Blackoath Entertainment](https://blackoathgames.com/store/disciples-of-bone-amp-shadow-basic-edition).
   
     <p align="center">
     <img height="650"
