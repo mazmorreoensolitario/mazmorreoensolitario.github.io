@@ -90,15 +90,16 @@ Aquí tenéis mi selección:
          para que trabaje en el almacén, mierda, tengo que construir otra
          granja para tener un colono. Vale, entonces, me muevo aquí y aquí para
          conseguir los recursos para el almacén y la granja del colono, luego
-         me hago, luego la granja, luego pongo el colono y ya puedo usar el
-         almacén nuevo y ummm..... ¿para qué era todo esto?", entonces es tu
-         juego.</p>
+         me hago el almacén, luego la granja, luego pongo el colono y ya puedo
+         usar el almacén nuevo y ummm..... ¿para qué era todo esto?", entonces
+         es tu juego.</p>
          <p>Personalmente es uno de mis juegos 
          favoritos (sería un 5 de 5 en la escala del blog).</p>
          <p><strong>¿Dónde lo consigo?</strong> Online. Está descatalogado y
          suele estar bastante rebajado, creo que el PVP era unos 70-80€, yo lo
          compré a 37€, vamos, que no lo compréis a precio completo porque suele
-         bajar bastante.</p>
+         bajar bastante (pero también es normal que suba el precio si hay mucha
+         demanda).</p>
      </div>
 </div>
 
@@ -392,7 +393,7 @@ Games](https://amzn.to/3g4MQOJ)),
 [Ginkgopolis](https://boardgamegeek.com/boardgame/128271/ginkgopolis) (SD Games),
 [Underwater
 Cities](https://boardgamegeek.com/boardgame/247763/underwater-cities) ([Arrakis
-Games](https://amzn.to/3oj18yl))y
+Games](https://amzn.to/3oj18yl)) y
 [Nations](https://boardgamegeek.com/boardgame/126042/nations)
 ([Lautapelit](https://amzn.to/3ogPPXo)). Y posiblemente 
 otros pero no me vienen a la mente, ya editaré esta entrada según me vengan.
