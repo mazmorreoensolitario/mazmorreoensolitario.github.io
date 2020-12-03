@@ -282,7 +282,7 @@ soportan ese modo de juego, os iré comentando en cada apartado de cada juego:
          GM, por lo que también podéis usarlo en un grupo de amigos cuando a
          nadie le apetezca ser el master. Este juego presenta a la vez un
          sistema, y una ambientación principalmente para <a
-         href="https://www.drivethrurpg.com/product/64331/Labyrinth-Lord-Revised-Edition-noart-version?term=Labyrinth+Lord+free"><strong>Labyrinth
+         href="https://www.drivethrurpg.com/product/64331/Labyrinth-Lord-Revised-Edition-noart-version?affiliate_id=1914894"><strong>Labyrinth
          Lord</strong></a>, por lo que podéis utilizarlo con cualquier otro clon
          de D&D.</p>
          <p><strong>En Ruins of the Undercity controlamos a un grupo de
@@ -314,7 +314,7 @@ soportan ese modo de juego, os iré comentando en cada apartado de cada juego:
          <p>Cuando terminemos nuestra exploración de las ruinas volveremos a la
          ciudad y vuelta a empezar otra vez.</p>
          <p><strong>Para mí Ruins of the Undercity es el sustituto de <a
-         href="https://www.drivethrurpg.com/product/180588/Four-Against-Darkness">Four
+         href="https://www.drivethrurpg.com/product/180588/Four-Against-Darkness?affiliate_id=1914894">Four
          Against Darkness</a></strong> (4AD); desde que probé este juego me he
          olvidado completamente del otro. Es mucho más completo, tiene ese toque
          realista que le falta al 4AD, utiliza toda la variedad de monstruos
@@ -401,7 +401,7 @@ soportan ese modo de juego, os iré comentando en cada apartado de cada juego:
          <h4>6. Ironsworn</h4> 
          <p>El último <strong>juego en solitario</strong> al que quiero ponerme a jugar este año
              es <strong><a
-         href="https://www.drivethrurpg.com/product/238369/Ironsworn">Ironsworn</a></strong>
+         href="https://www.drivethrurpg.com/product/238369/Ironsworn?affiliate_id=1914894">Ironsworn</a></strong>
          de Shawn Tomkin, que también admite el juego cooperativo (sin GM) o
          tradicional con GM. Ironsworn también <strong>fue premiado en los
          Ennie de  2019, esta vez como <i>Mejor juego gratis</i></strong>. En
@@ -422,7 +422,7 @@ soportan ese modo de juego, os iré comentando en cada apartado de cada juego:
          <p>Ironsworn es una obra monumental que ha sido creada por una única
          persona y que además ha decidido subir el libro para que los jugones
          nos lo descarguemos de forma <a
-         href="https://www.drivethrurpg.com/product/238369/Ironsworn?term=Ironsworn">libre
+         href="https://www.drivethrurpg.com/product/238369/Ironsworn?affiliate_id=1914894">libre
          y gratuita</a>.</p>
          <p>El año pasado tuvimos una buena noticia los hispanoparlantes, <strong>Ironsworn
          saldrá en español de la mano de <a
