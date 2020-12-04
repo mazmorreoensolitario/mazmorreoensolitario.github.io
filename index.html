@@ -7,7 +7,8 @@ layout: default
   <div class="pack col-md-8">
     {% for post in paginator.posts %}   
     <div class="col-md-4 card">
-      <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
+      <a href="{{ post.url | prepend: site.baseurl }}"
+         class="index-anchor">
         <div class="panel panel-default">
           {% if post.imghtml %}
           <!---width="100%" --->
@@ -67,6 +68,14 @@ layout: default
               {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}
               {% endif %}
             </small>
+            <div class="pull-right">
+              <span>
+                <small>
+                  <a href="{{post.url | prepend: site.baseurl}}#disqus_thread">
+                  </a> <i class="fa fa-comment"></i>
+                </small>
+              </span>
+            </div>
           </div>
         </div>
       </a>
