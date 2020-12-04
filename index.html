@@ -53,10 +53,18 @@ layout: default
                 {% endcase %}
                 {{ post.date | date: "%Y" }}</small>
             </span>
-            <div>
+            <div clas="pull-left">
               {% assign categ_sorted = post.categories | sort %}
-              <span class="pull-left label label-default">
+              <span class="label label-default">
                 {{categ_sorted[0]}}
+              </span>
+            </div>
+            <div class="pull-right">
+              <span>
+                <small>
+                  <a href="{{post.url | prepend: site.baseurl}}#disqus_thread">
+                  </a> <i class="fa fa-comment"></i>
+                </small>
               </span>
             </div>
           </div>
@@ -68,14 +76,6 @@ layout: default
               {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}
               {% endif %}
             </small>
-            <div class="pull-right">
-              <span>
-                <small>
-                  <a href="{{post.url | prepend: site.baseurl}}#disqus_thread">
-                  </a> <i class="fa fa-comment"></i>
-                </small>
-              </span>
-            </div>
           </div>
         </div>
       </a>
