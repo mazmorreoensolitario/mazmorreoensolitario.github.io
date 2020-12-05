@@ -16,7 +16,7 @@ resumen de las noticias del mundillo y lo que ha acontecido durante este mes"
  juegos de mesa y rol en solitario que hayan acontecido en el último mes,
  es decir, **septiembre de 2020**, además de lo que el futuro nos depara.
  
- Esta dividido en **dos secciones: juegos de mesa y juegos de rol**, dentro de
+ Está dividido en **dos secciones: juegos de mesa y juegos de rol**, dentro de
  cada sección tendréis noticias y lo que el futuro nos depara en las próximas
  campañas de crowdfunding.
 
