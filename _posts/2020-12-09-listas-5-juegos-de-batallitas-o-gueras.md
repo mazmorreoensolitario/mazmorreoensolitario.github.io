@@ -171,7 +171,7 @@ Aquí está mi selección:
     los que mayormente tenemos que cargarnos diferentes tipos de
     monstruos. Unos más feos que otros.</p>
         <p>En cada uno de los escenarios jugamos en un mapa dentro del propio
-        libro de escenarios, no hay losetas con la que formemos un mapa o algo
+        libro de escenarios, no hay losetas con las que formemos un mapa o algo
     del estilo (una de las grandes diferencias con el Gloomhaven grande). Este
     mapa tiene un grid hexagonal en el que se 
     ponen los enemigos, nuestros aventureros y otros elementos extra, como las
@@ -425,7 +425,7 @@ den esos dos de madera, entonces los usas; y no se gastan, si luego necesitas
         class="img-thumbnail" alt="">
     </div>
     <div class="col-md-9">
-         <h4>5. Algún wargame de GMT Games, Decision Games, Revolution Games o Legion Games</h4>
+         <h4>5. Algún wargame de GMT Games, Decision Games, Revolution Games o Legion Wargames</h4>
          <p>No podía terminar esta lista sin añadir como recomendación algún
     wargame porque los wargames van de eso, el conflicto. (Pongo en la foto el
     de Ardennes'44 porque estamos en diciembre y la batalla de las Ardenas fue
@@ -461,7 +461,7 @@ den esos dos de madera, entonces los usas; y no se gastan, si luego necesitas
         cuantas mas fichas tenéis que gestionar, por lo que si es menos
         complejo, seguro que sale antes a la mesa.</p>
         <p>Aquí entran <strong>Revolution Games</strong> y <strong>Legion
-        Games</strong>. Ambos tienen una serie de juegos que se juegan en un
+        Wargames</strong>. Ambos tienen una serie de juegos que se juegan en un
         solo mapa de tamaño estándar y no tienen demasiadas fichas.</p></li>
         <li><p>Obviamente, solo-friendly o solitario. Aquí reinan los sistemas que
         vengan con un modo en solitario ya diseñado por defecto, que tengan una
@@ -501,7 +501,7 @@ den esos dos de madera, entonces los usas; y no se gastan, si luego necesitas
         (aún) por lo que no puedo opinar. Además he utilizado las editoriales que
         he listado como ejemplos, todas las compañías ponen una escala de
         idoneidad en solitario, no solo GMT Games, y en general todas tienen
-    algún juego con mapa no muy grande, no solo Decision Games y Legion Games.</p>
+    algún juego con mapa no muy grande, no solo Decision Games y Legion Wargames.</p>
          <p><strong>¿Dónde los consigo?</strong> En alguna tienda física
     especializada u online. Alternativamente, es bastante común también comprar
     directamente a la editorial y si tienen algún tipo de preventa suelen salir
