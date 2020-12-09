@@ -128,7 +128,7 @@ Aquí está mi selección:
     defender pronto porque tu espíritu no llega, y necesitas movilizar a los
     Dahan allí, qué zonas te puedes permitir perder, y qué zonas necesitas
     defender sí o sí para que la invasión no se desmadre.</p>
-    <p> El punto fuerte es también su la única, si te gusta pensar, adelantarte
+    <p> El punto fuerte es también su única "pega", si te gusta pensar, adelantarte
     y repensar, genial, pero puedes tener un análisis-parálisis de cuidado como
     te lo tomes muy en serio porque la explosión de estados<sup id="fnref:1"
     role="doc-noteref"><a href="#fn:1" class="footnote">1</a></sup>  que genera
