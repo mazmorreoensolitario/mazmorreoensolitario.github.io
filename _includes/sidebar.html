@@ -55,14 +55,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/11/30/noticias-boletin-noviembre-2020/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2020/04/30/noticias-golden-geek-awards-2019/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -79,7 +71,15 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/11/29/crowdfunding-1123-1129/" %}
+       {% if post.url == "/2020/11/30/noticias-boletin-noviembre-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2020/07/31/noticias-boletin-julio-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -103,7 +103,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/03/09/analisis-maquis/" %}
+       {% if post.url == "/2019/03/14/analisis-pocket-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -126,54 +126,38 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Ironsworn"
       or tag[0] == "Etherfields"
-      or tag[0] == "Ironsworn: Delve"
-      or tag[0] == "Curious Cargo"
-      or tag[0] == "DELVE"
-      or tag[0] == "Fábulas de Peluche"
+      or tag[0] == "Boletín Informativo Solitario"
+      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "Undaunted: Normandy"
-      or tag[0] == "Circadians: Primera Luz"
-      or tag[0] == "City of Chaos"
-      or tag[0] == "Descent Into The Abyss"
-      or tag[0] == "Disciples of Bone and Shadow"
+      or tag[0] == "Curious Cargo"
+      or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "Pandemic: La caída de Roma"
+      or tag[0] == "El Imperio del Sol"
+      or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Golden Geek"
       or tag[0] == "Héroes de Terrinoth"
+      or tag[0] == "Mörk Borg"
       or tag[0] == "Nemesis"
       or tag[0] == "One Page Dungeon"
-      or tag[0] == "Pandemic: La caída de Roma"
       or tag[0] == "Pax Pamir"
-      or tag[0] == "Space Empires"
-      or tag[0] == "Tiny Towns"
-      or tag[0] == "Arkham Horror"
+      or tag[0] == "Tainted Grail: La caída de Ávalon"
+      or tag[0] == "Undaunted: Normandy"
       or tag[0] == "Arquitectos del Reino del Oeste"
-      or tag[0] == "Boletín Informativo Solitario"
+      or tag[0] == "Barrage"
       or tag[0] == "Burgle Bros 2: The Casino Capers"
-      or tag[0] == "Desolate"
-      or tag[0] == "Disciples of Bone and Shadow: Conquered Sun Edition"
       or tag[0] == "Dwellings of Eldervale"
       or tag[0] == "Everdell"
-      or tag[0] == "GMT Games"
       or tag[0] == "Gugong"
-      or tag[0] == "Hadrian's Wall"
-      or tag[0] == "Hallertau"
-      or tag[0] == "Iron Helm"
-      or tag[0] == "Labyrinth Lord"
-      or tag[0] == "Legends Untold: Illumination of Deepsorrow"
-      or tag[0] == "Legends Untold"
       or tag[0] == "Maquis"
-      or tag[0] == "Mörk Borg"
-      or tag[0] == "Mythic"
-      or tag[0] == "Origins: First Builders"
-      or tag[0] == "Pequeños Grandes Zombis"
-      or tag[0] == "RISE"
+      or tag[0] == "One Deck Dungeon"
+      or tag[0] == "Rome & Roll"
       or tag[0] == "Scarlet Heroes"
-      or tag[0] == "T-DEF"
+      or tag[0] == "Scythe: El Auge de Fenris"
+      or tag[0] == "Space Empires"
       or tag[0] == "Teenage Mutant Ninja Turtles: City Fall"
       or tag[0] == "The Colonists"
-      or tag[0] == "TINYforming Mars"
-      or tag[0] == "UMBRA"
-      or tag[0] == "WASTE"
-      or tag[0] == "Zine Quest" %}
+      or tag[0] == "Tiny Towns"
+      or tag[0] == "Tops" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
