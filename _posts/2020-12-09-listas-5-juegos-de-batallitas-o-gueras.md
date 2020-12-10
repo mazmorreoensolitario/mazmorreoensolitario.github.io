@@ -440,7 +440,7 @@ den esos dos de madera, entonces los usas; y no se gastan, si luego necesitas
     <ol>
         <li><p>No te metas en un juego en inglés si no te ves capaz de leerte
     una novela de hoy en día en inglés. Los manuales son muy técnicos y algunos
-    muy largos, necesitas mucha compresión lectora. Si no te ves capaz, busca
+    muy largos, necesitas mucha comprensión lectora. Si no te ves capaz, busca
     una traducción o un juego editado en español aunque cierre bastante las
     opciones.</p>
         <p>Lo más triste que puede pasar cuando compráis un juego es que no

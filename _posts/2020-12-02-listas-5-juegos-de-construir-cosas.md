@@ -34,6 +34,10 @@ en Board Game Geek; los juegos 4X a lo mejor también podrían considerarse de
 "construir cosas" pero yo en un principio los he descartado porque el precio
 suele ser más alto.
 
+La siguiente entrada de esta serie es:
+    * [5 Juegos en solitario de 'batallitas o
+      guerras']({{site.baseurl}}/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/).
+
 Aquí tenéis mi selección:
 
 <div class="row">
@@ -79,7 +83,9 @@ Aquí tenéis mi selección:
         que juegues). Los edificios, el número de
         colonos de cada tipo trabajando y el dinero, son lo que cuentan como
         puntos.</p> 
-        <img src="https://live.staticflickr.com/65535/50673390706_52a6de9bbe_b.jpg">
+        <img
+    src="https://live.staticflickr.com/65535/50673390706_52a6de9bbe_b.jpg">
+        <p><small>The Colonists</small></p>
          <p><strong>¿Por qué te puede gustar este juego?</strong> Es de
          construcción puro y duro, y todo lo que conlleva gestionar los
          recursos para construir cosas. Si te gusta la idea de estar al menos
@@ -140,7 +146,9 @@ Aquí tenéis mi selección:
         consigues superar la puntuación objetivo que te piden las tres cartas
         de de condición de puntuación has ganado. Las partidas duran unos 10
         minutos.</p>
-        <img src="https://live.staticflickr.com/65535/50672645203_75278f2373_b.jpg">
+        <img
+    src="https://live.staticflickr.com/65535/50672645203_75278f2373_b.jpg">
+        <p><small>Expansiópolis</small></p>
          <p><strong>¿Por qué te puede gustar este juego?</strong> Es muy rápido
          de jugar, viene en una carterita que puedes llevar en un bolsillo,
          tiene muchísima re-jugabilidad y en algunas combinaciones es muy
@@ -215,7 +223,9 @@ Aquí tenéis mi selección:
     un "aspirante a arquitecto", pero mi regla casera es que si sacas
     puntuación negativa, doy fe de que es posible, eres un inútil. Tranqui,
     yo también lo soy en algunas combinaciones de edificios).</p>
-        <img src="https://live.staticflickr.com/65535/50673390701_4f8473002b_h.jpg">
+        <img
+    src="https://live.staticflickr.com/65535/50673390701_4f8473002b_h.jpg">
+    <p><small>Tiny Towns</small></p>
          <p><strong>¿Por qué te puede gustar este juego?</strong> No vamos a
     obviar que el juego es monísimo. Además de eso te propone un puzle muy
     interesante y fácil de entender que puedes intentar resolver en unos 5-15
@@ -278,7 +288,9 @@ Aquí tenéis mi selección:
         edificios, consigue bonos de puntuación y recursos que puntúen al final
         de la partida y sé el primero en construir la catedral porque eso te da
         una tonelada de puntos.</p> 
-        <img src="https://live.staticflickr.com/65535/50672645233_025d35becf_b.jpg">
+        <img
+    src="https://live.staticflickr.com/65535/50672645233_025d35becf_b.jpg">
+        <p><small>Arquitectos del Reino del Oeste</small></p>
          <p><strong>¿Por qué te puede gustar este juego?</strong> Si eres un
          asiduo del blog, me habrás oído comentar que en un principio los
          juegos de colocación de trabajadores puros no me suelen gustar, pero
