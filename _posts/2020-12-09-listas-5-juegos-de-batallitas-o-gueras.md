@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5 juegos en solitario de 'batallitas o guerras'"
+title: "5 Juegos en solitario de 'batallitas o guerras'"
 date: 2020-12-09
 categories: [Listas]
 tags: [Tops, Gloomhaven, "Gloomhaven: Jaws of the Lion", "Root: The Clockwork", Root, Reinos de Papel, "Reinos de Papel: Más allá de las puertas", Spirit Island]
@@ -122,7 +122,7 @@ Aquí está mi selección:
     El problema de todo esto, es que al principio del juego, cuando el mapa no
     está en plan lleno como una manifestación, tus espíritus son unos inútiles
     y poco puedes hacer, mientras la partida avanza, vas ganando poderes y
-    sitios de  influcencia en el mapa, así que, como en el ajedrez, puedes
+    sitios de influencia en el mapa, así que, como en el ajedrez, puedes
     jugar (como un principiante) adelantándote solamente a un turno, o puedes
     intentar jugar previniendo a muchos más turnos y viendo qué zonas conviene
     defender pronto porque tu espíritu no llega, y necesitas movilizar a los
@@ -530,7 +530,7 @@ Undaunted: Reinforcements, más sobre esa expansión en
 <li id="fn:1"
     role="doc-endnote">
     <p>Si os interesa leer sobre <i>the state explosion problem</i> o la
-    exposión combinatoria, que son dos conceptos parecidos que plantean
+    explosión combinatoria, que son dos conceptos parecidos que plantean
     problemas en computación y a los matemáticos, os dejo este enlace a la
     <a
     href="https://en.wikipedia.org/wiki/Combinatorial_explosion">Wikipedia</a>
