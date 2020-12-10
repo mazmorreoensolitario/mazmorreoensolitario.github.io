@@ -62,6 +62,14 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
+       {% if post.url == "/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
        {% if post.url == "/2019/07/23/analisis-orchard/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -94,14 +102,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/01/16/analisis-colonos-del-imperio/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2019/03/14/analisis-pocket-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -123,38 +123,40 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Ironsworn"
       or tag[0] == "Etherfields"
-      or tag[0] == "Boletín Informativo Solitario"
-      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Boletín Informativo Solitario"
       or tag[0] == "Curious Cargo"
-      or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "Hallertau"
+      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Pandemic: La caída de Roma"
+      or tag[0] == "Solitaire Print & Play Design Contest"
       or tag[0] == "El Imperio del Sol"
       or tag[0] == "Fábulas de Peluche"
-      or tag[0] == "Golden Geek"
-      or tag[0] == "Héroes de Terrinoth"
+      or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "Maquis"
       or tag[0] == "Mörk Borg"
-      or tag[0] == "Nemesis"
       or tag[0] == "One Page Dungeon"
       or tag[0] == "Pax Pamir"
+      or tag[0] == "Scarlet Heroes"
       or tag[0] == "Tainted Grail: La caída de Ávalon"
+      or tag[0] == "Tops"
       or tag[0] == "Undaunted: Normandy"
-      or tag[0] == "Arquitectos del Reino del Oeste"
       or tag[0] == "Barrage"
       or tag[0] == "Burgle Bros 2: The Casino Capers"
-      or tag[0] == "Dwellings of Eldervale"
       or tag[0] == "Everdell"
       or tag[0] == "Gugong"
-      or tag[0] == "Maquis"
+      or tag[0] == "Héroes de Terrinoth"
+      or tag[0] == "Nemesis"
       or tag[0] == "One Deck Dungeon"
+      or tag[0] == "Reinos de Papel: Más allá de las puertas"
+      or tag[0] == "Reinos de Papel"
       or tag[0] == "Rome & Roll"
-      or tag[0] == "Scarlet Heroes"
+      or tag[0] == "Root: The Clockwork"
+      or tag[0] == "Root"
+      or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Scythe: El Auge de Fenris"
-      or tag[0] == "Space Empires"
-      or tag[0] == "Teenage Mutant Ninja Turtles: City Fall"
-      or tag[0] == "The Colonists"
-      or tag[0] == "Tiny Towns"
-      or tag[0] == "Tops" %}
+      or tag[0] == "Spirit Island"
+      or tag[0] == "Undaunted: North Africa" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
