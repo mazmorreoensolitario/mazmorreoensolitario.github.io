@@ -260,7 +260,7 @@ Aquí está mi selección:
         class="img-thumbnail" alt="Root">
     </div>
     <div class="col-md-9">
-         <h4>3. <a href="https://amzn.to/3mXdbkp">Root</a> y expansión The Clockwork</h4>
+         <h4>3. <a href="https://amzn.to/3mXdbkp">Root</a> y expansión <a href="https://amzn.to/2KhfJLO">The Clockwork</a></h4>
          <p>En <strong><a
     href="https://boardgamegeek.com/boardgame/237182/root">Root</a></strong> (y
     expansión <a

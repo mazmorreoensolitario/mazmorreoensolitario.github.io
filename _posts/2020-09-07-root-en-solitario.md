@@ -37,7 +37,7 @@ Hay varias formas de jugar a
    src="https://cf.geekdo-images.com/imagepage/img/A_ATiOKcL-EXlTFkrlGm8H5VdK0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4252654.jpg"></p>
    
    En está expansión, que ha publicado [2Tomatoes
-   Games](https://2tomatoesgames.com/) en español, se añaden dos facciones
+   Games](https://amzn.to/2KgZBdc) en español, se añaden dos facciones
    nuevas al juego y viene con un **único bot** contra el que puedes jugar
    **partidas de 1 contra 1**.
    
@@ -64,6 +64,7 @@ Hay varias formas de jugar a
    
 2. En la expansión **[The
    Clockwork](https://boardgamegeek.com/boardgameexpansion/287220/root-clockwork-expansion)
+   ([Leder Games, 2020](https://amzn.to/2KhfJLO))
    tienes 4 bots**: Mechanical Marquise 2.0 (los zorros, versión mejorada del
    bot the viene en la expansión Los Ribereños), The Electric Eyrie (las
    águilas), The Automated Alliance (los conejos) y The Vagabot (el mapache);
