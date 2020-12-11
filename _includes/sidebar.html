@@ -31,6 +31,14 @@
     <div id="most-read"></div>
     <div class="image-container">
        {% for post in site.posts %}
+       {% if post.url == "/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
        {% if post.url == "/2020/05/16/rol-en-solitario-como-empiezo/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -63,23 +71,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2019/07/23/analisis-orchard/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2020/11/30/noticias-boletin-noviembre-2020/" %}
+       {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -103,7 +95,15 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/03/14/analisis-pocket-mars/" %}
+       {% if post.url == "/2020/11/30/noticias-boletin-noviembre-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2020/12/06/crowdfunding-1130-1206/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -128,41 +128,46 @@
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
       {% for tag in site.tags %}
-      {% if tag[0] == "Ironsworn"
-      or tag[0] == "Etherfields"
+      {% if tag[0] == "Etherfields"
+      or tag[0] == "Ironsworn"
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Boletín Informativo Solitario"
+      or tag[0] == "Tops"
       or tag[0] == "Curious Cargo"
+      or tag[0] == "Mörk Borg"
+      or tag[0] == "Gloomhaven: Jaws of the Lion"
       or tag[0] == "Hallertau"
+      or tag[0] == "Ironsworn: Delve"
       or tag[0] == "Labyrinth Lord"
       or tag[0] == "Pandemic: La caída de Roma"
       or tag[0] == "Solitaire Print & Play Design Contest"
+      or tag[0] == "Undaunted: Normandy"
       or tag[0] == "El Imperio del Sol"
+      or tag[0] == "Expansiópolis"
       or tag[0] == "Fábulas de Peluche"
-      or tag[0] == "Ironsworn: Delve"
       or tag[0] == "Maquis"
-      or tag[0] == "Mörk Borg"
-      or tag[0] == "One Page Dungeon"
+      or tag[0] == "One Deck Dungeon"
       or tag[0] == "Pax Pamir"
+      or tag[0] == "Reinos de Papel"
       or tag[0] == "Scarlet Heroes"
       or tag[0] == "Tainted Grail: La caída de Ávalon"
-      or tag[0] == "Tops"
-      or tag[0] == "Undaunted: Normandy"
       or tag[0] == "Barrage"
       or tag[0] == "Burgle Bros 2: The Casino Capers"
-      or tag[0] == "Everdell"
+      or tag[0] == "Essen Spiel 2019"
+      or tag[0] == "Gladiator Gauntlet"
       or tag[0] == "Gugong"
       or tag[0] == "Héroes de Terrinoth"
+      or tag[0] == "Kickstarter"
+      or tag[0] == "Marvel Champions: The Card Game"
       or tag[0] == "Nemesis"
-      or tag[0] == "One Deck Dungeon"
       or tag[0] == "Reinos de Papel: Más allá de las puertas"
-      or tag[0] == "Reinos de Papel"
       or tag[0] == "Rome & Roll"
       or tag[0] == "Root: The Clockwork"
       or tag[0] == "Root"
       or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Scythe: El Auge de Fenris"
       or tag[0] == "Spirit Island"
+      or tag[0] == "Troyes Dice"
       or tag[0] == "Undaunted: North Africa" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
