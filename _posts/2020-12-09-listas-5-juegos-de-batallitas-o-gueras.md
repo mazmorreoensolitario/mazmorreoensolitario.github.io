@@ -113,7 +113,7 @@ Aquí está mi selección:
     del tablero, pero aún así, sabes qué pasaría con cada ficha del tablero.
     Spirit Island sigue ese mismo concepto (ojo cuidado que no estoy comparando
     el juego con el ajedrez, esto es un ejemplo) en el que sabes que va a
-    parecer un nuevo colono a explorar una determinada zona, no sabes qué zona
+    aparecer un nuevo colono a explorar una determinada zona, no sabes qué zona
     será, pero vas pensando qué pasaría si exploran en montaña, humedal, jungla
     o arenal, y puedes calcular qué ciudades o pueblos se construirían de
     explorarse esa zona; por lo que puedes hacerte una idea de cómo va a
