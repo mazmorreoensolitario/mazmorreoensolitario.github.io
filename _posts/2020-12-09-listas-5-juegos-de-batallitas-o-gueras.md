@@ -519,7 +519,7 @@ gustaría probar son:
 (hay muchas versiones más de este juego)
 ([Indie Boards & Cards](https://amzn.to/3n26LRn)), 
 [Undaunted: Normandy](https://boardgamegeek.com/boardgame/268864/undaunted-normandy)
-([doit games](https://amzn.to/2VUyPd), jugable en solitario con un bot y no os
+([doit games](https://amzn.to/3a3Jk6u), jugable en solitario con un bot y no os
 olvidéis de la futura expansión que añadirá un modo en solitario oficial:
 Undaunted: Reinforcements, más sobre esa expansión en
 [este Boletín Informativo Solitario]({{site.baseurl}}/2020/07/31/noticias-boletin-julio-2020/)).
