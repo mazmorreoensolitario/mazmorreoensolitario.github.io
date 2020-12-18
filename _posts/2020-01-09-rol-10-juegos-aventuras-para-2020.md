@@ -445,7 +445,7 @@ pero bueno, tampoco me importa.
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
-            src="https://cdn.shopify.com/s/files/1/0017/2330/1933/products/Winter_s_Daughter_Cover_830cc698-2d03-4502-8f0f-329bb0fdcad7_540x.png?v=1573569232"
+            src="https://dtrpg-public-files.s3.us-east-2.amazonaws.com/images/5606/270795-thumb140.jpg"
         class="img-thumbnail" alt="Winter’s Daughter">
     </div>
     <div class="col-md-9">
