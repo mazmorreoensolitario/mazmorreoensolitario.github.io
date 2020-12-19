@@ -524,7 +524,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Stalingrad ’42: Southern Russia, June-December, 1942">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://amzn.to/38sf8kB">Stalingrad ’42: Southern Russia, June-December, 1942</a></h4>
+        <h4><a href="https://amzn.to/2J4I8EJ">Stalingrad ’42: Southern Russia, June-December, 1942</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/255393/stalingrad-42-southern-russia-june-december-1942">Stalingrad
     ’42</a></strong> por <strong>Mark Simonitch</strong> y publicado por
