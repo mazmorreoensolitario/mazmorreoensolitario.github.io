@@ -53,6 +53,7 @@ layout: default_container
               href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></span-->
               <!--a href="/tags/{{ tag }}/">{{ tag }}</a><-->
               {% if tag == "Augmented Reality" or
+              tag == "Forbidden Lands" or
               tag == "T-DEF" or tag == "Mörk Borg" or
               tag == "RISE" or tag == "DELVE" or
               tag == "UMBRA" or tag == "WASTE" or
@@ -70,7 +71,6 @@ layout: default_container
               tag == "Sleepaway" or
               tag == "Four Against Darkness" or
               tag == "Dyson's Delve" or
-              tag == "Ennie" or 
               tag == "Labyrinth Lord" or
               tag == "Mothership" or 
               tag == "Mothership: Dead Planet" or
@@ -135,7 +135,7 @@ layout: default_container
               tag == "Golden Geek" or
               tag == "Solitaire Print & Play Design Contest" or
               tag == "Wargame Print & Play Design Contest" or
-              tag == "Spiel des Jahres" %}
+              tag == "Spiel des Jahres" or tag == "Ennie" %}
               <span class="label label-success"><strong>#<a class="tag-color"
               href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></strong></span> 
               {% else %}

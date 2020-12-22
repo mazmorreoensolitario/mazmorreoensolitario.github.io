@@ -19,6 +19,7 @@ categorías.
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or
+        tag[0] == "Forbidden Lands" or
         tag[0] == "T-DEF" or tag[0] == "Mörk Borg" or
         tag[0] == "RISE" or tag[0] == "DELVE" or
         tag[0] == "UMBRA" or tag[0] == "WASTE" or
@@ -36,7 +37,6 @@ categorías.
         tag[0] == "The Ultraviolet Grasslands" or
         tag[0] == "Four Against Darkness" or
         tag[0] == "Dyson's Delve" or
-        tag[0] == "Ennie" or 
         tag[0] == "Labyrinth Lord" or
         tag[0] == "Mothership" or 
         tag[0] == "Mothership: Dead Planet" or 
@@ -101,7 +101,8 @@ categorías.
             tag[0] == "Golden Geek" or
             tag[0] == "Solitaire Print & Play Design Contest" or
             tag[0] == "Wargame Print & Play Design Contest" or
-            tag[0] == "Spiel des Jahres" %}
+            tag[0] == "Spiel des Jahres" or
+            tag[0] == "Ennie" %}
             <span class="label label-success"><strong>#<a class="tag-color"
             href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
         {% else %}
