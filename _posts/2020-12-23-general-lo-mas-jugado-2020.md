@@ -345,7 +345,7 @@ año, mientras que otros ya formaban parte de mi colección, vamos a ello:
         <p><small>Todo el contenido del Kickstarter de Storming the Gap</small></p>
          <p><strong>En resumidas cuentas...</strong> ha sido la sorpresa del
          año, sabía que me iba a gustar, pero no pensaba que me iba a gustar
-         tanto. A eso se le suma que pagué 90$ en el Kickstarter y con eso
+         tanto. A eso se le suma que pagué 70$ en el Kickstarter y con eso
          conseguí el juego base, el pack de expansiones y la expansión del modo
          en solitario; ahora todo esto costaría más de <i>doscientos</i>
          dólares. Me gusta y que me haya ahorrado cientos de euros hace
@@ -382,7 +382,7 @@ comento en cada caso cómo va la cosa.
          <p><small>Ironsworn y Lodestar</small></p>
          <p><strong>¿Qué tal le ha ido este año?</strong> Es uno de esos
     libros que salió en 2018 y que desde entonces lleva haciendo muchísimo
-    ruído. Uno de mis <a href="">uno de mis propósitos jueguiles de
+    ruído. <a href="{{site.baseurl}}/2020/01/09/rol-10-juegos-aventuras-para-2020/">Uno de mis propósitos jueguiles de
     2020</a> era jugarlo, así que propósito cumplido. Lo compré junto con
     <a
     href="https://www.drivethrurpg.com/product/250586/Ironsworn-Lodestar-Reference-Guide?affiliate_id=1914894">Lodestar</a>,

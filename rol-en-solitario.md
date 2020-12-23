@@ -33,6 +33,8 @@ lúdico, por lo que también va a tener un espacio dedicado en el blog.
 
 ### Artículos generales
 
+* 23 de Diciembre, 2020. [Los juegos de mesa y rol más jugados de
+  2020]({{site.baseurl}}/2020/12/23/general-lo-mas-jugado-2020/).
 * 26 de Julio, 2020. [10 recomendaciones por el Día del Rol Gratis de
   2020]({{site.baseurl}}/2020/07/26/rol-recomendaciones-dia-rol-gratis-2020/) 
 * 13 Junio, 2020. [Lo recomendado del Paquete de juegos por la justicia
