@@ -3,7 +3,7 @@ layout: post
 title: "Premios Ennie 2019"
 date: 2019-08-03
 categories: [Rol]
-tags: [Rol, GenCon, Ennie, Troika, Mothership, "Mothership: Dead Planet", OSR, Ironsworn, "Winter's Daughter"]
+tags: [Rol, GenCon, Ennie, Forbidden Lands, Troika, Mothership, "Mothership: Dead Planet", OSR, Ironsworn, "Winter's Daughter"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200704-ennies/ennies.jpg
 post_desc: "Los ENnies son unos premios otorgados cada año en la GenCon a los 
 mejores juegos de rol que hayan salido durante el año anterior"
@@ -455,7 +455,7 @@ solitario.**
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
-            src="https://cf.geekdo-images.com/imagepage/img/YUIuUwX5Cu6JykkZGTpJuAKKuWw=/fit-in/900x600/filters:no_upscale()/pic4509316.png"
+            src="https://www.drivethrurpg.com/images/11437/258593.jpg"
         class="img-thumbnail" alt="Forbidden Lands – Retro Open-World Survival Fantasy RPG">
     </div>
     <div class="col-md-9">
@@ -1140,7 +1140,7 @@ solitario.**
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
-            src="https://cf.geekdo-images.com/imagepage/img/YUIuUwX5Cu6JykkZGTpJuAKKuWw=/fit-in/900x600/filters:no_upscale()/pic4509316.png"
+            src="https://www.drivethrurpg.com/images/11437/258593.jpg"
         class="img-thumbnail" alt="Forbidden Lands – Retro Open-World Survival Fantasy RPG">
     </div>
     <div class="col-md-9">
@@ -1225,7 +1225,7 @@ solitario.**
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
-            src="https://cf.geekdo-images.com/imagepage/img/YUIuUwX5Cu6JykkZGTpJuAKKuWw=/fit-in/900x600/filters:no_upscale()/pic4509316.png"
+            src="https://www.drivethrurpg.com/images/11437/258593.jpg"
         class="img-thumbnail" alt="Forbidden Lands – Retro Open-World Survival Fantasy RPG">
     </div>
     <div class="col-md-9">
@@ -1328,7 +1328,7 @@ solitario.**
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
-            src="https://cf.geekdo-images.com/imagepage/img/YUIuUwX5Cu6JykkZGTpJuAKKuWw=/fit-in/900x600/filters:no_upscale()/pic4509316.png"
+            src="https://www.drivethrurpg.com/images/11437/258593.jpg"
         class="img-thumbnail" alt="Forbidden Lands – Retro Open-World Survival Fantasy RPG">
     </div>
     <div class="col-md-9">
@@ -1621,7 +1621,7 @@ solitario.**
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
-            src="https://cf.geekdo-images.com/imagepage/img/YUIuUwX5Cu6JykkZGTpJuAKKuWw=/fit-in/900x600/filters:no_upscale()/pic4509316.png"
+            src="https://www.drivethrurpg.com/images/11437/258593.jpg"
         class="img-thumbnail" alt="Forbidden Lands – Retro Open-World Survival Fantasy RPG">
     </div>
     <div class="col-md-9">
