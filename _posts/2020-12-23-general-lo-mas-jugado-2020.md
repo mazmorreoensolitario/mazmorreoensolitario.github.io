@@ -382,7 +382,7 @@ comento en cada caso cómo va la cosa.
          <p><small>Ironsworn y Lodestar</small></p>
          <p><strong>¿Qué tal le ha ido este año?</strong> Es uno de esos
     libros que salió en 2018 y que desde entonces lleva haciendo muchísimo
-    ruído. <a href="{{site.baseurl}}/2020/01/09/rol-10-juegos-aventuras-para-2020/">Uno de mis propósitos jueguiles de
+    ruido. <a href="{{site.baseurl}}/2020/01/09/rol-10-juegos-aventuras-para-2020/">Uno de mis propósitos jueguiles de
     2020</a> era jugarlo, así que propósito cumplido. Lo compré junto con
     <a
     href="https://www.drivethrurpg.com/product/250586/Ironsworn-Lodestar-Reference-Guide?affiliate_id=1914894">Lodestar</a>,
@@ -446,7 +446,7 @@ comento en cada caso cómo va la cosa.
     Blades in The Dark (creo) y hasta el otoño no empecé mi campaña; en
     solitario se juega muy cómodamente y en general la caja básica del juego
     está muy bien en relación calidad-contenido-precio (tiene un libro de
-    jugador, un libro de DM, una librito en formto zine de leyendas y
+    jugador, un libro de DM, un librito en formato zine de leyendas y
     aventuras, mapa del mundo y pegatinas); de hecho, en <a
     href="{{site.baseurl}}/2019/08/03/noticias-ennie-awards/">2019 ganó un
     Ennie</a> por tener el <i>Mejor valor de producción</i> (y otros Ennies de
@@ -658,7 +658,7 @@ comento en cada caso cómo va la cosa.
     varias formas de jugar y diferentes velocidades de juego, en mi primer
     personaje, la difunta anciana Eldara (que murió en batalla para que
     vosotros no muráis tan pronto), simplemente me dediqué a seguir
-    rumores y a viajar por el Frantured Dominion intentando llegar al porqué de
+    rumores y a viajar por el Fractured Dominion intentando llegar al porqué de
     ciertos sucesos extraños (no me acuerdo, algo de que estaban envenenando a
     gente pero luego resulta que había un culpable y que no eran causas
     naturales porque encontraba restos de magia o algo), iba ganando

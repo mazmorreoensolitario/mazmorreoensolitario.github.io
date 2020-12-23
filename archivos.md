@@ -19,6 +19,7 @@ categorías.
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or
+        tag[0] == "Barrowmaze" or 
         tag[0] == "Forbidden Lands" or
         tag[0] == "T-DEF" or tag[0] == "Mörk Borg" or
         tag[0] == "RISE" or tag[0] == "DELVE" or
