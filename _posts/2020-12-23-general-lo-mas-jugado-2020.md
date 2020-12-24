@@ -186,7 +186,7 @@ año, mientras que otros ya formaban parte de mi colección, vamos a ello:
     para mis vacaciones) y desde entonces hasta ahora lo he jugado mucho.</p>
         <p>Me alegro muchísimo de que hayan sacado esta versión "de bolsillo"
     de Gloomhaven porque sino había unas posibilidades muy remotas de que me
-    lanzara a comprar la caja-ataud que es el Gloomhaven a secas.</p>
+    lanzara a comprar la caja-ataúd que es el Gloomhaven a secas.</p>
         <p>Es un juego que he cogido sin tener casi o ninguna expectativa,
     aunque sí que tenía la idea preconcebida de que iba a ser muy RPG, y para
     mi sorpresa, es menos RPG de lo que me imaginaba, que se agradece; yo lo veo
@@ -332,7 +332,7 @@ año, mientras que otros ya formaban parte de mi colección, vamos a ello:
          un hex son unos 150m, entramos en temas más micro de gestión, entran
          en juego temas de línea de visión, restos de tanques destrozados, fuego,
          minas... además
-         puedes hacer ataques de "apoyo de fuera del mapa", puede pedir un
+         puedes hacer ataques de "apoyo de fuera del mapa", puedes pedir un
          bombardeo en un punto estratégico o que lancen humo para que tus unidades
          tengan cobertura; los mapas tienen muchos puntos tácticos interesantes
          y terreno variado: laderas, bosques, ciudades, ríos, lagos, terreno de
@@ -437,7 +437,7 @@ comento en cada caso cómo va la cosa.
         <img src="https://live.staticflickr.com/65535/50752636051_34c60c8f75_b.jpg">
          <p><small>Forbidden Lands</small></p>
          <p><strong>¿Qué tal le ha ido este año?</strong> La caja de
-         Forbidden Lands fué una de las adquisiciones que hice durante la
+         Forbidden Lands fue una de las adquisiciones que hice durante la
     cuarentena gracias a que Alex de Blackoath Entertainment me comentó que sin
     DM funcionaba muy bien ya que los libros estaban llenos de
     tablas. Justo coincidió con las rebajas de Free League así que me lancé y
@@ -645,9 +645,10 @@ comento en cada caso cómo va la cosa.
     sigue siendo válida (además me he gastado 60€ de mi bolsillo en la edición
     deluxe limitada de este juego, la Conquered Sun Edition).</p>
          <img src="https://live.staticflickr.com/65535/50752636026_ff90841852_b.jpg">
-         <p><small>Disciples of Bone and Shadow, reglas básicas</small></p>
+         <p><small>Disciples of Bone and Shadow, reglas básicas y
+    encuadernación casera</small></p>
          <p><strong>¿Qué tal le ha ido este año?</strong> Empecé como
-         playtester del Narrative Playbook en la cuarentena de marzo y fué una
+         playtester del Narrative Playbook en la cuarentena de marzo y fue una
          experiencia muy positiva, y seguí jugándolo tras terminar el periodo
          de playtesting hasta que me saturé un poco. El Narrative Playbook
          aumenta el libro básico de Disciples y lo convierte en un pedazo de
@@ -706,7 +707,9 @@ comento en cada caso cómo va la cosa.
         <h4><strong>1. Seekers Beyond The Shroud</strong></h4>
          <p><strong><a
     href="https://www.drivethrurpg.com/product/298721/Seekers-Beyond-The-Shroud?affiliate_id=1914894">Seekers
-    Beyond The Shroud</a></strong> de Alex T. es un juego de rol especialmente
+    Beyond The Shroud</a></strong> (<a
+    href="https://www.exaltedfuneral.com/products/seekers-beyond-the-shroud?_pos=1&_sid=4b91a5cc3&_ss=r">
+    físico y otra opción de PDF aquí</a>) de Alex T. es un juego de rol especialmente
     diseñado para el juego en solitario en el que somos un personaje que acaba
     de descubrir que lo sobrenatural existe y quiere formar parte de ese
     mundo.</p> 
