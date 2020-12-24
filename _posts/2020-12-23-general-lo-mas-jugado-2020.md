@@ -564,9 +564,9 @@ comento en cada caso cómo va la cosa.
          href="https://www.drivethrurpg.com/product/140450/Slumbering-Ursine-Dunes?affiliate_id=1914894">Slumbering
     Ursine Dunes</a>, <a
     href="https://www.drivethrurpg.com/product/151165/FeverDreaming-Marlinko?affiliate_id=1914894">Fever-Dreaming
-    Markinko</a>, <a
+    Marlinko</a>, <a
     href="https://www.drivethrurpg.com/product/183439/Misty-Isles-of-the-Eld?affiliate_id=1914894">Misty
-    Isled of the Eld</a> y <a href="https://www.drivethrurpg.com/product/257155/What-Ho-Frog-Demons?affiliate_id=1914894">What
+    Isles of the Eld</a> y <a href="https://www.drivethrurpg.com/product/257155/What-Ho-Frog-Demons?affiliate_id=1914894">What
     Ho, Frog Demons</a>) van a salir en
          un futuro en un único volumen en una edición deluxe.</p>
          <p>Sobre la campaña de <a
