@@ -727,7 +727,7 @@ comento en cada caso cómo va la cosa.
     descubrimiento o evento allí. Vas pasando por las diferentes habitaciones
     tratando de cumplir tu misión y van pasando cosas.</p>
          <img src="https://live.staticflickr.com/65535/50752636431_f5cebdff7b_b.jpg">
-         <p><small>Seekers Beyond The Shroud, foto de </small></p>
+         <p><small>Seekers Beyond The Shroud</small></p>
          <p><strong>¿Qué tal le ha ido este año?</strong> Es el primer juego
          de rol en solitario al que me metí en Kickstarter y me llegó el año
          pasado sobre estas fechas, en plan regalo de fin de año. Desde
