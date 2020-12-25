@@ -50,7 +50,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}
+       {% if post.url == "/2020/12/23/general-lo-mas-jugado-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -59,6 +59,14 @@
     <div class="image-container">
        {% for post in site.posts %}
        {% if post.url == "/2019/07/23/analisis-orchard/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -104,14 +112,6 @@
       {% endif %}
       {% endfor %}
     </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
 <span id="dummy"></span>
   </div>
   <div class="mt10">
@@ -136,43 +136,53 @@
       or tag[0] == "Merv: The Heart of the Silk Road"
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Undaunted: Normandy"
-      or tag[0] == "Ironsworn: Delve"
       or tag[0] == "Etherfields"
-      or tag[0] == "Fábulas de Peluche"
-      or tag[0] == "Kickstarter"
-      or tag[0] == "One Deck Dungeon"
-      or tag[0] == "UNE"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
+      or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "Kickstarter"
+      or tag[0] == "UNE"
+      or tag[0] == "Fábulas de Peluche"
+      or tag[0] == "Forbidden Lands"
       or tag[0] == "High Frontier 4 All"
+      or tag[0] == "Lock 'n Load Publishing"
       or tag[0] == "Nemesis"
-      or tag[0] == "OSR"
+      or tag[0] == "One Deck Dungeon"
+      or tag[0] == "One Page Dungeon"
+      or tag[0] == "Pathfinder Adventure Card Game Mummy's Mask"
       or tag[0] == "Print & play"
       or tag[0] == "Res Arcana"
-      or tag[0] == "Ruins of the Undercity"
+      or tag[0] == "Rol"
+      or tag[0] == "The City of Kings"
+      or tag[0] == "Tops"
       or tag[0] == "Undaunted: North Africa"
       or tag[0] == "A Rasp of Sand"
       or tag[0] == "Arquitectos del Reino del Oeste"
+      or tag[0] == "Charles S. Roberts Awards"
       or tag[0] == "Colonos del Imperio: Imperios del Norte"
+      or tag[0] == "Dados y Colonos"
+      or tag[0] == "Disciples of Bone and Shadow"
+      or tag[0] == "Ennie"
       or tag[0] == "Essen Spiel"
       or tag[0] == "Expansiópolis"
       or tag[0] == "Hallertau"
       or tag[0] == "Iron Helm"
       or tag[0] == "Kingdom Rush: Rift In Time"
       or tag[0] == "Labyrinth Lord"
-      or tag[0] == "Legends Untold"
-      or tag[0] == "Lock 'n Load Publishing"
-      or tag[0] == "Mad Monks of Kwantoom"
       or tag[0] == "Marvel Champions: The Card Game"
       or tag[0] == "Mörk Borg"
-      or tag[0] == "One Page Dungeon"
-      or tag[0] == "Paladines del Reino del Oeste"
-      or tag[0] == "Pathfinder Adventure Card Game Mummy's Mask"
+      or tag[0] == "Old-School Essentials"
+      or tag[0] == "OSR"
       or tag[0] == "Praga Caput Regni"
       or tag[0] == "Reinos de Papel"
       or tag[0] == "Roll Player"
-      or tag[0] == "Scarlet Heroes"
+      or tag[0] == "Root: The Clockwork"
+      or tag[0] == "Root"
+      or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Solitaire Print & Play Design Contest"
-      or tag[0] == "Tank Duel: Enemy in the Crosshairs" %}
+      or tag[0] == "Tainted Grail: La caída de Ávalon"
+      or tag[0] == "Tank Duel: Enemy in the Crosshairs"
+      or tag[0] == "The Wretched"
+      or tag[0] == "World at War 85: Storming the Gap" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
