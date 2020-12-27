@@ -364,7 +364,7 @@ en el podio de este año?
     juego no tenemos turnos iguales en los que primero va un bando y después
     otro, sino que quien gana la iniciativa juega el <i>turno activo</i>
     mientras que el otro bando solo puede reaccionar; las acciones disponibles
-    dependen de si hemos ganado esa ronde de iniciativa o no.</p>
+    dependen de si hemos ganado esa ronda de iniciativa o no.</p>
          <img src="https://cf.geekdo-images.com/zOvKMgFSXuEd_wfJLWfktw__imagepage/img/e9UeU0M3r5EQ_RTsbk6xKWdHVz4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5364666.jpg">
          <p><small>The Last Hundred Yards, foto de @paramoreta</small></p>
          <p><strong>¿Por qué entra este juego a mi top?</strong> Si habéis
