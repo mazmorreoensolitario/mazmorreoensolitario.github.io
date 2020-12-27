@@ -29,8 +29,11 @@ he comprado algunas cosas en tiendas, poco, pero han sido cosas selectas y en
 genera cosas que sabía que me iban a gustar, iba a tiro fijo, destaco:
 [Gloomhaven: Jaws of the
 Lion]({{site.baseurl}}/etiqueta/gloomhaven-jaws-of-the-lion/), Tiny Towns
-([primeras impresiones aquí]()) y packs de aventuras para Pathfinder
-Adventure Card Game: Mummy's Mask ([análisis aquí]()). Lo más importante es que este año he jugado
+([primeras impresiones
+aquí]({{site.baseurl}}/2020/11/28/primeras-impresiones-tiny-towns/)) y packs de
+aventuras para Pathfinder Adventure Card Game: Mummy's Mask ([análisis
+aquí]({{site.baseurl}}/2020/04/26/analisis-pathfinder-adventure-card-game-mummys-mask/)). Lo
+más importante es que este año he jugado 
 a muchos títulos de mi colección y me he dejado llevar poco por "el ansia de
 las novedades". Así que, una victoria para mi.
 
@@ -496,14 +499,15 @@ En primera posición, mi juego más deseado de este año es...
          <p><strong>¿Por qué entra este juego a mi top?</strong> Este es el
      segundo juego que según vi y leí el manual supe que podría casar bien
     conmigo (bueno, no porque en primera instancia me pareció que el tablero
-    era un poco seco). Entra a mi top porque me recuerda bastante a The
-    Colonists, uno de mis juegos favoritos, en el sentido de que tiene reglas
-    sencillas pero que la complejidad del juego viene porque tenemos que pensar
-    qué acción es mejor tomar en cada momento, qué va a implicar esa acción en
-    el estado del mapa en futuras rondas y en general qué puedo hacer y como
-    para que se ejecute todo como quiero. Es un juego sin información oculta y
-    en el que puedes planificar a largo plazo. A mí me encantan ese tipo de
-    juegos.</p>
+    era un poco seco). Entra a mi top porque me recuerda bastante a <a
+    href="{{site.baseurl}}/2020/12/02/listas-5-juegos-de-construir-cosas/">The
+    Colonists</a>, uno de mis juegos favoritos, en el sentido de que tiene
+    reglas sencillas pero que la complejidad del juego viene porque tenemos que
+    pensar qué acción es mejor tomar en cada momento, qué va a implicar esa
+    acción en el estado del mapa en futuras rondas y en general qué puedo hacer
+    y cómo para que se ejecute todo como quiero. Es un juego sin información
+    oculta y en el que puedes planificar a largo plazo. A mí me encantan ese
+    tipo de juegos.</p>
          <p><strong>¿Qué me llama la atención de este juego?</strong> Este me
     llamó mucho la atención porque me parece que tenía cierto aire a <a
     href="https://boardgamegeek.com/boardgame/875/roads-boats">Roads &
