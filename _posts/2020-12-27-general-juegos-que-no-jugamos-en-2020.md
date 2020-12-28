@@ -512,7 +512,7 @@ En primera posición, mi juego más deseado de este año es...
     llamó mucho la atención porque me parece que tenía cierto aire a <a
     href="https://boardgamegeek.com/boardgame/875/roads-boats">Roads &
     Boats</a>, solo que en un principio era mucho más barato y los componentes
-    eran más acutales. En ambos juegos tenemos un mapa hexagonal en el que vamos
+    eran más actuales. En ambos juegos tenemos un mapa hexagonal en el que vamos
     construyendo cosas y que poco a poco vamos desarrollando nuestra ciudad
     para que se convierta en un lugar más civilizado y con más
     infraestructuras. No tengo Roads & Boats, pero si puedo tener un juego
