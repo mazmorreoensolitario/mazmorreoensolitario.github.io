@@ -708,8 +708,8 @@ comento en cada caso cómo va la cosa.
          <p><strong><a
     href="https://www.drivethrurpg.com/product/298721/Seekers-Beyond-The-Shroud?affiliate_id=1914894">Seekers
     Beyond The Shroud</a></strong> (<a
-    href="https://www.exaltedfuneral.com/products/seekers-beyond-the-shroud?_pos=1&_sid=4b91a5cc3&_ss=r">
-    físico y otra opción de PDF aquí</a>) de Alex T. es un juego de rol especialmente
+    href="https://www.exaltedfuneral.com/products/seekers-beyond-the-shroud?_pos=1&_sid=4b91a5cc3&_ss=r">físico
+    y otra opción de PDF aquí</a>) de Alex T. es un juego de rol especialmente 
     diseñado para el juego en solitario en el que somos un personaje que acaba
     de descubrir que lo sobrenatural existe y quiere formar parte de ese
     mundo.</p> 
@@ -721,7 +721,7 @@ comento en cada caso cómo va la cosa.
          "resolverlos" ya entras en el Omphalos y puedes hacer compras,
          rituales, alquimia o mirar a ver si hay misiones disponibles; y así
     día tras día tras día. Cuando tienes una misión generas el mapa de forma
-    aleatoria en base al sitio donde se localiza la misión (un casa, un sitio
+    aleatoria en base al sitio donde se localiza la misión (una casa, un sitio
     abandonado, un museo, una secta....), cada mapa tiene diferentes "tipos de
     habitaciones" asociadas a una probabilidad de que tengas un enemigo,
     descubrimiento o evento allí. Vas pasando por las diferentes habitaciones
@@ -788,9 +788,10 @@ año. Ha habido muchos otros juegos este año, con los que también me lo he
 pasado genial, pero vamos a dejarlo en este top 5 de juegos de mesa y top 5 de
 juegos de rol para ir cerrando esta entrada.
 
-Dentro de poco os hablaré de cuáles son las novedades de juegos de mesa de 2020
-que me he quedado con ganas de probar y os contaré cuáles son mis planes para
-el rol en solitario de 2021.
+Dentro de poco os hablaré de cuáles son las [novedades de juegos de mesa de 2020
+que me he quedado con ganas de
+probar]({{site.baseurl}}/2020/12/27/general-juegos-que-no-jugamos-en-2020/) y
+os contaré cuáles son mis planes para el rol en solitario de 2021.
 
 ¡Hasta entonces!
 
