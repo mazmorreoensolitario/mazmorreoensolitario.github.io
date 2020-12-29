@@ -31,7 +31,7 @@ el de nuestro rival virtual."
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2014</td></tr>
             <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left"><a href="https://amzn.to/2VG5aTO">39.95€</a></td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-4</td></tr>
-            <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">~50 mins</td></tr>
+            <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">~30 mins</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Español</td></tr>
          </table>
         </div>
