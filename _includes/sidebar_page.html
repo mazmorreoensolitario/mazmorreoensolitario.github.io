@@ -46,6 +46,14 @@
     <div id="most-read"></div>
     <div class="image-container">
        {% for post in site.posts %}
+       {% if post.url == "/2020/12/27/general-juegos-que-no-jugamos-en-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
        {% if post.url == "/2020/12/23/general-lo-mas-jugado-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -62,7 +70,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
+       {% if post.url == "/2019/07/23/analisis-orchard/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -70,7 +78,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/07/23/analisis-orchard/" %}
+       {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -94,7 +102,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
+       {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -102,7 +110,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
+       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -116,33 +124,26 @@
       {% endif %}
       {% endfor %}
     </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2020/12/02/listas-5-juegos-de-construir-cosas/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
 <span id="dummy"></span>
   </div>
   <div class="mt10">
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
       {% for tag in site.tags %}
-      {% if tag[0] == "Ironsworn"
-      or tag[0] == "Etherfields"
-      or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "Gloomhaven: Jaws of the Lion"
-      or tag[0] == "Ironsworn: Delve"
+      {% if tag[0] == "Etherfields"
+      or tag[0] == "Ironsworn"
       or tag[0] == "Tiny Towns"
+      or tag[0] == "Gloomhaven: Jaws of the Lion"
+      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Tops"
-      or tag[0] == "Barrage"
-      or tag[0] == "Fábulas de Peluche"
-      or tag[0] == "Forbidden Lands"
       or tag[0] == "Fossilis"
-      or tag[0] == "Kickstarter"
-      or tag[0] == "One Deck Dungeon"
+      or tag[0] == "Barrage"
+      or tag[0] == "Forbidden Lands"
+      or tag[0] == "Iron Helm"
+      or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Mothership"
+      or tag[0] == "One Page Dungeon"
       or tag[0] == "Rol"
       or tag[0] == "Scarlet Heroes"
       or tag[0] == "The City of Kings"
@@ -156,29 +157,27 @@
       or tag[0] == "Dados y Colonos"
       or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "Ennie"
+      or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Faiyum"
       or tag[0] == "GATE"
       or tag[0] == "GMT Games"
       or tag[0] == "Hallertau"
-      or tag[0] == "High Frontier 4 All"
-      or tag[0] == "Iron Helm"
       or tag[0] == "Kingdom Rush: Rift In Time"
-      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Lock 'n Load Publishing"
+      or tag[0] == "Mausritter"
       or tag[0] == "Merv: The Heart of the Silk Road"
-      or tag[0] == "Mothership"
       or tag[0] == "Old-School Essentials"
-      or tag[0] == "One Page Dungeon"
       or tag[0] == "Pathfinder Adventure Card Game Mummy's Mask"
       or tag[0] == "Praga Caput Regni"
+      or tag[0] == "Print & play"
       or tag[0] == "Root: The Clockwork"
       or tag[0] == "Root"
       or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Spirit Island: Jagged Earth"
       or tag[0] == "Spirit Island"
+      or tag[0] == "Stalingrad 42"
       or tag[0] == "Stellar Horizons"
       or tag[0] == "Tainted Grail: La caída de Ávalon"
-      or tag[0] == "Tank Duel: Enemy in the Crosshairs"
       or tag[0] == "The Last Hundred Yards: Airborne Over Europe"
       or tag[0] == "The Last Hundred Yards"
       or tag[0] == "The Wretched"
