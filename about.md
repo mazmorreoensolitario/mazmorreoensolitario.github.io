@@ -76,7 +76,7 @@ del tema [cards](https://github.com/sharu725/cards).
 
 * En algunas entradas podrás encontrar enlaces del [Programa de Afiliados de
   Amazon](https://afiliados.amazon.es/help/operating/schedule). Si compras
-  algún juego siguiendo estos enlaces Amazon nos dará hasta un 7% de comisión
+  algún juego siguiendo estos enlaces Amazon nos dará hasta un 5% de comisión
   por "hacerles publi" (el juego a ti no te cuesta más dinero).
   
   El dinero recaudado por este método se reinvierte para traer más
