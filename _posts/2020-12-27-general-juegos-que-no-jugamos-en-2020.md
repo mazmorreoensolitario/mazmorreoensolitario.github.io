@@ -23,7 +23,9 @@ de mesa en solitario que han salido en este 2020 y me he quedado sin probar**.
 
 Este año me ha costado bastante hacer esta lista, porque la verdad, me han
 llegado juegos muy buenos este año de Kickstarter en los que me metí en 2019,
-de los que destaco: Root y The Clockwork Expansion, High Frontier 4 All y
+de los que destaco: [Root y The Clockwork
+Expansion]({{site.baseurl}}/2020/09/07/root-en-solitario/), [High Frontier 4
+All]({{site.baseurl}}/2019/11/06/demo-essen-spiel-2019-high-frontier-4-all/) y 
 Dungeon Degenerates (aunque este último necesita que le de más amor); también
 he comprado algunas cosas en tiendas, poco, pero han sido cosas selectas y en
 genera cosas que sabía que me iban a gustar, iba a tiro fijo, destaco:
@@ -230,7 +232,7 @@ interesantes de entonces:
     The Heart of the Silk Road</a></strong> de <strong>Fabio Lopiano</strong> y
     publicado por <strong>Osprey Games</strong> (<strong>Maldito Games</strong>
     traerá este juego a España en 2021), es otro juego tipo euro ambientado en
-    la antigua ciudad de Merv, que formaba parte de la Ruda de la Seda y fue
+    la antigua ciudad de Merv, que formaba parte de la Ruta de la Seda y fue
     destruida por los mongoles en el siglo XIII. En este juego tenemos un
     tablero central con losetas que representan diferentes edificios de la
     ciudad, durante el juego podremos activar estos edificios con nuestros
@@ -331,7 +333,7 @@ interesantes de entonces:
     me lo traeré a casa.</p>
     <p><strong>¿Qué me llama la atención de este juego?</strong> Aparte de que
     este me interesa por historia, como os he comentado arriba, es uno de los
-    COINs con menos ciudades, y en general "zonas" en el mapa, de los que han
+    COINs con menos ciudades, y en general "zonas" en el mapa de los que han
     salido hasta la fecha, por lo que de empezar con un juego del sistema, este
     podría ser un buen candidato al que menos complejo parece en una primera
     instancia.</p>
