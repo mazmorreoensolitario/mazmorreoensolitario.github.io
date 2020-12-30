@@ -14,7 +14,7 @@ rol"
 
 Falta muy poco para que se termine este año que todos vamos a recordar, para
 bien o para mal, así que me parece un buen momento para echar la vista atrás y
-recordar los buenos momentos de jugado en este año.
+recordar los buenos momentos de este año con los juegos que he jugado.
 
 Os voy a comentar cuáles han sido los cinco **juegos de mesa y rol que más he
 jugado en solitario en este año**.
