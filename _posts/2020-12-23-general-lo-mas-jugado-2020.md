@@ -14,7 +14,7 @@ rol"
 
 Falta muy poco para que se termine este año que todos vamos a recordar, para
 bien o para mal, así que me parece un buen momento para echar la vista atrás y
-recordar los buenos momentos de jugado en este año.
+recordar los buenos momentos de este año con los juegos que he jugado.
 
 Os voy a comentar cuáles han sido los cinco **juegos de mesa y rol que más he
 jugado en solitario en este año**.
@@ -95,7 +95,7 @@ año, mientras que otros ya formaban parte de mi colección, vamos a ello:
     Kings</a></strong> es un juego táctico con una serie de "campañas" y
     escenarios sueltos; tenemos que mover a nuestros personajes por un mapa
     compuesto de losetas cuadriculadas que representan diferentes
-    localizaciones (lares de monstruos, tiendas, sitios donde conseguir
+    localizaciones (guaridas de monstruos, tiendas, sitios donde conseguir
     recursos) para, en última instancia, cumplir con el objetivo de la
     misión.</p>
     <p>Es un juego muy determinista, con casi nada de azar, en el que tenemos
@@ -374,7 +374,7 @@ comento en cada caso cómo va la cosa.
      de Shawn Tomkin, creamos un personaje con ambientación nórdica y llegamos
     a las Tierras del Hierro, una gran península medio deshabitada, donde nos
     ha llevado nuestro juramento de hierro. Este juego está especialmente
-    prensado para jugar en solitario y utiliza oráculos propios y movimientos
+    pensado para jugar en solitario y utiliza oráculos propios y movimientos
     tipo Powered by the Apocalypse (PbtA) para que vayamos avanzando en nuestra
     historia y que en algún momento consigamos completar el juramento de
     hierro.</p>
@@ -392,7 +392,7 @@ comento en cada caso cómo va la cosa.
     <p>En mi partida he hecho poco la verdad porque tiene muchas tablas,
     movimientos (hasta ahora no había jugado nunca a un juego PbtA) y partes
     que integrar y a las que acostumbrarse, así que va bastante despacio porque
-    hasta que me aclare de cómo va todo me paso mucho tiempo buscando una cosa
+    hasta que me aclare de cómo va todo, me paso mucho tiempo buscando una cosa
     y después otra. Es más cuadriculado (dentro de lo abstracto) de lo que
     pensaba, porque parece que Shawn ha pensado en todo, y si quieres hacer
     algo, resulta que ya hay una metodología para hacerlo.</p>

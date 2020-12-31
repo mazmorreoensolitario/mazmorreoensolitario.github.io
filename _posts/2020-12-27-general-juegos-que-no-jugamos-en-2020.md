@@ -28,7 +28,7 @@ Expansion]({{site.baseurl}}/2020/09/07/root-en-solitario/), [High Frontier 4
 All]({{site.baseurl}}/2019/11/06/demo-essen-spiel-2019-high-frontier-4-all/) y 
 Dungeon Degenerates (aunque este último necesita que le de más amor); también
 he comprado algunas cosas en tiendas, poco, pero han sido cosas selectas y en
-genera cosas que sabía que me iban a gustar, iba a tiro fijo, destaco:
+general cosas que sabía que me iban a gustar, iba a tiro fijo, destaco:
 [Gloomhaven: Jaws of the
 Lion]({{site.baseurl}}/etiqueta/gloomhaven-jaws-of-the-lion/), Tiny Towns
 ([primeras impresiones
