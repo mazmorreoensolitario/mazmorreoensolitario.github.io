@@ -50,7 +50,7 @@ src="https://www.malditogames.com/wp-content/uploads/2017/09/maldito-horizontal2
    Os dejo con los detalles de cada juego:
    
   <p align="center">
-  <img height="450"
+  <img 
   src="https://cf.geekdo-images.com/P9CNAPok-HgUT941QprNXg__imagepage/img/8dF6Q6UhuLtlAXDHlmnbwxOsCKg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5647422.jpg"></p> 
 
   - **[Trek 12](https://boardgamegeek.com/boardgame/303672/trek-12)** es un juego
@@ -58,7 +58,7 @@ src="https://www.malditogames.com/wp-content/uploads/2017/09/maldito-horizontal2
     números consecutivos para llegar a la cima.
 
   <p align="center">
-  <img height="450"
+  <img 
   src="https://cf.geekdo-images.com/sdkD7EIbv-xZp6ACfNnQCg__imagepage/img/vhFd6zAMteNNu5F1Vasn-c9fgvo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5226157.jpg"></p> 
 
   - **[Gorinto](https://boardgamegeek.com/boardgame/270293/gorinto)** (reglas
@@ -70,7 +70,7 @@ src="https://www.malditogames.com/wp-content/uploads/2017/09/maldito-horizontal2
     ganaremos si hemos conseguido un determinado número de piezas de cada tipo.
 
   <p align="center">
-  <img height="450"
+  <img 
   src="https://cf.geekdo-images.com/FOUU1WkY_4Pghx9eCy_txQ__imagepage/img/oZYY18Cpksjkwl3BJqVOQ4_Q2fg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5478787.png"></p> 
   - En **[Curious Cargo](https://boardgamegeek.com/boardgame/312251/curious-cargo)**
     (reglas
@@ -85,7 +85,7 @@ src="https://www.malditogames.com/wp-content/uploads/2017/09/maldito-horizontal2
     al muelle y coincide con los huecos disponibles del camión.
     
     <p align="center">
-  <img height="450"
+  <img 
   src="https://cf.geekdo-images.com/blRa00UhOl5-CyZfWDrXMw__imagepage/img/-Addjrskt6lyo4A-dT4-BtUbrj4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4944567.png"></p> 
   - **[Cosmic
     Colonies](https://boardgamegeek.com/boardgame/283095/cosmic-colonies)** es
@@ -93,7 +93,7 @@ src="https://www.malditogames.com/wp-content/uploads/2017/09/maldito-horizontal2
     espacial. 
 
   <p align="center">
-  <img height="450"
+  <img 
   src="https://cf.geekdo-images.com/ntAdGg3dBKZLj7D0EwA6dA__imagepage/img/a-GL7DomlqPa4yDJ0Tv5ECILFc0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5438185.jpg"></p> 
   - **[Merv: The Heart of The Silk
     Road](https://boardgamegeek.com/boardgame/306040/merv-heart-silk-road)**
@@ -108,7 +108,7 @@ src="https://www.malditogames.com/wp-content/uploads/2017/09/maldito-horizontal2
     que nuestros edificios sean destruidos.
 
 <p align="center">
-<img height="450"
+<img
 src="https://cf.geekdo-images.com/4EX-XaYzUK21jAl5L3KEUA__imagepage/img/pHCJM9ZULjRhszItuB7pr8c-eY0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5478785.jpg"></p>
 
 * Siguiendo con **Curious Cargo**, el autor del juego, Ryan Courtney, ya nos
@@ -136,7 +136,7 @@ src="https://cf.geekdo-images.com/4EX-XaYzUK21jAl5L3KEUA__imagepage/img/pHCJM9ZU
   contra los novatos.
 
 <p align="center">
-<img height="450"
+<img
 src="https://cf.geekdo-images.com/U8xMKqgssP2TRB4Hoxo5Kg__imagepage/img/Lk72KY68pBANEEIjIzHrPmECOxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4175300.jpg"></p>
 
 * **Kevin Young** de **Inspiring Games**, [nos
@@ -152,7 +152,7 @@ src="https://cf.geekdo-images.com/U8xMKqgssP2TRB4Hoxo5Kg__imagepage/img/Lk72KY68
   Events... 
   
   <p align="center">
-<img height="450"
+<img
 src="https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__imagepage/img/ZF-dta5ffawuKAkAt2LB-QTIv5M=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4254509.jpg"></p>
 * Desde
   [Dicebreaker](https://www.dicebreaker.com/games/root-game/news/root-expansion-warlord-badger-interview)
@@ -176,7 +176,7 @@ src="https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__imagepage/img/ZF-dta5f
   Subterráneos).
   
 <p align="center">
-<img height="450"
+<img
 src="https://cf.geekdo-images.com/gTxav_KKQK1rDg-XuCjCSA__imagepage/img/HFw75zB54wXu7tQFO5szmra6a3s=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5164812.jpg"></p>
 
 * En la entrevista que hablamos en el punto anterior, Cole Wehrle nos adelanta
@@ -235,7 +235,6 @@ src="https://cf.geekdo-images.com/1Zfr47YI_t8fZk4kMJ8O_A__imagepage/img/LMotPcxE
   <p align="center">
 <img height="450"
 src="https://images.squarespace-cdn.com/content/5c5c90567fdcb882c784f505/1549839022957-AVV99D7LLAO83DECGE89/GarphillRobinLogo2.png?content-type=image%2Fpng"></p>
-
   
 * **Shem Phillips** de **Garphill Games** tiene
   [muchos](https://www.kickstarter.com/projects/shem/viscounts-of-the-west-kingdom-tomesaga/posts/3061587)
@@ -247,7 +246,7 @@ src="https://images.squarespace-cdn.com/content/5c5c90567fdcb882c784f505/1549839
   del Reino del Oeste) y los otros juegos de su editorial. Ahora os cuento:
   
   <p align="center">
-  <img height="450"
+  <img
   src="https://cf.geekdo-images.com/pRx0Reinmt-aO3X8XrdRsA__imagepage/img/ggWeL5gPWBuURPrGk_8lB6tZwvc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5618323.png"></p>
   - Nueva **expansión para Paladines: [City of
     Crowns](https://boardgamegeek.com/boardgameexpansion/317980/paladins-west-kingdom-city-crowns)**
@@ -260,7 +259,7 @@ src="https://images.squarespace-cdn.com/content/5c5c90567fdcb882c784f505/1549839
     expansión City of Crows.
     
   <p align="center">
-  <img height="450"
+  <img
   src="https://cf.geekdo-images.com/Hi0a4HxXraufE2OYYPlw2Q__imagepage/img/_a8zJlr94b9Zp5h-j3g5_NLpOPw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5865399.png"></p>
   - Nueva **expansión para Arquitectos: [Works of
     Wonder](https://boardgamegeek.com/boardgameexpansion/327245/architects-west-kingdom-works-wonder)**.
@@ -271,7 +270,7 @@ src="https://images.squarespace-cdn.com/content/5c5c90567fdcb882c784f505/1549839
     el Kickstarter de la expansión Works of Wonder.
     
    <p align="center">
-  <img height="450"
+  <img
   src="https://cf.geekdo-images.com/nycyjg7HQKL0fbpzbSKyfg__imagepage/img/Q6nsjXO85q2ZBA_OxLHW9_j2ozk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4462548.png"></p>
   - Y nos dejan con pocos detalles, pero también se espera una **expansión para
     [Circadians: Primera
@@ -282,7 +281,7 @@ src="https://images.squarespace-cdn.com/content/5c5c90567fdcb882c784f505/1549839
     campaña de estilo legacy** que está desarrollando junto con Paul Tobin.
     
     <p align="center">
-  <img height="450"
+  <img
   src="https://cf.geekdo-images.com/aPC7QX7fsnGxWR-e9tr2Gg__imagepage/img/M9sg4VKvqINY8OORfgO-Fk2qt6A=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5880022.png"></p>
 
    * Finalmente, **Board & Dice** nos muestra la portada del futuro
@@ -396,11 +395,6 @@ src="https://cf.geekdo-images.com/a1VAoOLgTB7QUpFLAm3B0Q__imagepage/img/NbAVOG0J
   ella.
   
   Campaña de Kickstarter **el 21 de enero**.
-
-
-<p align="center">
-<img height="450"
-src=""></p>
 
 ### Juegos de rol
 
