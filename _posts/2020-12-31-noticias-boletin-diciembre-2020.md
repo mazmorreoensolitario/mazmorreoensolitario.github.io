@@ -232,6 +232,11 @@ src="https://cf.geekdo-images.com/1Zfr47YI_t8fZk4kMJ8O_A__imagepage/img/LMotPcxE
   controlamos a un aventurero que busca conseguir el último botín en la
   mazmorra para poder jubilarse tranquilamente.
   
+  <p align="center">
+<img height="450"
+src="https://images.squarespace-cdn.com/content/5c5c90567fdcb882c784f505/1549839022957-AVV99D7LLAO83DECGE89/GarphillRobinLogo2.png?content-type=image%2Fpng"></p>
+
+  
 * **Shem Phillips** de **Garphill Games** tiene
   [muchos](https://www.kickstarter.com/projects/shem/viscounts-of-the-west-kingdom-tomesaga/posts/3061587)
   [planes](https://twitter.com/garphillgames/status/1340502964344037377?s=09)
