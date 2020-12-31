@@ -328,7 +328,7 @@ src="https://cf.geekdo-images.com/-A_ABjMw4PdoAZrH-FjiiA__imagepage/img/xdIKXfp3
   de contribuir al desarrollo del conocimiento humano (medido en puntos de
   victoria).
   
-  Campaña de Kickstarter **el 5 de enero**. **TGG Factory** [nos
+  Campaña de Kickstarter **el 5 de enero**. **TCG Factory** [nos
   confirma](https://twitter.com/Tcgfactory/status/1341081001452310533?s=09) que
   traerá este juego en español.
 
