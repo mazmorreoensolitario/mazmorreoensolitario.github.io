@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: diciembre 2020"
 date: 2020-12-31
 categories: [Noticias]
-tags: ["Boletín Informativo Solitario", Carnegie, "Darwin's Journey", "Circadians: Primera Luz", Legends Untold, "Legends Untold: Illumination of Deepsorrow", "Oath: Chronicles of Empire and Exile", Iron Helm, Root, "Root: The Clockwork 2", "Root: The Clockwork", "Disciples of Bone and Shadow: Conquered Sun Edition", Disciples of Bone and Shadow, Concordia, Concordia Venus, Concordia Solitaria, "Ironsworn: Starforged", Ironsworn, Starforged, Seekers Beyond The Shroud, Mapping the Catacombs, Trek 12, Gorinto, Curious Cargo, Cosmic Colonies, "Merv: The Heart of the Silk Road"]
+tags: ["Boletín Informativo Solitario", "Tabannusi: Builders of Ur", Carnegie, "Darwin's Journey", "Circadians: Primera Luz", Legends Untold, "Legends Untold: Illumination of Deepsorrow", "Oath: Chronicles of Empire and Exile", Iron Helm, Root, "Root: The Clockwork 2", "Root: The Clockwork", "Disciples of Bone and Shadow: Conquered Sun Edition", Disciples of Bone and Shadow, Concordia, Concordia Venus, Concordia Solitaria, "Ironsworn: Starforged", Ironsworn, Starforged, Seekers Beyond The Shroud, Mapping the Catacombs, Trek 12, Gorinto, Curious Cargo, Cosmic Colonies, "Merv: The Heart of the Silk Road"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20201230-bis/boletin-informativo.png
 post_desc: "Boletín Informativo Solitario de diciembre, donde tendréis un
 resumen de las noticias del mundillo y lo que ha acontecido durante este mes"
@@ -280,6 +280,19 @@ src="https://images.squarespace-cdn.com/content/5c5c90567fdcb882c784f505/1549839
     
   - También con pocos detalles: **un juego exclusivo en solitario con una
     campaña de estilo legacy** que está desarrollando junto con Paul Tobin.
+    
+    <p align="center">
+  <img height="450"
+  src="https://cf.geekdo-images.com/aPC7QX7fsnGxWR-e9tr2Gg__imagepage/img/M9sg4VKvqINY8OORfgO-Fk2qt6A=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5880022.png"></p>
+
+   * Finalmente, **Board & Dice** nos muestra la portada del futuro
+     [Tabannusi: Builders of
+      Ur](https://boardgamegeek.com/boardgame/316786/tabannusi-builders-ur). 
+      
+      Tabannusi es un juego de estrategia de 1 a 4 jugadores diseñado por
+      Daniele Tascini y David Spada con un modo en solitario hecho por
+      Tascini. De momento no tenemos más información, solo que saldrá
+      aproximadamente en 2022. 
 
 #### Lo que el futuro nos depara en el crowdfunding de juegos de mesa 
 
