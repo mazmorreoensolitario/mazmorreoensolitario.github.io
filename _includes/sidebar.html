@@ -42,14 +42,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/12/23/general-lo-mas-jugado-2020/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2020/05/16/rol-en-solitario-como-empiezo/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -59,6 +51,14 @@
     <div class="image-container">
        {% for post in site.posts %}
        {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2020/12/23/general-lo-mas-jugado-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -82,6 +82,14 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
+       {% if post.url == "/2020/12/31/noticias-boletin-diciembre-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
        {% if post.url == "/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -91,14 +99,6 @@
     <div class="image-container">
        {% for post in site.posts %}
        {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2020/04/30/noticias-golden-geek-awards-2019/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -131,49 +131,56 @@
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
       {% for tag in site.tags %}
-      {% if tag[0] == "Etherfields"
-      or tag[0] == "Seekers Beyond The Shroud"
+      {% if tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Undaunted: Normandy"
-      or tag[0] == "Gloomhaven: Jaws of the Lion"
-      or tag[0] == "Tiny Towns"
       or tag[0] == "Fábulas de Peluche"
+      or tag[0] == "Gloomhaven: Jaws of the Lion"
       or tag[0] == "Ironsworn"
-      or tag[0] == "Fossilis"
+      or tag[0] == "Merv: The Heart of the Silk Road"
       or tag[0] == "Print & play"
       or tag[0] == "9 Card Game Print & Play Design Contest"
-      or tag[0] == "Arkham Horror"
-      or tag[0] == "Barrage"
+      or tag[0] == "Circadians: Primera Luz"
       or tag[0] == "Colonos del Imperio: Imperios del Norte"
       or tag[0] == "Curious Cargo"
-      or tag[0] == "Hallertau"
+      or tag[0] == "Faiyum"
       or tag[0] == "Iron Helm"
       or tag[0] == "Ironsworn: Delve"
-      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Mothership"
+      or tag[0] == "Oath: Chronicles of Empire and Exile"
       or tag[0] == "One Page Dungeon"
-      or tag[0] == "Scarlet Heroes"
-      or tag[0] == "The Last Hundred Yards: Airborne Over Europe"
-      or tag[0] == "Tops"
-      or tag[0] == "Bios: Origins 2"
-      or tag[0] == "Circadians: Primera Luz"
-      or tag[0] == "CloudAge"
-      or tag[0] == "Compass Games"
-      or tag[0] == "Faiyum"
-      or tag[0] == "GATE"
-      or tag[0] == "GMT Games"
-      or tag[0] == "Kingdom Rush: Rift In Time"
-      or tag[0] == "Mausritter"
-      or tag[0] == "Merv: The Heart of the Silk Road"
-      or tag[0] == "Praga Caput Regni"
+      or tag[0] == "Root: The Clockwork 2"
       or tag[0] == "Root"
-      or tag[0] == "Spirit Island: Jagged Earth"
-      or tag[0] == "Spirit Island"
+      or tag[0] == "Tiny Towns"
+      or tag[0] == "Arkham Horror"
+      or tag[0] == "Arquitectos del Reino del Oeste"
+      or tag[0] == "Carnegie"
+      or tag[0] == "Concordia Solitaria"
+      or tag[0] == "Concordia Venus"
+      or tag[0] == "Concordia"
+      or tag[0] == "Cosmic Colonies"
+      or tag[0] == "Darwin's Journey"
+      or tag[0] == "DELVE"
+      or tag[0] == "Etherfields"
+      or tag[0] == "Farmers Finances"
+      or tag[0] == "Fossilis"
+      or tag[0] == "Gloomhaven"
+      or tag[0] == "Gorinto"
+      or tag[0] == "Hallertau"
+      or tag[0] == "Ironsworn: Starforged"
+      or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Legends Untold: Illumination of Deepsorrow"
+      or tag[0] == "Legends Untold"
+      or tag[0] == "Mapping the Catacombs"
+      or tag[0] == "Mausritter"
+      or tag[0] == "Root: The Clockwork"
       or tag[0] == "Stalingrad 42"
-      or tag[0] == "Stellar Horizons"
-      or tag[0] == "The Last Hundred Yards"
+      or tag[0] == "Starforged"
+      or tag[0] == " Tabannusi: Builders of Ur"
+      or tag[0] == "The Colonists"
+      or tag[0] == "The Last Hundred Yards: Airborne Over Europe"
       or tag[0] == "The Wretched"
-      or tag[0] == "Undaunted: North Africa"
-      or tag[0] == "Undaunted: Reinforcemens" %}
+      or tag[0] == "Tops"
+      or tag[0] == "Trek 12" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
