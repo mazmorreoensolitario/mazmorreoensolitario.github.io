@@ -13,7 +13,7 @@ específico, esta vez tocan juegos 'de batallitas o guerras'"
 
 Siguiendo con la serie de entradas sobre juegos de alguna temática específica
 que me pedía un buen amigo que le recomendara (anteriormente:
-[juegos en soltitario de "construir cosas"]({{site.baseurl}}/2020/12/02/listas-5-juegos-de-construir-cosas/))
+**[juegos en solitario de "construir cosas"]({{site.baseurl}}/2020/12/02/listas-5-juegos-de-construir-cosas/)**)
 esta vez quería juegos de "batallitas o guerras", tampoco hablamos de
 mecánicas, solamente de la **temática de conflicto**.
 

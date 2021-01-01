@@ -35,8 +35,9 @@ en Board Game Geek; los juegos 4X a lo mejor también podrían considerarse de
 suele ser más alto.
 
 La siguiente entrada de esta serie es:
-    * [5 Juegos en solitario de 'batallitas o
-      guerras']({{site.baseurl}}/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/).
+    
+* **[5 Juegos en solitario de 'batallitas o
+      guerras']({{site.baseurl}}/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/)**
 
 Aquí tenéis mi selección:
 

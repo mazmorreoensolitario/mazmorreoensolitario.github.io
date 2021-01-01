@@ -35,7 +35,9 @@ pánico."
         href="https://www.drivethrurpg.com/product/245017/Mothership-Players-Survival-Guide?affiliate_id=1914894">Paga
         lo que quieras</a> (PVP: 7$)</td></tr>
             <tr><td class="text-left"><strong>Número de páginas:</strong></td><td class="text-left">44</td></tr>
-            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td
+    class="text-left">Inglés</td></tr>
+    <tr><td class="text-left"><strong>Facilidad para jugar en solitario:</strong></td><td class="text-left">2/5</td></tr>
          </table>
         </div>
         <div class="col-md-12"></div>
@@ -50,7 +52,9 @@ pánico."
                 href="http://www.tuesdayknightgames.com/mothership" target="_blank">Tuesday
                 Knight Games</a>.</li>
                 <li>Ganador de un Ennie de oro en la categoría de <i>Mejor
-                juego></i> en los premios Ennie de 2019.</li>
+                juego</i> en los <a
+    href="{{site.baseurl}}/2019/08/03/noticias-ennie-awards/">premios Ennie de
+    2019</a>.</li>
              </ul>
          </div>
     </div>

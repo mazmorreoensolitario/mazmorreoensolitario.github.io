@@ -36,7 +36,9 @@ localizaciones de un mapa"
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-10</td></tr>
             <tr><td class="text-left"><strong>Número de
     páginas:</strong></td><td class="text-left">32 (A5)</td></tr>
-            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td
+    class="text-left">Inglés</td></tr>
+        <tr><td class="text-left"><strong>Facilidad para jugar en solitario:</strong></td><td class="text-left">5/5</td></tr>
          </table>
         </div>
         <div class="col-md-12"></div>

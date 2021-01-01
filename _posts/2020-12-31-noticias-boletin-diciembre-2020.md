@@ -280,9 +280,9 @@ src="https://images.squarespace-cdn.com/content/5c5c90567fdcb882c784f505/1549839
   - También con pocos detalles: **un juego exclusivo en solitario con una
     campaña de estilo legacy** que está desarrollando junto con Paul Tobin.
     
-    <p align="center">
-  <img
-  src="https://cf.geekdo-images.com/aPC7QX7fsnGxWR-e9tr2Gg__imagepage/img/M9sg4VKvqINY8OORfgO-Fk2qt6A=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5880022.png"></p>
+<p align="center">
+<img
+src="https://cf.geekdo-images.com/aPC7QX7fsnGxWR-e9tr2Gg__imagepage/img/M9sg4VKvqINY8OORfgO-Fk2qt6A=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5880022.png"></p>
 
    * Finalmente, **Board & Dice** nos muestra la portada del futuro
      [Tabannusi: Builders of

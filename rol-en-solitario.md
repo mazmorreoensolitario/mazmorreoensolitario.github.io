@@ -15,6 +15,14 @@ lúdico, por lo que también va a tener un espacio dedicado en el blog.
 
 ### Análisis de juegos de rol
 
+La escala de **facilidad para jugar en solitario** que veréis en la ficha técnica
+de los análisis va del 1 al 5. Siendo **1**: juego
+que me ha sido imposible jugar en solitario; **2**: que requiere muchos recursos
+externos y/o más reglas para tener una estructura de juego; **3**: que requiere
+algunos recursos externos más y/o pocas reglas extra; **4**: es muy fácil jugar
+en solitario, no necesitas nada más que un oráculo; y **5**: es trivial jugar
+en solitario.
+
 * 19 Noviembre, 2020. [Beak, Feather &
   Bone]({{site.baseurl}}/2020/11/19/rol-beak-feather-bone/).
 * 25 Abril, 2019. [Mothership: Player's survival

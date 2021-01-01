@@ -273,17 +273,23 @@ jugarlos)</i></p>
 Aquí tenéis una lista de **primeras impresiones** de juegos, que eventualmente
 tendrán un análisis del mismo:
 
+<div class="col-md-12">
+<div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Primeras impresiones" %}
-<ul>
-{% for post in category[1] %}
-<li>
-    <a href="{{ post.url }}">{{ post.title }}.</a>
-</li>
-{% endfor %}
-</ul>
+    {% for post in category[1] %}
+        <div class="image-container">
+            <a href="{{site.url}}{{post.url}}">
+                <img class="crop-sidebar" src="{{post.imghtml}}">
+                <div class="text-block"><h5>{{post.game}}</h5></div>
+            </a>
+        </div>
+    {% endfor %}
 {% endif %}
 {% endfor %}
+</div>
+</div>
+<div class="col-md-12"><h1></h1></div>
 
 ## Demos
 
@@ -292,17 +298,23 @@ Estas son mis impresiones sobre **demos de juegos**, en muchos casos de
 que no puedo hacer un análisis o primeras impresiones per se, ya que el juego
 aún no está entero o porque no lo he jugado lo suficiente:
 
+<div class="col-md-12">
+<div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Demos" %}
-<ul>
-{% for post in category[1] %}
-<li>
-    <a href="{{ post.url }}">{{ post.title }}.</a>
-</li>
-{% endfor %}
-</ul>
+    {% for post in category[1] %}
+        <div class="image-container">
+            <a href="{{site.url}}{{post.url}}">
+                <img class="crop-sidebar" src="{{post.imghtml}}">
+                <div class="text-block"><h5>{{post.game}}</h5></div>
+            </a>
+        </div>
+    {% endfor %}
 {% endif %}
 {% endfor %}
+</div>
+</div>
+<div class="col-md-12"><h1></h1></div>
 
 ## Ojeando
 
