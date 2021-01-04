@@ -81,3 +81,19 @@ del tema [cards](https://github.com/sharu725/cards).
   
   El dinero recaudado por este método se reinvierte para traer más
   contenido al blog.
+
+* Además también hay enlaces del [Programe de Afiliados de
+  Philibert](https://www.philibertnet.com/fr/#ae447). Al igual que el programa
+  de afiliados anterior, si compras siguiendo esos enlaces nos darán hasta un
+  5% de comisión por "hacerles publi" (la compra a ti no te cuesta más dinero).
+  
+  El dinero recaudado por este método se reinvierte para traer más contenido al
+  blog.
+  
+* Además también hay enlaces del [Programa de Afiliados de
+  DrivethruRPG](https://www.drivethrurpg.com/?affiliate_id=1914894) en los
+  juegos de rol.
+  
+  El dinero recaudado por este método se reinvierte para traer más contenido al
+  blog.
+  
