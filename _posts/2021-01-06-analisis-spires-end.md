@@ -358,6 +358,6 @@ ser para ti.
 para los combates.
 
 <img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
-2.5 de 5 monedas. **Es entretenido pero no me engancha.**
+2.5 de 5 monedas. **Es entretenido, pero no me engancha.**
 
 
