@@ -7,35 +7,16 @@ permalink: /rincon-print-and-play/
 ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/core/pnp-banner.jpg)
 
 El género print 'n' play, **imprime y juega**, necesita un espacio dedicado en 
-nuestro blog. En este rincón analizamos los juegos que hemos imprimido y jugado.
+nuestro blog. Cada vez más autores eligen esta forma de darse a conocer al
+mundo de los juegos de mesa para luego ser fichados por editoriales
+([Mini Rogue]({{site.baseurl}}/2020/05/23/ojeando-mini-rogue/),
+[Maquis]({{site.baseurl}}/2019/03/09/analisis-maquis/),
+[Orchard]({{site.baseurl}}/2019/07/23/analisis-orchard/), [Pocket
+Landship]({{site.baseurl}}/2019/02/09/analisis-pocket-landship/)....) y 
+publicar sus juegos de forma profesional.
 
-{% for category in site.categories %}
-{% if category[0] == "Print & play" %}
-<ul>
-{% for post in category[1] %}
-<li>
-    {% assign m = post.date | date: "%-m" %}
-    {{ post.date | date: "%-d" }}
-    {% case m %}
-    {% when '1' %}Ene,
-    {% when '2' %}Feb,
-    {% when '3' %}Mar,
-    {% when '4' %}Abr,
-    {% when '5' %}May,
-    {% when '6' %}Jun,
-    {% when '7' %}Jul,
-    {% when '8' %}Ago,
-    {% when '9' %}Sep,
-    {% when '10' %}Oct,
-    {% when '11' %}Nov,
-    {% when '12' %}Dic,
-    {% endcase %}
-    {{ post.date | date: "%Y"}}. <a href="{{ post.url }}">{{ post.title }}.</a>
-</li>
-{% endfor %}
-</ul>
-{% endif %}
-{% endfor %}
+En este rincón analizamos los juegos que hemos imprimido y jugado.
+
 
 #### Material para ediciones en print & play
 
@@ -54,3 +35,23 @@ print & play que puedo recomendar:
   - [Cuchillo con tres recambios APLI](https://amzn.to/38V4Gm2)
   - [Regla de acero](https://amzn.to/2UEXDFM)
   - [Base para cortar APLI](https://amzn.to/36JRDRv)
+
+
+#### Índice alfabético de juegos
+
+<div class="col-md-12">
+<div class="col-md-8">
+{% for category in site.categories %}
+{% if category[0] == "Print & play" %}
+{% assign sorted = (category[1] | sort: 'game') %}
+{% for post in sorted  %}
+<div class="image-container">
+<a href="{{site.url}}{{post.url}}">
+<img class="crop-sidebar" src="{{post.imghtml}}">
+<div class="text-block"><h5>{{post.game | truncate: 40}}</h5></div></a>
+</div>
+{% endfor %}
+{% endif %}
+{% endfor %}
+</div>
+</div>

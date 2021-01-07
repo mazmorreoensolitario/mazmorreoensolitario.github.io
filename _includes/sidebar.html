@@ -27,9 +27,6 @@
       <a target="_blank" href="{{site.baseursl}}/feed.xml"><li class="social rss"><i class="fa fa-rss"></i></li></a>
   </div>
   <div class="mt10index">
-    <img src="{{site.baseurl}}/images/fiestas.png">
-  </div>
-  <div class="mt10index">
     <h4>Tiedas afiliadas</h4>
     <a href="https://www.philibertnet.com/en/#ae447-11"><img src="https://lb.affilae.com/imp/5bf52e77e2891d7d00f2e8af/5feb54c8888f143432e298a4/5cd976224b107f49ec5b7af2/https://s3-eu-west-1.amazonaws.com/aeup/uploads/programs/5bf52e77e2891d7d00f2e8af/elements/5cd976224b107f49ec5b7af0.png"/></a>
     <p align="center">
@@ -91,7 +88,15 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/12/23/general-lo-mas-jugado-2020/" %}
+       {% if post.url == "/2021/01/06/analisis-spires-end/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -107,15 +112,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/09/07/root-en-solitario/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
+       {% if post.url == "/2020/12/23/general-lo-mas-jugado-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -140,21 +137,23 @@
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
       {% for tag in site.tags %}
-      {% if tag[0] == "Undaunted: Normandy"
-      or tag[0] == "Print & play"
-      or tag[0] == "El Imperio del Sol"
+      {% if tag[0] == "Print & play"
+      or tag[0] == "Undaunted: Normandy"
       or tag[0] == "Tainted Grail: La caída de Ávalon"
+      or tag[0] == "El Imperio del Sol"
       or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Ironsworn"
+      or tag[0] == "Merv: The Heart of the Silk Road"
       or tag[0] == "Nemesis"
       or tag[0] == "Barrage"
       or tag[0] == "Burgle Bros"
       or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
-      or tag[0] == "Merv: The Heart of the Silk Road"
       or tag[0] == "The Last Hundred Yards: Airborne Over Europe"
       or tag[0] == "Faiyum"
+      or tag[0] == "Iron Helm"
+      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Mörk Borg"
       or tag[0] == "Res Arcana"
       or tag[0] == "Rome & Roll"
@@ -162,6 +161,7 @@
       or tag[0] == "Teotihuacán"
       or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Agropolis"
+      or tag[0] == "Concordia Solitaria"
       or tag[0] == "Dune: Imperium"
       or tag[0] == "Ennie"
       or tag[0] == "Etherfields"
@@ -170,7 +170,6 @@
       or tag[0] == "Four Against Darkness"
       or tag[0] == "Gloomhaven"
       or tag[0] == "Ironsworn: Delve"
-      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Maracaibo"
       or tag[0] == "Paladines del Reino del Oeste"
       or tag[0] == "Pandemic: La caída de Roma"
@@ -179,6 +178,8 @@
       or tag[0] == "Root: Riverfolk"
       or tag[0] == "Root"
       or tag[0] == "Sigils in the Dark"
+      or tag[0] == "Spire's End"
+      or tag[0] == " Tabannusi: Builders of Ur"
       or tag[0] == "Terraforming Mars: Colonias"
       or tag[0] == "Terraforming Mars: Turmoil"
       or tag[0] == "The Adventurer"

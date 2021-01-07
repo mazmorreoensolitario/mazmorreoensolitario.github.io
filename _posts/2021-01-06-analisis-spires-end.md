@@ -109,7 +109,7 @@ otro y a seguir jugando.
 
 En este juego las propias cartas constituyen el manual (de hecho no viene un
 libro de instrucciones), por lo que cuando juegues por primera vez, empezarás a
-leer la Carta 1 y ahí te contarán como preparar todo. Concretamente tienes que
+leer la Carta 1 y ahí te contarán cómo preparar todo. Concretamente tienes que
 elegir dos personajes iniciales y robar los cubitos que representan su salud y
 sus puntos de armadura. Muy rápido.
 

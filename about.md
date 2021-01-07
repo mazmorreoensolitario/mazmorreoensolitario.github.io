@@ -23,7 +23,7 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
   War of 1939-1940](https://amzn.to/3lajpfl)* de Willian R. Trotter,
   *[The Dying Earth](https://amzn.to/2V4HLMN)* de Jack Vance y
   *[The Book of the New Sun](https://amzn.to/2HIcs7A)* de Gene Wolfe.
-* Series que estoy viendo: Star Trek Discovery, The Mandalorian.
+* Series que estoy viendo: The Expanse, Star Trek Discovery, The Mandalorian.
 * Videojuegos que ocasionalmente juego durante estos meses: Deep Sky Derelicts,
   Caves of Qud y Star Wars Battlefront II.
 
@@ -82,7 +82,7 @@ del tema [cards](https://github.com/sharu725/cards).
   El dinero recaudado por este método se reinvierte para traer más
   contenido al blog.
 
-* Además también hay enlaces del [Programe de Afiliados de
+* Además también hay enlaces del [Programa de Afiliados de
   Philibert](https://www.philibertnet.com/fr/#ae447). Al igual que el programa
   de afiliados anterior, si compras siguiendo esos enlaces nos darán hasta un
   5% de comisión por "hacerles publi" (la compra a ti no te cuesta más dinero).
