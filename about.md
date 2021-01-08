@@ -61,14 +61,14 @@ solitario]({{site.baseurl}}/rol-en-solitario/)**.
 </div>
 
 
-**Descargo de responsabilidad**
+<a href="#cookies"><strong>Descargo de responsabilidad</strong></a>
 
 * Este sitio utiliza [Jekyll](https://jekyllrb.com/) y una versión modificada
 del tema [cards](https://github.com/sharu725/cards).
 * Los logos e iconos de esta página ha sido creados con
   [logomakr](https://logomakr.com). 
 
-* **Este sitio utiliza cookies de Google Analytics.**
+* **Este sitio utiliza cookies de Google Analytics, Adsense y KoFi.**
     Al navegar, nos permites
     colocar cookies en tu dispositivo, si no estás de acuerdo con estos términos,
     por favor, [borra tus
