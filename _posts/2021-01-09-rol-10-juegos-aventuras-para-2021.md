@@ -223,7 +223,7 @@ juegos de rol, zines, aventuras, settings... pero todo para probar en 2021.
     Neverland desde <a href="https://amzn.to/3rLk9fn">Amazon</a> a muy buen
     precio, cuesta 20€ y está en encuadernación en tapa dura cosida. También
     tenéis el <a
-    href="https://www.drivethrurpg.com/product/331102/Neverland-A-Fantasy-RolePlaying-Setting">PDF
+    href="https://www.drivethrurpg.com/product/331102/Neverland-A-Fantasy-RolePlaying-Setting?affiliate_id=1914894">PDF
     en DrivethruRPG</a> (25$) pero de verdad, por ese precio merece mucho la
     pena tenerlo en físico (¡sale incluso más barato!). Este libro en tapa dura
     fue mi regalo de Navidades de 2020, gran compra.</p>
@@ -534,7 +534,7 @@ los dejo para que entren en vuestro radar:
     en la sección de "Las dudas", es que cuando me lo leí en agosto olvidé
     hacer un esquema de las reglas, porque aunque no me parecen complicadas,
     hay muchas partes móviles y como que me cuesta recordar dónde iba cada
-    cosa. Vamos que no me acuerdo de casi nada. Cuando me leí el libro no me
+    cosa. Vamos, que no me acuerdo de casi nada. Cuando me leí el libro no me
     pareció un tostón, ni nada del estilo, pero tiene muchas cosas que
     recordar, y se me olvidó hacerme un esquema (bufff). Así que tocará re-leer
     y hacer el esquema. Si no termino jugándolo es porque me ha dado pereza
@@ -581,7 +581,7 @@ los dejo para que entren en vuestro radar:
     momento este módulo con una megadungeon me pareció una buena idea para
     hacer esto porque parecía todo como más dentro de un contexto, más limitado
     en el sentido de que podría ser menos complicado. Después de jugar a
-    un megadungeon con OSE (Barromaze), no sé yo si va a ser una buena idea
+    un megadungeon con OSE (Barrowmaze), no sé yo si va a ser una buena idea
     porque eso no se me dio muy bien en solitario.</p>
     <p>Creo que lo que voy a hacer es esperar hasta que haya jugado a Dancing
         with Bullets Under a Neon Sun (#4 en esta lista) en solitario, y
@@ -613,6 +613,7 @@ los dejo para que entren en vuestro radar:
     por los por sitios dentro del un hexágono, por ejemplo ciudades o
     bosques. Todo ello en una zine de 40 páginas en A5 que sigue teniendo
     espacio para ponernos algunas mazmorras en las que vivir aventuras.</p>
+        <p>No está pensado para jugar en solitario.</p>
          <img  src="https://assets.bigcartel.com/product_images/290243358/5.jpg?auto=format&fit=max&w=650">
     <p><small>Algunas tablas de Rogueland</small></p>
          <p><strong>¿De dónde ha salido esto?</strong> No lo recuerdo muy bien
