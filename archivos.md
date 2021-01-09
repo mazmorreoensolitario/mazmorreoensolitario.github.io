@@ -19,6 +19,12 @@ categorías.
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or
+        tag[0] == "Dancing with Bullets Under a Neon Sun" or
+        tag[0] == "Mothership: Gradient Descent" or
+        tag[0] == "Neverland: A Fantasy Role-Playing Setting" or
+        tag[0] == "Rogueland" or
+        tag[0] == "The Scourge of the Scorn Lords" or
+        tag[0] == "Twilight: 2000" or
         tag[0] == "Ironsworn: Starforged" or
         tag[0] == "Starforged" or
         tag[0] == "Barrowmaze" or 

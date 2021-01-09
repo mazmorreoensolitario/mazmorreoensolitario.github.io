@@ -41,6 +41,8 @@ en solitario.
 
 ### Artículos generales
 
+* 9 de Enero, 2021. [10 juegos de rol en solitario y módulos de aventuras para
+  probar en 2021]({{site.baseurl}}/2021/01/09/rol-10-juegos-aventuras-para-2021/).
 * 23 de Diciembre, 2020. [Los juegos de mesa y rol más jugados de
   2020]({{site.baseurl}}/2020/12/23/general-lo-mas-jugado-2020/).
 * 26 de Julio, 2020. [10 recomendaciones por el Día del Rol Gratis de
