@@ -10,6 +10,7 @@ post_desc: "Aquí os dejo cuáles son mis planes para el rol en solitario de 202
 
 ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210105-10-rol/10-juegos-rol-2021.jpg)
 
+
 El **[año pasado]({{site.baseurl}}/2020/01/09/rol-10-juegos-aventuras-para-2020/)**
 hice una entrada parecida a esta donde os hablaba de mis planes para el rol en
 solitario de 2020 y las aventuras que quería dirigir con mi grupo (no pude
