@@ -47,7 +47,8 @@ juegos ideales que te puedo recomendar sin ninguna duda.</strong></p>
 <div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-    {% for post in category[1] %}
+    {% assign sorted = (category[1] | sort: 'game') %}
+    {% for post in sorted %}
         {% if post.score and post.score == 5 %}
             <div class="image-container">
                 <a href="{{site.url}}{{post.url}}">
@@ -77,7 +78,8 @@ Mayor. También <strong>te los recomiendo sin dudas.</strong></p>
 <div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-    {% for post in category[1] %}
+    {% assign sorted = (category[1] | sort: 'game') %}
+    {% for post in sorted %}
         {% if post.score and post.score == 4.5 %}
             <div class="image-container">
                 <a href="{{site.url}}{{post.url}}">
@@ -101,7 +103,8 @@ partida, pero a lo mejor no en el mismo día. <strong>Recomendados.</strong></p>
 <div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-    {% for post in category[1] %}
+    {% assign sorted = (category[1] | sort: 'game') %}
+    {% for post in sorted %}
         {% if post.score and post.score == 4 %}
             <div class="image-container">
                 <a href="{{site.url}}{{post.url}}">
@@ -128,7 +131,8 @@ atención.</strong></p>
 <div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-    {% for post in category[1] %}
+    {% assign sorted = (category[1] | sort: 'game') %}
+    {% for post in sorted %}
         {% if post.score and post.score == 3.5 %}
             <div class="image-container">
                 <a href="{{site.url}}{{post.url}}">
@@ -152,7 +156,8 @@ puedo decir que me gustan. Son los que menos saco a la mesa, también son
 <div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-    {% for post in category[1] %}
+    {% assign sorted = (category[1] | sort: 'game') %}
+    {% for post in sorted %}
         {% if post.score and post.score == 3 %}
             <div class="image-container">
                 <a href="{{site.url}}{{post.url}}">
@@ -176,7 +181,8 @@ que se cambie algo en el juego, dudo que repita.</p>
 <div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-    {% for post in category[1] %}
+    {% assign sorted = (category[1] | sort: 'game') %}
+    {% for post in sorted %}
         {% if post.score and post.score == 2.5 %}
             <div class="image-container">
                 <a href="{{site.url}}{{post.url}}">
@@ -200,7 +206,8 @@ aburridos.</p>
 <div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-    {% for post in category[1] %}
+    {% assign sorted = (category[1] | sort: 'game') %}
+    {% for post in sorted %}
         {% if post.score and post.score == 2 %}
             <div class="image-container">
                 <a href="{{site.url}}{{post.url}}">
@@ -225,7 +232,8 @@ juegos, no conectan conmigo.</p>
 <div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-    {% for post in category[1] %}
+    {% assign sorted = (category[1] | sort: 'game') %}
+    {% for post in sorted %}
         {% if post.score and post.score == 1.5 %}
             <div class="image-container">
                 <a href="{{site.url}}{{post.url}}">
@@ -253,7 +261,8 @@ jugarlos)</i></p>
 <div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Análisis" %}
-    {% for post in category[1] %}
+    {% assign sorted = (category[1] | sort: 'game') %}
+    {% for post in sorted %}
         {% if post.score and post.score == 1 %}
             <div class="image-container">
                 <a href="{{site.url}}{{post.url}}">
@@ -277,7 +286,8 @@ tendrán un análisis del mismo:
 <div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Primeras impresiones" %}
-    {% for post in category[1] %}
+    {% assign sorted = (category[1] | sort: 'game') %}
+    {% for post in sorted %}
         <div class="image-container">
             <a href="{{site.url}}{{post.url}}">
                 <img class="crop-sidebar" src="{{post.imghtml}}">
@@ -302,7 +312,8 @@ aún no está entero o porque no lo he jugado lo suficiente:
 <div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Demos" %}
-    {% for post in category[1] %}
+    {% assign sorted = (category[1] | sort: 'game') %}
+    {% for post in sorted %}
         <div class="image-container">
             <a href="{{site.url}}{{post.url}}">
                 <img class="crop-sidebar" src="{{post.imghtml}}">
