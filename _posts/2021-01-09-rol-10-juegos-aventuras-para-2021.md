@@ -550,7 +550,7 @@ los dejo para que entren en vuestro radar:
         class="img-thumbnail" alt="Gradient Descent">
     </div>
     <div class="col-md-9">
-         <h4>9. <a href="https://www.tuesdayknightgames.com/">Mothership: Gradient Descent</a></h4>
+         <h4>9. <a href="https://www.drivethrurpg.com/product/332853/Mothership-Gradient-Descent?affiliate_id=1914894">Mothership: Gradient Descent</a></h4>
          <p><strong>Gradient Descent</strong> de <strong> Gearing, Tofani,
     Crader y McCoy</strong>, y publicado por <strong><a
     href="https://www.tuesdayknightgames.com/">Tuesday Night Games</a></strong>
