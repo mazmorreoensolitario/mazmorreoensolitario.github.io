@@ -17,12 +17,13 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
 # Sobre mí
 
 * Libros que estoy leyendo ahora: *[Ardenas 1944](https://amzn.to/3fACxSx)* de
-   Antony Beevor y *[The Unspoken Name](https://amzn.to/2HDA8d8)* de
-   A. K. Larkwood.
+   Antony Beevor y *[Dune](https://amzn.to/38MUviT)* de Frank Herbert.
 * Siguiente/s libro/s en mi lista para leer: *[The Winter War: The Russo-Finish
   War of 1939-1940](https://amzn.to/3lajpfl)* de Willian R. Trotter,
   *[The Dying Earth](https://amzn.to/2V4HLMN)* de Jack Vance y
   *[The Book of the New Sun](https://amzn.to/2HIcs7A)* de Gene Wolfe.
+* Libros que he leído este 2021: *[The Unspoken Name](https://amzn.to/2HDA8d8)*
+   de A. K. Larkwood.
 * Series que estoy viendo: The Expanse, Star Trek Discovery, The Mandalorian.
 * Videojuegos que ocasionalmente juego durante estos meses: Deep Sky Derelicts,
   Caves of Qud y Star Wars Battlefront II.
@@ -75,25 +76,18 @@ del tema [cards](https://github.com/sharu725/cards).
     cookies](https://www.google.es/search?q=como+borrar+cookies). 
 
 * En algunas entradas podrás encontrar enlaces del [Programa de Afiliados de
-  Amazon](https://afiliados.amazon.es/help/operating/schedule). Si compras
-  algún juego siguiendo estos enlaces Amazon nos dará hasta un 5% de comisión
-  por "hacerles publi" (el juego a ti no te cuesta más dinero).
+  Amazon](https://afiliados.amazon.es/help/operating/schedule) y el [Programa
+  de Afiliados de Philibert](https://www.philibertnet.com/fr/#ae447). Si compráis
+  algún juego siguiendo estos enlaces, la tienda en cuestión nos dará hasta un
+  5% de comisión por "hacerles publi" (el juego a ti no te cuesta más dinero).
   
   El dinero recaudado por este método se reinvierte para traer más
   contenido al blog.
-
-* Además también hay enlaces del [Programa de Afiliados de
-  Philibert](https://www.philibertnet.com/fr/#ae447). Al igual que el programa
-  de afiliados anterior, si compras siguiendo esos enlaces nos darán hasta un
-  5% de comisión por "hacerles publi" (la compra a ti no te cuesta más dinero).
   
-  El dinero recaudado por este método se reinvierte para traer más contenido al
-  blog.
+* En los libros de rol hay enlaces del [Programa de Afiliados de
+  DrivethruRPG](https://www.drivethrurpg.com/?affiliate_id=1914894). Si compras
+  un libro de esta forma, DriveThruRPG nos dará un 3% de comisión.
   
-* Además también hay enlaces del [Programa de Afiliados de
-  DrivethruRPG](https://www.drivethrurpg.com/?affiliate_id=1914894) en los
-  juegos de rol.
-  
-  El dinero recaudado por este método se reinvierte para traer más contenido al
-  blog.
+  El dinero recaudado de esta forma se invierte en más libros de rol en
+  solitario.
   
