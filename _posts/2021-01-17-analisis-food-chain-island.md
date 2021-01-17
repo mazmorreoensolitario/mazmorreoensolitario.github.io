@@ -183,7 +183,7 @@ juego queda más vistoso de esta forma.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/50844926082_79d67f1349_c.jpg"></p>
 <p align="center"><small>Una de mis ilustraciones favoritas, la hormiga, que
-tiene una cara de "¿¡porqué me hacéis esto?!" mientras come plantas.</small></p>
+tiene una cara de "¿¡por qué me hacéis esto?!" mientras come plantas.</small></p>
 
 **Apartado gráfico.** Las cartas tienen unos dibujos muy majos y graciosos,
 puedes ver cómo los animales se van comiendo los unos a los otros y esto da
