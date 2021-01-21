@@ -105,8 +105,8 @@ Patreon](https://www.patreon.com/blackoathgames). Ahora sin embargo, **parte de
 este contenido exclusivo puede adquirirse desde YA en formato zine desde
 la página de Blackoath Entertainmnet** (es decir: Kickstarter no).
 
-El la página de Blackoath Entertainment se han puesto a la venta copias tanto
-en físico como en PDF.
+El la **[página de Blackoath Entertainment](https://blackoathgames.com/store)**
+se han puesto a la venta copias tanto en físico como en PDF.
 
 Estas zines **tienen previsto tener más entregas** en las que el autor irá
 sacando a la venta el contenido que vaya produciendo para su Patreon; así pues,
