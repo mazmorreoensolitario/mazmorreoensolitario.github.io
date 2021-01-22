@@ -19,6 +19,7 @@ categorías.
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or
+        tag[0] == "Nuctemeron" or tag[0] == "Marrow & Splinters" or
         tag[0] == "Dancing with Bullets Under a Neon Sun" or
         tag[0] == "Mothership: Gradient Descent" or
         tag[0] == "Neverland: A Fantasy Role-Playing Setting" or

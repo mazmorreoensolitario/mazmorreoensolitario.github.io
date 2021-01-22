@@ -252,9 +252,9 @@ contexto, luego pasamos a los créditos y ¡comienza el contenido!
 * **Corruption & Taint** (9 caras). Nuevas mecánicas que hacen que la
   corrupción que podríamos sufrir al lanzar un hechizo se convierta en una
   oportunidad ganando *Taints*. Los *Taints* pueden ser cosméticos o algún tipo
-  de poder, de la misma tus pupilas se vuelven doradas y ya esta (taint
+  de poder, de la misma tus pupilas se vuelven doradas y ya está (*taint*
   estético), como tu sangre se puede volver ácida, así que haces un punto de
-  daño a tu enemigo cada vez que este te quita vida (tain de poder).
+  daño a tu enemigo cada vez que este te quita vida (*taint* de poder).
   
   Adicionalmente en esta sección tenemos un nuevo lugar que encontrar en la
   Whiteteeh Peninsula, los *"Well of Taint"*, una especie de pozos que pueden
