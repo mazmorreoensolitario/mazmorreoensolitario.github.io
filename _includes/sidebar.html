@@ -101,14 +101,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/01/17/analisis-food-chain-island/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2019/03/09/analisis-maquis/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -117,7 +109,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/04/30/noticias-golden-geek-awards-2019/" %}
+       {% if post.url == "/2021/01/17/analisis-food-chain-island/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -126,6 +118,14 @@
     <div class="image-container">
        {% for post in site.posts %}
        {% if post.url == "/2020/12/23/general-lo-mas-jugado-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -150,37 +150,39 @@
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
       {% for tag in site.tags %}
-      {% if tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "Fossilis"
+      {% if tag[0] == "Merv: The Heart of the Silk Road"
+      or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Expansiópolis"
       or tag[0] == "Kickstarter"
-      or tag[0] == "Undaunted: North Africa"
-      or tag[0] == "Merv: The Heart of the Silk Road"
-      or tag[0] == "Undaunted: Normandy"
-      or tag[0] == "Ardennes 44"
       or tag[0] == "Fábulas de Peluche"
+      or tag[0] == "Undaunted: North Africa"
+      or tag[0] == "Ardennes 44"
+      or tag[0] == "Disciples of Bone and Shadow"
+      or tag[0] == "Etherfields"
       or tag[0] == "Ironsworn: Delve"
       or tag[0] == "Ironsworn"
       or tag[0] == "Praga Caput Regni"
       or tag[0] == "Print & play"
       or tag[0] == "Root"
+      or tag[0] == "Undaunted: Normandy"
       or tag[0] == "Agropolis"
       or tag[0] == "Colonos del Imperio: Imperios del Norte"
       or tag[0] == "Concordia Solitaria"
-      or tag[0] == "Disciples of Bone and Shadow"
-      or tag[0] == "Expansiópolis"
       or tag[0] == "Faiyum"
+      or tag[0] == "Old-School Essentials"
       or tag[0] == "Pandemic: La caída de Roma"
       or tag[0] == "Sprawlopolis"
       or tag[0] == "Teotihuacán"
       or tag[0] == "The City of Kings"
+      or tag[0] == "Tiny Epic Dinosaurs"
       or tag[0] == "TINYforming Mars"
       or tag[0] == "UNE"
       or tag[0] == "Barrage"
+      or tag[0] == "Carnegie"
       or tag[0] == "D30 Sandbox Companion"
-      or tag[0] == "Desolate"
       or tag[0] == "Dune: Imperium"
       or tag[0] == "Essen Spiel"
-      or tag[0] == "Etherfields"
+      or tag[0] == "Farmers Finances"
       or tag[0] == "Food Chain Island"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
       or tag[0] == "Golden Geek"
@@ -189,19 +191,17 @@
       or tag[0] == "Lux Aeterna"
       or tag[0] == "Marvel Champions: The Card Game"
       or tag[0] == "Mausritter"
-      or tag[0] == "Mothership"
       or tag[0] == "Nemesis"
-      or tag[0] == "Old-School Essentials"
+      or tag[0] == "Nevsky: Teutons and Rus in Collision"
       or tag[0] == "One Deck Dungeon"
+      or tag[0] == "One Page Dungeon"
       or tag[0] == "Pax Pamir"
       or tag[0] == "Root: The Clockwork"
       or tag[0] == "Scarlet Heroes"
       or tag[0] == "Stellar Horizons"
       or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "The 7th Citadel"
-      or tag[0] == "Thunderstone Quest"
-      or tag[0] == "Tiny Epic Dinosaurs"
-      or tag[0] == "Too Many Bones" %}
+      or tag[0] == "Thunderstone Quest" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
