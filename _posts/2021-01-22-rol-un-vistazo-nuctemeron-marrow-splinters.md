@@ -22,7 +22,9 @@ de Blackoath Entertainment: Seekers Beyond The Shroud y Disciples of Bone & Shad
         <table class="table table-striped table-hover">
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2021</td></tr>
             <tr><td class="text-left"><strong>Precio (PDF):</strong></td><td
-        class="text-left"><a href="https://blackoathgames.com/store/nuctemeron-hour-i-the-official-seekers-beyond-the-shroud-zine">5€</a></td></tr>
+        class="text-left"><a
+    href="https://blackoathgames.com/store/nuctemeron-hour-i-the-official-seekers-beyond-the-shroud-zine">5€</a>/<a
+    href="https://www.drivethrurpg.com/product/342831/Nuctemeron-1?affiliate_id=1914894">5$</a></td></tr>
     <tr><td class="text-left"><strong>Precio (físico):</strong></td><td
         class="text-left"><a href="https://blackoathgames.com/store/nuctemeron-hour-i-the-official-seekers-beyond-the-shroud-zine-physical">12€</a></td></tr>
             <tr><td class="text-left"><strong>Número de
@@ -60,7 +62,9 @@ de Blackoath Entertainment: Seekers Beyond The Shroud y Disciples of Bone & Shad
         <table class="table table-striped table-hover">
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2021</td></tr>
             <tr><td class="text-left"><strong>Precio (PDF):</strong></td><td
-        class="text-left"><a href="https://blackoathgames.com/store/xqwnnqpaa5ju6uh2l004fsn3idby7q">5€</a></td></tr>
+        class="text-left"><a
+    href="https://blackoathgames.com/store/xqwnnqpaa5ju6uh2l004fsn3idby7q">5€</a>/<a
+    href="https://www.drivethrurpg.com/product/342830/Marrow--Splinters-1?affiliate_id=1914894">5$</a></td></tr>
     <tr><td class="text-left"><strong>Precio (físico):</strong></td><td
         class="text-left"><a href="https://blackoathgames.com/store/nuctemeron-hour-i-the-official-seekers-beyond-the-shroud-zine-physical-zc3r6">12€</a></td></tr>
             <tr><td class="text-left"><strong>Número de
