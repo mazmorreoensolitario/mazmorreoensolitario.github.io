@@ -39,7 +39,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Imperium Romanum">
     </div>
     <div class="col-md-9">
-        <h4>Imperium Romanum</h4>
+        <h4><a href="https://www.philibertnet.com/en/decision-games/74716-al-nofi-s-imperium-romanum-095109010395.html#ae447-11">Imperium Romanum</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/263301/imperium-romanum">Imperium
         Romanum</a></strong> por <strong>Nadir Elfarra y Joe Youst</strong>,
@@ -74,7 +74,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Freeman's Farm 1777">
     </div>
     <div class="col-md-9">
-        <h4>Freeman's Farm 1777</h4>
+        <h4><a href="https://www.philibertnet.com/en/worthington-games/86476-freeman-s-farm-1777-856565007233.html#ae447-11">Freeman's Farm 1777</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/271837/freemans-farm-1777">Freeman's
     Farm 1777</a></strong> por <strong>Maurice Suckling</strong> y publicado por 
@@ -228,7 +228,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Napoleon Retreats: Campaign in France, Part II">
     </div>
     <div class="col-md-9">
-        <h4>Napoleon Retreats: Campaign in France, Part II</h4>
+        <h4><a href="https://www.philibertnet.com/en/osg-operational-studies-group/81851-napoleon-retreats-campaign-in-france-ii-2100000609635.html#ae447-11">Napoleon Retreats: Campaign in France, Part II</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/273769/napoleon-retreats-campaign-france-part-ii">Napoleon
     Retreats: Campaign in France, Part II</a></strong> por <strong>Kevin
@@ -347,7 +347,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Crusade and Revolution: The Spanish Civil War">
     </div>
     <div class="col-md-9">
-        <h4>Crusade and Revolution: The Spanish Civil War</h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/79706-crusade-and-revolution-the-spanish-civil-war-1936-1939-second-edition-2100000624300.html#ae447-11">Crusade and Revolution: The Spanish Civil War</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/31790/crusade-and-revolution-spanish-civil-war-1936-1939">Crusade
         and Revolution: The Spanish Civil War</a></strong> por <strong>David
@@ -434,7 +434,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Triumph of Chaos">
     </div>
     <div class="col-md-9">
-        <h4>Triumph of Chaos</h4>
+        <h4><a href="https://www.philibertnet.com/en/clash-of-arms/76098-triumph-of-chaos-v2-deluxe-edition-2100000609482.html#ae447-11">Triumph of Chaos</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/190462/triumph-chaos-v2-deluxe-edition">Triumph
         of Chaos</a></strong> por <strong>David Dockter</strong> y publicado
@@ -462,7 +462,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Brazen Chariots: Battles for Tobruk">
     </div>
     <div class="col-md-9">
-        <h4>Brazen Chariots: Battles for Tobruk</h4>
+        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/78917-brazen-chariots-battles-for-tobruk-1941-2100000627080.html#ae447-11">Brazen Chariots: Battles for Tobruk</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/249750/brazen-chariots-battles-tobruk-1941">Brazen
     Chariots: Battles for Tobruk</a></strong> por <strong>Dean Essig y Jim
@@ -495,7 +495,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="The Last Hundred Yards">
     </div>
     <div class="col-md-9">
-        <h4>The Last Hundred Yards</h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/83727-the-last-hundred-yards-817054011681.html#ae447-11">The Last Hundred Yards</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/202721/last-hundred-yards">The
     Last Hundred Yards</a></strong> por <strong>Mike Denson</strong> y
@@ -587,7 +587,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Wings of the Motherland">
     </div>
     <div class="col-md-9">
-        <h4>Wings of the Motherland</h4>
+        <h4><a href="https://www.philibertnet.com/en/clash-of-arms/86351-wings-of-the-motherland-2100000676644.html#ae447-11">Wings of the Motherland</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/85147/wings-motherland">Wings of
     the Motherland</a></strong> por <strong>J. D. Webster</strong> y publicado
@@ -616,7 +616,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Blue Water Navy: The War at Sea">
     </div>
     <div class="col-md-9">
-        <h4>Blue Water Navy: The War at Sea</h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/82643-blue-water-navy-2100000643448.html#ae447-11">Blue Water Navy: The War at Sea</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/220508/blue-water-navy-war-sea">Blue
     Water Navy: The War at Sea</a></strong> por <strong>James Derek Harris y
@@ -653,7 +653,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Hearts and Minds: Vietnam 1965-1975">
     </div>
     <div class="col-md-9">
-        <h4>Hearts and Minds: Vietnam 1965-1975</h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/76791-hearts-and-minds-third-edition-2100000616855.html#ae447-11">Hearts and Minds: Vietnam 1965-1975</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/254588/hearts-and-minds-vietnam-1965-1975-third-edition">Hearts
     and Minds: Vietnam 1965-1975</a></strong> por <strong>John Poniske</strong>
@@ -893,7 +893,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Space Infantry: Resurgence">
     </div>
     <div class="col-md-9">
-        <h4>Space Infantry: Resurgence</h4>
+        <h4><a href="https://www.philibertnet.com/en/lock-n-load/88203-space-infantry-resurgence-639302313053.html#ae447-11">Space Infantry: Resurgence</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/215155/space-infantry-resurgence">Space
     Infantry: Resurgence</a></strong> por <strong>Blackwell Hird y Gottardo
@@ -1041,7 +1041,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Zeppelin Raider">
     </div>
     <div class="col-md-9">
-        <h4>Zeppelin Raider: Imperial German Naval Airships</h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/76763-zeppelin-raider-imperial-german-naval-airships-2100000616862.html#ae447-11">Zeppelin Raider: Imperial German Naval Airships</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/256939/zeppelin-raider-imperial-german-naval-airships">Zeppelin
     Raider</a></strong> por <strong>Gregory M. Smith</strong> y publicado por
@@ -1075,7 +1075,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
         class="img-thumbnail" alt="Crossing the Line: Aachen 1944">
     </div>
     <div class="col-md-9">
-        <h4>Crossing the Line: Aachen 1944</h4>
+        <h4><a href="https://www.philibertnet.com/en/furor-teutonicus-games/79697-crossing-the-line-aachen-1944-4260489350621.html#ae447-11">Crossing the Line: Aachen 1944</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/267661/crossing-line-aachen-1944">Crossing
     the Line: Aachen 1944</a></strong> por <strong>Dirk Blennemann</strong> y
