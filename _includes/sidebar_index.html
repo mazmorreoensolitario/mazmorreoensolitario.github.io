@@ -133,14 +133,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -157,7 +149,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/03/09/analisis-maquis/" %}
+       {% if post.url == "/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -182,6 +174,14 @@
     <div class="image-container">
        {% for post in site.posts %}
        {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2021/01/22/rol-un-vistazo-nuctemeron-marrow-splinters/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}

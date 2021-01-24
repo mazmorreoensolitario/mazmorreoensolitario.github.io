@@ -77,14 +77,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -101,7 +93,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/03/09/analisis-maquis/" %}
+       {% if post.url == "/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -131,6 +123,14 @@
       {% endif %}
       {% endfor %}
     </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2021/01/22/rol-un-vistazo-nuctemeron-marrow-splinters/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
 <span id="dummy"></span>
   </div>
   <div class="mt10">
@@ -150,35 +150,40 @@
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
       {% for tag in site.tags %}
-      {% if tag[0] == "Merv: The Heart of the Silk Road"
-      or tag[0] == "Seekers Beyond The Shroud"
+      {% if tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Merv: The Heart of the Silk Road"
       or tag[0] == "Expansiópolis"
       or tag[0] == "Kickstarter"
-      or tag[0] == "Fábulas de Peluche"
+      or tag[0] == "Etherfields"
       or tag[0] == "Undaunted: North Africa"
       or tag[0] == "Ardennes 44"
       or tag[0] == "Disciples of Bone and Shadow"
-      or tag[0] == "Etherfields"
+      or tag[0] == "Fábulas de Peluche"
+      or tag[0] == "Faiyum"
       or tag[0] == "Ironsworn: Delve"
       or tag[0] == "Ironsworn"
+      or tag[0] == "Old-School Essentials"
       or tag[0] == "Praga Caput Regni"
       or tag[0] == "Print & play"
       or tag[0] == "Root"
-      or tag[0] == "Undaunted: Normandy"
+      or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "Agropolis"
+      or tag[0] == "Barrage"
       or tag[0] == "Colonos del Imperio: Imperios del Norte"
-      or tag[0] == "Concordia Solitaria"
-      or tag[0] == "Faiyum"
-      or tag[0] == "Old-School Essentials"
+      or tag[0] == "Mapping the Catacombs"
       or tag[0] == "Pandemic: La caída de Roma"
       or tag[0] == "Sprawlopolis"
       or tag[0] == "Teotihuacán"
+      or tag[0] == "The 7th Citadel"
       or tag[0] == "The City of Kings"
       or tag[0] == "Tiny Epic Dinosaurs"
       or tag[0] == "TINYforming Mars"
+      or tag[0] == "Undaunted: Normandy"
       or tag[0] == "UNE"
-      or tag[0] == "Barrage"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Carnegie"
+      or tag[0] == "Concordia Solitaria"
+      or tag[0] == "Concordia"
       or tag[0] == "D30 Sandbox Companion"
       or tag[0] == "Dune: Imperium"
       or tag[0] == "Essen Spiel"
@@ -195,13 +200,8 @@
       or tag[0] == "Nevsky: Teutons and Rus in Collision"
       or tag[0] == "One Deck Dungeon"
       or tag[0] == "One Page Dungeon"
-      or tag[0] == "Pax Pamir"
-      or tag[0] == "Root: The Clockwork"
       or tag[0] == "Scarlet Heroes"
-      or tag[0] == "Stellar Horizons"
-      or tag[0] == "Tainted Grail: La caída de Ávalon"
-      or tag[0] == "The 7th Citadel"
-      or tag[0] == "Thunderstone Quest" %}
+      or tag[0] == "Stellar Horizons" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
