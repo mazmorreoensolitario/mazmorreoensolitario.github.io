@@ -53,7 +53,9 @@ de proyectos, vamos a demostrar que están equivocados."
                  href="https://2tomatoesgames.com/">2Tomatoes Games</a>.
              </li>
              <li>
-                 El tamaño de la caja es perfecto para el contenido del juego.
+                 El tamaño de la caja es perfecto para el contenido del juego y
+                 si tenéis la edición inglesa (la española no lo sé), todo está
+    hecho en Polonia, así que mucho mejor.
              </li>
          </ul>
          </div>

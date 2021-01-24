@@ -62,6 +62,7 @@ falta terraformar un planeta terriblemente frío, seco y casi sin atmósfera."
              <li>El juego está inspirado en la <a
              href="https://es.wikipedia.org/wiki/Trilog%C3%ADa_marciana">trilogía 
              marciana</a> de libros de Kim Stanley Robinson.</li>
+             <li>Está hecho detro de la Unión Europea (Alemania), así que genial.</li>
          </ul>
          </div>
     </div>
@@ -396,7 +397,7 @@ El la futura expansión
 [Conflictos](https://www.kickstarter.com/projects/strongholdgames/terraforming-mars-turmoil?ref=mazmorreoensolitario),
 como parte del contenido exclusivo de los mecenas en Kickstarter se pueden
 conseguir [tableros de jugador con
-relieve](https://ksr-ugc.imgix.net/assets/024/736/902/0710f6d8299f6eff76886d75bce8afa6_original.jpg?ixlib=rb-2.1.0&w=680&fit=max&v=1554994223&auto=format&gif-q=50&q=92&s=0da60ae59522af7da4ecb190037e0f2a). Tres
+relieve](https://amzn.to/3cdh6Y9). Tres
 años después de la salida del juego, ya era hora.
 También podéis comprar estos tableros con relieve compatibles con el juego
 mediante terceros, y aunque no son tan bonitos, yo diría que son un complemento
