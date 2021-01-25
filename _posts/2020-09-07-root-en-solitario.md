@@ -3,7 +3,7 @@ layout: post
 title: "Cómo jugar a Root en solitario"
 date: 2020-09-07
 categories: [General]
-tags: [Root, "Root: The Clockwork", "Root: The Underworld", "Root: Riverfolk", "Root: Los Ribereños"]
+tags: [Root, "Root: Los Cachivaches", "Root: The Clockwork", "Root: The Underworld", "Root: Riverfolk", "Root: Los Ribereños"]
 imghtml: https://cf.geekdo-images.com/imagepage/img/ZF-dta5ffawuKAkAt2LB-QTIv5M=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4254509.jpg
 post_desc: "¿Se puede jugar a Root en solitario? ¿Cómo juego? ¿De dónde has
  sacado los tableros de los bots? Lee esta entrada para solucionar tus dudas" 
