@@ -12,6 +12,8 @@ post_desc: "¿Se puede jugar a Root en solitario? ¿Cómo juego? ¿De dónde has
 <small><strong>Actualizado 31/10/20</strong>. Se añade link al BIS -
 Octubre. <strong>Actualizado 25/01/21</strong>. Información sobre la traducción
 de 2Tomatoes Games.</small>
+<hr>
+
 <p align="center"><img
    src="https://live.staticflickr.com/65535/50315024792_2ed72a378d_c.jpg"></p>
 <p align="center"><small>Una de mis primeras partidas a Root, Marquise de Cat
@@ -122,45 +124,44 @@ Hay varias formas de jugar a
     src="https://live.staticflickr.com/65535/50314175703_ffabd95111_c.jpg"></p>
     <p align="center"><small>Las combinación que recomiendo</small></p>
         
-    * **¿Va a publicar 2Tomatoes Games esta expansión en español?** ~~Ni idea. Las
-    traducciones suelen ir con un año/año y medio de retraso; a mí The
-    Clockwork me llegó en junio de este año (2020), así que podéis esperar;
-    pero insisto, ni idea.~~ Parece que... ¡sí!
+* **¿Va a publicar 2Tomatoes Games esta expansión en español?** ~~Ni idea. Las
+  traducciones suelen ir con un año/año y medio de retraso; a mí The
+  Clockwork me llegó en junio de este año (2020), así que podéis esperar;
+  pero insisto, ni idea.~~ Parece que... ¡sí!
     
-       Aquí tenéis una actualización sobre este tema:
-    [Boletín Informativo Solitario de
+  Aquí tenéis una actualización sobre este tema: [Boletín Informativo Solitario de
     octubre]({{site.baseurl}}/2020/10/31/noticias-boletin-octubre-2020/).
     
-       <p align="center"><img
-    src="https://cf.geekdo-images.com/ntcCkiIiZPB_CwbH-ykDhQ__imagepage/img/_kzIDEqv0kFJ2PIuCuaotuLkjK4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5941162.png"></p>
-       <p align="center"><small>Portada preliminar del juego en español</small></p>
-    
-       **Segunda actualización:** 2TomatoesGames confirma que la expansión se
-    llamará **Los Cachivaches** (podéis ver foto arriba) y se publicará
-    en 2021.
+  <p align="center"><img
+  src="https://cf.geekdo-images.com/ntcCkiIiZPB_CwbH-ykDhQ__imagepage/img/_kzIDEqv0kFJ2PIuCuaotuLkjK4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5941162.png"></p>
+  <p align="center"><small>Portada preliminar del juego en español</small></p>
+   
+   **Segunda actualización:** 2TomatoesGames confirma que la expansión se
+   llamará **Los Cachivaches** (podéis ver foto arriba) y se publicará
+   en 2021.
         
-         Los bots pasan a llamarse: **El Marquesado Mecánico 2.0**, **El
-    Nido Neumático**, **La Alianza Autómata** y **El Vagabot**.
+   Los bots pasan a llamarse: **El Marquesado Mecánico 2.0**, **El
+   Nido Neumático**, **La Alianza Autómata** y **El Vagabot**.
     
     
-    * **¿Merece la pena gastarse 40$ en cuatro tableros, unos marcadores, las
-    reglas, 28 cartas y una caja bonita?** Que cada uno decida, viendo lo que me
-    costó a mí es obviamente más caro, pero si jugáis mucho a Root tener todo
-    en en esta calidad puede ser una buena inversión. Yo llevaba esperando
-    poder jugar a Root bien en solitario [desde
-    2018]({{site.baseurl}}/2018/12/27/general-juegos-que-no-jugamos-en-2018/) y
-    cuando me enteré de que iban a hacer la expansión Clockwork [me
-    aguanté]({{site.baseurl}}/2019/12/27/general-juegos-que-no-jugamos-en-2019/), 
-    aunque ya había salido el base con la expansión los Ribereños en España y
-    todo el mundo estaba comprándoselo, y fui a por el juego base y la
-    expansión Clockwork en el Kickstarter, porque iba a poder jugar en
-    solitario mucho mejor con esta combinación.
+* **¿Merece la pena gastarse 40$ en cuatro tableros, unos marcadores, las
+  reglas, 28 cartas y una caja bonita?** Que cada uno decida, viendo lo que me
+  costó a mí es obviamente más caro, pero si jugáis mucho a Root tener todo
+  en en esta calidad puede ser una buena inversión. Yo llevaba esperando
+  poder jugar a Root bien en solitario [desde
+  2018]({{site.baseurl}}/2018/12/27/general-juegos-que-no-jugamos-en-2018/) y
+  cuando me enteré de que iban a hacer la expansión Clockwork [me
+  aguanté]({{site.baseurl}}/2019/12/27/general-juegos-que-no-jugamos-en-2019/), 
+  aunque ya había salido el base con la expansión los Ribereños en España y
+  todo el mundo estaba comprándoselo, y fui a por el juego base y la
+  expansión Clockwork en el Kickstarter, porque iba a poder jugar en
+  solitario mucho mejor con esta combinación.
     
-    * **¿Funcionan bien los bots?** Sí, de 10. Tendréis un análisis del juego
-      antes de que termine el año (espero; aunque si nos confinan otra vez, muy
-      seguro que antes de fin de año). Por lo que he probado hasta ahora, me
-      parecen una traducción muy fidedigna de cómo se juega con la facción de
-      forma normal.
+* **¿Funcionan bien los bots?** Sí, de 10. Tendréis un análisis del juego
+  antes de que termine el año (espero; aunque si nos confinan otra vez, muy
+  seguro que antes de fin de año). Por lo que he probado hasta ahora, me
+  parecen una traducción muy fidedigna de cómo se juega con la facción de
+  forma normal.
     
 
 Y esto es todo, espero que esta pequeña entrada os solucione las dudas y sino
