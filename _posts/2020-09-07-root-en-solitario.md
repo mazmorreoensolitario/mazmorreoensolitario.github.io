@@ -10,7 +10,7 @@ post_desc: "¿Se puede jugar a Root en solitario? ¿Cómo juego? ¿De dónde has
 ---
 
 <small><strong>Actualizado 31/10/20</strong>. Se añade link al BIS -
-Octubre.<string>Actualizado 25/01/21</strong>. Información sobre la traducción
+Octubre.<strong>Actualizado 25/01/21</strong>. Información sobre la traducción
 de 2Tomatoes Games.</small>
 <p align="center"><img
    src="https://live.staticflickr.com/65535/50315024792_2ed72a378d_c.jpg"></p>
