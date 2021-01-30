@@ -68,7 +68,7 @@ categorías.
         tag[0] == "Winter's Daughter" or
         tag[0] == "The Hole in The Oak" or
         tag[0] == "Trilemma Adventures"  or
-        tag[0] == "Zine Quest" or
+        tag[0] == "Zine Quest" or tag[0] == "Zine Quest 3" or
         tag[0] == "Zine Quest 2" or
         tag[0] == "A Thousand Year Old Vampire" or
         tag[0] == "A Torch in the Dark" or

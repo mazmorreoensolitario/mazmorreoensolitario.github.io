@@ -99,7 +99,7 @@ ficheros de la BGG con estos cambios.
 
 <p align="center"><img src="https://farm8.staticflickr.com/7849/46604691054_cff07ef5f0_z.jpg"></p>
 
-[Maquis](https://boardgamegeek.com/boardgame/148729/maquis) es un juego de
+**[Maquis](https://boardgamegeek.com/boardgame/148729/maquis)** es un juego de
 colocación de trabajadores ambientado en la ocupación de Francia por las
 fuerzas de la Alemania Nazi en la Segunda Guerra Mundial, en este juego somos 
 parte de la Resistencia Francesa luchando contra la ocupación alemana.

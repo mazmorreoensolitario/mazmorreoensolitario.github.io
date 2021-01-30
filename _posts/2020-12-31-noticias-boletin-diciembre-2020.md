@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: diciembre 2020"
 date: 2020-12-31
 categories: [Noticias]
-tags: ["Boletín Informativo Solitario", Nuctemeron, "Marrow & Splinters", "Tabannusi: Builders of Ur", Carnegie, "Darwin's Journey", "Circadians: Primera Luz", Legends Untold, "Legends Untold: Illumination of Deepsorrow", "Oath: Chronicles of Empire and Exile", Iron Helm, Root, "Root: The Clockwork 2", "Root: The Clockwork", "Disciples of Bone and Shadow: Conquered Sun Edition", Disciples of Bone and Shadow, Concordia, Concordia Venus, Concordia Solitaria, "Ironsworn: Starforged", Ironsworn, Starforged, Seekers Beyond The Shroud, Mapping the Catacombs, Trek 12, Gorinto, Curious Cargo, Cosmic Colonies, "Merv: The Heart of the Silk Road"]
+tags: [Paladines del Reino del Oeste, Arquitectos del Reino del Oeste, "Boletín Informativo Solitario", Nuctemeron, "Marrow & Splinters", "Tabannusi: Builders of Ur", Carnegie, "Darwin's Journey", "Circadians: Primera Luz", Legends Untold, "Legends Untold: Illumination of Deepsorrow", "Oath: Chronicles of Empire and Exile", Iron Helm, Root, "Root: The Clockwork 2", "Root: The Clockwork", "Disciples of Bone and Shadow: Conquered Sun Edition", Disciples of Bone and Shadow, Concordia, Concordia Venus, Concordia Solitaria, "Ironsworn: Starforged", Ironsworn, Starforged, Seekers Beyond The Shroud, Mapping the Catacombs, Trek 12, Gorinto, Curious Cargo, Cosmic Colonies, "Merv: The Heart of the Silk Road"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20201230-bis/boletin-informativo.png
 post_desc: "Boletín Informativo Solitario de diciembre, donde tendréis un
 resumen de las noticias del mundillo y lo que ha acontecido durante este mes"
