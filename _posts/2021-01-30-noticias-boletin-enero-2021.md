@@ -586,9 +586,8 @@ src="https://img.itch.zone/aW1nLzUwODA0NDQucG5n/315x250%23cb/dhoweM.png"></p>
     [The Last Will and Testament of Gideon Blythe](https://www.kickstarter.com/projects/jeeyonshim/the-last-will-and-testament-of-gideon-blythe),
     [Spacebase the
     fanzine](https://www.kickstarter.com/projects/spacebase/spacebase-the-fanzine-a-sci-fi-tribute-first-issue),
-    [Thru-Hiker](https://www.kickstarter.com/projects/Highmoon/thru-hiker-a-journaling-game-of-long-distance-hiking)
-    (no sé al 100% que sea en solitario), [You Are the
-    Dungeon](https://www.kickstarter.com/projects/sandandsteam/you-are-the-dungeon-diary-of-despair).
+    [Thru-Hiker](https://www.kickstarter.com/projects/Highmoon/thru-hiker-a-journaling-game-of-long-distance-hiking),
+    [You Are the Dungeon](https://www.kickstarter.com/projects/sandandsteam/you-are-the-dungeon-diary-of-despair).
   
   * **Zines GM-less** (con varios jugadores, pero suelen ser interesantes de mirar
     por si son fáciles de jugar en solitario): [A Complicated
