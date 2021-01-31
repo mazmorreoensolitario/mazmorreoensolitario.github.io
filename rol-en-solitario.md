@@ -8,20 +8,21 @@ El **rol en solitario** ha ido haciéndose un hueco muy merecido en mi tiempo
 lúdico, por lo que también va a tener un espacio dedicado en el blog.
 
 
+La escala de **facilidad para jugar en solitario** que veréis en la ficha técnica
+de los juegos va del 1 al 5. Siendo **1**: juego
+que me ha sido imposible jugar en solitario; **2**: que requiere muchos recursos
+externos y/o más reglas para tener una estructura de juego; **3**: que requiere
+algunos recursos externos más y/o pocas reglas extra; **4**: es muy fácil jugar
+en solitario, no necesitas nada más que un oráculo; y **5**: es trivial jugar
+en solitario.
+
+
 ### Guías sobre cómo jugar a rol en solitario
 
 * 16 Mayo, 2020. [Rol en solitario: ¿cómo
   empiezo?]({{site.baseurl}}/2020/05/16/rol-en-solitario-como-empiezo/)
 
 ### Análisis de juegos de rol
-
-La escala de **facilidad para jugar en solitario** que veréis en la ficha técnica
-de los análisis va del 1 al 5. Siendo **1**: juego
-que me ha sido imposible jugar en solitario; **2**: que requiere muchos recursos
-externos y/o más reglas para tener una estructura de juego; **3**: que requiere
-algunos recursos externos más y/o pocas reglas extra; **4**: es muy fácil jugar
-en solitario, no necesitas nada más que un oráculo; y **5**: es trivial jugar
-en solitario.
 
 * 19 Noviembre, 2020. [Beak, Feather &
   Bone]({{site.baseurl}}/2020/11/19/rol-beak-feather-bone/).
@@ -35,6 +36,8 @@ en solitario.
 
 ### Noticias
 
+* 31 Enero, 2021. [Zine Quest 3: las zines en
+  solitario]({{site.baseurl}}/2021/01/31/rol-zinequest-3-en-solitario/).
 * 4 Julio, 2020. [Premios ENnie
   2020]({{site.baseurl}}/2020/07/04/rol-ennie-awards-2020/).
 * 21 Febrero, 2020. [Zine Quest 2: las zines de RPGs

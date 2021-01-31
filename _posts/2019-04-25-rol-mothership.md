@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rol - Mothership: Player's survival guide"
+title: "Análisis - Mothership: Player's survival guide"
 date: 2019-04-25
 categories: [Rol]
 tags: [Rol, Mothership, "Mothership: Dead Planet", Ennie, OSR]
