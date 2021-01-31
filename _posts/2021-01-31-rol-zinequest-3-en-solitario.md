@@ -6,7 +6,7 @@ categories: [Rol]
 tags: [Rol, Zine Quest, Zine Quest 3]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210131-bis/zq3.png
 post_desc: "Guía de todas las zines de Zine Quest 3 que podéis conseguir para
-jugar en solitario"
+jugar en solitario durante este mes de febrero"
 ---
 
 ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210131-bis/zq3.png)
@@ -244,6 +244,22 @@ Y sin más dilación, aquí están las listas de zines:
     href="https://www.kickstarter.com/projects/dgchapman/journeylands-1?ref=mazmorreoensolitario">
     Journeylands #1</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
         <p>Zine-aventura sobre viajes en carretera sobre un sol psíquico.</p>
+     </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/201/020/af920dd5b488d13b85f27c3a8b248cb4_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612112616&auto=format&frame=1&q=92&s=f15779b83b5ab20855fd2ea20a5bf83b"
+        class="img-thumbnail" alt="Marching Order - A Solo or Co-op Dark Dungeon Delving Zine">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/crumblingkeep/marching-order-a-solo-or-co-op-dark-dungeon-delving-zine?ref=mazmorreoensolitario">
+        Marching Order - A Solo or Co-op Dark Dungeon Delving Zine</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+        <p>Juega como un ladrón que apuñala por la espalda en este crudo juego
+    inspirado por la vieja escuela, de mazmorreo, tácticas, caos y dinero.</p>
      </div>
 </div>
 <br>
