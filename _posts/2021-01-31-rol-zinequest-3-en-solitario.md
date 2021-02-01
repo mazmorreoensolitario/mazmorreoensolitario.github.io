@@ -17,7 +17,7 @@ iniciativa que hace Kickstarter por tercer año consecutivo
 la que durante todo el mes de febrero **se buscará financiación para zines de
 rol**.
 
-Estas [zines de rol](https://www.kickstarter.com/zine-quest) suelen tener
+Estas **[zines de rol](https://www.kickstarter.com/zine-quest)** suelen tener
 temática muy diversa, pueden ser sistemas, aventuras, settings,
 herramientas... **cada vez hay más que soportan el juego en solitario**, por lo
 que durante este mes podréis enteraros de cuáles son **las que podemos jugar en
@@ -53,9 +53,17 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/moonmax/12-years?ref=mazmorreoensolitario">
-    12 Years</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    12 Years</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Juego de hexcrawl y mazmorreo de uno o más jugadores que no necesita
-        GM.</p>
+        GM. En <strong>12 Years</strong> se intercala la exploración por el
+    mundo con reglas de hexcrawling y las mecánicas de mazmorreo para la
+    exploración de mazmorras; el objetivo
+    es tratar de salvar al mundo antes de que el Lich King destruya el mundo
+    conocido, y solamente tienes 12 años para lograrlo.</p>
+        <ul>
+            <li>PDF + copia en físico: 12$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
      </div>
 </div>
 <br>
