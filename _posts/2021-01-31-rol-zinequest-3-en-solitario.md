@@ -354,7 +354,57 @@ Y sin más dilación, aquí están las listas de zines:
 
 ### Zines de settings o herramientes útiles para el rol en solitario
 
-(Iré actualizando cuando pueda ver las campañas)
+Aquí os dejo una sección con una lista de diferentes zines que tienen pinta de
+ser útiles para partidas de rol en solitario, aunque las zines por si mismas no
+estén pensadas para ello:
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/108/214/e2551760f885bf5988d59a6c3c62de33_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611423288&auto=format&frame=1&q=92&s=d9c5965d776befd76b8c746ae420d355"
+        class="img-thumbnail" alt="Dungeoneering">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/grinningratpub/dungeoneering?ref=mazmorreoensolitario">
+    Dungeoneering</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>Dungeoneering</strong> es una zine que nos presenta un
+    sistema de rol en dos páginas y el resto dice estar lleno de generadores de
+    diferentes tipos de mazmorras. Hay seis dominios diferentes (bosque,
+    desierto, agua, fuego, hielo y cielo) y generadores para sitios
+    subterráneos de esos estilos.</p>
+    <p>Puede ser una opción para generar distintos tipos de mazmorras en
+    vuestros juegos de rol en solitario.</p>
+        <ul>
+            <li>PDF: 5$</li>
+            <li>PDF + físico: 15$</li>
+        </ul>
+     </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/031/813/597/c55dea99ec266710adfd409df4fbd140_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1608664710&auto=format&frame=1&q=92&s=8b75e0c105c157790dde9fb3c787c5b4"
+        class="img-thumbnail" alt="Isometric Blanks">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/fishinthepot/isometric-blanks?ref=mazmorreoensolitario">
+    Isometric Blanks</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>Isometric Blanks</strong> es una zine con siete mapas de
+    perspectiva isométrica que están vacíos. Has leído bien. Están vacíos y la
+    idea es que los llenes tú en la zine..</p>
+    <p>¿No te gusta pintar mapas? Aquí tienes mapas isométricos ya hechos.</p>
+        <ul>
+            <li>Físico: 5$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+<br>
+
 
 <hr>
 
