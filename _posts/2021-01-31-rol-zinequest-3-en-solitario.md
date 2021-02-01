@@ -172,9 +172,17 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/adamebell/grasping-nettles?ref=mazmorreoensolitario">
-    Grasping Nettles</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    Grasping Nettles</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Un juego de contar historias creando mundos y resolviendo problemas
-    a través de las generaciones.</p>
+    a través de las generaciones. En <strong>Grasping Nettles</strong>
+        aprendemos acerca de la vida de una comunidad a medida que las
+    generaciones pasan; la comunidad tendrá diferentes facciones, problemas de
+    mayor o menor tamaño y vivirán personajes importantes de los que podremos
+    contar historias.</p>
+        <ul>
+            <li>PDF: 8$</li>
+            <li>PDF + físico: 15$</li>
+        </ul>
      </div>
 </div>
 <br>
