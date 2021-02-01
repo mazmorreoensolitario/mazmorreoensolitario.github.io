@@ -55,7 +55,8 @@ Y sin más dilación, aquí están las listas de zines:
     href="https://www.kickstarter.com/projects/moonmax/12-years?ref=mazmorreoensolitario">
     12 Years</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Juego de hexcrawl y mazmorreo de uno o más jugadores que no necesita
-        GM. En <strong>12 Years</strong> se intercala la exploración por el
+        GM.</p>
+        <p>En <strong>12 Years</strong> se intercala la exploración por el
     mundo con reglas de hexcrawling y las mecánicas de mazmorreo para la
     exploración de mazmorras; el objetivo
     es tratar de salvar al mundo antes de que el Lich King destruya el mundo
@@ -174,7 +175,8 @@ Y sin más dilación, aquí están las listas de zines:
     href="https://www.kickstarter.com/projects/adamebell/grasping-nettles?ref=mazmorreoensolitario">
     Grasping Nettles</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Un juego de contar historias creando mundos y resolviendo problemas
-    a través de las generaciones. En <strong>Grasping Nettles</strong>
+    a través de las generaciones.</p>
+    <p>En <strong>Grasping Nettles</strong>
         aprendemos acerca de la vida de una comunidad a medida que las
     generaciones pasan; la comunidad tendrá diferentes facciones, problemas de
     mayor o menor tamaño y vivirán personajes importantes de los que podremos
@@ -196,8 +198,15 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/drewcifer/harrowings-03-muspelhell?ref=mazmorreoensolitario">
-    Harrowings #03: MUSPELHELL</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    Harrowings #03: MUSPELHELL</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Una aventura en una mazmorra con toques heavy metal.</p>
+        <p><strong>MUSPELHELL</strong> es una aventura en una mazmorra de tres
+        niveles que podemos jugar en solitario controlando un grupo de
+        enanos. Utiliza estadísticas de Old-School Essentials.</p>
+    <ul>
+            <li>PDF: 6$</li>
+            <li>PDF + físico: 12$</li>
+        </ul>
      </div>
 </div>
 <br>
@@ -258,8 +267,15 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/dgchapman/journeylands-1?ref=mazmorreoensolitario">
-    Journeylands #1</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    Journeylands #1</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Zine-aventura sobre viajes en carretera sobre un sol psíquico.</p>
+        <p><strong>Journeylands #1</strong> es un sistema basado en viajes en
+    el que uno o más jugadores personalizan vehículos para vagabundear por un
+    mundo psicodélico solarpunk.</p>
+        <ul>
+            <li>PDF: 5£</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
      </div>
 </div>
 <br>
@@ -406,7 +422,58 @@ estén pensadas para ello:
     idea es que los llenes tú en la zine..</p>
     <p>¿No te gusta pintar mapas? Aquí tienes mapas isométricos ya hechos.</p>
         <ul>
-            <li>Físico: 5$</li>
+            <li>físico: 5$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/213/090/bf31a82ae2f6047909c30346097abace_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612196230&auto=format&frame=1&q=92&s=f72e7d30e5f48f27eb3f87813449a617"
+        class="img-thumbnail" alt="The Haunted Hamlet">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/lazylitch/the-haunted-hamlet-and-other-hexes?ref=mazmorreoensolitario">
+    The Haunted Hamlet</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>The Haunted Hamlet</strong> es una zine que detalla cuatro
+        hexes que contienen localizaciones modulares para añadir en tu
+        campaña. Utiliza estadísticas de Old-School Essentials.</p>
+        <p>Yo juego mucho a hexcrawls en mis partidas de rol en solitario, por
+    lo que sé de primera mano que puedes usar hexes que estén bien detallados y
+    que tengan suficientes tablas para añadir cosas a tu campaña.</p>
+        <ul>
+            <li>PDF: 8CA$</li>
+            <li>PDF + físico: 13CA$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/212/111/2d697673ce350a3b1fbdd659816226e3_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612192078&auto=format&frame=1&q=92&s=231c0b7924198c023510c6875643062e"
+        class="img-thumbnail" alt="The Vast in the Dark">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/appalachia-gothic/the-vast-in-the-dark-exploring-ruins-in-an-infinite-world?ref=mazmorreoensolitario">
+    The Vast in the Dark</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>The Vast in the Dark</strong> es una zine que va sobre
+        explorar megaestructuras alienígenas y oscuras en un reino
+    infinito. Tiene herramientas para crear megaestructuras en un hexmap.</p>
+        <p>Como fan de Tsutomu Nihei y sus obras Blame! y Biomega, quiero
+        tener desde hace mucho tiempo las herramientas para crear
+        megaestructuras y poder jugar a rol en ellas. Puede que esta sea mi
+        oportunidad. En solitario tendríais que jugar con recursos externos.</p>
+        <ul>
+            <li>PDF: 5$</li>
+            <li>PDF + físico: 10$</li>
             <li>¡Ya está financiada!</li>
         </ul>
      </div>
