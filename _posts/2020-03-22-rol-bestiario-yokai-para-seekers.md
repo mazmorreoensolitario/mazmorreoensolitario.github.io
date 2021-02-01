@@ -36,8 +36,8 @@ se lista los yōkai que te encontrarías dependiendo del sitio que estés
 explorando.
 
 > **[Bestiario Yōkai para Seekers Beyond the Shroud
-> (inglés)](https://drive.google.com/open?id=1K8sRpkFSpobeLvpB7Yprpg6TVvbRkMiS)**
-> (Google Drive)
+> (inglés)](https://mazmorreo.itch.io/the-yokai-bestiary-for-seekers)**
+> (itch.io)
 
 ### ¿Qué es un yōkai?
 
