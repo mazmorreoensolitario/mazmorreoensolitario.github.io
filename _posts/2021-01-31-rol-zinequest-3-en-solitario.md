@@ -104,6 +104,35 @@ Y sin más dilación, aquí están las listas de zines:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/031/994/043/a7a2f8960bfb1af9b8b87be11965f8bc_original.jpg?ixlib=rb-2.1.0&crop=faces&w=352&h=198&fit=crop&v=1610485624&auto=format&frame=1&q=92&s=26b6337ac8587ea5daa4fbe067db588d"
+        class="img-thumbnail" alt="All Must Bow">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/bleakhorizonspress/all-must-bow-zinequest3?ref=mazmorreoensolitario">
+    All Must Bow</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p>Zine con una ambientación independiente del sistema, de horror
+    cósmico, entidades antiguas y malvadas, y sus campeones a la deriva en un
+    universo entrópico space-opera.</p>
+        <p>En <strong>All Must Bow</strong> tenemos un setting diseñado desde
+    el punto de vista del villano. Como campeones y vástagos de
+    monstruos-dioses eternos que existen más allá de la cortina de espacio y
+    tiempo, los jugadores sobornan, consumen, contaminan y traen la ruina a los
+    mundos del desafortunado universo. Jugamos como el campeón de una presencia
+    antigua más allá del tiempo y del espacio, tiene modo en solitario y modo
+    GM + un jugador.</p>
+        <ul>
+            <li>PDF: 6$</li>
+            <li>PDF + físico: 14$</li>
+        </ul>
+     </div>
+</div>
+<br>
+
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
             src="https://ksr-ugc.imgix.net/assets/032/101/315/876a2b5d2473a5f788ab9d53672efeeb_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611350252&auto=format&frame=1&q=92&s=3aabe30d0cbb012ce6f811db92ee1f17"
         class="img-thumbnail" alt="Bloodstained Hands">
     </div>
