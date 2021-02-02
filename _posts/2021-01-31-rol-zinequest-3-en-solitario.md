@@ -191,6 +191,7 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 5$</li>
             <li>PDF + físico: 15$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -555,7 +556,6 @@ estén pensadas para ello:
         <ul>
             <li>PDF: 5$</li>
             <li>PDF + físico: 12$</li>
-            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
