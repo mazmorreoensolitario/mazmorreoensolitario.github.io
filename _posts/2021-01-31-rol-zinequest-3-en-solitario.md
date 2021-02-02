@@ -95,7 +95,7 @@ Y sin más dilación, aquí están las listas de zines:
          <h4><a
     href="https://www.kickstarter.com/projects/nadulpan/aelemental-zine-o-phobia-part-1-wood?ref=mazmorreoensolitario">
     AElemental Zine-O-phobia - Part 1: Wood</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
-        <p>Una zine que podéis jugar como un roll & write en solitairo, la
+        <p>Una zine que podéis jugar como un roll & write en solitario, la
     temática es sobre el conflicto en un mundo de eco-fantasía.</p>
      </div>
 </div>
@@ -125,12 +125,23 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/jhrrsn/bucket-of-bolts-a-solo-rpg-zine?ref=mazmorreoensolitario">
-    Bucket of Bolts</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    Bucket of Bolts</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>En esta zine construyes una nave espacial y juegas a descubrir cómo
     cambia a lo largo del tiempo a medida que va teniendo diferentes
     capitanes. Es un <a
     href="https://mouseholepress.itch.io/artefact/devlog/218282/bucket-of-bolts-my-first-artefact-hack-launches-tomorrow">hack</a>
     de Artefact.</p>
+        <p><strong>Bucket of Bols</strong> es una zine para el juego en
+    solitario de naves espaciales icónicas y sus famosos capitanes. En este
+    juego crearás una nueva nave, recién salida de la cadena de producción, y
+    explorarás su historia siguiendo a los diferentes capitanes que va
+    teniendo. Tu nave cambiará a medida que las décadas pasan, nuevos nombres,
+    partes, pintura nueva, nuevos comienzos... hasta que tu historia acabe.</p>
+        <ul>
+            <li>PDF: 5£</li>
+            <li>PDF + físico: 8£</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
      </div>
 </div>
 <br>
@@ -170,7 +181,7 @@ Y sin más dilación, aquí están las listas de zines:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
-            src="https://ksr-ugc.imgix.net/assets/032/108/214/e2551760f885bf5988d59a6c3c62de33_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611423288&auto=format&frame=1&q=92&s=d9c5965d776befd76b8c746ae420d355"
+            src="https://ksr-ugc.imgix.net/assets/032/227/605/6836f6a3123f8cc98a26707b66d9a8e4_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612278631&auto=format&frame=1&q=92&s=905a32404c62e6861d1fb8f7126a5367"
         class="img-thumbnail" alt="Dungeoneering">
     </div>
     <div class="col-md-9">
@@ -257,8 +268,17 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/luciankahn/hibernation?ref=mazmorreoensolitario">
-    Hibernation Games: 5 Journaling RPGs for Solo Play</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    Hibernation Games: 5 Journaling RPGs for Solo Play</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Cinco juegos de contar historias.</p>
+        <p><strong>Hibernation Games</strong> es una colección de cinco juegos
+        en solitario ideados por diseñadores innovadores. El tema común es la
+    hibernación, tanto metafórica como literal. Cada juego usa un sistema
+    diferente, pero en general utilizan cartas o dados, y deberás escribir las
+    respuestas a las preguntas que te hagan en un diario.</p>
+        <ul>
+            <li>PDF: 14$</li>
+            <li>PDF + físico: 19$</li>
+        </ul>
      </div>
 </div>
 <br>
@@ -479,7 +499,7 @@ estén pensadas para ello:
          <h4><a
     href="https://www.kickstarter.com/projects/benmccown/a-tangled-web-vol-1-zinequest-3?ref=discovery_tag_newest?ref=mazmorreoensolitario">
     A Tangled Web Vol. 1</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
-        <p><strong>A Tangled Web Vol. 1</strong> consiste de cinco series de
+        <p><strong>A Tangled Web Vol. 1</strong> consiste en cinco series de
         seis NPC interconectados para que puedan dar vidilla a tus partidas.</p>
         <p>Son 30 NPCs que tienen relaciones de algún tipo entre ellos, no NPCs
     generados aleatoriamente y ya está, así que efectivamente, pueden dar más
@@ -490,7 +510,6 @@ estén pensadas para ello:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -514,7 +533,6 @@ estén pensadas para ello:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -536,7 +554,33 @@ estén pensadas para ello:
         </ul>
      </div>
 </div>
-<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/229/117/94c9c8af557f933c3bbd0db7ec2e394e_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612284535&auto=format&frame=1&q=92&s=562d23efb86eecd5f697647d20116e3d"
+        class="img-thumbnail" alt="Lands of Legends">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/giusepperotondo/lands-of-legends-five-zines-for-zinequest3?ref=mazmorreoensolitario">
+    Lands of Legends</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>Lands of Legends</strong> es una colección de cinco zines,
+    cada una con una herramienta diferente para crear contenido en tu sandbox
+    fantástico: áreas, zonas, encuentros y eventos. Cada zine contiene 10
+    tablas de área y 10 tablas de encuentro, para 10 tipos de terreno
+    diferentes. Las zines se engloban en estas temáticas: Grim, Fairy, Holy y Primeval.</p>
+        <p>Son cines de tablas, y ya sabéis que queremos mucho a las tablas en
+    el rol en solitario.</p> 
+        <ul>
+            <li>PDF: 5€ por una zine</li>
+            <li>PDF + físico: 10€ por una zine</li>
+            <li>PDF: 20€ por todas las zines</li>
+            <li>PDF + físico: 40€ por todas las zines</li>
+            <li>¡Ya está financiado!</li>
+        </ul>
+     </div>
+</div>
 
 <div class="row">
     <div class="col-md-3">
@@ -560,7 +604,7 @@ estén pensadas para ello:
         </ul>
      </div>
 </div>
-<br>
+
 
 
 <div class="row">
@@ -587,7 +631,6 @@ estén pensadas para ello:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -609,7 +652,6 @@ estén pensadas para ello:
         </ul>
      </div>
 </div>
-
 
 <div class="row">
     <div class="col-md-3">
@@ -634,7 +676,6 @@ estén pensadas para ello:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -658,7 +699,6 @@ estén pensadas para ello:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -684,9 +724,30 @@ estén pensadas para ello:
         </ul>
      </div>
 </div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/058/568/3426ac4aded1d53a4c4cfd99bd7b4633_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611032397&auto=format&frame=1&q=92&s=572a6eccd6ba3618b2570a99c9ec8f2a"
+        class="img-thumbnail" alt="The Sonders">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/cavernsofheresy/the-sonders?ref=mazmorreoensolitario">
+    The Sonders</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>The Sonders</strong> es un suplemento agnóstico al sistema
+    que detalla veinte NPCs diferentes, con su historia, tablas para generar
+    equipamiento, deseos, peculiaridades...</p>
+        <p>Como bien dice la página de la campaña, puede usarse para añadir
+    encuentros interesantes con NPCs. Además no todo es fijo, sino que hay
+    tablas para generar alguna cosa de forma aleatoria.</p>
+        <ul>
+            <li>PDF: 2$</li>
+            <li>PDF + físico: 10$</li>
+        </ul>
+     </div>
+</div>
 <br>
-
-
 
 
 
