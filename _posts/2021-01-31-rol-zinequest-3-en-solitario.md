@@ -507,6 +507,7 @@ estén pensadas para ello:
         <ul>
             <li>PDF: 4$</li>
             <li>PDF + físico: 10$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
