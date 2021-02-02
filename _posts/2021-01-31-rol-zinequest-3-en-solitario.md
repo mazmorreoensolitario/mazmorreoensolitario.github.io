@@ -336,6 +336,23 @@ Y sin más dilación, aquí están las listas de zines:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/200/791/0c338883f5fec57fbf35060bbe206b99_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612111192&auto=format&frame=1&q=92&s=39bd7d3a17b077f4d2c60e29d2775da9"
+        class="img-thumbnail" alt="Monolith: Path of Transcendence">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/ethnismonolith/monolith-path-of-transcendence-zinequest?ref=mazmorreoensolitario">
+        Monolith: Path of Transcendence</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+        <p>Una zine que te lleva en un viaje desde lo mortal a lo divino. Juega
+        como un juego de rol de un jugador o como un suplemento para cualquier
+        TTRPG.</p>
+     </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
             src="https://ksr-ugc.imgix.net/assets/032/000/471/cb3f67f0b3cb3b70ab1fd96bc919a5eb_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1610538398&auto=format&frame=1&q=92&s=a08e1122e3adb689c62fee269b18ea40"
         class="img-thumbnail" alt="The Last Will and Testament of Gideon Blythe">
     </div>
@@ -348,6 +365,23 @@ Y sin más dilación, aquí están las listas de zines:
      </div>
 </div>
 <br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/196/504/7fdfcaac9371dfb9ebb03f9345da4783_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612066203&auto=format&frame=1&q=92&s=b099f2f5604ac7011699b626136a2631"
+        class="img-thumbnail" alt="Precious Little Animal">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/alexroberts/precious-little-animal?ref=mazmorreoensolitario">
+    Precious Little Animal</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+        <p>Un juego de rol de escritura en el que convertirás una semana de tu
+        vida en una adorable aventura.</p>
+     </div>
+</div>
+<br>
+
 
 <div class="row">
     <div class="col-md-3">
