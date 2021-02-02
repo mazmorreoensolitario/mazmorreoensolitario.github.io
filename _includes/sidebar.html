@@ -53,7 +53,7 @@
     <div id="most-read"></div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/09/07/root-en-solitario/" %}
+       {% if post.url == "/2021/01/30/noticias-boletin-enero-2021/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -69,7 +69,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/01/30/noticias-boletin-enero-2021/" %}
+       {% if post.url == "/2020/09/07/root-en-solitario/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -101,15 +101,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/01/24/crowdfunding-0118-0124/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}
+       {% if post.url == "/2021/01/31/rol-zinequest-3-en-solitario/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -125,7 +117,15 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}
+       {% if post.url == "/2021/01/24/crowdfunding-0118-0124/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -152,43 +152,39 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Root: Los Cachivaches"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
-      or tag[0] == "Root: The Clockwork"
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Fábulas de Peluche"
-      or tag[0] == "Praga Caput Regni"
       or tag[0] == "Undaunted: Normandy"
+      or tag[0] == "Boletín Informativo Solitario"
       or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "Old-School Essentials"
+      or tag[0] == "Praga Caput Regni"
       or tag[0] == "Res Arcana"
-      or tag[0] == "Undaunted: North Africa"
-      or tag[0] == "Blades in the Dark"
       or tag[0] == "Colonos del Imperio: Imperios del Norte"
+      or tag[0] == "Darwin's Journey"
       or tag[0] == "Endless Winter: Paleomericans"
+      or tag[0] == "Essen Spiel 2019"
+      or tag[0] == "Expansiópolis"
       or tag[0] == "Ironsworn"
       or tag[0] == "Kickstarter"
-      or tag[0] == "Mausritter"
+      or tag[0] == "Mothership"
       or tag[0] == "Pax Pamir"
       or tag[0] == "Print & play"
       or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "The City of Kings"
       or tag[0] == "Tiny Epic Dinosaurs"
+      or tag[0] == "Undaunted: North Africa"
+      or tag[0] == "Zine Quest"
       or tag[0] == "A Rasp of Sand"
       or tag[0] == "A Thousand Year Old Vampire"
-      or tag[0] == "Boletín Informativo Solitario"
-      or tag[0] == "Darwin's Journey"
       or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
       or tag[0] == "Ennie"
-      or tag[0] == "Essen Spiel 2019"
-      or tag[0] == "Expansiópolis"
-      or tag[0] == "Heroes of Terrinoth"
-      or tag[0] == "Kingdom Rush: Rift In Time"
+      or tag[0] == "GMT Games"
       or tag[0] == "Legends of Dsyx"
-      or tag[0] == "Lux Aeterna"
-      or tag[0] == "Mapping the Catacombs"
+      or tag[0] == "Legends Untold"
+      or tag[0] == "Maquis"
       or tag[0] == "Merv: The Heart of the Silk Road"
       or tag[0] == "Mini Rogue"
-      or tag[0] == "Mothership"
-      or tag[0] == "Nemesis"
       or tag[0] == "Oathsworn: Into the Deepwood"
       or tag[0] == "One Deck Dungeon"
       or tag[0] == "One Page Dungeon"
@@ -202,8 +198,10 @@
       or tag[0] == "Stellar Horizons"
       or tag[0] == "Sub Terra"
       or tag[0] == "Tank Duel: Enemy in the Crosshairs"
-      or tag[0] == "Too Many Bones"
-      or tag[0] == "Zine Quest" %}
+      or tag[0] == "The 7th Citadel"
+      or tag[0] == "The Last Hundred Yards: Airborne Over Europe"
+      or tag[0] == "The Last Hundred Yards"
+      or tag[0] == "Too Many Bones" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}

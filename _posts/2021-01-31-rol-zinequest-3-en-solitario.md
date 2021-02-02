@@ -53,7 +53,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/moonmax/12-years?ref=mazmorreoensolitario">
-    12 Years</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    12 Years</a></h4>
         <p>Juego de hexcrawl y mazmorreo de uno o más jugadores que no necesita
         GM.</p>
         <p>En <strong>12 Years</strong> se intercala la exploración por el
@@ -120,7 +120,7 @@ Y sin más dilación, aquí están las listas de zines:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
-            src="https://ksr-ugc.imgix.net/assets/032/184/777/8b99eedd063f5be8fa5ff48cbfb5f7c7_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611956021&auto=format&frame=1&q=92&s=3b0ae6b9ddc03dfd6948d49a9d14e092"
+            src="https://ksr-ugc.imgix.net/assets/032/215/788/0d8bb620e539769c09ca45f33e32af78_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612208195&auto=format&frame=1&q=92&s=4824ff8eaf10b579028d849d8e9ef368"
         class="img-thumbnail" alt="Bucket of Bolts">
     </div>
     <div class="col-md-9">
@@ -128,7 +128,8 @@ Y sin más dilación, aquí están las listas de zines:
     href="https://www.kickstarter.com/projects/jhrrsn/bucket-of-bolts-a-solo-rpg-zine?ref=mazmorreoensolitario">
     Bucket of Bolts</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
         <p>En esta zine construyes una nave espacial y juegas a descubrir cómo
-    cambia a lo largo del tiempo a medida que va teniendo diferentes capitanes.</p>
+    cambia a lo largo del tiempo a medida que va teniendo diferentes
+    capitanes. Es un hack de Artefact.</p>
      </div>
 </div>
 <br>
@@ -164,6 +165,38 @@ Y sin más dilación, aquí están las listas de zines:
 </div>
 <br>
 
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/108/214/e2551760f885bf5988d59a6c3c62de33_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611423288&auto=format&frame=1&q=92&s=d9c5965d776befd76b8c746ae420d355"
+        class="img-thumbnail" alt="Dungeoneering">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/grinningratpub/dungeoneering?ref=mazmorreoensolitario">
+    Dungeoneering</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>Dungeoneering</strong> es una zine que nos presenta un
+    sistema de rol en dos páginas y el resto dice estar lleno de generadores de
+    diferentes tipos de mazmorras. Hay seis dominios diferentes (bosque,
+    desierto, agua, fuego, hielo y cielo) y generadores para sitios
+    subterráneos de esos estilos.</p>
+    <p>Puede ser una opción para generar distintos tipos de mazmorras en
+    vuestros juegos de rol en solitario.</p>
+    <p><strong>Actualizado:</strong> Se mueve de lista de "posibles juegos en
+    solitario" a juego en solitario. El autor ha comentado en un comentario del
+    proyecto que dará soporte para el juego en solitario. Y actualizado
+    también, la zine es de al menos 30 páginas, 2 de reglas, 2-4 de la mazmorra
+    ejemplo, y el resto todo lleno de generadores.</p>
+        <ul>
+            <li>PDF: 5$</li>
+            <li>PDF + físico: 15$</li>
+        </ul>
+     </div>
+</div>
+<br>
+
+
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
@@ -173,7 +206,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/adamebell/grasping-nettles?ref=mazmorreoensolitario">
-    Grasping Nettles</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Grasping Nettles</a></h4>
         <p>Un juego de contar historias creando mundos y resolviendo problemas
     a través de las generaciones.</p>
     <p>En <strong>Grasping Nettles</strong>
@@ -184,6 +217,7 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 8$</li>
             <li>PDF + físico: 15$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -198,7 +232,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/drewcifer/harrowings-03-muspelhell?ref=mazmorreoensolitario">
-    Harrowings #03: MUSPELHELL</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Harrowings #03: MUSPELHELL</a></h4>
         <p>Una aventura en una mazmorra con toques heavy metal.</p>
         <p><strong>MUSPELHELL</strong> es una aventura en una mazmorra de tres
         niveles que podemos jugar en solitario controlando un grupo de
@@ -206,6 +240,7 @@ Y sin más dilación, aquí están las listas de zines:
     <ul>
             <li>PDF: 6$</li>
             <li>PDF + físico: 12$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -267,7 +302,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/dgchapman/journeylands-1?ref=mazmorreoensolitario">
-    Journeylands #1</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Journeylands #1</a></h4>
         <p>Zine-aventura sobre viajes en carretera sobre un sol psíquico.</p>
         <p><strong>Journeylands #1</strong> es un sistema basado en viajes en
     el que uno o más jugadores personalizan vehículos para vagabundear por un
@@ -382,26 +417,49 @@ Aquí os dejo una sección con una lista de diferentes zines que tienen pinta de
 ser útiles para partidas de rol en solitario, aunque las zines por si mismas no
 estén pensadas para ello:
 
+
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
-            src="https://ksr-ugc.imgix.net/assets/032/108/214/e2551760f885bf5988d59a6c3c62de33_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611423288&auto=format&frame=1&q=92&s=d9c5965d776befd76b8c746ae420d355"
-        class="img-thumbnail" alt="Dungeoneering">
+            src="https://ksr-ugc.imgix.net/assets/031/983/423/31c8ffbb729b45efa0ebb340984bd752_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1610409238&auto=format&frame=1&q=92&s=b33b63673f1606d14d9b025432e3212a"
+        class="img-thumbnail" alt="A Tangled Web Vol. 1">
     </div>
     <div class="col-md-9">
          <h4><a
-    href="https://www.kickstarter.com/projects/grinningratpub/dungeoneering?ref=mazmorreoensolitario">
-    Dungeoneering</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
-        <p><strong>Dungeoneering</strong> es una zine que nos presenta un
-    sistema de rol en dos páginas y el resto dice estar lleno de generadores de
-    diferentes tipos de mazmorras. Hay seis dominios diferentes (bosque,
-    desierto, agua, fuego, hielo y cielo) y generadores para sitios
-    subterráneos de esos estilos.</p>
-    <p>Puede ser una opción para generar distintos tipos de mazmorras en
-    vuestros juegos de rol en solitario.</p>
+    href="https://www.kickstarter.com/projects/benmccown/a-tangled-web-vol-1-zinequest-3?ref=discovery_tag_newest?ref=mazmorreoensolitario">
+    A Tangled Web Vol. 1</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>A Tangled Web Vol. 1</strong> consiste de cinco series de
+        seis NPC interconectados para que puedan dar vidilla a tus partidas.</p>
+        <p>Son 30 NPCs que tienen relaciones de algún tipo entre ellos, no NPCs
+    generados aleatoriamente y ya está, así que efectivamente, pueden dar más
+    alegría a tus partidas.</p> 
         <ul>
-            <li>PDF: 5$</li>
-            <li>PDF + físico: 15$</li>
+            <li>PDF: 4$</li>
+            <li>PDF + físico: 10$</li>
+        </ul>
+     </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/215/321/802beb0bf9c5583ecd9a866ca99b0b02_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612206505&auto=format&frame=1&q=92&s=9a822fd265edbffb7c9d807cedcc7015"
+        class="img-thumbnail" alt="BEstitchARY for MÖRK BORG">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/neonon/bestitchary-for-mork-borg?ref=mazmorreoensolitario">
+    BEstitchARY for MÖRK BORG</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>BEstitchARY for MÖRK BORG</strong> es un bestiario /
+    suplemento para Mörk Borg, en el que generas criaturas cosiéndolas unas a
+    otras. La idea es utilizar las 40 partes de las criaturas y mezclarlas para
+    conseguir el monstruo final.</p>
+        <p>Pues eso, un bestiario para Mörk Borg, si juegas a ese juego, muy
+        útil.</p> 
+        <ul>
+            <li>PDF: 6€</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -416,18 +474,92 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/fishinthepot/isometric-blanks?ref=mazmorreoensolitario">
-    Isometric Blanks</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Isometric Blanks</a></h4>
         <p><strong>Isometric Blanks</strong> es una zine con siete mapas de
     perspectiva isométrica que están vacíos. Has leído bien. Están vacíos y la
     idea es que los llenes tú en la zine..</p>
     <p>¿No te gusta pintar mapas? Aquí tienes mapas isométricos ya hechos.</p>
         <ul>
-            <li>físico: 5$</li>
+            <li>Físico: 5$</li>
             <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
 <br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/031/964/327/8eacd5224877174bf8d6d5da3d1eb98e_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1610239338&auto=format&frame=1&q=92&s=3a656b34d153f697607a28eed12d6c7e"
+        class="img-thumbnail" alt="Lowlife">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/583799276/lowlife-0?ref=mazmorreoensolitario">
+    Lowlife</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>Lowlife</strong> es un toolkit que nos da una serie de
+    reglas para juegos OSR y OSR-adyacentes que podemos utilizar cuando nos
+    adentramos en túneles, zanjas/trincheras y minas. Es decir, no es una
+    ambientación ni una aventura.</p>
+        <p>Si necesitáis adentraros en cualquiera de esos sitios, parece útil.</p> 
+        <ul>
+            <li>PDF: 6$</li>
+            <li>PDF + físico: 12$</li>
+            <li>¡Ya está financiado!</li>
+        </ul>
+     </div>
+</div>
+<br>
+
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/184/477/5ccb19cbc8b49d5de7ff5eeb65211cf4_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611954567&auto=format&frame=1&q=92&s=72ea555cb2215e8a7bc774160c86373e"
+        class="img-thumbnail" alt="Stories from the Slough">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/storiesfromtheslough/stories-from-the-slough?ref=mazmorreoensolitario">
+    Stories from the Slough</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>Stories from the Slough</strong> es una aventura tipo
+    hexcrawl con 19 hexágonos, 2 mazmorras, facciones y seis historias
+    especiales sobre algún NPC. La ambientación es
+    fantástica / post-apocalíptica, y está ambientada en una ciénaga llena de
+    extraños monstruos mutantes. No tiene estadísticas para ningún sistema (es
+    system-agnostic).</p>
+        <p>Las aventuras tipo hexcrawl son muy fáciles de jugar en solitario.</p> 
+        <ul>
+            <li>PDF: 5$</li>
+            <li>PDF + físico: 10$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/214/164/5e5ba9ac2c28ab2f06dd06d40bbf7ba2_original.png?ixlib=rb-2.1.0&w=680&fit=max&v=1612201459&auto=format&frame=1&lossless=true&s=6e6d05e6eea06332f520bdb10f7aef04"
+        class="img-thumbnail" alt="The 2020 Bestiary">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/1353144702/the-2020-bestiary?ref=mazmorreoensolitario">
+    The 2020 Bestiary</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>The 2020 Bestiary</strong> es un bestiario inspirado por los
+    monstruos que nos han dado caza durante 2020. Contiene 20 monstruos y
+    parece tener estadísticas típicas de D&D.</p>
+        <p>Pues eso, otro bestiario, siempre son útiles.</p> 
+        <ul>
+            <li>PDF: 5$</li>
+            <li>PDF + físico: 12$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
 
 <div class="row">
     <div class="col-md-3">
@@ -438,7 +570,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/lazylitch/the-haunted-hamlet-and-other-hexes?ref=mazmorreoensolitario">
-    The Haunted Hamlet</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    The Haunted Hamlet</a></h4>
         <p><strong>The Haunted Hamlet</strong> es una zine que detalla cuatro
         hexes que contienen localizaciones modulares para añadir en tu
         campaña. Utiliza estadísticas de Old-School Essentials.</p>
@@ -457,13 +589,37 @@ estén pensadas para ello:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/100/430/027814243f8298b7562ff41ad0462493_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611345994&auto=format&frame=1&q=92&s=d861fe36a7e46b17c3edbe1f8ab0290f"
+        class="img-thumbnail" alt="The Island of the Excellent: A Hexcrawl Zine">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/malcolminspace/the-island-of-the-excellent-a-hexcrawl-zine-0?ref=mazmorreoensolitario">
+    The Island of the Excellent: A Hexcrawl Zine</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>The Island of the Excellent: A Hexcrawl Zine</strong> es una
+    zine que tiene una aventura en formato hexcrawl, con mapas, NPCs, muchas
+    tablas, mazmorras, ruinas.... sin estadísticas para un sistema específico
+        (es system-agnostic).</p>
+        <p>Las aventuras tipo hexcrawl son muy fáciles de jugar en solitario.</p> 
+        <ul>
+            <li>PDF: 5CA$ (community copy)</li>
+            <li>PDF: 10CA$</li>
+            <li>PDF + físico: 15CA$</li>
+        </ul>
+     </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
             src="https://ksr-ugc.imgix.net/assets/032/212/111/2d697673ce350a3b1fbdd659816226e3_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612192078&auto=format&frame=1&q=92&s=231c0b7924198c023510c6875643062e"
         class="img-thumbnail" alt="The Vast in the Dark">
     </div>
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/appalachia-gothic/the-vast-in-the-dark-exploring-ruins-in-an-infinite-world?ref=mazmorreoensolitario">
-    The Vast in the Dark</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    The Vast in the Dark</a></h4>
         <p><strong>The Vast in the Dark</strong> es una zine que va sobre
         explorar megaestructuras alienígenas y oscuras en un reino
     infinito. Tiene herramientas para crear megaestructuras en un hexmap.</p>
@@ -479,6 +635,9 @@ estén pensadas para ello:
      </div>
 </div>
 <br>
+
+
+
 
 
 <hr>
