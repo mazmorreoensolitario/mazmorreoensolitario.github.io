@@ -129,7 +129,9 @@ Y sin más dilación, aquí están las listas de zines:
     Bucket of Bolts</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
         <p>En esta zine construyes una nave espacial y juegas a descubrir cómo
     cambia a lo largo del tiempo a medida que va teniendo diferentes
-    capitanes. Es un hack de Artefact.</p>
+    capitanes. Es un <a
+    href="https://mouseholepress.itch.io/artefact/devlog/218282/bucket-of-bolts-my-first-artefact-hack-launches-tomorrow">hack</a>
+    de Artefact.</p>
      </div>
 </div>
 <br>
