@@ -69,7 +69,6 @@ Y sin más dilación, aquí están las listas de zines:
 </div>
 <br>
 
-
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
@@ -362,6 +361,21 @@ Y sin más dilación, aquí están las listas de zines:
     Spacebase the fanzine - A Sci-Fi tribute</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
         <p>Una aventura de rol en solitario, con un setting modular, ficción no
     lineal y zine de creación de mundos.</p>
+     </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/204/456/b934d4a819aa0ab63b1eee5b8a0c96e9_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612133794&auto=format&frame=1&q=92&s=dfa96a38e9c6f2d94e7180031d092a67"
+        class="img-thumbnail" alt="The Lighthouse At The Edge Of The Universe - Solo RPG">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/ellalim/the-lighthouse-at-the-edge-of-the-universe-solo-rpg?ref=mazmorreoensolitario">
+    The Lighthouse At The Edge Of The Universe - Solo RPG</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+        <p>Un juego de escritura sobre la gestión de un faro en el borde del universo.</p>
      </div>
 </div>
 <br>
