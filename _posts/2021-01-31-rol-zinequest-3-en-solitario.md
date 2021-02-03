@@ -80,7 +80,7 @@ Y sin más dilación, aquí están las listas de zines:
     href="https://www.kickstarter.com/projects/tentaclemag/3die6-a-dungeon-creepy-crawler-roleplaying-game?ref=mazmorreoensolitario">
     3DIE6</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
         <p>Un juego de rol en solitario con estilo de juego hardcore diseñado
-    para jugar en solitario y  one-shots.</p>
+    para jugar en solitario y one-shots.</p>
      </div>
 </div>
 <br>
@@ -258,7 +258,6 @@ Y sin más dilación, aquí están las listas de zines:
 </div>
 <br>
 
-
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
@@ -419,6 +418,22 @@ Y sin más dilación, aquí están las listas de zines:
      </div>
 </div>
 <br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/187/017/262ecab2361ff0ad4c2f5437d8799b60_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611973022&auto=format&frame=1&q=92&s=f8da17c766fb63ab0b199180f611cbe0"
+        class="img-thumbnail" alt="Poject Terminus">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/ryancagle/project-terminus?ref=mazmorreoensolitario">
+    Poject Terminus</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+        <p>Un juego de rol en solitario sobre la locura y el multiverso.</p>
+     </div>
+</div>
+<br>
+
 
 <div class="row">
     <div class="col-md-3">
