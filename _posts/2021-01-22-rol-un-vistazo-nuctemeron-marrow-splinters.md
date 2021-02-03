@@ -133,6 +133,10 @@ usar en nuestras partidas: **Horrific visions after being cast out of the
 Astral (d10)** (1 cara); luego tenemos los créditos y ya empezamos con todo el
 contenido.
 
+<p align="center"><img src="https://live.staticflickr.com/65535/50905200032_45b3c4efd9_c.jpg"></p>
+<p align="center"><small>Un par de páginas de Nuctemeron</small></p>
+
+
 * **Outdoor Sites** (36 caras). Más de la mitad de esta zine se dedica a
   entradas para explorar sitios exteriores: *Dark Alleys*, *Forest*,
   *Graveyard* y *Park*; para los cuales tenemos las típicas tablas de
@@ -181,6 +185,10 @@ Finalmente, se cierra la zine con una contraportada que tiene una lista de
 contenidos.
 
 #### Opinión
+
+<p align="center"><img src="https://live.staticflickr.com/65535/50904379103_315b7072ca_c.jpg"></p>
+<p align="center"><small>Otra página de Nuctemeron</small></p>
+
 
 Lo primero que me llamó la atención de esta zine es el uso de
 los colores, la portada es principalmente roja y pega con la portada también
@@ -252,7 +260,12 @@ contexto, luego pasamos a los créditos y ¡comienza el contenido!
   llegar a lo que es hoy en día y finalmente también eliges algún evento que le
   haya marcado la vida. Bueno, y luego también tienes unas tablas de nombres
   típicos por cada región.
-    
+
+
+<p align="center"><img src="https://live.staticflickr.com/65535/50905216307_08e60e2065_c.jpg"></p>
+<p align="center"><small>Unas páginas de Marrow & Splinters</small></p>
+
+
 * **Corruption & Taint** (9 caras). Nuevas mecánicas que hacen que la
   corrupción que podríamos sufrir al lanzar un hechizo se convierta en una
   oportunidad ganando *Taints*. Los *Taints* pueden ser cosméticos o algún tipo
@@ -316,6 +329,9 @@ Y llegamos a la contraportada, que cierra la zine con más arte.
 
 #### Opinión
 
+<p align="center"><img src="https://live.staticflickr.com/65535/50904392843_458d0853c4_c.jpg"></p>
+<p align="center"><small>Arte de Marrow & Splinters</small></p>
+
 Lo único que no me gusta de esta zine es la página 2, donde tenemos la mini
 historia esa para meternos en contexto, simplemente porque no se lee muy bien
 la letra (teniendo el PDF al 167% de tamaño, que es mi tamaño de lectura
@@ -378,6 +394,10 @@ muy original y si os estancáis en algún momento, también sirven para seguir l
 aventura.
 
 ## Tras un primer vistazo...
+
+<p align="center"><img src="https://live.staticflickr.com/65535/50905191887_40ba5c7b00_c.jpg"></p>
+<p align="center"><small>Las dos zines</small></p>
+
 
 Hace poco he hecho auto-crítica de mis compras del año pasado relativas a Zine
 Quest (Zine Quest es una iniciativa de Kickstarter en la que durante febrero
