@@ -104,6 +104,25 @@ Y sin más dilación, aquí están las listas de zines:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/208/021/7bbff12c8eafdec7c602073362796871_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612162796&auto=format&frame=1&q=92&s=7b85c463d87fd2759a9d9957d8562e44"
+        class="img-thumbnail" alt="Around Alone: A Solo Sailing RPG">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/575728085/around-alone-a-solo-sailing-rpg?ref=mazmorreoensolitario">
+    Around Alone: A Solo Sailing RPG</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+        <p>Un juego de rol en solitario sobre hacer una regata en un velero,
+        solo. El juego está modelado en base a la competición <a
+        href="https://es.wikipedia.org/wiki/Vend%C3%A9e_Globe">Vendeé
+        Globe</a>.</p>
+     </div>
+</div>
+<br>
+
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
             src="https://ksr-ugc.imgix.net/assets/031/994/043/a7a2f8960bfb1af9b8b87be11965f8bc_original.jpg?ixlib=rb-2.1.0&crop=faces&w=352&h=198&fit=crop&v=1610485624&auto=format&frame=1&q=92&s=26b6337ac8587ea5daa4fbe067db588d"
         class="img-thumbnail" alt="All Must Bow">
     </div>
@@ -124,6 +143,7 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 6$</li>
             <li>PDF + físico: 14$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -307,6 +327,7 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 14$</li>
             <li>PDF + físico: 19$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -636,6 +657,30 @@ estén pensadas para ello:
 </div>
 
 
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://img.itch.zone/aW1nLzUwMTQ5MTkucG5n/original/VDwd16.png"
+        class="img-thumbnail" alt="Old Roads">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/kylelatino/old-roads?ref=mazmorreoensolitario">
+    Old Roads</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>Old Roads</strong> es una zine que contiene ocho mapas
+    isométricos de doble cara. No hay reglas, ni apéndice, ni tablas, nadie te
+        dice qué deberías hacer con estos mapas.</p>
+        <p>Otra zine de mapas, esta con cosas pintadas dentro del mapa en vez
+        de ser vacía; igualmente, puedes usarla en tus partidas de rol en
+        solitario. Además si se llega a los 2500$ hará una lista de semillas de
+        aventura para cada mapa. Muy útil.</p>
+        <ul>
+            <li>PDF: 10$</li>
+            <li>PDF + físico: 20$</li>
+        </ul>
+     </div>
+</div>
+
 
 <div class="row">
     <div class="col-md-3">
@@ -726,6 +771,7 @@ estén pensadas para ello:
             <li>PDF: 5CA$ (community copy)</li>
             <li>PDF: 10CA$</li>
             <li>PDF + físico: 15CA$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
