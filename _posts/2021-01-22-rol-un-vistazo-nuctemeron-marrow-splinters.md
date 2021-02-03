@@ -89,8 +89,8 @@ de Blackoath Entertainment: Seekers Beyond The Shroud y Disciples of Bone & Shad
     </div>
 </div>
 
-> **Nota importante:** he recibido una copia en PDF de cada zine de Blackoath
-> Entertainment.
+> **Nota importante:** he recibido una copia en PDF + físico de cada zine de
+> Blackoath Entertainment.
 
 ## ¿Qué es esto?
 
