@@ -129,7 +129,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/bleakhorizonspress/all-must-bow-zinequest3?ref=mazmorreoensolitario">
-    All Must Bow</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    All Must Bow</a> </h4>
         <p>Zine con una ambientación independiente del sistema, de horror
     cósmico, entidades antiguas y malvadas, y sus campeones a la deriva en un
     universo entrópico space-opera.</p>
@@ -174,7 +174,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/jhrrsn/bucket-of-bolts-a-solo-rpg-zine?ref=mazmorreoensolitario">
-    Bucket of Bolts</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Bucket of Bolts</a> </h4>
         <p>En esta zine construyes una nave espacial y juegas a descubrir cómo
     cambia a lo largo del tiempo a medida que va teniendo diferentes
     capitanes. Es un <a
@@ -236,7 +236,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/grinningratpub/dungeoneering?ref=mazmorreoensolitario">
-    Dungeoneering</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Dungeoneering</a> </h4>
         <p><strong>Dungeoneering</strong> es una zine que nos presenta un
     sistema de rol en dos páginas y el resto dice estar lleno de generadores de
     diferentes tipos de mazmorras. Hay seis dominios diferentes (bosque,
@@ -316,7 +316,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/luciankahn/hibernation?ref=mazmorreoensolitario">
-    Hibernation Games: 5 Journaling RPGs for Solo Play</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Hibernation Games: 5 Journaling RPGs for Solo Play</a> </h4>
         <p>Cinco juegos de contar historias.</p>
         <p><strong>Hibernation Games</strong> es una colección de cinco juegos
         en solitario ideados por diseñadores innovadores. El tema común es la
@@ -563,7 +563,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/benmccown/a-tangled-web-vol-1-zinequest-3?ref=discovery_tag_newest?ref=mazmorreoensolitario">
-    A Tangled Web Vol. 1</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    A Tangled Web Vol. 1</a> </h4>
         <p><strong>A Tangled Web Vol. 1</strong> consiste en cinco series de
         seis NPC interconectados para que puedan dar vidilla a tus partidas.</p>
         <p>Son 30 NPCs que tienen relaciones de algún tipo entre ellos, no NPCs
@@ -586,7 +586,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/neonon/bestitchary-for-mork-borg?ref=mazmorreoensolitario">
-    BEstitchARY for MÖRK BORG</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    BEstitchARY for MÖRK BORG</a> </h4>
         <p><strong>BEstitchARY for MÖRK BORG</strong> es un bestiario /
     suplemento para Mörk Borg, en el que generas criaturas cosiéndolas unas a
     otras. La idea es utilizar las 40 partes de las criaturas y mezclarlas para
@@ -595,6 +595,30 @@ estén pensadas para ello:
         útil.</p> 
         <ul>
             <li>PDF: 6€</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/249/429/1032d9f840237e1cfa6aacc3a09fc2fc_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612407425&auto=format&frame=1&q=92&s=8b5dfb8c27098419c29b6a135276813f"
+        class="img-thumbnail" alt="Curse: The City of One Thousand Martyrs">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/dicemonkey/curse-city-of-one-thousand-saints?ref=mazmorreoensolitario">
+    Curse: The City of One Thousand Martyrs</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>Curse: The City of One Thousand Martyrs</strong> es una zine
+    que describe el mundo alrededor de la ciudad, su historia, la propia ciudad
+        y sus distritos, facciones, las tierras colindantes y los monstruos.</p>
+        <p>Las zines que detallan una ambientación sin un sistema específico
+        pueden usarse como "semillas de aventura" o ideas para saber dónde y
+        porqué empiezas una campaña.</p>
+        <ul>
+            <li>PDF: 5$</li>
+            <li>PDF + físico: 10$</li>
             <li>¡Ya está financiada!</li>
         </ul>
      </div>
@@ -630,7 +654,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/giusepperotondo/lands-of-legends-five-zines-for-zinequest3?ref=mazmorreoensolitario">
-    Lands of Legends</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Lands of Legends</a> </h4>
         <p><strong>Lands of Legends</strong> es una colección de cinco zines,
     cada una con una herramienta diferente para crear contenido en tu sandbox
     fantástico: áreas, zonas, encuentros y eventos. Cada zine contiene 10
@@ -643,7 +667,7 @@ estén pensadas para ello:
             <li>PDF + físico: 10€ por una zine</li>
             <li>PDF: 20€ por todas las zines</li>
             <li>PDF + físico: 40€ por todas las zines</li>
-            <li>¡Ya está financiado!</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -657,7 +681,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/583799276/lowlife-0?ref=mazmorreoensolitario">
-    Lowlife</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Lowlife</a> </h4>
         <p><strong>Lowlife</strong> es un toolkit que nos da una serie de
     reglas para juegos OSR y OSR-adyacentes que podemos utilizar cuando nos
     adentramos en túneles, zanjas/trincheras y minas. Es decir, no es una
@@ -666,11 +690,10 @@ estén pensadas para ello:
         <ul>
             <li>PDF: 6$</li>
             <li>PDF + físico: 12$</li>
-            <li>¡Ya está financiado!</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
-
 
 <div class="row">
     <div class="col-md-3">
@@ -681,7 +704,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/kylelatino/old-roads?ref=mazmorreoensolitario">
-    Old Roads</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Old Roads</a> </h4>
         <p><strong>Old Roads</strong> es una zine que contiene ocho mapas
     isométricos de doble cara. No hay reglas, ni apéndice, ni tablas, nadie te
         dice qué deberías hacer con estos mapas.</p>
@@ -692,6 +715,7 @@ estén pensadas para ello:
         <ul>
             <li>PDF: 10$</li>
             <li>PDF + físico: 20$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -706,7 +730,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/storiesfromtheslough/stories-from-the-slough?ref=mazmorreoensolitario">
-    Stories from the Slough</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Stories from the Slough</a> </h4>
         <p><strong>Stories from the Slough</strong> es una aventura tipo
     hexcrawl con 19 hexágonos, 2 mazmorras, facciones y seis historias
     especiales sobre algún NPC. La ambientación es
@@ -731,7 +755,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/1353144702/the-2020-bestiary?ref=mazmorreoensolitario">
-    The 2020 Bestiary</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    The 2020 Bestiary</a> </h4>
         <p><strong>The 2020 Bestiary</strong> es un bestiario inspirado por los
     monstruos que nos han dado caza durante 2020. Contiene 20 monstruos y
     parece tener estadísticas típicas de D&D.</p>
@@ -776,7 +800,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/malcolminspace/the-island-of-the-excellent-a-hexcrawl-zine-0?ref=mazmorreoensolitario">
-    The Island of the Excellent: A Hexcrawl Zine</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    The Island of the Excellent: A Hexcrawl Zine</a> </h4>
         <p><strong>The Island of the Excellent: A Hexcrawl Zine</strong> es una
     zine que tiene una aventura en formato hexcrawl, con mapas, NPCs, muchas
     tablas, mazmorras, ruinas.... sin estadísticas para un sistema específico
@@ -786,6 +810,53 @@ estén pensadas para ello:
             <li>PDF: 5CA$ (community copy)</li>
             <li>PDF: 10CA$</li>
             <li>PDF + físico: 15CA$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/058/568/3426ac4aded1d53a4c4cfd99bd7b4633_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611032397&auto=format&frame=1&q=92&s=572a6eccd6ba3618b2570a99c9ec8f2a"
+        class="img-thumbnail" alt="The Sonders">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/cavernsofheresy/the-sonders?ref=mazmorreoensolitario">
+    The Sonders</a> </h4>
+        <p><strong>The Sonders</strong> es un suplemento agnóstico al sistema
+    que detalla veinte NPCs diferentes, con su historia, tablas para generar
+    equipamiento, deseos, peculiaridades...</p>
+        <p>Como bien dice la página de la campaña, puede usarse para añadir
+    encuentros interesantes con NPCs. Además no todo es fijo, sino que hay
+    tablas para generar alguna cosa de forma aleatoria.</p>
+        <ul>
+            <li>PDF: 2$</li>
+            <li>PDF + físico: 10$</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/243/942/2d3e35fcf3a861e6edd53fb8098e5930_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612373860&auto=format&frame=1&q=92&s=69bb58754e198a2ba1e0ee2ad91f5bf2"
+        class="img-thumbnail" alt="The Thawing Kingdom">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/rowanalgoet/the-thawing-kingdom?ref=mazmorreoensolitario">
+    The Thawing Kingdom</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>The Thawing Kingdom</strong> es una zine que nos presenta
+        una ambientación agnóstica al sistema, es un reino que emergió de su
+        sueño helado que ha durado siglos.</p>
+        <p>Las zines que detallan una ambientación sin un sistema específico
+        pueden usarse como "semillas de aventura" o ideas para saber dónde y
+        porqué empiezas una campaña.</p>
+        <ul>
+            <li>PDF: 5€</li>
+            <li>PDF + físico: 10€</li>
             <li>¡Ya está financiada!</li>
         </ul>
      </div>
@@ -815,32 +886,6 @@ estén pensadas para ello:
         </ul>
      </div>
 </div>
-
-<div class="row">
-    <div class="col-md-3">
-        <img width="500" height="500"
-            src="https://ksr-ugc.imgix.net/assets/032/058/568/3426ac4aded1d53a4c4cfd99bd7b4633_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611032397&auto=format&frame=1&q=92&s=572a6eccd6ba3618b2570a99c9ec8f2a"
-        class="img-thumbnail" alt="The Sonders">
-    </div>
-    <div class="col-md-9">
-         <h4><a
-    href="https://www.kickstarter.com/projects/cavernsofheresy/the-sonders?ref=mazmorreoensolitario">
-    The Sonders</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
-        <p><strong>The Sonders</strong> es un suplemento agnóstico al sistema
-    que detalla veinte NPCs diferentes, con su historia, tablas para generar
-    equipamiento, deseos, peculiaridades...</p>
-        <p>Como bien dice la página de la campaña, puede usarse para añadir
-    encuentros interesantes con NPCs. Además no todo es fijo, sino que hay
-    tablas para generar alguna cosa de forma aleatoria.</p>
-        <ul>
-            <li>PDF: 2$</li>
-            <li>PDF + físico: 10$</li>
-        </ul>
-     </div>
-</div>
-<br>
-
-
 
 <hr>
 
