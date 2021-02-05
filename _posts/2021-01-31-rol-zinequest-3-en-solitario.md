@@ -104,6 +104,22 @@ Y sin más dilación, aquí están las listas de zines:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/150/800/d44422fdc3f439676f5df4e334084cce_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611745618&auto=format&frame=1&q=92&s=c5fa8479020988bf98028bde40505449"
+        class="img-thumbnail" alt="Apothecaria">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/diamondblood/apothecaria?ref=mazmorreoensolitario">
+    Apothecaria</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+        <p>Un juego de escritura en solitario sobre crear pociones ambientado
+        en un acogedor mundo fantástico.</p>
+     </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
             src="https://ksr-ugc.imgix.net/assets/032/208/021/7bbff12c8eafdec7c602073362796871_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612162796&auto=format&frame=1&q=92&s=7b85c463d87fd2759a9d9957d8562e44"
         class="img-thumbnail" alt="Around Alone: A Solo Sailing RPG">
     </div>
@@ -148,7 +164,6 @@ Y sin más dilación, aquí están las listas de zines:
      </div>
 </div>
 <br>
-
 
 <div class="row">
     <div class="col-md-3">
@@ -357,9 +372,19 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/deusexminima/hope-is-not-a-plan?ref=mazmorreoensolitario">
-    Hope is Not a Plan</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    Hope is Not a Plan</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Juego de contar historias sobre el terror existencial de la gestión
     de proyectos profesional.</p>
+        <p><strong>Hope is not a Plan</strong> es un juego de escritura en
+    solitario en el que tomas nota de tus intentos de producir un proyecto de
+    ingeniería súper complicado dentro del tiempo y el presupuesto
+    acordado. Utilizarás un mazo de cartas, un dado d6 y si tienes, una torre
+    jenga.</p>
+        <ul>
+            <li>PDF: 7$</li>
+            <li>PDF + fisico 12$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
      </div>
 </div>
 <br>
@@ -477,9 +502,40 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/spacebase/spacebase-the-fanzine-a-sci-fi-tribute-first-issue?ref=mazmorreoensolitario">
-    Spacebase the fanzine - A Sci-Fi tribute</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    Spacebase the fanzine - A Sci-Fi tribute</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Una aventura de rol en solitario, con un setting modular, ficción no
     lineal y zine de creación de mundos.</p>
+    <p><strong>Spacebase</strong> es un juego de rol en solitario modular en el
+    que te mueves por cuatro mapas diferentes y te encuentras con hasta 16 NPCs
+    buscando a un misterioso personaje llamado 'Bulk'.</p>
+        <ul>
+            <li>PDF: 11£</li>
+            <li>PDF + físico: 17£</li>
+        </ul>
+     </div>
+</div>
+<br>
+
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/158/962/d028f603f0684428a397a0c1d30fd03f_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611790824&auto=format&frame=1&q=92&s=630c8134f560f8ca64b0cc647effab23"
+        class="img-thumbnail" alt="Space Weirdos">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/casgar/space-weirdos?ref=mazmorreoensolitario">
+    Space Weirdos</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>Space Weirdos</strong> es un wargame sci-fi de escaramuzas
+    que puedes jugar con cualquier mini que tengas por ahí.</p>
+        <p>Como resultado de un stretch goal se ha desbloqueado un suplemento
+        de 3-4 páginas que habilita el juego en solitario.</p>
+        <ul>
+            <li>PDF: 4$</li>
+            <li>PDF + fisico: 8$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
      </div>
 </div>
 <br>
@@ -493,8 +549,20 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/ellalim/the-lighthouse-at-the-edge-of-the-universe-solo-rpg?ref=mazmorreoensolitario">
-    The Lighthouse At The Edge Of The Universe - Solo RPG</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
-        <p>Un juego de escritura sobre la gestión de un faro en el borde del universo.</p>
+    The Lighthouse At The Edge Of The Universe - Solo RPG</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p>Un juego de escritura sobre la gestión de un faro en el borde del
+    universo.</p>
+    <p><strong>The Lighthouse At The Edge Of The Universe</strong> es un juego
+    de escritura en solitario que va sobre gestionar un faro en el espacio. Se
+    juega con un dado, una moneda y una baraja de cartas. Tira el dado y roba
+    una carta para obtener un fragmento de texto, tira la moneda para ver cómo
+    haces tarea, y después narra qué pasa con tus quehaceres, pensamientos y
+    observaciones.</p>
+    <ul>
+            <li>PDF: 6AU$</li>
+            <li>PDF + físico: 10AU$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
      </div>
 </div>
 <br>
@@ -540,9 +608,22 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/katamoiran/where-mystery-dwells?ref=mazmorreoensolitario">
-    Where Mystery Dwells</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    Where Mystery Dwells</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Un juego de rol en solitario con mecánicas Forged in The Dark en el
-    que exploras catacumbas, y está lleno de herramientas de generación procecural.</p>
+    que exploras catacumbas, y está lleno de herramientas de generación
+    procecural.</p>
+    <p><strong>Where Mystery Dwells</strong> es un juego oscuro y extravagante
+    sobre la exploración de unas catacumbas debajo de una ciudad fantástica e
+    industrial. El sistema de rol en solitario está inspirado en Blades in the
+    Dark y The Skeletons, y juegas como unos aprendices que buscan el favor de
+    su patrón. También tiene generadores independientes del sistema para
+    generar de forma procedural catacumbas, la ciudad y otros generadores para
+    crear personajes en ambos sitios.</p>
+        <ul>
+            <li>PDF: 4$</li>
+            <li>PDF + físico: 10$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
      </div>
 </div>
 <br>
@@ -609,7 +690,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/dicemonkey/curse-city-of-one-thousand-saints?ref=mazmorreoensolitario">
-    Curse: The City of One Thousand Martyrs</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Curse: The City of One Thousand Martyrs</a></h4>
         <p><strong>Curse: The City of One Thousand Martyrs</strong> es una zine
     que describe el mundo alrededor de la ciudad, su historia, la propia ciudad
         y sus distritos, facciones, las tierras colindantes y los monstruos.</p>
@@ -847,7 +928,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/rowanalgoet/the-thawing-kingdom?ref=mazmorreoensolitario">
-    The Thawing Kingdom</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    The Thawing Kingdom</a></h4>
         <p><strong>The Thawing Kingdom</strong> es una zine que nos presenta
         una ambientación agnóstica al sistema, es un reino que emergió de su
         sueño helado que ha durado siglos.</p>

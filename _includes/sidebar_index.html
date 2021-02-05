@@ -49,39 +49,40 @@
       {% if tag[0] == "Root: Los Cachivaches"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
       or tag[0] == "Mapping the Catacombs"
-      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Boletín Informativo Solitario"
-      or tag[0] == "Cuentos de ánimas"
       or tag[0] == "Disciples of Bone and Shadow"
-      or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Kickstarter"
-      or tag[0] == "Old-School Essentials"
-      or tag[0] == "Praga Caput Regni"
-      or tag[0] == "Res Arcana"
-      or tag[0] == "Undaunted: Normandy"
-      or tag[0] == "Ardennes 44"
-      or tag[0] == "Colonos del Imperio: Imperios del Norte"
-      or tag[0] == "Darwin's Journey"
-      or tag[0] == "Endless Winter: Paleomericans"
-      or tag[0] == "Essen Spiel 2019"
-      or tag[0] == "Expansiópolis"
-      or tag[0] == "Ironsworn"
       or tag[0] == "Mothership"
-      or tag[0] == "Pandemic: La caída de Roma"
-      or tag[0] == "Pax Pamir"
-      or tag[0] == "Print & play"
-      or tag[0] == "Tainted Grail: La caída de Ávalon"
-      or tag[0] == "The City of Kings"
-      or tag[0] == "Zine Quest"
+      or tag[0] == "Res Arcana"
       or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Colonos del Imperio: Imperios del Norte"
+      or tag[0] == "Cuentos de ánimas"
+      or tag[0] == "Expansiópolis"
+      or tag[0] == "Old-School Essentials"
+      or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Ardennes 44"
+      or tag[0] == "Charles S. Roberts Awards"
+      or tag[0] == "Essen Spiel 2019"
+      or tag[0] == "Etherfields"
+      or tag[0] == "Fábulas de Peluche"
+      or tag[0] == "Mausritter"
+      or tag[0] == "One Deck Dungeon"
+      or tag[0] == "Pax Pamir"
+      or tag[0] == "Rol"
+      or tag[0] == "Root: Riverfolk"
+      or tag[0] == "Undaunted: North Africa"
       or tag[0] == "A Rasp of Sand"
+      or tag[0] == "Darwin's Journey"
       or tag[0] == "Desolate: Dark Matters"
       or tag[0] == "Dice Throne Adventures"
       or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
+      or tag[0] == "English Eerie"
       or tag[0] == "Ennie"
-      or tag[0] == "Etherfields"
       or tag[0] == "Everdell"
       or tag[0] == "GMT Games"
+      or tag[0] == "Heroes of Terrinoth"
+      or tag[0] == "Ironsworn"
+      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Legends of Dsyx"
       or tag[0] == "Legends Untold"
       or tag[0] == "Maquis"
@@ -89,20 +90,20 @@
       or tag[0] == "Mini Rogue"
       or tag[0] == "Neverland: A Fantasy Role-Playing Setting"
       or tag[0] == "Oathsworn: Into the Deepwood"
-      or tag[0] == "One Deck Dungeon"
+      or tag[0] == "One Page Dungeon"
       or tag[0] == "OSR"
       or tag[0] == "Paladines del Reino del Oeste"
+      or tag[0] == "Pandemic: La caída de Roma"
       or tag[0] == "Pathfinder"
+      or tag[0] == "Print & play"
       or tag[0] == "Robinson Crusoe"
-      or tag[0] == "Rol"
-      or tag[0] == "Root: Riverfolk"
-      or tag[0] == "Scythe"
-      or tag[0] == "Sub Terra"
+      or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "The 7th Citadel"
+      or tag[0] == "The City of Kings"
       or tag[0] == "The Last Hundred Yards: Airborne Over Europe"
       or tag[0] == "The Last Hundred Yards"
       or tag[0] == "Too Many Bones"
-      or tag[0] == "Undaunted: North Africa" %}
+      or tag[0] == "Zine Quest" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
                                                    href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
@@ -162,7 +163,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/09/07/root-en-solitario/" %}
+       {% if post.url == "/2020/04/30/noticias-golden-geek-awards-2019/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -170,7 +171,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/04/30/noticias-golden-geek-awards-2019/" %}
+       {% if post.url == "/2020/09/07/root-en-solitario/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -186,7 +187,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}
+       {% if post.url == "/2019/03/09/analisis-maquis/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
