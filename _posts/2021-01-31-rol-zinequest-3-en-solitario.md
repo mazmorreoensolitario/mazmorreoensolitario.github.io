@@ -372,7 +372,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/deusexminima/hope-is-not-a-plan?ref=mazmorreoensolitario">
-    Hope is Not a Plan</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Hope is Not a Plan</a> </h4>
         <p>Juego de contar historias sobre el terror existencial de la gestión
     de proyectos profesional.</p>
         <p><strong>Hope is not a Plan</strong> es un juego de escritura en
@@ -459,6 +459,22 @@ Y sin más dilación, aquí están las listas de zines:
 </div>
 <br>
 
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/242/489/471e28460ac4f373daf67ae1d2107b68_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612367012&auto=format&frame=1&q=92&s=e4e7d3a939085c30ca8f9ac5ab5d7004"
+        class="img-thumbnail" alt="The Depths Of This Fores">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/ursidice/the-depths-of-this-forest?ref=mazmorreoensolitario">
+    The Depths Of This Fores</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+        <p>Es un juego surrealista de escritura, con supervivencia y
+    exploración en el inframundo de un bosque del océano.</p>
+     </div>
+</div>
+<br>
+
 
 <div class="row">
     <div class="col-md-3">
@@ -502,7 +518,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/spacebase/spacebase-the-fanzine-a-sci-fi-tribute-first-issue?ref=mazmorreoensolitario">
-    Spacebase the fanzine - A Sci-Fi tribute</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Spacebase the fanzine - A Sci-Fi tribute</a> </h4>
         <p>Una aventura de rol en solitario, con un setting modular, ficción no
     lineal y zine de creación de mundos.</p>
     <p><strong>Spacebase</strong> es un juego de rol en solitario modular en el
@@ -526,7 +542,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/casgar/space-weirdos?ref=mazmorreoensolitario">
-    Space Weirdos</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Space Weirdos</a> </h4>
         <p><strong>Space Weirdos</strong> es un wargame sci-fi de escaramuzas
     que puedes jugar con cualquier mini que tengas por ahí.</p>
         <p>Como resultado de un stretch goal se ha desbloqueado un suplemento
@@ -549,7 +565,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/ellalim/the-lighthouse-at-the-edge-of-the-universe-solo-rpg?ref=mazmorreoensolitario">
-    The Lighthouse At The Edge Of The Universe - Solo RPG</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    The Lighthouse At The Edge Of The Universe - Solo RPG</a> </h4>
         <p>Un juego de escritura sobre la gestión de un faro en el borde del
     universo.</p>
     <p><strong>The Lighthouse At The Edge Of The Universe</strong> es un juego
@@ -608,7 +624,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/katamoiran/where-mystery-dwells?ref=mazmorreoensolitario">
-    Where Mystery Dwells</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Where Mystery Dwells</a> </h4>
         <p>Un juego de rol en solitario con mecánicas Forged in The Dark en el
     que exploras catacumbas, y está lleno de herramientas de generación
     procecural.</p>
