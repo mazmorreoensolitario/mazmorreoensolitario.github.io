@@ -559,6 +559,22 @@ Y sin más dilación, aquí están las listas de zines:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/275/699/acdab938353b82d86bc6be206c44e8d3_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612600472&auto=format&frame=1&q=92&s=72b14240461f1a2addad6bee6e35535b"
+        class="img-thumbnail" alt="Superstition">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/albi13/superstition?ref=mazmorreoensolitario">
+    Superstition</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+        <p>Un juego de rol de escritura sobre crear rituales en los que no
+    crees, por el bien de la comunidad.</p>
+     </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
             src="https://ksr-ugc.imgix.net/assets/032/204/456/b934d4a819aa0ab63b1eee5b8a0c96e9_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612133794&auto=format&frame=1&q=92&s=dfa96a38e9c6f2d94e7180031d092a67"
         class="img-thumbnail" alt="The Lighthouse At The Edge Of The Universe - Solo RPG">
     </div>
