@@ -92,14 +92,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/01/30/noticias-boletin-enero-2021/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2020/04/30/noticias-golden-geek-awards-2019/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -108,7 +100,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/09/07/root-en-solitario/" %}
+       {% if post.url == "/2021/01/30/noticias-boletin-enero-2021/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -117,6 +109,14 @@
     <div class="image-container">
        {% for post in site.posts %}
        {% if post.url == "/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2020/09/07/root-en-solitario/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -137,29 +137,28 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Barrage"
+      or tag[0] == "Etherfields"
       or tag[0] == "Mapping the Catacombs"
       or tag[0] == "Root: Los Cachivaches"
-      or tag[0] == "Gloomhaven: Jaws of the Lion"
+      or tag[0] == "Ironsworn"
       or tag[0] == "Kickstarter"
       or tag[0] == "Mothership"
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Boletín Informativo Solitario"
       or tag[0] == "Cuentos de ánimas"
-      or tag[0] == "Etherfields"
-      or tag[0] == "Expansiópolis"
+      or tag[0] == "Gloomhaven: Jaws of the Lion"
       or tag[0] == "Ardennes 44"
       or tag[0] == "Charles S. Roberts Awards"
       or tag[0] == "Colonos del Imperio: Imperios del Norte"
       or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
+      or tag[0] == "Expansiópolis"
       or tag[0] == "Fábulas de Peluche"
       or tag[0] == "GMT Games"
+      or tag[0] == "Legends Untold"
       or tag[0] == "Mausritter"
-      or tag[0] == "Old-School Essentials"
       or tag[0] == "Res Arcana"
       or tag[0] == "Rol"
-      or tag[0] == "Root: Riverfolk"
-      or tag[0] == "A Rasp of Sand"
       or tag[0] == "A Thousand Year Old Vampire"
       or tag[0] == "Darwin's Journey"
       or tag[0] == "Desolate: Dark Matters"
@@ -169,21 +168,20 @@
       or tag[0] == "Essen Spiel 2019"
       or tag[0] == "Everdell"
       or tag[0] == "Heroes of Terrinoth"
-      or tag[0] == "Ironsworn"
       or tag[0] == "Labyrinth Lord"
-      or tag[0] == "Legends Untold"
       or tag[0] == "Maquis"
-      or tag[0] == "Mini Rogue"
       or tag[0] == "Neverland: A Fantasy Role-Playing Setting"
+      or tag[0] == "Old-School Essentials"
       or tag[0] == "One Deck Dungeon"
       or tag[0] == "One Page Dungeon"
-      or tag[0] == "Paladines del Reino del Oeste"
       or tag[0] == "Pandemic: La caída de Roma"
       or tag[0] == "Pax Pamir"
       or tag[0] == "Reinos de Papel: Más allá de las puertas"
-      or tag[0] == "Robinson Crusoe"
+      or tag[0] == "Root: Riverfolk"
       or tag[0] == "Root"
       or tag[0] == "Scarlet Heroes"
+      or tag[0] == "Scythe: El Auge de Fenris"
+      or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "The 7th Citadel"
       or tag[0] == "The Last Hundred Yards: Airborne Over Europe"
       or tag[0] == "The Last Hundred Yards"
