@@ -40,6 +40,8 @@ esta etiqueta:** <span class="label label-warning"><strong>¡Nueva!</strong></sp
 Si la zine aún se encuentra en **pre-campaña** estará marcada **con esta
 etiqueta:** <span class="label label-info"><strong>Pre-campaña</strong></span>
 
+Si la campaña ha terminado pondré esta etiqueta: <span class="label label-default"><strong>Finalizada</strong></span>
+
 Y sin más dilación, aquí están las listas de zines:
 
 ### Zines para el juego en solitario
@@ -119,6 +121,7 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 6£</li>
             <li>PDF + físico: 12£</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -550,7 +553,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/spacebase/spacebase-the-fanzine-a-sci-fi-tribute-first-issue?ref=mazmorreoensolitario">
-    Spacebase the fanzine - A Sci-Fi tribute</a> </h4>
+    Spacebase the fanzine - A Sci-Fi tribute</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Una aventura de rol en solitario, con un setting modular, ficción no
     lineal y zine de creación de mundos.</p>
     <p><strong>Spacebase</strong> es un juego de rol en solitario modular en el
@@ -917,6 +920,7 @@ estén pensadas para ello:
         <ul>
             <li>PDF: 5$</li>
             <li>PDF + físico: 12$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -988,6 +992,7 @@ estén pensadas para ello:
         <ul>
             <li>PDF: 2$</li>
             <li>PDF + físico: 10$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
