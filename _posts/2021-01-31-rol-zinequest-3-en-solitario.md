@@ -110,9 +110,16 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/diamondblood/apothecaria?ref=mazmorreoensolitario">
-    Apothecaria</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    Apothecaria</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Un juego de escritura en solitario sobre crear pociones ambientado
         en un acogedor mundo fantástico.</p>
+        <p><strong>Apothecaria</strong> es un juego de escritura en el que
+        tomas el rol de la bruja de un pueblo y creas pociones para los
+        habitantes, aventureros y monstruos que vienen a ti en busca de ayuda.</p>
+        <ul>
+            <li>PDF: 6£</li>
+            <li>PDF + físico: 12£</li>
+        </ul>
      </div>
 </div>
 <br>
@@ -448,16 +455,41 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-3">
         <img width="500" height="500"
             src="https://ksr-ugc.imgix.net/assets/032/187/017/262ecab2361ff0ad4c2f5437d8799b60_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611973022&auto=format&frame=1&q=92&s=f8da17c766fb63ab0b199180f611cbe0"
-        class="img-thumbnail" alt="Poject Terminus">
+        class="img-thumbnail" alt="Project Terminus">
     </div>
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/ryancagle/project-terminus?ref=mazmorreoensolitario">
-    Poject Terminus</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    Project Terminus</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
         <p>Un juego de rol en solitario sobre la locura y el multiverso.</p>
      </div>
 </div>
 <br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/196/072/79a269b967c8c210f32a83e6134f27de_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612061494&auto=format&frame=1&q=92&s=18feae834e821cc0711c55af0688a3fa"
+        class="img-thumbnail" alt="Tactical Deck">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/badenwhite/tactical-deck-a-solo-rpg-zine?ref=mazmorreoensolitario">
+    Tactical Deck</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p>Un juego de rol de estrategia sobre espionaje, infiltración y el uso
+        cuidadoso de recursos.</p>
+        <p><strong>Tactical Deck</strong> es un micro-RPG para jugar en
+        solitario que te pone el el rol de un soldado de operaciones especiales 
+        que trata de infiltrarse en un rascacielos tomado por un grupo
+        terrorista.</p>
+        <ul>
+            <li>PDF: 5£</li>
+            <li>PDF + físico: 10£</li>
+        </ul>
+     </div>
+</div>
+<br>
+
 
 <div class="row">
     <div class="col-md-3">
@@ -608,9 +640,18 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/Highmoon/thru-hiker-a-journaling-game-of-long-distance-hiking?ref=mazmorreoensolitario">
-    Thru-Hiker: A Journaling Game of Long-Distance Hiking</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    Thru-Hiker: A Journaling Game of Long-Distance Hiking</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Utiliza cartas y pequeñas entradas de escritura para planear tu
     caminata, gestiona tus recursos y escribe tu historia en el camino.</p>
+        <p><strong>Thru-Hiker</strong> es un juego de escritura en el que
+        cuentas historias en las que estás haciendo senderismo de largo
+        recorrido. Con las entradas que te da esta zine y un mazo de cartas,
+    crearás historias sobre las alegrías y desafíos del camino, durante días,
+        semanas o meses.</p>
+        <ul>
+            <li>PDF: 5$</li>
+            <li>PDF + físico: 15$</li>
+        </ul>
      </div>
 </div>
 <br>
