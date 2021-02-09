@@ -392,9 +392,20 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/stay-frosty/stay-frosty?ref=mazmorreoensolitario">
-    High Speed Low Drag</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    High Speed Low Drag</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Un juego de escritura en el que sigues la carrera de un soldado de
     élite dentro y fuera del campo de batalla.</p>
+        <p><strong>High Speed Low Drag</strong> es un juego de escritura en
+    solitario diseñado para ayudarte a contar historias interesantes sobre
+    soldados. El juego tiene mecánicas inspiradas en Blades in the Dark y
+    Apocalypse World, adaptando esas mecánicas de ficción primero para una
+    experiencia completamente en solitario. Para jugar necesitas unos dados d6
+        y un mazo de cartas.</p>
+         <ul>
+            <li>PDF: 5£</li>
+            <li>Físiico: 7£</li>
+            <li>PDF + físico: 10£</li>
+        </ul>
      </div>
 </div>
 <br>
