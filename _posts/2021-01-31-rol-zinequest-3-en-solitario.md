@@ -80,9 +80,24 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/tentaclemag/3die6-a-dungeon-creepy-crawler-roleplaying-game?ref=mazmorreoensolitario">
-    3DIE6</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    3DIE6</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Un juego de rol en solitario con estilo de juego hardcore diseñado
     para jugar en solitario y one-shots.</p>
+        <p><strong>3DIE6</strong> es un juego de mazmorreo old-school con
+    elementos de funnel y OSR. Contiene unas semillas de aventura, un modo de
+    generar mazmorras de forma aleatoria y los enemigos tienen una pequeña
+    IA.</p>
+    <p>En esta campaña se puede obtener una segunda zine: 'Delve Your
+    Own Dungeon', diseñada también para el juego en solitario, que es un
+    libro-aventura que utiliza las reglas de 3DIE6.</p>
+        <ul>
+            <li>PDF: 7$ (core rulebook)</li>
+            <li>PDF: 10$ (core rulebook + libro-juego)</li>
+            <li>PDF + físico: 12$ (core rulebook)</li>
+            <li>PDF + físico: 20$ (core rulebook + libro-juego)</li>
+            <li>PDF + físico: 20$ (deluxe rulebook)</li>
+            <li>PDF + físico: 25$ (deluxe rulebook + deluxe libro-juego)</li>
+        </ul>
      </div>
 </div>
 <br>
@@ -96,9 +111,19 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/nadulpan/aelemental-zine-o-phobia-part-1-wood?ref=mazmorreoensolitario">
-    AElemental Zine-O-phobia - Part 1: Wood</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    AElemental Zine-O-phobia - Part 1: Wood</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Una zine que podéis jugar como un roll & write en solitario, la
     temática es sobre el conflicto en un mundo de eco-fantasía.</p>
+    <p><strong>AElemental</strong> es una zine que contiene un juego de rol y
+    un juego roll & write de 1 a 5 jugadores. Está ambientado en el mundo de
+    Ælemental Journey, una serie de libros con temática
+    ecológica-fantástica. La zine incluye cinco entradas de aventura que se
+    pueden unir para crear una campaña que busca la resolución de problemas sin
+    utilizar violencia.</p>
+        <ul>
+            <li>PDF: 8$</li>
+            <li>PDF + físico: 16$</li>
+        </ul>
      </div>
 </div>
 <br>
@@ -654,6 +679,7 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 5$</li>
             <li>PDF + físico: 15$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
