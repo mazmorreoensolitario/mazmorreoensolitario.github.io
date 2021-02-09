@@ -97,6 +97,7 @@ Y sin más dilación, aquí están las listas de zines:
             <li>PDF + físico: 20$ (core rulebook + libro-juego)</li>
             <li>PDF + físico: 20$ (deluxe rulebook)</li>
             <li>PDF + físico: 25$ (deluxe rulebook + deluxe libro-juego)</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -561,9 +562,16 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/alexroberts/precious-little-animal?ref=mazmorreoensolitario">
-    Precious Little Animal</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    Precious Little Animal</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Un juego de rol de escritura en el que convertirás una semana de tu
         vida en una adorable aventura.</p>
+        <p><strong>Precious Little Animal</strong> es un juego en solitario de
+        escritura en el que tratas de descubrir las buenas cosas de tu vida, y
+        las compartes con un amigo imaginario a lo largo de una semana.</p>
+        <ul>
+            <li>PDF: 10CA$</li>
+            <li>PDF + físico: 12CA$</li>
+        </ul>
      </div>
 </div>
 <br>
