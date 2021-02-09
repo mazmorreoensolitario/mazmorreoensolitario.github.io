@@ -403,7 +403,7 @@ Y sin más dilación, aquí están las listas de zines:
         y un mazo de cartas.</p>
          <ul>
             <li>PDF: 5£</li>
-            <li>Físiico: 7£</li>
+            <li>Físico: 7£</li>
             <li>PDF + físico: 10£</li>
         </ul>
      </div>
