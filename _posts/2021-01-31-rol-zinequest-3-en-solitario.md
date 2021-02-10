@@ -221,6 +221,7 @@ Y sin más dilación, aquí están las listas de zines:
                 <li>Está disponible en español.</li>
                 <li>PDF: 4€</li>
                 <li>PDF + físico: 8€</li>
+                <li>¡Ya está financiada!</li>
             </ul>
         </p>
      </div>
@@ -282,8 +283,17 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/avri/descending-the-stairs?ref=mazmorreoensolitario">
-    Descending the Stairs</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
-        <p>Un juego de rol de contar historias sobre la vida nocturna y la nostalgia.</p>
+    Descending the Stairs</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p>Un juego de rol de contar historias sobre la vida nocturna y la
+    nostalgia.</p>
+        <p><strong>Descending the Stairs</strong> es un juego narrativo en el
+        que de 1 a 6 jugadores narran los eventos sucedidos la última noche en
+        un querido y conocido club nocturno.</p>
+        <ul>
+            <li>PDF: 6$</li>
+            <li>PDF + físico: 15$ (para envíos fuera de USA, a USA 10$)</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
      </div>
 </div>
 <br>
@@ -627,6 +637,7 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 10CA$</li>
             <li>PDF + físico: 12CA$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
