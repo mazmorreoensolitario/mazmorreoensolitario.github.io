@@ -210,8 +210,19 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/vladtemper/bloodstained-hands?ref=mazmorreoensolitario">
-    Bloodstained Hands</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    Bloodstained Hands</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Un juego de rol en solitario que utiliza mecánicas de Trophy.</p>
+        <p><strong>Bloodstained Hands</strong> es un juego de rol en solitario
+        que también puede jugarse con un GM, en el que interpretas a una
+    persona inmersa en un rito peligroso para obtener el Perdón de las almas
+    que has matado. <i>Descripción copiada de la campaña.</i></p>
+        <p>
+            <ul>
+                <li>Está disponible en español.</li>
+                <li>PDF: 4€</li>
+                <li>PDF + físico: 8€</li>
+            </ul>
+        </p>
      </div>
 </div>
 <br>
