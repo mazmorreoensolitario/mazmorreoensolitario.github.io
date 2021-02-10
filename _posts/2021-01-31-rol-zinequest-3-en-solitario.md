@@ -312,6 +312,28 @@ Y sin más dilación, aquí están las listas de zines:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/290/813/192115878a9df9ba6d6a018908854e08_original.jpg?ixlib=rb-2.1.0&w=680&fit=max&v=1612734922&auto=format&frame=1&q=92&s=903e4988574a033c14858f0340585055"
+        class="img-thumbnail" alt="Fight Club Arena">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/tks/zinequest3-docks-of-caswarren-a-legacy-rpg-city-guide?ref=mazmorreoensolitario">
+    Fight Club Arena</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p> En esta campaña se pueden conseguir dos zines, de las cuales Fight
+        Club Arena puede jugarse en solitario. <strong>Fight Club
+        Arena</strong> es un juego en el que puedes luchar contra bestias
+        fantásticas en combates tanto brutales como letales.</p>
+        <ul>
+            <li>PDF + físico: 12£</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
             src="https://ksr-ugc.imgix.net/assets/031/985/748/837180ff76a6edb3678e3b233611bb7f_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1610427552&auto=format&frame=1&q=92&s=f2851918fa3b7cfc05f3f1ae8d0c0507"
         class="img-thumbnail" alt="Grasping Nettles">
     </div>
@@ -483,10 +505,22 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/ethnismonolith/monolith-path-of-transcendence-zinequest?ref=mazmorreoensolitario">
-        Monolith: Path of Transcendence</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+        Monolith: Path of Transcendence</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Una zine que te lleva en un viaje desde lo mortal a lo divino. Juega
         como un juego de rol de un jugador o como un suplemento para cualquier
         TTRPG.</p>
+        <p><strong>Monolith: Path of Transcendence</strong> es una zine
+        agnóstica al sistema y la ambientación que te permite generar
+        personajes e introduce Monolitos, personas que se volvieron poderosas
+        tras un despertar. Puede verse como un juego en solitario de escritura
+        o como un suplemento para otros juegos de rol.</p>
+        <p>
+            <ul>
+                <li>PDF: 5$</li>
+                <li>PDF + físico: 15$</li>
+                <li>¡Ya está financiada!</li>
+            </ul>
+        </p>
      </div>
 </div>
 <br>
@@ -821,6 +855,32 @@ estén pensadas para ello:
         <ul>
             <li>PDF: 5$</li>
             <li>PDF + físico: 10$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/318/238/e00868716cf5060b020d1a374ad4a6a8_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612916257&auto=format&frame=1&q=92&s=6f16a1f6645a97072cd0ddc9b0ed3fd5"
+        class="img-thumbnail" alt="Glimmer's Rim">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/glasscutter/glimmers-rim?ref=mazmorreoensolitario">
+    Glimmer's Rim</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>Glimmer's Rim</strong> es un hexcrawl en una isla
+        psicodélica. Esta isla tiene ~25 hexágonos diferentes y una pequeña
+        mazmorra que explorar. En cada hex tendremos algo con lo que
+    interactuar, algo obvio que explorar y algo secreto que encontrar. Las
+    estadísticas de los monstruos están preparadas para 5e y desde el
+        Kickstarter los autores piden la opinión de los mecenas para añadir
+    otro sistema que sea OSR.</p>
+        <p>Otro hexcrawl, los hexcrawls son muy fáciles de jugar en solitario.</p>
+        <ul>
+            <li>PDF: 5$</li>
+            <li>PDF + físico: 15$</li>
             <li>¡Ya está financiada!</li>
         </ul>
      </div>
