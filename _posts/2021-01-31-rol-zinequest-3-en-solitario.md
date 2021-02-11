@@ -700,9 +700,18 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/albi13/superstition?ref=mazmorreoensolitario">
-    Superstition</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    Superstition</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Un juego de rol de escritura sobre crear rituales en los que no
     crees, por el bien de la comunidad.</p>
+    <p><strong>Superstition</strong> es un juego de escritura en solitario con
+    mecánicas ligeras y que se juega con un mazo de 52 cartas. Es un juego
+    sobre relaciones interpersonales entre el oráculo y la autoridad, el
+    oráculo y la comunidad, y de estos tres con el destino.</p>
+     <ul>
+            <li>PDF: 5€</li>
+            <li>PDF + fisico: 9€</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
      </div>
 </div>
 <br>
