@@ -11,6 +11,7 @@ jugar en solitario durante este mes de febrero"
 
 ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210131-bis/zq3.png)
 
+
 **[Zine Quest](https://www.kickstarter.com/zinequest)** es una
 iniciativa que hace Kickstarter por tercer año consecutivo
 ([aquí]({{site.baseurl}}/2020/02/21/rol-zinequest-2/) la cobertura de 2020) en
