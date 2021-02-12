@@ -162,11 +162,24 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/575728085/around-alone-a-solo-sailing-rpg?ref=mazmorreoensolitario">
-    Around Alone: A Solo Sailing RPG</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    Around Alone: A Solo Sailing RPG</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Un juego de rol en solitario sobre hacer una regata en un velero,
         solo. El juego está modelado en base a la competición <a
         href="https://es.wikipedia.org/wiki/Vend%C3%A9e_Globe">Vendeé
         Globe</a>.</p>
+        <p><strong>Around Alone</strong> está diseñado para darte las mismas
+        sensaciones que tendrías de participar en una regata de veleros en
+        solitario, cuándo ir más despacio y reparar, cuándo apretar, si ganar
+        merece la pena el riesgo de no terminar o perder tu vida.... Las reglas
+    describen como personalizar a tu marinero y tu velero, como tomar nota de
+    tu posición por el Atlántico, y cómo jugar turno a turno gestionando el
+    tiempo, reparaciones y tratando de sacar lo máximo de tu velero.</p>
+        <ul>
+            <li>PDF: 7$</li>
+            <li>Físico: 10$</li>
+            <li>PDF + físico: 15$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
      </div>
 </div>
 <br>
