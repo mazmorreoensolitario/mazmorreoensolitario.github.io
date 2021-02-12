@@ -609,9 +609,19 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/ursidice/the-depths-of-this-forest?ref=mazmorreoensolitario">
-    The Depths Of This Fores</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    The Depths Of This Fores</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Es un juego surrealista de escritura, con supervivencia y
     exploración en el inframundo de un bosque del océano.</p>
+        <p><strong>The Depths Of This Forest</strong> es un juego de escritura
+    en un hexcrawl. A medida que te mueves por cada profundidad tendrás
+    diferentes encuentros con las criaturas que viven allí, o con los espíritus
+    perdidos. Utiliza una combinación de tiradas de dados y robo de cartas para
+    generar encuentros y colocar puntos de interés.</p>
+        <ul>
+            <li>PDF: 5£ (dificultades económicas)</li>
+            <li>PDF: 9£</li>
+            <li>PDF + físico: 14£</li>
+        </ul>
      </div>
 </div>
 <br>
