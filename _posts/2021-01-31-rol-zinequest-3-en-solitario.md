@@ -70,7 +70,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -102,7 +101,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -128,7 +126,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -152,7 +149,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -183,8 +179,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
-
 
 <div class="row">
     <div class="col-md-3">
@@ -213,7 +207,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -240,7 +233,6 @@ Y sin más dilación, aquí están las listas de zines:
         </p>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -270,7 +262,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -294,7 +285,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -318,8 +308,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
-
 
 <div class="row">
     <div class="col-md-3">
@@ -350,7 +338,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -372,7 +359,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -398,7 +384,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -421,7 +406,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -446,7 +430,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -473,7 +456,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -499,7 +481,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -521,7 +502,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -632,8 +612,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
-
 
 <div class="row">
     <div class="col-md-3">
@@ -701,8 +679,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
-
 
 <div class="row">
     <div class="col-md-3">
@@ -725,7 +701,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 
 <div class="row">
@@ -749,7 +724,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -774,7 +748,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -801,7 +774,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
