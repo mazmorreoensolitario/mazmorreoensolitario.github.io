@@ -570,8 +570,7 @@ Y sin más dilación, aquí están las listas de zines:
     en solitario en el que jugamos en mazmorras en la que los corredores son
     tan estrechos que solo entra un personaje.</p>
     <ul>
-            <li>Parece ser que no hay copias solamente en PDF y que no hacen
-            envíos a Europa...</li>
+            <li>PDF: 10$</li>
             <li>¡Ya está financiada!</li>
         </ul>
      </div>
