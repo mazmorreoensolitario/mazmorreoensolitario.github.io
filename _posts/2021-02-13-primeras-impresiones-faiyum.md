@@ -80,9 +80,9 @@ Si tienes una única carta de construcción de ciudades, por ejemplo, tendrás q
 tener cuidado, ya que aunque puedes recuperar las tres cartas descartadas más
 recientes en la fase de administración (y el resto pagando precios
 cada vez más altos...), cada vez que hagas esta fase de administración deberás
-descartar dos cartas del mercado y robar otras dos del mazo. Así que cuantas
-más fases de administración juegues, el mazo de robo se hará cada vez más
-pequeño y el final del juego te acechará.
+descartar dos cartas del mercado y robar otras dos del mazo para
+reemplazarlas. Así que cuantas más fases de administración juegues, el mazo de
+robo se hará cada vez más pequeño y el final del juego te acechará.
 
 Así pues, en este juego **tendremos que gestionar el orden en el que queremos
 jugar las cartas** de nuestra mano, **qué queremos comprar en el mercado de

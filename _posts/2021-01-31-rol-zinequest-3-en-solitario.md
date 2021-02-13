@@ -485,6 +485,31 @@ Y sin más dilación, aquí están las listas de zines:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/108/066/7a07a51e62f6a100db7d75175354ac37_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611422190&auto=format&frame=1&q=92&s=0fd10f7f10f8f61b0c10656eed9c83b7"
+        class="img-thumbnail" alt="In the Light of a Faded World">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/derekkinsman/in-the-light-of-a-faded-world?ref=mazmorreoensolitario">
+    In the Light of a Faded World</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p>Explora, como una pequeña criatura del bosque, un mundo reclamado
+    por la naturaleza</p>
+        <p>En <strong>In the Light of a Faded World</strong> estamos en un
+    futuro en el que los humanos han desaparecido hace bastante tiempo, las
+    ciudades han sido tragadas por la naturaleza, y tú, una pequeña criatura,
+    por fin puedes aventurarte en estos espacios.</p>
+        <p>Pensada para jugar en solitario, juegos multijugador estándar, y
+        juegos multijugador gm-less.</p>
+        <ul>
+            <li>PDF: 6CA$</li>
+            <li>PDF + físico: 10CA$</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
             src="https://ksr-ugc.imgix.net/assets/031/989/922/edda2746137803edf170f488367b986d_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1610463214&auto=format&frame=1&q=92&s=ec02222253f727b7452838e71e6905be"
         class="img-thumbnail" alt="Journeylands #1">
     </div>
@@ -527,7 +552,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -538,12 +562,20 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/crumblingkeep/marching-order-a-solo-or-co-op-dark-dungeon-delving-zine?ref=mazmorreoensolitario">
-        Marching Order - A Solo or Co-op Dark Dungeon Delving Zine</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+        Marching Order - A Solo or Co-op Dark Dungeon Delving Zine</a> <span class="label
+    label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Juega como un ladrón que apuñala por la espalda en este crudo juego
     inspirado por la vieja escuela, de mazmorreo, tácticas, caos y dinero.</p>
+    <p><strong>Marching Order</strong> es un juego de mazmorreo cooperativo o
+    en solitario en el que jugamos en mazmorras en la que los corredores son
+    tan estrechos que solo entra un personaje.</p>
+    <ul>
+            <li>Parece ser que no hay copias solamente en PDF y que no hacen
+            envíos a Europa...</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
