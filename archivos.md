@@ -155,7 +155,7 @@ En esta sección tienes ordenadas las entradas del blog por categoría:
 
 {% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
-  <h4><a name="{{ category[0] }}">{{ category[0]}}</a></h4>
+  <h4 id="{{ category[0] }}">{{ category[0]}}</h4>
   <ul>
     {% for post in category[1] %}
     <li>

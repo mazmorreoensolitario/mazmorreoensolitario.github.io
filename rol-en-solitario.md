@@ -29,6 +29,26 @@ en solitario.
 * 25 Abril, 2019. [Mothership: Player's survival
   guide.]({{site.baseurl}}/2019/04/25/rol-mothership/)
 
+<div class="col-md-12">
+<div class="col-md-8">
+{% for category in site.categories %}
+{% if category[0] == "Rol" %}
+    {% assign sorted = (category[1] | sort: 'book') %}
+    {% for post in sorted %}
+        {% if post.book %}
+            <div class="image-container">
+                <a href="{{site.url}}{{post.url}}">
+                    <img class="crop-sidebar" src="{{post.imghtml}}">
+                    <div class="text-block"><h5>{{post.book}}</h5></div>
+                </a>
+            </div>
+        {% endif %}
+    {% endfor %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+
 ### Un pequeño vistazo...
 
 * 22 de Enero, 2021. [Nuctemeron y Marrow &

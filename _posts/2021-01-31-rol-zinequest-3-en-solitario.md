@@ -518,7 +518,7 @@ Y sin más dilación, aquí están las listas de zines:
         <p><strong>Lay On Hands</strong> es una zine de contar historias para
         un jugador en la que juegas como un curandero con gran talento. En esta
         zine no tiras dados para ver si superas pruebas, sino que tirarás una
-        moneda y completarás secciones de un mini-juego de pintar-</p>
+        moneda y completarás secciones de un mini-juego de pintar.</p>
         <ul>
             <li>PDF: 5£</li>
             <li>PDF + físico (DriveThruRPG): 7£</li>
