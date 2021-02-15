@@ -45,6 +45,7 @@ Si la campaña ha terminado pondré esta etiqueta: <span class="label label-defa
 
 Y sin más dilación, aquí están las listas de zines:
 
+
 ### Zines para el juego en solitario
 
 <div class="row">
@@ -56,7 +57,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/moonmax/12-years?ref=mazmorreoensolitario">
-    12 Years</a></h4>
+    12 Years</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de hexcrawl y mazmorreo de uno o más jugadores que no necesita
         GM.</p>
         <p>En <strong>12 Years</strong> se intercala la exploración por el
@@ -80,7 +81,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/tentaclemag/3die6-a-dungeon-creepy-crawler-roleplaying-game?ref=mazmorreoensolitario">
-    3DIE6</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    3DIE6</a> </h4>
         <p>Un juego de rol en solitario con estilo de juego hardcore diseñado
     para jugar en solitario y one-shots.</p>
         <p><strong>3DIE6</strong> es un juego de mazmorreo old-school con
@@ -111,7 +112,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/nadulpan/aelemental-zine-o-phobia-part-1-wood?ref=mazmorreoensolitario">
-    AElemental Zine-O-phobia - Part 1: Wood</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    AElemental Zine-O-phobia - Part 1: Wood</a> </h4>
         <p>Una zine que podéis jugar como un roll & write en solitario, la
     temática es sobre el conflicto en un mundo de eco-fantasía.</p>
     <p><strong>AElemental</strong> es una zine que contiene un juego de rol y
@@ -136,7 +137,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/diamondblood/apothecaria?ref=mazmorreoensolitario">
-    Apothecaria</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Apothecaria</a> </h4>
         <p>Un juego de escritura en solitario sobre crear pociones ambientado
         en un acogedor mundo fantástico.</p>
         <p><strong>Apothecaria</strong> es un juego de escritura en el que
@@ -159,7 +160,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/575728085/around-alone-a-solo-sailing-rpg?ref=mazmorreoensolitario">
-    Around Alone: A Solo Sailing RPG</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Around Alone: A Solo Sailing RPG</a> </h4>
         <p>Un juego de rol en solitario sobre hacer una regata en un velero,
         solo. El juego está modelado en base a la competición <a
         href="https://es.wikipedia.org/wiki/Vend%C3%A9e_Globe">Vendeé
@@ -217,7 +218,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/vladtemper/bloodstained-hands?ref=mazmorreoensolitario">
-    Bloodstained Hands</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Bloodstained Hands</a> </h4>
         <p>Un juego de rol en solitario que utiliza mecánicas de Trophy.</p>
         <p><strong>Bloodstained Hands</strong> es un juego de rol en solitario
         que también puede jugarse con un GM, en el que interpretas a una
@@ -272,7 +273,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/aethercorp/coiled-spaece?ref=mazmorreoensolitario">
-    Coiled.Spæce</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Coiled.Spæce</a> </h4>
         <p>Recolecta energía en un universo que se está desintegrando en esta
         zine, que es un juego de rol de escritura.</p>
         <p><strong>Coiled.Spæce</strong> es un juego de escritura de hasta
@@ -295,7 +296,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/avri/descending-the-stairs?ref=mazmorreoensolitario">
-    Descending the Stairs</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Descending the Stairs</a> </h4>
         <p>Un juego de rol de contar historias sobre la vida nocturna y la
     nostalgia.</p>
         <p><strong>Descending the Stairs</strong> es un juego narrativo en el
@@ -348,7 +349,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/tks/zinequest3-docks-of-caswarren-a-legacy-rpg-city-guide?ref=mazmorreoensolitario">
-    Fight Club Arena</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Fight Club Arena</a> </h4>
         <p> En esta campaña se pueden conseguir dos zines, de las cuales Fight
         Club Arena puede jugarse en solitario. <strong>Fight Club
         Arena</strong> es un juego en el que puedes luchar contra bestias
@@ -440,7 +441,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/stay-frosty/stay-frosty?ref=mazmorreoensolitario">
-    High Speed Low Drag</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    High Speed Low Drag</a> </h4>
         <p>Un juego de escritura en el que sigues la carrera de un soldado de
     élite dentro y fuera del campo de batalla.</p>
         <p><strong>High Speed Low Drag</strong> es un juego de escritura en
@@ -491,7 +492,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/derekkinsman/in-the-light-of-a-faded-world?ref=mazmorreoensolitario">
-    In the Light of a Faded World</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    In the Light of a Faded World</a> </h4>
         <p>Explora, como una pequeña criatura del bosque, un mundo reclamado
     por la naturaleza</p>
         <p>En <strong>In the Light of a Faded World</strong> estamos en un
@@ -537,8 +538,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/alfredvalley/lay-on-hands-a-solo-dexterity-based-rpg?ref=mazmorreoensolitario">
-    LAY ON HANDS: A Solo Dexterity-based RPG</a> <span class="label
-    label-warning"><strong>¡Nueva!</strong></span></h4>
+    LAY ON HANDS: A Solo Dexterity-based RPG</a></h4>
         <p>Deambula por el páramo post-apocalíptico como un extraño curandero.</p>
         <p><strong>Lay On Hands</strong> es una zine de contar historias para
         un jugador en la que juegas como un curandero con gran talento. En esta
@@ -562,8 +562,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/crumblingkeep/marching-order-a-solo-or-co-op-dark-dungeon-delving-zine?ref=mazmorreoensolitario">
-        Marching Order - A Solo or Co-op Dark Dungeon Delving Zine</a> <span class="label
-    label-warning"><strong>¡Nueva!</strong></span></h4>
+        Marching Order - A Solo or Co-op Dark Dungeon Delving Zine</a> </h4>
         <p>Juega como un ladrón que apuñala por la espalda en este crudo juego
     inspirado por la vieja escuela, de mazmorreo, tácticas, caos y dinero.</p>
     <p><strong>Marching Order</strong> es un juego de mazmorreo cooperativo o
@@ -585,7 +584,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/ethnismonolith/monolith-path-of-transcendence-zinequest?ref=mazmorreoensolitario">
-        Monolith: Path of Transcendence</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        Monolith: Path of Transcendence</a></h4>
         <p>Una zine que te lleva en un viaje desde lo mortal a lo divino. Juega
         como un juego de rol de un jugador o como un suplemento para cualquier
         TTRPG.</p>
@@ -603,7 +602,6 @@ Y sin más dilación, aquí están las listas de zines:
         </p>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -614,11 +612,20 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/ryancagle/project-terminus?ref=mazmorreoensolitario">
-    Project Terminus</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    Project Terminus</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Un juego de rol en solitario sobre la locura y el multiverso.</p>
+        <p><strong>Project Terminus</strong> es un juego de escritura en
+        solitario que se juega con un mazo de cartas y unos dados. En esta zine
+        juegas como un Especialista de Misiones de Project Terminus que
+        esperaba ser una de las primeras personas en llegar a Marte gracias a
+        grandes avances tecnológicos.</p>
+            <ul>
+                <li>PDF: 6$</li>
+                <li>PDF + físico: 12$</li>
+                <li>¡Ya está financiada!</li>
+            </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -629,7 +636,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/badenwhite/tactical-deck-a-solo-rpg-zine?ref=mazmorreoensolitario">
-    Tactical Deck</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Tactical Deck</a> </h4>
         <p>Un juego de rol de estrategia sobre espionaje, infiltración y el uso
         cuidadoso de recursos.</p>
         <p><strong>Tactical Deck</strong> es un micro-RPG para jugar en
@@ -653,7 +660,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/ursidice/the-depths-of-this-forest?ref=mazmorreoensolitario">
-    The Depths Of This Fores</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    The Depths Of This Fores</a> </h4>
         <p>Es un juego surrealista de escritura, con supervivencia y
     exploración en el inframundo de un bosque del océano.</p>
         <p><strong>The Depths Of This Forest</strong> es un juego de escritura
@@ -697,7 +704,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/alexroberts/precious-little-animal?ref=mazmorreoensolitario">
-    Precious Little Animal</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Precious Little Animal</a> </h4>
         <p>Un juego de rol de escritura en el que convertirás una semana de tu
         vida en una adorable aventura.</p>
         <p><strong>Precious Little Animal</strong> es un juego en solitario de
@@ -733,7 +740,6 @@ Y sin más dilación, aquí están las listas de zines:
      </div>
 </div>
 
-
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
@@ -765,7 +771,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/albi13/superstition?ref=mazmorreoensolitario">
-    Superstition</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Superstition</a> </h4>
         <p>Un juego de rol de escritura sobre crear rituales en los que no
     crees, por el bien de la comunidad.</p>
     <p><strong>Superstition</strong> es un juego de escritura en solitario con
@@ -815,7 +821,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/Highmoon/thru-hiker-a-journaling-game-of-long-distance-hiking?ref=mazmorreoensolitario">
-    Thru-Hiker: A Journaling Game of Long-Distance Hiking</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Thru-Hiker: A Journaling Game of Long-Distance Hiking</a> </h4>
         <p>Utiliza cartas y pequeñas entradas de escritura para planear tu
     caminata, gestiona tus recursos y escribe tu historia en el camino.</p>
         <p><strong>Thru-Hiker</strong> es un juego de escritura en el que
@@ -957,13 +963,44 @@ estén pensadas para ello:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/038/752/b927ecdb3e5a37adbface8090dcda68c_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1610854656&auto=format&frame=1&q=92&s=5a33eefb8e6748111a01595364c9ad79"
+        class="img-thumbnail" alt="Flott's Miscellany Volume Two">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/the-abzu/flotts-miscellany-volume-two?ref=mazmorreoensolitario">
+    Flott's Miscellany Volume Two</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>Flott's Miscellany Volume Two</strong> es una zine llena de
+        tablas (agnósticas al sistema) que dan información sobre Rainy City,
+        una metrópolis fantástica al borde del mundo donde los magos guardan
+        celosamente sus tomos en descomposición.</p>
+        <p>En Zine Quest 2 (del año pasado) salió la zine sobre el setting The
+        Rainy City, y este año parece que quieren complementar esa zine con una
+        que tenga tablas para generar contenido. También podéis conseguir la
+        zine anterior en esta campaña.</p>
+        <p>Estas zines os dan un setting explicado con un detalle tremendo, y
+        si vamos a tener tablas para generar cosas de forma aleatoria mejor que
+        mejor.</p>
+        <ul>
+            <li>PDF: 6$</li>
+            <li>PDF de las dos zines: 10$</li>
+            <li>PDF + físico: 13$</li>
+            <li>PDF + físico de las dos zines: 24$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
             src="https://ksr-ugc.imgix.net/assets/032/318/238/e00868716cf5060b020d1a374ad4a6a8_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612916257&auto=format&frame=1&q=92&s=6f16a1f6645a97072cd0ddc9b0ed3fd5"
         class="img-thumbnail" alt="Glimmer's Rim">
     </div>
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/glasscutter/glimmers-rim?ref=mazmorreoensolitario">
-    Glimmer's Rim</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Glimmer's Rim</a> </h4>
         <p><strong>Glimmer's Rim</strong> es un hexcrawl en una isla
         psicodélica. Esta isla tiene ~25 hexágonos diferentes y una pequeña
         mazmorra que explorar. En cada hex tendremos algo con lo que
@@ -976,6 +1013,28 @@ estén pensadas para ello:
             <li>PDF: 5$</li>
             <li>PDF + físico: 15$</li>
             <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/235/745/4e05648691c2a649f195d23a6be41133_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612317613&auto=format&frame=1&q=92&s=281678aeef8faaadac40476e22838316"
+        class="img-thumbnail" alt="Hinterland: Peoples and Perils">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/chrisangell/hinterland-peoples-and-perils?ref=mazmorreoensolitario">
+    Hinterland: Peoples and Perils</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>Hinterland: Peoples and Perils</strong> es una zine que
+        tiene 19 encuentros aleatorios y pequeñas entradas para la exploración
+        por la naturaleza. Cada encuentro o localización tiene otras tablas
+        para dar más variedad.</p>
+        <p>Es una zine llena de tablas para generar cosas, es útil.</p>
+        <ul>
+            <li>PDF: 5CA$</li>
+            <li>PDF + físico: 12CA$</li>
         </ul>
      </div>
 </div>
