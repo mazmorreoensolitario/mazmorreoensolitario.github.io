@@ -517,7 +517,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/dgchapman/journeylands-1?ref=mazmorreoensolitario">
-    Journeylands #1</a></h4>
+    Journeylands #1</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Zine-aventura sobre viajes en carretera sobre un sol psíquico.</p>
         <p><strong>Journeylands #1</strong> es un sistema basado en viajes en
     el que uno o más jugadores personalizan vehículos para vagabundear por un
@@ -655,12 +655,12 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-3">
         <img width="500" height="500"
             src="https://ksr-ugc.imgix.net/assets/032/242/489/471e28460ac4f373daf67ae1d2107b68_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612367012&auto=format&frame=1&q=92&s=e4e7d3a939085c30ca8f9ac5ab5d7004"
-        class="img-thumbnail" alt="The Depths Of This Fores">
+        class="img-thumbnail" alt="The Depths Of This Forest">
     </div>
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/ursidice/the-depths-of-this-forest?ref=mazmorreoensolitario">
-    The Depths Of This Fores</a> </h4>
+    The Depths Of This Forest</a> </h4>
         <p>Es un juego surrealista de escritura, con supervivencia y
     exploración en el inframundo de un bosque del océano.</p>
         <p><strong>The Depths Of This Forest</strong> es un juego de escritura
@@ -676,8 +676,31 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/264/519/4cb32a789ed4466ef7073097cd6ba7b2_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612514754&auto=format&frame=1&q=92&s=97b0b6d92c8d6a694a9a728ea96a1222"
+        class="img-thumbnail" alt="The Gardener is Dead">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/gardenerisdead/the-gardener-is-dead-0?ref=mazmorreoensolitario">
+    The Gardener is Dead</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p>Un juego de contar historias sobre un jardín encantado.</p>
+        <p><strong>The Gardener is Dead</strong> es un juego de contar
+        historias en solitario, o gm-less de 2 a 4 jugadores en el que cuentas
+        la historia de un jardinero que ha empezado un nuevo trabajo cuidando
+        un jardín encantado. Utiliza un dado d6 y un mazo de cartas.</p>
+        <ul>
+            <li>PDF: 3£ (dificultades económicas)</li>
+            <li>PDF: 5£</li>
+            <li>PDF: 9£</li>
+            <li>PDF + físico: 10£</li>
+        </ul>
+     </div>
+</div>
+<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -899,7 +922,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/benmccown/a-tangled-web-vol-1-zinequest-3?ref=discovery_tag_newest?ref=mazmorreoensolitario">
-    A Tangled Web Vol. 1</a> </h4>
+    A Tangled Web Vol. 1</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>A Tangled Web Vol. 1</strong> consiste en cinco series de
         seis NPC interconectados para que puedan dar vidilla a tus partidas.</p>
         <p>Son 30 NPCs que tienen relaciones de algún tipo entre ellos, no NPCs
@@ -1048,7 +1071,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/fishinthepot/isometric-blanks?ref=mazmorreoensolitario">
-    Isometric Blanks</a></h4>
+    Isometric Blanks</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>Isometric Blanks</strong> es una zine con siete mapas de
     perspectiva isométrica que están vacíos. Has leído bien. Están vacíos y la
     idea es que los llenes tú en la zine..</p>
@@ -1113,6 +1136,29 @@ estén pensadas para ello:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/255/595/8ff3d8e307644dc676413cf685dc843b_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612453512&auto=format&frame=1&q=92&s=b0be65d4f92e84d54dce3f2f160a1294"
+        class="img-thumbnail" alt="Merchants of the Multiverse">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/mofthem/merchants-of-the-multiverse?ref=mazmorreoensolitario">
+    Merchants of the Multiverse</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>Merchants of the Multiverse</strong> es una zine para Mutant
+    Crawl Classics y otros juegos OSR con temática interestelar o
+    post-apocalíptica que contiene 50 artefactos, reglas para comprar y vender
+    artefactos, 7 mercaderes y una aventura para MCC.</p>
+        <p>Dejando de lado la aventura para MCC, el resto es contenido muy
+    interesante si jugáis a algún juego con esas ambientaciones.</p>
+        <ul>
+            <li>PDF: 7$</li>
+            <li>PDF + físico: 15$</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
             src="https://img.itch.zone/aW1nLzUwMTQ5MTkucG5n/original/VDwd16.png"
         class="img-thumbnail" alt="Old Roads">
     </div>
@@ -1145,7 +1191,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/storiesfromtheslough/stories-from-the-slough?ref=mazmorreoensolitario">
-    Stories from the Slough</a> </h4>
+    Stories from the Slough</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>Stories from the Slough</strong> es una aventura tipo
     hexcrawl con 19 hexágonos, 2 mazmorras, facciones y seis historias
     especiales sobre algún NPC. La ambientación es
@@ -1282,13 +1328,37 @@ estén pensadas para ello:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/361/492/3e508ad9d306eaa408922fae034aa360_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1613225946&auto=format&frame=1&q=92&s=6728d780e22685d5507ac08d356636da"
+        class="img-thumbnail" alt="The Million Islands of Doom">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/redscales/the-million-islands-of-doom?ref=mazmorreoensolitario">
+    The Million Islands of Doom</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>The Million Islands of Doom</strong> es una zine que
+    presenta una aventura tipo hexcrawl para cualquier sistema; nos presenta 36
+    hexágonos con diferentes encuentros extraños e interesantes, desde piratas
+    del cielo, una droga de cristal que te deja vivir dentro de la mente de
+    alguien, y cultistas que tratan de invocar a un antiguo demonio mediante
+    una erupción volcánica.</p>
+        <p>¡Otro hexcrawl!</p>
+        <ul>
+            <li>PDF: 5€</li>
+            <li>PDF + físico: 15€</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
             src="https://ksr-ugc.imgix.net/assets/032/212/111/2d697673ce350a3b1fbdd659816226e3_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612192078&auto=format&frame=1&q=92&s=231c0b7924198c023510c6875643062e"
         class="img-thumbnail" alt="The Vast in the Dark">
     </div>
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/appalachia-gothic/the-vast-in-the-dark-exploring-ruins-in-an-infinite-world?ref=mazmorreoensolitario">
-    The Vast in the Dark</a></h4>
+    The Vast in the Dark</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>The Vast in the Dark</strong> es una zine que va sobre
         explorar megaestructuras alienígenas y oscuras en un reino
     infinito. Tiene herramientas para crear megaestructuras en un hexmap.</p>
