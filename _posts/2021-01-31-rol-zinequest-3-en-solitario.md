@@ -283,6 +283,7 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 4£</li>
             <li>PDF + físico: 10£</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -319,7 +320,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/grinningratpub/dungeoneering?ref=mazmorreoensolitario">
-    Dungeoneering</a> </h4>
+    Dungeoneering</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>Dungeoneering</strong> es una zine que nos presenta un
     sistema de rol en dos páginas y el resto dice estar lleno de generadores de
     diferentes tipos de mazmorras. Hay seis dominios diferentes (bosque,
@@ -395,7 +396,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/drewcifer/harrowings-03-muspelhell?ref=mazmorreoensolitario">
-    Harrowings #03: MUSPELHELL</a></h4>
+    Harrowings #03: MUSPELHELL</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Una aventura en una mazmorra con toques heavy metal.</p>
         <p><strong>MUSPELHELL</strong> es una aventura en una mazmorra de tres
         niveles que podemos jugar en solitario controlando un grupo de
@@ -945,7 +946,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/neonon/bestitchary-for-mork-borg?ref=mazmorreoensolitario">
-    BEstitchARY for MÖRK BORG</a> </h4>
+    BEstitchARY for MÖRK BORG</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>BEstitchARY for MÖRK BORG</strong> es un bestiario /
     suplemento para Mörk Borg, en el que generas criaturas cosiéndolas unas a
     otras. La idea es utilizar las 40 partes de las criaturas y mezclarlas para
@@ -1119,7 +1120,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/583799276/lowlife-0?ref=mazmorreoensolitario">
-    Lowlife</a> </h4>
+    Lowlife</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>Lowlife</strong> es un toolkit que nos da una serie de
     reglas para juegos OSR y OSR-adyacentes que podemos utilizar cuando nos
     adentramos en túneles, zanjas/trincheras y minas. Es decir, no es una
@@ -1238,7 +1239,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/lazylitch/the-haunted-hamlet-and-other-hexes?ref=mazmorreoensolitario">
-    The Haunted Hamlet</a></h4>
+    The Haunted Hamlet</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>The Haunted Hamlet</strong> es una zine que detalla cuatro
         hexes que contienen localizaciones modulares para añadir en tu
         campaña. Utiliza estadísticas de Old-School Essentials.</p>
@@ -1262,7 +1263,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/malcolminspace/the-island-of-the-excellent-a-hexcrawl-zine-0?ref=mazmorreoensolitario">
-    The Island of the Excellent: A Hexcrawl Zine</a> </h4>
+    The Island of the Excellent: A Hexcrawl Zine</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>The Island of the Excellent: A Hexcrawl Zine</strong> es una
     zine que tiene una aventura en formato hexcrawl, con mapas, NPCs, muchas
     tablas, mazmorras, ruinas.... sin estadísticas para un sistema específico
