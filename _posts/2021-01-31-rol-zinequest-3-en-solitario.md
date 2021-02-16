@@ -652,6 +652,30 @@ Y sin más dilación, aquí están las listas de zines:
      </div>
 </div>
 
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/250/099/a2f08c4d37dc33e6984f9ea8347fa9dd_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612412168&auto=format&frame=1&q=92&s=1c79a6405821a18a1de4c732d2d6b79b"
+        class="img-thumbnail" alt="The Barrier & the Sound">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/jwalt/the-barrier-and-the-sound?ref=mazmorreoensolitario">
+    The Barrier & the Sound</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p>Es un TTRPG de 1-bit.</p>
+        <p><strong>The Barrier & the Sound</strong> es un juego de rol para un
+        jugador sobre la belleza y la rareza de la costa. Las mecánicas se
+        basan en responder preguntas abiertas.</p>
+        <ul>
+            <li>PDF:5$</li>
+            <li>PDF: 10$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
