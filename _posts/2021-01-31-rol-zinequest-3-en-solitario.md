@@ -190,7 +190,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/bleakhorizonspress/all-must-bow-zinequest3?ref=mazmorreoensolitario">
-    All Must Bow</a> </h4>
+    All Must Bow</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Zine con una ambientación independiente del sistema, de horror
     cósmico, entidades antiguas y malvadas, y sus campeones a la deriva en un
     universo entrópico space-opera.</p>
@@ -244,7 +244,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/jhrrsn/bucket-of-bolts-a-solo-rpg-zine?ref=mazmorreoensolitario">
-    Bucket of Bolts</a> </h4>
+    Bucket of Bolts</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>En esta zine construyes una nave espacial y juegas a descubrir cómo
     cambia a lo largo del tiempo a medida que va teniendo diferentes
     capitanes. Es un <a
@@ -371,7 +371,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/adamebell/grasping-nettles?ref=mazmorreoensolitario">
-    Grasping Nettles</a></h4>
+    Grasping Nettles</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Un juego de contar historias creando mundos y resolviendo problemas
     a través de las generaciones.</p>
     <p>En <strong>Grasping Nettles</strong>
@@ -993,7 +993,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/dicemonkey/curse-city-of-one-thousand-saints?ref=mazmorreoensolitario">
-    Curse: The City of One Thousand Martyrs</a></h4>
+    Curse: The City of One Thousand Martyrs</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>Curse: The City of One Thousand Martyrs</strong> es una zine
     que describe el mundo alrededor de la ciudad, su historia, la propia ciudad
         y sus distritos, facciones, las tierras colindantes y los monstruos.</p>
@@ -1117,7 +1117,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/giusepperotondo/lands-of-legends-five-zines-for-zinequest3?ref=mazmorreoensolitario">
-    Lands of Legends</a> </h4>
+    Lands of Legends</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>Lands of Legends</strong> es una colección de cinco zines,
     cada una con una herramienta diferente para crear contenido en tu sandbox
     fantástico: áreas, zonas, encuentros y eventos. Cada zine contiene 10
@@ -1177,6 +1177,7 @@ estén pensadas para ello:
         <ul>
             <li>PDF: 7$</li>
             <li>PDF + físico: 15$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -1190,7 +1191,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/kylelatino/old-roads?ref=mazmorreoensolitario">
-    Old Roads</a> </h4>
+    Old Roads</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>Old Roads</strong> es una zine que contiene ocho mapas
     isométricos de doble cara. No hay reglas, ni apéndice, ni tablas, nadie te
         dice qué deberías hacer con estos mapas.</p>
@@ -1206,6 +1207,36 @@ estén pensadas para ello:
      </div>
 </div>
 
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/327/961/5fd1209440de2c6de55f9afcd2d3b8f5_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612981799&auto=format&frame=1&q=92&s=5ce677280701ec9f84f9b456521943b1"
+        class="img-thumbnail" alt="Skies of Hyperborea">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/koboldco-op/skies-of-hyperborea-a-zine-of-airships-and-exploration?ref=mazmorreoensolitario">
+    Skies of Hyperborea</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p><strong>Skies of Hyperborea</strong> es una zine para generar tus
+        propios mundos/aventuras en Hyperborea. Los mundos son pequeños
+        'icebergs' de tierra que puedes ir visitando a medida que viajas con tu
+        dirigible. La zine cuenta con una descripción de la ambientación,
+        reglas para viajar, los obstáculos y los peligros, equipamiento, tablas
+        para generar regiones y puntos de interés en esas regiones y luego
+        puedes tirar tus dados en un mapa hexagonal para crear la región.</p>
+        <p>Además, en esta campaña puedes conseguir una segunda zine, Skies of
+        Hyperborea: First Flight, que describe la isla de Salona y tiene seis
+        one-page-dungeons.</p>
+        <p>Me parece interesante la primera zine de generar regiones en mapas
+        hexagonales.</p>
+        <ul>
+            <li>PDF de las dos zines: 8$</li>
+            <li>PDF de todo + físico de Skyes of Hyperborrea: 14$</li>
+            <li>PDF de todo + físico de todo: 17$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+    </div>
+</div>
 
 <div class="row">
     <div class="col-md-3">
@@ -1311,7 +1342,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/cavernsofheresy/the-sonders?ref=mazmorreoensolitario">
-    The Sonders</a> </h4>
+    The Sonders</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>The Sonders</strong> es un suplemento agnóstico al sistema
     que detalla veinte NPCs diferentes, con su historia, tablas para generar
     equipamiento, deseos, peculiaridades...</p>
