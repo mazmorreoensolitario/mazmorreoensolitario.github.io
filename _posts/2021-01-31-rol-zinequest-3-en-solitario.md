@@ -341,6 +341,32 @@ Y sin más dilación, aquí están las listas de zines:
      </div>
 </div>
 
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/262/489/6ed961b0057b575a70ecb5e6232b8f2d_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612494183&auto=format&frame=1&q=92&s=583a1e1be44c8ddadf667d717f0636d5"
+        class="img-thumbnail" alt="Fat Self Care: Volume 1">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/avenmcconnaughey/fat-self-care-volume-1?ref=mazmorreoensolitario">
+    Fat Self Care: Volume 1</a> <span class="label
+    label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p>Juego slice-of-life en solitario con múltiples caminos en el que tienes
+        que cuidarte cuando eres obeso.</p>
+        <p><strong>Fat Self Care: Volume 1</strong> es un juego de escritura en
+        solitario en el que juegas como Rowan, una persona obesa, en su día a
+        día de actividades divertidas y gratificantes. Cada actividad te hará
+        varias preguntas para que des forma a la vida de Rowan, sus relaciones
+        y su imagen personal.</p>
+        <ul>
+            <li>PDF: 10$</li>
+            <li>PDF + físico: 15$</li>
+        </ul>
+     </div>
+</div>
+
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
@@ -361,6 +387,7 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
+
 
 <div class="row">
     <div class="col-md-3">
@@ -418,7 +445,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/luciankahn/hibernation?ref=mazmorreoensolitario">
-    Hibernation Games: 5 Journaling RPGs for Solo Play</a> </h4>
+    Hibernation Games: 5 Journaling RPGs for Solo Play</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Cinco juegos de contar historias.</p>
         <p><strong>Hibernation Games</strong> es una colección de cinco juegos
         en solitario ideados por diseñadores innovadores. El tema común es la
@@ -911,7 +938,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/katamoiran/where-mystery-dwells?ref=mazmorreoensolitario">
-    Where Mystery Dwells</a> </h4>
+    Where Mystery Dwells</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Un juego de rol en solitario con mecánicas Forged in The Dark en el
     que exploras catacumbas, y está lleno de herramientas de generación
     procecural.</p>
