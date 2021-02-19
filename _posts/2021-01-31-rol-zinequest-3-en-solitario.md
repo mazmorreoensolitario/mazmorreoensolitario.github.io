@@ -283,7 +283,30 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 4£</li>
             <li>PDF + físico: 10£</li>
-            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/351/596/91c1360a4cb7b678d11dee3fd530a395_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1613146393&auto=format&frame=1&q=92&s=fc0019345f8e82f96023b08e9118181b"
+        class="img-thumbnail" alt="Crush!">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/jmyales/crush-two-micro-zine-quest-rpgs-in-one?ref=mazmorreoensolitario">
+    Crush!</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p>Dos mini zine-RPGs sobre kaiju, y secretos.</p>
+        <p><strong>Crush!</strong> es una zine con un componente multijugador y
+        otro en solitario inspirada por el género cinematográfico kaiju/de
+        monstruos y los juegos de mesa competitivos y caóticos de los años 80
+        y 90. El componente en solitario de esta zine te permite jugar como un
+        juego de escritura en el que tratas de construir la narrativa detrás de
+        la llegada del kaiju que elijas.</p>
+        <ul>
+            <li>PDF: 4$</li>
+            <li>PDF + físico: 7$</li>
         </ul>
      </div>
 </div>
@@ -351,8 +374,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/avenmcconnaughey/fat-self-care-volume-1?ref=mazmorreoensolitario">
-    Fat Self Care: Volume 1</a> <span class="label
-    label-warning"><strong>¡Nueva!</strong></span></h4>
+    Fat Self Care: Volume 1</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Juego slice-of-life en solitario con múltiples caminos en el que tienes
         que cuidarte cuando eres obeso.</p>
         <p><strong>Fat Self Care: Volume 1</strong> es un juego de escritura en
@@ -495,7 +517,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/deusexminima/hope-is-not-a-plan?ref=mazmorreoensolitario">
-    Hope is Not a Plan</a> </h4>
+    Hope is Not a Plan</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de contar historias sobre el terror existencial de la gestión
     de proyectos profesional.</p>
         <p><strong>Hope is not a Plan</strong> es un juego de escritura en
@@ -606,6 +628,28 @@ Y sin más dilación, aquí están las listas de zines:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/329/298/15024ec60edb4348b5d87ed610d25fd9_original.png?ixlib=rb-2.1.0&crop=faces&w=352&h=198&fit=crop&v=1612988411&auto=format&frame=1&q=92&s=db84c7e4b1b215e0acf6f8f71cdbe92e"
+        class="img-thumbnail" alt="MÖRKAL KOMBORG: A Tournament of Death for MÖRK BORG RPG">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/rstarks/morkal-komborg-a-tournament-of-death-for-mork-borg-rpg?ref=mazmorreoensolitario">
+        MÖRKAL KOMBORG: A Tournament of Death for MÖRK BORG RPG</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p>Una zine suplemento para Mörk Borg y un juego en solitario</p>
+    <p><strong>MÖRKAL KOMBORG</strong> es una zine que incluye nuevos
+    monstruos, clases y una nueva ambientación pra Mörk Borg, y además cuenta
+    con un juego en solitario inspirado por Dark Fort.</p>
+    <ul>
+            <li>PDF: 5$</li>
+            <li>PDF + físico 10$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
             src="https://ksr-ugc.imgix.net/assets/032/200/791/0c338883f5fec57fbf35060bbe206b99_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612111192&auto=format&frame=1&q=92&s=39bd7d3a17b077f4d2c60e29d2775da9"
         class="img-thumbnail" alt="Monolith: Path of Transcendence">
     </div>
@@ -628,6 +672,28 @@ Y sin más dilación, aquí están las listas de zines:
                 <li>¡Ya está financiada!</li>
             </ul>
         </p>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/303/979/a6fedde1928c2a10c55642ca39455f7c_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612828827&auto=format&frame=1&q=92&s=c5d85f7aafba9596a57635bff37dde3c"
+        class="img-thumbnail" alt="Ostro">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/nadirrpg/ostro?ref=mazmorreoensolitario">
+    Ostro</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p>En <strong>Ostro</strong> eres el capitán de un pequeño barco
+    navegando por los mares de Ostro en busca de un legendario tesoro. En cada
+    turno te encontrarás con uno de 100 encuentros diferentes y cada encuentro
+    tiene diferentes resultados.</p>
+        <ul>
+            <li>PDF: 5CA$</li>
+            <li>PDF + físico: 15CA$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
      </div>
 </div>
 
