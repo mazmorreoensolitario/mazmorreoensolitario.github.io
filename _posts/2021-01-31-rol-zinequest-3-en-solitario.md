@@ -290,6 +290,32 @@ Y sin más dilación, aquí están las listas de zines:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/416/245/b5689d8b4abf9f86fc2a519fcb0b1dc8_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1613606140&auto=format&frame=1&q=92&s=8da5aab035f81898a669625c41226a89"
+        class="img-thumbnail" alt="Courier">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/sleepysasquatch/courier-a-solo-rpg-zine?ref=mazmorreoensolitario">
+    Courier</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p>Envía paquetes por un panorama peligroso mientras construyes tu
+        reputación y te conviertes en una leyenda.</p>
+        <p><strong>Courier</strong> es un juego en solitario en el que cuentas
+        la historia de un mensajero que se alza de llevar una única bolsa a ser
+        un repartidor legendario del páramo. Crearás tu propia compañía, logo y
+        estilo a medida que completas entregas por todo Nuevo Norte
+    América. Por el camino descubrirás nuevos contratos, trabajos, equipamiento
+    y mejoras.</p>
+        <ul>
+            <li>PDF: 7CA$</li>
+            <li>PDF + copia en físico: 15CA$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
             src="https://ksr-ugc.imgix.net/assets/032/351/596/91c1360a4cb7b678d11dee3fd530a395_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1613146393&auto=format&frame=1&q=92&s=fc0019345f8e82f96023b08e9118181b"
         class="img-thumbnail" alt="Crush!">
     </div>
@@ -360,6 +386,29 @@ Y sin más dilación, aquí están las listas de zines:
             <li>PDF: 5$</li>
             <li>PDF + físico: 15$</li>
             <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/418/402/14cc7a073c984e88a5e94fa2b6e0b16c_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1613617524&auto=format&frame=1&q=92&s=15272aa1ac738f1fe5a5ca4e75a39dd1"
+        class="img-thumbnail" alt="E.V.O.L.V.E">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/evolvegame/evolve-4?ref=mazmorreoensolitario">
+    E.V.O.L.V.E</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p>Una zine de desarrollo rápido de I.A.s y de la dominación del mundo.</p>
+        <p><strong>E.V.O.L.V.E</strong> es un juego en solitario de
+    inteligencia artificial y del camino hacia la dominación del mundo. Cuentas
+    la historia de tu I.A. empezando como un solo byte de información, crecerás
+    y mejorarás tu programa contra diferentes amenazas que tratan de entorpecer
+    tus planes de dominación.</p>
+        <ul>
+            <li>PDF: 3£</li>
+            <li>PDF + copia en físico: 8£</li>
         </ul>
      </div>
 </div>
