@@ -137,7 +137,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/diamondblood/apothecaria?ref=mazmorreoensolitario">
-    Apothecaria</a> </h4>
+    Apothecaria</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Un juego de escritura en solitario sobre crear pociones ambientado
         en un acogedor mundo fantástico.</p>
         <p><strong>Apothecaria</strong> es un juego de escritura en el que
@@ -283,6 +283,7 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 4£</li>
             <li>PDF + físico: 10£</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -434,6 +435,7 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 10$</li>
             <li>PDF + físico: 15$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -553,6 +555,7 @@ Y sin más dilación, aquí están las listas de zines:
             <li>PDF: 5£</li>
             <li>Físico: 7£</li>
             <li>PDF + físico: 10£</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -779,7 +782,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/badenwhite/tactical-deck-a-solo-rpg-zine?ref=mazmorreoensolitario">
-    Tactical Deck</a> </h4>
+    Tactical Deck</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Un juego de rol de estrategia sobre espionaje, infiltración y el uso
         cuidadoso de recursos.</p>
         <p><strong>Tactical Deck</strong> es un micro-RPG para jugar en
@@ -864,6 +867,7 @@ Y sin más dilación, aquí están las listas de zines:
             <li>PDF: 5£</li>
             <li>PDF: 9£</li>
             <li>PDF + físico: 10£</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -939,7 +943,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/casgar/space-weirdos?ref=mazmorreoensolitario">
-    Space Weirdos</a> </h4>
+    Space Weirdos</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>Space Weirdos</strong> es un wargame sci-fi de escaramuzas
     que puedes jugar con cualquier mini que tengas por ahí.</p>
         <p>Como resultado de un stretch goal se ha desbloqueado un suplemento
@@ -985,7 +989,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/ellalim/the-lighthouse-at-the-edge-of-the-universe-solo-rpg?ref=mazmorreoensolitario">
-    The Lighthouse At The Edge Of The Universe - Solo RPG</a> </h4>
+    The Lighthouse At The Edge Of The Universe - Solo RPG</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Un juego de escritura sobre la gestión de un faro en el borde del
     universo.</p>
     <p><strong>The Lighthouse At The Edge Of The Universe</strong> es un juego
@@ -1225,6 +1229,7 @@ estén pensadas para ello:
         <ul>
             <li>PDF: 5CA$</li>
             <li>PDF + físico: 12CA$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -1508,7 +1513,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/rowanalgoet/the-thawing-kingdom?ref=mazmorreoensolitario">
-    The Thawing Kingdom</a></h4>
+    The Thawing Kingdom</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>The Thawing Kingdom</strong> es una zine que nos presenta
         una ambientación agnóstica al sistema, es un reino que emergió de su
         sueño helado que ha durado siglos.</p>
