@@ -35,7 +35,7 @@ reducido que el resto de juegos de la lista:
         class="img-thumbnail" alt="Tiny Towns">
     </div>
     <div class="col-md-9">
-        <p><strong>10. Tiny Towns</strong></p>
+        <p><strong>10. <a href="https://amzn.to/3qNdWyJ">Tiny Towns</a></strong></p>
          <p><strong><a
          href="https://boardgamegeek.com/boardgame/265736/tiny-towns">Tiny
          Towns</a></strong> es un pequeño juego de construcción en el que se
@@ -68,7 +68,7 @@ reducido que el resto de juegos de la lista:
         class="img-thumbnail" alt="Cities: Skylines – The Board Game">
     </div>
     <div class="col-md-9">
-        <p><strong>9. Cities: Skylines – The Board Game</strong></p>
+        <p><strong>9. <a href="https://amzn.to/3siKhO8">Cities: Skylines – The Board Game</a></strong></p>
          <p><strong>Cities: Skylines</strong> es un juego cooperativo basado en
              el juego de ordenador del mismo nombre. El objetivo del juego es
          conseguir un número de hitos para que los habitantes de la ciudad que
@@ -101,7 +101,7 @@ reducido que el resto de juegos de la lista:
         class="img-thumbnail" alt="Res Arcana">
     </div>
     <div class="col-md-9">
-        <p><strong>8. Res Arcana</strong></p>
+        <p><strong>8. <a href="https://amzn.to/3kg8YYJ">Res Arcana</a></strong></p>
          <p>En <strong>Res Arcana</strong> somos un mago que utiliza diferentes
          esencias de la alquimia para crear diferentes artefactos y conseguir
          puntos por ellos. En general es un juego de conseguir combos con
@@ -142,7 +142,7 @@ algún capricho caro en 2020 elegiré entre estos:
         class="img-thumbnail" alt="The Dark Valley Deluxe Edition">
     </div>
     <div class="col-md-9">
-        <p><strong>7. The Dark Valley Deluxe Edition</strong></p>
+        <p><strong>7. <a href="https://www.philibertnet.com/en/gmt/26863-the-dark-valley-817054010462.html#ae447-11">The Dark Valley Deluxe Edition</a></strong></p>
          <p>Esta es la edición con mapas de cartón, fichas más gruesas y reglas
          mejoradas de <a
          href="https://boardgamegeek.com/boardgame/66855/dark-valley"><strong>The Dark
@@ -176,7 +176,7 @@ algún capricho caro en 2020 elegiré entre estos:
         class="img-thumbnail" alt="Paladines del Reino del Oeste">
     </div>
     <div class="col-md-9">
-        <p><strong>6. Paladines del Reino del Oeste</strong></p>
+        <p><strong>6. <a href="https://amzn.to/2ZGIPcb">Paladines del Reino del Oeste</a></strong></p>
          <p><strong>Paladines del Reino del Oeste</strong> editado en España
          por <strong><a
          href="https://edicionesprimigenio.com/producto/paladines-del-reino-del-oeste/">Ediciones
@@ -209,7 +209,7 @@ algún capricho caro en 2020 elegiré entre estos:
         class="img-thumbnail" alt="Posthuman Saga">
     </div>
     <div class="col-md-9">
-        <p><strong>5. Posthuman Saga</strong></p>
+        <p><strong>5. <a href="https://www.philibertnet.com/en/mighty-boards/85101-posthuman-saga-732068834159.html#ae447-11">Posthuman Saga</a></strong></p>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/244820/posthuman-saga">Posthuman
          Saga</a></strong> es un juego temático ambientado en un futuro en el
@@ -245,7 +245,7 @@ algún capricho caro en 2020 elegiré entre estos:
         class="img-thumbnail" alt="On Mars">
     </div>
     <div class="col-md-9">
-        <p><strong>4. On Mars</strong></p>
+        <p><strong>4. <a href="https://amzn.to/3pTJKAM">On Mars</a></strong></p>
          <p><a
     href="https://boardgamegeek.com/boardgame/184267/mars"><strong>On
     Mars</strong></a> es el nuevo juego del uno de los diseñadores de juegos 
@@ -334,7 +334,7 @@ tiempo o compras muy seguras que haré en 2020:
         class="img-thumbnail" alt="Root y Root: The Clockwork Expansion">
     </div>
     <div class="col-md-9">
-        <p><strong>2. Root y Root: The Clockwork Expansion</strong></p>
+        <p><strong>2. <a href="https://amzn.to/3aLXHME">Root</a> y <a href="https://amzn.to/3qPDVFw">Root: The Clockwork Expansion</a></strong></p>
          <p>Este año también se ha hablado mucho de Root, que por fin ha
          llegado a España, pero a mí me gustaría que centréis vuestra atención
          en <a

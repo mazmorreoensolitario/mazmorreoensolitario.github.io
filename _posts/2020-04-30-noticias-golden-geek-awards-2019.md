@@ -48,8 +48,10 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Barrage">
     </div>
     <div class="col-md-9">
-        <h4>Barrage</h4>
-         <p><strong>Barrage</strong> es un juego económico con un énfasis en la
+        <h4><a href="https://amzn.to/2NOXcZc">Barrage</a></h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/251247/barrage">Barrage</a></strong>
+    es un juego económico con un énfasis en la
          gestión de recursos ambientado en una distopía de los años 30 en la
          que los combustibles fósiles se han agotado y ahora la fuente de
          energía principal es la energía hidroeléctrica. En este juego los
@@ -69,10 +71,8 @@ un pequeño comentario mio sobre el juego:
          <p>Dramas a un lado, a mí no es un juego que me interesase cuando
          salió la campaña de KS y ahora sigo con la misma opinión, pero desde
          luego lo probaría.</p>
-         <p><i><a href="https://amzn.to/3d2IEfO">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -81,8 +81,8 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="The Crew: The Quest for Planet Nine">
     </div>
     <div class="col-md-9">
-        <h4>The Crew: The Quest for Planet Nine</h4>
-         <p><strong>The Crew: The Quest for Planet Nine</strong> es un
+        <h4><a href="https://amzn.to/3hgeXdm">The Crew: The Quest for Planet Nine</a></h4>
+         <p><strong><a href="https://boardgamegeek.com/boardgame/284083/crew-quest-planet-nine">The Crew: The Quest for Planet Nine</a></strong> es un
          juego cooperativo de bazas en el que los jugadores son astronautas en
          una incierta aventura espacial. Esta viaje se alarga en 50 misiones
          diferentes que los astronautas tendrán que superar, pero este juego
@@ -90,7 +90,7 @@ un pequeño comentario mio sobre el juego:
          jugador.
          </p>
          <p><strong>Devir</strong> ha publicado este juego en España, bajo el
-         nombre de <strong><a href="zhttps://amzn.to/3hgeXdm">La
+         nombre de <strong><a href="https://amzn.to/3hgeXdm">La
          Tripulación: En busca del noveno planeta</a></strong>.</p>
          <p><strong>Comentario.</strong> Esta es la primera sorpresa de los
          Golden Geeks, ya que este juego, que ni sabía que existía, tiene un
@@ -103,10 +103,8 @@ un pequeño comentario mio sobre el juego:
          tema, pero recordad que el modo en solitario es extraoficial y que por
          tanto la calidad del juego en solitario puede que no refleje las
          nominaciones que ha recibido por su modo de juego en multi.</p> 
-         <p><i><a href="https://amzn.to/3hgeXdm">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -115,8 +113,8 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="The Isle of Cats">
     </div>
     <div class="col-md-9">
-        <h4>The Isle of Cats</h4>
-         <p><strong>La Isla de los Gatos</strong>, que se financió en junio de
+        <h4><a href="https://amzn.to/2ZLYMhf">The Isle of Cats</a></h4>
+         <p><strong><a href="https://boardgamegeek.com/boardgame/281259/isle-cats">La Isla de los Gatos</a></strong>, que se financió en junio de
          2019 gracias a una <a
          href="https://www.kickstarter.com/projects/tcokgame/the-isle-of-cats">campaña
          de Kickstarter</a>, es un juego competitivo de 
@@ -138,10 +136,8 @@ un pequeño comentario mio sobre el juego:
          Kings</a>. Me gusta ver que otro de sus juegos ha llegado a estas
          nominaciones, pero por temática y mecanismos, a mí The Isle of Cats no
          es un juego que me interese mucho.</p> 
-         <p><i><a href="https://amzn.to/31NiY4a">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -150,8 +146,8 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="It’s a Wonderful World">
     </div>
     <div class="col-md-9">
-        <h4>It’s a Wonderful World</h4>
-        <p><strong>It’s a Wonderful World</strong>, otro juego que se vio hecho
+        <h4><a href="https://amzn.to/2MmvYc6">It’s a Wonderful World</a></h4>
+        <p><strong><a href="https://boardgamegeek.com/boardgame/271324/its-wonderful-world">It’s a Wonderful World</a></strong>, otro juego que se vio hecho
         realidad por una <a
         href="https://www.kickstarter.com/projects/laboitedejeu/its-a-wonderful-world">campaña
         de Kickstarter</a>, es un juego competitivo de drafting de cartas con
@@ -166,7 +162,6 @@ un pequeño comentario mio sobre el juego:
         de probarlo porque parece que sigue  habiendo juego.</p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -175,8 +170,10 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Maracaibo">
     </div>
     <div class="col-md-9">
-        <h4>Maracaibo</h4>
-         <p><strong>Maracaibo</strong> es uno de los dos juegos creados por
+        <h4><a href="https://amzn.to/3qQgNXv">Maracaibo</a></h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/276025/maracaibo">Maracaibo</a></strong>
+         es uno de los dos juegos creados por 
          Alexander Pfister que salieron en 2019, el otro fue <a
          href="{{site.baseurl}}/etiqueta/expedition-to-newdale/">Expedition to
          Newdale</a>. Maracaibo está ambientado en el Caribe en el sigo XVII,
@@ -189,10 +186,8 @@ un pequeño comentario mio sobre el juego:
          tenía un modo en solitario un poco "limitado", creo recordar que no se
          podía jugar la campaña, o algo pasaba, lo que hizo que en su momento
          lo descartara, sin embargo no me importaría nada poder jugarlo.</p>
-         <p><i><a href="https://amzn.to/3jD0ARo">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -201,8 +196,8 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Marvel Champions: The Card Game">
     </div>
     <div class="col-md-9">
-        <h4>Marvel Champions: The Card Game</h4>
-        <p><strong>Marvel Champions: El juego de cartas</strong> es un juego
+        <h4><a href="https://amzn.to/3aIIcoK">Marvel Champions: The Card Game</a></h4>
+        <p><strong><a href="https://boardgamegeek.com/boardgame/285774/marvel-champions-card-game">Marvel Champions: El juego de cartas</a></strong> es un juego
         cooperativo en el que controlas a uno o varios héroes y tratas de
         evitar el malvado plan de un villano.</p>
         <p><strong><a
@@ -214,10 +209,8 @@ un pequeño comentario mio sobre el juego:
         de Marvel Champions. Desde entonces el juego sigue recibiendo buenas
         críticas, aunque tiene un precio moderado si queréis jugarlo a ritmo
         del que van sacando las expansiones.</p>
-        <p><i><a href="https://amzn.to/3d65bZk">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -226,10 +219,12 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Paladins of the West Kingdom">
     </div>
     <div class="col-md-9">
-        <h4>Paladins of the West Kingdom</h4>
+        <h4><a href="https://amzn.to/3dF4Hwx">Paladins of the West Kingdom</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
-         <p><strong>Paladines del Reino del Oeste</strong> es la segunda entrega
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/266810/paladins-west-kingdom">Paladines
+        del Reino del Oeste</a></strong> es la segunda entrega
          de la Trilogía del Reino del oeste, formada además por el anterior
          <a
          href="{{site.baseurl}}/etiqueta/arquitectos-del-reino-del-oeste/">Arquitectos
@@ -251,10 +246,8 @@ un pequeño comentario mio sobre el juego:
          les estoy cogiendo un punto diferente desde que he vuelto a jugar a
          Anachrony, por lo que finalmente me decidiré a probar alguno de la
          saga.</p>
-         <p><i><a href="https://amzn.to/3d6LtN2">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -263,8 +256,10 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Pax Pamir (Second Edition)">
     </div>
     <div class="col-md-9">
-        <h4>Pax Pamir</h4>
-         <p>En <strong>Pax Pamir</strong> jugamos como un líder afgano en el
+        <h4><a href="https://amzn.to/3kgcJgN">Pax Pamir</a></h4>
+         <p>En <strong><a
+    href="https://boardgamegeek.com/boardgame/256960/pax-pamir-second-edition">Pax
+    Pamir</a></strong> jugamos como un líder afgano en el
          siglo XIX tratando de crear un nuevo estado después del colapso del
          Imperio durrani. Pax Pamir utiliza mecánicas de construcción de
          tablero que construiremos comprando cartas de un mercado
@@ -283,7 +278,6 @@ un pequeño comentario mio sobre el juego:
          eso sin dudas.</p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -292,8 +286,8 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Res Arcana">
     </div>
     <div class="col-md-9">
-        <h4>Res Arcana</h4>
-         <p>En <strong>Res Arcana</strong> somos un mago que utiliza diferentes
+         <h4><a href="https://amzn.to/2ZIJtWx">Res Arcana</a></h4>
+         <p>En <strong><a href="https://boardgamegeek.com/boardgame/262712/res-arcana">Res Arcana</a></strong> somos un mago que utiliza diferentes
          esencias de la alquimia para crear diferentes artefactos y conseguir
          puntos por ellos. En general es un juego de conseguir combos con
          diferentes recursos.</p>
@@ -309,10 +303,8 @@ un pequeño comentario mio sobre el juego:
          perfecto para un día de mucho trabajo entre semana. Ahora mismo tengo
          a este juego y a Tiny Towns en un empate para ver cuál de los dos
          quiero probar primero.</p>
-         <p><i><a href="https://amzn.to/2xpwYod">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -322,7 +314,9 @@ un pequeño comentario mio sobre el juego:
     </div>
     <div class="col-md-9">
         <h4>Tainted Grail: The Fall of Avalon</h4>
-         <p><strong>Tainted Grail: The Fall of Avalon</strong> es un juego de
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/264220/tainted-grail-fall-avalon">Tainted
+    Grail: The Fall of Avalon</a></strong> es un juego de
          aventuras y exploración ambientado en un mundo que mezcla folclore
          celta con mitos artúricos, básicamente tenemos nuestro personaje en un
          mapa, vamos descubriendo cosas y viviendo aventuras.</p>
@@ -338,7 +332,6 @@ un pequeño comentario mio sobre el juego:
          ambientación y porque tiene más estilo RPG.</p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -347,10 +340,10 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Tapestry">
     </div>
     <div class="col-md-9">
-        <h4>Tapestry</h4>
+        <h4><a href="https://amzn.to/3kho1RP">Tapestry</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
-         <p>En <strong>Tapestry</strong> compartes el camino de una
+         <p>En <strong><a href="https://boardgamegeek.com/boardgame/286096/tapestry">Tapestry</a></strong> compartes el camino de una
          civilización desde el comienzo de la humanidad, cuando no tiene nada,
          y tratas de mejorarla invirtiendo en ciencia, tecnología, exploración
          y fuerzas armadas. También podrás mejorar tus ingresos, edificar una
@@ -379,10 +372,8 @@ un pequeño comentario mio sobre el juego:
          cuando hay sobreproducción y menos si repercute en aumentar el espacio
          de la caja.
          </p>
-         <p><i><a href="https://amzn.to/3gQTRBB">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -391,8 +382,8 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Tiny Towns">
     </div>
     <div class="col-md-9">
-        <h4>Tiny Towns</h4>
-         <p><strong>Tiny Towns</strong> es un pequeño juego de construcción en
+        <h4><a href="https://amzn.to/2YzrKSf">Tiny Towns</a></h4>
+         <p><strong><a href="https://boardgamegeek.com/boardgame/265736/tiny-towns">Tiny Towns</a></strong> es un pequeño juego de construcción en
          el que se nos ha encomendado la labor de crear una ciudad desde cero.
          Cada jugador tiene un grid de 4x4 casillas en el que, colocando
          recursos de diferentes tipos en patrones determinados, podrá construir
@@ -411,10 +402,8 @@ un pequeño comentario mio sobre el juego:
          que me tendré que decidir por uno. Este juego sí viene con un modo en
          solitario de base, a diferencia de Res Arcana, que ha sido creado por
          fans, así que al menos esto está en favor de Tiny Towns.</p>
-         <p><i><a href="https://amzn.to/2YzrKSf">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -423,10 +412,12 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Wingspan">
     </div>
     <div class="col-md-9">
-        <h4>Wingspan</h4>
+        <h4><a href="https://amzn.to/3qSGQ0g">Wingspan</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>¡Juego de mesa del año!</strong></div>
-         <p><strong>Wingspan</strong> es un juego de construcción de motor con
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/266192/wingspan">Wingspan</a></strong>
+        es un juego de construcción de motor con
          una temática muy especial. Eres un aficionado de las aves y buscas
          descubrir y atraer las mejores especies a tu red de reservas
          naturales. Cada ave permite aumentar tus combinaciones en cada uno de
@@ -440,7 +431,6 @@ un pequeño comentario mio sobre el juego:
          gusta, pero posiblemente prefiera otro tipo de juegos igual que
          ligeros que este (salvo si tuviera una "Versión Europea", ver abajo mi
          comentario sobre la expansión que también ha sido nominada).</p>
-         <p><i><a href="https://amzn.to/32MFt8x">Link de compra.</a></i></p>
     </div>
 </div>
 
@@ -453,8 +443,10 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Aerion">
     </div>
     <div class="col-md-9">
-        <h4>Aerion</h4>
-         <p><strong>Aerion</strong> es el siguiente juego ambientado en el
+        <h4><a href="https://amzn.to/2P5Ao8d">Aerion</a></h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/267127/aerion">Aerion</a></strong>
+        es el siguiente juego ambientado en el
          Oniverso, una familia de juegos que siempre han tenido modo en
          solitario: Onirim, Urbion, Sylvion, Castellion y Nautilion. Aerion es
          un juego en solitario o coopeartivo en el
@@ -463,10 +455,8 @@ un pequeño comentario mio sobre el juego:
          <p><strong>Comentario.</strong> De la saga del Oniverso solo he podido
          jugar a la primera entrega, Onirim y desde entonces no he seguido
          mucho el desarrollo de la saga.</p>
-         <p><i><a href="https://amzn.to/2SpFwmy">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -475,8 +465,8 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Cartographers: A Roll Player Tale">
     </div>
     <div class="col-md-9">
-        <h4>Cartographers: A Roll Player Tale</h4>
-         <p><strong>Cartographers: A Roll Player Tale</strong> es un juego tipo
+        <h4><a href="https://amzn.to/2ZH2fxl">Cartographers: A Roll Player Tale</a></h4>
+         <p><strong><a href="https://boardgamegeek.com/boardgame/263918/cartographers">Cartographers: A Roll Player Tale</a></strong> es un juego tipo
          roll & write en el que los jugadores tratan de conseguir la mayor
          reputación como cartógrafos cumpliendo con los mandatos de la Reina
          antes de que la temporada termine. En el modo en solitario tendremos
@@ -486,10 +476,8 @@ un pequeño comentario mio sobre el juego:
          tiene un tema interesante, pero de momento no podría decir que el
          roll & write sea un mecanismo que me enamore, así que este juego a mí
          no me interesa.</p>
-         <p><i><a href="https://amzn.to/2Ssj5wZ">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -499,7 +487,7 @@ un pequeño comentario mio sobre el juego:
     </div>
     <div class="col-md-9">
         <h4>Cloudspire</h4>
-         <p><strong>Cloudspire</strong> es un juego estratégico y asimétrico
+         <p><strong><a href="https://boardgamegeek.com/boardgame/262211/cloudspire">Cloudspire</a></strong> es un juego estratégico y asimétrico
          inspirado en los juegos MOBA (multiplayer online battle arena). En
          cada juego los jugadores lideran una facción única en una batalla por
          el control de unas islas volantes modulares, construyendo capiteles y
@@ -511,7 +499,6 @@ un pequeño comentario mio sobre el juego:
          alguno.</p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -520,8 +507,8 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="The Lord of the Rings: Journeys in Middle-earth">
     </div>
     <div class="col-md-9">
-        <h4>The Lord of the Rings: Journeys in Middle-earth</h4>
-         <p><strong>El Señor de los Anillos: Viajes por la Tierra Media</strong>
+        <h4><a href="https://amzn.to/2ZH2EQn">The Lord of the Rings: Journeys in Middle-earth</a></h4>
+         <p><strong><a href="https://boardgamegeek.com/boardgame/269385/lord-rings-journeys-middle-earth">El Señor de los Anillos: Viajes por la Tierra Media</a></strong>
          es un juego de aventuras que integra diferentes aventuras en una
          campaña más larga. Explorarás el vasto mundo de la Tierra Media y
          lucharás contra las fuerzas de la oscuridad.</p>
@@ -532,10 +519,8 @@ un pequeño comentario mio sobre el juego:
          los Anillos la verdad es que este juego no me atrae, no sé si es la
          app, el precio o la pinta que tiene el tablero, pero no termina de
          conectar conmigo.</p>
-         <p><i><a href="https://amzn.to/2VTAsZC">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -544,8 +529,8 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Lux Aeterna">
     </div>
     <div class="col-md-9">
-        <h4>Lux Aeterna</h4>
-         <p>En <strong>Lux Aeterna</strong> tu nave espacial ha sufrido graves
+        <h4><a href="https://www.philibertnet.com/en/surprised-stare-games/81507-lux-aeterna-2100000646838.html">Lux Aeterna</a></h4>
+         <p>En <strong><a href="https://boardgamegeek.com/boardgame/282439/lux-aeterna">Lux Aeterna</a></strong> tu nave espacial ha sufrido graves
          daños en todos los sistemas y se encamina hacia la catástrofe final:
          un agujero negro. El objetivo de este juego es conseguir reparar todos
          los sistemas y evitar que la nave sea atraída hacia el agujero negro
@@ -556,7 +541,6 @@ un pequeño comentario mio sobre el juego:
          para intentar ganar, el juego es impredecible.</p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -565,7 +549,7 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Marvel Champions: The Card Game">
     </div>
     <div class="col-md-9">
-        <h4>Marvel Champions: The Card Game</h4>
+        <h4><a href="https://amzn.to/3aIIcoK">Marvel Champions: The Card Game</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
@@ -580,7 +564,7 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Pax Pamir (Second Edition)">
     </div>
     <div class="col-md-9">
-        <h4>Pax Pamir (Second Edition)</h4>
+        <h4><a href="https://amzn.to/3kgcJgN">Pax Pamir</a></h4>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
@@ -606,10 +590,12 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Twice As Clever">
     </div>
     <div class="col-md-9">
-        <h4>Twice As Clever</h4>
+        <h4><a href="https://amzn.to/3kgNURI">Twice As Clever</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
-         <p><strong>Twice As Clever</strong> sigue el modelo de juego de That's
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/269210/twice-clever">Twice As
+        Clever</a></strong> sigue el modelo de juego de That's
          Pretty Clever, un juego que también fue nominado a los Golden Geek el
          año pasado. Twice As Clever es un juego roll & write en el que el
          objetivo es conseguir el mayor número de puntos que se compararán
@@ -621,10 +607,8 @@ un pequeño comentario mio sobre el juego:
          un juego del "mismo universo" fue nominado a los Golden Geek el año
          pasado, a mí me sorprendió muchísimo porque es un juego que me atrae
          muy poco, pero oye, hay gustos muy variados en esta vida.</p>
-         <p><i><a href="https://amzn.to/35ofPHX">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -633,7 +617,7 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Wingspan">
     </div>
     <div class="col-md-9">
-        <h4>Wingspan</h4>
+        <h4><a href="https://amzn.to/3qSGQ0g">Wingspan</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>¡Mejor juego en solitario!</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
@@ -665,7 +649,6 @@ por la comunidad.
          (link arriba) para que podáis tener mis comentarios de este juego.</p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -683,7 +666,6 @@ por la comunidad.
          probaré una vez consiga acceso a una impresora.</p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -714,7 +696,6 @@ por la comunidad.
          interesante, así que lo añado a mi lista de juegos por probar.</p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -744,7 +725,6 @@ por la comunidad.
          leer el análisis</a></strong>.</p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -789,8 +769,10 @@ por la comunidad.
         class="img-thumbnail" alt="Aeon's End: Legacy">
     </div>
     <div class="col-md-9">
-        <h4>Aeon's End: Legacy</h4>
-        <p><strong>Aeon's End: Legacy</strong> es el último juego de la serie
+        <h4><a href="https://amzn.to/2WfYFIz">Aeon's End: Legacy</a></h4>
+        <p><strong><a
+    href="https://boardgamegeek.com/boardgame/241451/aeons-end-legacy">Aeon's
+        End: Legacy</a></strong> es el último juego de la serie
         Aeon's End, que ya cuenta con: el primer Aeon's End, War Eternal y The
         New Age. Como su nombre indica, Aeon's End: Legacy es el primer juego
         con características <i>legacy</i> de la saga, </p>
@@ -801,10 +783,8 @@ por la comunidad.
         salvar mi cartera. Sigo teniendo gamas de probar algún juego de la
         serie, posiblemente me decante por War Eternal, pero temo que estén
         quemando demasiado la franquicia con tanto juego.</p>
-         <p><i><a href="https://amzn.to/2WfYFIz">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -813,7 +793,7 @@ por la comunidad.
         class="img-thumbnail" alt="The Crew: The Quest for Planet Nine">
     </div>
     <div class="col-md-9">
-        <h4>The Crew: The Quest for Planet Nine</h4>
+        <h4><a href="https://amzn.to/3hgeXdm">The Crew: The Quest for Planet Nine</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
@@ -828,8 +808,8 @@ por la comunidad.
         class="img-thumbnail" alt="Imperial Settlers: Empires of the North">
     </div>
     <div class="col-md-9">
-        <h4>Imperial Settlers: Empires of the North</h4>
-        <p><strong>Colonos del Imperio: Imperios del Norte</strong> es un juego
+        <h4><a href="https://amzn.to/3pMMGiy">Imperial Settlers: Empires of the North</a></h4>
+        <p><strong><a href="https://boardgamegeek.com/boardgame/270844/imperial-settlers-empires-north">Colonos del Imperio: Imperios del Norte</a></strong> es un juego
         de cartas independiente dentro del universo de <strong>Colonos del
         Imperio</strong>. En este juego los jugadores se aventuran hacia el
         norte con tres nuevas facciones: los escoceses, los inutis y los
@@ -848,11 +828,8 @@ por la comunidad.
         nuevo modo en solitario, aunque me he prometido no comprármelo hasta
         que termine de jugar un par de Modos Campaña con el Colonos del Imperio
         viejo, que todavía tiene mucho juego.</p>
-        <p><i><a href="https://amzn.to/3aOwgyw">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
-
 
 <div class="row">
     <div class="col-md-3">
@@ -861,7 +838,7 @@ por la comunidad.
         class="img-thumbnail" alt="It’s a Wonderful World">
     </div>
     <div class="col-md-9">
-        <h4>It’s a Wonderful World</h4>
+        <h4><a href="https://amzn.to/2MmvYc6">It’s a Wonderful World</a></h4>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
@@ -874,7 +851,7 @@ por la comunidad.
         class="img-thumbnail" alt="Marvel Champions: The Card Game">
     </div>
     <div class="col-md-9">
-        <h4>Marvel Champions: The Card Game</h4>
+        <h4><a href="https://amzn.to/3aIIcoK">Marvel Champions: The Card Game</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
@@ -889,7 +866,7 @@ por la comunidad.
         class="img-thumbnail" alt="Res Arcana">
     </div>
     <div class="col-md-9">
-        <h4>Res Arcana</h4>
+        <h4><a href="https://amzn.to/2ZIJtWx">Res Arcana</a></h4>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
@@ -902,12 +879,12 @@ por la comunidad.
             class="img-thumbnail" alt="Tussie Mussie">
     </div>
     <div class="col-md-9">
-        <h4>Tussie Mussie</h4>
+        <h4><a href="https://amzn.to/3qSIMG4">Tussie Mussie</a></h4>
         <p><i>Para jugar en solitario a Tussie Mussie necesitas la expansión
         <a
         href="https://boardgamegeek.com/boardgameexpansion/291182/tussie-mussie-flower-shoppe">Flower
         Shoppe</a>.</i></p>
-        <p><strong>Tussie Mussie</strong> es un juego de gestión de cartas en
+        <p><strong><a href="https://boardgamegeek.com/boardgame/257614/tussie-mussie">Tussie Mussie</a></strong> es un juego de gestión de cartas en
         el que somos el propietario de una floristería y trataremos de obtener
         una puntuación superior a la de nuestro empleado, el rival, montando
         ramos de flores en una serie de tres rondas. Para ello tendremos que
@@ -926,7 +903,6 @@ por la comunidad.
         (link arriba) para que podáis tener mis comentarios de este juego.</p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -935,8 +911,10 @@ por la comunidad.
             class="img-thumbnail" alt="Villagers">
     </div>
     <div class="col-md-9">
-        <h4>Villagers</h4>
-         <p><strong>Villagers</strong> es un juego de cartas ambientado en la
+        <h4><a href="https://amzn.to/3qO97Vz">Villagers</a></h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/241724/villagers">Villagers</a></strong>
+        es un juego de cartas ambientado en la 
          época medieval en el que tendrás que reconstruir un pueblo tras una
          gran plaga. La pérdida de tanta población por la enfermedad ha hecho
          que cosas esenciales como comida, cobijo y ropa sean escasas. Los
@@ -968,10 +946,8 @@ por la comunidad.
          veces suelo coger fichas de otros juegos, pero me gustaría tener unas
          fichas más genéricas. Así que posiblemente en algún momento de mi vida
          compre estas monedas de madera.</p>
-         <p><i><a href="https://amzn.to/3aTv8tp">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -980,7 +956,7 @@ por la comunidad.
         class="img-thumbnail" alt="Wingspan">
     </div>
     <div class="col-md-9">
-        <h4>Wingspan</h4>
+        <h4><a href="https://amzn.to/3qSGQ0g">Wingspan</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>¡Mejor juego de cartas!</strong></div>
          <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
@@ -996,7 +972,7 @@ por la comunidad.
         class="img-thumbnail" alt="Aeon's End: Legacy">
     </div>
     <div class="col-md-9">
-        <h4>Aeon's End: Legacy</h4>
+        <h4><a href="https://amzn.to/2WfYFIz">Aeon's End: Legacy</a></h4>
          <p><strong>Nominado también a <i>Mejor juego de cartas</i></strong>.</p>
     </div>
 </div>
@@ -1009,8 +985,10 @@ por la comunidad.
         class="img-thumbnail" alt="Atlantis Rising (Second Edition)">
     </div>
     <div class="col-md-9">
-        <h4>Atlantis Rising (Second Edition)</h4>
-        <p><strong>Atlantis Rising</strong> es un juego cooperativo de
+        <h4><a href="https://www.philibertnet.com/en/elf-creek-games/19296-atlantis-rising-vf-644216211999.html">Atlantis Rising (Second Edition)</a></h4>
+        <p><strong><a
+    href="https://boardgamegeek.com/boardgame/248490/atlantis-rising-second-edition">Atlantis
+        Rising</a></strong> es un juego cooperativo de
         colocación de trabajadores en el que tienes que trabajar en equipo para
         mandar ciudadanos a lo largo de Atlantis. Estos podrán conseguir los
         recursos necesarios para construir la puerta cósmica que salvará a tu
@@ -1023,7 +1001,6 @@ por la comunidad.
         mucho.</p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1032,7 +1009,7 @@ por la comunidad.
         class="img-thumbnail" alt="The Crew: The Quest for Planet Nine">
     </div>
     <div class="col-md-9">
-        <h4>The Crew: The Quest for Planet Nine</h4>
+        <h4><a href="https://amzn.to/3hgeXdm">The Crew: The Quest for Planet Nine</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>¡Mejor juego cooperativo!</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i> y <i>Mejor
@@ -1048,8 +1025,10 @@ por la comunidad.
         class="img-thumbnail" alt="Cthulhu: Death May Die">
     </div>
     <div class="col-md-9">
-        <h4>Cthulhu: Death May Die</h4>
-        <p><strong>Cthulhu: Death May Die</strong> es un juego cooperativo y
+        <h4><a href="https://amzn.to/2NRu7MH">Cthulhu: Death May Die</a></h4>
+        <p><strong><a
+    href="https://boardgamegeek.com/boardgame/253344/cthulhu-death-may-die">Cthulhu:
+        Death May Die</a></strong> es un juego cooperativo y
         temático, concretamente inspirado en el mito de Cthulhu de
         H.P. Lovecraft. En este juego tomas el rol de investigadores en los
         años 20, que en vez de evitar la llegada de los Viejos Dioses, quieren
@@ -1064,7 +1043,6 @@ por la comunidad.
         cuesta mucho dinero y que no me interesa.</p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1073,8 +1051,10 @@ por la comunidad.
         class="img-thumbnail" alt="Horrified">
     </div>
     <div class="col-md-9">
-        <h4>Horrified</h4>
-        <p><strong>Horrified</strong> Imagina vivir en un sitio plagado de
+        <h4><a href="https://amzn.to/3qP65Rc">Horrified</a></h4>
+        <p>En <strong><a
+    href="https://boardgamegeek.com/boardgame/282524/horrified">Horrified</a></strong>
+         imagina vivir en un sitio plagado de
         monstruos, no uno, ni dos, ni tres, sino siete de las criaturas más
         terribles que hayas visto nunca. En este juego te encontrarás con estas
         criaturas en tu objetivo de deshacerte de ellas o tratar de hacerlas
@@ -1083,10 +1063,8 @@ por la comunidad.
         No sé cómo estará ahora la distribución en Europa, pero en los meses
         pre-Essen'19 había muchísima gente que pedía <i>mulas</i> desde Estados
         Unidos para que les hicieran llegar este juego a Europa.</p>
-        <p><i><a href="https://amzn.to/2yW5Dui">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1095,7 +1073,7 @@ por la comunidad.
         class="img-thumbnail" alt="The Lord of the Rings: Journeys in Middle-earth">
     </div>
     <div class="col-md-9">
-        <h4>The Lord of the Rings: Journeys in Middle-earth</h4>
+        <h4><a href="https://amzn.to/2ZH2EQn">The Lord of the Rings: Journeys in Middle-earth</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p><strong>También nominado a <i>Mejor juego en
@@ -1111,7 +1089,7 @@ por la comunidad.
         class="img-thumbnail" alt="Marvel Champions: The Card Game">
     </div>
     <div class="col-md-9">
-        <h4>Marvel Champions: The Card Game</h4>
+        <h4><a href="https://amzn.to/3aIIcoK">Marvel Champions: The Card Game</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i> y <i>Mejor
@@ -1140,7 +1118,7 @@ por la comunidad.
         class="img-thumbnail" alt="UBOOT: The Board Game">
     </div>
     <div class="col-md-9">
-        <h4>UBOOT: The Board Game</h4>
+        <h4><a href="https://amzn.to/2ZFXeFo">UBOOT: The Board Game</a></h4>
         <p><strong>UBOOT: Lobos de la Kriegsmarine</strong> es un juego cooperativo, en
         tiempo real, sobre guerras de submarinos durante la Segunda Guerra
         Mundial. Tomarás los roles de capitán, primer oficial, piloto e
@@ -1154,7 +1132,6 @@ por la comunidad.
         juegos de mesa, aunque tengo que admitir que el submarino me parece más
         interesante. Otra cosa curiosa es que este es uno de los pocos juegos
         que requieren app que me interesa aunque tenga app.</p>
-        <p><i><a href="https://amzn.to/35kwMDa">Link de compra.</a></i></p>
     </div>
 </div>
 
@@ -1168,7 +1145,9 @@ por la comunidad.
     </div>
     <div class="col-md-9">
         <h4>The 7th Continent: What Goes Up, Must Come Down</h4>
-        <p><strong>What Goes Up, Must Come Down</strong> es la primera gran
+        <p><strong><a
+    href="https://boardgamegeek.com/boardgame/236206/7th-continent-what-goes-must-come-down">What
+        Goes Up, Must Come Down</a></strong> es la primera gran
         expansión para The 7th Continent que añade nuevas aventuras al juego
         base.</p>
         <p>The 7th Continent ya no es un juego tan exclusivo, y podéis
@@ -1181,7 +1160,6 @@ por la comunidad.
         el juego que puede darnos esta expansión.</p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1190,17 +1168,15 @@ por la comunidad.
         class="img-thumbnail" alt="Everdell: Pearlbrook">
     </div>
     <div class="col-md-9">
-        <h4>Everdell: Pearlbrook</h4>
-        <p><strong>Pearlbrook</strong> es una de las dos expansiones de
+        <h4><a href="https://amzn.to/3kh9be8">Everdell: Pearlbrook</a></h4>
+        <p><strong><a href="https://boardgamegeek.com/boardgame/259996/everdell-pearlbrook">Pearlbrook</a></strong> es una de las dos expansiones de
         Everdell que han sido nominadas a estos premios. En Pearlbrook se añade
         un nuevo tablero de juego, un río, en el que puedes conseguir un
         recurso nuevo, perlas.</p>
         <p><strong>Comentario.</strong> Menos mal que no viene con un río que
         tienes que montar tú de cartón.</p>
-        <p><i><a href="https://amzn.to/3aR45ij">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1209,17 +1185,17 @@ por la comunidad.
         class="img-thumbnail" alt="Everdell: Spirecrest">
     </div>
     <div class="col-md-9">
-        <h4>Everdell: Spirecrest</h4>
-        <p><strong>Spirecrest</strong> es la segunda expansión de Everdell
+        <h4><a href="https://amzn.to/3kiTpzj">Everdell: Spirecrest</a></h4>
+        <p><strong><a
+    href="https://boardgamegeek.com/boardgame/289056/everdell-spirecrest">Spirecrest</a></strong>
+        es la segunda expansión de Everdell
         nominada a estos premios. En Spirecrest se añaden nuevas mecánicas
         relacionadas con el tiempo, cartas de descubrimientos y un nuevo tipo
         de trabajadores.</p>
         <p><strong>Comentario.</strong> No entiendo la razón por la que han
         hecho dos expansiones separadas en vez de una grande y ya está...</p>
-        <p><i><a href="https://amzn.to/2ykdSjI">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1228,8 +1204,10 @@ por la comunidad.
         class="img-thumbnail" alt="Gloomhaven: Forgotten Circles">
     </div>
     <div class="col-md-9">
-        <h4>Gloomhaven: Forgotten Circles</h4>
-        <p><strong>Forgotten Circles</strong> es la primera expansión que ha
+        <h4><a href="https://amzn.to/2NPa4P0">Gloomhaven: Forgotten Circles</a></h4>
+        <p><strong><a
+    href="https://boardgamegeek.com/boardgame/250337/gloomhaven-forgotten-circles">Forgotten
+    Circles</a></strong> es la primera expansión que ha
         tenido Gloomhaven. Esta expansión añade veinte nuevos escenarios, una
         nueva clase de personaje y siete nuevos monstruos..</p>
         <p><strong>Comentario.</strong> Me hace mucha gracia que este juego
@@ -1240,10 +1218,8 @@ por la comunidad.
         href="https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion">Jaws
         of the Lion</a> para poder probar el sistema sin que mi vida corra
         peligro.</p>
-        <p><i><a href="https://amzn.to/2SqMBmB">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1252,8 +1228,10 @@ por la comunidad.
         class="img-thumbnail" alt="Teotihuacan: Late Preclassic Period">
     </div>
     <div class="col-md-9">
-        <h4>Teotihuacan: Late Preclassic Period</h4>
-        <p><strong>Preclásico Tardío</strong> es la primera expansión que
+        <h4><a href="https://amzn.to/3qRM1NZ">Teotihuacan: Late Preclassic Period</a></h4>
+        <p><strong><a
+    href="https://boardgamegeek.com/boardgame/270364/teotihuacan-late-preclassic-period">Preclásico
+        Tardío</a></strong> es la primera expansión que
         ha tenido Teotihuacán, que añade nuevas opciones de juego con poderes
         de jugador asimétricos y un nuevo templo.</p>
         <p><strong><a
@@ -1262,10 +1240,8 @@ por la comunidad.
         <p><strong>Comentario.</strong> Bueno, todos los euros no se pueden
         jugar, y este es uno que desafortunadamente no entra dentro del
         corte.</p>
-        <p><i><a href="https://amzn.to/2xlY8wa">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1274,10 +1250,10 @@ por la comunidad.
         class="img-thumbnail" alt="Terraforming Mars: Conflictos">
     </div>
     <div class="col-md-9">
-        <h4>Terraforming Mars: Conflictos</h4>
+        <h4><a href="https://amzn.to/3pKZcPh">Terraforming Mars: Conflictos</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
-        <p><strong>Conflictos</strong> es la quinta expansión para Terraforming
+        <p><strong><a href="https://boardgamegeek.com/boardgame/273473/terraforming-mars-turmoil">Conflictos</a></strong> es la quinta expansión para Terraforming
         Mars, que añade nuevas corporaciones, proyectos y un nuevo tipo de
         cartas, los eventos globales, que pueden darte algo diferente que tener
         en cuenta para las siguientes generaciones. Se añade un nuevo tablero
@@ -1291,11 +1267,8 @@ por la comunidad.
         Terraforming Mars que me trajo los tableros con relieve, así que
         tendrá siempre un lugar en mi corazón (¡jaja!). Os hablaré de ella con
         detalle en el futuro.</p>
-        <p><i><a href="https://amzn.to/3bPKel0">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
-
 
 <div class="row">
     <div class="col-md-3">
@@ -1304,8 +1277,10 @@ por la comunidad.
         class="img-thumbnail" alt="Underwater Cities: New Discoveries">
     </div>
     <div class="col-md-9">
-        <h4>Underwater Cities: New Discoveries</h4>
-        <p><strong>New Discoveries</strong> es la primera expansión que se ha
+        <h4><a href="https://amzn.to/2NXEmPq">Underwater Cities: New Discoveries</a></h4>
+        <p><strong><a
+    href="https://boardgamegeek.com/boardgame/276104/underwater-cities-new-discoveries">New
+        Discoveries</a></strong> es la primera expansión que se ha
         hecho para Underwater Cities. En New Discoveries se añaden nuevas
         cartas (asistentes, cartas de era...) además de nuevos tableros de
         jugador para añadir variabilidad y un nuevo tablero de museo.</p>
@@ -1318,10 +1293,8 @@ por la comunidad.
         así que espero poder probar Underwater Cities en un futuro. Por otro
         lado me pone de los nervios tener unos tableros de jugador tan grandes
         desperdiciando tanto espacio, así que ya veremos.</p> 
-        <p><i><a href="https://amzn.to/2ERuToT">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1330,10 +1303,12 @@ por la comunidad.
         class="img-thumbnail" alt="Wingspan: European Expansion">
     </div>
     <div class="col-md-9">
-        <h4>Wingspan: European Expansion</h4>
+        <h4><a href="https://amzn.to/2ZKhfL6">Wingspan: European Expansion</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>¡Mejor expansión!</strong></div>
-        <p>La <strong>Expansión Europea</strong> añade diferentes variedades de
+        <p>La <strong><a
+    href="https://boardgamegeek.com/boardgame/290448/wingspan-european-expansion">Expansión
+        Europea</a></strong> añade diferentes variedades de
         aves que pueden observarse por Europa.</p>
         <p><strong><a
         href="https://www.malditogames.com/juegos/wingspan-europea-juego/">Maldito
@@ -1344,7 +1319,6 @@ por la comunidad.
         aprendes nuevas cosas, en este caso relacionadas con las especies
         europeas de aves, muchísimo mejor. Desafortunadamente no ha sido
         así, aunque aquí dejo la idea.</p>
-        <p><i><a href="https://amzn.to/2VSkOgV">Link de compra.</a></i></p>
     </div>
 </div>
 
@@ -1357,7 +1331,7 @@ por la comunidad.
         class="img-thumbnail" alt="Barrage">
     </div>
     <div class="col-md-9">
-        <h4>Barrage</h4>
+        <h4><a href="https://amzn.to/2NOXcZc">Barrage</a></h4>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong></p>
     </div>
 </div>
@@ -1370,7 +1344,7 @@ por la comunidad.
         class="img-thumbnail" alt="Maracaibo">
     </div>
     <div class="col-md-9">
-        <h4>Maracaibo</h4>
+        <h4><a href="https://amzn.to/3qQgNXv">Maracaibo</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong>.</p>
@@ -1385,7 +1359,7 @@ por la comunidad.
         class="img-thumbnail" alt="Paladins of the West Kingdom">
     </div>
     <div class="col-md-9">
-        <h4>Paladins of the West Kingdom</h4>
+        <h4><a href="https://amzn.to/3dF4Hwx">Paladins of the West Kingdom</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong>.</p>
@@ -1400,7 +1374,7 @@ por la comunidad.
         class="img-thumbnail" alt="Pax Pamir (Second Edition)">
     </div>
     <div class="col-md-9">
-        <h4>Pax Pamir (Second Edition)</h4>
+        <h4><a href="https://amzn.to/3kgcJgN">Pax Pamir</a></h4>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong>.</p>
     </div>
 </div>
@@ -1413,7 +1387,7 @@ por la comunidad.
         class="img-thumbnail" alt="Res Arcana">
     </div>
     <div class="col-md-9">
-        <h4>Res Arcana</h4>
+        <h4><a href="https://amzn.to/2ZIJtWx">Res Arcana</a></h4>
         <p><strong>Nominado también a <i>Juego de mesa del año</i> y <i>Mejor
         juego de cartas</i></strong>.</p>
     </div>
@@ -1427,7 +1401,7 @@ por la comunidad.
         class="img-thumbnail" alt="Tapestry">
     </div>
     <div class="col-md-9">
-        <h4>Tapestry</h4>
+        <h4><a href="https://amzn.to/3kho1RP">Tapestry</a></h4>
         <p><strong>Nominado también a <i>Juego de mesa del año</i></strong>.</p>
     </div>
 </div>
@@ -1440,7 +1414,7 @@ por la comunidad.
         class="img-thumbnail" alt="Wingspan">
     </div>
     <div class="col-md-9">
-        <h4>Wingspan</h4>
+        <h4><a href="https://amzn.to/3qSGQ0g">Wingspan</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>¡Mejor juego de estrategia!</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i>,
@@ -1461,7 +1435,7 @@ solitario.*
         class="img-thumbnail" alt="Cthulhu: Death May Die">
     </div>
     <div class="col-md-9">
-        <h4>Cthulhu: Death May Die</h4>
+        <h4><a href="https://amzn.to/2NRu7MH">Cthulhu: Death May Die</a></h4>
         <p><strong>Nominado también a <i>Mejor juego
         cooperativo</i></strong>.</p>
     </div>
@@ -1475,7 +1449,7 @@ solitario.*
         class="img-thumbnail" alt="Horrified">
     </div>
     <div class="col-md-9">
-        <h4>Horrified</h4>
+        <h4><a href="https://amzn.to/3qP65Rc">Horrified</a></h4>
         <p><strong>Nominado también a <i>Mejor juego
         cooperativo</i></strong>.</p>
     </div>
@@ -1489,7 +1463,7 @@ solitario.*
         class="img-thumbnail" alt="The Lord of the Rings: Journeys in Middle-earth">
     </div>
     <div class="col-md-9">
-        <h4>The Lord of the Rings: Journeys in Middle-earth</h4>
+        <h4><a href="https://amzn.to/2ZH2EQn">The Lord of the Rings: Journeys in Middle-earth</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Mejor juego en solitario</i> y <i>Mejor
@@ -1505,7 +1479,7 @@ solitario.*
         class="img-thumbnail" alt="Marvel Champions: The Card Game">
     </div>
     <div class="col-md-9">
-        <h4>Marvel Champions: The Card Game</h4>
+        <h4><a href="https://amzn.to/3aIIcoK">Marvel Champions: The Card Game</a></h4>
         <p><strong>Nominado también a <i>Juego de mesa del año</i>, <i>Mejor
         juego en solitario</i>, <i>Mejor juego de cartas</i> y
         <i>Mejor juego coopeartivo</i></strong>.</p>
@@ -1520,10 +1494,12 @@ solitario.*
         class="img-thumbnail" alt="Star Wars: Outer Rim">
     </div>
     <div class="col-md-9">
-        <h4>Star Wars: Outer Rim</h4>
+        <h4><a href="https://amzn.to/3qRN2ph">Star Wars: Outer Rim</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
-        <p><strong>Star Wars: El borde exterior</strong> es un juego temático
+        <p><strong><a
+    href="https://boardgamegeek.com/boardgame/271896/star-wars-outer-rim">Star
+        Wars: El borde exterior</a></strong> es un juego temático
         dentro del universo de Star Wars que te lleva al mundo de los caza
         recompensas, mercenarios y contrabandistas. En El borde exterior juegas
         como un ciudadano de este mundo oculto, tratando de dejar tu marca en
@@ -1539,10 +1515,8 @@ solitario.*
         mí pierde mucho un juego cuando ponen fotos de los actores para los
         personajes (o versiones hiper-realistas) en vez de dibujos sacados de
         arte de la película o comics. No es un juego que vaya a probar.</p>
-        <p><i><a href="https://amzn.to/3bqHUBK">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1566,7 +1540,7 @@ solitario.*
         class="img-thumbnail" alt="UBOOT: The Board Game">
     </div>
     <div class="col-md-9">
-        <h4>UBOOT: The Board Game</h4>
+        <h4><a href="https://amzn.to/2ZFXeFo">UBOOT: The Board Game</a></h4>
         <p><strong>Nominado también a <i>Mejor juego
             cooperativo</i></strong>.</p>
     </div>
@@ -1590,10 +1564,12 @@ solitario.
         class="img-thumbnail" alt="Blitzkrieg!: World War Two in 20 Minutes">
     </div>
     <div class="col-md-9">
-        <h4>Blitzkrieg!: World War Two in 20 Minutes</h4>
+        <h4><a href="https://amzn.to/3aMHsiz">Blitzkrieg!: World War Two in 20 Minutes</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
-         <p><strong>Blitzkrieg!</strong> es un juego que permite a los
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/258210/blitzkrieg-world-war-two-20-minutes">Blitzkrieg!</a></strong>
+        es un juego que permite a los 
          jugadores adentrarse en los teatros de operaciones más famosos de la
          Segunda Guerra Mundial, ganando campañas clave y construyendo fuerzas
          militares. Se roban fichas de una bolsa para determinar las fuerzas
@@ -1609,10 +1585,8 @@ solitario.
          mucho pero no sé si lo terminaré jugando muchas veces, aunque la
          temática obviamente me guste. Si se lo puedo pedir a algún amigo
          durante un tiempo terminaré haciendo un análisis para el blog.</p>
-         <p><i><a href="https://amzn.to/352BfMC">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 
 <div class="row">
@@ -1622,8 +1596,10 @@ solitario.
         class="img-thumbnail" alt="Gandhi: The Decolonization of British India, 1917 – 1947">
     </div>
     <div class="col-md-9">
-        <h4>Gandhi: The Decolonization of British India, 1917 – 1947</h4>
-         <p><strong>Gandhi</strong> es la novena entrega de la serie COIN de
+        <h4><a href="https://amzn.to/2ZK0bFa">Gandhi: The Decolonization of British India, 1917 – 1947</a></h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/220588/gandhi-decolonization-british-india-1917-1947">Gandhi</a></strong>
+        es la novena entrega de la serie COIN de
          GMT en la que se vive uno de los ejemplos de la resistencia pacífica
          más importantes de la historia. Gandhi nos lleva a India, la joya de
          la corona del Imperio Británico. En este juego los jugadores
@@ -1633,10 +1609,8 @@ solitario.
          serie COIN, y puede que este sea el que menos me interese jugar, hay
          otros que sí que quiero probar, aunque según dicen los más versados en
          estos juegos, hay que dedicarle bastante tiempo.</p>
-         <p><i><a href="https://amzn.to/2YRKdZt">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1645,8 +1619,10 @@ solitario.
         class="img-thumbnail" alt="Nevsky: Teutons and Rus in Collision, 1240-1242">
     </div>
     <div class="col-md-9">
-        <h4>Nevsky: Teutons and Rus in Collision, 1240-1242</h4>
-        <p><strong>Nevsky</strong> es un wargame sobre el choque de poder entre
+        <h4><a href="https://amzn.to/2YX6MvX">Nevsky: Teutons and Rus in Collision, 1240-1242</a></h4>
+        <p><strong><a
+    href="https://boardgamegeek.com/boardgame/249590/nevsky-teutons-and-rus-collision-1240-1242">Nevsky</a></strong>
+        es un wargame sobre el choque de poder entre
         los fuerzas de los Teutones y los poderes rusos Ortodoxos en la
         frontera báltica a mediados del siglo XII. Este juego muestra un
         conflicto militar pre-industral en el que los jugadores tienen que
@@ -1661,10 +1637,8 @@ solitario.
         componentes tienen una pinta genial. Me encantaría poder probarlo,
         tengo que leer las reglas aún, pero de buenas a primeras entra en mi
         lista de futuras adquisiciones de wargames.</p>
-         <p><i><a href="https://amzn.to/2YX6MvX">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1673,8 +1647,10 @@ solitario.
         class="img-thumbnail" alt="Peloponnesian War">
     </div>
     <div class="col-md-9">
-        <h4>Peloponnesian War</h4>
-        <p><strong>Peloponnesian War</strong> te deja vivir las guerras del
+        <h4><a href="https://amzn.to/3jDqPaE">Peloponnesian War</a></h4>
+        <p><strong><a
+    href="https://boardgamegeek.com/boardgame/279644/peloponnesian-war">Peloponnesian
+        War</a></strong> te deja vivir las guerras del
         Peloponeso comenzando con la guerra arquidámica en el 431 a. C. hasta
         la caída de Atenas en el año 404. Utiliza a tus generales, hoplitas y
         navíos para luchar batallas en un intento de llevar la guerra a un
@@ -1685,10 +1661,8 @@ solitario.
         leerme un libro histórico sobre el conflicto, es una época muy
         interesante llena de historia, pero que en cuanto a sistema no sé yo si
         me gustaría. Aún tengo que leerme las reglas con más detalle.</p>
-        <p><i><a href="https://amzn.to/3jDqPaE">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1697,10 +1671,12 @@ solitario.
         class="img-thumbnail" alt="Stalingrad ‘42">
     </div>
     <div class="col-md-9">
-        <h4>Stalingrad '42</h4>
+        <h4><a href="https://amzn.to/3aKvBBk">Stalingrad '42</a></h4>
         <p><i>Puedes jugar en solitario a Stalingrad '42 si controlas ambos
         bandos.</i></p>
-        <p><strong>Stalingrad '42</strong> es un wargame a nivel de divisiones
+        <p><strong><a
+    href="https://boardgamegeek.com/boardgame/255393/stalingrad-42-southern-russia-june-december-1942">Stalingrad
+        '42</a></strong> es un wargame a nivel de divisiones
         ambientado en la ofensiva veraniega de las fuerzas del eje contra
         Stalingrado y el Cáucaso en el año 1942 de la Segunda Guerra
         Mundial. Históricamente esta ofensiva duró seis meses y vio a las
@@ -1713,10 +1689,8 @@ solitario.
         edición de Ardennes '44, del mismo autor, y me ha gustado el
         sistema. Este es un wargame que me gustaría jugar y además tiene un
         precio ajustado.</p>
-        <p><i><a href="https://amzn.to/34QOgci">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1725,8 +1699,10 @@ solitario.
         class="img-thumbnail" alt="Tank Duel: Enemy in the Crosshairs">
     </div>
     <div class="col-md-9">
-        <h4>Tank Duel: Enemy in the Crosshairs</h4>
-        <p><strong>Tank Duel: Enemy in the Crosshairs</strong> es un juego de
+        <h4><a href="https://amzn.to/2ZH8y3Z">Tank Duel: Enemy in the Crosshairs</a></h4>
+        <p><strong><a
+    href="https://boardgamegeek.com/boardgame/214234/tank-duel-enemy-crosshairs">Tank
+        Duel: Enemy in the Crosshairs</a></strong> es un juego de
         cartas que representa la guerra de tanque a tanque en el frente este de
         la Segunda Guerra Mundial desde el principio del año 1940 hasta
         mediados del mismo. Los jugadores emitirán órdenes mediante el uso de
@@ -1734,10 +1710,8 @@ solitario.
         objetivos y eliminando a los tanques enemigos.</p>
         <p><strong>Comentario.</strong> Creo que este es uno de los pocos
         juegos que tiene GMT que no me dice nada.</p>
-        <p><i><a href="https://amzn.to/2YWYS5C">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1746,7 +1720,7 @@ solitario.
         class="img-thumbnail" alt="UBOOT: The Board Game">
     </div>
     <div class="col-md-9">
-        <h4>UBOOT: The Board Game</h4>
+        <h4><a href="https://amzn.to/2ZFXeFo">UBOOT: The Board Game</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Mejor juego
@@ -1762,10 +1736,12 @@ solitario.
         class="img-thumbnail" alt="Undaunted: Normandy">
     </div>
     <div class="col-md-9">
-        <h4>Undaunted: Normandy</h4>
+        <h4><a href="https://amzn.to/2ZIXfIL">Undaunted: Normandy</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>¡Mejor wargame!</strong></div>
-        <p><strong>Undaunted: Normandy</strong> es un juego de construcción de
+        <p><strong><a
+    href="https://boardgamegeek.com/boardgame/268864/undaunted-normandy">Undaunted:
+        Normandy</a></strong> es un juego de construcción de
         mazos ambientado en la Segunda Guerra Mundial; los Aliados han
         desembarcado en las playas de Normandía en el Día-D y ahora tienen que
         seguir adentrándose en Francia. Jugarás una serie de misiones que son
@@ -1786,10 +1762,8 @@ solitario.
         href="https://boardgamegeek.com/boardgame/290359/undaunted-north-africa">Undaunted:
         North Africa</a></strong>, que como podéis intuir, se ambientará en el
         teatro de operaciones de Africa.</p>
-        <p><i><a href="https://amzn.to/32M4wZr">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 ### Mejor juego familiar
 
@@ -1800,10 +1774,12 @@ solitario.
         class="img-thumbnail" alt="Azul: Summer Pavilion">
     </div>
     <div class="col-md-9">
-        <h4>Azul: Summer Pavilion</h4>
+        <h4><a href="https://amzn.to/3dC3037">Azul: Summer Pavilion</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
-        <p>En <strong>Summer Pavilion</strong> los jugadores regresan a Portugal
+        <p>En <strong><a
+    href="https://boardgamegeek.com/boardgame/287954/azul-summer-pavilion">Summer
+        Pavilion</a></strong> los jugadores regresan a Portugal
         para conseguir la tarea que nunca comenzó. Como un maestro artesano
         deberás usar los materiales de más calidad para crear el pabellón de
         verano a la vez que evitas malgastar recursos. Solamente los mejores se
@@ -1815,10 +1791,8 @@ solitario.
         año parece que sacan una variante diferente, parece que hacen estos
         juegos de la nada. Todos muy vistos y visualmente muy cuidados eso
         sí.</p>
-        <p><i><a href="https://amzn.to/2y7v8cb">Link de compra.</a></i></p>
     </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1827,7 +1801,7 @@ solitario.
         class="img-thumbnail" alt="Cartographers: A Roll Player Tale">
     </div>
     <div class="col-md-9">
-        <h4>Cartographers: A Roll Player Tale</h4>
+        <h4><a href="https://amzn.to/2ZH2fxl">Cartographers: A Roll Player Tale</a></h4>
         <p><strong>También nominado a <i>Mejor juego en
         solitario</i></strong>.</p> 
     </div>
@@ -1841,7 +1815,7 @@ solitario.
         class="img-thumbnail" alt="The Crew: The Quest for Planet Nine">
     </div>
     <div class="col-md-9">
-        <h4>The Crew: The Quest for Planet Nine</h4>
+        <h4><a href="https://amzn.to/3hgeXdm">The Crew: The Quest for Planet Nine</a></h4>
         <p><strong>Nominado también a <i>Juego de mesa del año</i>, <i>Mejor
         juego de cartas</i> y <i>Mejor juego cooperativo</i></strong>.</p>
     </div>
@@ -1855,7 +1829,7 @@ solitario.
         class="img-thumbnail" alt="Horrified">
     </div>
     <div class="col-md-9">
-        <h4>Horrified</h4>
+        <h4><a href="https://amzn.to/3qP65Rc">Horrified</a></h4>
         <p><strong>Nominado también a <i>Mejor juego
         cooperativo</i> y <i>Mejor juego temático</i></strong>.</p>
     </div>
@@ -1870,7 +1844,7 @@ solitario.
         class="img-thumbnail" alt="The Isle of Cats">
     </div>
     <div class="col-md-9">
-        <h4>The Isle of Cats</h4>
+        <h4><a href="https://amzn.to/2ZLYMhf">The Isle of Cats</a></h4>
         <p><strong>Nominado también a <i>Mejor juego
         del año</i></strong>.</p>
     </div>
@@ -1884,8 +1858,10 @@ solitario.
         class="img-thumbnail" alt="PARKS">
     </div>
     <div class="col-md-9">
-        <h4>PARKS</h4>
-        <p>En <strong>PARKS</strong> los jugadores serán senderistas en su
+        <h4><a href="https://www.philibertnet.com/en/keymaster-games/82038-parks-850003498027.html">PARKS</a></h4>
+        <p>En <strong><a
+    href="https://boardgamegeek.com/boardgame/266524/parks">PARKS</a></strong>
+        los jugadores serán senderistas en su
         camino por diferentes senderos a lo largo de las diferentes estaciones
         del año. Mientras estén en el sendero tendrán que tomar acciones y
         recolectar pequeños recuerdos de los sitios que visiten. Estos pequeños
@@ -1898,8 +1874,6 @@ solitario.
         pudieron solucionarlo a tiempo y no les cancelaron la campaña.</p>
     </div>
 </div>
-<br>
-
 
 <div class="row">
     <div class="col-md-3">
@@ -1908,7 +1882,7 @@ solitario.
         class="img-thumbnail" alt="Tiny Towns">
     </div>
     <div class="col-md-9">
-        <h4>Tiny Towns</h4>
+        <h4><a href="https://amzn.to/2YzrKSf">Tiny Towns</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Mejor juego del año</i></strong>.</p>
@@ -1923,7 +1897,7 @@ solitario.
         class="img-thumbnail" alt="Wingspan">
     </div>
     <div class="col-md-9">
-        <h4>Wingspan</h4>
+        <h4><a href="https://amzn.to/3qSGQ0g">Wingspan</a></h4>
          <div class="alert alert-warning" role="alert">
             <strong>¡Mejor juego de mesa familiar!</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i>,
@@ -1935,7 +1909,6 @@ solitario.
 
 ### Juego más innovador
 
-
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
@@ -1943,13 +1916,12 @@ solitario.
         class="img-thumbnail" alt="Barrage">
     </div>
     <div class="col-md-9">
-        <h4>Barrage</h4>
+        <h4><a href="https://amzn.to/2NOXcZc">Barrage</a></h4>
         <p><strong>Nominado también a <i>Juego de mesa del año</i> y <i>Mejor
         juego de estrategia</i></strong>.</p>
     </div>
 </div>
 <br>
-
 
 <div class="row">
     <div class="col-md-3">
@@ -1958,7 +1930,7 @@ solitario.
         class="img-thumbnail" alt="The Crew: The Quest for Planet Nine">
     </div>
     <div class="col-md-9">
-        <h4>The Crew: The Quest for Planet Nine</h4>
+        <h4><a href="https://amzn.to/3hgeXdm">The Crew: The Quest for Planet Nine</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i>, <i>Mejor
@@ -1968,7 +1940,6 @@ solitario.
 </div>
 <br>
 
-
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
@@ -1976,13 +1947,12 @@ solitario.
         class="img-thumbnail" alt="Pax Pamir (Second Edition)">
     </div>
     <div class="col-md-9">
-        <h4>Pax Pamir (Second Edition)</h4>
+        <h4><a href="https://amzn.to/3kgcJgN">Pax Pamir</a></h4>
         <p><strong>Nominado también a <i>Juego de mesa del año</i> y <i>Mejor
         juego de estrategia</i></strong>.</p>
     </div>
 </div>
 <br>
-
 
 <div class="row">
     <div class="col-md-3">
@@ -1999,7 +1969,6 @@ solitario.
 </div>
 <br>
 
-
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
@@ -2007,7 +1976,7 @@ solitario.
         class="img-thumbnail" alt="UBOOT: The Board Game">
     </div>
     <div class="col-md-9">
-        <h4>UBOOT: The Board Game</h4>
+        <h4><a href="https://amzn.to/2ZFXeFo">UBOOT: The Board Game</a></h4>
         <p><strong>Nominado también a <i>Mejor juego
             cooperativo</i>, <i>Mejor juego temático</i> y <i>Mejor
             wargame</i></strong>.</p>
@@ -2023,7 +1992,7 @@ solitario.
         class="img-thumbnail" alt="Wingspan">
     </div>
     <div class="col-md-9">
-        <h4>Wingspan</h4>
+        <h4><a href="https://amzn.to/3qSGQ0g">Wingspan</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>¡Juego más innovador!</strong></div>
         <p><strong>Nominado también a <i>Juego de mesa del año</i>,

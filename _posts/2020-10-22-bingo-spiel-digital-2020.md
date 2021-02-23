@@ -213,7 +213,7 @@ entran en mi Top 4 por diversas razones.
         class="img-thumbnail" alt="">
     </div>
     <div class="col-md-9">
-         <h4>Hallertau</h4>
+         <h4><a href="https://amzn.to/2ZII8iv">Hallertau</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/300322/hallertau">Hallertau</a></strong>
         es el nuevo juego de <strong>Uwe Rosenberg</strong> ambientado en el
