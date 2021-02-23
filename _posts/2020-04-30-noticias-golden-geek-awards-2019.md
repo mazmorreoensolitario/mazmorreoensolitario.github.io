@@ -529,7 +529,7 @@ un pequeño comentario mio sobre el juego:
         class="img-thumbnail" alt="Lux Aeterna">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/surprised-stare-games/81507-lux-aeterna-2100000646838.html">Lux Aeterna</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/surprised-stare-games/81507-lux-aeterna-2100000646838.html#ae447-11">Lux Aeterna</a></h4>
          <p>En <strong><a href="https://boardgamegeek.com/boardgame/282439/lux-aeterna">Lux Aeterna</a></strong> tu nave espacial ha sufrido graves
          daños en todos los sistemas y se encamina hacia la catástrofe final:
          un agujero negro. El objetivo de este juego es conseguir reparar todos
@@ -985,7 +985,7 @@ por la comunidad.
         class="img-thumbnail" alt="Atlantis Rising (Second Edition)">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/elf-creek-games/19296-atlantis-rising-vf-644216211999.html">Atlantis Rising (Second Edition)</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/elf-creek-games/19296-atlantis-rising-vf-644216211999.html#ae447-11">Atlantis Rising (Second Edition)</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/248490/atlantis-rising-second-edition">Atlantis
         Rising</a></strong> es un juego cooperativo de
@@ -1858,7 +1858,7 @@ solitario.
         class="img-thumbnail" alt="PARKS">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/keymaster-games/82038-parks-850003498027.html">PARKS</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/keymaster-games/82038-parks-850003498027.html#ae447-11">PARKS</a></h4>
         <p>En <strong><a
     href="https://boardgamegeek.com/boardgame/266524/parks">PARKS</a></strong>
         los jugadores serán senderistas en su
