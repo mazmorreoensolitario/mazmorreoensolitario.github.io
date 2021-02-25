@@ -112,7 +112,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/nadulpan/aelemental-zine-o-phobia-part-1-wood?ref=mazmorreoensolitario">
-    AElemental Zine-O-phobia - Part 1: Wood</a> </h4>
+    AElemental Zine-O-phobia - Part 1: Wood</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Una zine que podéis jugar como un roll & write en solitario, la
     temática es sobre el conflicto en un mundo de eco-fantasía.</p>
     <p><strong>AElemental</strong> es una zine que contiene un juego de rol y
@@ -124,6 +124,7 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 8$</li>
             <li>PDF + físico: 16$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -449,7 +450,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/tks/zinequest3-docks-of-caswarren-a-legacy-rpg-city-guide?ref=mazmorreoensolitario">
-    Fight Club Arena</a> </h4>
+    Fight Club Arena</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p> En esta campaña se pueden conseguir dos zines, de las cuales Fight
         Club Arena puede jugarse en solitario. <strong>Fight Club
         Arena</strong> es un juego en el que puedes luchar contra bestias
@@ -606,6 +607,7 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 6CA$</li>
             <li>PDF + físico: 10CA$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -898,7 +900,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/alexroberts/precious-little-animal?ref=mazmorreoensolitario">
-    Precious Little Animal</a> </h4>
+    Precious Little Animal</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Un juego de rol de escritura en el que convertirás una semana de tu
         vida en una adorable aventura.</p>
         <p><strong>Precious Little Animal</strong> es un juego en solitario de
@@ -965,7 +967,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/albi13/superstition?ref=mazmorreoensolitario">
-    Superstition</a> </h4>
+    Superstition</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Un juego de rol de escritura sobre crear rituales en los que no
     crees, por el bien de la comunidad.</p>
     <p><strong>Superstition</strong> es un juego de escritura en solitario con
@@ -1015,7 +1017,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/Highmoon/thru-hiker-a-journaling-game-of-long-distance-hiking?ref=mazmorreoensolitario">
-    Thru-Hiker: A Journaling Game of Long-Distance Hiking</a> </h4>
+    Thru-Hiker: A Journaling Game of Long-Distance Hiking</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Utiliza cartas y pequeñas entradas de escritura para planear tu
     caminata, gestiona tus recursos y escribe tu historia en el camino.</p>
         <p><strong>Thru-Hiker</strong> es un juego de escritura en el que
