@@ -81,7 +81,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/tentaclemag/3die6-a-dungeon-creepy-crawler-roleplaying-game?ref=mazmorreoensolitario">
-    3DIE6</a> </h4>
+    3DIE6</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Un juego de rol en solitario con estilo de juego hardcore diseñado
     para jugar en solitario y one-shots.</p>
         <p><strong>3DIE6</strong> es un juego de mazmorreo old-school con
@@ -161,7 +161,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/575728085/around-alone-a-solo-sailing-rpg?ref=mazmorreoensolitario">
-    Around Alone: A Solo Sailing RPG</a> </h4>
+    Around Alone: A Solo Sailing RPG</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Un juego de rol en solitario sobre hacer una regata en un velero,
         solo. El juego está modelado en base a la competición <a
         href="https://es.wikipedia.org/wiki/Vend%C3%A9e_Globe">Vendeé
@@ -219,7 +219,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/vladtemper/bloodstained-hands?ref=mazmorreoensolitario">
-    Bloodstained Hands</a> </h4>
+    Bloodstained Hands</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Un juego de rol en solitario que utiliza mecánicas de Trophy.</p>
         <p><strong>Bloodstained Hands</strong> es un juego de rol en solitario
         que también puede jugarse con un GM, en el que interpretas a una
@@ -298,7 +298,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/sleepysasquatch/courier-a-solo-rpg-zine?ref=mazmorreoensolitario">
-    Courier</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Courier</a> </h4>
         <p>Envía paquetes por un panorama peligroso mientras construyes tu
         reputación y te conviertes en una leyenda.</p>
         <p><strong>Courier</strong> es un juego en solitario en el que cuentas
@@ -318,13 +318,40 @@ Y sin más dilación, aquí están las listas de zines:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/297/050/e12e60f88fa99dc6135572d24713d3c1_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1612792153&auto=format&frame=1&q=92&s=716fe1f46994481e75e4981e8b82370d"
+        class="img-thumbnail" alt="Contemplation">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/undiscoveredgems/contemplation?ref=mazmorreoensolitario">
+    Contemplation</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p>Zine con tres usos: escritura narrativa, micro RPG o herramienta de
+        desarrollo de personajes.</p>
+        <p><strong>Contemplation</strong> es una zine que puede usarse de tres
+        formas diferentes. En solitario podéis utilizarla como herramienta de
+        escritura en la que tomas a un personaje inventado y tratas de
+        responder a unas preguntas, tratando de descubrir cada vez más sobre
+        dicho personaje. También puedes usarla como juego de escritura en el
+        que también respondes a las preguntas, pero exploras tu personalidad y
+        tus sentimientos en un viaje de exploración y desarrollo personal.</p>
+        <ul>
+            <li>PDF: 7£</li>
+            <li>PDF + físico: 12£</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
             src="https://ksr-ugc.imgix.net/assets/032/351/596/91c1360a4cb7b678d11dee3fd530a395_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1613146393&auto=format&frame=1&q=92&s=fc0019345f8e82f96023b08e9118181b"
         class="img-thumbnail" alt="Crush!">
     </div>
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/jmyales/crush-two-micro-zine-quest-rpgs-in-one?ref=mazmorreoensolitario">
-    Crush!</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Crush!</a> </h4>
         <p>Dos mini zine-RPGs sobre kaiju, y secretos.</p>
         <p><strong>Crush!</strong> es una zine con un componente multijugador y
         otro en solitario inspirada por el género cinematográfico kaiju/de
@@ -348,7 +375,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/avri/descending-the-stairs?ref=mazmorreoensolitario">
-    Descending the Stairs</a> </h4>
+    Descending the Stairs</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Un juego de rol de contar historias sobre la vida nocturna y la
     nostalgia.</p>
         <p><strong>Descending the Stairs</strong> es un juego narrativo en el
@@ -357,6 +384,52 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 6$</li>
             <li>PDF + físico: 15$ (para envíos fuera de USA, a USA 10$)</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/490/876/b22950e7404639fb59bc8c1b23459098_original.png?ixlib=rb-2.1.0&crop=faces&w=352&h=198&fit=crop&v=1614116275&auto=format&frame=1&q=92&s=aee9c0c8e4bf0f810641876d4cfe4be6"
+        class="img-thumbnail" alt="DM Yourselves">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/tomscutt/dm-yourselves?ref=mazmorreoensolitario">
+    DM Yourselves</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p>Un sistema para jugar aventuras ya publicadas en solitario o sin DM
+        con amigos.</p>
+        <p><strong>DM Yourselves</strong> es una guía con técnicas para jugar
+        aventuras de juegos de rol ya publicadas sin DM con amigos o en
+        solitario. Está pensado para jugar con aventuras de 5e.</p>
+        <ul>
+            <li>PDF: 4£</li>
+            <li>PDF + físico: 7£</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/032/407/401/57cc3bf9f41f3fb59793849c4eef066f_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1613565978&auto=format&frame=1&q=92&s=3158a041f8f8d14674c2f762bef8f4ab"
+        class="img-thumbnail" alt="Drakar - Unlocked Expansions">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/jvcparry/drakar-unlocked-expansions?ref=mazmorreoensolitario">
+    Drakar - Unlocked Expansions</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        <p>En la campaña de <strong>Drakar - Unlocked Expansions</strong> se
+    pueden conseguir expansiones para <strong>Drakar</strong>, un juego de rol
+    en solitario de ciencia ficción inspirado por la crisis climática, la
+        iconografía nórdica y series de televisión como Star Trek y The Expanse.</p>
+        <ul>
+            <li>PDF: 8£</li>
+            <li>PDF + físico: 12£</li>
             <li>¡Ya está financiada!</li>
         </ul>
      </div>
@@ -401,7 +474,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/evolvegame/evolve-4?ref=mazmorreoensolitario">
-    E.V.O.L.V.E</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    E.V.O.L.V.E</a> </h4>
         <p>Una zine de desarrollo rápido de I.A.s y de la dominación del mundo.</p>
         <p><strong>E.V.O.L.V.E</strong> es un juego en solitario de
     inteligencia artificial y del camino hacia la dominación del mundo. Cuentas
@@ -425,7 +498,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/avenmcconnaughey/fat-self-care-volume-1?ref=mazmorreoensolitario">
-    Fat Self Care: Volume 1</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Fat Self Care: Volume 1</a> </h4>
         <p>Juego slice-of-life en solitario con múltiples caminos en el que tienes
         que cuidarte cuando eres obeso.</p>
         <p><strong>Fat Self Care: Volume 1</strong> es un juego de escritura en
@@ -688,7 +761,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/rstarks/morkal-komborg-a-tournament-of-death-for-mork-borg-rpg?ref=mazmorreoensolitario">
-        MÖRKAL KOMBORG: A Tournament of Death for MÖRK BORG RPG</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+        MÖRKAL KOMBORG: A Tournament of Death for MÖRK BORG RPG</a> </h4>
         <p>Una zine suplemento para Mörk Borg y un juego en solitario</p>
     <p><strong>MÖRKAL KOMBORG</strong> es una zine que incluye nuevos
     monstruos, clases y una nueva ambientación pra Mörk Borg, y además cuenta
@@ -738,7 +811,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/nadirrpg/ostro?ref=mazmorreoensolitario">
-    Ostro</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Ostro</a> </h4>
         <p>En <strong>Ostro</strong> eres el capitán de un pequeño barco
     navegando por los mares de Ostro en busca de un legendario tesoro. En cada
     turno te encontrarás con uno de 100 encuentros diferentes y cada encuentro
@@ -760,7 +833,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/ryancagle/project-terminus?ref=mazmorreoensolitario">
-    Project Terminus</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Project Terminus</a> </h4>
         <p>Un juego de rol en solitario sobre la locura y el multiverso.</p>
         <p><strong>Project Terminus</strong> es un juego de escritura en
         solitario que se juega con un mazo de cartas y unos dados. En esta zine
@@ -809,7 +882,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/jwalt/the-barrier-and-the-sound?ref=mazmorreoensolitario">
-    The Barrier & the Sound</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    The Barrier & the Sound</a> </h4>
         <p>Es un TTRPG de 1-bit.</p>
         <p><strong>The Barrier & the Sound</strong> es un juego de rol para un
         jugador sobre la belleza y la rareza de la costa. Las mecánicas se
@@ -858,7 +931,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/gardenerisdead/the-gardener-is-dead-0?ref=mazmorreoensolitario">
-    The Gardener is Dead</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    The Gardener is Dead</a> </h4>
         <p>Un juego de contar historias sobre un jardín encantado.</p>
         <p><strong>The Gardener is Dead</strong> es un juego de contar
         historias en solitario, o gm-less de 2 a 4 jugadores en el que cuentas
@@ -873,7 +946,6 @@ Y sin más dilación, aquí están las listas de zines:
         </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -884,12 +956,20 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/jeeyonshim/the-last-will-and-testament-of-gideon-blythe?ref=mazmorreoensolitario">
-    The Last Will and Testament of Gideon Blythe</a> <span class="label label-info"><strong>Pre-campaña</strong></span></h4>
+    The Last Will and Testament of Gideon Blythe</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
         <p>Un juego de rol en solitario sobre leyendas familiares, el linaje y
-    la carga del destino.</p>
+        la carga del destino.</p>
+        <p>En <strong>The Last Will and Testament of Gideon Blythe</strong> los
+        jugadores crean un objeto de recuerdo, que en este caso es un álbum
+        familiar. Esta zine es un juego de creación de dicho álbum en el que
+        somos el séptimo hijo del séptimo hijo, y hemos renunciado a nuestro
+        nombre.</p>
+        <ul>
+            <li>PDF: 5$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
      </div>
 </div>
-<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -1165,7 +1245,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/the-abzu/flotts-miscellany-volume-two?ref=mazmorreoensolitario">
-    Flott's Miscellany Volume Two</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Flott's Miscellany Volume Two</a> </h4>
         <p><strong>Flott's Miscellany Volume Two</strong> es una zine llena de
         tablas (agnósticas al sistema) que dan información sobre Rainy City,
         una metrópolis fantástica al borde del mundo donde los magos guardan
@@ -1222,7 +1302,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/chrisangell/hinterland-peoples-and-perils?ref=mazmorreoensolitario">
-    Hinterland: Peoples and Perils</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Hinterland: Peoples and Perils</a> </h4>
         <p><strong>Hinterland: Peoples and Perils</strong> es una zine que
         tiene 19 encuentros aleatorios y pequeñas entradas para la exploración
         por la naturaleza. Cada encuentro o localización tiene otras tablas
@@ -1316,7 +1396,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/mofthem/merchants-of-the-multiverse?ref=mazmorreoensolitario">
-    Merchants of the Multiverse</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Merchants of the Multiverse</a> </h4>
         <p><strong>Merchants of the Multiverse</strong> es una zine para Mutant
     Crawl Classics y otros juegos OSR con temática interestelar o
     post-apocalíptica que contiene 50 artefactos, reglas para comprar y vender
@@ -1365,7 +1445,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/koboldco-op/skies-of-hyperborea-a-zine-of-airships-and-exploration?ref=mazmorreoensolitario">
-    Skies of Hyperborea</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Skies of Hyperborea</a> </h4>
         <p><strong>Skies of Hyperborea</strong> es una zine para generar tus
         propios mundos/aventuras en Hyperborea. Los mundos son pequeños
         'icebergs' de tierra que puedes ir visitando a medida que viajas con tu
@@ -1539,7 +1619,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/redscales/the-million-islands-of-doom?ref=mazmorreoensolitario">
-    The Million Islands of Doom</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    The Million Islands of Doom</a> </h4>
         <p><strong>The Million Islands of Doom</strong> es una zine que
     presenta una aventura tipo hexcrawl para cualquier sistema; nos presenta 36
     hexágonos con diferentes encuentros extraños e interesantes, desde piratas
