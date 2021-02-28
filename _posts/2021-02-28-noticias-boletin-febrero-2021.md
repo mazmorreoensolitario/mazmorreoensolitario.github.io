@@ -5,14 +5,14 @@ date: 2021-02-28
 categories: [Noticias]
 tags: [Fields of Fire, "Hannibal's Revenge", Robinson Crusoe, "So, You've Been Eaten", "Solitaire Print & Play Design Contest", Village Builder, Seekers Beyond The Shroud, "Stardew Valley: The Board Game", On Mars, Mythic, Starforged, "Ironsworn: Starforged", Chai, Tetrarchia, Food Chain Island, Skulls of Sedlec, "Ambon: Burning Sun & Little Seagulls", Village Green, "Boletín Informativo Solitario"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210228-bis/boletin-informativo.png
-post_desc: "Boletín Informativo Solitario de fefrero, nuevos juegos basados en
-Terraforming Mars, Slay the Spire, Solar Sphere, Ultimate Railroads, Root, y
-rol en solitario con Zine Quest 3"
+post_desc: "Boletín Informativo Solitario de fefrero, lanzamientos de Delirium
+Games, Salt & Pepper Games, Draco Ideas, Arrakis Games, Side Room Games, nuevos
+wargames, juegos de rol en solitario y mucho más"
 ---
 
 ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210228-bis/boletin-informativo.png)
 
- Bienvenid@s al primer **Boletín Informativo Solitario (BIS)** del año,
+ Bienvenid@s al segundo **Boletín Informativo Solitario (BIS)** del año,
  que trae puntualmente cada final de mes las **noticias más destacadas de los
  juegos de mesa y rol en solitario** que hayan acontecido en el último mes,
  es decir, **febrero de 2021**, además de lo que el futuro nos depara.
