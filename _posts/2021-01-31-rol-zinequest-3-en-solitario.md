@@ -1245,7 +1245,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/the-abzu/flotts-miscellany-volume-two?ref=mazmorreoensolitario">
-    Flott's Miscellany Volume Two</a> </h4>
+    Flott's Miscellany Volume Two</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>Flott's Miscellany Volume Two</strong> es una zine llena de
         tablas (agnósticas al sistema) que dan información sobre Rainy City,
         una metrópolis fantástica al borde del mundo donde los magos guardan
