@@ -83,7 +83,7 @@ src="https://cf.geekdo-images.com/jg8VIgXWtGmfROj5hdq4Vg__imagepage/img/5IgAvOuc
   mejor arreglo de calaveras.
 
 <p align="center">
-<img height="450"
+<img 
 src="https://cf.geekdo-images.com/PvO_5MsYQ2WGmo6p9MwYvw__imagepage/img/BUR1jEsvw6j6WFM5HLuzvGzqK3c=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5945119.jpg"></p>  
 
 * **Draco Ideas** anuncia que publicará
@@ -106,7 +106,7 @@ src="https://cf.geekdo-images.com/PvO_5MsYQ2WGmo6p9MwYvw__imagepage/img/BUR1jEsv
   conseguirlo por 20€ (más gastos de envío) si lo reservas.
 
 <p align="center">
-<img height="450"
+<img 
 src="https://cf.geekdo-images.com/wMd7npCj8VObsqMVK5kawg__imagepage/img/ho7t0zRrGuUcir0J-tIJXHSjgKk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4175159.jpg"></p>
 
 * **Steeped Games** editorial conocida por
@@ -148,7 +148,7 @@ src="https://cdn.shopify.com/s/files/1/2301/7769/files/90879430_211743006560298_
   tratar con esa empresa.
   
 <p align="center">
-<img height="450"
+<img
 src="https://cf.geekdo-images.com/qzT7-GxSbW-200AwLIoXWw__imagepage/img/3d9Nta2Pv2HEtO8rJ3cbWdST1QA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5993103.png"></p>
 
 * **Vital Lacerda** nos muestra en su Instagram las primeras imágenes de los
@@ -158,7 +158,7 @@ src="https://cf.geekdo-images.com/qzT7-GxSbW-200AwLIoXWw__imagepage/img/3d9Nta2P
   Expansion](https://boardgamegeek.com/boardgameexpansion/278241/mars-alien-invasion-somewhat-cooperative-expansion)**.
   
    <p align="center">
-   <img height="450"
+   <img 
    src="https://cf.geekdo-images.com/q-9K9AhcN41iYCGU6A9tiw__imagepage/img/snMWQu3L8DT0e77Mnu-d8voRxdw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5993046.jpg"></p>
 
    **Alien Invasion - A Somewhat Cooperative Expansion** es la primera
@@ -232,7 +232,7 @@ src="https://cf.geekdo-images.com/sUGb1_5oMJkcadFmylYLuA__imagepage/img/0cF6jEqQ
   evitar que lo haga, o al menos, tratar de retrasar la conquista.
 
 <p align="center">
-<img height="450"
+<img
 src="https://www.gmtgames.com/images/product/medium/914.jpg"></p>
 
 * Siguiendo con wargames, **GMT Games** anuncia nuevos juegos que entran dentro
@@ -243,7 +243,7 @@ src="https://www.gmtgames.com/images/product/medium/914.jpg"></p>
   misiones y es necesario tener Fields Of Fire Volume I para poder jugarla.
 
 <p align="center">
-<img height="450"
+<img
 src="https://www.gmtgames.com/images/product/medium/912.jpg"></p>
 
 * El siguiente juego que entra dentro del programa P500 de **GMT Games** es
@@ -399,7 +399,7 @@ src="https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__imagepage/img/ijYTk6KG
     Campaña de Kickstarter **el 9 de marzo**.
 
 <p align="center">
-<img height="450"
+<img 
 src="https://imgcdn.gamefound.com/richtextimage/richtext/b1a37476-1eb9-4d21-a728-d78352797021.jpg"></p>
 
 * **[Robinson Crusoe: Collector’s
