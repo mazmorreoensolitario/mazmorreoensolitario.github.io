@@ -80,8 +80,8 @@ de la Golden Geek de 2018.
 <p align="center"><small>Vista de nuestro huerto de árboles frutales en
 Orchard</small></p>
 
-En [Orchard: A 9 card solitaire
-game](https://boardgamegeek.com/boardgame/245487/orchard-9-card-solitaire-game),
+En **[Orchard: A 9 card solitaire
+game](https://boardgamegeek.com/boardgame/245487/orchard-9-card-solitaire-game)**,
 somos propietarios de una serie de árboles frutales y tenemos que conseguir
 cosechar el mayor número de frutas posibles.
 
