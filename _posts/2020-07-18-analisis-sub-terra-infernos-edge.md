@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Sub Terra II: Inferno's Edge"
 date:   2020-07-18
 categories: [Análisis]
-tags: [Sub Terra II, Sub Terra]
+tags: [Sub Terra II, Sub Terra, "Sub Terra II: Inferno's Edge"]
 imghtml: https://cf.geekdo-images.com/imagepage/img/WBkYq0gbBdQJ5kbT0gbuNxyCsJ4=/fit-in/900x600/filters:no_upscale()/pic4933104.jpg
 score: 2.5
 crop: true
