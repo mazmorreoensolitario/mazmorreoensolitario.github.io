@@ -274,7 +274,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/aethercorp/coiled-spaece?ref=mazmorreoensolitario">
-    Coiled.Spæce</a> </h4>
+    Coiled.Spæce</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Recolecta energía en un universo que se está desintegrando en esta
         zine, que es un juego de rol de escritura.</p>
         <p><strong>Coiled.Spæce</strong> es un juego de escritura de hasta
@@ -324,7 +324,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/undiscoveredgems/contemplation?ref=mazmorreoensolitario">
-    Contemplation</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Contemplation</a></h4>
         <p>Zine con tres usos: escritura narrativa, micro RPG o herramienta de
         desarrollo de personajes.</p>
         <p><strong>Contemplation</strong> es una zine que puede usarse de tres
@@ -362,6 +362,7 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 4$</li>
             <li>PDF + físico: 7$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -399,7 +400,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/tomscutt/dm-yourselves?ref=mazmorreoensolitario">
-    DM Yourselves</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    DM Yourselves</a></h4>
         <p>Un sistema para jugar aventuras ya publicadas en solitario o sin DM
         con amigos.</p>
         <p><strong>DM Yourselves</strong> es una guía con técnicas para jugar
@@ -422,7 +423,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/jvcparry/drakar-unlocked-expansions?ref=mazmorreoensolitario">
-    Drakar - Unlocked Expansions</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    Drakar - Unlocked Expansions</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>En la campaña de <strong>Drakar - Unlocked Expansions</strong> se
     pueden conseguir expansiones para <strong>Drakar</strong>, un juego de rol
     en solitario de ciencia ficción inspirado por la crisis climática, la
@@ -668,7 +669,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/derekkinsman/in-the-light-of-a-faded-world?ref=mazmorreoensolitario">
-    In the Light of a Faded World</a> </h4>
+    In the Light of a Faded World</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Explora, como una pequeña criatura del bosque, un mundo reclamado
     por la naturaleza</p>
         <p>En <strong>In the Light of a Faded World</strong> estamos en un
@@ -715,7 +716,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/alfredvalley/lay-on-hands-a-solo-dexterity-based-rpg?ref=mazmorreoensolitario">
-    LAY ON HANDS: A Solo Dexterity-based RPG</a></h4>
+    LAY ON HANDS: A Solo Dexterity-based RPG</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Deambula por el páramo post-apocalíptico como un extraño curandero.</p>
         <p><strong>Lay On Hands</strong> es una zine de contar historias para
         un jugador en la que juegas como un curandero con gran talento. En esta
@@ -739,7 +740,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/crumblingkeep/marching-order-a-solo-or-co-op-dark-dungeon-delving-zine?ref=mazmorreoensolitario">
-        Marching Order - A Solo or Co-op Dark Dungeon Delving Zine</a> </h4>
+        Marching Order - A Solo or Co-op Dark Dungeon Delving Zine</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juega como un ladrón que apuñala por la espalda en este crudo juego
     inspirado por la vieja escuela, de mazmorreo, tácticas, caos y dinero.</p>
     <p><strong>Marching Order</strong> es un juego de mazmorreo cooperativo o
@@ -833,7 +834,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/ryancagle/project-terminus?ref=mazmorreoensolitario">
-    Project Terminus</a> </h4>
+    Project Terminus</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Un juego de rol en solitario sobre la locura y el multiverso.</p>
         <p><strong>Project Terminus</strong> es un juego de escritura en
         solitario que se juega con un mazo de cartas y unos dados. En esta zine
@@ -905,7 +906,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/ursidice/the-depths-of-this-forest?ref=mazmorreoensolitario">
-    The Depths Of This Forest</a> </h4>
+    The Depths Of This Forest</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Es un juego surrealista de escritura, con supervivencia y
     exploración en el inframundo de un bosque del océano.</p>
         <p><strong>The Depths Of This Forest</strong> es un juego de escritura
@@ -931,7 +932,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/gardenerisdead/the-gardener-is-dead-0?ref=mazmorreoensolitario">
-    The Gardener is Dead</a> </h4>
+    The Gardener is Dead</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Un juego de contar historias sobre un jardín encantado.</p>
         <p><strong>The Gardener is Dead</strong> es un juego de contar
         historias en solitario, o gm-less de 2 a 4 jugadores en el que cuentas
@@ -956,7 +957,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/jeeyonshim/the-last-will-and-testament-of-gideon-blythe?ref=mazmorreoensolitario">
-    The Last Will and Testament of Gideon Blythe</a> <span class="label label-warning"><strong>¡Nueva!</strong></span></h4>
+    The Last Will and Testament of Gideon Blythe</a></h4>
         <p>Un juego de rol en solitario sobre leyendas familiares, el linaje y
         la carga del destino.</p>
         <p>En <strong>The Last Will and Testament of Gideon Blythe</strong> los
@@ -1302,7 +1303,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/chrisangell/hinterland-peoples-and-perils?ref=mazmorreoensolitario">
-    Hinterland: Peoples and Perils</a> </h4>
+    Hinterland: Peoples and Perils</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>Hinterland: Peoples and Perils</strong> es una zine que
         tiene 19 encuentros aleatorios y pequeñas entradas para la exploración
         por la naturaleza. Cada encuentro o localización tiene otras tablas
@@ -1396,7 +1397,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/mofthem/merchants-of-the-multiverse?ref=mazmorreoensolitario">
-    Merchants of the Multiverse</a> </h4>
+    Merchants of the Multiverse</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>Merchants of the Multiverse</strong> es una zine para Mutant
     Crawl Classics y otros juegos OSR con temática interestelar o
     post-apocalíptica que contiene 50 artefactos, reglas para comprar y vender
@@ -1445,7 +1446,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/koboldco-op/skies-of-hyperborea-a-zine-of-airships-and-exploration?ref=mazmorreoensolitario">
-    Skies of Hyperborea</a> </h4>
+    Skies of Hyperborea</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>Skies of Hyperborea</strong> es una zine para generar tus
         propios mundos/aventuras en Hyperborea. Los mundos son pequeños
         'icebergs' de tierra que puedes ir visitando a medida que viajas con tu
@@ -1630,6 +1631,7 @@ estén pensadas para ello:
         <ul>
             <li>PDF: 5€</li>
             <li>PDF + físico: 15€</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
