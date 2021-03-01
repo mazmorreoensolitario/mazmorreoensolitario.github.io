@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: febrero 2021"
 date: 2021-02-28
 categories: [Noticias]
-tags: [Fields of Fire, "Hannibal's Revenge", Robinson Crusoe, "So, You've Been Eaten", "Solitaire Print & Play Design Contest", Village Builder, Seekers Beyond The Shroud, "Stardew Valley: The Board Game", On Mars, Mythic, Starforged, "Ironsworn: Starforged", Chai, Tetrarchia, Food Chain Island, Skulls of Sedlec, "Ambon: Burning Sun & Little Seagulls", Village Green, "Boletín Informativo Solitario"]
+tags: [Unbroken, Fields of Fire, "Hannibal's Revenge", Robinson Crusoe, "So, You've Been Eaten", "Solitaire Print & Play Design Contest", Village Builder, Seekers Beyond The Shroud, "Stardew Valley: The Board Game", On Mars, Mythic, Starforged, "Ironsworn: Starforged", Chai, Tetrarchia, Food Chain Island, Skulls of Sedlec, "Ambon: Burning Sun & Little Seagulls", Village Green, "Boletín Informativo Solitario"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210228-bis/boletin-informativo.png
 post_desc: "Boletín Informativo Solitario de fefrero, lanzamientos de Delirium
 Games, Salt & Pepper Games, Draco Ideas, Arrakis Games, Side Room Games, nuevos
