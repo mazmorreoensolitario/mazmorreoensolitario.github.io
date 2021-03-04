@@ -298,7 +298,9 @@ con los 25 últimos juegos, que toman las **posiciones 100 a 76 del ranking**:
         <p><strong>En solitario...</strong> tienes <a
     href="https://boardgamegeek.com/filepage/113578/patchwork-solo-rules-2-variants">reglas</a>
     en <a href="https://boardgamegeek.com/filepage/149797/soloplay-patchwork-v1">solitario</a> creadas
-        por fans en la BGG.</p>
+        por fans en la BGG, y adicionalmente hay una expansión: <a href="https://boardgamegeek.com/boardgameexpansion/257570/patchwork-automa">Patchwork:
+        Automa</a>, que como su nombre indica, es un autómata que simula a un
+        oponente.</p>
      </div>
 </div>
 
