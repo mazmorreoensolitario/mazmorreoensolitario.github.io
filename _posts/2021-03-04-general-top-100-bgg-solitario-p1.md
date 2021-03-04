@@ -578,9 +578,9 @@ con los 25 últimos juegos, que toman las **posiciones 100 a 76 del ranking**:
 
 Como podéis ver en estos dos gráficos muy sencillos, de estos 25
 primeros juegos que hemos jugado solamente un 8% (2 juegos) no tienen ningún
-tipo de modo en solitario, mientras que de la inmensa mayoría de los juegos que
-sí tienen en solitario. En más de la mitad de los casos, el modo en solitario
-has sido creado por fans.
+tipo de modo en solitario, mientras que de la inmensa mayoría de los juegos sí
+tienen algún tipo de modo en solitario. En más de la mitad de los casos, este
+modo en solitario ha sido creado por fans.
 
 Una pregunta interesante sería saber cuáles de esos modos en solitario creados
 por fans merecen la pena antes de comprarse el juego solamente para jugar en
