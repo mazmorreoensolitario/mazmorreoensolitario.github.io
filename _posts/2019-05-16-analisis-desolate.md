@@ -79,7 +79,7 @@ sido ocupada por aliens!*
 células de energía para activar la lanzadera de escape. ¿Podrás sobrevivir a
 los horrores de la estación abandonada?*
 
-En [Desolate](https://boardgamegeek.com/boardgame/249675/desolate) vivimos una
+En **[Desolate](https://boardgamegeek.com/boardgame/249675/desolate)** vivimos una
 situación límite en esta estación espacial que
 resulta que no está tan abandonada como pensábamos... tendremos que conseguir
 cinco células de energía para que la lanzadera de escape funcione. 

@@ -77,16 +77,17 @@ que hemos caído en una trampa."
 
 ### Información general
 
-Dirigimos la nave espacial USS Crypsis, una nave estelar de clase
+*Dirigimos la nave espacial USS Crypsis, una nave estelar de clase
 RPTR de patrulla rutinaria por el sistema Auborne. Recibimos una señal de
 socorro y tras hacer un salto estelar a las coordenadas... nos damos cuenta de
-que hemos caído en una trampa.
+que hemos caído en una trampa.*
 
-En <a href="https://boardgamegeek.com/boardgame/183571/deep-space-d-6">Deep 
-Space D-6</a> tendremos que superar una oleada tras otra de asaltos de
-naves enemigas y amenazas internas. Nuestra nave cuenta con una tripulación de
-seis valientes, y haremos uso de sus diversas habilidades en diferentes
-estaciones de trabajo para tratar de superar todas las dificultades.
+En **[Deep Space
+D-6](https://boardgamegeek.com/boardgame/183571/deep-space-d-6)** tendremos que
+superar una oleada tras otra de asaltos de naves enemigas y amenazas
+internas. Nuestra nave cuenta con una tripulación de seis valientes, y haremos
+uso de sus diversas habilidades en diferentes estaciones de trabajo para tratar
+de superar todas las dificultades.
 
 Las mecánicas del juego están basadas en el emplazamiento de trabajadores y 
 tiradas de dados que nos dirán qué tipo de trabajador - nuestra tripulación -
