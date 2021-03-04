@@ -298,7 +298,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/sleepysasquatch/courier-a-solo-rpg-zine?ref=mazmorreoensolitario">
-    Courier</a> </h4>
+    Courier</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Envía paquetes por un panorama peligroso mientras construyes tu
         reputación y te conviertes en una leyenda.</p>
         <p><strong>Courier</strong> es un juego en solitario en el que cuentas
@@ -351,7 +351,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/jmyales/crush-two-micro-zine-quest-rpgs-in-one?ref=mazmorreoensolitario">
-    Crush!</a> </h4>
+    Crush!</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Dos mini zine-RPGs sobre kaiju, y secretos.</p>
         <p><strong>Crush!</strong> es una zine con un componente multijugador y
         otro en solitario inspirada por el género cinematográfico kaiju/de
@@ -499,7 +499,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/avenmcconnaughey/fat-self-care-volume-1?ref=mazmorreoensolitario">
-    Fat Self Care: Volume 1</a> </h4>
+    Fat Self Care: Volume 1</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego slice-of-life en solitario con múltiples caminos en el que tienes
         que cuidarte cuando eres obeso.</p>
         <p><strong>Fat Self Care: Volume 1</strong> es un juego de escritura en
@@ -762,7 +762,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/rstarks/morkal-komborg-a-tournament-of-death-for-mork-borg-rpg?ref=mazmorreoensolitario">
-        MÖRKAL KOMBORG: A Tournament of Death for MÖRK BORG RPG</a> </h4>
+        MÖRKAL KOMBORG: A Tournament of Death for MÖRK BORG RPG</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Una zine suplemento para Mörk Borg y un juego en solitario</p>
     <p><strong>MÖRKAL KOMBORG</strong> es una zine que incluye nuevos
     monstruos, clases y una nueva ambientación pra Mörk Borg, y además cuenta
@@ -812,7 +812,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/nadirrpg/ostro?ref=mazmorreoensolitario">
-    Ostro</a> </h4>
+    Ostro</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>En <strong>Ostro</strong> eres el capitán de un pequeño barco
     navegando por los mares de Ostro en busca de un legendario tesoro. En cada
     turno te encontrarás con uno de 100 encuentros diferentes y cada encuentro
@@ -883,7 +883,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/jwalt/the-barrier-and-the-sound?ref=mazmorreoensolitario">
-    The Barrier & the Sound</a> </h4>
+    The Barrier & the Sound</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Es un TTRPG de 1-bit.</p>
         <p><strong>The Barrier & the Sound</strong> es un juego de rol para un
         jugador sobre la belleza y la rareza de la costa. Las mecánicas se
@@ -1277,7 +1277,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/glasscutter/glimmers-rim?ref=mazmorreoensolitario">
-    Glimmer's Rim</a> </h4>
+    Glimmer's Rim</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>Glimmer's Rim</strong> es un hexcrawl en una isla
         psicodélica. Esta isla tiene ~25 hexágonos diferentes y una pequeña
         mazmorra que explorar. En cada hex tendremos algo con lo que
@@ -1502,7 +1502,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/1353144702/the-2020-bestiary?ref=mazmorreoensolitario">
-    The 2020 Bestiary</a> </h4>
+    The 2020 Bestiary</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>The 2020 Bestiary</strong> es un bestiario inspirado por los
     monstruos que nos han dado caza durante 2020. Contiene 20 monstruos y
     parece tener estadísticas típicas de D&D.</p>
@@ -1620,7 +1620,7 @@ estén pensadas para ello:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/redscales/the-million-islands-of-doom?ref=mazmorreoensolitario">
-    The Million Islands of Doom</a> </h4>
+    The Million Islands of Doom</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p><strong>The Million Islands of Doom</strong> es una zine que
     presenta una aventura tipo hexcrawl para cualquier sistema; nos presenta 36
     hexágonos con diferentes encuentros extraños e interesantes, desde piratas
