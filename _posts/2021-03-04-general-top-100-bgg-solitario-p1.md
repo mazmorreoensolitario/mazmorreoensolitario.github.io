@@ -85,7 +85,7 @@ con los 25 últimos juegos, que toman las **posiciones 100 a 76 del ranking**:
          <p><strong><a href="https://boardgamegeek.com/boardgame/36218/dominion">Dominion</a></strong>
          de Donald X. Vaccarino y publicado por <strong>Rio Grande
      Games</strong> (<strong>Devir</strong> en España) es el juego de mesa que
-    en 2008 hizo popular la mecánica de la construcción de mazo. En este juego
+    en 2008 hizo popular la mecánica de la construcción de mazos. En este juego
     eres un monarca tratando de construir tu dominio y en cada turno jugarás
     cartas de Acción o Tesoro de tu mano.</p>
         <p><strong>En solitario...</strong> tienes un <a
@@ -481,7 +481,7 @@ con los 25 últimos juegos, que toman las **posiciones 100 a 76 del ranking**:
     los jugadores son una antigua civilización galáctica y tratan de conseguir
     el trono imperial mediante guerra, diplomacia y avances tecnológicos.</p>
         <p><strong>En solitario...</strong> existen unas <a
-    href="https://boardgamegeek.com/filepage/17279/twilight-imperium-solo-v1doc">regas
+    href="https://boardgamegeek.com/filepage/17279/twilight-imperium-solo-v1doc">reglas
     en solitario</a> creadas por un fan.</p>
      </div>
 </div>
