@@ -3,7 +3,7 @@ layout: post
 title: "Crónicas de Essen Spiel 2019 - Jueves"
 date: 2019-10-29
 categories: [General]
-tags: [Essen Spiel, Essen Spiel 2019, Small Islands, Barrage, Raid on Takao, The Dead Eye, Colonos del Imperio, "Colonos del Imperio: Imperios del Norte", "So You've Been Eaten", Troyes Dice, "Cities: Skylines The Board Game", "Masters of Renaissance: Lorenzo Il Magnifico The Card Game", Maestros del Renacimiento, "Star Scrappers: Space Station", High Frontier 4 All, "Bios: Origins 2", "Endarth: Covenant", The 7th Continent, The 7th Citadel, "Ni no Kuni II: The Board Game", "Tainted Grail: The Fall of Avalon", "Tainted Grail: La caída de Ávalon", "Running Quest: Soul Raiders", Soul Raiders]
+tags: [Essen Spiel, Essen Spiel 2019, Lorenzo il Magnifico, Small Islands, Barrage, Raid on Takao, The Dead Eye, Colonos del Imperio, "Colonos del Imperio: Imperios del Norte", "So You've Been Eaten", Troyes Dice, "Cities: Skylines The Board Game", "Masters of Renaissance: Lorenzo Il Magnifico The Card Game", Maestros del Renacimiento, "Star Scrappers: Space Station", High Frontier 4 All, "Bios: Origins 2", "Endarth: Covenant", The 7th Continent, The 7th Citadel, "Ni no Kuni II: The Board Game", "Tainted Grail: The Fall of Avalon", "Tainted Grail: La caída de Ávalon", "Running Quest: Soul Raiders", Soul Raiders]
 imghtml: https://live.staticflickr.com/65535/48982353797_2bb803d3ee_b.jpg
 post_desc: "¡Essen Spiel 2019! Una gran oportunidad para poder probar muchos 
 juegos que acaban de salir o que van a buscar financiación en Kickstarter en un 
