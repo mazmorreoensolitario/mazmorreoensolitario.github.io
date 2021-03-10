@@ -491,7 +491,7 @@ Allá vamos con los juegos entre los puestos 75 y 51:
     Wolf</strong>, tenemos las mismas mecánicas que el Clank original (posición
     63 de esta lista) pero con una campaña estilo Legacy.</p>
         <p><strong>En solitario...</strong> parece que no hay un modo en
-    solitario específico para este juego, pero a lo mejore se pueden reutilizar
+    solitario específico para este juego, pero a lo mejor se pueden reutilizar
     los modos en solitario creados para el primer Clank! (posición 63) con
     algunos cambios.</p>
      </div>
