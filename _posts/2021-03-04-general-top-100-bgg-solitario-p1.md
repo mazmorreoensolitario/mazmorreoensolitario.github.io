@@ -16,7 +16,9 @@ jugar en solitario**? Yo me lo pregunté hace un tiempo, cuando se puso de moda
 hacer el ranking de a qué juegos del top 100 habías jugado, y la respuesta es:
 **tienen modo en solitario bastantes más de los que te imaginas.**
 
-En esta serie de cuatro entradas (100-76, 75-51, 50-26, 25-1) **vamos a
+En esta serie de cuatro entradas (100-76, **[parte 2:
+75-51]({{site.baseurl}}/2021/03/10/general-top-100-bbg-solitario-p2/)**, 50-26,
+25-1) **vamos a 
 descubrir qué juegos puedes jugar en solitario, y cómo los puedes jugar en
 solitario**. Hay muchos juegos que puedes jugarlos en solitario según abres la
 caja del juego, ya están pensados para ello, mientras que otros requieren
@@ -589,7 +591,9 @@ por fans merecen la pena antes de comprarse el juego solamente para jugar en
 solitario, pero si tenéis ya alguno de esos juegos, posiblemente podríais
 sacarles más provecho sabiendo que también pueden jugarse en solitario.
 
-Nos vemos en una semana con los juegos 75-51 del top 100 de Board Game Geek.
+Nos vemos en una semana con los **[juegos 75-51 del top 100 de Board Game
+Geek]({{site.baseurl}}/2021/03/10/general-top-100-bbg-solitario-p2/)**.
+
 
 <hr>
 
