@@ -70,23 +70,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/02/28/noticias-boletin-febrero-2021/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2019/07/23/analisis-orchard/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -102,7 +86,15 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/04/30/noticias-golden-geek-awards-2019/" %}
+       {% if post.url == "/2021/03/07/crowdfunding-0301-0307/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2019/07/23/analisis-orchard/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -118,7 +110,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/02/28/crowdfunding-0222-0228/" %}
+       {% if post.url == "/2020/04/30/noticias-golden-geek-awards-2019/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -126,7 +118,15 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/01/06/analisis-spires-end/" %}
+       {% if post.url == "/2021/02/28/noticias-boletin-febrero-2021/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2021/02/28/crowdfunding-0222-0228/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -153,59 +153,66 @@
       {% for tag in site.tags %}
       {% if tag[0] == "The City of Kings"
       or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Iron Helm"
       or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "Res Arcana"
       or tag[0] == "Bios: Origins 2"
       or tag[0] == "Ennie"
       or tag[0] == "Kickstarter"
+      or tag[0] == "Legends Untold"
       or tag[0] == "Merv: The Heart of the Silk Road"
+      or tag[0] == "So You've Been Eaten"
       or tag[0] == "Stalingrad 42"
       or tag[0] == "The Lord of the Rings: Journeys in Middle-earth"
       or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Arkham Horror"
       or tag[0] == "Boletín Informativo Solitario"
       or tag[0] == "Eldritch Horror"
+      or tag[0] == "Everdell"
       or tag[0] == "Golden Geek"
-      or tag[0] == "Legends Untold"
-      or tag[0] == "Faiyum"
+      or tag[0] == "Gugong"
+      or tag[0] == "Nevsky: Teutons and Rus in Collision"
       or tag[0] == "One Deck Dungeon"
       or tag[0] == "OSR"
       or tag[0] == "Pico, Pluma & Hueso"
       or tag[0] == "Root: Los Cachivaches"
+      or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Sherlock Holmes Consulting Detective"
       or tag[0] == "Stellar Horizons"
       or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "Tank Duel: Enemy in the Crosshairs"
       or tag[0] == "Ultimate Railroads"
-      or tag[0] == "Arkham Horror"
       or tag[0] == "Arquitectos del Reino del Oeste"
-      or tag[0] == "Battlestar Galactica: The Board Game"
+      or tag[0] == "Colonos del Imperio: Imperios del Norte"
       or tag[0] == "Curious Cargo"
+      or tag[0] == "Deep Space D-6"
       or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
-      or tag[0] == "Everdell"
+      or tag[0] == "Essen Spiel"
       or tag[0] == "Forbidden Lands"
       or tag[0] == "Four Against Darkness"
+      or tag[0] == "Gloomhaven: Jaws of the Lion"
       or tag[0] == "GMT Games"
-      or tag[0] == "Gugong"
       or tag[0] == "Ironsworn: Delve"
       or tag[0] == "Ironsworn"
-      or tag[0] == "Lorenzo il Magnifico"
       or tag[0] == "Mausritter"
       or tag[0] == "Mini Rogue"
       or tag[0] == "On Mars"
+      or tag[0] == "Pandemic: Iberia"
       or tag[0] == "Pandemic"
       or tag[0] == "Patchwork"
+      or tag[0] == "Pax Pamir"
+      or tag[0] == "Print & play"
       or tag[0] == "Raiders of the North Sea"
       or tag[0] == "Roll for the Galaxy"
-      or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Russian Railroads: German Railroads"
       or tag[0] == "Russian Railroads"
       or tag[0] == "Saqueadores del Mar del Norte"
+      or tag[0] == "Scarlet Heroes"
       or tag[0] == "Sherlock Holmes Detective Asesor"
-      or tag[0] == "So You've Been Eaten"
-      or tag[0] == "Spirit Island"
       or tag[0] == "Spirit Island: Jagged Earth"
       or tag[0] == "Sub Terra II: Inferno's Edge"
       or tag[0] == "Tainted Grail: The Fall of Avalon"
+      or tag[0] == "Teotihuacán"
       or tag[0] == "Terraforming Mars"
       or tag[0] == "The 7th Citadel"
       or tag[0] == "The 7th Continent"
