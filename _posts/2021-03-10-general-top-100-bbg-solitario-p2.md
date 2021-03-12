@@ -2,7 +2,7 @@
 layout: post
 title: "Top 100 de BGG: ¿qué puedo jugar en solitario? (Parte 2)"
 date: 2021-03-10
-categories: [Listas]
+categories: [General]
 tags: [Tops, Golden Geek, Lisboa, Five Tribes, Agricola, Pax Pamir, Paladins of the West Kingdom, Paladines del Reino del Oeste, "Aeon's End", "Teotihuacán", On Mars, "Race for the Galaxy: The Gathering Storm", Race for the Galaxy, Fields of Arle, Campos de Arle, Barrage, Robinson Crusoe, The Gallerist, "Marvel Champions: The Card Game"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210304-top-100-bgg-solo/top-100-bgg-solitario-p2.png
 post_desc: "Segunda entrada de la serie de cómo jugar al Top 100 de Board Game 
