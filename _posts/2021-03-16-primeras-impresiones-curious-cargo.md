@@ -139,23 +139,24 @@ La dificultad viene dada por el puzle de colocación de losetas, que tienes que
 hacer que cuadre con alguna entrada o salida; puede parecer
 difícil, pero hay que pensar que tenemos muchísimas losetas en la bolsa, no hay
 límite de almacenamiento de losetas (te puedes pasar el juego robando y
-guardando y perdiendo), aunque solamente puedes colocar las que estén más
-arriba, pero más importántemente: **puedes colocar unas losetas encima de
-otras**; así que, poco a poco irá cuadrando todo.
+guardando y perdiendo), aunque solamente puedes colocar las que estén en tu
+mano o más arriba en el almacenamiento; pero más importántemente: **puedes
+colocar unas losetas encima de otras**; así que, poco a poco irá cuadrando
+todo.
 
 **En la fase de camiones** es cuando se cargan y/o descargan los productos, y
 los camiones van apareciendo y se van moviendo si otro camión les empuja desde
 atrás. Así que primero se cargan y/o descargan las cosas y después **se juegan
-cartas de camión*. Cada vez que se juega una carta, los camiones pueden haberse
+cartas de camión**. Cada vez que se juega una carta, los camiones pueden haberse
 movido, por lo que se mira otra vez si se puede cargar y/o descargar otra vez
-por cada carta jugada. La única restricción parta cargar producto en los
+por cada carta jugada. La única restricción para cargar producto en los
 camiones es que no puede haber dos del mismo tipo seguidos.
 
 Estas cartas de camión nos permiten **poner un camión en juego** en el lado de
 envíos, pero ojo cuidado, podemos ponerlo en nuestro lado o en el del
 rival. Esto implica que 1) podemos tratar de fastidiar al rival para que no le
 cuadren los camiones con las conexiones que ha hecho, ya que un camión empuja
-al existente, 2) podemos forzar que lleguen sus cosas a nuestra zona de
+a todos los existentes, 2) podemos forzar que lleguen sus cosas a nuestra zona de
 recepción porque llegan los camiones a nuestro talero, ó 3) podemos poner
 camiones en nuestra zona de envíos para cargar producto e ir ganando puntos.
 Pero cuidado, porque el rival también puede hacer lo mismo.
@@ -183,7 +184,7 @@ rápidamente las conexiones para que no nos intercepte producto. Es un duelo.
 Además de todo esto, Curious Cargo tiene muchas formas de **conseguir bonos para
 darte una pequeña ventaja**, cuando llenas a tope un camión puedes conseguir un
 token de construcción (te da 2 puntos de acción en esa fase), una loseta, un
-token de construcción (te permite robar cartas de camión), o una loseta
+token de camión (te permite robar cartas de camión), o una loseta
 especial que es una especie de comodín. Si colocas una loseta tapando una zona
 específica del tablero también puedes conseguir bonos, y cuando has enviado o
 recibido cierto número de productos también vas consiguiendo algún tipo de
@@ -213,7 +214,7 @@ cambiarlo.
 Otro punto importante es la escalabilidad a medida que vayas cogiendo
 experiencia, el bot tiene cinco niveles de dificultad que van de 4 
 (más fácil) a 0 (más difícil), básicamente es cuántas fases de construcción
-espera antes de empecemos con su primera carta de la IA. La última dificultad
+espera antes de que empecemos con su primera carta de la IA. La última dificultad
 es extremadamente difícil porque nosotros como jugador humano es físicamente
 casi imposible que consigamos una conexión en el primer turno; solo hay un
 tablero en el que necesites únicamente una loseta para hacer una conexión, en
