@@ -231,7 +231,7 @@ Aquí tenéis mi selección:
     obviar que el juego es monísimo. Además de eso te propone un puzle muy
     interesante y fácil de entender que puedes intentar resolver en unos 5-15
     minutos. Luego seguramente te piques y trates de mejorar tu puntuación y
-    así hasta que te quedas agusto. A mí me parece muy directo (que se
+    así hasta que te quedas a gusto. A mí me parece muy directo (que se
     agradece), con una complejidad y estrategia que está oculta y que tienes
     que ir descubriendo tú a base de partidas. </p>
          <p>Hace poco (tres días, por eso no me explayo más aquí) he hecho unas
