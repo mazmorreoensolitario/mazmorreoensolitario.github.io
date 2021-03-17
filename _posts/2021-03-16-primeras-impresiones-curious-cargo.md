@@ -140,7 +140,7 @@ hacer que cuadre con alguna entrada o salida; puede parecer
 difícil, pero hay que pensar que tenemos muchísimas losetas en la bolsa, no hay
 límite de almacenamiento de losetas (te puedes pasar el juego robando y
 guardando y perdiendo), aunque solamente puedes colocar las que estén en tu
-mano o más arriba en el almacenamiento; pero más importántemente: **puedes
+mano o más arriba en el almacenamiento; pero más importantemente: **puedes
 colocar unas losetas encima de otras**; así que, poco a poco irá cuadrando
 todo.
 
@@ -201,7 +201,7 @@ abajo a la izquierda), así que no soy ni elegible a ganar.</small></p>
 Tengo ya más de diez partidas a este juego, lo he jugado mucho, me está gustado
 mucho en general, pero dejaré el análisis final del juego para cuando tenga más
 partidas y compruebe cómo aguanta el paso de los meses; además, tengo que
-probar algo más el modo avanzado, que utiliza 3 tipos de productos en ves de
+probar algo más el modo avanzado, que utiliza 3 tipos de productos en vez de
 dos. Así que las primeras impresiones son:
 
 En cuanto a **re-jugabilidad**... han conseguido empaquetar una gran
