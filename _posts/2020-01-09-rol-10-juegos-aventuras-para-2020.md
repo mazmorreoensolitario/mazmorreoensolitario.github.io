@@ -20,8 +20,8 @@ tiempo para todo. Espero que en 2020 tenga más oportunidades para dedicarle
 algo más de tiempo al rol en solitario y a poder jugar alguna que otra aventura 
 con mi grupo.
 
-* **Actualización 9/01/21** [Estos son mis planes para el rol en solitario
-  para 2021]({{site.baseurl}}/2021/01/09/rol-10-juegos-aventuras-para-2021/).
+* **Actualización 9/01/21**: **[Estos son mis planes para el rol en solitario
+  para 2021]({{site.baseurl}}/2021/01/09/rol-10-juegos-aventuras-para-2021/).**
 
 **Aquí tenéis una lista de juegos de rol que quiero poder jugar más en
 solitario este 2020 y varios módulos de aventuras que espero probar con mi

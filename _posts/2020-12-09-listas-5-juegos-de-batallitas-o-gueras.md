@@ -162,7 +162,7 @@ Aquí está mi selección:
         class="img-thumbnail" alt="Gloomhaven: Jaws of The Lion">
     </div>
     <div class="col-md-9">
-         <h4>2. <a href="https://www.philibertnet.com/en/cephalofair-games/90068-gloomhaven-jaws-of-the-lion-644216610563.html#ae447-11">Gloomhaven: Jaws of The Lion</a></h4>
+         <h4>2. <a href="https://amzn.to/30SQp46">Gloomhaven: Jaws of The Lion</a></h4>
          <p>En <strong><a
     href="https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion">Gloomhaven:
     Jaws of The Lion</a></strong> de Isaac Childres y

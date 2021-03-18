@@ -11,10 +11,18 @@ Geek en solitario (y si es posible)"
 
 ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210304-top-100-bgg-solo/top-100-bgg-solitario-p2.png)
 
+* Parte 1: **[100-76]({{site.baseurl}}/2021/03/04/general-top-100-bgg-solitario-p1/)**
+* **Parte 2: 75-51**
+* Parte 3: **[50-26]({{site.baseurl}}/2021/03/18/general-top-100-bgg-solitario-p3/)**
+
+<hr>
+
 Seguimos en esta serie de cuatro entradas
 (**[parte 1: 100-76]({{site.baseurl}}/2021/03/04/general-top-100-bgg-solitario-p1/)**,
-75-51, 50-26, 25-1) en las que vamos a repasar el **Top 100 de Board Game Geek**
-para descubrir **qué juegos pueden jugarse en solitario, y cómo**.
+75-51, **[parte 3:
+50-26]({{site.baseurl}}/2021/03/18/general-top-100-bgg-solitario-p3/)**, 25-1) en
+las que vamos a repasar el **Top 100 de Board Game Geek** para descubrir **qué
+juegos pueden jugarse en solitario, y cómo**.
 
 En esta entrada **revisamos los juegos en las posiciones 75 a 51**, os recuerdo
 que este top está basado en las estadísticas del 3 de marzo de 2021 de BGG, por
@@ -566,9 +574,10 @@ tenemos una tendencia que indique: *"los juegos más modernos tienden a tener
 modo en solitario"*; pero lo dicho, es pronto para sacar conclusiones. Tenemos
 que esperar a tener todos los datos del top 100 para sacar más conclusiones.
 
-Y esto es todo por esta semana, la semana que viene veremos los juegos en las
-posiciones 50-26 del top, y nos quedará menos para que podáis ver las
-estadísticas completas.
+Y esto es todo por esta semana, la semana que viene veremos **[los juegos en las
+posiciones 50-26 del
+top]({{site.baseurl}}/2021/03/18/general-top-100-bgg-solitario-p3/)**, y nos
+quedará menos para que podáis ver las estadísticas completas.
 
 <hr>
 

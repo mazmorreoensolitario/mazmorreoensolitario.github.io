@@ -11,13 +11,21 @@ se puede jugar en solitario al top 100 de juegos de Board Game Geek"
 
 ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210304-top-100-bgg-solo/top-100-bgg-solitario-p1.png)
 
+* **Parte 1: 100-76**
+* Parte 2: **[75-51]({{site.baseurl}}/2021/03/10/general-top-100-bbg-solitario-p2/)**
+* Parte 3: **[50-26]({{site.baseurl}}/2021/03/18/general-top-100-bgg-solitario-p3/)**
+
+<hr>
+
+
 ¿Alguna vez te has preguntado **qué juegos del Top 100 de Board Game Geek puedes
 jugar en solitario**? Yo me lo pregunté hace un tiempo, cuando se puso de moda
 hacer el ranking de a qué juegos del top 100 habías jugado, y la respuesta es:
 **tienen modo en solitario bastantes más de los que te imaginas.**
 
 En esta serie de cuatro entradas (100-76, **[parte 2:
-75-51]({{site.baseurl}}/2021/03/10/general-top-100-bbg-solitario-p2/)**, 50-26,
+75-51]({{site.baseurl}}/2021/03/10/general-top-100-bbg-solitario-p2/)**, **[parte
+3: 50-26]({{site.baseurl}}/2021/03/18/general-top-100-bgg-solitario-p3/)**,
 25-1) **vamos a 
 descubrir qué juegos puedes jugar en solitario, y cómo los puedes jugar en
 solitario**. Hay muchos juegos que puedes jugarlos en solitario según abres la

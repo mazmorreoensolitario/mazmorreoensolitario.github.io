@@ -84,7 +84,7 @@ un pequeño comentario mio sobre el juego:
         <h4><a href="https://amzn.to/3hgeXdm">The Crew: The Quest for Planet Nine</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/284083/crew-quest-planet-nine">The Crew: The Quest for Planet Nine</a></strong> es un
          juego cooperativo de bazas en el que los jugadores son astronautas en
-         una incierta aventura espacial. Esta viaje se alarga en 50 misiones
+         una incierta aventura espacial. Este viaje se alarga en 50 misiones
          diferentes que los astronautas tendrán que superar, pero este juego
          solo se gana si se consiguen los objetivos individuales de cada
          jugador.
