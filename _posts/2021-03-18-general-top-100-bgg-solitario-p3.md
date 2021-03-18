@@ -11,6 +11,7 @@ post_desc: "Esta semana volvemos a adentrarnos en el Top 100 de BGG, posiciones
 
 ![](https://live.staticflickr.com/65535/51045530911_c05e22a96f_o.png)
 
+
 * Parte 1: **[100-76]({{site.baseurl}}/2021/03/04/general-top-100-bgg-solitario-p1/)**
 * Parte 2: **[75-51]({{site.baseurl}}/2021/03/10/general-top-100-bbg-solitario-p2/)**
 * **Parte 3: 50-26**
