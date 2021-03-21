@@ -20,11 +20,12 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
    Antony Beevor y *[Dune](https://amzn.to/38MUviT)* de Frank Herbert.
 * Siguiente/s libro/s en mi lista para leer: *[The Winter War: The Russo-Finish
   War of 1939-1940](https://amzn.to/3lajpfl)* de Willian R. Trotter,
-  *[The Dying Earth](https://amzn.to/2V4HLMN)* de Jack Vance y
-  *[The Book of the New Sun](https://amzn.to/2HIcs7A)* de Gene Wolfe.
+  *[The Dying Earth](https://amzn.to/2V4HLMN)* de Jack Vance,
+  *[The Book of the New Sun](https://amzn.to/2HIcs7A)* de Gene Wolfe y *[A
+  Desolation Called Peace](https://amzn.to/3qwWLAe)* de Arkady Martine.
 * Libros que he leído este 2021: *[The Unspoken Name](https://amzn.to/2HDA8d8)*
    de A. K. Larkwood.
-* Series que estoy viendo: The Expanse, Star Trek Discovery, The Mandalorian.
+* Series que estoy viendo: For all mankind.
 * Videojuegos que ocasionalmente juego durante estos meses: Deep Sky Derelicts,
   Caves of Qud y Star Wars Battlefront II.
 
@@ -32,7 +33,7 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
 # Sobre el blog
 
 **Mazmorreo en solitario** es un blog sobre toda clase de información
-relacionada con el hobby de los **juegos de mesa y rol  de un jugador**.
+relacionada con el hobby de los **juegos de mesa y rol para un jugador**.
 
 Espera encontrar **[análisis de juegos]({{site.baseurl}}/analisis/)**, un
 pequeño rincón dedicado a los juegos **[print &
