@@ -769,6 +769,7 @@ pero me interesaría mucho poder conocer otros:
 
 * **[Beak, Feather &
   Bone](https://www.drivethrurpg.com/product/311602/Beak-Feather--Bone?affiliate_id=1914894)**
+  ([análisis aquí]({{site.baseurl}}/2020/11/19/rol-beak-feather-bone/))
   que será publicado en español por [The Hills
   Press](https://twitter.com/TheHillsPress/status/1255243327865344000?s=20)
   bajo el nombre de **Pico, Pluma & Hueso** es un juego de creación de mundos
