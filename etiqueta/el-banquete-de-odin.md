@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: El Banquete de Odin"
-tag: "El Banquete de Odin"
+title: "Etiqueta: El Banquete de Odín"
+tag: "El Banquete de Odín"
 ---

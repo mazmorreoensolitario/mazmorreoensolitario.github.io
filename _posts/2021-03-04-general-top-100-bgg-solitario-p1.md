@@ -14,7 +14,9 @@ se puede jugar en solitario al top 100 de juegos de Board Game Geek"
 * **Parte 1: 100-76**
 * Parte 2: **[75-51]({{site.baseurl}}/2021/03/10/general-top-100-bbg-solitario-p2/)**
 * Parte 3: **[50-26]({{site.baseurl}}/2021/03/18/general-top-100-bgg-solitario-p3/)**
-
+* Parte 4:
+  **[25-1]({{site.baseurl}}/2021/03/27/general-top-100-bgg-solitario-p4/)**
+  
 <hr>
 
 
@@ -52,7 +54,7 @@ con los 25 últimos juegos, que toman las **posiciones 100 a 76 del ranking**:
     <div class="col-md-9">
          <h4>100. Pandemic: Iberia</h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/198928/pandemic-iberia">Pandemic: Iberia</a></strong>
-         de Jesús Torres Castro y Matt Leacocky, y publicado por <strong>Z-Man
+         de Jesús Torres Castro y Matt Leacock, y publicado por <strong>Z-Man
          Games</strong>, es un re-implementación de Pandemic (siguiente juego de
          esta lista) en el que tenemos que parar difusión de diferentes
          enfermedades por la península Ibérica.</p>

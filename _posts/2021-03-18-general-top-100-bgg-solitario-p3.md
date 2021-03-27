@@ -15,6 +15,7 @@ post_desc: "Esta semana volvemos a adentrarnos en el Top 100 de BGG, posiciones
 * Parte 1: **[100-76]({{site.baseurl}}/2021/03/04/general-top-100-bgg-solitario-p1/)**
 * Parte 2: **[75-51]({{site.baseurl}}/2021/03/10/general-top-100-bbg-solitario-p2/)**
 * **Parte 3: 50-26**
+* Parte 4: **[25-1]({{site.baseurl}}/2021/03/27/general-top-100-bgg-solitario-p4/)**
 
 <hr>
 
@@ -239,7 +240,7 @@ final de la entrada tenéis unas pequeñas estadísticas resumen.
     <div class="col-md-9">
          <h4>41. <a href="https://amzn.to/3eCkHjy">La Tripulación: En busca del noveno planeta</a></h4>
          <p>En <strong><a href="https://boardgamegeek.com/boardgame/284083/crew-quest-planet-nine">La Tripulación</a></strong>
-         de y publicado por <strong>KOSMOS</strong> (<strong>Devir</strong> en
+         de Thomas Sing y publicado por <strong>KOSMOS</strong> (<strong>Devir</strong> en
          España), es un juego cooperativo de bazas en el que los jugadores son
          astronautas en una incierta aventura espacial. Los jugadores tendrán
          que superar una serie de misiones, pero para ello cada uno tendrá que

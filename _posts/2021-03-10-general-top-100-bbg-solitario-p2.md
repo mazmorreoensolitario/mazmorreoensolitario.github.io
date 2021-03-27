@@ -14,7 +14,9 @@ Geek en solitario (y si es posible)"
 * Parte 1: **[100-76]({{site.baseurl}}/2021/03/04/general-top-100-bgg-solitario-p1/)**
 * **Parte 2: 75-51**
 * Parte 3: **[50-26]({{site.baseurl}}/2021/03/18/general-top-100-bgg-solitario-p3/)**
-
+* Parte 4:
+  **[25-1]({{site.baseurl}}/2021/03/27/general-top-100-bgg-solitario-p4/)**
+  
 <hr>
 
 Seguimos en esta serie de cuatro entradas
