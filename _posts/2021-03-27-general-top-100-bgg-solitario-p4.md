@@ -6,7 +6,7 @@ categories: [General]
 tags: [Tops, Golden Geek, Nemesis, Orléans, Concordia, Concordia Solitaria, Viticulture Essential Edition, "Arkham Horror: The Card Game", Spirit Island, Scythe, El Banquete de Odín, A Feast for Odin,  Wingspan, "Star Wars: Rebellion", Gaia Project, "Through the Ages: A New Story of Civilization", "Twilight Imperium", "Brass: Birmingham", Terraforming Mars, Gloomhaven, "Gloomhaven: Jaws of the Lion"]
 imghtml: https://live.staticflickr.com/65535/51045530886_fcb12a3a00_o.png
 post_desc: "Entrada final del Top 100 de Board Game Geek, con lo que podemos
-jugar en solitario y las estadísticas finales"
+jugar en solitario y las estadísticas completas"
 ---
 
 ![](https://live.staticflickr.com/65535/51045530886_fcb12a3a00_o.png)
