@@ -102,7 +102,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
+       {% if post.url == "/2021/03/27/general-top-100-bgg-solitario-p4/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -110,7 +110,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
+       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -126,7 +126,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}
+       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -152,19 +152,26 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Tops"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
       or tag[0] == "Ironsworn"
       or tag[0] == "Ambon: Burning Sun & Little Seagulls"
+      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Expansiópolis"
       or tag[0] == "OSR"
-      or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "Merv: The Heart of the Silk Road"
-      or tag[0] == "Disciples of Bone and Shadow: Conquered Sun Edition"
       or tag[0] == "Everdell"
-      or tag[0] == "One Deck Dungeon"
+      or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "Merv: The Heart of the Silk Road"
       or tag[0] == "The City of Kings"
+      or tag[0] == "Disciples of Bone and Shadow: Conquered Sun Edition"
+      or tag[0] == "Forbidden Lands"
+      or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Legends Untold"
+      or tag[0] == "On Mars"
+      or tag[0] == "One Deck Dungeon"
+      or tag[0] == "Root: Los Cachivaches"
       or tag[0] == "Undaunted: Normandy"
-      or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Bios: Origins 2"
       or tag[0] == "Colonos del Imperio: Imperios del Norte"
       or tag[0] == "Concordia Solitaria"
       or tag[0] == "D30 Sandbox Companion"
@@ -172,10 +179,9 @@
       or tag[0] == "Fábulas de Peluche"
       or tag[0] == "GMT Games"
       or tag[0] == "Iron Helm"
-      or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "Pandemic: Legacy"
       or tag[0] == "Praga Caput Regni"
       or tag[0] == "Rol"
-      or tag[0] == "Root: Los Cachivaches"
       or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Scarlet Heroes"
       or tag[0] == "Stellar Horizons"
@@ -184,23 +190,20 @@
       or tag[0] == "Tiny Towns"
       or tag[0] == "Undaunted: North Africa"
       or tag[0] == "A Thousand Year Old Vampire"
-      or tag[0] == "Bios: Origins 2"
       or tag[0] == "Chai"
+      or tag[0] == "Compass Games"
       or tag[0] == "Crónicas del Crimen"
+      or tag[0] == "Dancing with Bullets Under a Neon Sun"
       or tag[0] == "Ennie"
       or tag[0] == "Europa Universalis: The Price of Power"
-      or tag[0] == "Forbidden Lands"
       or tag[0] == "Four Against Darkness"
       or tag[0] == "Héroes de Terrinoth"
       or tag[0] == "Kickstarter"
-      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Las Mansiones de la Locura"
-      or tag[0] == "Legends Untold"
+      or tag[0] == "Marvel Champions: The Card Game"
       or tag[0] == "Mombasa"
       or tag[0] == "Old-School Essentials"
-      or tag[0] == "On Mars"
       or tag[0] == "Paladines del Reino del Oeste"
-      or tag[0] == "Pandemic: Legacy"
       or tag[0] == "Pathfinder"
       or tag[0] == "Print & play"
       or tag[0] == "Rising Sun"
@@ -211,6 +214,7 @@
       or tag[0] == "The 7th Citadel"
       or tag[0] == "The Quest"
       or tag[0] == "TINYforming Mars"
+      or tag[0] == "Twilight Imperium"
       or tag[0] == "Zine Quest 2"
       or tag[0] == "Zine Quest" %}
 <span class="label label-danger"><strong>#<a class="tag-color"

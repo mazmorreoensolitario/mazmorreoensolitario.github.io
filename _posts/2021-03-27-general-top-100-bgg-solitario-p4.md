@@ -3,7 +3,7 @@ layout: post
 title: "Top 100 de BGG: ¿qué puedo jugar en solitario? (Parte 4)"
 date: 2021-03-27
 categories: [General]
-tags: [Tops, Golden Geek, Nemesis, Orléans, Concordia, Concordia Solitaria, Viticulture Essential Edition, "Arkham Horror: The Card Game", Spirit Island, Scythe, El Banquete de Odín, A Feast for Odin,  Wingspan, "Star Wars: Rebellion", Gaia Project, "Through the Ages: A New Story of Civilization", "Twilight Imperium", "Brass: Birmingham", Terraforming Mars, Gloomhaven, "Gloomhaven: Jaws of the Lion"]
+tags: [Tops, Golden Geek, Great Western Trail, Nemesis, Orléans, Concordia, Concordia Solitaria, Viticulture Essential Edition, "Arkham Horror: The Card Game", Spirit Island, Scythe, El Banquete de Odín, A Feast for Odin,  Wingspan, "Star Wars: Rebellion", Gaia Project, "Through the Ages: A New Story of Civilization", "Twilight Imperium", "Brass: Birmingham", Terraforming Mars, Gloomhaven, "Gloomhaven: Jaws of the Lion"]
 imghtml: https://live.staticflickr.com/65535/51045530886_fcb12a3a00_o.png
 post_desc: "Entrada final del Top 100 de Board Game Geek, con lo que podemos
 jugar en solitario y las estadísticas completas"
@@ -168,7 +168,7 @@ completas sobre los juegos del Top 100**.
         class="img-thumbnail" alt="Brass: Lancashire">
     </div>
     <div class="col-md-9">
-         <h4>19. <a href="">Brass: Lancashire</a></h4>
+         <h4>19. <a href="https://amzn.to/3lTAqwg">Brass: Lancashire</a></h4>
          <p>En <strong><a href="https://boardgamegeek.com/boardgame/28720/brass-lancashire">Brass: Lancashire</a></strong>
          de Martin Wallace y publicado por <strong>Roxley</strong>
          (<strong>Maldito Games</strong> en España), compites como emprendedor
@@ -574,7 +574,7 @@ completas sobre los juegos del Top 100**.
         class="img-thumbnail" alt="Pandemic Legacy: Season 1">
     </div>
     <div class="col-md-9">
-         <h4>2. <a href="">Pandemic Legacy: Season 1</a></h4>
+         <h4>2. <a href="https://amzn.to/3ssL2Vb">Pandemic Legacy: Season 1</a></h4>
          <p>En <strong><a href="https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1">Pandemic Legacy: Season 1</a></strong>
          de Matt Leacock y Rob Daviau, y publicado por <strong>Z-Man
     Games</strong>, es la segunda temporada con elementos legacy y cooerativos
@@ -690,7 +690,7 @@ zoom.</strong></small></p>
 
 Si nos paramos a ojear **qué autores tienen juegos en el Top 100**, tenemos 101
 autores diferentes, y de más a menos prolíficos destacamos: **1º Uwe Uwe
-Rosenberg** (7), **2º Simone Luciani**, **3º (empate) Vlaada Chvátil, Matt
+Rosenberg** (7), **2º Simone Luciani** (5), **3º (empate) Vlaada Chvátil, Matt
 Leacock  y Corey Konieczka** (4), **6º (empate) Vital Lacerda, Shem
 Phillips, Daniele Tascini y Alexander Pfister** (3). Después tenemos 19 autores
 con dos juegos en el Top, y el resto, que es la mayoría, tienen un único título.
