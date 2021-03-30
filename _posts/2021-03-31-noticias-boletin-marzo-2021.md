@@ -241,12 +241,6 @@ End](https://boardgamegeek.com/boardgame/191189/aeons-end)** llegará finalmente
   hordas, para ello utilizaremos poderosos hechizos, habilidades y el trabajo
   en equipo.
 
-<p align="center">
-<img height="450"
-src=""></p>
-
-
-
 
 ## Wargames
 
