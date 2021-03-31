@@ -418,7 +418,7 @@ utilicéis esos links.
   inglés, 2019, Osprey Games.
 * **[Undaunted: Reinforcements](https://amzn.to/3r5NtM8) (Preventa):** **~25€**,
   inglés, 2021, Osprey Games.
-* **[Merv: The Heart of the Silk Road](https://amzn.to/3oxiiId)**: **~34€**
+* **[Merv: The Heart of the Silk Road](https://amzn.to/3oxiiId)**: **~32€**
 (PVP: £50), inglés, 2020, Osprey Games.
 * **[Pathfinder Adventure Card Game: Core Set](https://amzn.to/2Nzfon1)**:
   **~40€** (PVP: $59.99), inglés, 2019, Paizo.
@@ -619,10 +619,6 @@ src="https://cf.geekdo-images.com/ZtCN1wRyqX07xMXOB2ZftQ__imagepage/img/-dqXkI9v
   
   Aún no tenemos más detalles, pero Pigeon ha comentado que podemos esperar
   nuevo arte y una mejor integración con el resto de productos de su editorial.
-
-<p align="center">
-<img height="450"
-src=""></p>
 
 Y esto es todo por este mes, ¡nos vemos en el siguiente **Boletín Informativo
 Solitario**!
