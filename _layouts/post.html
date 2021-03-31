@@ -53,6 +53,8 @@ layout: default_container
               href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></span-->
               <!--a href="/tags/{{ tag }}/">{{ tag }}</a><-->
               {% if tag == "Augmented Reality" or
+              tag == "The Vast in the Dark" or
+              tag == "Wicked Ones" or
               tag == "Nuctemeron" or tag == "Marrow & Splinters" or
               tag == "Dancing with Bullets Under a Neon Sun" or
               tag == "Mothership: Gradient Descent" or
@@ -153,7 +155,8 @@ layout: default_container
               tag == "Kickstarter" or tag == "Print & play" or
               tag == "Tabletopia" or tag == "Tops" or
               tag == "Verkami" or tag == "Traducciones" or
-              tag == "Boletín Informativo Solitario" %}
+              tag == "Boletín Informativo Solitario" or
+              tag == "El mes en juegos" %}
               <span class="label label-warning"><strong>#<a class="tag-color"
               href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></strong></span> 
               {% else %}

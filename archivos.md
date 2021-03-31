@@ -19,6 +19,8 @@ categorías.
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or
+        tag[0] == "The Vast in the Dark" or
+        tag[0] == "Wicked Ones" or
         tag[0] == "Nuctemeron" or tag[0] == "Marrow & Splinters" or
         tag[0] == "Dancing with Bullets Under a Neon Sun" or
         tag[0] == "Mothership: Gradient Descent" or
@@ -120,7 +122,8 @@ categorías.
             tag[0] == "Kickstarter" or tag[0] == "Print & play" or
             tag[0] == "Tabletopia" or tag[0] == "Tops" or
             tag[0] == "Verkami" or tag[0] == "Traducciones" or
-            tag[0] == "Boletín Informativo Solitario" %}
+            tag[0] == "Boletín Informativo Solitario" or
+              tag == "El mes en juegos" %}
                 <span class="label label-warning"><strong>#<a class="tag-color"
                 href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
             {% else %}
