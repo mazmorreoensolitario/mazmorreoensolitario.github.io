@@ -12,7 +12,7 @@ y rol que han visto mesa durante este último mes"
 ![](https://live.staticflickr.com/65535/51086757567_897cb7d8bd_o.jpg)
 
 
-El usuario @icanpo45 en Twitter, suele hacer un resumen mensual de lo que ha
+El usuario @icampo34 en Twitter, suele hacer un resumen mensual de lo que ha
 jugado en su blog: [Crónicas de
 Soloburg](https://icampo28.wixsite.com/cronicasdesoloburg/post/solo-partidas-febrero-1)
 (¡pasaros a echar un vistazo a sus partidas mensuales!) 
