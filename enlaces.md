@@ -137,6 +137,8 @@ También por orden alfabético:
   (juegos de mesa, inglés)
 * [The Player's Aid](https://www.youtube.com/channel/UCzgDa9S8nnVLxXPzjBX8WMg)
   (wargames, inglés)
+* [Thinker Themer](https://www.youtube.com/channel/UCrns3NfXKLNfllpJsObooDA)
+  (juegos de mesa, inglés)
 * [Wargame
   Reviewer](https://www.youtube.com/channel/UCj3MsvhtH_vHk5ZxFU24aiQ/videos)
   (wargames, español)
