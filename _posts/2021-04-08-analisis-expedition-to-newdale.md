@@ -306,7 +306,7 @@ pero eso hace que los mapas de los tableros me parezcan sosos.
 Sobre los componentes, las calidades son buenas. Los meeples de madera están
 bien, las cartas no tienen ese toque de lino, pero están bien hechas. En
 Lookout es muy típico poner siempre bordes blancos a las cartas, así que van a
-aguantar mejor el paso del tiempo, ya que si tiene alguna ligera imperfección
+aguantar mejor el paso del tiempo, ya que si tienen alguna ligera imperfección
 de barajar y no usáis fundas, no se va a ver. La bolsa de donde robáis los
 trabajadores es de más o menos 19.5cm x 14.5cm, mi mano entra perfectamente,
 pero el resto deberíais tenerlo en cuenta. Los tableros se mantienen planos
@@ -346,7 +346,7 @@ en cadena "recurso súper guay que vale muchos puntos", el escenario te pide
 
 Si no hubiese campaña y fuera el típico euro de conseguir puntos de victoria y
 fuera, podrías ser más creativo con tus cartas y con las formas de conseguir
-puntos, pero de esta forma a mi me parece un chasco. Hay algunos escenarios que
+puntos, pero de esta forma a mí me parece un chasco. Hay algunos escenarios que
 si que te piden crear productos más avanzados y tienes que hacer cadenas de
 producción, pero aún así siempre es un subconjunto de todo lo que puedes hacer
 en el juego.
@@ -382,9 +382,9 @@ suerte, tienes el mismo edificio varias veces con distintos tipos de
 trabajadores necesarios (generalmente si cuesta más tiene mejores
 probabilidades en cuanto a tipos de trabajadores necesarios) y en el propio
 tablero de jugador puedes construir el edificio en diferentes sitios para que
-puedas elegir acciones que requieran no todos los trabajadores. Pero aún tu
+puedas elegir acciones que requieran no todos los trabajadores. Pero aún así tu
 producción depende demasiado de la suerte y a mí personalmente me da la
-sensación de que sin suerte me hubiera gustado mucho más el juego. Así me
+sensación de que sin suerte me hubiera gustado mucho más el juego. Así que me
 gusta, pero lo miro con otros ojos pensando que podría haber sido mejor.
 
 En general me gustan mucho muchas cosas que tiene el juego, como la producción,
