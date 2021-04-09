@@ -85,7 +85,7 @@ Para demostrar a DA que nuestra compañía es mejor, hemos diseñado un sistema 
 simulaciones llamado **Pocket Mars** que vamos a usar para competir contra sus
 robots... pero de momento nadie ha sido capaz de superarles. 
 
-[Pocket Mars](https://boardgamegeek.com/boardgame/223779/pocket-mars) es un
+**[Pocket Mars](https://boardgamegeek.com/boardgame/223779/pocket-mars)** es un
 juego de control de área en el que tendremos que conseguir colocar el mayor
 número de colonos espaciales posibles en una serie de edificios diseñados con
 funciones específicas para que los humanos sobrevivamos en Marte.
