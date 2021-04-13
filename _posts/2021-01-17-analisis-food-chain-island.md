@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Análisis - Food Chain Island"
+title: "Análisis - Food Chain Island / Isla Animal"
 date:   2021-01-17
 categories: [Análisis, Print & play]
-tags: ["Food Chain Island", Print & play]
+tags: ["Food Chain Island", Isla Animal, Print & play]
 imghtml: https://cf.geekdo-images.com/_Zj858ai-PlnbTjXnzZBfg__imagepage/img/xWmBcoGhz8hi1b7YgbabKpWFwdQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5425050.png
 score: 3.5
 game: "Food Chain Island"
@@ -69,6 +69,8 @@ solamente con un superviviente"
      </div>
     </div>
 </div>
+
+> **Campaña de Verkami en abril (2021), [link a la campaña](https://www.verkami.com/projects/29390-calaveras-de-sedlec-isla-animal-y-nutrias-ganadoras?ref=mazmorreoensolitario)**
 
 ### Información general
 
