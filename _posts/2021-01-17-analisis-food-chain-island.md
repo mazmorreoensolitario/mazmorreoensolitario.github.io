@@ -15,7 +15,7 @@ solamente con un superviviente"
 
 <div class="panel panel-primary">
     <div class="panel-heading">
-<h3 class="panel-title">Ficha técnica - Food Chain Island</h3>
+<h3 class="panel-title">Ficha técnica - Food Chain Island / Isla Animal</h3>
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
@@ -37,7 +37,7 @@ solamente con un superviviente"
             </tr><tr><td></td><td><a href="https://buttonshygames.com/collections/current-collection/products/food-chain-island">12$</a> (cartera)</td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1</td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">5-10 min</td></tr>
-            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés/Castellano</td></tr>
             <tr><td class="text-left"><strong>Dependencia del
             idioma:</strong></td><td class="text-left">Baja, manual y
             significado de las habilidades de las cartas</td></tr>
@@ -65,6 +65,8 @@ solamente con un superviviente"
     href="https://www.kickstarter.com/projects/239309591/food-chain-island">campaña
     de Kickstarter</a> en mayo de 2020, consiguió más de 36.000$ del objetivo
     de 2.000$.</li>
+    <li><strong>Salt & Pepper Games</strong> editará este juego en español; el
+    título ha sido traducido como <strong>Isla Animal</strong>.</li>
          </ul>
      </div>
     </div>

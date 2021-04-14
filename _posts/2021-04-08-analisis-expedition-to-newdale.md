@@ -59,6 +59,8 @@ que tratamos de construir cadenas de producción en edificios"
              a Oh My Goods! para poder jugar a Expedition to Newdale.</li>
              <li>La campaña rejugable consta de ocho capítulos, pero puedes
              jugar hasta diez escenarios diferentes.</li>
+             <li>Está hecho en Alemania, dentro de la UE, así que
+             genial.</li>
          </ul>
          </div>
     </div>
