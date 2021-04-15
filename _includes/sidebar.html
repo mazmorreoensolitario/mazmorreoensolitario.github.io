@@ -86,6 +86,14 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
+       {% if post.url == "/2021/04/12/crowdfunding-0405-0411/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
        {% if post.url == "/2021/03/27/general-top-100-bgg-solitario-p4/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -94,7 +102,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/31/noticias-boletin-marzo-2021/" %}
+       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -110,7 +118,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/04/12/crowdfunding-0405-0411/" %}
+       {% if post.url == "/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -118,15 +126,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/31/partidas-mes-marzo-21/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
+       {% if post.url == "/2021/03/31/noticias-boletin-marzo-2021/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -152,79 +152,79 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Tops"
-      or tag[0] == "Aeon's End"
-      or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
-      or tag[0] == "Ironsworn"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Iron Helm"
+      or tag[0] == "Ironsworn"
       or tag[0] == "Labyrinth Lord"
-      or tag[0] == "Blades in the Dark"
-      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Barrage"
+      or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Concordia Solitaria"
       or tag[0] == "Gloomhaven"
       or tag[0] == "Paladines del Reino del Oeste"
-      or tag[0] == "Undaunted: North Africa"
-      or tag[0] == "Boletín Informativo Solitario"
       or tag[0] == "CloudAge"
-      or tag[0] == "Five Parsecs From Home"
+      or tag[0] == "D30 Sandbox Companion"
       or tag[0] == "Four Against Darkness"
       or tag[0] == "Ironsworn: Starforged"
+      or tag[0] == "Kickstarter"
       or tag[0] == "Maracaibo"
       or tag[0] == "One Deck Dungeon: Forest of Shadows"
       or tag[0] == "One Page Dungeon"
-      or tag[0] == "Scarlet Heroes"
+      or tag[0] == "Brass: Birmingham"
       or tag[0] == "Curious Cargo"
-      or tag[0] == "D30 Sandbox Companion"
       or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Fields of Arle"
       or tag[0] == "Fields of Fire"
+      or tag[0] == "Five Parsecs From Home"
       or tag[0] == "Forbidden Lands"
-      or tag[0] == "Kickstarter"
+      or tag[0] == "Gaia Project"
       or tag[0] == "Marvel Champions: The Card Game"
       or tag[0] == "Mothership: Gradient Descent"
       or tag[0] == "Nemesis"
       or tag[0] == "Oath: Chronicles of Empire and Exile"
       or tag[0] == "Race for the Galaxy"
-      or tag[0] == "Solitaire Print & Play Design Contest"
-      or tag[0] == "Tainted Grail: La caída de Ávalon"
+      or tag[0] == "Scarlet Heroes"
       or tag[0] == "Tiny Epic Dinosaurs"
-      or tag[0] == "1066 Tears To Many Mothers"
+      or tag[0] == "Too Many Bones"
+      or tag[0] == "Aeon's End"
       or tag[0] == "Alta Tension: Los Robots"
       or tag[0] == "Arquitectos del Reino del Oeste"
       or tag[0] == "Bios: Origins 2"
-      or tag[0] == "Brass: Birmingham"
+      or tag[0] == "Boletín Informativo Solitario"
       or tag[0] == "Burgle Bros"
-      or tag[0] == "Concordia Solitaria"
       or tag[0] == "Crónicas del Crimen"
       or tag[0] == "Dancing with Bullets Under a Neon Sun"
       or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "El mes en juegos"
       or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
+      or tag[0] == "Etherfields"
       or tag[0] == "Everdell"
-      or tag[0] == "Gaia Project"
+      or tag[0] == "Food Chain Island"
       or tag[0] == "Gamefound"
       or tag[0] == "GenCon"
       or tag[0] == "Great Western Trail"
       or tag[0] == "Ironsworn: Delve"
       or tag[0] == "It's a Wonderful Kingdom"
+      or tag[0] == "Kingdom Death: Monster"
       or tag[0] == "Mombasa"
       or tag[0] == "Mothership"
       or tag[0] == "Old-School Essentials"
       or tag[0] == "On Mars"
       or tag[0] == "One Deck Dungeon"
       or tag[0] == "Origins: First Builders"
-      or tag[0] == "Print & play"
-      or tag[0] == "Robinson Crusoe"
-      or tag[0] == "Root"
       or tag[0] == "Ruins of the Undercity"
+      or tag[0] == "Solitaire Print & Play Design Contest"
       or tag[0] == "Star Wars: Imperial Assault"
       or tag[0] == "Stellar Horizons"
+      or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "Teotihuacán"
+      or tag[0] == "Terraforming Mars"
       or tag[0] == "The 7th Citadel"
       or tag[0] == "The Scourge of the Scorn Lords"
+      or tag[0] == "The Vast in the Dark"
       or tag[0] == "Unbroken"
       or tag[0] == "Undaunted: Normandy"
-      or tag[0] == "Zine Quest" %}
+      or tag[0] == "Undaunted: North Africa" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
@@ -272,7 +272,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/03/14/analisis-pocket-mars/" %}
+       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>2. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -280,7 +280,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
+       {% if post.url == "/2019/03/14/analisis-pocket-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>3. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -288,7 +288,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/03/09/analisis-maquis/" %}
+       {% if post.url == "/2019/12/29/analisis-legends-untold-the-weeping-caves/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>4. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -296,7 +296,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/12/29/analisis-legends-untold-the-weeping-caves/" %}
+       {% if post.url == "/2019/03/09/analisis-maquis/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>5. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
