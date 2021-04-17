@@ -53,29 +53,30 @@
       or tag[0] == "Gloomhaven: Jaws of the Lion"
       or tag[0] == "Ironsworn"
       or tag[0] == "Print & play"
-      or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Heroes of Terrinoth"
       or tag[0] == "Fábulas de Peluche"
+      or tag[0] == "Great Western Trail"
       or tag[0] == "Kickstarter"
       or tag[0] == "Oath: Chronicles of Empire and Exile"
       or tag[0] == "Paladines del Reino del Oeste"
+      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Too Many Bones"
       or tag[0] == "13 Sheep"
+      or tag[0] == "Aeon's End"
       or tag[0] == "Brass: Birmingham"
       or tag[0] == "Curious Cargo"
       or tag[0] == "Dancing with Bullets Under a Neon Sun"
       or tag[0] == "Marvel Champions: The Card Game"
+      or tag[0] == "Old-School Essentials"
       or tag[0] == "Race for the Galaxy"
-      or tag[0] == "Scarlet Heroes"
       or tag[0] == "Tiny Epic Dinosaurs"
       or tag[0] == "Zine Quest"
-      or tag[0] == "Aeon's End"
       or tag[0] == "Arkham Horror: The Card Game"
       or tag[0] == "Arquitectos del Reino del Oeste"
       or tag[0] == "Barrage"
       or tag[0] == "Burgle Bros"
-      or tag[0] == "CloudAge"
-      or tag[0] == "Crónicas del Crimen"
       or tag[0] == "D30 Sandbox Companion"
+      or tag[0] == "Dados y Colonos"
       or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
       or tag[0] == "Etherfields"
@@ -85,7 +86,6 @@
       or tag[0] == "Gaia Project"
       or tag[0] == "Gamefound"
       or tag[0] == "Gloomhaven"
-      or tag[0] == "Great Western Trail"
       or tag[0] == "Hardback"
       or tag[0] == "Iron Helm"
       or tag[0] == "Ironsworn: Delve"
@@ -94,20 +94,17 @@
       or tag[0] == "Labyrinth Lord"
       or tag[0] == "Mombasa"
       or tag[0] == "Mothership"
-      or tag[0] == "Old-School Essentials"
       or tag[0] == "One Deck Dungeon"
       or tag[0] == "One Page Dungeon"
       or tag[0] == "Pandemic: Legacy"
+      or tag[0] == "Root: Riverfolk"
       or tag[0] == "SCRAWL"
       or tag[0] == "Solitaire Print & Play Design Contest"
       or tag[0] == "Star Wars: Imperial Assault"
-      or tag[0] == "Stellar Horizons"
       or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "Terraforming Mars"
       or tag[0] == "The 7th Citadel"
-      or tag[0] == "The Scourge of the Scorn Lords"
       or tag[0] == "The Vast in the Dark"
-      or tag[0] == "Unbroken"
       or tag[0] == "Undaunted: Normandy"
       or tag[0] == "Undaunted: North Africa"
       or tag[0] == "Waste Knights"
@@ -166,22 +163,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/04/08/analisis-expedition-to-newdale/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2019/03/14/analisis-pocket-mars/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -191,6 +172,22 @@
     <div class="image-container">
        {% for post in site.posts %}
        {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2020/04/30/noticias-golden-geek-awards-2019/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
