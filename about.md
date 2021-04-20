@@ -16,13 +16,13 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
 
 # Sobre mí
 
-* Libros que estoy leyendo ahora: *[Ardenas 1944](https://amzn.to/3fACxSx)* de
-   Antony Beevor.
+* Libros que estoy leyendo ahora: *[A
+  Desolation Called Peace](https://amzn.to/3qwWLAe)* de Arkady Martine,
+  *[Ardenas 1944](https://amzn.to/3fACxSx)* de Antony Beevor.
 * Siguiente/s libro/s en mi lista para leer: *[The Winter War: The Russo-Finish
   War of 1939-1940](https://amzn.to/3lajpfl)* de Willian R. Trotter,
-  *[The Dying Earth](https://amzn.to/2V4HLMN)* de Jack Vance,
-  *[The Book of the New Sun](https://amzn.to/2HIcs7A)* de Gene Wolfe y *[A
-  Desolation Called Peace](https://amzn.to/3qwWLAe)* de Arkady Martine.
+  *[The Dying Earth](https://amzn.to/2V4HLMN)* de Jack Vance y
+  *[The Book of the New Sun](https://amzn.to/2HIcs7A)* de Gene Wolfe.
 * Libros que he leído este 2021: *[The Unspoken Name](https://amzn.to/2HDA8d8)*
    de A. K. Larkwood, *[Dune](https://amzn.to/38MUviT)* de Frank Herbert.
 * Series que estoy viendo: For all mankind.
