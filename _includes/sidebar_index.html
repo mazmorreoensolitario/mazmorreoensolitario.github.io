@@ -48,14 +48,13 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Tops"
-      or tag[0] == "Concordia Solitaria"
       or tag[0] == "Print & play"
+      or tag[0] == "Concordia Solitaria"
       or tag[0] == "Heroes of Terrinoth"
-      or tag[0] == "Brass: Birmingham"
       or tag[0] == "Ironsworn"
-      or tag[0] == "Too Many Bones"
-      or tag[0] == "13 Sheep"
       or tag[0] == "A Thousand Year Old Vampire"
+      or tag[0] == "Labyrinth Lord"
+      or tag[0] == "13 Sheep"
       or tag[0] == "Darwin's Journey"
       or tag[0] == "Expansiópolis"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
@@ -63,35 +62,31 @@
       or tag[0] == "Old-School Essentials"
       or tag[0] == "Root: Riverfolk"
       or tag[0] == "Root"
-      or tag[0] == "Terraforming Mars"
       or tag[0] == "Twilight Imperium"
       or tag[0] == "Undaunted: Normandy"
       or tag[0] == "Zine Quest"
       or tag[0] == "Aeon's End"
       or tag[0] == "Arkham Horror: The Card Game"
-      or tag[0] == "Barrage"
+      or tag[0] == "Bios: Origins 2"
+      or tag[0] == "Brass: Birmingham"
       or tag[0] == "CloudAge"
+      or tag[0] == "Compass Games"
       or tag[0] == "Cosmic Colonies"
       or tag[0] == "Curious Cargo"
-      or tag[0] == "D30 Sandbox Companion"
       or tag[0] == "Dados y Colonos"
       or tag[0] == "Dancing with Bullets Under a Neon Sun"
       or tag[0] == "Dune: Imperium"
       or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
       or tag[0] == "Ennie"
-      or tag[0] == "Etherfields"
       or tag[0] == "Everdell"
       or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Five Parsecs From Home"
-      or tag[0] == "Food Chain Island"
       or tag[0] == "Forbidden Lands"
-      or tag[0] == "Gaia Project"
+      or tag[0] == "Great War Commander"
       or tag[0] == "Hardback"
+      or tag[0] == "Iron Helm"
       or tag[0] == "Ironsworn: Delve"
       or tag[0] == "It's a Wonderful Kingdom"
-      or tag[0] == "Kickstarter"
-      or tag[0] == "Kingdom Death: Monster"
-      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Marvel Champions: The Card Game"
       or tag[0] == "Mombasa"
       or tag[0] == "Mothership"
@@ -109,11 +104,14 @@
       or tag[0] == "SCRAWL"
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Teotihuacán"
+      or tag[0] == "Terraforming Mars"
       or tag[0] == "The Gallerist"
       or tag[0] == "The Last Hundred Yards: Airborne Over Europe"
-      or tag[0] == "The Vast in the Dark"
+      or tag[0] == "TINYforming Mars"
+      or tag[0] == "Too Many Bones"
       or tag[0] == "Undaunted: North Africa"
       or tag[0] == "Verkami"
+      or tag[0] == "Village Builder"
       or tag[0] == "Waste Knights"
       or tag[0] == "Wicked Ones"
       or tag[0] == "Winter's Daughter"
@@ -138,14 +136,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2021/04/19/crowdfunding-0412-0418/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -154,7 +144,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/27/general-top-100-bgg-solitario-p4/" %}
+       {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -163,6 +153,14 @@
     <div class="image-container">
        {% for post in site.posts %}
        {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2021/03/27/general-top-100-bgg-solitario-p4/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
