@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Food Chain Island / Isla Animal"
 date:   2021-01-17
 categories: [Análisis, Print & play]
-tags: ["Food Chain Island", Isla Animal, Print & play]
+tags: ["Food Chain Island", Isla Animal, Print & play, Golden Geek]
 imghtml: https://cf.geekdo-images.com/_Zj858ai-PlnbTjXnzZBfg__imagepage/img/xWmBcoGhz8hi1b7YgbabKpWFwdQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5425050.png
 score: 3.5
 game: "Food Chain Island"
@@ -67,6 +67,8 @@ solamente con un superviviente"
     de 2.000$.</li>
     <li><strong>Salt & Pepper Games</strong> editará este juego en español; el
     título ha sido traducido como <strong>Isla Animal</strong>.</li>
+        <li>Nominado a <i>Mejor juego en solitario</i> en los
+    premios Golden Geek de 2020.</li>
          </ul>
      </div>
     </div>

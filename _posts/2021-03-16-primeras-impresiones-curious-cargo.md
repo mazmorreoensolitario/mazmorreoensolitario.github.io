@@ -3,7 +3,7 @@ layout: post
 title: "Primeras impresiones - Curious Cargo"
 date:   2021-03-16
 categories: [Primeras impresiones]
-tags: [Curious Cargo, Spiel Digital]
+tags: [Curious Cargo, Spiel Digital, Golden Geek]
 game: Curious Cargo
 imghtml: https://cf.geekdo-images.com/4EX-XaYzUK21jAl5L3KEUA__imagepage/img/pHCJM9ZULjRhszItuB7pr8c-eY0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5478785.jpg
 post_desc: "Curious Cargo es un juego tipo puzle en el que como propietarios
@@ -67,6 +67,8 @@ haciendo conexiones con losetas de tuberías"
     del 2020 que me quedé sin probar</a>.</li>
         <li>Tiene una caja extremadamente compacta, no nos han vendido una caja
         para guardar aire, así que genial y gracias.</li>
+            <li>Nominado a <i>Mejor juego de dos jugadores </i> en los
+    premios Golden Geek de 2020.</li>
          </ul>
          </div>
     </div>

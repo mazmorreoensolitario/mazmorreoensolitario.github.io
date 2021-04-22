@@ -3,7 +3,7 @@ layout: post
 title: "Primeras impresiones - Faiyum"
 date:   2021-02-13
 categories: [Primeras impresiones]
-tags: [Faiyum, Spiel Digital]
+tags: [Faiyum, Spiel Digital, Golden Geek]
 game: Faiyum
 crop: true
 imghtml: https://cf.geekdo-images.com/sl0ReaWGqY1LQjNoGtCPWg__imagepage/img/M9hKi_flOtVxnYKQXRaEO0S196c=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5638086.jpg
@@ -54,6 +54,8 @@ desarrollamos la región egipcia de Faiyum para conseguir el favor del faraón"
     href="{{site.baseurl}}/2020/12/27/general-juegos-que-no-jugamos-en-2020/">juegos
     del 2020 que no he podido probar</a> (¡hasta ahora que ya lo tengo!).</li>
     <li>Está hecho dentro de la Unión Europea (Alemania), así que genial.</li>
+    <li>Nominado a <i>Mejor juego de mesa de peso medio del año</i> en los
+    premios Golden Geek de 2020.</li>
          </ul>
          </div>
     </div>
