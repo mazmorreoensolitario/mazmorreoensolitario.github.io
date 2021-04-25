@@ -220,7 +220,7 @@ de Kevin Russ y publicado por <strong>Flatout Games</strong> (Maldito Games lo
     estoy escribiendo esta entrada estaría jugando a este juego, me encanta. No
     entiendo cómo este juego está en la categoría de "peso medio", para mí
     sería un peso duro, pero bueno, depende de los votos que le hayan puesto en
-    BGG. Es un juego muy bueno, y espero que Fiese siga sacando contenido para
+    BGG. Es un juego muy bueno, y espero que Friese siga sacando contenido para
     él.</p> 
     </div>
 </div>
@@ -1478,7 +1478,7 @@ de  y publicado por <strong></strong> de Heiko Günther, es un juego modular o s
 de Steven Aramini es un juego ambientado en la Segunda Guerra Mundial en el que
     eres un grupo de bombarderos. Deberás gestionar dados y tu tripulación
     durante una serie de operaciones.</p>
-    <p><strong>Comentario.</strong> Este es otro juego print & playu que está
+    <p><strong>Comentario.</strong> Este es otro juego print & play que está
     en mi pila para probar, pero este al menos está imprimido, toca recortar
         las cartas.</p>
     </div>
