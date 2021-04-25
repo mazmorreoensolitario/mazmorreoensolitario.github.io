@@ -5,11 +5,11 @@ date: 2021-04-25
 categories: [Noticias]
 tags: [Golden Geek, Tang Garden, Honey Buzz, "Rococo: Deluxe Edition", "Wingspan: Oceania Expansion", Wingspan, "Spirit Island: Jagged Earth", Spirit Island, "Root: The Underworld", Root, "Obsession: Upstairs Downstairs", Obsession, "Everdell: Spirecrest", Everdell, "Anachrony: Fractures of Time", Anachrony, Rollway Station, Rolling Realms, Bomber Boys, Blackbox, 7 Wonders Duel, Glasgow, Curious Cargo, Dwellings of Eldervale, Etherfields, Stellar, Versailles 1919, "Undaunted: North Africa", The Shores of Tripoli, "Caesar: Rome vs. Gaul", "Freedom!", All Bridges Burning, Forgotten Waters, "Chronicles of Crime: 1400", "Back to the Future: Back in Time", "Warp's Edge", Cielos de metal, Under Falling Skies, "Super-Skill Pinball: 4-Cade", "Root: The Clockwork", "Root: Los cachivaches", Root, Food Chain Island, Isla Animal, Viscounts of the West Kingdom, Vizcondes del Reino del Oeste, "Tekhenu: Obelisk of the Sun", "Tekhenu: El obelisco del sol", Praga Caput Regni, On Mars, Kanban EV, High Frontier 4 All, Hallertau, "Gloomhaven: Jaws of the Lion", Bonfire, The Search for Planet X, The Red Catedral, Pandemic Legacy, Oceans, Nidavellir, My City, Las Ruinas Perdidas de Arnak, Lost Ruins of Arnak, Fort, Faiyum, "Dune: Imperium", Calico, Beyond the Sun, Marvel United, Project L, "MicroMacro: Crime City"]
 general: ""
-imghtml: http://localhost:4000/images/golden-geek-20-crop.jpg
+imghtml: https://live.staticflickr.com/65535/51137889381_b29e54a99a_o.jpg
 post_desc: "Aquí tienes información sobre todos los juegos nominados a los Golden Geek de 2020 que pueden jugarse en solitario"
 ---
 
-![]({{site.baseurl}}/images/golden-geek-20.jpg)
+![](https://live.staticflickr.com/65535/51138665844_0557d3ce4b_o.jpg)
 
 ¡Vuelve una de las épocas más divertidas del año con los **Premios Golden
 Geek**!
