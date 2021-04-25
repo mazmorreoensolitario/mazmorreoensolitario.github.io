@@ -3,7 +3,7 @@ layout: post
 title: "Juegos en solitario: Premios Golden Geek de 2020"
 date: 2021-04-25
 categories: [Noticias]
-tags: [Golden Geek, Tang Garden, Honey Buzz, "Rococo: Deluxe Edition", "Wingspan: Oceania Expansion", Wingspan, "Spirit Island: Jagged Earth", Spirit Island, "Root: The Underworld", Root, "Obsession: Upstairs Downstairs", Obsession, "Everdell: Spirecrest", Everdell, "Anachrony: Fractures of Time", Anachrony, Rollway Station, Rolling Realms, Bomber Boys, Blackbox, 7 Wonders Duel, Glasgow, Curious Cargo, Dwellings of Eldervale, Etherfields, Stellar, Versailles 1919, "Undaunted: North Africa", The Shores of Tripoli, "Caesar: Rome vs. Gaul", "Freedom!", All Bridges Burning, Forgotten Waters, "Chronicles of Crime: 1400", "Back to the Future: Back in Time", "Warp's Edge", Cielos de metal, Under Falling Skies, "Super-Skill Pinball: 4-Cade", "Root: The Clockwork", "Root: Los cachivaches", Root, Food Chain Island, Isla Animal, Viscounts of the West Kingdom, Vizcondes del Reino del Oeste, "Tekhenu: Obelisk of the Sun", "Tekhenu: El obelisco del sol", Praga Caput Regni, On Mars, Kanban EV, High Frontier 4 All, Hallertau, "Gloomhaven: Jaws of the Lion", Bonfire, The Search for Planet X, The Red Catedral, Pandemic Legacy, Oceans, Nidavellir, My City, Las Ruinas Perdidas de Arnak, Lost Ruins of Arnak, Fort, Faiyum, "Dune: Imperium", Calico, Beyond the Sun, Marvel United, Project L, "MicroMacro: Crime City"]
+tags: [Golden Geek, Tang Garden, Honey Buzz, "Rococo: Deluxe Edition", "Wingspan: Oceania Expansion", Wingspan, "Spirit Island: Jagged Earth", Spirit Island, "Root: The Underworld", "Obsession: Upstairs Downstairs", Obsession, "Everdell: Spirecrest", Everdell, "Anachrony: Fractures of Time", Anachrony, Rollway Station, Rolling Realms, Bomber Boys, Blackbox, 7 Wonders Duel, Glasgow, Curious Cargo, Dwellings of Eldervale, Etherfields, Stellar, Versailles 1919, "Undaunted: North Africa", The Shores of Tripoli, "Caesar: Rome vs. Gaul", "Freedom!", All Bridges Burning, Forgotten Waters, "Chronicles of Crime: 1400", "Back to the Future: Back in Time", "Warp's Edge", Cielos de metal, Under Falling Skies, "Super-Skill Pinball: 4-Cade", "Root: The Clockwork", "Root: Los cachivaches", Root, Food Chain Island, Isla Animal, Viscounts of the West Kingdom, Vizcondes del Reino del Oeste, "Tekhenu: Obelisk of the Sun", "Tekhenu: El obelisco del sol", Praga Caput Regni, On Mars, Kanban EV, High Frontier 4 All, Hallertau, "Gloomhaven: Jaws of the Lion", Bonfire, The Search for Planet X, The Red Catedral, Pandemic Legacy, Oceans, Nidavellir, My City, Las Ruinas Perdidas de Arnak, Lost Ruins of Arnak, Fort, Faiyum, "Dune: Imperium", Calico, Beyond the Sun, Marvel United, Project L, "MicroMacro: Crime City"]
 general: ""
 imghtml: https://live.staticflickr.com/65535/51137889381_b29e54a99a_o.jpg
 post_desc: "Aquí tienes información sobre todos los juegos nominados a los Golden Geek de 2020 que pueden jugarse en solitario"
@@ -166,7 +166,7 @@ de Josh Wood y publicado por <strong>AEG</strong> (lo trae Delirium Games a
         class="img-thumbnail" alt="Calico">
     </div>
     <div class="col-md-9">
-        <h4><a href="">Calico</a></h4>
+        <h4><a href="https://amzn.to/3gDtiUg">Calico</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/283155/calico">Calico</a></strong>
 de Kevin Russ y publicado por <strong>Flatout Games</strong> (Maldito Games lo
@@ -185,7 +185,7 @@ de Kevin Russ y publicado por <strong>Flatout Games</strong> (Maldito Games lo
         class="img-thumbnail" alt="Dune: Imperium">
     </div>
     <div class="col-md-9">
-        <h4><a href="">Dune: Imperium</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/dire-wolf-digital/91444-dune-imperium-810058800008.html#ae447-11">Dune: Imperium</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/316554/dune-imperium">Dune: Imperium</a></strong>
         de Paul Dennen y publicado por <strong>Dire Wolf</strong>, es un juego
@@ -368,7 +368,7 @@ de Nick Bentley, Dominic Crapuchettes, Ben Goldman y Brian O'Neill y publicado
         class="img-thumbnail" alt="The Red Cathedral">
     </div>
     <div class="col-md-9">
-        <h4><a href="philibertnet.com/en/devir/90644-the-red-cathedral-8436589621046.html#ae447-11">The Red Cathedral</a></h4>
+        <h4><a href="https://philibertnet.com/en/devir/90644-the-red-cathedral-8436589621046.html#ae447-11">The Red Cathedral</a></h4>
          <p>En <strong><a
     href="https://boardgamegeek.com/boardgame/227224/red-cathedral">The Red Cathedral</a></strong>
         de Shei S. e Isra C., y publicado por <strong>Devir</strong>, juegas
