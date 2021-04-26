@@ -124,7 +124,7 @@ categorías.
             tag[0] == "Verkami" or tag[0] == "Gamefound" or
             tag[0] == "Traducciones" or
             tag[0] == "Boletín Informativo Solitario" or
-              tag == "El mes en juegos" %}
+              tag[0] == "El mes en juegos" %}
                 <span class="label label-warning"><strong>#<a class="tag-color"
                 href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
             {% else %}
