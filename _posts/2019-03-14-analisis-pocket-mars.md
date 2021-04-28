@@ -37,6 +37,7 @@ de proyectos, vamos a demostrar que están equivocados."
             href="https://amzn.to/2P19tqS">15€</a>
             (Español)</td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-4</td></tr>
+            <tr><td>Modo en solitario con bot</td><td></td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">20-30 mins</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Español / Inglés</td></tr>
          </table>

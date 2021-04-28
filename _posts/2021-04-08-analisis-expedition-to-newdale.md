@@ -32,6 +32,7 @@ que tratamos de construir cadenas de producción en edificios"
             <tr><td class="text-left"><strong>Precio:</strong></td><td
                 class="text-left"><a href="https://amzn.to/3kcTBA5">54.95€</a></td></tr> 
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-4</td></tr>
+            <tr><td>Tiene un modo en solitario</td><td></td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">30-40 mins</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés</td></tr>
 		    <tr><td class="text-left"><strong><strong>Dependencia del

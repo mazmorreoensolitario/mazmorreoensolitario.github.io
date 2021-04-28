@@ -31,6 +31,7 @@ en un patrón concreto en una cuadrícula"
             <tr><td class="text-left"><strong>Precio:</strong></td><td
     class="text-left"><a href="https://amzn.to/2YzrKSf">39.95€</a></td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-6</td></tr>
+            <tr><td>Tiene un modo en solitario</td><td></td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">5-15 mins</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td
             class="text-left">Español</td></tr>

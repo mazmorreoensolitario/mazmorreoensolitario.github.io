@@ -32,7 +32,9 @@ haciendo conexiones con losetas de tuberías"
         class="text-left"><a
     href="https://www.philibertnet.com/en/capstone-hk-ltd/91290-curious-cargo-850000576148.html#ae447-11">34.95€</a>/<a
     href="https://capstone-games.com/board-games/curious-cargo/">34.95$</a></td></tr>
-            <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-2*</td></tr>
+            <tr><td class="text-left"><strong>Número de
+    jugadores:</strong></td><td class="text-left">1-2*</td></tr>
+           <tr><td>Modo en solitario con bot</td><td></td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td
     class="text-left"> 30-60 mins</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td
@@ -206,7 +208,7 @@ partidas y compruebe cómo aguanta el paso de los meses; además, tengo que
 probar algo más el modo avanzado, que utiliza 3 tipos de productos en vez de
 dos. Así que las primeras impresiones son:
 
-En cuanto a **re-jugabilidad**... han conseguido empaquetar una gran
+En cuanto a la **re-jugabilidad**... han conseguido empaquetar una gran
 experiencia de juego en una caja enana y con muchas posibilidades. Os
 cuento. El setup es variable porque tienes seis tableros diferentes que
 elegir, las partidas se juegan igual, no hay reglas especiales por tablero, es

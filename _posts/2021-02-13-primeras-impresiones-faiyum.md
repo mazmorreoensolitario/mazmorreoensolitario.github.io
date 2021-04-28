@@ -31,7 +31,8 @@ desarrollamos la región egipcia de Faiyum para conseguir el favor del faraón"
             <tr><td class="text-left"><strong>Precio:</strong></td><td
         class="text-left"><a href="https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447-11">49.95€</a></td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-5</td></tr>
-            <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">~120 mins</td></tr>
+            <tr><td>Tiene un modo en solitario</td><td></td></tr>
+            <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">~2h</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td
             class="text-left">Inglés/Alemán</td></tr>
          </table>
