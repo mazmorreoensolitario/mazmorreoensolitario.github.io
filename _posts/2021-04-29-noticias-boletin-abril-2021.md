@@ -361,7 +361,7 @@ src="https://cf.geekdo-images.com/J_kJcqdFuZ3EXbTReRtPTg__imagepage/img/xZ3WGdLc
    Campaña de Kickstarter **el 17  de mayo**.
 
 <p align="center">
-<img height="500"
+<img height=""
 src="https://cf.geekdo-images.com/nWvTpT_yMtKs74aCzHGndg__imagepage/img/GtowHzwuUWuM8J41ygrqrDMj-w4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6099146.png"></p>
 
 * **[Maximum Apocalypse: Wasted
@@ -453,8 +453,8 @@ src="https://dtrpg-public-files.s3.us-east-2.amazonaws.com/images/480/352678.jpg
   4](https://www.drivethrurpg.com/product/352678/Mythic-Magazine-Volume-4?affiliate_id=1914894), que
   podéis conseguir en DrivethruRPG por 4.95$. 
   
-  En esta entrega se presentas ayudas y recomendaciones para hacer tus sesiones
-  de rol en solitario más divertidas y eficientes además de nuevos flowcharts
+  En esta entrega se presentan ayudas y recomendaciones para hacer tus sesiones
+  de rol en solitario más divertidas y eficientes, además de nuevos flowcharts
   para los libros de Mytic y Crafter.
 
 <p align="center">
@@ -475,7 +475,7 @@ src="https://dtrpg-public-files.s3.us-east-2.amazonaws.com/images/19132/_product
   o en tapa blanda por [Amazon](https://amzn.to/331CN7u) por 21€.
 
 <p align="center">
-<img height="500"
+<img height=""
 src="https://ksr-ugc.imgix.net/assets/033/210/807/b400ee5975a21c94b0e9d77e91c479a4_original.png?ixlib=rb-2.1.0&w=680&fit=max&v=1618963144&auto=format&frame=1&lossless=true&s=42f9b13adac8d3c95dd9fa382b930e83"></p> 
 
 * El **Kickstarter** de **[Ironsworn:
