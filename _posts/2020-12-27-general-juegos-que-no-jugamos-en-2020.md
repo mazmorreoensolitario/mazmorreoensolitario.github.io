@@ -424,7 +424,7 @@ momento u otro del año:
         class="img-thumbnail" alt="Curious Cargo">
     </div>
     <div class="col-md-9">
-        <h4><strong>2. <a href="https://www.philibertnet.com/en/capstone-hk-ltd/91290-curious-cargo-850000576148.html#ae447-11">Curious Cargo</a></strong></h4>
+        <h4><strong>2. <a href="https://amzn.to/3aLUZ9m">Curious Cargo</a></strong></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/312251/curious-cargo">Curious
     Cargo</a></strong> de <strong>Ryan Courtney</strong> y publicado por

@@ -1339,7 +1339,7 @@ de Michał Oracz y publicado por <strong>Awaken Realms</strong> es un dream craw
         class="img-thumbnail" alt="Curious Cargo">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/capstone-hk-ltd/91290-curious-cargo-850000576148.html#ae447-11">Curious Cargo</a></h4>
+        <h4><a href="https://amzn.to/3aLUZ9m">Curious Cargo</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/312251/curious-cargo">Curious Cargo</a></strong>
     de Ryan Courtney y publicado por <strong>Capstone Game</strong> (lo traerá
