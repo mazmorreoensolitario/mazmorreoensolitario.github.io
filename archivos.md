@@ -19,6 +19,7 @@ categorías.
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or
+        tag[0] == "Whitehack" or
         tag[0] == "The Vast in the Dark" or
         tag[0] == "Wicked Ones" or
         tag[0] == "Nuctemeron" or tag[0] == "Marrow & Splinters" or

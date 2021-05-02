@@ -69,6 +69,14 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
+       {% if post.url == "/2021/04/29/noticias-boletin-abril-2021/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
        {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -85,14 +93,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/27/general-top-100-bgg-solitario-p4/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -101,7 +101,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/09/03/analisis-crazy-taco/" %}
+       {% if post.url == "/2021/03/27/general-top-100-bgg-solitario-p4/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -117,7 +117,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
+       {% if post.url == "/2020/09/03/analisis-crazy-taco/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -125,7 +125,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/01/17/analisis-food-chain-island/" %}
+       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -138,78 +138,77 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Print & play"
-      or tag[0] == "Tops"
       or tag[0] == "Aeon's End"
       or tag[0] == "Boletín Informativo Solitario"
-      or tag[0] == "Faiyum"
-      or tag[0] == "Gamefound"
-      or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "Too Many Bones"
+      or tag[0] == "Cielos de metal"
+      or tag[0] == "Tops"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Ironsworn"
       or tag[0] == "Agricola"
+      or tag[0] == "Faiyum"
+      or tag[0] == "Ironsworn: Starforged"
+      or tag[0] == "Too Many Bones"
       or tag[0] == "Ardennes 44"
-      or tag[0] == "Concordia Solitaria"
-      or tag[0] == "Europa Universalis: The Price of Power"
+      or tag[0] == "Bonfire"
+      or tag[0] == "Everdell"
       or tag[0] == "Expansiópolis"
       or tag[0] == "Fábulas de Peluche"
+      or tag[0] == "Forbidden Lands"
       or tag[0] == "Gladiator Gauntlet"
-      or tag[0] == "Gloomhaven: Jaws of the Lion"
-      or tag[0] == "Ironsworn"
+      or tag[0] == "Gloomhaven"
+      or tag[0] == "Golden Geek"
+      or tag[0] == "Ironsworn: Delve"
       or tag[0] == "It's a Wonderful Kingdom"
+      or tag[0] == "Las Ruinas Perdidas de Arnak"
       or tag[0] == "Lorenzo il Magnifico"
       or tag[0] == "Teotihuacán"
       or tag[0] == "Terraforming Mars"
-      or tag[0] == "1066 Tears To Many Mothers"
-      or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "A Thousand Year Old Vampire"
       or tag[0] == "Alta Tension"
-      or tag[0] == "Arquitectos del Reino del Oeste"
-      or tag[0] == "Bios: Origins 2"
       or tag[0] == "Blades in the Dark"
       or tag[0] == "Bloodborne: The Board Game"
-      or tag[0] == "Bonfire"
       or tag[0] == "Calico"
-      or tag[0] == "Cielos de metal"
+      or tag[0] == "Concordia Solitaria"
       or tag[0] == "Cryo"
       or tag[0] == "Curious Cargo"
       or tag[0] == "Eldritch Horror"
-      or tag[0] == "Everdell"
+      or tag[0] == "Europa Universalis: The Price of Power"
       or tag[0] == "Expansión"
-      or tag[0] == "Fossilis"
-      or tag[0] == "Gloomhaven"
+      or tag[0] == "Gloomhaven: Jaws of the Lion"
       or tag[0] == "Goblivion"
-      or tag[0] == "Golden Geek"
       or tag[0] == "Hallertau"
       or tag[0] == "Heroes of Terrinoth"
       or tag[0] == "Imperium: Classics"
       or tag[0] == "Imperium: Legends"
-      or tag[0] == "Ironsworn: Starforged"
       or tag[0] == "La Granja"
+      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Legends Untold: Illumination of Deepsorrow"
+      or tag[0] == "Mad Monks of Kwantoom"
       or tag[0] == "Micro City"
       or tag[0] == "Mörk Borg"
       or tag[0] == "Mythic"
+      or tag[0] == "Old-School Essentials"
       or tag[0] == "One Deck Dungeon"
       or tag[0] == "Praga Caput Regni"
-      or tag[0] == "Res Arcana"
       or tag[0] == "Scarface 1920"
+      or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Sleepaway"
       or tag[0] == "Spirit Island: Jagged Earth"
-      or tag[0] == "Star Wars: Rebellion"
+      or tag[0] == "Stalingrad 42"
       or tag[0] == "Stress Botics"
       or tag[0] == "Suburbia"
       or tag[0] == "The 7th Citadel"
-      or tag[0] == "The Great Wall"
       or tag[0] == "The Pure Land"
       or tag[0] == "The Scourge of the Scorn Lords"
       or tag[0] == "The Siege of Runedar"
       or tag[0] == "The Vast in the Dark"
       or tag[0] == "Tin Helm"
       or tag[0] == "Tiny Towns"
-      or tag[0] == "Twilight Imperium"
-      or tag[0] == "Undaunted: Normandy"
+      or tag[0] == "Too Many Bones: Splice & Dice"
       or tag[0] == "Undaunted: North Africa"
       or tag[0] == "Unsurmountable"
       or tag[0] == "Verdant"
-      or tag[0] == "Wicked Ones"
+      or tag[0] == "Verkami"
       or tag[0] == "Wingspan"
       or tag[0] == "Zine Quest 2"
       or tag[0] == "Zine Quest" %}
