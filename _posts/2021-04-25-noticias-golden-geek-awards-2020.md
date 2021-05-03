@@ -69,7 +69,9 @@ de Andrea Chiarvesio y Eric M. Lang, y publicado por <strong>CMON</strong>, es
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3dRtInS">MicroMacro: Crime City</a></h4>
-         <p><strong><a
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Juego de mesa ligero del año!</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgame/318977/micromacro-crime-city">MicroMacro: Crime City</a></strong>
 de Johannes Sich y publicado por <strong>Edition Spielwiese</strong> (SD Games
     en España) es un juego en el que tienes que resolver crímenes buscando
@@ -91,7 +93,9 @@ de Johannes Sich y publicado por <strong>Edition Spielwiese</strong> (SD Games
     </div>
     <div class="col-md-9">
         <h4>Project L</h4>
-         <p><strong><a
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgame/260180/project-l">Project L</a></strong>
 de Michal Mikeš, Jan Soukal y Adam Spanel, y publicado por
     <strong>Boardcubator</strong>, es un juego el que tienes que resolver puzles
@@ -113,7 +117,9 @@ de Michal Mikeš, Jan Soukal y Adam Spanel, y publicado por
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3dNSbKU">Santa Monica</a></h4>
-         <p><strong><a
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgame/298065/santa-monica">Santa Monica</a></strong>
 de Josh Wood y publicado por <strong>AEG</strong> (lo trae Delirium Games a
     España), es un juego de drafting de cartas en el que tratas de crear el
@@ -167,7 +173,9 @@ de Josh Wood y publicado por <strong>AEG</strong> (lo trae Delirium Games a
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3gDtiUg">Calico</a></h4>
-         <p><strong><a
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgame/283155/calico">Calico</a></strong>
 de Kevin Russ y publicado por <strong>Flatout Games</strong> (Maldito Games lo
     trae a España), es un juego abstracto en el que tratas de colocar losetas en
@@ -186,7 +194,9 @@ de Kevin Russ y publicado por <strong>Flatout Games</strong> (Maldito Games lo
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/dire-wolf-digital/91444-dune-imperium-810058800008.html#ae447-11">Dune: Imperium</a></h4>
-         <p><strong><a
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgame/316554/dune-imperium">Dune: Imperium</a></strong>
         de Paul Dennen y publicado por <strong>Dire Wolf</strong>, es un juego
     basado en el libro de ciencia ficción Dune de Frank Herbert, en el que
@@ -254,7 +264,9 @@ de Kevin Russ y publicado por <strong>Flatout Games</strong> (Maldito Games lo
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/czech-games-edition/90531-lost-ruins-of-arnak-2100000712502.html#ae447-11">Las Ruinas Perdidas de Arnak</a></h4>
-         <p><strong><a
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Juego de mesa de peso medio del año!</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgame/312484/lost-ruins-arnak">Las Ruinas Perdidas de Arnak</a></strong>
         de Mín y Elwen, y publicado por <strong>Czech Games Edition</strong>
         (Devir en España), es un juego de construcción de mazos y colocación de
@@ -432,7 +444,9 @@ de Nick Bentley, Dominic Crapuchettes, Ben Goldman y Brian O'Neill y publicado
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3vfTU1y">Gloomhaven: Jaws of the Lion</a></h4>
-         <p><strong><a
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Juego de mesa de peso duro del año!</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion">Gloomhaven: Jaws of the Lion</a></strong>
         de Isaac Childres y publicado por <strong>Cephalofair Games</strong>, es
         un juego de aventuras estratégico que se juega en una campaña. En
@@ -531,7 +545,9 @@ de Nick Bentley, Dominic Crapuchettes, Ben Goldman y Brian O'Neill y publicado
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/eagle-gryphon-games/76285-on-mars-2100000612314.html#ae447-11">On Mars</a></h4>
-         <p>En <strong><a
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p>En <strong><a
     href="https://boardgamegeek.com/boardgame/184267/mars">On Mars</a></strong>
     de Vital Lacerda y publicado por <strong>Eagle-Gryphon Games</strong> (Maldito
     Games en España), estamos tratando de construir una colonia en Marte, con
@@ -598,7 +614,9 @@ de Nick Bentley, Dominic Crapuchettes, Ben Goldman y Brian O'Neill y publicado
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3aFkY2l">Vizcondes del Reino del Oeste</a></h4>
-         <p><strong><a
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgame/296151/viscounts-west-kingdom">Vizcondes del Reino del Oeste</a></strong>
     de Shem Phillips y S. J. Macdonald, y publicado por <strong>Garphill
     Games</strong> (Ediciones Primigenio en España), es un juego en el que
@@ -676,6 +694,8 @@ de Scott Almes y publicado por <strong>Button Shy</strong> (Salt & Papper Games
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3vfTU1y">Gloomhaven: Jaws of the Lion</a></h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p>Nominado también a <i>Mejor juego de peso duro del año, Mejor juego
     cooperativo y Mejor juego temático</i>.</p>
     </div>
@@ -689,7 +709,9 @@ de Scott Almes y publicado por <strong>Button Shy</strong> (Salt & Papper Games
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/czech-games-edition/90531-lost-ruins-of-arnak-2100000712502.html#ae447-11">Las Ruinas Perdidas de Arnak</a></h4>
-    <p>Nominado también a <i>Mejor juego de peso medio del año, Mejor juego temático, Mejor arte / presentación y
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p>Nominado también a <i>Mejor juego de peso medio del año, Mejor juego temático, Mejor arte / presentación y
     Juego más innovador</i>.</p>
     </div>
 </div>
@@ -756,7 +778,9 @@ de Benjamin Schmauss y Cole Wehrle, y publicado por <strong> Leder
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3gJ67YJ">Under Falling Skies / Cielos de metal</a></h4>
-         <p><strong><a
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego en solitario del año!</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgame/306735/under-falling-skies">Under Falling Skies / Cielos de metal</a></strong>
         de Tomáš Uhlíř  y publicado por <strong>Czech Games Edition</strong>
     (Devir en España), es un juego< en el que la humanidad ha sido obligada a
@@ -854,7 +878,9 @@ de David Cicurel y Wojciech Grajkowski,  y publicado por <strong>Lucky Duck
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3aBIBbW">Forgotten Waters</a></h4>
-         <p><strong><a
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgame/302723/forgotten-waters">Forgotten Waters</a></strong>
     de Isaac Vega, J. Arthur Ellis y Mr. Bistro,  y publicado por <strong>Plaid
     Hat Games</strong>, es un juego de aventuras en el que los jugadores son
@@ -873,6 +899,8 @@ de David Cicurel y Wojciech Grajkowski,  y publicado por <strong>Lucky Duck
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3vfTU1y">Gloomhaven: Jaws of the Lion</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego cooperativo del año!</strong></div>
         <p>Nominado también a <i>Mejor juego de peso duro del año, Mejor
         juego en solitario y Mejor juego temático</i>.</p>
     </div>
@@ -912,7 +940,9 @@ de David Cicurel y Wojciech Grajkowski,  y publicado por <strong>Lucky Duck
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3njVuwA">Pandemic Legacy: Season 0</a></h4>
-         <p>Nominado también a <i>Mejor juego de peso medio del año y Mejor juego temático</i>.</p>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p>Nominado también a <i>Mejor juego de peso medio del año y Mejor juego temático</i>.</p>
     </div>
 </div>
 
@@ -1057,7 +1087,9 @@ de Vangelis Bagiartakis y publicado por <strong>PHALANX</strong>, es un juego
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/32QeTeY">Undaunted: North Africa</a></h4>
-         <p><strong><a
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgame/290359/undaunted-north-africa">Undaunted: North Africa</a></strong>
     de  David Thompson y Trevor Benjamin, y publicado por <strong>Osprey
     Games</strong> (Do it games en España), es la continuación de la serie
@@ -1083,7 +1115,9 @@ de Vangelis Bagiartakis y publicado por <strong>PHALANX</strong>, es un juego
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/gmt/93406-versailles-1919-817054011957.html#ae447-11">Versailles 1919</a></h4>
-         <p><strong><a
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgame/253506/versailles-1919">Versailles 1919</a></strong>
 de Mark Herman y Geoff Engelstein, y publicado por <strong>GMT Games</strong>,
     es un juego ambientado durante las negociaciones para firmar el Tratado de
@@ -1105,7 +1139,9 @@ de Mark Herman y Geoff Engelstein, y publicado por <strong>GMT Games</strong>,
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/dire-wolf-digital/91444-dune-imperium-810058800008.html#ae447-11">Dune: Imperium</a></h4>
-         <p>Nominado también a <i>Mejor juego de peso medio del año, Mejor
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego de cartas!</strong></div>
+        <p>Nominado también a <i>Mejor juego de peso medio del año, Mejor
     juego en solitario, Mejor juego temático y Juego más innovador</i>.</p>
     </div>
 </div>
@@ -1119,7 +1155,9 @@ de Mark Herman y Geoff Engelstein, y publicado por <strong>GMT Games</strong>,
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/32JfUFM">Fort</a></h4>
-         <p>Nominado también a <i>Mejor juego de peso medio del año y Mejor arte / presentación</i>.</p>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p>Nominado también a <i>Mejor juego de peso medio del año y Mejor arte / presentación</i>.</p>
     </div>
 </div>
 
@@ -1144,6 +1182,8 @@ de Mark Herman y Geoff Engelstein, y publicado por <strong>GMT Games</strong>,
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3sNiJjH">Oceans</a></h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p>Nominado también a <i>Mejor juego de peso medio del año y Mejor arte
     / presentación</i>.</p>
     </div>
@@ -1208,6 +1248,8 @@ de Ben Pinchback y Matt Riddle, y publicado por <strong>Renegade Game
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/dire-wolf-digital/91444-dune-imperium-810058800008.html#ae447-11">Dune: Imperium</a></h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
     <p>Nominado también a <i>Mejor juego de peso medio del año, Mejor
     juego en solitario, Mejor juego de cartas y Juego más
     innovador</i>.</p>
@@ -1286,6 +1328,8 @@ de Michał Oracz y publicado por <strong>Awaken Realms</strong> es un dream craw
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3vfTU1y">Gloomhaven: Jaws of the Lion</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego temático del año!</strong></div>
         <p>Nominado también a <i>Mejor juego de peso duro del año, Mejor
         juego en solitario y Mejor juego cooperativo</i>.</p>
     </div>
@@ -1313,6 +1357,8 @@ de Michał Oracz y publicado por <strong>Awaken Realms</strong> es un dream craw
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/eagle-gryphon-games/76285-on-mars-2100000612314.html#ae447-11">On Mars</a></h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p>Nominado también a <i>Mejor juego de peso duro del año y Mejor arte / presentación</i>.</p>
     </div>
 </div>
@@ -1415,6 +1461,8 @@ de Michał Oracz y publicado por <strong>Awaken Realms</strong> es un dream craw
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/32QeTeY">Undaunted: North Africa</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego para dos jugadores!</strong></div>
         <p>Nominado también a <i>Mejor wargame</i>.</p>
     </div>
 </div> 
@@ -1429,7 +1477,9 @@ de Michał Oracz y publicado por <strong>Awaken Realms</strong> es un dream craw
     </div>
     <div class="col-md-9">
         <h4>7 Wonders Duel: Solo</h4>
-         <p><strong><a
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor print & play del año!</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/310215/7-wonders-duel-solo">7 Wonders Duel: Solo</a></strong>
     de Antoine Bauza y Bruno Cathala, y publicado por <strong>Repos
     Production</strong>, es una expansión para 7 Wonders Duel, un juego de
@@ -1525,7 +1575,9 @@ de Benjamin Gauthier, es un juego roll & write en el que tratas de representar
     </div>
     <div class="col-md-9">
         <h4>Rolling Realms</h4>
-         <p><strong><a
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgame/305682/rolling-realms">Rolling Realms</a></strong>
     de Jamey Stegmaier y publicado por <strong>Stonemaier Games</strong>, es un
     juego roll & write con nueve minijuegos diferentes.</p>
@@ -1659,7 +1711,9 @@ de Michael Boggs, Nate French yCaleb Grace,  y publicado por <strong>Fantasy
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3azL9aE">Root: The Underworld Expansion</a></h4>
-         <p><strong><a
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/272637/root-underworld-expansion">Root: The Underworld Expansion</a></strong>
 de Patrick Leder y Cole Wehrle, y publicado por <strong>Leder Games</strong>
     (2Tomatoes Games en España), es una expansión para Root que añade dos
@@ -1680,7 +1734,9 @@ de Patrick Leder y Cole Wehrle, y publicado por <strong>Leder Games</strong>
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3sQEU8D">Spirit Island: Jagged Earth</a></h4>
-         <p><strong><a
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/262722/spirit-island-jagged-earth">Spirit Island: Jagged Earth</a></strong>
 de R. Eric Reuss y publicado por <strong>Greater Than Games</strong> (Arrakis
     Games en España), es una expansión para Spirit Island con nuevos
@@ -1701,7 +1757,9 @@ de R. Eric Reuss y publicado por <strong>Greater Than Games</strong> (Arrakis
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3eyJROg">Wingspan: Oceania Expansion</a></h4>
-         <p><strong><a
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor expansión del año!</strong></div>
+        <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/300580/wingspan-oceania-expansion">Wingspan: Oceania Expansion</a></strong>
     de Elizabeth Hargrave y publicado por <strong>Stonemaier Games</strong>
     (Maldito Games en España), es una expansión para Wingspan que añade las
@@ -1726,6 +1784,8 @@ de R. Eric Reuss y publicado por <strong>Greater Than Games</strong> (Arrakis
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3gDtiUg">Calico</a></h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p>Nominado también a <i>Mejor juego de peso medio del año</i> y
         <i>Mejor juego en solitario</i>.</p>
     </div>
@@ -1798,6 +1858,8 @@ de R. Eric Reuss y publicado por <strong>Greater Than Games</strong> (Arrakis
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/czech-games-edition/90531-lost-ruins-of-arnak-2100000712502.html#ae447-11">Las Ruinas Perdidas de Arnak</a></h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p>Nominado también a <i>Mejor juego de peso medio del año, Mejor
         juego en solitario, Mejor juego temático y
         Juego más innovador</i>.</p>
@@ -1826,7 +1888,9 @@ de R. Eric Reuss y publicado por <strong>Greater Than Games</strong> (Arrakis
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/eagle-gryphon-games/76285-on-mars-2100000612314.html#ae447-11">On Mars</a></h4>
-        <p>Nominado también a <i>Mejor juego de peso duro del año y Mejor juego temático</i>.</p>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor arte / presentación del año!</strong></div>
+      <p>Nominado también a <i>Mejor juego de peso duro del año y Mejor juego temático</i>.</p>
     </div>
 </div>
 
@@ -1884,6 +1948,8 @@ de Francesco Testini, Pierluca Zizzi, y publicado por <strong>ThunderGryph
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/rio-grande/91289-beyond-the-sun-655132005807.html#ae447-11">Beyond the Sun</a></h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p>Nominado también a <i>Mejor juego de peso medio</i>.</p>
     </div>
 </div>
@@ -1947,6 +2013,8 @@ de Francesco Testini, Pierluca Zizzi, y publicado por <strong>ThunderGryph
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3dRtInS">MicroMacro: Crime City</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Juego más innovador!</strong></div>
         <p>Nominado también a <i>Mejor juego de peso ligero del año, Mejor
         juego en solitario y Mejor juego cooperativo</i>.</p>
     </div>
@@ -1964,15 +2032,30 @@ de Francesco Testini, Pierluca Zizzi, y publicado por <strong>ThunderGryph
     </div>
 </div>
 
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/NItjtztEUAKOpaTWZddu9A__imagepage/img/2_sT8RHP6g47NpEFuymwXfCZk_8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5744928.jpg"
+        class="img-thumbnail" alt="The Search for Planet X">
+    </div>
+    <div class="col-md-9">
+        <h4>The Search for Planet X</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
+        <p>Nominado también a <i>Mejor juego de peso medio del año</i>.</p>
+    </div>
+</div>
+
+
 ### Conclusiones
 
 En general, me apunto que tengo que leerme las reglas de <strong>Beyond the
 Sun</strong> tras descubrir que tiene un modo en solitario oficial en
-desarrollo, me alegro de que <strong>Faiyum</strong> y <strong>Curious Cargo</strong> estén nominados en sus
-categorías cada uno, ya que son dos juegos que me están gustando mucho y yo
-creo que son muy buenos, me apunto también que tengo que investigar sobre
-<strong>Glasgow</strong>, y otra vez me acuerdo de mi posible futura compra de
-<strong>On Mars</strong>.
+desarrollo, me alegro de que <strong>Faiyum</strong> y <strong>Curious
+Cargo</strong> estén nominados en sus categorías cada uno, ya que son dos
+juegos que me están gustando mucho y yo creo que son muy buenos, me apunto
+también que tengo que investigar sobre <strong>Glasgow</strong>, y otra vez me
+acuerdo de mi posible futura compra de <strong>On Mars</strong>.
 
 También creo que este año hemos tenido menos wargames interesantes (al menos
 del estilo de wargames que me gustan a mí), y ha pasado un poco lo mismo con la
@@ -1988,6 +2071,23 @@ Jaws of the Lion</strong>. No he jugado ni a Marvel United ni a Arnak, ni estoy
 opinando sobre lo que me parecen a mí los juegos, es solamente lo que yo creo
 que va a ganar. Ya veremos lo que pasa... y vosotros ¿qué creéis que va a ganar
 en cada categoría?
+
+#### Tras los resultados
+
+¡Bueno! He acertado 2/3 con la porra, no me hubiese imaginado que **MicroMacro**
+fuera a ganar en tantas categorías, la de juego más innovador la podía oler,
+pero no pensaba que fuera a ganar en otras tantas.
+
+**Under Falling Skies** ha ganado como mejor solitario, y bueno como antes era
+un juego print & play de 9 cartas compensa por el chasco que hemos tenido este
+año en esa categoría.
+
+El juego que ha ganado más galardones ha sido **Gloomhaven: Jaws of the Lion**,
+muy merecido, en wargames ha ganado uno que no soporta en juego en solitario,
+así que nos olvidamos de él y nos quedan **Undaunted: North Africa** y
+**Versailles 1919** como subcampeones; este último gran sorpresa para mí. 
+
+Y esto es todo vosotros, ¿habéis acertado en vuestra porra?
 
 <hr>
 
