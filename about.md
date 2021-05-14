@@ -17,7 +17,7 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
 # Sobre mí
 
 * Libros que estoy leyendo ahora: *[Down Among The
-  Dead](https://amzn.to/3w75Y5N)* de K. B. Wagers, *[Ardenas
+  Dead](https://amzn.to/3w1c6MK)* de K. B. Wagers, *[Ardenas
   1944](https://amzn.to/3fACxSx)* de Antony Beevor.
 * Siguiente/s libro/s en mi lista para leer: *[The Winter War: The Russo-Finish
   War of 1939-1940](https://amzn.to/3lajpfl)* de Willian R. Trotter,
