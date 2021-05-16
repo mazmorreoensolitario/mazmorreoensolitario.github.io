@@ -31,7 +31,7 @@ falta terraformar un planeta terriblemente frío, seco y casi sin atmósfera."
         <div class="col-md-6">
         <table class="table table-striped table-hover">
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2016</td></tr>
-            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left"><a href="https://amzn.to/2HD5Wxa">~45€</a></td></tr>
+            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left"><a href="https://amzn.to/3fq5uAK">~45€</a></td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-4</td></tr>
             <tr><td>Tiene un modo en solitario</td><td></td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">1h</td></tr>
