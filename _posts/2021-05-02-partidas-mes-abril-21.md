@@ -259,8 +259,8 @@ súper original.
 
 Además de la magia tiene otras vueltas de tuerca en relación a los personajes y
 sus habilidades, aún estoy leyendo esta parte, pero sigue siendo un sistema que
-utiliza los seis atributos clásicos (STR, DEX, WIS, INT y CON), además de un
-par de estadísticas más originales de Whitehack.
+utiliza los seis atributos clásicos (STR, DEX, WIS, INT, CHA y CON), además de
+un par de estadísticas más, originales de Whitehack.
 
 El mes pasado os comentaba que no sabía con qué iba a jugar a The Vast in the
 Dark cuando llegase, pero ahora creo que me gustaría probarlo con Whitehack.
