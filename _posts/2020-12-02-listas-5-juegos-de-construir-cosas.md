@@ -12,6 +12,12 @@ cumplen ese criterio"
 
 ![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20201201-5-juegos-en-solitario-de/juegos-construir-cosas.jpg)
 
+* **5 Juegos en solitario de 'construir cosas'** (estás aquí)
+* **[5 Juegos en solitario de 'batallitas o guerras']({{site.baseurl}}/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/)**
+* **[5 Juegos en solitario 'del espacio']({{site.baseurl}}/2021/05/16/listas-5-juegos-del-espacio/)**
+
+<hr>
+
 Un buen amigo me preguntó estos días por juegos que tuvieran modo en solitario
 de "constuir cosas", no hablamos de mecánicas, solamente que siguieran esa
 **temática de construcción**; había más restricciones en cuanto a cuáles podían

@@ -11,6 +11,12 @@ en concreto, esta vez tocan juegos que se puedan considerar como 'del espacio'"
 
 ![](https://live.staticflickr.com/65535/51183093598_98bd4920f7_b.jpg)
 
+* **[5 Juegos en solitario de 'construir cosas']({{site.baseurl}}/2020/12/02/listas-5-juegos-de-construir-cosas/)**
+* **[5 Juegos en solitario de 'batallitas o guerras']({{site.baseurl}}/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/)**
+* **5 Juegos en solitario 'del espacio'**  (estás aquí)
+
+<hr>
+
 En entradas anteriores de esta serie un buen amigo me había pedido
 **recomendaciones de juegos en solitario** de ["construir
 cosas"]({{site.baseurl}}/2020/12/02/listas-5-juegos-de-construir-cosas/) y de
