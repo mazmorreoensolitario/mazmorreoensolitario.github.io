@@ -16,9 +16,9 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
 
 # Sobre mí
 
-* Libros que estoy leyendo ahora: *[Down Among The
-  Dead](https://amzn.to/3w1c6MK)* de K. B. Wagers, *[Ardenas
-  1944](https://amzn.to/3fACxSx)* de Antony Beevor.
+* Libros que estoy leyendo ahora: *[Out Past The
+  Stars](https://amzn.to/2RuHuof)* de K.B. Wagers, *[Ardenas
+  944](https://amzn.to/3fACxSx)* de Antony Beevor. 
 * Siguiente/s libro/s en mi lista para leer: *[The Winter War: The Russo-Finish
   War of 1939-1940](https://amzn.to/3lajpfl)* de Willian R. Trotter,
   *[The Dying Earth](https://amzn.to/2V4HLMN)* de Jack Vance y
@@ -26,7 +26,8 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
 * Libros que he leído este 2021: *[The Unspoken Name](https://amzn.to/2HDA8d8)*
    de A. K. Larkwood, *[Dune](https://amzn.to/38MUviT)* de Frank Herbert, *[A
   Desolation Called Peace](https://amzn.to/3qwWLAe)* de Arkady Martine, *[There Before the
-  Chaos](https://amzn.to/3vJcz61)* de K. B. Wagers.
+  Chaos](https://amzn.to/3vJcz61)* de K. B. Wagers, *[Down Among The
+  Dead](https://amzn.to/3w1c6MK)* de K. B. Wagers.
 * Series que estoy viendo: For all mankind.
 * Videojuegos que ocasionalmente juego durante estos meses: Deep Sky Derelicts,
   Caves of Qud y Star Wars Battlefront II.
