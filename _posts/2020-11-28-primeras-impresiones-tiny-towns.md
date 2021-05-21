@@ -29,7 +29,7 @@ en un patrón concreto en una cuadrícula"
         <table class="table table-striped table-hover">
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2019</td></tr>
             <tr><td class="text-left"><strong>Precio:</strong></td><td
-    class="text-left"><a href="https://amzn.to/2YzrKSf">39.95€</a></td></tr>
+    class="text-left"><a href="https://amzn.to/3vdrYvC">39.95€</a></td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-6</td></tr>
             <tr><td>Tiene un modo en solitario</td><td></td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">5-15 mins</td></tr>
