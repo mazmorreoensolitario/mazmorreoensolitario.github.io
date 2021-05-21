@@ -263,7 +263,7 @@ de Kevin Russ y publicado por <strong>Flatout Games</strong> (Maldito Games lo
         class="img-thumbnail" alt="Las Ruinas Perdidas de Arnak">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/czech-games-edition/90531-lost-ruins-of-arnak-2100000712502.html#ae447-11">Las Ruinas Perdidas de Arnak</a></h4>
+        <h4><a href="https://amzn.to/3v9QvSr">Las Ruinas Perdidas de Arnak</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>¡Juego de mesa de peso medio del año!</strong></div>
         <p><strong><a
@@ -708,7 +708,7 @@ de Scott Almes y publicado por <strong>Button Shy</strong> (Salt & Papper Games
         class="img-thumbnail" alt="Las Ruinas Perdidas de Arnak">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/czech-games-edition/90531-lost-ruins-of-arnak-2100000712502.html#ae447-11">Las Ruinas Perdidas de Arnak</a></h4>
+        <h4><a href="https://amzn.to/3v9QvSr">Las Ruinas Perdidas de Arnak</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p>Nominado también a <i>Mejor juego de peso medio del año, Mejor juego temático, Mejor arte / presentación y
@@ -1342,7 +1342,7 @@ de Michał Oracz y publicado por <strong>Awaken Realms</strong> es un dream craw
         class="img-thumbnail" alt="Las Ruinas Perdidas de Arnak">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/czech-games-edition/90531-lost-ruins-of-arnak-2100000712502.html#ae447-11">Las Ruinas Perdidas de Arnak</a></h4>
+        <h4><a href="https://amzn.to/3v9QvSr">Las Ruinas Perdidas de Arnak</a></h4>
         <p>Nominado también a <i>Mejor juego de peso medio del año, Mejor
         juego en solitario, Mejor arte / presentación y
         Juego más innovador</i>.</p>
@@ -1857,7 +1857,7 @@ de R. Eric Reuss y publicado por <strong>Greater Than Games</strong> (Arrakis
         class="img-thumbnail" alt="Las Ruinas Perdidas de Arnak">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/czech-games-edition/90531-lost-ruins-of-arnak-2100000712502.html#ae447-11">Las Ruinas Perdidas de Arnak</a></h4>
+        <h4><a href="https://amzn.to/3v9QvSr">Las Ruinas Perdidas de Arnak</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p>Nominado también a <i>Mejor juego de peso medio del año, Mejor
@@ -1999,7 +1999,7 @@ de Francesco Testini, Pierluca Zizzi, y publicado por <strong>ThunderGryph
         class="img-thumbnail" alt="Las Ruinas Perdidas de Arnak">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/czech-games-edition/90531-lost-ruins-of-arnak-2100000712502.html#ae447-11">Las Ruinas Perdidas de Arnak</a></h4>
+        <h4><a href="https://amzn.to/3v9QvSr">Las Ruinas Perdidas de Arnak</a></h4>
 <p>Nominado también a <i>Mejor juego de peso medio del año, Mejor
         juego en solitario, Mejor juego temático y Mejor arte / presentación.</i>.</p>
     </div>
