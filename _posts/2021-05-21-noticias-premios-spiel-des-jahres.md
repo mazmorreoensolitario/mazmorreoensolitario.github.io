@@ -141,7 +141,7 @@ de Johannes Sich y publicado por <strong>Edition Spielwiese</strong> (SD Games
          <p><strong>Comentario.</strong> Hablamos de este juego también en los
     premios Golden Geek de este año, que no me interesaba mucho este juego, y
     de momento sigo sin cambiar de opinión. Si lo queréis es mejor que lo
-    compréis cuanto antes porque esta agotadísimo.</p>
+    compréis cuanto antes porque está agotadísimo.</p>
     </div>
 </div>
 
