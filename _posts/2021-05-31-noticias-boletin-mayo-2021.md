@@ -82,7 +82,7 @@ Ahora pasamos a las **noticias**:
   tu contrincante.
  
   <p align="center">
-  <img height="450"
+  <img height=""
   src="https://cf.geekdo-images.com/gVsaw5vOMgUdsu40lxrkxg__imagepage/img/Nxx_gw4WFiQQ-5u3dpqBl09w3zs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5826797.jpg"></p>
   
   **SpaceShipped** es un juego de comercio en el espacio en el que tendrás que
@@ -91,7 +91,7 @@ Ahora pasamos a las **noticias**:
  
  
   <p align="center">
-  <img height="450"
+  <img height=""
   src="https://cf.geekdo-images.com/w2GaFp9XHlHS9AHeUZqBIQ__imagepage/img/BK_etSdhs2b47uNonHgG9AymGl8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4551017.jpg"></p>
   
   **Antimony** es un juego para dos jugadores pero puedes jugarlo en solitario
@@ -100,7 +100,7 @@ Ahora pasamos a las **noticias**:
   Atimony compites contra otro hechicero por conseguir valiosos cristales.
  
   <p align="center">
-  <img height="450"
+  <img height=""
   src="https://cf.geekdo-images.com/ZjtUoQeNE6qzUG0ix_h6ww__imagepage/img/_fgwKTa_BUax2GYfBTbZ7MusR5M=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6153206.jpg"></p>
   
 * **Jamey Stegmaier**, al frente de **Stonemaier Games**
@@ -118,7 +118,7 @@ Ahora pasamos a las **noticias**:
     del trono.
 
  <p align="center">
-  <img height="450"
+  <img height=""
   src="https://mcusercontent.com/2777b74a865452d51307f14c5/images/e4458314-6903-c13b-6216-4feecc53a0b0.png"></p>
   
 * Desde **Board & Dice** [concretan](https://mailchi.mp/boardanddice/tabannusi)
@@ -131,7 +131,7 @@ Ahora pasamos a las **noticias**:
   la Gran Ciudad de Ur y conseguir reputación como los mejores constructores.
 
  <p align="center">
-  <img height="450"
+  <img height=""
   src="https://cf.geekdo-images.com/wW5xjgBJcFyLaEWZwrYuKA__imagepage/img/DUNPUEzMu1Elu0SNuqnTNDrUTLY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4583626.jpg"></p>
   
 * Siguiendo con **Board & Dice**, estos
@@ -142,7 +142,7 @@ Ahora pasamos a las **noticias**:
   enlace](https://www.dropbox.com/s/yc7q7rb9qwo7d3h/Teotihuacan_Rules_EN_book1.pdf?dl=0).
  
  <p align="center">
-  <img height="450"
+  <img height=""
   src="https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__imagepage/img/ZykdvPrRZ-BIDA59HPviWMc9TcE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5617866.jpg"></p>
  
 * **Ken Hill** de **Rio Grande Games** nos
@@ -161,7 +161,7 @@ Ahora pasamos a las **noticias**:
   salida estimada es final de año (2021)** pero podría sufrir cambios.
 
 <p align="center">
-  <img height="450"
+  <img height=""
   src="https://cf.geekdo-images.com/kGexCOF1dkNsc74_D7ncpA__imagepage/img/swE6vn_AznEtYBioc_eAVDgANXc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5904255.jpg"></p>
 
 * **Jason Glover**, autor al frente de **Grey Gnome Games**
@@ -176,7 +176,7 @@ Ahora pasamos a las **noticias**:
   criaturas.
 
 <p align="center">
-  <img height="450"
+  <img height=""
   src="https://cf.geekdo-images.com/oQhpQhMvyBxKF33TaMn9Qw__imagepage/img/aKhxw8iyxaV595IUV6nhskuClkA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2690992.png"></p>
 
 * **Maldito Games** tiene varios
@@ -184,7 +184,7 @@ Ahora pasamos a las **noticias**:
   este mes, editará **BRAZIL: Imperial** y **Cloudspire** en castellano.
 
   <p align="center">
-  <img height="450"
+  <img height=""
   src="https://cf.geekdo-images.com/sxX_DwEwPsWQncj5ebeq9Q__imagepage/img/niTka_H_Rkl03mJk6V6-TumbYpA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6113898.png"></p>
   
   **[BRAZIL:
@@ -197,7 +197,7 @@ Ahora pasamos a las **noticias**:
   los países rivales.
 
   <p align="center">
-  <img height="450"
+  <img height=""
   src="https://cf.geekdo-images.com/h6QX8IBDV-u0PnCIor_oSg__imagepage/img/_jqIRtJ4Y4ZB9ZVaR3XHxYKNjvc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4992443.png"></p>
 
   **[Cloudspire](https://boardgamegeek.com/boardgame/262211/cloudspire)**,
@@ -220,7 +220,7 @@ Ahora pasamos a las **noticias**:
   Cloudspire llegará a tiendas a lo largo de 2022.
 
 <p align="center">
-  <img height="450"
+  <img height=""
   src="https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__imagepagezoom/img/KSw9NO99xtXI2yKI9jp7yyWw6M0=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5674958.jpg"></p>
   
 * **Czech Games Edition**
@@ -233,7 +233,7 @@ Ahora pasamos a las **noticias**:
   web](https://czechgames.com/en/lost-ruins-of-arnak/solo/).
 
 <p align="center">
-  <img height="450"
+  <img height=""
   src="https://cf.geekdo-images.com/V62ulI0ifY0LIGocVuKCIQ__imagepage/img/XySpeHd4EeeMtj_tesymv7F8CpA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4043983.jpg"></p>
   
 * **Catch Up Games**, editorial francesa a cargo de **Reinos de Papel**
@@ -250,7 +250,7 @@ Ahora pasamos a las **noticias**:
   para finales de este año (2021)**.
 
 <p align="center">
-<img height="450" 
+<img height="" 
 src="https://pbs.twimg.com/media/E2fN9UcWYAMQIow?format=jpg&name=4096x4096"></p>
 
 * **Ludonova**
@@ -263,7 +263,7 @@ src="https://pbs.twimg.com/media/E2fN9UcWYAMQIow?format=jpg&name=4096x4096"></p>
   trascendido es que se trata de un juego tipo euro de peso medio.
 
 <p align="center">
-<img height="450" 
+<img height="" 
 src="https://cf.geekdo-images.com/gTxav_KKQK1rDg-XuCjCSA__imagepage/img/HFw75zB54wXu7tQFO5szmra6a3s=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5164812.jpg"></p>
 
 * **Leder Games** anuncia que las
@@ -293,7 +293,7 @@ src="https://compassgamesbucket.s3.us-east-2.amazonaws.com/2021/05/sniper_lid.jp
 
 
 <p align="center">
-<img height="450" 
+<img height="" 
 src="https://www.gmtgames.com/images/product/medium/935.jpg"></p>
 
 * Este mes **GMT Games**
@@ -311,7 +311,7 @@ src="https://www.gmtgames.com/images/product/medium/935.jpg"></p>
   historia siga su curso.
 
 <p align="center">
-<img height="450" 
+<img height="" 
 src="https://ksr-ugc.imgix.net/assets/033/643/770/f0e495b78eed4e22930e1d9ce3ffac0f_original.png?ixlib=rb-4.0.2&w=680&fit=max&v=1621936253&auto=format&frame=1&lossless=true&s=0318753647bbafa458d4e21e004282b8"></p>
   
 * **[HT Publishers](https://htpublishers.es/)** acaba de sacar una [campaña de
@@ -386,7 +386,7 @@ src="https://cf.geekdo-images.com/-YCd8scz_YAsjiprpQbMrA__imagepage/img/y7tPX-pW
 
 
 <p align="center">
-<img height="500"
+<img height=""
 src="https://cf.geekdo-images.com/UEbxipES7Fr4u9SdkUFG5w__imagepage/img/JLJKs2_kltIVKl-zaJaAs9X9WrI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6079056.jpg"></p>
 
 * En **[Squaring
@@ -490,7 +490,7 @@ Puerta Milenaria en las diferentes guerras.
 ## Juegos de rol
 
 <p align="center">
-<img height="450"
+<img height=""
 src="https://dtrpg-public-files.s3.us-east-2.amazonaws.com/images/480/356483.jpg"></p> 
 
 * **Tana Pigeon** vuelve a traernos otra entrega de su periódica revista de
@@ -503,7 +503,7 @@ src="https://dtrpg-public-files.s3.us-east-2.amazonaws.com/images/480/356483.jpg
   y generadores para bosques oscuros y lugares salvajes.
 
 <p align="center">
-<img height="450"
+<img height=""
 src="https://ksr-ugc.imgix.net/assets/033/549/831/3b1ea6ffa04081777a7aa9eb85deb945_original.jpg?ixlib=rb-4.0.2&w=700&fit=max&v=1621304064&auto=format&frame=1&q=92&s=0e4fb5310c510409e4d0479062ed220a"></p> 
 
 * Como parte de un stretch goal de la campaña de [Ironsworn:
