@@ -30,6 +30,7 @@ categorías.
         tag[0] == "The Scourge of the Scorn Lords" or
         tag[0] == "Twilight: 2000" or
         tag[0] == "Ironsworn: Starforged" or
+        tag[0] == "Ironsworn Worlds" or tag[0] == "Ironsworn Worlds: Sundered Isles" or
         tag[0] == "Starforged" or
         tag[0] == "Barrowmaze" or 
         tag[0] == "Forbidden Lands" or
