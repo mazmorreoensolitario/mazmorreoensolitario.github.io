@@ -381,7 +381,7 @@ src="https://cf.geekdo-images.com/u5SlvaDJQJ3HrhCbTCMysw__imagepage/img/pn5RNXti
    
 <p align="center">
 <img height="450"
-src="https://cdn.shopify.com/s/files/1/0225/4035/products/five-parsecs-from-home-solo-adventure-wargame-five-parsecs-modiphius-entertainment-617111.jpg?v=1616517117"></p>
+src="https://cdn.shopify.com/s/files/1/0225/4035/products/5PH-Rulebook-Cover-Front_500x.jpg?v=1619082059"></p>
 
 * **Modiphious Entertainment** saca a la venta una nueva edición de **[Five
   Parsecs From Home: Solo Adventure
