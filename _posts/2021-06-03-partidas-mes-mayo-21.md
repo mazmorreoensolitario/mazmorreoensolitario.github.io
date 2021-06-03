@@ -291,7 +291,7 @@ dos Kickstarters de [Zine Quest
 **Dungeoneering**, un pequeño juego de rol en solitario de mazmorreo y **The
 Haunted Hamlet and other hexes** unas localizaciones modulares para poder meter
 en cualquier hexcrawl o en una campaña a secas. Las estadísticas de los NPCs y
-monstrios de The Haunted Hamlet están preparadas para **Old-School
+monstruos de The Haunted Hamlet están preparadas para **Old-School
 Essentials**, que es otro Kickstarter que se ha retrasado (desde marzo), pero
 que parece que ya por fin se han puesto a enviar los libros y ya hay fotos de
 norteamericanos con libros por las redes, así que a los europeos nos queda poco.
@@ -302,7 +302,8 @@ norteamericanos con libros por las redes, así que a los europeos nos queda poco
 <img height=""
 src="https://ksr-ugc.imgix.net/assets/033/554/566/f0900b926194ffe40ef0db48ed6c3164_original.jpg?ixlib=rb-4.0.2&w=700&fit=max&v=1621336971&auto=format&frame=1&q=92&s=578e84ad4bf1c85f0564c0699e38270b"></p> 
 
-**Dungeoneering** de Nate Whittington (aún no ha salido a la venta para el
+**[Dungeoneering](https://www.kickstarter.com/projects/grinningratpub/dungeoneering?ref=mazmorreoensolitario)**
+de Nate Whittington (aún no ha salido a la venta para el 
 público general), es una zine centrada en la parte de exploración de mazmorras
 del rol, viene con unas reglas muy sencillas para generar personajes, tenemos
 cuatro roles diferentes: Warrior, Magician, Thief y Prophet; cuatro
@@ -318,7 +319,6 @@ mí me gusta hacer esa pequeña gestión de recursos porque hace todo más real.
 <img height=""
 src="https://live.staticflickr.com/65535/51223411509_b8f896ef37_o.png"></p> 
 <p align="center"><small>Arte de DC. Stow</small></p>
-
 
 La mayoría de la zine son tablas para generar mazmorras, encuentros, y también
 viene con una mazmorra de ejemplo, una lista de monstruos, hechizos y
@@ -341,10 +341,11 @@ src="https://dtrpg-public-files.s3.us-east-2.amazonaws.com/images/13218/359080.p
 
 **[The Haunted Hamlet and other
 hexes](https://www.drivethrurpg.com/product/359080/The-Haunted-Hamlet--and-other-hexes?affiliate_id=1914894)**
-de Lazy Lith, es otra zine que me llega como parte de Zine Quest 3, y es una
-pena que el Kickstarter de Old-School Essentials se esté retrasando ya tres
-meses, porque quería jugar en alguna de las localizaciones de esta zine con
-OSE. 
+de Lazy Litch, es otra zine que me llega como parte de Zine Quest 3, y es una
+pena que el
+[Kickstarter](https://www.kickstarter.com/projects/exaltedfuneral/old-school-essentials-advanced-fantasy)
+de Old-School Essentials se esté retrasando ya tres meses, porque quería jugar
+en alguna de las localizaciones de esta zine con OSE. 
 
 La zine está compuesta por cuatro hexes con un arte muy original, y hay
 muchísimo texto y tablas. Han metido el contenido bastante a presión pero la
