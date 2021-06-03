@@ -372,15 +372,17 @@ Kickstarter de [Ironsworn:
 Starforged](https://www.kickstarter.com/projects/shawntomkin/ironsworn-starforged)
 ya que mi intención con Ironsworn siempre ha sido probar el sistema para decidir si comprar Starforged o no, ya
 que las mecánicas con movimientos en el rol en solitario son un poco mmm
-¿diferentes? Hasta que leí [Blades in the Dark](https://www.drivethrurpg.com/product/170689/Blades-in-the-Dark el año pasado conocía de oídas
-que era eso de los movimientos al estilo PbtA, pero me costaba ver cómo se iba
-a enganchar mecánicamente con el rol en solitario, y más con un sistema ya
-preparado para el rol en solitario. Es decir, por un lado tenemos los oráculos
-del rol en solitario de toda la vida, que Ironsworn también tiene, y luego
-encima están los movimientos, así que cuando quiero que mi personaje haga algo
-no tengo que hacer de DM y pensar si un chequeo es necesario o no, sino que
-tengo que mirar si existe un movimiento para eso que quiero hacer y luego ya si
-eso a lo mejor preguntar a un oráculo algo.
+¿diferentes? Hasta que leí [Blades in the
+Dark](https://www.drivethrurpg.com/product/170689/Blades-in-the-Dark?affiliate_id=1914894)
+el año pasado conocía solamente de oídas qué era eso de los movimientos al
+estilo PbtA, pero me costaba ver cómo se iba a enganchar mecánicamente con el
+rol en solitario, y más con un sistema ya preparado para el rol en
+solitario. Es decir, por un lado tenemos los oráculos del rol en solitario de
+toda la vida, que Ironsworn también tiene, y luego encima están los
+movimientos, así que cuando quiero que mi personaje haga algo no tengo que
+hacer de DM y pensar si un chequeo es necesario o no, sino que tengo que mirar
+si existe un movimiento para eso que quiero hacer y luego ya si eso a lo mejor
+preguntar a un oráculo algo.
 
 Así escrito parece todo más claro, pero me ha costado llegar a ese punto :)
 
