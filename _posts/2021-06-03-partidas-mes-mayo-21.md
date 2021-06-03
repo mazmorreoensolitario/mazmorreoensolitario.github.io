@@ -369,7 +369,7 @@ la primera vez no me estaba aclarando mucho, y en esta segunda vez va mejor.
 
 Quería ponerme otra vez con Ironsworn de cara a decidir qué hacer con el
 Kickstarter de [Ironsworn:
-Starforged](https://www.kickstarter.com/projects/shawntomkin/ironsworn-starforged?affiliate_id=1914894)
+Starforged](https://www.kickstarter.com/projects/shawntomkin/ironsworn-starforged)
 ya que mi intención con Ironsworn siempre ha sido probar el sistema para decidir si comprar Starforged o no, ya
 que las mecánicas con movimientos en el rol en solitario son un poco mmm
 ¿diferentes? Hasta que leí [Blades in the Dark](https://www.drivethrurpg.com/product/170689/Blades-in-the-Dark el año pasado conocía de oídas
