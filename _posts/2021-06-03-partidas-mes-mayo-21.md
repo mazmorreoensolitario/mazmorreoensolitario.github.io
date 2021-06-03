@@ -369,10 +369,10 @@ la primera vez no me estaba aclarando mucho, y en esta segunda vez va mejor.
 
 Quería ponerme otra vez con Ironsworn de cara a decidir qué hacer con el
 Kickstarter de [Ironsworn:
-Starforged](https://www.kickstarter.com/projects/shawntomkin/ironsworn-starforged)
+Starforged](https://www.kickstarter.com/projects/shawntomkin/ironsworn-starforged?affiliate_id=1914894)
 ya que mi intención con Ironsworn siempre ha sido probar el sistema para decidir si comprar Starforged o no, ya
 que las mecánicas con movimientos en el rol en solitario son un poco mmm
-¿diferentes? Hasta que leí Blades in The Dark el año pasado conocía de oídas
+¿diferentes? Hasta que leí [Blades in the Dark](https://www.drivethrurpg.com/product/170689/Blades-in-the-Dark el año pasado conocía de oídas
 que era eso de los movimientos al estilo PbtA, pero me costaba ver cómo se iba
 a enganchar mecánicamente con el rol en solitario, y más con un sistema ya
 preparado para el rol en solitario. Es decir, por un lado tenemos los oráculos
