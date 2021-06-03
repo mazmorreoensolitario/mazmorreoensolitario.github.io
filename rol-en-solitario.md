@@ -24,11 +24,6 @@ en solitario.
 
 ### Análisis de juegos de rol
 
-* 19 Noviembre, 2020. [Beak, Feather &
-  Bone]({{site.baseurl}}/2020/11/19/rol-beak-feather-bone/).
-* 25 Abril, 2019. [Mothership: Player's survival
-  guide.]({{site.baseurl}}/2019/04/25/rol-mothership/)
-
 <div class="col-md-12">
 <div class="col-md-8">
 {% for category in site.categories %}
