@@ -460,7 +460,7 @@ Llegamos a la esperadísima sección final sobre los **premios Juego del mes**,
 en el que voy a otorgar el galardón al juego de mesa y juego de rol más
 destacado del mes.
 
-* **En juegos de mesa...** el ganador es **Terraformign Mars** porque sigue tan
+* **En juegos de mesa...** el ganador es **Terraforming Mars** porque sigue tan
   fuerte como siempre.
 
 * **En juegos de rol...** el ganador es **Seekers Beyond The Shroud** porque
