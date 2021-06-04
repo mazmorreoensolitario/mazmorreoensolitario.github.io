@@ -385,9 +385,11 @@ src="https://cdn.shopify.com/s/files/1/0225/4035/products/5PH-Rulebook-Cover-Fro
 
 * **Modiphious Entertainment** saca a la venta una nueva edición de **[Five
   Parsecs From Home: Solo Adventure
-  Wargaming](https://www.modiphius.net/products/five-parsecs-from-home)**, un
-  **wargame de minis en solitario** de temática espacial en el que juntas a tu
-  variopinto equipo de exploradores galácticos y sales a explorar las
+  Wargaming](https://www.modiphius.net/products/five-parsecs-from-home)** ([en
+  PDF
+  aquí](https://www.drivethrurpg.com/product/358938/Five-Parsecs-From-Home--Solo-Adventure-Wargaming)?affiliate_id=1914894),
+  un **wargame de minis en solitario** de temática espacial en el que juntas a
+  tu variopinto equipo de exploradores galácticos y sales a explorar las
   estrellas, hacer trabajitos y de vez en cuando te verás metido en
   escaramuzas. Este juego está disponible en **edición física con tapa dura más
   PDF por 25£**; recibirás el PDF tras hacer tu compra y los libros físicos se
