@@ -13,19 +13,6 @@ Consumo muy poco medio en castellano, ya que hago la mayoría de mi vida en
 inglés, por lo que la mayoría de los enlaces que vais a encontrar son sobre
 medios en inglés.
 
-### Blogs
-
-* [Beyond Solitaire](http://www.beyondsolitaire.net/) (juegos de mesa, inglés)
-* [Box of Delights](https://www.boxofdelights.net/) (juegos de mesa, inglés)
-* [Both Sides of My Table](https://bothsidesofmytable.com/) (juegos de mesa,
-  inglés)
-* [Cŕonicas de Soloburg](https://icampo28.wixsite.com/cronicasdesoloburg/)
-  (juegos de mesa, español)
-* [El Solitario Games](https://elsolitariogames.com) (juegos de mesa, español)
-* [Solitaire Times](https://www.solitairetimes.net/) (juegos de mesa, inglés)
-* **[The Eerie Space](https://eeriespace.github.io) (rol, inglés, este es
-  mi otro blog)**
-
 ### Canales de YouTube
 
 * [Ángel
@@ -79,6 +66,21 @@ medios en inglés.
   inglés)
 * [Ironsworn](https://discordapp.com/invite/8fpWH6J) (rol, inglés)
 * [Lone Wolf Roleplaying](https://discordapp.com/invite/jwYknJY) (rol, inglés)
+
+
+### Blogs
+
+* [Beyond Solitaire](http://www.beyondsolitaire.net/) (juegos de mesa, inglés)
+* [Box of Delights](https://www.boxofdelights.net/) (juegos de mesa, inglés)
+* [Both Sides of My Table](https://bothsidesofmytable.com/) (juegos de mesa,
+  inglés)
+* [Cŕonicas de Soloburg](https://icampo28.wixsite.com/cronicasdesoloburg/)
+  (juegos de mesa, español)
+* [El Solitario Games](https://icampo28.wixsite.com/cronicasdesoloburg/) (juegos de mesa, español)
+* [Solitaire Times](https://www.solitairetimes.net/) (juegos de mesa, inglés)
+* **[The Eerie Space](https://eeriespace.github.io) (rol, inglés, este es
+  mi otro blog)**
+
 
 ### Podcasts
 
