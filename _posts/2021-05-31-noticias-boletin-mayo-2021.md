@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: mayo 2021"
 date: 2021-05-31
 categories: [Noticias]
-tags: ["Boletín Informativo Solitario", Spiel des Jahres, "Oath: Chronicles of Empire and Exile", Triumvir, Shinkansen, "Exploradores de las Profundidades Sombrías", Rangers of Shadow Deep, Teotihuacán, Reinos de Papel, Las Ruinas Perdidas de Arnak, "BRAZIL: Imperial", "Cloudspire", "Ironsworn Worlds: Sundered Isles", Ironsworn Worlds,  Sniper Kill Confirmed, Gate, Beyond the Sun, "Tabannusi: Builders of Ur", "Between Two Castles: Secrets & Soirees", Between Two Castles of Mad King Ludwig, Mythic, Antimony, SpaceShipped, Arcane Bakery Clash]
+tags: ["Boletín Informativo Solitario", GMT Games, Compass Games, Spiel des Jahres, "Oath: Chronicles of Empire and Exile", Triumvir, Shinkansen, "Exploradores de las Profundidades Sombrías", Rangers of Shadow Deep, Teotihuacán, Reinos de Papel, Las Ruinas Perdidas de Arnak, "BRAZIL: Imperial", "Cloudspire", "Ironsworn Worlds: Sundered Isles", Ironsworn Worlds,  Sniper Kill Confirmed, Gate, Beyond the Sun, "Tabannusi: Builders of Ur", "Between Two Castles: Secrets & Soirees", Between Two Castles of Mad King Ludwig, Mythic, Antimony, SpaceShipped, Arcane Bakery Clash]
 imghtml: https://live.staticflickr.com/65535/51208058981_db792e12ff_b.jpg
 post_desc: "Boletín Informativo Solitario de mayo, novedades, lanzamientos,
 crowdfunding y mucho más"
