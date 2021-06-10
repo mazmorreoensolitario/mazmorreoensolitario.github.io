@@ -33,9 +33,14 @@ print & play que puedo recomendar:
   regla, me resulta más rápido hacer todo así. Las cizallas también puede que
   sean una buena opción, pero las calidades dejan bastante que desear.
   - [Cuchillo con tres recambios APLI](https://amzn.to/38V4Gm2)
-  - [Regla de acero](https://amzn.to/2UEXDFM)
+  - [Regla de aluminio](https://amzn.to/2RGX40f)
   - [Base para cortar APLI](https://amzn.to/36JRDRv)
 
+* Barajas de cartas tamaño póker. La forma más rápida de probar juegos print &
+  play es imprimir las cartas y ponerlas cada una en una funda, luego pones una
+  carta de póker detrás para que no quede endeble y listo.
+  - [Dos barajas Bicycle](https://amzn.to/3x5RRhi)
+  - [Fundas tamaño estándar (póker)](https://amzn.to/2TkQrRO)
 
 #### Índice alfabético de juegos
 
