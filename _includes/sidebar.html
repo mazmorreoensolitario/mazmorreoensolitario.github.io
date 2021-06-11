@@ -62,14 +62,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/06/03/partidas-mes-mayo-21/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -86,15 +78,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/05/31/noticias-boletin-mayo-2021/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
+       {% if post.url == "/2021/06/03/partidas-mes-mayo-21/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -118,7 +102,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/04/30/noticias-golden-geek-awards-2019/" %}
+       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -126,7 +110,23 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/09/07/root-en-solitario/" %}
+       {% if post.url == "/2021/04/29/noticias-boletin-abril-2021/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2021/05/31/noticias-boletin-mayo-2021/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2021/05/16/listas-5-juegos-del-espacio/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -153,9 +153,10 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Forbidden Lands"
       or tag[0] == "Tops"
+      or tag[0] == "Cielos de metal"
+      or tag[0] == "Kickstarter"
       or tag[0] == "1066 Tears To Many Mothers"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
-      or tag[0] == "Kickstarter"
       or tag[0] == "Ironsworn: Starforged"
       or tag[0] == "Ironsworn"
       or tag[0] == "Agricola"
@@ -171,16 +172,23 @@
       or tag[0] == "Marvel Champions: The Card Game"
       or tag[0] == "Merv: The Heart of the Silk Road"
       or tag[0] == "MicroMacro: Crime City"
+      or tag[0] == "Mörk Borg"
       or tag[0] == "Reinos de Papel"
+      or tag[0] == "Root"
+      or tag[0] == "Star Wars: Imperial Assault"
+      or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "Undaunted: North Africa"
       or tag[0] == "7 Wonders Duel"
       or tag[0] == "Agropolis"
       or tag[0] == "Arkham Horror: The Card Game"
       or tag[0] == "Arquitectos del Reino del Oeste"
+      or tag[0] == "Barrage"
+      or tag[0] == "Barrowmaze"
       or tag[0] == "Boletín Informativo Solitario"
       or tag[0] == "Brass: Birmingham"
       or tag[0] == "Compass Games"
       or tag[0] == "Cuentos de ánimas"
+      or tag[0] == "Dados y Colonos"
       or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "Dwellings of Eldervale"
       or tag[0] == "Europa Universalis: The Price of Power"
@@ -191,27 +199,31 @@
       or tag[0] == "Food Chain Island"
       or tag[0] == "GMT Games"
       or tag[0] == "Great Western Trail"
+      or tag[0] == "Imperium: Classics"
       or tag[0] == "Labyrinth Lord"
       or tag[0] == "Legends Untold: Illumination of Deepsorrow"
       or tag[0] == "Marrow & Splinters"
-      or tag[0] == "Mörk Borg"
+      or tag[0] == "Nemesis"
       or tag[0] == "Nidavellir"
       or tag[0] == "On Mars"
       or tag[0] == "OSR"
       or tag[0] == "Paladines del Reino del Oeste"
+      or tag[0] == "Print & play"
+      or tag[0] == "Race for the Galaxy"
       or tag[0] == "Res Arcana"
+      or tag[0] == "Rol"
       or tag[0] == "Root: Los Cachivaches"
+      or tag[0] == "Root: The Clockwork"
       or tag[0] == "Root: The Underworld"
-      or tag[0] == "Root"
       or tag[0] == "Scythe: El Auge de Fenris"
+      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Solitaire Print & Play Design Contest"
-      or tag[0] == "Star Wars: Imperial Assault"
       or tag[0] == "Stellar Horizons"
       or tag[0] == "Suburbia"
-      or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "Terraforming Mars"
       or tag[0] == "The 7th Continent"
       or tag[0] == "The City of Kings"
+      or tag[0] == "The Vast in the Dark"
       or tag[0] == "Trilemma Adventures"
       or tag[0] == "Vaults of Vaarn"
       or tag[0] == "Wingspan"
@@ -272,7 +284,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/01/06/analisis-spires-end/" %}
+       {% if post.url == "/2019/07/23/analisis-orchard/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>3. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -280,7 +292,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/07/23/analisis-orchard/" %}
+       {% if post.url == "/2021/01/06/analisis-spires-end/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>4. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -288,7 +300,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/07/05/analisis-reinos-de-papel-mas-alla-de-las-puertas/" %}
+       {% if post.url == "/2018/11/05/analisis-mini-rogue/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>5. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
