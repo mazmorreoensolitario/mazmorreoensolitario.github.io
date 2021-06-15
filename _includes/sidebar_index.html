@@ -47,81 +47,84 @@
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
       {% for tag in site.tags %}
-      {% if tag[0] == "Forbidden Lands"
-      or tag[0] == "Cielos de metal"
-      or tag[0] == "Tainted Grail: La caída de Ávalon"
-      or tag[0] == "Ironsworn"
+      {% if tag[0] == "Cielos de metal"
       or tag[0] == "Five Parsecs From Home"
-      or tag[0] == "Marvel Champions: The Card Game"
+      or tag[0] == "Forbidden Lands"
+      or tag[0] == "Ironsworn"
+      or tag[0] == "Tainted Grail: La caída de Ávalon"
+      or tag[0] == "Kickstarter"
       or tag[0] == "Tops"
       or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Dancing with Bullets Under a Neon Sun"
       or tag[0] == "Golden Geek"
       or tag[0] == "Iron Helm"
-      or tag[0] == "Kickstarter"
       or tag[0] == "Kingdom Rush: Rift In Time"
+      or tag[0] == "Marvel Champions: The Card Game"
       or tag[0] == "Res Arcana"
+      or tag[0] == "1066 Tears To Many Mothers"
+      or tag[0] == "Aeon's End"
       or tag[0] == "Ambon: Burning Sun & Little Seagulls"
-      or tag[0] == "Anachrony"
-      or tag[0] == "Crónicas del Crimen"
+      or tag[0] == "Barrage"
       or tag[0] == "Disciples of Bone and Shadow"
-      or tag[0] == "Europa Universalis: The Price of Power"
       or tag[0] == "Exploradores de las Profundidades Sombrías"
+      or tag[0] == "Great War Commander"
       or tag[0] == "Ironsworn: Starforged"
       or tag[0] == "Lock 'n Load Publishing"
       or tag[0] == "Mörk Borg"
+      or tag[0] == "Nemesis"
       or tag[0] == "Old-School Essentials"
       or tag[0] == "On Mars"
       or tag[0] == "Print & play"
       or tag[0] == "Robinson Crusoe"
       or tag[0] == "Root: The Clockwork"
+      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "The City of Kings"
       or tag[0] == "Undaunted: Normandy"
       or tag[0] == "Undaunted: North Africa"
       or tag[0] == "Zine Quest"
-      or tag[0] == "1066 Tears To Many Mothers"
-      or tag[0] == "Aeon's End"
+      or tag[0] == "7 Wonders Duel"
       or tag[0] == "Agricola"
       or tag[0] == "All Bridges Burning"
       or tag[0] == "Alta Tension"
-      or tag[0] == "Arkham Horror: The Card Game"
       or tag[0] == "Arquitectos del Reino del Oeste"
-      or tag[0] == "Barrage"
       or tag[0] == "Barrowmaze"
       or tag[0] == "Brass: Birmingham"
       or tag[0] == "Clanes de Caledonia"
-      or tag[0] == "Compass Games"
+      or tag[0] == "Crónicas del Crimen"
+      or tag[0] == "Curious Cargo"
       or tag[0] == "D30 Sandbox Companion"
       or tag[0] == "Dados y Colonos"
       or tag[0] == "El mes en juegos"
+      or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
+      or tag[0] == "Europa Universalis: The Price of Power"
       or tag[0] == "Expansiópolis"
       or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Faiyum"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
       or tag[0] == "GMT Games"
-      or tag[0] == "Great War Commander"
+      or tag[0] == "Hallertau"
       or tag[0] == "High Frontier 4 All"
       or tag[0] == "Imperium: Classics"
-      or tag[0] == "Marrow & Splinters"
+      or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Maracaibo"
       or tag[0] == "Mythic"
-      or tag[0] == "Nemesis"
       or tag[0] == "One Page Dungeon"
+      or tag[0] == "Origins: First Builders"
+      or tag[0] == "Pax Pamir"
       or tag[0] == "Pico, Pluma & Hueso"
       or tag[0] == "Race for the Galaxy"
       or tag[0] == "Rol"
       or tag[0] == "Root"
       or tag[0] == "Scythe: El Auge de Fenris"
       or tag[0] == "Scythe"
-      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Solar Blades & Cosmic Spells"
       or tag[0] == "Star Wars: Imperial Assault"
       or tag[0] == "Star Wars: Rebellion"
-      or tag[0] == "Suburbia"
-      or tag[0] == "The 7th Continent"
       or tag[0] == "The Vast in the Dark"
       or tag[0] == "Undaunted: Reinforcemens"
+      or tag[0] == "Viticulture Essential Edition"
       or tag[0] == "World at War 85: Storming the Gap"
-      or tag[0] == "Zine Quest 3" %}
+      or tag[0] == "Zombicide: 2nd Edition" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
                                                    href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
@@ -157,7 +160,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/06/03/partidas-mes-mayo-21/" %}
+       {% if post.url == "/2021/03/27/general-top-100-bgg-solitario-p4/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -165,7 +168,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/27/general-top-100-bgg-solitario-p4/" %}
+       {% if post.url == "/2021/06/03/partidas-mes-mayo-21/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -181,14 +184,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -197,7 +192,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/05/16/analisis-desolate/" %}
+       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -205,7 +200,15 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
+       {% if post.url == "/2021/06/14/crowdfunding-0607-0613/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
