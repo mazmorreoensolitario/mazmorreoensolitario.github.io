@@ -69,7 +69,9 @@ haciendo conexiones con losetas de tuberías"
         <li>Tiene una caja extremadamente compacta, no nos han vendido una caja
         para guardar aire, así que genial y gracias.</li>
             <li>Nominado a <i>Mejor juego de dos jugadores </i> en los
-    premios Golden Geek de 2020.</li>
+    <a
+    href="{{site.baseurl}}/2021/04/25/noticias-golden-geek-awards-2020/">premios
+    Golden Geek</a> de 2020.</li>
          </ul>
          </div>
     </div>

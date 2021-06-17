@@ -96,7 +96,7 @@ Mayor. También <strong>te los recomiendo sin dudas.</strong></p>
 
 <h3> 4 monedas</h3>
 <div class="col-md-12">
-<p><strong>¡Este juego es genial! Voy a jugar otra vez ya mismo.</strong>
+<p><strong>¡Este juego es genial!</strong>  Voy a jugar otra vez ya mismo.
 Juegos muy muy buenos, también quiero jugar otra vez según he terminado la
 partida, pero a lo mejor no en el mismo día. <strong>Recomendados.</strong></p>
 
@@ -225,7 +225,7 @@ aburridos.</p>
 
 <h3> 1.5 monedas</h3>
 <div class="col-md-12">
-<p><strong>Creo que prefiero hacer otra cosa.</strong>Como dice el título, creo
+<p><strong>Creo que prefiero hacer otra cosa.</strong> Como dice el título, creo
 que prefiero hacer alguna otra actividad de ocio antes que jugar a estos
 juegos, no conectan conmigo.</p>
 
