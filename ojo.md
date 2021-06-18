@@ -85,4 +85,5 @@ en solitario que *igual* aparecen en algún momento en el blog:
     edición](https://amzn.to/2Q3Ve6n), [2](https://amzn.to/33ztQ43),
     [3](https://amzn.to/2OmHV1K), [4](https://amzn.to/36JEas6),
     [5](https://amzn.to/2NX9hrF), [6](https://amzn.to/34IDPnC)))
+41. [elese](https://amzn.to/3gh1MKe)
 {: reversed="reversed"}
