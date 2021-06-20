@@ -45,6 +45,8 @@ una facción asimétrica en busca de la victoria"
     <li>Fue financiado gracias a una campaña de <a
     href="https://www.kickstarter.com/projects/2074786394/root-a-game-of-woodland-might-and-right">Kickstarter</a>,
     que en noviembre de 2017 consiguió más de 630.000$.</li>
+        <li>Fue ganador de los premios "Juego del año", "Juego más innovador",
+        "Mejor juego temático", "Mejor juego estratégico" y "Mejor arte" en los Golden Geek de 2018.</li>
              <li>Para jugar a este juego en solitario necesitas la expansión
              <strong>The Clockwork</strong>, de la que te hablo abajo.</li>
          </ul>
