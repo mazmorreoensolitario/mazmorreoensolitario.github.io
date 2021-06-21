@@ -588,17 +588,18 @@ que el juego se diferencie solamente con un vistazo de cualquier otro.
 La maquetación de las cartas y tableros es muy clara y directa. Solo tengo
 buenas palabras en este apartado, gráficamente genial, los mapas y cartas están
 doblemente codificados para que además de un color se les asigne un símbolo y
-así si tenéis problemas de visión podáis ver el icono, las cartas son claras,
+así si tenéis problemas de visión podáis ver el icono. Las cartas son claras y
 los tableros tienen todo resumido para que no tengas que acordarte de cada
 regla específica de la facción. Genial.
 
-Lo único que os puedo comentar del apartado gráfico es que tarde como medio año
+Lo único que os puedo comentar del apartado gráfico es que tardé como medio año
 en darme cuenta que el objeto de las monedas eran monedas, yo no tenía ni idea
 de qué podía ser, me parecía como una especie de cubo o papelera, ya que no
 entraba en mi cabeza que pudieras "construir" monedas. Otro chascarrillo es que
 en las fichas de simpatía (las verdes redondas) yo veía como manos de zombies
-cortadas, porque son verdes y tienen como triángulos rojos, pero luego me di
-cuenta de que efectivamente eran guantes.
+cortadas, porque son verdes y tienen unos triángulos rojos que parecían sangre,
+pero luego me di cuenta de que efectivamente eran guantes. No hay zombies ni
+sangre en Root.
 
 Las calidades de los componentes son muy buenas, los tableros tienen un acabado
 así que imita al acabado lino de las cartas, las propias cartas tienen acabado
@@ -619,7 +620,7 @@ muchas cosas a la vez dependiendo de con quién juegues y contra quién
 juegues. Hay unos pilares básicos que se mantienen en cada partida, tienes que
 fabricar cosas, puedes usar cartas, para fabricar debes colocar ciertas fichas
 en el mapa, hay batallas, para moverte tienes que dominar alguno de los claros
-fuente o destino... Pero aunque tenga todas esas cosas comunes es muy
+origen o destino... Pero aunque tenga todas esas cosas comunes es muy
 diferente.
 
 Cuando juegas con la Marquesa se entiende toda la lucha entre las facciones más
@@ -679,13 +680,13 @@ partida a cuatro en la que puede pasar de todo dependiendo de qué facción
 elijas. Así que dependiendo de qué Root te apetezca en un determinado momento,
 tienes muchos Roots diferentes para elegir. Esto se traduce en una
 re-jugabilidad altísima, y gracias a las diferentes cartas de dificultad y
-diferentes rasgos que puedes poner también tienes mucha escalabilidad en cuanto
-a la dificultad que pueden tener los bots.
+diferentes rasgos que puedes poner a los bots, también tienes mucha
+escalabilidad en cuanto a la dificultad que pueden tener los bots.
 
-Una de las mayores sorpresas que me dio este juego es que las partidas a tres,
-que es mi número favorito para jugar por eso de que pueden convertirse en un
-dos contra uno a tu contra, y así tenemos más salseo, es que las partidas
-duran unos 50 minutos, máximo una hora. Así que no es un juego que requiera
+Una de las mayores sorpresas que me dio este juego es que las partidas a tres
+—que es mi número favorito para jugar por eso de que pueden convertirse en un 
+dos contra uno a tu contra, y así tenemos más salseo— es que estas duran unos
+50 minutos, máximo una hora. Así que no es un juego que requiera 
 que tengas muchísimo tiempo para él y te deja baldado, sino que te permite
 jugar dos partidas seguidas y sigues estando bien. Yo diría que es un peso
 medio, aunque BGG se decanta por un peso medio-alto.
@@ -700,7 +701,8 @@ con el Vagabundo es cuando busco un juego más de aventuras y menos de batallas.
 **¿Cómo sé si me puede gustar a mí este juego?** Si buscas un juego con mucha
 re-jugabilidad, te justa jugar "a lo mismo" pero "no con lo mismo" y explorar
 diferentes formas de ganar a un juego, buscas algo con confrontación, pero a la
-vez a veces no quieres ser tú el blanco directo, este puede que sea tu juego.
+vez a veces no quieres ser tú el blanco directo en todo momento, este puede que
+sea tu juego.
 
 **En resumidas cuentas,** gracias al toque asimétrico y las diferentes
 combinaciones de facciones y número de bots contra los que puedes jugar, Root
