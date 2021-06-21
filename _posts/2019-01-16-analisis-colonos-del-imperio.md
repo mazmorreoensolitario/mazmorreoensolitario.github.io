@@ -479,6 +479,6 @@ Pero, en resumidas cuentas, es un juego genial y pecamos de pedirle que su
 genialidad dure más tiempo.
 
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 4 de 5
-monedas. **¡Este juego es genial! Voy a jugar otra vez ya mismo.** 
+monedas. **¡Este juego es genial!** 
 
 

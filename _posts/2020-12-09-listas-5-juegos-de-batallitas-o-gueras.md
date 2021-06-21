@@ -318,6 +318,9 @@ Aquí está mi selección:
     mayoría de ellos de la forma peculiar de tu facción, así que vas a tener
     que jugar como se te pide y tratarás de pescar puntos extra de las otras
     dos formas comunes de conseguir puntos.</p>
+    <p>Aquí tienes un <a
+    href="{{site.baseurl}}/2021/06/21/analisis-root/">análisis detallado</a>
+    del juego y de su expansión para jugar en solitario.</p>
         <img
     src="https://live.staticflickr.com/65535/50700207481_8eba1a21e2_b.jpg">
     <p><small>Root y expansión Clockwork</small></p>

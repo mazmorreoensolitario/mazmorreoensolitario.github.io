@@ -637,7 +637,7 @@ siguientes años y que va a ganar mucho más reconocimiento, ya estáis tardando
 en darle una oportunidad.
 
 <img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
-4 de 5 monedas. **¡Este juego es genial! Voy a jugar otra vez ya mismo.**
+4 de 5 monedas. **¡Este juego es genial!**
 
 ### Consejos para jugar
 

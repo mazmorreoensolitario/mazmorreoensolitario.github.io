@@ -425,6 +425,6 @@ primer turno, y si superas en primer turno, estará siempre al acecho para
 tratar de ganarte. Es el rival perfecto para jugadores en solitario.
 
 <img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 4 de 5
-monedas. **¡Este juego es genial! Voy a jugar otra vez ya mismo.** 
+monedas. **¡Este juego es genial!** 
 
 
