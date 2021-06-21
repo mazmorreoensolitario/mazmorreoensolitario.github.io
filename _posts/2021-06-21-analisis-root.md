@@ -467,12 +467,12 @@ máximo.
 
 En la alianza hay que diferenciar entre las cartas que tengáis en vuestra mano
 como jugador y la cartas de los Simpatizantes, que se colocan en el tablero
-dentro del rectángulo de *Supporters*. Para colocar marcadores de simpatía hay
+dentro del rectángulo de *Supporters*. Para colocar fichas de simpatía hay
 que descartar cartas de Simpatizantes y el palo de esos simpatizantes deberá
-coincidir con el palo del claro en el que queramos colocar el marcador. 
+coincidir con el palo del claro en el que queramos colocar la ficha. 
 
 En un turno cualquiera primero trataremos de hacer una Revuelta, que es una
-acción muy poderosa, para poder conseguirlo tenemos que tener un marcador de
+acción muy poderosa, para poder conseguirlo tenemos que tener una ficha de
 simpatía en el claro y descartar dos Simpatizantes del mismo palo que el
 claro. Si se cumple todo esto y no hemos colocado una base del mismo palo (las
 fichas cuadradas), podemos hacer la revuelta, que nos permite quitar TODAS las
