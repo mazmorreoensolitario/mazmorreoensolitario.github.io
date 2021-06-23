@@ -124,6 +124,8 @@ También por orden alfabético:
   (rol, inglés)
 * [Heavy Cardboard](https://www.youtube.com/channel/UCnuxFrI7_2mBmeay2R5FhXg)
   (juegos de mesa, inglés)
+* [Justegarde](https://www.youtube.com/user/unforgivingedges/featured)
+  (wargames, inglés)
 * [Questing Beast](https://www.youtube.com/channel/UCvYwePdbWSEwUa-Pk02u3Zw)
   (rol, inglés)
 * [Marco Omnigamer](https://www.youtube.com/channel/UCqjObEZh6BQw2xpgMjPZ7qg)

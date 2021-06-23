@@ -30,9 +30,9 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
   Stars](https://amzn.to/2RuHuof)* de K.B. Wagers, *[The
    Traitor](https://amzn.to/3wxbLBx)* de Seth Dickinso, *[The
    Unbroken](https://amzn.to/3u6sBWl)* de C.L. Clark.
-* Series que estoy viendo: Invincible, For all mankind.
+* Series que estoy viendo: [Invincible](https://www.primevideo.com/?tag=mazmorreo-21), For all mankind.
 * Videojuegos que ocasionalmente juego durante estos meses: Deep Sky Derelicts,
-  Caves of Qud y Star Wars Battlefront II.
+  Caves of Qud y [Star Wars Battlefront II](https://amzn.to/2TQNQz5).
 
 
 # Sobre el blog
