@@ -743,8 +743,8 @@ que creo que les vaya a dar una oportunidad en el futuro:
   timeline de twitter. En este juego eres el último superviviente de una nave
   espacial intergaláctica de rescate, The Wretched, que ha sido atacada por un
   forma de vida alienígena y ahora se encuentra a la deriva. Usando una baraja
-  francesa, un dado d6 y fichas, robarás cartas que te narran los diferentes
-  eventos que van pasando dentro de la nave. 
+  francesa, un dado d6 y [bloques de madera](https://amzn.to/3zSdLqK), robarás
+  cartas que te narran los diferentes eventos que van pasando dentro de la nave. 
   
   Este juego también ha conseguido que sus reglas se conviertan en un marco,
   llamado *Wretched & Alone* que engloba juegos de horror, aislamiento y

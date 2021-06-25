@@ -4,13 +4,13 @@ title: "Guía de wargames en solitario: Premios Charles S. Roberts de 2019"
 date: 2020-11-07
 categories: [Noticias]
 tags: ["Charles S. Roberts Awards", Fields of Fire, "World at War 85: Storming the Gap", "Multi-Man Publishing", White Dog Games, Vuca Simulations, Compass Games, Peloponnesian War, "UBOOT: The Board Game", "Nevsky: Teutons and Rus in Collision", GMT Games, Worthington Publishing, Decision Games, Hollandspiele, "Lock 'n Load Publishing"]
-imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20201107-charles-s-roberts/charles-s-roberts-awards.jpg
+imghtml: https://live.staticflickr.com/65535/51269501081_39f914f9c7_c.jpg
 general: ""
 post_desc: "Guía de wargames en solitario de entre todas las nominaciones a los
 premios Charles S. Roberts Awards de wargames de 2019"
 ---
 
-![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20201107-charles-s-roberts/charles-s-roberts-awards.jpg)
+![](https://live.staticflickr.com/65535/51269501081_39f914f9c7_c.jpg)
 
 Los **[Premios Charles
 S. Roberts](https://charlieawards.wordpress.com/2019-charles-s-roberts-nominees-and-awards/)**
