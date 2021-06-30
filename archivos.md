@@ -13,7 +13,8 @@ categorías.
 <span class="label label-success"><strong>concursos y premios</strong></span>,
 <span class="label label-info"><strong>eventos y ferias</strong></span>,
 <span class="label label-warning"><strong>general</strong></span>
-<span class="label label-danger"><strong>rol</strong></span>.
+<span class="label label-danger"><strong>rol</strong></span>,
+<span class="label label-grey"><strong>wargames</strong></span>.
 
 <p class="text-left">
 {% assign sorted_tags = site.tags | sort %}
@@ -142,9 +143,61 @@ categorías.
                     href="/etiqueta/{{tag[0] | slugify:
                     "latin"}}">{{tag[0]}}</a></strong></span> 
                 {% else %}
+                    {% if
+                        tag[0] == "Compass Games" or 
+                        tag[0] == "Decision Games" or
+                        tag[0] == "GMT Games" or
+                        tag[0] == "Hollandspiele" or
+                        tag[0] == "Lock 'n Load Publishing" or
+                        tag[0] == "Multi-Man Publishing" or
+                        tag[0] == "NAC Wargames" or
+                        tag[0] == "Revolution Games" or
+                        tag[0] == "VUCA Simulations" or
+                        tag[0] == "White Dog Games" or
+                        tag[0] == "Worthington Publishing" or
+                        tag[0] == "Across the Bug River: Volodymyr-Volynskyi 1941" or
+                        tag[0] == "Advanced Squad Leader: Starter Kit" or
+                        tag[0] == "All Bridges Burning" or
+                        tag[0] == "Ambon: Burning Sun & Little Seagulls" or
+                        tag[0] == "Ardennes 44" or
+                        tag[0] == "Cataclysm: A Second World War" or
+                        tag[0] == "Crossing the Line: Aachen 1944" or
+                        tag[0] == "El Imperio del Sol" or
+                        tag[0] == "Empire of the Sun" or
+                        tag[0] == "Exploradores de las Profundidades Sombrías" or
+                        tag[0] == "Fields of Fire" or
+                        tag[0] == "Five Parsecs From Home" or
+                        tag[0] == "Gettysburg" or
+                        tag[0] == "Great War Commander" or
+                        tag[0] == "Hannibal's Revenge" or
+                        tag[0] == "Hitler's Reich" or
+                        tag[0] == "Nevsky: Teutons and Rus in Collision" or
+                        tag[0] == "Pavlov's House" or
+                        tag[0] == "Peloponnesian War" or
+                        tag[0] == "Rangers of Shadow Deep" or
+                        tag[0] == "Red Dust Rebellion" or
+                        tag[0] == "Santander 37" or
+                        tag[0] == "Sniper Kill Confirmed" or
+                        tag[0] == "Space Empires" or
+                        tag[0] == "Stalingrad 42" or
+                        tag[0] == "The Dark Valley" or
+                        tag[0] == "he Last Hundred Yards" or
+                        tag[0] == "The Last Hundred Yards: Airborne Over Europe" or
+                        tag[0] == "he Plum Island Horror" or
+                        tag[0] == "The Pure Land" or
+                        tag[0] == "The Shores of Tripoli" or
+                        tag[0] == "Thunder in the East" or
+                        tag[0] == "Triumvir" or
+                        tag[0] == "Versailles 1919" or
+                        tag[0] == "World at War 85: Storming the Gap" %}
+                        <span class="label label-grey"><strong>#<a class="tag-color"
+                    href="/etiqueta/{{tag[0] | slugify:
+                    "latin"}}">{{tag[0]}}</a></strong></span> 
+                {% else %}
                     <span class="label label-primary"><strong>#<a class="tag-color"
                     href="/etiqueta/{{tag[0] | slugify:
                     "latin"}}">{{tag[0]}}</a></strong></span> 
+                {% endif %}
                 {% endif %}
             {% endif %}
         {% endif %}

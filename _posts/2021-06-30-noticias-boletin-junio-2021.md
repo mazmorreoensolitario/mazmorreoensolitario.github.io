@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: junio 2021"
 date: 2021-06-30
 categories: [Noticias]
-tags: ["Boletín Informativo Solitario", "Legends Untold: Illumination of Deepsorrow", Legends Untold, Essen Spiel 2021, Shinkansen, Orquesta Negra, NAC Wargames, GMT Games, Compass Games, "Caesar!", "Lost Ruins of Arnak: Expedition Leaders", "Lost Ruins of Arnak", "Dune: House of Secrets", Now or Never, Mythic, Free Ride, "Gloomhaven: Fauces del León", "Gloomhaven: Jaws of the Lion", Whistle Mountain, Ironsworn, The Plum Island Horror, Rangers of Shadow Deep, Exploradores de las Profundidades Sombrías, Charles S. Roberts Awards, Lands of Galzyr, Lost in the Deep, Path of Light and Shadow, Mazescape, Earthborne Rangers, PARKS, "PARKS: Nightfall", It's a Wonderful Kingdom, Messina 1347, Arkham Horror, "Arkham Horror: The Card Game", Dig Down Dwarf]
+tags: ["Boletín Informativo Solitario", Las Ruinas Perdidas de Arnak, "Across the Bug River: Volodymyr-Volynskyi 1941", VUCA Simulations, "Legends Untold: Illumination of Deepsorrow", Legends Untold, Essen Spiel 2021, Shinkansen, Orquesta Negra, NAC Wargames, GMT Games, Compass Games, "Caesar!", "Lost Ruins of Arnak: Expedition Leaders", "Lost Ruins of Arnak", "Dune: House of Secrets", Now or Never, Mythic, Free Ride, "Gloomhaven: Fauces del León", "Gloomhaven: Jaws of the Lion", Whistle Mountain, Ironsworn, The Plum Island Horror, Rangers of Shadow Deep, Exploradores de las Profundidades Sombrías, Charles S. Roberts Awards, Lands of Galzyr, Lost in the Deep, Path of Light and Shadow, Mazescape, Earthborne Rangers, PARKS, "PARKS: Nightfall", It's a Wonderful Kingdom, Messina 1347, Arkham Horror, "Arkham Horror: The Card Game", Dig Down Dwarf]
 imghtml: https://live.staticflickr.com/65535/51234041179_cd5a10d55f_b.jpg
 post_desc: "Boletín Informativo Solitario de junio, con todas las novedades,
 lanzamientos, crowdfunding y mucho más"
@@ -458,6 +458,26 @@ Ahora pasamos a las **noticias**:
   nivel de Cuerpo/Grupo de ejército todo el Frente Oriental de la Segunda
   Guerra Mundial. Se añade también un nuevo mapa que cubre Finlandia y parte
   del oeste de Rusia y un escenario con la batalla de Kursk.
+
+  <p align="center">
+  <img height="450"
+  src="https://cf.geekdo-images.com/HwWDk1h3DYV9JbuuhgWexg__imagepage/img/WhKGGlzUoho8hpGk7ItyQCk59yY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5894591.jpg"></p>
+
+* La editorial de wargames alemana **VUCA Simulations** saca a la venta [Across
+  the Bug River: Volodymyr-Volynskyi
+  1941](https://boardgamegeek.com/boardgame/327723/across-bug-river-volodymyr-volynskyi-1941)
+  un nuevo título basado en el sistema de [Crossing the Line: Aachen
+  1944](https://boardgamegeek.com/boardgame/267661/crossing-line-aachen-1944).
+  
+  **Across the Bug River** es un wargame operacional sobre los primeros días de
+  la lucha de la Operación Barbaroja de la Segunda Guerra Mundial en la región
+  Volodymyr-Volynskyi.
+  
+  El juego viene con un mapa montado, 4 planchas de fichas previamente
+  redondeas, hojas de ayuda, hojas de setup y manuales. Puedes conseguir
+  **Across the Bug River** en la [página web de la
+  editorial](https://vucasims.com/products/across-the-bug-river-volodymyr-volynskyi-1941)
+  por 64.99€.
 
   <p align="center">
   <img height="" 

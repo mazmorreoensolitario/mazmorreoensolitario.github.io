@@ -174,8 +174,59 @@ layout: default_container
               <span class="label label-info"><strong>#<a class="tag-color"
               href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></strong></span> 
               {% else %}
-              <span class="label label-primary"><strong>#<a class="tag-color"
+              {% if tag == "Compass Games" or 
+              tag == "Decision Games" or
+              tag == "GMT Games" or
+              tag == "Hollandspiele" or
+              tag == "Lock 'n Load Publishing" or
+              tag == "Multi-Man Publishing" or
+              tag == "NAC Wargames" or
+              tag == "Revolution Games" or
+              tag == "VUCA Simulations" or
+              tag == "White Dog Games" or
+              tag == "Worthington Publishing" or
+              tag == "Across the Bug River: Volodymyr-Volynskyi 1941" or
+              tag == "Advanced Squad Leader: Starter Kit" or
+              tag == "All Bridges Burning" or
+              tag == "Ambon: Burning Sun & Little Seagulls" or
+              tag == "Ardennes 44" or
+              tag == "Cataclysm: A Second World War" or
+              tag == "Crossing the Line: Aachen 1944" or
+              tag == "El Imperio del Sol" or
+              tag == "Empire of the Sun" or
+              tag == "Exploradores de las Profundidades Sombrías" or
+              tag == "Fields of Fire" or
+              tag == "Five Parsecs From Home" or
+              tag == "Gettysburg" or
+              tag == "Great War Commander" or
+              tag == "Hannibal's Revenge" or
+              tag == "Hitler's Reich" or
+              tag == "Nevsky: Teutons and Rus in Collision" or
+              tag == "Pavlov's House" or
+              tag == "Peloponnesian War" or
+              tag == "Rangers of Shadow Deep" or
+              tag == "Red Dust Rebellion" or
+              tag == "Santander 37" or
+              tag == "Sniper Kill Confirmed" or
+              tag == "Space Empires" or
+              tag == "Stalingrad 42" or
+              tag == "The Dark Valley" or
+              tag == "he Last Hundred Yards" or
+              tag == "The Last Hundred Yards: Airborne Over Europe" or
+              tag == "he Plum Island Horror" or
+              tag == "The Pure Land" or
+              tag == "The Shores of Tripoli" or
+              tag == "Thunder in the East" or
+              tag == "Triumvir" or
+              tag == "Versailles 1919" or
+              tag == "World at War 85: Storming the Gap" %}
+                 <span class="label label-grey"><strong>#<a class="tag-color"
+                    href="/etiqueta/{{tag | slugify:
+                    "latin"}}">{{tag}}</a></strong></span> 
+                 {% else %}
+                 <span class="label label-primary"><strong>#<a class="tag-color"
               href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></strong></span> 
+              {% endif %}
               {% endif %}
               {% endif %}
               {% endif %}
