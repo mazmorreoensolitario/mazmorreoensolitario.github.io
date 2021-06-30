@@ -79,3 +79,14 @@ $on-laptop:        800px;
 	font-size: 15px;
 	border-left: 5px solid #c7254e;
 }
+
+.label-grey {
+    background-color: #808080;
+    hover: #000000;
+}
+
+.sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
