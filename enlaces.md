@@ -114,6 +114,7 @@ También por orden alfabético:
 
 #### Canales de YouTube
 
+* [Agustí Barrio](https://www.youtube.com/user/Haplopro/videos) (wargames, español)
 * [Bud's RPG review](https://www.youtube.com/channel/UC88H-wLe8GKfeyVlewUAnSQ)
   (rol, inglés)
 * [Centurion's
