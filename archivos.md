@@ -161,6 +161,7 @@ categorías.
                         tag[0] == "Ambon: Burning Sun & Little Seagulls" or
                         tag[0] == "Ardennes 44" or
                         tag[0] == "Cataclysm: A Second World War" or
+                        tag[0] == "Caesar: Rome vs. Gaul" or
                         tag[0] == "Crossing the Line: Aachen 1944" or
                         tag[0] == "El Imperio del Sol" or
                         tag[0] == "Empire of the Sun" or
