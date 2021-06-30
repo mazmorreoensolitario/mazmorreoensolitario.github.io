@@ -19,6 +19,7 @@ categorías.
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or
+        tag[0] == "Lost in the Deep" or
         tag[0] == "Vaults of Vaarn" or tag[0] == "Dungeoneering" or
         tag[0] == "Whitehack" or
         tag[0] == "The Vast in the Dark" or
@@ -135,6 +136,7 @@ categorías.
                 or tag[0] == "Spiel Digital"
                 or tag[0] == "Essen Spiel"
                 or tag[0] == "Essen Spiel 2019"
+                or tag[0] == "Essen Spiel 2021"
                 or tag[0] == "UKGE" %}
                     <span class="label label-info"><strong>#<a class="tag-color"
                     href="/etiqueta/{{tag[0] | slugify:
