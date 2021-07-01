@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: Vuca Simulations"
-tag: "Vuca Simulations"
+title: "Etiqueta: VUCA Simulations"
+tag: "VUCA Simulations"
 ---
