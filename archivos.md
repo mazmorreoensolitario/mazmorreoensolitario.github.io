@@ -20,7 +20,7 @@ categorías.
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or
-        tag[0] == "Lost in the Deep" or
+        tag[0] == "Lost in the Deep" or tag[0] == "The Drain" or
         tag[0] == "Vaults of Vaarn" or tag[0] == "Dungeoneering" or
         tag[0] == "Whitehack" or
         tag[0] == "The Vast in the Dark" or
