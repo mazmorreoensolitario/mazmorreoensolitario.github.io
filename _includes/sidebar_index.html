@@ -48,82 +48,78 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Root: Los Cachivaches"
+      or tag[0] == "All Bridges Burning"
       or tag[0] == "Tops"
       or tag[0] == "Boletín Informativo Solitario"
-      or tag[0] == "All Bridges Burning"
-      or tag[0] == "Burgle Bros 2: The Casino Capers"
-      or tag[0] == "Hollandspiele"
-      or tag[0] == "Res Arcana"
-      or tag[0] == "Compass Games"
       or tag[0] == "High Frontier 4 All"
-      or tag[0] == "Kickstarter"
-      or tag[0] == "Labyrinth Lord"
-      or tag[0] == "Mythic"
-      or tag[0] == "Pico, Pluma & Hueso"
-      or tag[0] == "Scarlet Heroes"
-      or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Hollandspiele"
+      or tag[0] == "Anachrony"
       or tag[0] == "Brass: Birmingham"
+      or tag[0] == "Compass Games"
+      or tag[0] == "Dune: Imperium"
+      or tag[0] == "Mythic"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Aeon's End"
+      or tag[0] == "Agricola"
+      or tag[0] == "Burgle Bros 2: The Casino Capers"
       or tag[0] == "Dwellings of Eldervale"
+      or tag[0] == "Earthborne Rangers"
       or tag[0] == "Europa Universalis: The Price of Power"
       or tag[0] == "Exploradores de las Profundidades Sombrías"
       or tag[0] == "Five Parsecs From Home"
       or tag[0] == "Freedom!"
-      or tag[0] == "GMT Games"
+      or tag[0] == "Ironsworn"
+      or tag[0] == "Pico, Pluma & Hueso"
       or tag[0] == "Print & play"
+      or tag[0] == "Rol"
+      or tag[0] == "Scarlet Heroes"
       or tag[0] == "Scythe"
+      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Stress Botics"
       or tag[0] == "Suburbia"
-      or tag[0] == "Terraforming Mars"
       or tag[0] == "The Vast in the Dark"
       or tag[0] == "VUCA Simulations"
       or tag[0] == "Welcome Hacia el Perfecto Hogar"
       or tag[0] == "1066 Tears To Many Mothers"
+      or tag[0] == "A Rasp of Sand"
       or tag[0] == "Across the Bug River: Volodymyr-Volynskyi 1941"
-      or tag[0] == "Aeon's End"
-      or tag[0] == "Agricola"
-      or tag[0] == "Alone Among the Stars"
-      or tag[0] == "Anachrony"
       or tag[0] == "Arquitectos del Reino del Oeste"
       or tag[0] == "Barrage"
-      or tag[0] == "Bios: Megafauna"
       or tag[0] == "Caesar: Rome vs. Gaul"
       or tag[0] == "Charles S. Roberts Awards"
       or tag[0] == "Cielos de metal"
       or tag[0] == "Cuentos de ánimas"
-      or tag[0] == "Curious Cargo"
-      or tag[0] == "Dune: Imperium"
       or tag[0] == "Essen Spiel 2019"
       or tag[0] == "Essen Spiel"
       or tag[0] == "Expansiópolis"
-      or tag[0] == "Forgotten Waters"
-      or tag[0] == "Gloomhaven: Jaws of the Lion"
-      or tag[0] == "Golden Geek"
+      or tag[0] == "Gloomhaven"
+      or tag[0] == "GMT Games"
       or tag[0] == "Great War Commander"
-      or tag[0] == "Iron Helm"
-      or tag[0] == "Ironsworn"
+      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Legends Untold: Illumination of Deepsorrow"
-      or tag[0] == "Legends Untold"
       or tag[0] == "Lock 'n Load Publishing"
       or tag[0] == "Maracaibo"
       or tag[0] == "Mörk Borg"
       or tag[0] == "Mothership"
       or tag[0] == "Multi-Man Publishing"
       or tag[0] == "Nemesis"
+      or tag[0] == "On Mars"
+      or tag[0] == "One Deck Dungeon: Forest of Shadows"
+      or tag[0] == "Race for the Galaxy"
+      or tag[0] == "Res Arcana"
       or tag[0] == "Robinson Crusoe"
-      or tag[0] == "Rol"
       or tag[0] == "Root: Riverfolk"
       or tag[0] == "Root: The Underworld"
-      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Shinkansen"
       or tag[0] == "Spiel Digital"
-      or tag[0] == "Star Wars: Imperial Assault"
-      or tag[0] == "Tainted Grail: La caída de Ávalon"
+      or tag[0] == "Terraforming Mars"
       or tag[0] == "The Adventurer"
+      or tag[0] == "Through the Ages: A New Story of Civilization"
       or tag[0] == "Undaunted: Normandy"
       or tag[0] == "Undaunted: North Africa"
       or tag[0] == "Vaults of Vaarn"
       or tag[0] == "World at War 85: Storming the Gap"
-      or tag[0] == "Zine Quest 2" %}
+      or tag[0] == "Zine Quest" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
                                                    href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
@@ -175,7 +171,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
+       {% if post.url == "/2021/03/27/general-top-100-bgg-solitario-p4/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -183,7 +179,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/27/general-top-100-bgg-solitario-p4/" %}
+       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -199,7 +195,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}
+       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
