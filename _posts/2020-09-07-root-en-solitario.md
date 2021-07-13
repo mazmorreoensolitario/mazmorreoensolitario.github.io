@@ -18,7 +18,10 @@ de 2Tomatoes Games.</small>
    src="https://live.staticflickr.com/65535/50315024792_2ed72a378d_c.jpg"></p>
 <p align="center"><small>Una de mis primeras partidas a Root, Marquise de Cat
    (yo) contra Electric Eyrie (bot)</small></p>
-   
+ 
+> [Aquí]({{site.baseurl}}/2021/06/21/analisis-root/) tienes un análisis sobre
+> Root y la expansión Clockwork (Los Cachivaches). 
+
 Una de las preguntas que más recibo cuando subo alguna imagen de mis partidas
 de **Root** a [Twitter](https://twitter.com/mazmorreo) o
 [Instagram](https://www.instagram.com/mazmorreo/?hl=es), es cómo se puede jugar
