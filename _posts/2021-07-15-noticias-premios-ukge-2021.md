@@ -205,7 +205,8 @@ entrada.
     África. Undaunted es un juego ambientado en diferentes frentes de la
     Segunda Guerra Mundial que utiliza mecánicas de construcción de mazos.</p>
         <p><strong>Comentario.</strong> Para jugar en solitario necesitas la
-    expansión <a href="">Undaunted: Reinforcements</a> o hasta entonces, puedes
+    expansión <a href="https://boardgamegeek.com/boardgame/313441/undaunted-reinforcements">Undaunted: Reinforcements</a>
+    (en <a href="https://amzn.to/3yX7Yin">preventa</a>) o hasta entonces, puedes
     usar alguna de las variantes creadas por fans.</p>
      </div>
 </div>

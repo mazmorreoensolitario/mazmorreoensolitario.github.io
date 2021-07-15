@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: Excavacion Tierra"
-tag: "Excavacion Tierra"
+title: "Etiqueta: Excavación Tierra"
+tag: "Excavación Tierra"
 ---
