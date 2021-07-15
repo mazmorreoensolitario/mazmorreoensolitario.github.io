@@ -63,6 +63,8 @@ en solitario.
 
 ### Artículos generales
 
+* 15 de Julio, 2021. [Juegos en solitario: Premios UK Games Expo de
+  2021]({{site.baseurl}}/2021/07/15/noticias-premios-ukge-2021/).
 * 9 de Enero, 2021. [10 juegos de rol en solitario y módulos de aventuras para
   probar en 2021]({{site.baseurl}}/2021/01/09/rol-10-juegos-aventuras-para-2021/).
 * 23 de Diciembre, 2020. [Los juegos de mesa y rol más jugados de

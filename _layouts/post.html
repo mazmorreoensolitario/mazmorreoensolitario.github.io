@@ -52,7 +52,9 @@ layout: default_container
               <!--span class="label label-primary">#<a class="tag-color"
               href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></span-->
               <!--a href="/tags/{{ tag }}/">{{ tag }}</a><-->
-              {% if tag == "Augmented Reality" or
+              {% if tag == "Augmented Reality" or tag == "OSRIC" or
+              tag == "ALIEN RPG" or tag == "Vaesen" or
+              tag == "The Dee Sanction" or tag == "Jackals: Bronze Age Fantasy Roleplaying" or
               tag == "Lost in the Deep" or tag == "The Drain" or
               tag == "Vaults of Vaarn" or tag == "Dungeoneering" or
               tag == "Whitehack" or
@@ -151,7 +153,8 @@ layout: default_container
               tag == "Golden Geek" or
               tag == "Solitaire Print & Play Design Contest" or
               tag == "Wargame Print & Play Design Contest" or
-              tag == "Spiel des Jahres" or tag == "Ennie" %}
+              tag == "Spiel des Jahres" or tag == "Ennie" or
+              tag == "UKGE Awards"%}
               <span class="label label-success"><strong>#<a class="tag-color"
               href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></strong></span> 
               {% else %}
@@ -170,7 +173,7 @@ layout: default_container
               or tag == "Essen Spiel"
               or tag == "Essen Spiel 2019"
               or tag == "Essen Spiel 2021"
-              or tag == "UKGE" %}
+              or tag == "UKGE" or tag == "UKGE 2021" %}
               <span class="label label-info"><strong>#<a class="tag-color"
               href="/etiqueta/{{tag | slugify: "latin"}}">{{tag}}</a></strong></span> 
               {% else %}

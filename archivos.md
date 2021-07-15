@@ -20,6 +20,9 @@ categorías.
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or
+        tag[0] == "OSRIC" or tag[0] == "ALIEN RPG" or tag[0] == "Vaesen" or
+        tag[0] == "The Dee Sanction" or
+        tag[0] == "Jackals: Bronze Age Fantasy Roleplaying" or
         tag[0] == "Lost in the Deep" or tag[0] == "The Drain" or
         tag[0] == "Vaults of Vaarn" or tag[0] == "Dungeoneering" or
         tag[0] == "Whitehack" or
@@ -119,7 +122,7 @@ categorías.
             tag[0] == "Solitaire Print & Play Design Contest" or
             tag[0] == "Wargame Print & Play Design Contest" or
             tag[0] == "Spiel des Jahres" or
-            tag[0] == "Ennie" %}
+            tag[0] == "Ennie" or tag[0] == "UKGE Awards" %}
             <span class="label label-success"><strong>#<a class="tag-color"
             href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
         {% else %}
@@ -138,7 +141,7 @@ categorías.
                 or tag[0] == "Essen Spiel"
                 or tag[0] == "Essen Spiel 2019"
                 or tag[0] == "Essen Spiel 2021"
-                or tag[0] == "UKGE" %}
+                or tag[0] == "UKGE" or tag[0] == "UKGE 2021" %}
                     <span class="label label-info"><strong>#<a class="tag-color"
                     href="/etiqueta/{{tag[0] | slugify:
                     "latin"}}">{{tag[0]}}</a></strong></span> 
