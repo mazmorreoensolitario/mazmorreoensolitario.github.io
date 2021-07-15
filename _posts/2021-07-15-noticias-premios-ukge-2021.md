@@ -293,7 +293,8 @@ entrada.
     <div class="col-md-9">
          <h4><a href="https://amzn.to/3kjQwQS">Imperium: Legends</a></h4>
          <p><strong><a
-    href="https://boardgamegeek.com/boardgame/318182/imperium-legends">Imperium: Legends</a></strong> de Nigel Buckle y Dávid Turcziy publicado por
+    href="https://boardgamegeek.com/boardgame/318182/imperium-legends">Imperium:
+    Legends</a></strong> de Nigel Buckle y Dávid Turczi, y publicado por
     <strong>Osprey Games</strong> es la segunda caja básica de Imperium, lee
     arriba sobre este juego.</p>
      </div>
