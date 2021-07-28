@@ -62,10 +62,10 @@ y volveré a esta entrada cuando sepamos los resultados finales.
             src="https://cf.geekdo-images.com/1M-1d6fr3U9t670MCVOTeg__imagepage/img/ONEG4bYSuDz3rKQsd5mtaa3Z188=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5896816.jpg"
         class="img-thumbnail" alt="MicroMacro: Crime City">
     </div>
-        <h4><a href="https://amzn.to/3dRtInS">MicroMacro: Crime City</a></h4>
-        <div class="alert alert-warning" role="alert">
-    <strong>¡Premio Spiel des Jahres!</strong></div>
     <div class="col-md-9">
+     <h4><a href="https://amzn.to/3dRtInS">MicroMacro: Crime City</a></h4>
+     <div class="alert alert-warning" role="alert">
+     <strong>¡Premio Spiel des Jahres!</strong></div>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/318977/micromacro-crime-city">MicroMacro: Crime City</a></strong>
 de Johannes Sich y publicado por <strong>Edition Spielwiese</strong> (SD Games
