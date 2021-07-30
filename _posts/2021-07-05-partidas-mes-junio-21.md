@@ -343,7 +343,7 @@ momento todas las misiones que he tenido siguen siendo en los sitios estándar.
 src="https://i.redd.it/vtk26s2pkkd61.png"></p> 
 
 **[The Vast in The
-Dark](https://www.kickstarter.com/projects/appalachia-gothic/the-vast-in-the-dark-exploring-ruins-in-an-infinite-world)**
+Dark](https://www.drivethrurpg.com/product/363439/The-Vast-in-the-Dark?affiliate_id=1914894)**
 es otra zine de Zine Quest 3, de la que ya me llegó el PDF hace unos meses, en
 marzo si no recuerdo mal (ahí tenéis [más
 info]({{site.baseurl}}/2021/03/31/partidas-mes-marzo-21/) de esta zine), pero

@@ -371,7 +371,7 @@ la portada, la respuesta es afirmativa.
 <img height="450" src="https://i.redd.it/vtk26s2pkkd61.png"></p>
 
 **[The Vast in the
-Dark](https://www.kickstarter.com/projects/appalachia-gothic/the-vast-in-the-dark-exploring-ruins-in-an-infinite-world)**
+Dark](https://www.drivethrurpg.com/product/363439/The-Vast-in-the-Dark?affiliate_id=1914894)**
 es la primera zine de rol de [Zine Quest
 3]({{site.baseurl}}/2021/01/31/rol-zinequest-3-en-solitario/) que me ha llegado
 y encima, ¡antes de lo previsto! Tanto la edición física como la digital se
