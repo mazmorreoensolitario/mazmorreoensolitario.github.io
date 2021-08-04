@@ -48,7 +48,7 @@ mayo.
 <img height="" src="https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__imagepage/img/0ksox22FKLq-Z-rsbBlF2IDG9x0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5100691.jpg"></p>
 
 [Cascadia](https://boardgamegeek.com/boardgame/295947/cascadia) es el último
-juego de **Fatout Games**, la editorial que está empezando a coger carrerilla
+juego de **Flatout Games**, la editorial que está empezando a coger carrerilla
 tras el éxito de [Calico](https://boardgamegeek.com/boardgame/283155/calico) el
 año pasado. La editorial se está haciendo una reputación como buena fuente de
 juegos abstractos, y para nuestra buena fortuna, se pueden jugar en solitario,
