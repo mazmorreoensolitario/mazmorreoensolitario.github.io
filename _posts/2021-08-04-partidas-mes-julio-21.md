@@ -270,7 +270,7 @@ verde con este modo en solitario</small></p></p>
 
 Una consecuencia interesante de estos modos en solitario es que me estoy
 aprendiendo todas las reglas de Terraforming Mars, porque no me acordaba para
-nada de cómo funcionaban las recompensas ni los logros, ya que solo lo lees una
+nada de cómo funcionaban las recompensas ni los hitos, ya que solo lo lees una
 vez cuando aprendes a jugar y luego como en solitario se obvian esas cosas pues
 al final sale de mi cabeza para dejar espacio a otras cosas (disclaimer: nunca
 he jugado a TM en multijugador).
@@ -497,7 +497,7 @@ Kickstarter</small></p></p>
 
 En el
 [Kickstarter](https://www.kickstarter.com/projects/dragonstabber/the-scourge-of-the-scorn-lords)
-se desbloquearon unas reglas en solitario (el panfleto que veis el la foto de
+se desbloquearon unas reglas en solitario (el panfleto que veis en la foto de
 arriba), que son una especie de mini-juego, y además se añadieron otras reglas
 en solitario adicionales desarrolladas Alex T. (autor de Seekers Beyond the Shroud y
 Disdicples of Bone & Shadow) de [Blackoath
