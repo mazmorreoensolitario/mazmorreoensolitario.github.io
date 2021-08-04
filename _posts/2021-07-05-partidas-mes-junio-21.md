@@ -298,8 +298,8 @@ Además de eso este mes he seguido jugando a **Seekers Beyond The Shroud**.
 src="https://ksr-ugc.imgix.net/assets/032/051/155/ba4db633fca82256c2d6d51d56e3dbdd_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1610982394&auto=format&frame=1&q=92&s=0d6e07f2354766e6ab421abbf4e5c934"></p> 
 
 Como os he comentado arriba en plan rápido **[The
-Drain](https://www.kickstarter.com/projects/yusem/the-drain)** es una aventura
-para
+Drain](https://www.drivethrurpg.com/product/360430/The-Drain?affiliate_id=1914894)**
+es una aventura para
 [Mothership](https://www.drivethrurpg.com/product/245017/Mothership-Players-Survival-Guide?affiliate_id=1914894)
 (análisis [aquí]({{site.baseurl}}/2019/04/25/rol-mothership/)) tipo funnel en
 el que somos un grupo de prisioneros en una colonia y nuestro objetivo es
