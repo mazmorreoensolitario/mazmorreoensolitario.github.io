@@ -168,7 +168,7 @@ tiempo has estado jugado y suele ser sobre hora o hora y media ahora que
 tengo más partidas a mis espaldas. Jugamos como uno de ocho imperios/reinos de
 la antiguedad: Cartago (resulta que Cartaginienses está mal dicho según
 la Wiki, es estado Púnico o Cartago), Celtas, Griegos, Reino de Macedonia,
-Persas, Romanos, Escitas o Vikingos, y haciendo crecer esa civilización desde
+Persas, Romanos, Escitas o Vikingos, y hacemos crecer esa civilización desde
 lo que el juego llama un reino bárbaro a un imperio; nuestro rival es un bot
 que controla otra de estas civilizaciones antiguas y gana quien más puntos
 obtenga al final de la partida.
@@ -502,7 +502,7 @@ arriba), que son una especie de mini-juego, y además se añadieron otras reglas
 en solitario adicionales desarrolladas Alex T. (autor de Seekers Beyond the Shroud y
 Disdicples of Bone & Shadow) de [Blackoath
 Entertainment](https://blackoathgames.com/) que podéis descargar gratuitamente 
-de este página de [itch.io](https://knightowlpub.itch.io/scorn-lords-solo). Yo
+de esta página de [itch.io](https://knightowlpub.itch.io/scorn-lords-solo). Yo
 pude hacer un poco de playtesting de estas últimas reglas en solitario y salgo
 en los créditos del panfleto como tal ¡ueee!
 
@@ -510,7 +510,7 @@ en los créditos del panfleto como tal ¡ueee!
 Para añadir más salseo tras todo el lío de Correos que tuve y que os he
 comentado arriba, el paquete me llegó con esa textura que se le queda al cartón
 cuando se ha mojado y luego se seca; en algún momento del viaje el paquete se
-había calado bastante. Parecía que hubiese pasado el atlántico a nado el solito
+había calado bastante. Parecía que hubiese pasado el atlántico a nado él solito
 y yo me temía lo peor para mi libro... pero resulta que los contenidos estaban
 todos envueltos en el plástico transparente que se utiliza para conservar
 alimentos, algo que me chocó muchísimo, pero que salvó mis libros. Ni un rastro
