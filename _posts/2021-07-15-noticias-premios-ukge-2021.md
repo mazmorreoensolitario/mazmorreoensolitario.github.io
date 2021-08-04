@@ -55,6 +55,8 @@ entrada.
     </div>
     <div class="col-md-9">
          <h4>Flash 8</h4>
+         <div class="alert alert-warning" role="alert">
+         <strong>¡Favorito del público!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/288284/flash-8">Flash
     8</a></strong> de Joan Dufour y publicado por <strong>Le Scorpion
@@ -100,6 +102,10 @@ entrada.
     </div>
     <div class="col-md-9">
          <h4>Kitara</h4>
+         <div class="alert alert-warning" role="alert">
+         <strong>¡Favorito del público!</strong></div>
+         <div class="alert alert-warning" role="alert">
+         <strong>Premio del jurado</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/293267/kitara">Kitara</a></strong>
     de Eric B. Vogel y publicado por
@@ -146,6 +152,10 @@ entrada.
     </div>
     <div class="col-md-9">
          <h4>Excavation Earth</h4>
+         <div class="alert alert-warning" role="alert">
+         <strong>¡Favorito del público!</strong></div>
+         <div class="alert alert-warning" role="alert">
+         <strong>Premio del jurado</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/292126/excavation-earth">Excavation
     Earth</a></strong> de  Dávid Turczi, Wai Yee y Gordon Calleja, y publicado
@@ -176,6 +186,8 @@ entrada.
     </div>
     <div class="col-md-9">
          <h4><a href="https://amzn.to/3roawUh">Prisma Arena</a></h4>
+         <div class="alert alert-warning" role="alert">
+         <strong>Premio del jurado</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/277692/prisma-arena">Prisma
     Arena</a></strong> de Rory O'Connor y John Fiore, y publicado por
@@ -197,6 +209,8 @@ entrada.
     </div>
     <div class="col-md-9">
          <h4><a href="https://amzn.to/2ThVHpC">Undaunted: North Africa</a></h4>
+         <div class="alert alert-warning" role="alert">
+         <strong>¡Favorito del público!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/290359/undaunted-north-africa">Undaunted: North Africa</a></strong> de David Thompson y Trevor
     Benjamin, y publicado por
@@ -242,6 +256,8 @@ entrada.
     </div>
     <div class="col-md-9">
          <h4><a href="https://amzn.to/3wBHu4t">Village Green</a></h4>
+         <div class="alert alert-warning" role="alert">
+         <strong>Premio del jurado</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/300583/village-green">Village
     Green</a></strong> de Peer Sylvester y publicado por
@@ -267,6 +283,8 @@ entrada.
     </div>
     <div class="col-md-9">
          <h4><a href="https://amzn.to/3kjQGrs">Imperium: Classics</a></h4>
+         <div class="alert alert-warning" role="alert">
+         <strong>¡Favorito del público!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/318184/imperium-classics">Imperium: Classics</a></strong> de Nigel Buckle y Dávid Turcziy publicado por
     <strong>Osprey Games</strong>, es un juego de cartas con mecánicas de
@@ -311,6 +329,10 @@ entrada.
     </div>
     <div class="col-md-9">
          <h4>Escape the Dark Sector</h4>
+         <div class="alert alert-warning" role="alert">
+         <strong>¡Favorito del público!</strong></div>
+         <div class="alert alert-warning" role="alert">
+         <strong>Premio del jurado</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/280748/escape-dark-sector">Escape
     the Dark Sector</a></strong> de Alex Crispin, Thomas Pike y James Shelton y publicado por
@@ -375,6 +397,8 @@ entrada.
     </div>
     <div class="col-md-9">
          <h4><a href="https://amzn.to/3hGbrft">50 Clues: The Pendulum of the Dead</a></h4>
+         <div class="alert alert-warning" role="alert">
+         <strong>¡Favorito del público!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/282006/50-clues-pendulum-dead">50
     Clues: The Pendulum of the Dead</a></strong> de Jeppe Norsker y publicado
@@ -396,6 +420,8 @@ entrada.
     </div>
     <div class="col-md-9">
          <h4><a href="https://amzn.to/2UcdcIh">Dice Hospital: Community Care</a></h4>
+         <div class="alert alert-warning" role="alert">
+         <strong>Premio del jurado</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/281210/dice-hospital-community-care">Dice
     Hospital: Community Care</a></strong> de Mike Nudd y publicado por
@@ -442,6 +468,8 @@ entrada.
     </div>
     <div class="col-md-9">
          <h4><a href="https://amzn.to/2UOHroq">Stuffed Fables: Oh, Brother!</a></h4>
+         <div class="alert alert-warning" role="alert">
+         <strong>¡Favorito del público!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/326199/stuffed-fables-oh-brother">Stuffed Fables: Oh, Brother!</a></strong> de Jerry Hawthorne y
     publicado por <strong>Plaid Hat Games</strong> (Asmodee en España bajo el
@@ -487,6 +515,8 @@ entrada.
     </div>
     <div class="col-md-9">
          <h4><a href="https://amzn.to/3rb2dLa">The Dee Sanction</a></h4>
+         <div class="alert alert-warning" role="alert">
+         <strong>Premio del jurado</strong></div>
          <p><strong><a
     href="https://www.drivethrurpg.com/product/344492/The-Dee-Sanction?affiliate_id=1914894">The Dee
     Sanction</a></strong> de Paul Baldowski y publicado por <strong>Just Crunch
@@ -512,6 +542,8 @@ entrada.
     </div>
     <div class="col-md-9">
          <h4>Vaesen - Nordic Horror Roleplaying</h4>
+         <div class="alert alert-warning" role="alert">
+         <strong>¡Favorito del público!</strong></div>
          <p><strong><a
     href="https://www.drivethrurpg.com/product/319119/Vaesen--Nordic-Horror-Roleplaying?affiliate_id=1914894">Vaesen</a></strong>
     de Nils Hintze, Rickard Antroia y Nils Karlén, y publicado por 
@@ -539,6 +571,8 @@ entrada.
     </div>
     <div class="col-md-9">
          <h4>Land of the Rising Sun</h4>
+         <div class="alert alert-warning" role="alert">
+         <strong>¡Favorito del público!</strong></div>
          <p><strong><a
     href="https://www.drivethrurpg.com/product/350041/Land-of-the-Rising-Sun?affiliate_id=1914894">Land
     of the Rising Sun</a></strong> de Lee Gold y publicado por
@@ -580,6 +614,8 @@ entrada.
     </div>
     <div class="col-md-9">
          <h4>The Compendium of Equestria</h4>
+         <div class="alert alert-warning" role="alert">
+         <strong>Premio del jurado</strong></div>
          <p><strong><a
     href="https://www.drivethrurpg.com/product/357891/My-Little-Pony-Tails-of-Equestria--The-Compendium-of-Equestria?affiliate_id=1914894">The
     Compendium of Equestria</a></strong> de Zak Barouh, Jack Cæsar y Mark
@@ -602,6 +638,10 @@ entrada.
     </div>
     <div class="col-md-9">
          <h4>ALIEN RPG: Destroyer of Worlds</h4>
+         <div class="alert alert-warning" role="alert">
+         <strong>¡Favorito del público!</strong></div>
+         <div class="alert alert-warning" role="alert">
+         <strong>Premio del jurado</strong></div>
          <p><strong><a
     href="https://www.drivethrurpg.com/product/320111/ALIEN-RPG-Destroyer-of-Worlds?affiliate_id=1914894">ALIEN RPG: Destroyer of Worlds</a></strong> de 	
 Andrew E. C. Gaska y publicado por <strong>Free League</strong>, es un
@@ -683,6 +723,9 @@ juego de cartas estratégico **Imperium: Classics**, en mejor juego de dados
 barren los jueces para casa ese no va a salir).
 
 ¡Volveré a esta entrada cuando sepamos los resultados!
+
+**Tras los resultados.** Si tengo en cuenta la opinión del público con lo que
+han decidido los jueces a la vez, he acertado todo :)
 
 <hr>
 
