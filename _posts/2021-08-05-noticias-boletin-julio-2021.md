@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: julio 2021"
 date: 2021-08-05
 categories: [Noticias]
-tags: ["Boletín Informativo Solitario", Mythic, Tulpenfieber, GMT Games, Compass Games, Tiny Battle Publishing, Railways, City Planner, Empire, "G.I. JOE Deck-Building Game", "Schnell Boats: Scourge of the English Channel", Cosmonaves, SpaceShipped, Tussie Mussie, Paleo, "Paleo: Ein neuer Anfang", Across a Thousand Dead Worlds, "Disciples of Bone and Shadow: Conquered Sun Edition", Seekers Beyond The Shroud, "The Lord of the Rings: Journeys in Middle-Earth", "El Señor de los Anillos: Viajes por la Tierra Media", "Dune: Imperium - Rise of Ix","Dune: Imperium", Rolling Realms, Nobel Run, Res Arcana, "Res Arcana: Lux et Tenebrae", Cascadia, "Tunnels & Trolls", "Scream Aim Fire!", Mini Rogue, Apothecaria]
+tags: ["Boletín Informativo Solitario", UKGE Awards, UKGE 2021, Mythic, Tulpenfieber, GMT Games, Compass Games, Tiny Battle Publishing, Railways, City Planner, Empire, "G.I. JOE Deck-Building Game", "Schnell Boats: Scourge of the English Channel", Cosmonaves, SpaceShipped, Tussie Mussie, Paleo, "Paleo: Ein neuer Anfang", Across a Thousand Dead Worlds, "Disciples of Bone and Shadow: Conquered Sun Edition", Seekers Beyond The Shroud, "The Lord of the Rings: Journeys in Middle-Earth", "El Señor de los Anillos: Viajes por la Tierra Media", "Dune: Imperium - Rise of Ix","Dune: Imperium", Rolling Realms, Nobel Run, Res Arcana, "Res Arcana: Lux et Tenebrae", Cascadia, "Tunnels & Trolls", "Scream Aim Fire!", Mini Rogue, Apothecaria]
 imghtml: https://live.staticflickr.com/65535/51309291210_15cfe2f405_b.jpg
 post_desc: "Boletín Informativo Solitario de julio, con todas las novedades,
 lanzamientos, crowdfunding y mucho más"
@@ -41,6 +41,18 @@ lanzamientos, crowdfunding y mucho más"
 
 Ahora pasamos a las **noticias**:
 
+  <p align="center">
+  <img height=""
+  src="https://media.ukgamesexpo.co.uk/prod/images/Peoples_Choice_Award_2021.width-500.png"></p>
+
+* Durante el último fin de semana de julio se ha celebrado la convención **UK
+  Games Expo**, que además también tiene unos premios que otorgan jurado y
+  participantes de la convención a juegos de mesa y rol que hayan salido
+  durante el año.
+  
+  En [esta entrada]({{site.baseurl}}/2021/07/15/noticias-premios-ukge-2021/) tenéis una guía con todos los juegos de mesa y rol que
+  pueden jugarse en solitario.
+  
   <p align="center">
   <img height=""
   src="https://cf.geekdo-images.com/kdbwl36AN3L6EAmFUZdDFA__imagepage/img/JNVANuAhcoRatYZERMZCJj0F0Js=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4608534.jpg"></p>
