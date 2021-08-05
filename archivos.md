@@ -20,6 +20,8 @@ categorías.
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or
+        tag[0] == "Across a Thousand Dead Worlds" or tag[0] == "Apothecaria" or
+        tag[0] == "Tunnels & Trolls" or
         tag[0] == "Desert Moon of Karth" or
         tag[0] == "Fronds of Benevolence" or
         tag[0] == "OSRIC" or tag[0] == "ALIEN RPG" or tag[0] == "Vaesen" or
@@ -157,6 +159,7 @@ categorías.
                         tag[0] == "Multi-Man Publishing" or
                         tag[0] == "NAC Wargames" or
                         tag[0] == "Revolution Games" or
+                        tag[0] == "Tiny Battle Publishing" or
                         tag[0] == "VUCA Simulations" or
                         tag[0] == "White Dog Games" or
                         tag[0] == "Worthington Publishing" or
@@ -183,8 +186,10 @@ categorías.
                         tag[0] == "Rangers of Shadow Deep" or
                         tag[0] == "Red Dust Rebellion" or
                         tag[0] == "Santander 37" or
+                        tag[0] == "Schnell Boats: Scourge of the English Channel" or 
                         tag[0] == "Sniper Kill Confirmed" or
                         tag[0] == "Space Empires" or
+                        tag[0] == "Scream Aim Fire!" or
                         tag[0] == "Stalingrad 42" or
                         tag[0] == "The Dark Valley" or
                         tag[0] == "he Last Hundred Yards" or

@@ -718,7 +718,7 @@ Verkami) para el próximo mes de **julio**:
 
   <p align="center">
   <img height=""
-  src="https://pbs.twimg.com/card_img/1408739237755854850/-PXWCA5F?format=png&name=small"></p>
+  src="https://cdn.shopify.com/s/files/1/0025/6006/5625/files/exalted_funeral_slime_logo_311cdaba-7c99-4e21-a6f9-e210f2885f29.png?v=1593999471"></p>
 
 * Una de las grandes
   [noticias](https://necroticgnome.com/blogs/news/exalted-funeral-uk-and-eu-stores-coming-soon)

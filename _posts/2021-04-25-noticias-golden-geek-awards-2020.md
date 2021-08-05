@@ -1581,7 +1581,6 @@ de Benjamin Gauthier, es un juego roll & write en el que tratas de representar
     href="https://boardgamegeek.com/boardgame/305682/rolling-realms">Rolling Realms</a></strong>
     de Jamey Stegmaier y publicado por <strong>Stonemaier Games</strong>, es un
     juego roll & write con nueve minijuegos diferentes.</p>
-    <p>España.</p>
     <p><strong>Comentario.</strong> Y otro roll & write.</p>
     </div>
 </div>
