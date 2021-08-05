@@ -75,7 +75,7 @@ Ahora pasamos a las **noticias**:
   src="https://www.aresgames.eu/wp/wp-content/uploads/2021/05/800x600-nuts_publishing-20051-mini_rogue-layout.jpg"></p> 
   
   **Mini Rogue** de Nuts! Publishing se financió satisfactoriamente gracias a
-  una campalña de
+  una campaña de
   [Kickstarter](https://www.kickstarter.com/projects/483438961/mini-rogue) y
   que se espera que llegue a los backers durante la segunda mitad de agosto.
 
@@ -98,9 +98,9 @@ Ahora pasamos a las **noticias**:
 
 * **Asmodee España** [anuncia](https://twitter.com/Asmodee_Spain/status/1411980674022531072?s=09)
   la publicación en nuestro idioma de **Res Arcana: Lux et Tenebrae** la
-  primera expansión de Res Arcana que salió originalmente en in 20219.
+  primera expansión de Res Arcana que salió originalmente en in 2019.
   
-  En **Res Arcana** omos un mago que utiliza diferentes esencias de la alquimia
+  En **Res Arcana** somos un mago que utiliza diferentes esencias de la alquimia
   para crear diferentes artefactos y conseguir puntos por ellos. En la
   expansión **Lux et Tenebrae** se añaden nuevas cartas, material adicional
   para añadir un quinto jugador (que a nosotros como jugadores solitarios no
@@ -442,7 +442,7 @@ ya se encuentran en crowdfunding:
   <img height=""
   src="https://ksr-ugc.imgix.net/assets/032/150/800/d44422fdc3f439676f5df4e334084cce_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1611745618&auto=format&frame=1&q=92&s=c5fa8479020988bf98028bde40505449"></p> 
   
-* Anna Blackwell, autora del juego de los juegos de rol en solitario DELVE,
+* Anna Blackwell, autora de los juegos de rol en solitario DELVE,
   UMBRA y RISE acaba de sacar **Apothecaria**, un juego de rol de escritura
   creativa en el que eres la bruja de un pueblo y te ganas la vida creando
   pociones.
