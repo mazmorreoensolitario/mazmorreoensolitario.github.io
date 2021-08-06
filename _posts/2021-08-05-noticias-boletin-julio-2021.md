@@ -334,17 +334,21 @@ Amazon**. Como sabréis, los links son de afiliado y os agradezco mucho que
 utilicéis esos links.
 
 * **[Imperium: Classics](https://amzn.to/3vnuyyE)**: **26€** (PVP: 30£, 35€),
-  inglés, 2021, Osprey Games.
+  inglés, Osprey Games (2021).
 * **[Imperium: Legends](https://amzn.to/3nuIggu)**: **26€** (PVP: 30£, 35€),
-  inglés, 2021, Osprey Games.
-* **[Los Castillos de Borgoña](https://amzn.to/3y7ddvf):** **32€** (PVP: 45€),
+  inglés, Osprey Games (2021).
+* **[Los Castillos de Borgoña](https://amzn.to/3y7ddvf)**: **32€** (PVP: 45€),
   español, Alea (2019).
-* **[Gloomhaven](https://amzn.to/3b3Dd2e)**: **138€** (PVP: 160€), inglés, 2017,
-  Cephalofair Games.
+* **[Gloomhaven](https://amzn.to/3b3Dd2e)**: **138€** (PVP: 160€), inglés,
+  Cephalofair Games (2017).
+* **[Arquitectos del Reino del Oeste](https://amzn.to/37nEa2B)**: **40€** (PVP:
+  44.95€), castellano, Ediciones Primigenio (2018).
+* **[Fábulas de Peluche](https://amzn.to/37nyXYx)**: **64€** (PVP: 69.95€),
+  castellano, Edge Entertainment (2018).
 
 **Preventas:**
-  * **[Undaunted: Reinforcements](https://amzn.to/3r5NtM8):** **25€** (PVP: 30£),
-  inglés, 2021, Osprey Games.
+  * **[Undaunted: Reinforcements](https://amzn.to/3r5NtM8)**: **25€** (PVP: 30£),
+  inglés, Osprey Games (2021).
 
 ### Lo que el futuro nos depara en el crowdfunding de juegos de mesa 
 
