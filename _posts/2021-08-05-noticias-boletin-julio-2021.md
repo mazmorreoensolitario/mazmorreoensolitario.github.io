@@ -77,7 +77,7 @@ Ahora pasamos a las **noticias**:
   **Mini Rogue** de Nuts! Publishing se financió satisfactoriamente gracias a
   una campaña de
   [Kickstarter](https://www.kickstarter.com/projects/483438961/mini-rogue) y
-  que se espera que llegue a los backers durante la segunda mitad de agosto.
+  se espera que llegue a los backers durante la segunda mitad de agosto.
 
   <p align="center">
   <img height=""
