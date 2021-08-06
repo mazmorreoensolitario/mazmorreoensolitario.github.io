@@ -44,7 +44,7 @@ metido. Tendré que esperar a que el juego llegue a alguna tienda online o
 alguien lo venda de segunda mano porque me gustaría mucho poder jugarlo.
 
 
-#### Advanced Squad Leader: Starter Kit #1
+#### [Advanced Squad Leader: Starter Kit #1](https://www.philibertnet.com/en/multi-man-publishing/30324-asl-starter-kit-1-2100000221967.html#ae447-11)
 
 <p align="center">
 <img height=""

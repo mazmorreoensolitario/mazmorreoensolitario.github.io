@@ -387,7 +387,7 @@ src="https://cdn.shopify.com/s/files/1/0225/4035/products/5PH-Rulebook-Cover-Fro
   Parsecs From Home: Solo Adventure
   Wargaming](https://www.modiphius.net/products/five-parsecs-from-home)** ([en
   PDF
-  aquí](https://www.drivethrurpg.com/product/358938/Five-Parsecs-From-Home--Solo-Adventure-Wargaming)?affiliate_id=1914894),
+  aquí](https://www.drivethrurpg.com/product/358938/Five-Parsecs-From-Home--Solo-Adventure-Wargaming?affiliate_id=1914894)),
   un **wargame de minis en solitario** de temática espacial en el que juntas a
   tu variopinto equipo de exploradores galácticos y sales a explorar las
   estrellas, hacer trabajitos y de vez en cuando te verás metido en
