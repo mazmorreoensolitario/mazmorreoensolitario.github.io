@@ -345,6 +345,8 @@ utilicéis esos links.
   44.95€), castellano, Ediciones Primigenio (2018).
 * **[Fábulas de Peluche](https://amzn.to/37nyXYx)**: **64€** (PVP: 69.95€),
   castellano, Edge Entertainment (2018).
+* **[Undaunted: Normandy](https://amzn.to/3lF28ic)**: **23€** (PVP: 35€),
+  inglés, Osprey (2018).
 
 **Preventas:**
   * **[Undaunted: Reinforcements](https://amzn.to/3r5NtM8)**: **25€** (PVP: 30£),
