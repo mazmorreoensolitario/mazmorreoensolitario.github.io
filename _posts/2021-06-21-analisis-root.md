@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Root y expansión The Clockwork"
 date:   2021-06-21
 categories: [Análisis]
-tags: ["Root", "Root: The Clockwork", "Root: Los Cachivaches", Golden Geek]
+tags: ["Root", "Root: The Clockwork", "Root: Los Cachivaches", Expansión, Golden Geek]
 imghtml: https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__imagepage/img/ZF-dta5ffawuKAkAt2LB-QTIv5M=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4254509.jpg
 score: 4
 game: "Root y Root: The Clockwork"
