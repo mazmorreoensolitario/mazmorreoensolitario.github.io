@@ -181,6 +181,7 @@ categorías.
                         tag[0] == "Hannibal's Revenge" or
                         tag[0] == "Hitler's Reich" or
                         tag[0] == "Nevsky: Teutons and Rus in Collision" or
+                        tag[0] == "Next War: Korea" or
                         tag[0] == "Pavlov's House" or
                         tag[0] == "Peloponnesian War" or
                         tag[0] == "Rangers of Shadow Deep" or
@@ -192,9 +193,9 @@ categorías.
                         tag[0] == "Scream Aim Fire!" or
                         tag[0] == "Stalingrad 42" or
                         tag[0] == "The Dark Valley" or
-                        tag[0] == "he Last Hundred Yards" or
+                        tag[0] == "The Last Hundred Yards" or
                         tag[0] == "The Last Hundred Yards: Airborne Over Europe" or
-                        tag[0] == "he Plum Island Horror" or
+                        tag[0] == "The Plum Island Horror" or
                         tag[0] == "The Pure Land" or
                         tag[0] == "The Shores of Tripoli" or
                         tag[0] == "Thunder in the East" or
