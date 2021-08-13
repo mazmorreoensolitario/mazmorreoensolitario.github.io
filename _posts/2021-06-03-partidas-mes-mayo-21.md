@@ -3,7 +3,7 @@ layout: post
 title: "Mayo en juegos"
 date: 2021-06-03
 categories: [General]
-tags: [El mes en juegos, "Advanced Squad Leader: Starter Kit", Dungeoneering, Ironsworn, Vaults of Vaarn, Seekers Beyond The Shroud, The Colonists, Curious Cargo, Faiyum, High Frontier 4 All, "Gloomhaven: Jaws of the Lion", Terraforming Mars, Tiny Towns]
+tags: [El mes en juegos, Fayún, "Advanced Squad Leader: Starter Kit", Dungeoneering, Ironsworn, Vaults of Vaarn, Seekers Beyond The Shroud, The Colonists, Curious Cargo, Faiyum, High Frontier 4 All, "Gloomhaven: Jaws of the Lion", Terraforming Mars, Tiny Towns]
 imghtml: https://live.staticflickr.com/65535/51223734175_b99516f362_b.jpg
 post_desc: "¿Qué se ha jugado durante mayo? Aquí te hablo de los juegos de mesa
 y rol que han visto mesa durante este último mes"

@@ -3,7 +3,7 @@ layout: post
 title: "Primeras impresiones - Faiyum"
 date:   2021-02-13
 categories: [Primeras impresiones]
-tags: [Faiyum, Spiel Digital, Golden Geek]
+tags: [Faiyum, Fayún, Spiel Digital, Golden Geek]
 game: Faiyum
 crop: true
 imghtml: https://cf.geekdo-images.com/sl0ReaWGqY1LQjNoGtCPWg__imagepage/img/M9hKi_flOtVxnYKQXRaEO0S196c=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5638086.jpg

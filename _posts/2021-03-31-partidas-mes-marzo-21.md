@@ -3,7 +3,7 @@ layout: post
 title: "Marzo en juegos"
 date: 2021-03-31
 categories: [General]
-tags: [El mes en juegos, "Root: Los Cachivaches", "Root: The Clockwork", Disciples of Bone and Shadow, Curious Cargo, Wicked Ones, Sprawlopolis, Expansiópolis, The Vast in the Dark, Root, "Disciples of Bone and Shadow: Conquered Sun Edition", Faiyum, Dancing with Bullets Under a Neon Sun, "Ambon: Burning Sun & Little Seagulls", Anachrony, Reinos de Papel, "Reinos de Papel: Más allá de las puertas", Paper Tales, The Scourge of the Scorn Lords , Small Islands]
+tags: [El mes en juegos, Fayún, "Root: Los Cachivaches", "Root: The Clockwork", Disciples of Bone and Shadow, Curious Cargo, Wicked Ones, Sprawlopolis, Expansiópolis, The Vast in the Dark, Root, "Disciples of Bone and Shadow: Conquered Sun Edition", Faiyum, Dancing with Bullets Under a Neon Sun, "Ambon: Burning Sun & Little Seagulls", Anachrony, Reinos de Papel, "Reinos de Papel: Más allá de las puertas", Paper Tales, The Scourge of the Scorn Lords , Small Islands]
 imghtml: https://live.staticflickr.com/65535/51086757567_897cb7d8bd_o.jpg
 post_desc: "¿Qué se ha jugado durante marzo? Aquí te hablo de los juegos de mesa
 y rol que han visto mesa durante este último mes"
