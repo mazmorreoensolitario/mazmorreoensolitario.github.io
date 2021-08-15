@@ -109,7 +109,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/10/general-top-100-bbg-solitario-p2/" %}
+       {% if post.url == "/2021/03/16/primeras-impresiones-curious-cargo/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -117,7 +117,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/09/07/root-en-solitario/" %}
+       {% if post.url == "/2021/08/04/partidas-mes-julio-21/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -138,58 +138,66 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Tops"
-      or tag[0] == "Disciples of Bone and Shadow"
-      or tag[0] == "Five Parsecs From Home"
-      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Aeon's End"
+      or tag[0] == "Five Parsecs From Home"
+      or tag[0] == "Gloomhaven"
+      or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Disciples of Bone and Shadow"
+      or tag[0] == "Iron Helm"
+      or tag[0] == "Ironsworn"
+      or tag[0] == "Marvel Champions: The Card Game"
       or tag[0] == "Non Gratus Rodentum"
       or tag[0] == "Old-School Essentials"
       or tag[0] == "Curious Cargo"
-      or tag[0] == "Gloomhaven"
-      or tag[0] == "Iron Helm"
-      or tag[0] == "Marvel Champions: The Card Game"
+      or tag[0] == "Gloomhaven: Jaws of the Lion"
+      or tag[0] == "Mothership"
       or tag[0] == "Orquesta Negra"
       or tag[0] == "7 Wonders Duel"
       or tag[0] == "9 Card Game Print & Play Design Contest"
-      or tag[0] == "Anachrony"
+      or tag[0] == "D30 Sandbox Companion"
+      or tag[0] == "Dune: Imperium"
       or tag[0] == "El mes en juegos"
-      or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
       or tag[0] == "Ennie"
-      or tag[0] == "Faiyum"
-      or tag[0] == "Food Chain Island"
       or tag[0] == "Forbidden Lands"
-      or tag[0] == "Gloomhaven: Jaws of the Lion"
-      or tag[0] == "Ironsworn"
+      or tag[0] == "Imperium: Classics"
       or tag[0] == "OSR"
+      or tag[0] == "Print & play"
       or tag[0] == "Terraforming Mars"
       or tag[0] == "Through the Ages: A New Story of Civilization"
       or tag[0] == "Undaunted: North Africa"
       or tag[0] == "1066 Tears To Many Mothers"
       or tag[0] == "A Cool and Lonely Courage"
+      or tag[0] == "Anachrony"
       or tag[0] == "Barrage"
+      or tag[0] == "Cielos de metal"
       or tag[0] == "Concordia Solitaria"
       or tag[0] == "Concordia Venus"
       or tag[0] == "Dados y Colonos"
       or tag[0] == "Dune: Imperium - Rise of Ix"
-      or tag[0] == "Dwellings of Eldervale"
+      or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
       or tag[0] == "Essen Spiel 2019"
       or tag[0] == "Essen Spiel"
       or tag[0] == "Europa Universalis: The Price of Power"
-      or tag[0] == "Excavación Tierra"
       or tag[0] == "Expansión"
+      or tag[0] == "Fábulas de Peluche"
+      or tag[0] == "Faiyum"
       or tag[0] == "Fayún"
+      or tag[0] == "Food Chain Island"
       or tag[0] == "GMT Games"
-      or tag[0] == "Imperium: Classics"
+      or tag[0] == "Great War Commander"
+      or tag[0] == "Ironsworn: Delve"
       or tag[0] == "Ironsworn: Starforged"
       or tag[0] == "Kickstarter"
       or tag[0] == "Labyrinth Lord"
       or tag[0] == "Lands of Galzyr"
       or tag[0] == "Legends Untold"
       or tag[0] == "Lorenzo il Magnifico"
+      or tag[0] == "Mausritter"
+      or tag[0] == "Nemesis"
       or tag[0] == "On Mars"
+      or tag[0] == "Pandemic: La caída de Roma"
       or tag[0] == "Pandemic: Legacy"
       or tag[0] == "Pico, Pluma & Hueso"
-      or tag[0] == "Print & play"
       or tag[0] == "Res Arcana"
       or tag[0] == "Robinson Crusoe"
       or tag[0] == "Rolling Realms"
@@ -198,12 +206,13 @@
       or tag[0] == "Spiel Digital"
       or tag[0] == "Spire's End: Hildegard"
       or tag[0] == "Suburbia"
-      or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "The City of Kings"
+      or tag[0] == "Tiny Epic Dinosaurs"
       or tag[0] == "Traducciones"
       or tag[0] == "Unbroken"
       or tag[0] == "Welcome Hacia el Perfecto Hogar"
-      or tag[0] == "World at War 85: Storming the Gap" %}
+      or tag[0] == "World at War 85: Storming the Gap"
+      or tag[0] == "Zine Quest" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
