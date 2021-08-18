@@ -51,6 +51,7 @@ en solitario.
 
 ### Noticias
 
+* 18 de Agosto, 2021. [Premios ENNIE 2021]({{site.baseurl}}/2021/08/18/ennie-awards-2021/).
 * 15 de Julio, 2021. [Juegos en solitario: Premios UK Games Expo de
   2021]({{site.baseurl}}/2021/07/15/noticias-premios-ukge-2021/).
 * 31 Enero, 2021. [Zine Quest 3: las zines en
