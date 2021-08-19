@@ -85,14 +85,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/08/09/crowdfunding-0726-0808/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -101,7 +93,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
+       {% if post.url == "/2021/08/09/crowdfunding-0726-0808/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -117,7 +109,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/10/general-top-100-bbg-solitario-p2/" %}
+       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -125,7 +117,15 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/03/09/analisis-maquis/" %}
+       {% if post.url == "/2021/08/05/noticias-boletin-julio-2021/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2021/03/10/general-top-100-bbg-solitario-p2/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -140,32 +140,41 @@
       {% if tag[0] == "Tops"
       or tag[0] == "Aeon's End"
       or tag[0] == "Print & play"
-      or tag[0] == "Dune: Imperium"
-      or tag[0] == "Imperium: Classics"
       or tag[0] == "Ironsworn"
+      or tag[0] == "Five Parsecs From Home"
+      or tag[0] == "Imperium: Classics"
+      or tag[0] == "Maracaibo"
+      or tag[0] == "7 Wonders Duel"
+      or tag[0] == "Dune: Imperium"
+      or tag[0] == "Kickstarter"
       or tag[0] == "Maquis"
+      or tag[0] == "Marvel Champions: The Card Game"
       or tag[0] == "Mothership"
+      or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Welcome Hacia el Perfecto Hogar"
       or tag[0] == "Anachrony"
+      or tag[0] == "Commands & Colors: Samurai Battles"
       or tag[0] == "D30 Sandbox Companion"
       or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "Do Not Let Us Die In The Dark Night Of This Cold Winter"
       or tag[0] == "Europa Universalis: The Price of Power"
-      or tag[0] == "Five Parsecs From Home"
+      or tag[0] == "Faiyum"
+      or tag[0] == "Gaia Project"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
       or tag[0] == "Gloomhaven"
+      or tag[0] == "Golden Geek"
       or tag[0] == "Iron Helm"
-      or tag[0] == "Maracaibo"
-      or tag[0] == "Marvel Champions: The Card Game"
+      or tag[0] == "Lands of Galzyr"
+      or tag[0] == "Root: Los Cachivaches"
       or tag[0] == "Root"
-      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "The Ultraviolet Grasslands"
       or tag[0] == "Twilight Imperium"
       or tag[0] == "Undaunted: Normandy"
-      or tag[0] == "Welcome Hacia el Perfecto Hogar"
       or tag[0] == "1066 Tears To Many Mothers"
-      or tag[0] == "7 Wonders Duel"
       or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Across the Bug River: Volodymyr-Volynskyi 1941"
       or tag[0] == "Arkham Horror: The Card Game"
+      or tag[0] == "Battlestar Galactica: The Board Game"
       or tag[0] == "Boletín Informativo Solitario"
       or tag[0] == "Calico"
       or tag[0] == "Cielos de metal"
@@ -173,13 +182,12 @@
       or tag[0] == "Dwellings of Eldervale"
       or tag[0] == "Everdell"
       or tag[0] == "Fábulas de Peluche"
-      or tag[0] == "Faiyum"
       or tag[0] == "Food Chain Island"
       or tag[0] == "Forbidden Lands"
+      or tag[0] == "Forgotten Waters"
       or tag[0] == "Four Against Darkness"
       or tag[0] == "Great War Commander"
       or tag[0] == "Ironsworn: Delve"
-      or tag[0] == "Kickstarter"
       or tag[0] == "Mausritter"
       or tag[0] == "Merv: The Heart of the Silk Road"
       or tag[0] == "Messina 1347"
@@ -190,6 +198,7 @@
       or tag[0] == "One Deck Dungeon"
       or tag[0] == "Oneironaut"
       or tag[0] == "OSR"
+      or tag[0] == "Paladines del Reino del Oeste"
       or tag[0] == "Pandemic: La caída de Roma"
       or tag[0] == "Pandemic: Legacy"
       or tag[0] == "Reinos de Papel"
