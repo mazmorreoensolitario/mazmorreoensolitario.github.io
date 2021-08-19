@@ -7,14 +7,20 @@ permalink: /rol-en-solitario/
 El **rol en solitario** ha ido haciéndose un hueco muy merecido en mi tiempo
 lúdico, por lo que también va a tener un espacio dedicado en el blog.
 
+La escala de **facilidad para jugar en solitario** que veréis en la ficha
+técnica de los juegos va del 1 al 5. Siendo **1**: juego que me ha sido
+imposible jugar en solitario; **2**: que requiere muchos recursos externos y/o
+más reglas para tener una estructura de juego; **3**: que requiere algunos
+recursos externos más y/o pocas reglas extra; **4**: es muy fácil jugar en
+solitario, no necesitas nada más que un oráculo; y **5**: es trivial jugar en
+solitario.
 
-La escala de **facilidad para jugar en solitario** que veréis en la ficha técnica
-de los juegos va del 1 al 5. Siendo **1**: juego
-que me ha sido imposible jugar en solitario; **2**: que requiere muchos recursos
-externos y/o más reglas para tener una estructura de juego; **3**: que requiere
-algunos recursos externos más y/o pocas reglas extra; **4**: es muy fácil jugar
-en solitario, no necesitas nada más que un oráculo; y **5**: es trivial jugar
-en solitario.
+Suelo tener un log de algunas de mis campañas en solitario en mi blog en
+inglés: [The Eerie Space](https://eeriespace.github.io/), es una especie de
+copia de seguridad por si le pasa algo a mis cuadernos. Mi intención es ir
+pasando todas mis partidas a este medio digital por si acaso, pero puede que no
+se encuentre actualizado. Puedes ver un índice de las campañas que estoy
+jugando en [Campaign index](https://eeriespace.github.io/campaign-index/).
 
 
 ### Guías sobre cómo jugar a rol en solitario
