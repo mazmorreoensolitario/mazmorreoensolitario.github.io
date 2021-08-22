@@ -3,7 +3,7 @@ layout: post
 title: "5 Juegos en solitario de 'batallitas o guerras'"
 date: 2020-12-09
 categories: [Listas]
-tags: [Tops, "Root: Los Cachivaches", Gloomhaven, "Gloomhaven: Jaws of the Lion", "Root: The Clockwork", Root, Reinos de Papel, "Reinos de Papel: Más allá de las puertas", Spirit Island]
+tags: [Tops, "Gloomhaven: Fauces del León", "Root: Los Cachivaches", Gloomhaven, "Gloomhaven: Jaws of the Lion", "Root: The Clockwork", Root, Reinos de Papel, "Reinos de Papel: Más allá de las puertas", Spirit Island]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20201201-5-juegos-en-solitario-de/juegos-batallitas-guerras.jpg
 post_desc: "Sigo con las recomendaciones de juegos en solitario de un tema
 específico, esta vez tocan juegos 'de batallitas o guerras'"

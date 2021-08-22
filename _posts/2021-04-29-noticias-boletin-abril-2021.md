@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: abril 2021"
 date: 2021-04-29
 categories: [Noticias]
-tags: ["Boletín Informativo Solitario", GMT Games, "Ironsworn: Starforged", The Pure Land, Stress Botics, "Gloomhaven: Jaws of the Lion", Tin Helm, Goblivion, Scarface 1920, Suburbia, Too Many Bones, "Imperium: Classics", "Imperium: Legends", Agricola, La Granja, Micro City, Cryo, The Siege of Runedar, Verdant, Mythic]
+tags: ["Boletín Informativo Solitario", "Gloomhaven: Fauces del León", GMT Games, "Ironsworn: Starforged", The Pure Land, Stress Botics, "Gloomhaven: Jaws of the Lion", Tin Helm, Goblivion, Scarface 1920, Suburbia, Too Many Bones, "Imperium: Classics", "Imperium: Legends", Agricola, La Granja, Micro City, Cryo, The Siege of Runedar, Verdant, Mythic]
 imghtml: https://live.staticflickr.com/65535/51147807164_ca878eb7dd_b.jpg
 post_desc: "Boletín Informativo Solitario de abril, novedades, lanzamientos,
 crowdfunding y mucho más"

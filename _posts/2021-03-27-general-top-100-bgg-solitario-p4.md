@@ -3,7 +3,7 @@ layout: post
 title: "Top 100 de BGG: ¿qué puedo jugar en solitario? (Parte 4)"
 date: 2021-03-27
 categories: [General]
-tags: [Tops, Golden Geek, 7 Wonders Duel, Great Western Trail, Nemesis, Orléans, Concordia, Concordia Solitaria, Viticulture Essential Edition, "Arkham Horror: The Card Game", Spirit Island, Scythe, El Banquete de Odín, A Feast for Odin,  Wingspan, "Star Wars: Rebellion", Gaia Project, "Through the Ages: A New Story of Civilization", "Twilight Imperium", "Brass: Birmingham", Terraforming Mars, Gloomhaven, "Gloomhaven: Jaws of the Lion"]
+tags: [Tops, Golden Geek, "Gloomhaven: Fauces del León", 7 Wonders Duel, Great Western Trail, Nemesis, Orléans, Concordia, Concordia Solitaria, Viticulture Essential Edition, "Arkham Horror: The Card Game", Spirit Island, Scythe, El Banquete de Odín, A Feast for Odin,  Wingspan, "Star Wars: Rebellion", Gaia Project, "Through the Ages: A New Story of Civilization", "Twilight Imperium", "Brass: Birmingham", Terraforming Mars, Gloomhaven, "Gloomhaven: Jaws of the Lion"]
 imghtml: https://live.staticflickr.com/65535/51045530886_fcb12a3a00_o.png
 post_desc: "Entrada final del Top 100 de Board Game Geek, con lo que podemos
 jugar en solitario y las estadísticas completas"
@@ -23,7 +23,8 @@ Hemos llegado a la entrada final de esta serie
 **[parte 2:
 75-51]({{site.baseurl}}/2021/03/10/general-top-100-bbg-solitario-p2/)**,
 **[parte 3:
-50-26]({{site.baseurl}}/2021/03/18/general-top-100-bgg-solitario-p3/)**, 25-1)
+50-26]({{site.baseurl}}/2021/03/18/general-top-100-bgg-solitario-p3/)**, y esta
+parte 4: 25-1)
 dedicada a averiguar **qué juegos del Top 100 de Board Game Geek podemos
 jugar en solitario** y de qué forma.
 

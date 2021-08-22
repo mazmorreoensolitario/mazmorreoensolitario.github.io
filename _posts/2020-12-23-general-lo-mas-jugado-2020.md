@@ -3,7 +3,7 @@ layout: post
 title: "Los juegos de mesa y rol más jugados de 2020"
 date: 2020-12-23
 categories: [Listas]
-tags: [Tops, Rol, "Root: Los Cachivaches", "Lock 'n Load Publishing", Charles S. Roberts Awards, Ennie, Ruins of the Undercity, Barrowmaze, "Forbidden Lands", "Ironsworn", "Old-School Essentials", "Seekers Beyond The Shroud", "Disciples of Bone and Shadow", "The City of Kings", "Gloomhaven: Jaws of the Lion", "Root: The Clockwork", "Root", "World at War 85: Storming the Gap", "Pathfinder Adventure Card Game Mummy's Mask"]
+tags: [Tops, Rol, "Gloomhaven: Fauces del León", "Root: Los Cachivaches", "Lock 'n Load Publishing", Charles S. Roberts Awards, Ennie, Ruins of the Undercity, Barrowmaze, "Forbidden Lands", "Ironsworn", "Old-School Essentials", "Seekers Beyond The Shroud", "Disciples of Bone and Shadow", "The City of Kings", "Gloomhaven: Jaws of the Lion", "Root: The Clockwork", "Root", "World at War 85: Storming the Gap", "Pathfinder Adventure Card Game Mummy's Mask"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20201223-top-mesa-rol/top-mesa-rol-2020.jpg
 post_desc: "Vamos a echar un vistazo a todo lo jugado durante este 2020 para 
 ver qué es lo que más tiempo ha estado en mi mesa, tanto juegos de mesa como de 
