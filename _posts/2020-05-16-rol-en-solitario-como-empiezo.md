@@ -1323,7 +1323,7 @@ Recursos:
 
 
 Si tenéis alguna que otra duda o queréis comentar algo os invito a uséis los
-comentarios o que me habéis por [Twitter](https://twitter.com/mazmorreo).
+comentarios o que me habléis por [Twitter](https://twitter.com/mazmorreo).
 
 Finalmente si compráis algo, **¡usad mis links de afiliado de DriveThru RPG!**
 

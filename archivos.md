@@ -121,6 +121,7 @@ categorías.
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
     {% else %}
         {% if tag[0] == "9 Card Game Print & Play Design Contest" or
+            tag[0] == "54 Card Game Design Contest" or
             tag[0] == "Charles S. Roberts Awards" or
             tag[0] == "Golden Geek" or
             tag[0] == "Solitaire Print & Play Design Contest" or
@@ -176,6 +177,7 @@ categorías.
                         tag[0] == "Exploradores de las Profundidades Sombrías" or
                         tag[0] == "Fields of Fire" or
                         tag[0] == "Five Parsecs From Home" or
+                        tag[0] == "Five Leagues From the Borderlands" or
                         tag[0] == "Gettysburg" or
                         tag[0] == "Great War Commander" or
                         tag[0] == "Hannibal's Revenge" or
@@ -192,6 +194,7 @@ categorías.
                         tag[0] == "Space Empires" or
                         tag[0] == "Scream Aim Fire!" or
                         tag[0] == "Stalingrad 42" or
+                        tag[0] == "The Bell of Treason" or
                         tag[0] == "The Dark Valley" or
                         tag[0] == "The Last Hundred Yards" or
                         tag[0] == "The Last Hundred Yards: Airborne Over Europe" or
