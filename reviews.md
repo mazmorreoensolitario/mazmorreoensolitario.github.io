@@ -19,9 +19,9 @@ pena, porque nos hace vivir una experiencia buena o no.
 La escala es la siguiente:
 
 * 1 moneda  - creo que prefiero hacer otra cosa
-* 2 monedas - es entretenido, pero no me engancha
-* 3 monedas - me lo paso muy bien jugando a este juego
-* 4 monedas - ¡este juego es genial! Voy a jugar otra vez ya mismo
+* 2 monedas - es algo entretenido, pero no me engancha
+* 3 monedas - me lo paso bien jugando a este juego
+* 4 monedas - ¡este juego es genial!
 * 5 monedas - ES IDEAL
 
 ## Índice alfabético
