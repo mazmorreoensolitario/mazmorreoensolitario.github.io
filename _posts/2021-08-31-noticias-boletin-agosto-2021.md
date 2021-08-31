@@ -452,7 +452,7 @@ src="https://cdn.shopify.com/s/files/1/0225/4035/t/50/assets/pf-b93e606d--Ruined
 
 Las preventas de este juego se abrirán pronto, aunque no ha trascendido aún
 ninguna fecha. De momento podéis apuntaros al
-[newsleter](https://www.modiphius.net/pages/five-leagues?fbclid=IwAR06FOpIKFPgPaWAr8qVLCYwdZ7Ca8M1laF-tqgCUDNoKpK9QT-Ezw1kgjM)
+[newsletter](https://www.modiphius.net/pages/five-leagues?fbclid=IwAR06FOpIKFPgPaWAr8qVLCYwdZ7Ca8M1laF-tqgCUDNoKpK9QT-Ezw1kgjM)
 (abajo del todo) para que os notifiquen cuando las abran.
 
 <p align="center">
