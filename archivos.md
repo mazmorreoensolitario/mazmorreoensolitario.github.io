@@ -20,6 +20,7 @@ categorías.
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or
+        tag[0] == "All Must Bow" or tag[0] == "Muspelhell" or
         tag[0] == "Across a Thousand Dead Worlds" or tag[0] == "Apothecaria" or
         tag[0] == "Tunnels & Trolls" or
         tag[0] == "Desert Moon of Karth" or
@@ -156,6 +157,7 @@ categorías.
                         tag[0] == "Decision Games" or
                         tag[0] == "GMT Games" or
                         tag[0] == "Hollandspiele" or
+                        tag[0] == "Legion Wargames" or
                         tag[0] == "Lock 'n Load Publishing" or
                         tag[0] == "Multi-Man Publishing" or
                         tag[0] == "NAC Wargames" or
@@ -182,16 +184,19 @@ categorías.
                         tag[0] == "Great War Commander" or
                         tag[0] == "Hannibal's Revenge" or
                         tag[0] == "Hitler's Reich" or
+                        tag[0] == "Horse & Musket" or
                         tag[0] == "Nevsky: Teutons and Rus in Collision" or
                         tag[0] == "Next War: Korea" or
                         tag[0] == "Pavlov's House" or
                         tag[0] == "Peloponnesian War" or
                         tag[0] == "Rangers of Shadow Deep" or
                         tag[0] == "Red Dust Rebellion" or
+                        tag[0] == "Road to Cheren" or
                         tag[0] == "Santander 37" or
                         tag[0] == "Schnell Boats: Scourge of the English Channel" or 
                         tag[0] == "Sniper Kill Confirmed" or
                         tag[0] == "Space Empires" or
+                        tag[0] == "Stargrave" or
                         tag[0] == "Scream Aim Fire!" or
                         tag[0] == "Stalingrad 42" or
                         tag[0] == "The Bell of Treason" or
