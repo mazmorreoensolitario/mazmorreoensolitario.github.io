@@ -48,7 +48,7 @@ otra civilización"
              <li>Ilustraciones de Mihajlo Dimitrievski, alias "The Mico"; es
              conocido por ilustrar la Trilogía del Oeste y muchos otros juegos
              con su estilo particular.</li>
-             <li>Publicado por Osprey Games.</li>
+             <li>Publicado por <strong>Osprey Games</strong>.</li>
              <li>Ganó el premio del público como <i>Mejor juego de cartas
     estratégico</i> en los premios <a
     href="{{site.baseurl}}/2021/07/15/noticias-premios-ukge-2021/">UK Games
@@ -240,7 +240,7 @@ juego.
 src="https://live.staticflickr.com/65535/51414473224_edb6cd6c70_b.jpg"></p>
 <p align="center"><small>Cartas básicas de Glory, Prosperity, Conquer y Advance</small></p>
 
-Unas cartas básicas especiales son las de *Glory*, *Prosperiy*, *Conquer* y
+Unas cartas básicas especiales son las de *Glory*, *Prosperity*, *Conquer* y
 *Advance*, que véis en la foto de arriba, y son las que suelen formar parte del
 mazo inicial de cada civilización y sobre las que suele girar toda la
 estrategia de la civilización. Todas estas cartas tienen el mismo efecto (cada
@@ -364,7 +364,7 @@ enfundas te das cuenta. Al enfundar yo empecé utilizando unas fundas Dragon
 Shield Perfect Fit, enfundé todas las cartas comunes y los mazos de las
 civilizaciones según las iba jugando, me di cuenta de que había algunas cartas
 que no entraban y probé con las Ultra Pro Pro-Fit, ya que con ambas entra
-todo dentro del inserto (en general buscar fundas que sean de *inner sleeve*),
+todo dentro del inserto (en general buscad fundas que sean de *inner sleeve*),
 pero como he comentado arriba, al tener cartas de diferente anchura no vais a
 poder enfundar todo bien, así que al final lo he dejado sin enfundar. La
 alternativa sería utilizar de esas fundas que sale plástico por todos los lados
@@ -402,10 +402,10 @@ parecer "dura" para aprender, pero luego para referenciar y recordar cómo se
 jugaba al juego es ideal.
 
 Es por la naturaleza del manual que en la primera partida, para aprender a
-jugar, puede que tardes bastante, en mi casó fueron 3h, al final cada palabra
+jugar, puede que tardes bastante, en mi caso fueron 3h, al final cada palabra
 clave nueva implica leer el glosario y entender qué era y qué tenías que hacer
 —con las subsecuentes visitas posteriores al glosario porque se te ha olvidado
-qué significaba tal palabra— pero luego
+qué significaba tal palabra—, pero luego
 las partidas son de una hora/hora y media, y esa estructura del manual ayuda
 a localizar las palabras clave de las cartas por si te quedan dudas.
 
