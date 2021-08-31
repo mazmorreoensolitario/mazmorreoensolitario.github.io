@@ -168,7 +168,7 @@ representan su mano y serán las cartas que podrá jugar en su turno.
 ### Empezando a jugar
 
 Los turnos de **Imperium: Classics** son extremadamente sencillos, tú y el bot
-os iréis turnando para jugar y entre el turno del bot y tú tendrémos una fase
+os iréis turnando para jugar y entre el turno del bot y tú tendremos una fase
 de *Solsticio*. En esta fase algunas cartas con efectos de *Solsticio* se
 podrán activar.
 
@@ -230,7 +230,7 @@ Abajo del todo las cartas pueden tener un palo, que es un icono redondo con un
 color de fondo. Por ejemplo las cartas de *Unrest* tienen un icono de fuego
 rojo, las de región una especie de montaña sobre un fondo amarillo etc.
 
-De forma general las cartas se descartan una ve que han sido jugadas, sin
+De forma general las cartas se descartan una vez que han sido jugadas, sin
 embargo, si tenemos una carta con un icono de infinito* (**∞**)[^1], entonces
 se mantendrán en juego hasta que algún otro efecto nos mande retirarlas del
 juego.
@@ -241,7 +241,7 @@ src="https://live.staticflickr.com/65535/51414473224_edb6cd6c70_b.jpg"></p>
 <p align="center"><small>Cartas básicas de Glory, Prosperity, Conquer y Advance</small></p>
 
 Unas cartas básicas especiales son las de *Glory*, *Prosperity*, *Conquer* y
-*Advance*, que véis en la foto de arriba, y son las que suelen formar parte del
+*Advance*, que veis en la foto de arriba, y son las que suelen formar parte del
 mazo inicial de cada civilización y sobre las que suele girar toda la
 estrategia de la civilización. Todas estas cartas tienen el mismo efecto (cada
 tipo su efecto) entre civilizaciones aunque el dibujo cambie de una carta a
@@ -293,7 +293,7 @@ significan los efectos más comunes de algunas de las cartas:
   
 - *Break through for X*: consigue tal carta del mercado, puedes robar del mazo
   específico o coger la que esté a la vista, sin el *Unrest*, si tiene cosas
-  encima te las llevs. Si no hay de las que quieres a la vista, puedes buscar
+  encima te las llevas. Si no hay de las que quieres a la vista, puedes buscar
   en el mazo principal (el de más a la izquierda) hasta que la encuentres.
 
 - *Exile*: retira la carta del juego y ponla en el montón de cartas exiliadas.
