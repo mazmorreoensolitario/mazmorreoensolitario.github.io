@@ -495,7 +495,7 @@ mover bastantes cartas y recursos, que unido a la gestión de los mazos del
 mercado principal se puede convertir en un mini-juego de gestión de mesa.
 
 La dificultad estándar del bot no es demasiado difícil,
-aunque [miraros por favor las
+aunque [mirad por favor las
 erratas](https://boardgamegeek.com/filepage/218988/imperium-errata) porque hay
 una muy crítica sobre cómo gestionan las cartas de *Unrest* los bots, pero
 tienes diferentes modos de dificultad para poder escalar las partidas.
@@ -525,5 +525,5 @@ chicha de pensar, pero es bonito y tienes muchos mazos para ir cambiando.
     absoluto](https://en.wikipedia.org/wiki/Absolute_Infinite)*, entonces
     tenéis el símbolo Ω (omega).
     Es decir, no os hagáis tatuajes de "límite de función que tiende a
-    infinito" (aka ∞), sino ser más estrictos y elegir un ℵ, ó Ω  que encima
+    infinito" (aka ∞), sino sed más estrictos y elegid un ℵ, ó Ω  que encima
     está menos visto :)
