@@ -515,7 +515,9 @@ chicha de pensar, pero es bonito y tienes muchos mazos para ir cambiando.
 
 **Notas** 
 
-[^1]: El símbolo del ocho tumbado ∞ no se suele utilizar en matemáticas para
+[^1]: (En relación a
+    [esto]({{site.baseurl}}/2021/08/31/analisis-imperium-classics/#fnref:1)) El
+    símbolo del ocho tumbado ∞ no se suele utilizar en matemáticas para 
     representar "el infinito", sino para potenciales límites de funciones
     que tienden a infinito. En teoría de conjuntos se utiliza el símbolo de ℵ
     (alef) con un subíndice para indicar *diferentes tipos de conjuntos
