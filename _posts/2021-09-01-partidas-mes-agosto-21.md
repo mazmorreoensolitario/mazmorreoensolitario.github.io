@@ -374,7 +374,7 @@ todo.
 <img height="450" src="https://dtrpg-public-files.s3.us-east-2.amazonaws.com/images/5606/336585.jpg"></p>
 
 **[Old-School Essentials: Advanced Fantasy](https://necroticgnome.com/)** de
-Gavin Norman, es el retrón definitivo de D&D viejo y ambos libros, la guía del
+Gavin Norman, es el retroclón definitivo de D&D viejo y ambos libros, la guía del
 jugador y la guía del master, están entre los libros mejor producidos de mi
 colección. En cuanto arte, sin duda que tienen el mejor arte.
 
@@ -415,7 +415,7 @@ Muspelhell](https://www.kickstarter.com/projects/drewcifer/harrowings-03-muspelh
 es una inmensa zine de 115 páginas, con estadísticas de OSE, en la que tenemos
 una aventura que podemos jugar en solitario. Creamos un enano con una mezcla de
 reglas del la zine y las de OSE, y nos lanzamos a una mazmorra transportando
-una inmensa puerta que tenemos que intalar en sus profundidades.
+una inmensa puerta que tenemos que instalar en sus profundidades.
 
 Tenemos un oráculo en la propia zine y el estilo de juego parece mayormente
 lineal, así que no creo que tenga ningún problema para jugar en solitario, me

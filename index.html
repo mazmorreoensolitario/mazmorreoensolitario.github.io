@@ -164,7 +164,7 @@ layout: default
         <h4><a href="{{site.baseurl}}/analisis/">Análisis</a></h4>
         {% for category in site.categories %}
         {% if category[0] == "Análisis" %}
-        {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+        {% assign sorted = category[1] | sort: 'date' | reverse %}
         {% for post in sorted limit: 6%}
         <div class="image-container">
           <a href="{{site.url}}{{post.url}}">
@@ -179,7 +179,7 @@ layout: default
         <h4><a href="{{site.baseurl}}/rol-en-solitario/">Rol en solitario</h4>
         {% for category in site.categories %}
         {% if category[0] == "Rol" %}
-        {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+        {% assign sorted = category[1] | sort: 'date' | reverse %}
         {% for post in sorted limit: 6%}
         <div class="image-container">
           <a href="{{site.url}}{{post.url}}">
@@ -194,7 +194,7 @@ layout: default
         <h4><a href="{{site.baseurl}}/etiqueta/tops/">Listas y tops</h4>
         {% for category in site.categories %}
         {% if category[0] == "Listas" %}
-        {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+        {% assign sorted = category[1] | sort: 'date' | reverse %}
         {% for post in sorted limit: 6 %}
         <div class="image-container">
           <a href="{{site.url}}{{post.url}}">
@@ -211,7 +211,7 @@ layout: default
         <h4><a href="{{site.baseurl}}/analisis/#demos">Demos</h4>
         {% for category in site.categories %}
         {% if category[0] == "Demos" %}
-        {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+        {% assign sorted = category[1] | sort: 'date' | reverse %}
         {% for post in sorted limit: 6%}
         <div class="image-container">
           <a href="{{site.url}}{{post.url}}">
@@ -228,7 +228,7 @@ layout: default
         <h4><a href="{{site.baseurl}}/rincon-print-and-play/">Print & Play</h4>
         {% for category in site.categories %}
         {% if category[0] == "Print & play" %}
-        {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+        {% assign sorted = category[1] | sort: 'date' | reverse %}
         {% for post in sorted limit: 6%}
         <div class="image-container">
           <a href="{{site.url}}{{post.url}}">
@@ -243,7 +243,7 @@ layout: default
         <h4><a href="{{site.baseurl}}/articulos-generales">General</h4>
         {% for category in site.categories %}
         {% if category[0] == "General" %}
-        {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+        {% assign sorted = category[1] | sort: 'date' | reverse %}
         {% for post in sorted limit: 6%}
         <div class="image-container">
           <a href="{{site.url}}{{post.url}}">
@@ -258,7 +258,7 @@ layout: default
         <h4><a href="{{site.baseurl}}/noticias/">Noticias</a></h4>
         {% for category in site.categories %}
         {% if category[0] == "Noticias" %}
-        {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+        {% assign sorted = category[1] | sort: 'date' | reverse %}
         {% for post in sorted limit: 6 %}
         <div class="image-container">
           <a href="{{site.url}}{{post.url}}">
@@ -273,7 +273,7 @@ layout: default
         <h4><a href="{{site.baseurl}}/analisis/#primeras-impresiones">Primeras impresiones</h4>
         {% for category in site.categories %}
         {% if category[0] == "Primeras impresiones" %}
-        {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+        {% assign sorted = category[1] | sort: 'date' | reverse %}
         {% for post in sorted limit: 6 %}
         <div class="image-container">
           <a href="{{site.url}}{{post.url}}">

@@ -11,7 +11,7 @@ categoría:
 <div class="col-md-10">
 {% for category in site.categories %}
     {% if category[0] == "General" %}
-    {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+    {% assign sorted = category[1] | sort: 'date' | reverse %}
         {% for post in sorted%}
         <div class="image-container">
             <a href="{{site.url}}{{post.url}}">

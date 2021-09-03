@@ -12,7 +12,7 @@ interesan las **noticias relacionadas con los juegos jugables en solitario**:
 <div class="col-md-10">
 {% for category in site.categories %}
     {% if category[0] == "Noticias" %}
-    {% assign sorted = (category[1] | sort: 'date' | reverse) %}
+    {% assign sorted = category[1] | sort: 'date' | reverse %}
     {% for post in sorted %}
     {% if post.general %}
         <div class="image-container">
@@ -37,7 +37,7 @@ en solitario del mes:**
 
 <div class="col-md-12">
 <div class="col-md-10">
-{% assign sorted = (site.posts | sort: 'date' | reverse) %}
+{% assign sorted = site.posts | sort: 'date' | reverse %}
 {% for post in sorted %}
 {% for tag in post.tags %}
 {% if  tag == "Boletín Informativo Solitario" %}
