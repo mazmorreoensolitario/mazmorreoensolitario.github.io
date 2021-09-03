@@ -123,7 +123,7 @@ modo playtesting.
 
 Otro juego muy recomendado.
 
-#### [Gloomhaven: Jaws of the Lion](https://amzn.to/3pncDXd)
+#### [Gloomhaven: Jaws of the Lion](https://www.philibertnet.com/en/cephalofair-games/90068-gloomhaven-jaws-of-the-lion-644216610563.html#ae447-11)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__imagepage/img/JUEcmeR5Cm5haFjoG5f_Uv8Zlws=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5055631.jpg"></p>
