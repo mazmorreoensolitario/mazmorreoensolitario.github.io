@@ -279,7 +279,9 @@ análisis de este juego con muchísimas menos partidas de las que acostumbro
 antes de ponerme a dar mi opinión sobre algo. Y ¿por qué te pones a escribir
 entonces? Tres razones, uno, por comodidad, cada vez que alguien pida mi
 opinión sobre el juego les paso un link a esta entrada y pista; dos, porque ha
-salido un kickstarter (Set A Watch: Swords of the Coin) de una expansión /
+salido un kickstarter
+([Set A Watch: Swords of the Coin](https://boardgamegeek.com/boardgame/307386/set-watch-swords-coin))
+de una expansión / 
 juego base que se basa completamente en las mecánicas de este juego, y me
 parece que es buen momento para dar mi opinión porque puede que sea útil; y
 tres, pues, que os voy a decir, (spoiler) no le he dado tantas partidas porque
