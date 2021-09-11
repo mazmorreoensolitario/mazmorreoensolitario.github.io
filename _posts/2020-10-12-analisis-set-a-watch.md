@@ -362,7 +362,7 @@ con los significados de los efectos de algunas cartas (muy pocas). Hay algunos
 efectos que tienen los monstruos en los que no han escrito lo que querían
 expresar e inducen a error. Posiblemente hagáis alguna que otra visita a Board
 Game Geek para verificar que lo que hayáis entendido vosotros realmente
-concuerda con los que el autor haya querido expresar (que no es lo mismo a lo
+concuerda con lo que el autor haya querido expresar (que no es lo mismo a lo
 que el autor haya  escrito finalmente en la carta). ¿Playtesting? (cri-cri)
 
 **¿Cómo sé si me puede gustar a mí este juego?** Pues bueno, en la chapa de
