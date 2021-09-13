@@ -261,7 +261,7 @@ esas personas que se olían algo me encontraba yo, así que en vez de meterme en
 este kickstarter esperé y adquirí solamente el Rules Tome en PDF.
 
 Después de que se agotara la tirada de libros de Old-School Essentials Classic
-Fantasy Rules Tome, Negrotic Gnome hizo una segunda edición de este libro:
+Fantasy Rules Tome, Necrotic Gnome hizo una segunda edición de este libro:
 
 <div class="row">
     <div class="col-md-3">
@@ -307,7 +307,7 @@ Durante el mismo periodo, Negrotic Gnome sacó otro libro:
     Tome</strong> (2020) es un tomo que contiene todas las reglas que necesitan
     los jugadores —no el Dungeon Master— para poder jugar al juego. Incluye
     casi todo el contenido que tiene el OSE Classic Fantasy Rules Tome, pero se
-    le ha quitado todo lo que debe saber el DM, como los monstruos, como crear
+    le ha quitado todo lo que debe saber el DM, como los monstruos, cómo crear
     aventuras y tablas de encuentros.</p>
      </div>
 </div>
