@@ -741,8 +741,8 @@ escasos.
 creativa en vez de ser esa experiencia de "mata-mata y sube de nivel" a la que
 a veces parece que han *degenerado* las ediciones más modernas.
 
-<img width="50" src="{{site.baseurl}}/images/fire.png"> **Old
-School-Essentials Advanced Fanstasy:** os lo recomiendo MUY encarecidamente.
+<img width="50" src="{{site.baseurl}}/images/fire.png"> **Old-School Essentials
+Advanced Fanstasy:** os lo recomiendo MUY encarecidamente.
 
 <hr>
 
