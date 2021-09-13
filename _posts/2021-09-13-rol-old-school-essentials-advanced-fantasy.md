@@ -54,9 +54,11 @@ espíritu de la vieja escuela"
     Norman</strong>, propietario de la <a
     href="https://necroticgnome.com/">editorial</a> <strong>Necrotic
     Gnome</strong>, con sede en Berlín.</li>
-    <li>Los libros cuentan con una gran variedad de artistas que combinan , entre los cuales <a href="https://pmullenblog.blogspot.com/">Peter Mullen</a> ha hecho ambas portadas.</li>
+    <li>Los libros cuentan con una gran variedad de artistas, entre los cuales
+    <a href="https://pmullenblog.blogspot.com/">Peter Mullen</a> ha hecho ambas
+    portadas.</li>
     <li>Estos libros fueron financiados gracias a una campaña de <a
-    href="https://www.kickstarter.com/projects/exaltedfuneral/old-school-essentials-advanced-fantasy">Kickstarter</a>,
+    href="https://www.kickstarter.com/projects/exaltedfuneral/old-school-essentials-advanced-fantasy">Kickstarter</a>
     durante agosto/septiembre de 2020, que consiguió más de 291.000$ del
     objetivo de 20.000$. A los mecenas <a
     href="{{site.baseurl}}/2021/08/04/partidas-mes-julio-21/">nos llegó el
@@ -183,8 +185,9 @@ Voy a dar un repaso a dichos productos:
     todo el contenido en un único tomo.</p>
     <p>La imagen que veis en la foto se corresponde a la <strong>primera edición</strong> del
     tomo, <strong>la segunda edición del tomo tiene una portada
-    diferente</strong>, en vez de un dragón aparece un mago con un caldero, y
-    es la que podéis comprar hoy en día (hablo de ella más abajo).</p>
+    diferente</strong>, en vez de un dragón aparece un mago con una bola de
+    cristal, y es la que podéis comprar hoy en día (hablo de ella más
+    abajo).</p>
      </div>
 </div>
 
@@ -559,7 +562,7 @@ que es de lo mejor que os podéis encontrar.
 Los libros tienen ilustraciones en color a dos páginas como a una sola página,
 y también tienen muchas ilustraciones en blanco y negro. Las ilustraciones son
 bastante variadas porque no son de un único autor y se combinan diferentes
-estilo, aunque todo esta ligado por tener el mismo tema.
+estilos, aunque todo queda ligado por tener el mismo tema.
 
 El papel es grueso y la calidad de impresión es también excelente, las letras
 son nítidas y todas las ilustraciones, en color y blanco y negro, se ven
@@ -714,8 +717,10 @@ y el mundo no va a ir subiendo de nivel a medida que tu personaje lo haga. El
 mundo es muy rico, pero también está lleno de peligros, y tu sentido común
 tendrá que decirte si merece la pena o no jugarte la vida de tu personaje en un
 combate, o si te arriesgas a adentrarte en una región peligrosa o en la zona
-más profunda de la mazmorra. Este es un juego que rescata una de las máximas de
-la vieja escuela: el combate es guerra, no deporte.
+más profunda de la mazmorra. Este es un juego que rescata una de las [máximas de
+la vieja
+escuela](https://drive.google.com/file/d/1rN5w4-azTq3Kbn0Yvk9nfqQhwQ1R5by1/view):
+*"el combate es guerra, no deporte"*.
 
 La forma de jugar propicia también que hagas una gestión de recursos cuando
 estás explorando, las raciones de comida y las antorchas no son algo infinito
