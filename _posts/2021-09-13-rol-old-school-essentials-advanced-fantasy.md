@@ -574,7 +574,7 @@ perfectamente, con unos colores muy vivos.
 <p align="center"><img src="https://live.staticflickr.com/65535/51457870125_7106edb912_b.jpg"></p>
 <p align="center"><small>Ilustración a una cara</small></p>
 
-La maquetación de este libro ha sido hecha pensando que los libros *se van a
+La maquetación de estos libros ha sido hecha pensando que los libros *se van a
 usar* por los los jugadores y en el DM en todo momento, por lo que toda la
 información se puede hacer referencia de forma clara, rápida y directa.  Aunque
 en muchas páginas no tengamos ilustraciones no da una sensación de "tocho" o
@@ -613,7 +613,7 @@ así que resulta algo excelente.
 
 En esta sección me gustaría resumir los **puntos positivos y negativos de
 Old-School Essentials Advanced Fantasy** de forma muy breve para que os podáis
-hacer una idea rápida de si este libro es para vosotros o no.
+hacer una idea rápida de si estos libros son para vosotros o no.
 
 <strong style="font-size: 25px;">+</strong> No hay que aprender casi ninguna
 regla si has jugado a alguna iteración de D&D o similares, la secuencia de
