@@ -379,8 +379,8 @@ editorial (¡prestad especial atención al setting de Dolmenwood!).
 mecánicas, son las mismas reglas con las que has estado jugando a Dungeons &
 Dragons y otros juegos de rol similares que hereden algo de D&D.
 
-Los personajes tienen seis habilidades diferentes: strenght (STR), intelligence
-(INT), wisdom (WIS), dextery (DEX), constitution (CON) y charisma (CHA), se
+Los personajes tienen seis habilidades diferentes: strength (STR), intelligence
+(INT), wisdom (WIS), dexterity (DEX), constitution (CON) y charisma (CHA), se
 generan tirando 3d6 y las utilizarás en diferentes situaciones para saber si
 puedes superar o no un determinado reto haciendo un **chequeo de habilidad**
 (*abilility check*). Para esto tiras un dado d20 y tratas de sacar un valor
