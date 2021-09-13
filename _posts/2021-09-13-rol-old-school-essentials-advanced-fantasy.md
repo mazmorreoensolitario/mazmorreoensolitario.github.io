@@ -538,7 +538,7 @@ parezca.
 <p align="center"><img src="https://live.staticflickr.com/65535/51456146652_e85900e049_b.jpg"></p>
 <p align="center"><small>Los dos tomos de Old-School Essentials Advanced Fantasy</small></p>
 
-OSE-Advanced viene en dos tomos de tapa dura con el logro gravado en letras
+OSE-Advanced viene en dos tomos de tapa dura con el logro grabado en letras
 doradas (imagen arriba), además de eso tienes dos marcapáginas de tela en cada
 tomo.
 
