@@ -61,8 +61,8 @@ espíritu de la vieja escuela"
     href="https://www.kickstarter.com/projects/exaltedfuneral/old-school-essentials-advanced-fantasy">Kickstarter</a>
     durante agosto/septiembre de 2020, que consiguió más de 291.000$ del
     objetivo de 20.000$. A los mecenas <a
-    href="{{site.baseurl}}/2021/08/04/partidas-mes-julio-21/">nos llegó el
-    libro</a> a finales de julio de 2021.</li>
+    href="{{site.baseurl}}/2021/08/04/partidas-mes-julio-21/">nos llegaron los
+    libros</a> a finales de julio de 2021.</li>
     <li>Old-School Essentials ha tenido muchas ediciones y formatos a lo largo
     de los años, tienes un vistazo general entre las distintas ediciones en la
     sección <i>Un vistazo a todos los formatos de
