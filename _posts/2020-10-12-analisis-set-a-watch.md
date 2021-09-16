@@ -191,9 +191,10 @@ Para enfrentarnos a las criaturas, haremos uso de los dados que hemos tirado
 para esta ronda y las habilidades que tengamos disponibles (las que no estén
 agotadas). Las criaturas tienen su vida indicada en la esquina superior
 derecha; por ejemplo, en la imagen de arriba, la *Fae* tiene 5 de
-vida. Nuestros ataques ser de alcance 1 (icono de dos espadas
+vida. Nuestros ataques pueden ser de alcance 1 (icono de dos espadas
 en la esquina inferior derecha del tablero del jugador) ó 2 (icono de un
-arco).
+arco), y representan al número de cartas a las que llegamos para atacar,
+empezando a contar desde la primera de la fila.
 
 El **ataque normal** consiste en asignar uno o más dados al monstruo que esté
 dentro de nuestro rango. Por ejemplo, si queremos que nuestra Ranger se encargue de la
