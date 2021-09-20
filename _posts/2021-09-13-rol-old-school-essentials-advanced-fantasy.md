@@ -73,7 +73,7 @@ espíritu de la vieja escuela"
     href="https://www.thehillspress.es/producto/old-school-essentials/">está
     trabajando</a> en la traducción de la parte B/X de este juego,
     publicada anteriormente en una caja con libros modulares, que no es
-    exacatamente la edición de este análisis, pero te explico en qué se
+    exactamente la edición de este análisis, pero te explico en qué se
     diferencian en las sección <i>Un vistazo a todos los formatos de
     Old-School Essentials</i> para que te quede todo claro.</li>
              </ul>
@@ -474,7 +474,7 @@ Puesto que dentro del mundillo OSR se busca la compatibilidad con aventuras,
 settings y en general la interoperabilidad de todos los productos, eso de tener
 CA descendente y ascendente rompe un poco las cosas. Para eso tenemos el THAC0,
 que nos pone el valor que tenemos que utilizar en la *Attack Matrix* en el caso
-de la CA descentente y el **bono de ataque** que tiene nuestro personaje cuando
+de la CA descendente y el **bono de ataque** que tiene nuestro personaje cuando
 jugamos con AAC. Además, cuando se habla de CA, en todo momento tenéis el valor
 de CA descendente y el de ascendente entre paréntesis.
 
@@ -742,7 +742,7 @@ creativa en vez de ser esa experiencia de "mata-mata y sube de nivel" a la que
 a veces parece que han *degenerado* las ediciones más modernas.
 
 <img width="50" src="{{site.baseurl}}/images/fire.png"> **Old-School Essentials
-Advanced Fanstasy:** os lo recomiendo MUY encarecidamente.
+Advanced Fantasy:** os lo recomiendo MUY encarecidamente.
 
 <hr>
 
