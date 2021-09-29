@@ -255,9 +255,10 @@ src="https://cf.geekdo-images.com/aE1EoOzr530gQin8bj8QDA__imagepage/img/m9dEp_Ze
 
 El último juego de este mes ha sido **[Tiny
 Towns](https://boardgamegeek.com/boardgame/265736/tiny-towns)** ([primeras
-impresiones aquí]({{site.baseurl}})), en el que me he dedicado a tratar de
-mejorar mis puntuaciones a combinaciones de construcción que ya había jugado
-antes.
+impresiones
+aquí]({{site.baseurl}}/2020/11/28/primeras-impresiones-tiny-towns/)), en el que
+me he dedicado a tratar de mejorar mis puntuaciones a combinaciones de
+construcción que ya había jugado antes.
 
 En general cuando saco al menos 30 puntos creo que lo he hecho bien, pero si me
 resulta sencillo llegar a eso mi objetivo son al menos 35 puntos, aunque mi
