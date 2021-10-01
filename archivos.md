@@ -19,7 +19,9 @@ categorías.
 <p class="text-left">
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
-    {% if tag[0] == "Augmented Reality" or
+    {% if tag[0] == "Augmented Reality" or tag[0] == "Ronin" or
+        tag[0] == "Paria" or
+        tag[0] == "Dirt RPG" or
         tag[0] == "All Must Bow" or tag[0] == "Muspelhell" or
         tag[0] == "Across a Thousand Dead Worlds" or tag[0] == "Apothecaria" or
         tag[0] == "Tunnels & Trolls" or
@@ -168,12 +170,14 @@ categorías.
                         tag[0] == "Worthington Publishing" or
                         tag[0] == "Across the Bug River: Volodymyr-Volynskyi 1941" or
                         tag[0] == "Advanced Squad Leader: Starter Kit" or
+                        tag[0] == "Air Raid Pearl Harbor" or
                         tag[0] == "All Bridges Burning" or
                         tag[0] == "Ambon: Burning Sun & Little Seagulls" or
                         tag[0] == "Ardennes 44" or
                         tag[0] == "Cataclysm: A Second World War" or
                         tag[0] == "Caesar: Rome vs. Gaul" or
                         tag[0] == "Crossing the Line: Aachen 1944" or
+                        tag[0] == "Cross Bronx Expressway" or
                         tag[0] == "El Imperio del Sol" or
                         tag[0] == "Empire of the Sun" or
                         tag[0] == "Exploradores de las Profundidades Sombrías" or
@@ -185,6 +189,8 @@ categorías.
                         tag[0] == "Hannibal's Revenge" or
                         tag[0] == "Hitler's Reich" or
                         tag[0] == "Horse & Musket" or
+                        tag[0] == "Inferno" or
+                        tag[0] == "Lanzerath Ridge" or
                         tag[0] == "Nevsky: Teutons and Rus in Collision" or
                         tag[0] == "Next War: Korea" or
                         tag[0] == "Pavlov's House" or

@@ -238,7 +238,7 @@ Ahora pasamos a las **noticias**:
   
 * **Catch Up Games**, editorial francesa a cargo de **Reinos de Papel**
   ([análisis
-  aquí]({{site.baseurl}}/2019/07/05/analisis-reinos-de-papel-mas-alla-de-las-puertasa/)),
+  aquí]({{site.baseurl}}/2019/07/05/analisis-reinos-de-papel-mas-alla-de-las-puertas/)),
   [anuncia](https://www.youtube.com/watch?v=OTQbEv74-K4) que está preparando 
   una **nueva expansión** para el juego además de una **big box**. Esta big box
   contendría el juego base y las dos expansiones que tendría el juego.
