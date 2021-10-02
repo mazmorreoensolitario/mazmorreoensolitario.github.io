@@ -63,7 +63,7 @@ repeler los ataques de trolls y goblins.
 src="https://cf.geekdo-images.com/oQhpQhMvyBxKF33TaMn9Qw__imagepage/img/aKhxw8iyxaV595IUV6nhskuClkA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2690992.png"></p>
 
 **—** A comienzos de septiembre **Maldito Games** visitó [Sentido
-Antiorario](https://www.youtube.com/watch?v=T7O-_zS6Em4) y se dedicó a repartir
+Antihorario](https://www.youtube.com/watch?v=T7O-_zS6Em4) y se dedicó a repartir
 exclusivas sobre las siguientes licencias, aquí os dejo los juegos que nos
 interesan como jugadores en solitario:
 
@@ -171,7 +171,7 @@ lista**.
 
 La tienda de la editorial **Cranio Creations** [ya
 anuncia](https://www.craniocreations.it/prodotto/terra-mystica-automa-per-modalita-solitario/)
-la versión italiana para **noviembre** de este año con un precio de 19.99€;
+la versión italiana para **noviembre** de este año (2021) con un precio de 19.99€;
 Ostertag comenta que otras editoriales deberían anunciar la expansión pronto.
 
 <p align="center">
@@ -217,7 +217,7 @@ estos productos a un precio reducido.
 **[Interestellar](https://boardgamegeek.com/boardgame/339591/interstellar)** es
 el la entrega más reciente de la [serie
 BIOS](https://boardgamegeek.com/boardgamefamily/23433/series-bios-phil-eklund/linkeditems/boardgamefamily?pageid=1&sort=yearpublished);
-en él tratamos de sobrevivir en la nave generacional Exodus, que se deteriora
+en ella tratamos de sobrevivir en la nave generacional Exodus, que se deteriora
 cada vez más. Interestellar tiene un modo cooperativo de 2 a 6 jugadores y un
 modo en solitario.
 
@@ -638,7 +638,7 @@ src="https://d1vzi28wh99zvq.cloudfront.net/images/480/372637.png"></p>
 **Mythic** de **Tana Pigeon**: [Mythic Magazine Volume
 9](https://www.drivethrurpg.com/product/369537/Mythic-Magazine-Volume-9?affiliate_id=1914894),
 y [Mythic Magazine Volume 10](https://www.drivethrurpg.com/product/372637/Mythic-Magazine-Volume-10?affiliate_id=1914894);
-ambas entregas están disponible en DriveThruRPG por 4.95$ en PDF
+ambas entregas están disponibles en DriveThruRPG por 4.95$ en PDF.
   
 La novena entrega se centra en ayudarte a elegir juego de rol para tu estilo de
 juego y te permite generar el comportamiento de NPCs. En la décima entrega se
@@ -661,7 +661,7 @@ mecánicas muy sencillas. La caja podrá conseguirse en un **Kickstarter el 2 de
 noviembre** de este mismo año (2021).
 
 <p align="center">
-<img height="450" src="https://www.thehillspress.es/wp-content/uploads/2021/09/Caja-OSE.png">
+<img height="" src="https://www.thehillspress.es/wp-content/uploads/2021/09/Caja-OSE.png">
 </p>
 
 **—** Siguiendo hablando de juegos que no son en solitario, pero como ya
