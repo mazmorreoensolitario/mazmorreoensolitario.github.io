@@ -1334,6 +1334,12 @@ al final del link, darle al enter y luego meterlo a la cesta. Muchas gracias,
 los beneficios irán a que me compre este libro:
 [Downcrawl](https://www.drivethrurpg.com/product/278571/Downcrawl?affiliate_id=1914894) :)
 
+Y te recuerdo que también puedes ayudar con los gastos del blog via KoFi:
+
+<script type='text/javascript'
+src='https://ko-fi.com/widgets/widget_2.js'></script><script
+type='text/javascript'>kofiwidget2.init('¡Apoya al blog!', '#29abe0', 'G2G11C3DK');kofiwidget2.draw();</script>
+
 <hr>
  
 <small>Nota: Las imágenes de los juegos de rol, generadores, recursos,
