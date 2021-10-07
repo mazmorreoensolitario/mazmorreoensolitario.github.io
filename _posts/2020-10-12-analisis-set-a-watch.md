@@ -32,11 +32,12 @@ de enemigos en cada uno de estos lugares para traer la paz al reino."
             <tr><td class="text-left"><strong>Precio:</strong></td><td
                 class="text-left"><a
             href="https://rockmanorgames.com/shop/">30$</a> / <a
-    href="https://rockmanorgames.com/shop/">35$</a> (deluxe)</td></tr> 
+    href="https://rockmanorgames.com/shop/">35$</a> (deluxe)</td></tr>
+        <tr><td></td><td><a
+    href="https://zacatrus.es/set-a-watch.html#u97">~32€</a> (deluxe en español)</td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-4</td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">60-90 mins</td></tr>
-            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés</td></tr>
-		    <tr><td class="text-left"><strong><strong>Dependencia del idioma:</strong></strong></td><td class="text-left">Alta, es necesario saber inglés para poder jugar</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés/Español</td></tr>
          </table>
         </div>
         <div class="col-md-12"></div>
@@ -55,11 +56,15 @@ de enemigos en cada uno de estos lugares para traer la paz al reino."
              href="https://www.kickstarter.com/projects/mikegnade/set-watch-swords-of-the-coin?ref=mazmorreoensolitario">Swords of
              the Coin</a>, que puede funcionar como juego base o expansión a la
              vez.</li>
+             <li>En España la edición deluxe ha sido publicada por
+             <strong>Bunble3ee Interactive</strong>.</li>
          </ul>
          </div>
     </div>
 </div>
 
+<p align="right"><small>Actualizado 7/10/21: Se añade info. sobre la versión en
+español.</small></p>
 
 ### Información general
 

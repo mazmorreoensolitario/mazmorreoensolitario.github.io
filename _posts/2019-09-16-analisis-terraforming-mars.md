@@ -31,7 +31,7 @@ falta terraformar un planeta terriblemente frío, seco y casi sin atmósfera."
         <div class="col-md-6">
         <table class="table table-striped table-hover">
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2016</td></tr>
-            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left"><a href="https://amzn.to/3fq5uAK">~45€</a></td></tr>
+            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left"><a href="https://zacatrus.es/terraforming-mars.html#u97">~45€</a></td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-4</td></tr>
             <tr><td>Tiene un modo en solitario</td><td></td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">1h</td></tr>
@@ -51,11 +51,11 @@ falta terraformar un planeta terriblemente frío, seco y casi sin atmósfera."
              href="https://www.malditogames.com/juegos/terraforming-mars-juego/">Maldito
              Games</a>.</li>
              <li>Han salido 5 expansiones para el juego: <a
-             href="https://amzn.to/2PIEanF">Venus Next</a>, <a 
-             href="https://amzn.to/2NSXLzg">Hellas y Elysium</a>, <a
-             href="https://amzn.to/2Lw6dkT">Preludio</a>, <a
-             href="https://amzn.to/2ZwC6DT">Colonias</a> y <a
-    href="https://www.kickstarter.com/projects/strongholdgames/terraforming-mars-turmoil?ref=mazmorreoensolitario">Conflictos</a>. Todas
+             href="https://zacatrus.es/terraforming-mars-venus-next.html#u97">Venus Next</a>, <a 
+             href="https://zacatrus.es/terraforming-mars-hellas-y-elysium.html#u97">Hellas y Elysium</a>, <a
+             href="https://zacatrus.es/terraforming-mars-preludio.html#u97">Preludio</a>, <a
+             href="https://zacatrus.es/terraforming-mars-colonias.html#u97">Colonias</a> y <a
+             href="https://zacatrus.es/terraforming-mars-conflictos.html#u97">Conflictos</a>. Todas
              ellas han sido licenciadas también por Maldito Games. La última
              expansión, Terraforming Mars: Conflictos, fue financiada
              exitosamente en Kickstarer en Abril de este año y se espera para

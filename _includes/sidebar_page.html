@@ -29,6 +29,7 @@
     <h4>Tiendas afiliadas</h4>
     <a href="https://www.philibertnet.com/en/#ae447-11"><img src="https://lb.affilae.com/imp/5bf52e77e2891d7d00f2e8af/5feb54c8888f143432e298a4/5cd976224b107f49ec5b7af2/https://s3-eu-west-1.amazonaws.com/aeup/uploads/programs/5bf52e77e2891d7d00f2e8af/elements/5cd976224b107f49ec5b7af0.png"/></a>
     <p align="center"><strong><small>¡Envío con Punto Pack a España por 2.95€!</small></strong></p>
+    <a href="https://zacatrus.es#u97"><img src="https://cf.geekdo-images.com/iTLNi2G5neh548ulgp9L-w__imagepage/img/5KTkFxYAW8YOwMp9Zce_-Q_9O_k=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2239623.png"></a>
     <p align="center">
     <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=12&l=ez&f=ifr&linkID=d6ac1a64de8e80f9eb87aa2d5cbaf4b5&t=mazmorreo-21&tracking_id=mazmorreo-21"
     width="300" height="250" scrolling="no" border="0" marginwidth="0"
@@ -109,7 +110,15 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/06/21/analisis-root/" %}
+       {% if post.url == "/2018/11/05/analisis-mini-rogue/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -123,14 +132,6 @@
       {% endif %}
       {% endfor %}
     </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2018/11/05/analisis-mini-rogue/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
 <span id="dummy"></span>
   </div>
   <div class="mt10">
@@ -139,60 +140,60 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Old-School Essentials"
       or tag[0] == "Tops"
-      or tag[0] == "Aeon's End"
       or tag[0] == "Dune: Imperium"
       or tag[0] == "7 Wonders Duel"
-      or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Aeon's End"
       or tag[0] == "Crónicas del Crimen"
-      or tag[0] == "Forbidden Lands"
       or tag[0] == "The Siege of Runedar"
       or tag[0] == "Compass Games"
       or tag[0] == "Concordia Solitaria"
       or tag[0] == "Europa Universalis: The Price of Power"
-      or tag[0] == "Res Arcana"
+      or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Pandemic: Legacy"
       or tag[0] == "Scarlet Heroes"
       or tag[0] == "The City of Kings"
+      or tag[0] == "The Manhattan Project: Energy Empire"
       or tag[0] == "Tin Helm"
       or tag[0] == "Welcome Hacia el Perfecto Hogar"
+      or tag[0] == "A Rasp of Sand"
       or tag[0] == "Blades in the Dark"
       or tag[0] == "Cascadia"
       or tag[0] == "El mes en juegos"
       or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
       or tag[0] == "G.I. JOE Deck-Building Game"
-      or tag[0] == "Las Ruinas Perdidas de Arnak"
+      or tag[0] == "Ironsworn: Delve"
       or tag[0] == "Mad Monks of Kwantoom"
       or tag[0] == "Malditos"
       or tag[0] == "Nevsky: Teutons and Rus in Collision"
-      or tag[0] == "Pandemic: Legacy"
       or tag[0] == "Pathfinder"
+      or tag[0] == "Res Arcana"
       or tag[0] == "Root: Los Cachivaches"
       or tag[0] == "Ruins of the Undercity"
-      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Tank Duel: Enemy in the Crosshairs"
       or tag[0] == "The Dark Valley"
-      or tag[0] == "The Manhattan Project: Energy Empire"
-      or tag[0] == "A Rasp of Sand"
       or tag[0] == "Aeon's End: Legacy"
       or tag[0] == "Air Raid Pearl Harbor"
       or tag[0] == "Ardennes 44"
+      or tag[0] == "Boletín Informativo Solitario"
       or tag[0] == "Cartaventura: Lhassa"
       or tag[0] == "Cartaventura: Vinland"
       or tag[0] == "Cartaventura"
       or tag[0] == "Cross Bronx Expressway"
-      or tag[0] == "Disciples of Bone and Shadow: Conquered Sun Edition"
       or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "El Banquete de Odín"
       or tag[0] == "Essen Spiel"
       or tag[0] == "Everdell"
       or tag[0] == "Fields of Fire"
+      or tag[0] == "Five Parsecs From Home"
+      or tag[0] == "Forbidden Lands"
       or tag[0] == "Fossilis"
-      or tag[0] == "Four Against Darkness"
-      or tag[0] == "Gloomhaven: Fauces del León"
       or tag[0] == "Gloomhaven"
       or tag[0] == "Great Western Trail"
       or tag[0] == "Inferno"
-      or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "Iron Helm"
       or tag[0] == "Keystone: North America"
+      or tag[0] == "Las Ruinas Perdidas de Arnak"
+      or tag[0] == "Mörk Borg"
       or tag[0] == "Next War: Korea"
       or tag[0] == "One Deck Dungeon"
       or tag[0] == "One Page Dungeon"
@@ -200,11 +201,14 @@
       or tag[0] == "Paladines del Reino del Oeste"
       or tag[0] == "Rising Sun"
       or tag[0] == "Root: The Underworld"
+      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Terraforming Mars: Ares Expedition"
       or tag[0] == "Tetrarchia"
       or tag[0] == "The Manhattan Project: Energy Empire - Cold War"
+      or tag[0] == "The Perilous Wilds"
       or tag[0] == "Through the Ages: A New Story of Civilization"
       or tag[0] == "Undaunted: North Africa"
+      or tag[0] == "Winter's Daughter"
       or tag[0] == "World at War 85: Storming the Gap" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 

@@ -29,7 +29,7 @@ una facción asimétrica en busca de la victoria"
         <table class="table table-striped table-hover">
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2018</td></tr>
             <tr><td class="text-left"><strong>Precio:</strong></td><td
-                class="text-left"><a href="https://amzn.to/3z4nEkG">58€</a></td></tr> 
+                class="text-left"><a href="https://zacatrus.es/root.html#u97">50€</a></td></tr> 
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">2-4</td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">50-60 mins</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés/Español</td></tr>
@@ -68,7 +68,7 @@ una facción asimétrica en busca de la victoria"
         <table class="table table-striped table-hover">
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2020</td></tr>
             <tr><td class="text-left"><strong>Precio:</strong></td><td
-                class="text-left"><a href="https://amzn.to/2S8Yu3U">38€</a></td></tr>
+                class="text-left"><a href="https://zacatrus.es/root-expansion-los-cachivaches.html#u97">35€</a></td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-4</td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">50-60 mins</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés/Español</td></tr>
