@@ -34,11 +34,12 @@ de enemigos en cada uno de estos lugares para traer la paz al reino."
             href="https://rockmanorgames.com/shop/">30$</a> / <a
     href="https://rockmanorgames.com/shop/">35$</a> (deluxe)</td></tr>
         <tr><td></td><td><a
-    href="https://zacatrus.es/set-a-watch.html#u97">~32€</a> (deluxe en español)</td></tr>
+    href="https://zacatrus.es/set-a-watch.html#u97">~32€</a> (deluxe, español)</td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-4</td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">60-90 mins</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés/Español</td></tr>
-         </table>
+            <tr><td class="text-left"><strong>Dependencia del idioma:</strong></td><td class="text-left">Alta, es necesario saber el idioma para poder jugar</td></tr>
+        </table>
         </div>
         <div class="col-md-12"></div>
         <div class="col-md-12">

@@ -34,10 +34,14 @@ solamente con un superviviente"
             class="text-left"><a
             href="https://www.pnparcade.com/collections/solo-games/products/food-chain-island-1">3$</a>
     (print & play)</td>
-            </tr><tr><td></td><td><a href="https://buttonshygames.com/collections/current-collection/products/food-chain-island">12$</a> (cartera)</td></tr>
+            </tr><tr><td></td><td><a
+    href="https://buttonshygames.com/collections/current-collection/products/food-chain-island">12$</a>
+    (cartera, inglés)</td></tr>
+            <tr><td></td><td><a
+    href="https://zacatrus.es/isla-animal.html#97">~13€</a> (cartera, español)</td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1</td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">5-10 min</td></tr>
-            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés/Castellano</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés/Español</td></tr>
             <tr><td class="text-left"><strong>Dependencia del
             idioma:</strong></td><td class="text-left">Baja, manual y
             significado de las habilidades de las cartas</td></tr>
