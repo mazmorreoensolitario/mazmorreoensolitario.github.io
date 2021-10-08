@@ -110,7 +110,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2018/11/05/analisis-mini-rogue/" %}
+       {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -126,7 +126,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/09/13/rol-old-school-essentials-advanced-fantasy/" %}
+       {% if post.url == "/2018/11/05/analisis-mini-rogue/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -140,14 +140,16 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Old-School Essentials"
       or tag[0] == "Tops"
+      or tag[0] == "The Siege of Runedar"
       or tag[0] == "Dune: Imperium"
       or tag[0] == "7 Wonders Duel"
-      or tag[0] == "Aeon's End"
-      or tag[0] == "Crónicas del Crimen"
-      or tag[0] == "The Siege of Runedar"
-      or tag[0] == "Compass Games"
       or tag[0] == "Concordia Solitaria"
-      or tag[0] == "Europa Universalis: The Price of Power"
+      or tag[0] == "Crónicas del Crimen"
+      or tag[0] == "A Rasp of Sand"
+      or tag[0] == "Aeon's End"
+      or tag[0] == "Compass Games"
+      or tag[0] == "El mes en juegos"
+      or tag[0] == "Forbidden Lands"
       or tag[0] == "Labyrinth Lord"
       or tag[0] == "Pandemic: Legacy"
       or tag[0] == "Scarlet Heroes"
@@ -155,61 +157,56 @@
       or tag[0] == "The Manhattan Project: Energy Empire"
       or tag[0] == "Tin Helm"
       or tag[0] == "Welcome Hacia el Perfecto Hogar"
-      or tag[0] == "A Rasp of Sand"
-      or tag[0] == "Blades in the Dark"
+      or tag[0] == "Boletín Informativo Solitario"
       or tag[0] == "Cascadia"
-      or tag[0] == "El mes en juegos"
       or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
+      or tag[0] == "Europa Universalis: The Price of Power"
       or tag[0] == "G.I. JOE Deck-Building Game"
-      or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "Ironsworn"
       or tag[0] == "Mad Monks of Kwantoom"
       or tag[0] == "Malditos"
       or tag[0] == "Nevsky: Teutons and Rus in Collision"
       or tag[0] == "Pathfinder"
       or tag[0] == "Res Arcana"
-      or tag[0] == "Root: Los Cachivaches"
-      or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Tank Duel: Enemy in the Crosshairs"
-      or tag[0] == "The Dark Valley"
+      or tag[0] == "Trek 12"
+      or tag[0] == "World at War 85: Storming the Gap"
       or tag[0] == "Aeon's End: Legacy"
       or tag[0] == "Air Raid Pearl Harbor"
       or tag[0] == "Ardennes 44"
-      or tag[0] == "Boletín Informativo Solitario"
       or tag[0] == "Cartaventura: Lhassa"
       or tag[0] == "Cartaventura: Vinland"
       or tag[0] == "Cartaventura"
       or tag[0] == "Cross Bronx Expressway"
+      or tag[0] == "Cuentos de ánimas"
+      or tag[0] == "Curious Cargo"
       or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "El Banquete de Odín"
       or tag[0] == "Essen Spiel"
       or tag[0] == "Everdell"
       or tag[0] == "Fields of Fire"
       or tag[0] == "Five Parsecs From Home"
-      or tag[0] == "Forbidden Lands"
       or tag[0] == "Fossilis"
       or tag[0] == "Gloomhaven"
       or tag[0] == "Great Western Trail"
       or tag[0] == "Inferno"
       or tag[0] == "Iron Helm"
-      or tag[0] == "Keystone: North America"
+      or tag[0] == "Ironsworn: Delve"
       or tag[0] == "Las Ruinas Perdidas de Arnak"
       or tag[0] == "Mörk Borg"
       or tag[0] == "Next War: Korea"
       or tag[0] == "One Deck Dungeon"
-      or tag[0] == "One Page Dungeon"
       or tag[0] == "OSR"
       or tag[0] == "Paladines del Reino del Oeste"
       or tag[0] == "Rising Sun"
-      or tag[0] == "Root: The Underworld"
       or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "Terraforming Mars: Ares Expedition"
+      or tag[0] == "Solitaire Print & Play Design Contest"
       or tag[0] == "Tetrarchia"
+      or tag[0] == "The Dark Valley"
       or tag[0] == "The Manhattan Project: Energy Empire - Cold War"
       or tag[0] == "The Perilous Wilds"
       or tag[0] == "Through the Ages: A New Story of Civilization"
-      or tag[0] == "Undaunted: North Africa"
-      or tag[0] == "Winter's Daughter"
-      or tag[0] == "World at War 85: Storming the Gap" %}
+      or tag[0] == "Winter's Daughter" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
