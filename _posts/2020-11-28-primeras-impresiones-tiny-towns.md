@@ -4,7 +4,7 @@ title: "Primeras impresiones - Tiny Towns"
 date:   2020-11-28
 categories: [Primeras impresiones]
 tags: [Tiny Towns, Golden Geek]
-game: Tiny Tonws
+game: Tiny Towns
 imghtml: https://cf.geekdo-images.com/aE1EoOzr530gQin8bj8QDA__imagepage/img/m9dEp_Ze7eUFxXMdlpjHFMuml5E=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4460401.jpg
 post_desc: "Juego abstracto en el que tenemos que construir 
 edificios para una ciudad utilizando cinco recursos diferentes y colocándolos 
