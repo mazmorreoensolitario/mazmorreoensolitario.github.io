@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: BRAZIL: Imperial"
-tag: "BRAZIL: Imperial"
+title: "Etiqueta: Brazil: Imperial"
+tag: "Brazil: Imperial"
 ---

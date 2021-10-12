@@ -125,23 +125,24 @@ probarlos:
     lanzamientos que tiene Pfister este año, siendo la segunda edición de <a
     href="https://boardgamegeek.com/boardgame/341169/great-western-trail-second-edition">Great
     Western Rail</a> el otro.</p>
-        <p>En el futuro casi post-apocalíptico <strong>Boonlake</strong> hemos
-        llegado a una región inexplorada en la que esperamos mejorar nuestra
-        calidad de vida.</p>
+        <p>En el futuro casi post-apocalíptico de <strong>Boonlake</strong>
+        hemos llegado a una región inexplorada en la que esperamos mejorar
+        nuestra calidad de vida.</p>
         <img src="https://cf.geekdo-images.com/BXe9R6JCILMRxVM-AD1TVw__imagepage/img/M-PQfjyEvskyiVD0jJ97E2bkCi4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6313607.png">
         <p><small>Render del tablero del juego, tablero de jugador y tablero de
     selección de tiras de acción.</small></p>
         <p><strong>Un pequeño vistazo.</strong> Tras leer las <a
     href="https://boardgamegeek.com/filepage/226887/english-rules">reglas</a>
     podemos ver que el tema de Boonlake podía haber sido cualquier
-    cosa. Tenemos un tablero de jugador en el que tenemos un barco que marca
+    cosa. Tenemos un tablero de jugador con un barco que marca
     nuestras acciones, si queremos tomar una acción más hacia nuestra derecha
     es gratis, mientras que si queremos tomar otra de nuestra izquierda hay que
-    pagar dinero. Tenemos un track en el tablero donde vamos moviendo nuestros
-    barcos y ganando los bonos del espacio en el que estén. Podemos construir
-    edificios y colocar a trabajadores ahí para conseguir sus diversos bonos,
-    para construir estos edificios tenemos que jugar cartas cuyo palo cuadre
-    con el palo de la tira de acción que hemos decidido elegir este turno.</p>
+    pagar dinero. Hay un track principal pintado como un río en el tablero
+    donde vamos moviendo nuestros barcos y ganando los bonos del espacio en el
+    que estén. Podemos construir edificios y colocar a trabajadores ahí para
+    conseguir sus diversos bonos, y para construir estos edificios tenemos que
+    jugar cartas cuyo palo cuadre con el palo de la tira de acción que hemos
+    decidido elegir este turno.</p>
          <p><strong>¿Por qué me interesa este juego?</strong> Pfister es un
     diseñador con mucho nombre por lo que hay que darle una oportunidad
     siempre, en 2018 sacó <a
@@ -181,9 +182,9 @@ probarlos:
         de <strong>Stefan Risthaus</strong>, publicado por
         <strong>Game Brewer</strong> que llegará por <strong>Maldito
     Games</strong> a España durante el último trimestre del año, es la versión de cartas de <a
-    href="https://boardgamegeek.com/boardgame/154825/arkwright">Arkwright</a>,
-    que no tenía un modo en solitario, pero en este juego de cartas sí podemos
-    jugar en solitario.</p>
+    href="https://boardgamegeek.com/boardgame/154825/arkwright">Arkwright</a>;
+    Arkwright no tenía un modo en solitario, pero en este juego de cartas sí
+    podemos jugar en solitario.</p>
     <p><strong>Arkwright: El Juego de Cartas</strong> es un juego en el que jugamos
     con los mercados mientras llevamos nuestros negocios, y buscamos mejorar
     el valor de nuestras acciones produciendo los bienes más codiciados. </p>
@@ -223,7 +224,7 @@ probarlos:
          <h4>3. Tabannusi: Builders of Ur</h4>
          <p><strong><a  href="https://boardgamegeek.com/boardgame/316786/tabannusi-builders-ur">Tabannusi: Builders of Ur</a></strong>
         de <strong>Daniele Tascini</strong> y <strong>David Spaca</strong>,
-        publicado por <strong>Board & Dice</strong>, también llegará a España
+        publicado por <strong>Board & Dice</strong>; también llegará a España
         por <strong>Maldito Games</strong> antes de que termine el año.</p>
         <p><strong>Tabannusi: Constructores de Ur</strong> es un juego
         ambientado en la antigua ciudad de Ur de Mesopotamia, en el que tenemos
@@ -256,7 +257,7 @@ probarlos:
     la zona del puerto.</p>
     <p>El modo en solitario tiene unas cartas muy similares a las de <a
     href="https://boardgamegeek.com/boardgame/220308/gaia-project">Gaia
-    Project</a>, y ha sido diseñado por Dávid Turczi y Nick Shaw, lao que a mi
+    Project</a>, y ha sido diseñado por Dávid Turczi y Nick Shaw, lo que a mi
     no me motiva demasiado, los modos en solitario de Turczi suelen  ser muy
     involucrados, así que espero que el turno del bot no consuma demasiado
     tiempo de juego.</p>
@@ -519,7 +520,7 @@ quedaría sin probar (y posiblemente comprar) de este año:
     de Pegasus Spiele</a>, lo que a mí me parece un precio muy interesante,
     lo que no me gusta es que la caja va a ser grande (29 y pico por 29 y
     pico) y eso que es un juego que no tiene tablero desplegable, solo tableros
-    de jugador, cuando vea un unboxing ya veré si está eso justificado, pero no
+    de jugador. Cuando vea un unboxing ya veré si está eso justificado, pero no
     me fío mucho de momento.</p>
     <p>En un principio este es un juego que compraría.</p>
      </div>
@@ -536,7 +537,7 @@ quedaría sin probar (y posiblemente comprar) de este año:
          <p><strong><a  href="https://boardgamegeek.com/boardgame/342942/ark-nova">Ark Nova</a></strong>
          es el primer diseño del francés <strong>Mathias Wigge</strong> y se
     publica con <strong>Feuerland Spiele</strong> y <strong>Capstone
-    Games</strong>.</p>
+    Games</strong> (en inglés).</p>
     <p>En <strong>Ark Nova</strong> administramos un zoo moderno que está
     siendo gestionado desde un punto de vista científico, tratando de conservar
     especies y ayudar en proyectos de investigación de protección de
@@ -615,7 +616,7 @@ quedaría sin probar (y posiblemente comprar) de este año:
 
 Y esto es un poco todo, al igual que el año pasado he tratado de quedarme con
 pocos juegos, así a bote pronto solamente compraría **Ark Nova** y
-**Corrosion** si estuviera en Essen (**Brazil: Imperial** no tiene PVP aún)
+**Corrosion** si estuviera en Essen (**Brazil: Imperial** no tiene PVP aún).
 
 Entre los juegos que no me perdería demos, aunque tienen ese orden, tengo más
 esperanzas en **Tabannusi** que **Bitoku** pero creo que sería más crítico
