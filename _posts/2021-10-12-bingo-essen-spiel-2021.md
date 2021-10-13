@@ -535,7 +535,7 @@ quedaría sin probar (y posiblemente comprar) de este año:
     <div class="col-md-9">
          <h4>1. Ark Nova</h4>
          <p><strong><a  href="https://boardgamegeek.com/boardgame/342942/ark-nova">Ark Nova</a></strong>
-         es el primer diseño del francés <strong>Mathias Wigge</strong> y se
+         es el primer diseño del alemán <strong>Mathias Wigge</strong> y se
     publica con <strong>Feuerland Spiele</strong> y <strong>Capstone
     Games</strong> (en inglés).</p>
     <p>En <strong>Ark Nova</strong> administramos un zoo moderno que está
