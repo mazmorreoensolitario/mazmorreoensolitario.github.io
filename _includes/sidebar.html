@@ -55,7 +55,7 @@
     <div id="most-read"></div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/05/16/rol-en-solitario-como-empiezo/" %}
+       {% if post.url == "/2021/10/12/bingo-essen-spiel-2021/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -63,7 +63,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/10/12/bingo-essen-spiel-2021/" %}
+       {% if post.url == "/2020/05/16/rol-en-solitario-como-empiezo/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -87,7 +87,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/27/general-top-100-bgg-solitario-p4/" %}
+       {% if post.url == "/2021/10/10/crowdfunding-1004-1010/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -95,7 +95,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/10/10/crowdfunding-1004-1010/" %}
+       {% if post.url == "/2021/03/27/general-top-100-bgg-solitario-p4/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -111,14 +111,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/06/21/analisis-root/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -127,7 +119,15 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/10/04/crowdfunding-0920-1003/" %}
+       {% if post.url == "/2021/06/21/analisis-root/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2018/11/05/analisis-mini-rogue/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -153,76 +153,75 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Old-School Essentials"
-      or tag[0] == "The Siege of Runedar"
-      or tag[0] == "World at War 85: Storming the Gap"
-      or tag[0] == "Ironsworn"
+      or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "Tops"
       or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Anachrony"
-      or tag[0] == "Scarlet Heroes"
-      or tag[0] == "Tainted Grail: La caída de Ávalon"
+      or tag[0] == "Essen Spiel"
+      or tag[0] == "Ironsworn"
+      or tag[0] == "World at War 85: Storming the Gap"
       or tag[0] == "Everdell"
       or tag[0] == "OSR"
+      or tag[0] == "Print & play"
+      or tag[0] == "Scarlet Heroes"
       or tag[0] == "Aeon's End"
+      or tag[0] == "Arkham Horror: The Card Game"
       or tag[0] == "Bomber Boys"
-      or tag[0] == "Concordia Solitaria"
       or tag[0] == "Essen Spiel 2021"
       or tag[0] == "Europa Universalis: The Price of Power"
       or tag[0] == "Expansiópolis"
+      or tag[0] == "Gloomhaven: Fauces del León"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
       or tag[0] == "Ironsworn: Delve"
       or tag[0] == "Ironsworn: Starforged"
-      or tag[0] == "Paleo"
-      or tag[0] == "Root: The Underworld"
-      or tag[0] == "Shadows of Brimstone"
+      or tag[0] == "Mörk Borg"
+      or tag[0] == "Robinson Crusoe"
       or tag[0] == "Undaunted: North Africa"
       or tag[0] == "Vizcondes del Reino del Oeste"
+      or tag[0] == "Welcome Hacia el Perfecto Hogar"
       or tag[0] == "Zine Quest"
       or tag[0] == "Across a Thousand Dead Worlds"
       or tag[0] == "Ark Nova"
-      or tag[0] == "Arkham Horror: The Card Game"
       or tag[0] == "Arkwright: El Juego de Cartas"
       or tag[0] == "Arkwright: The Card Game"
+      or tag[0] == "Barrage"
       or tag[0] == "Boletín Informativo Solitario"
       or tag[0] == "Boonlake"
       or tag[0] == "Brazil: Imperial"
       or tag[0] == "Cielos de metal"
+      or tag[0] == "Concordia Solitaria"
       or tag[0] == "Corrosion"
-      or tag[0] == "Dune: Imperium"
       or tag[0] == "El Banquete de Odín"
       or tag[0] == "El mes en juegos"
-      or tag[0] == "Essen Spiel"
+      or tag[0] == "Faiyum"
       or tag[0] == "Fields of Fire"
       or tag[0] == "Forbidden Lands"
       or tag[0] == "Gladiator Gauntlet"
+      or tag[0] == "Iron Helm"
       or tag[0] == "Labyrinth Lord"
       or tag[0] == "Le Havre"
       or tag[0] == "Lorenzo il Magnifico"
       or tag[0] == "Maracaibo"
-      or tag[0] == "Mörk Borg"
       or tag[0] == "Mythic"
-      or tag[0] == "Print & play"
       or tag[0] == "Race for the Galaxy"
       or tag[0] == "Reinos de Papel"
       or tag[0] == "Res Arcana"
-      or tag[0] == "Robinson Crusoe"
-      or tag[0] == "Root: Los Cachivaches"
       or tag[0] == "Root: The Clockwork"
       or tag[0] == "Ruins of the Undercity"
       or tag[0] == "SCRAWL"
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Settlement"
+      or tag[0] == "Shadows of Brimstone"
       or tag[0] == "Skulls of Sedlec"
-      or tag[0] == "Solitaire Print & Play Design Contest"
       or tag[0] == "Star Wars: Rebellion"
       or tag[0] == "Tabannusi: Builders of Ur"
       or tag[0] == "Tabannusi: Constructores de Ur"
       or tag[0] == "The 7th Continent"
       or tag[0] == "The Manhattan Project: Energy Empire"
+      or tag[0] == "The Siege of Runedar"
       or tag[0] == "Tunnels & Trolls"
       or tag[0] == "Twilight Imperium"
-      or tag[0] == "Under Falling Skies"
-      or tag[0] == "Welcome Hacia el Perfecto Hogar" %}
+      or tag[0] == "Under Falling Skies" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
@@ -283,7 +282,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
+       {% if post.url == "/2020/05/23/ojeando-mini-rogue/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>3. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -291,7 +290,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/05/23/ojeando-mini-rogue/" %}
+       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>4. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
