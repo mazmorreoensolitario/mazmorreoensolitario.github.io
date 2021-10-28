@@ -62,7 +62,23 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
+       {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
        {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2021/10/25/crowdfunding-1011-1024/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -78,7 +94,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
+       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -94,31 +110,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/27/general-top-100-bgg-solitario-p4/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2018/11/05/analisis-mini-rogue/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2021/06/21/analisis-root/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -132,6 +124,14 @@
       {% endif %}
       {% endfor %}
     </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2021/03/27/general-top-100-bgg-solitario-p4/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
 <span id="dummy"></span>
   </div>
   <div class="mt10">
@@ -140,74 +140,74 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Tops"
       or tag[0] == "Res Arcana"
-      or tag[0] == "9 Card Game Print & Play Design Contest"
-      or tag[0] == "Tainted Grail: La caída de Ávalon"
-      or tag[0] == "Ironsworn"
       or tag[0] == "Old-School Essentials"
       or tag[0] == "Print & play"
-      or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "Arkwright: El Juego de Cartas"
-      or tag[0] == "Colonos del Imperio: Imperios del Norte"
+      or tag[0] == "Tainted Grail: La caída de Ávalon"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Ironsworn"
       or tag[0] == "Mörk Borg"
-      or tag[0] == "Brass: Birmingham"
-      or tag[0] == "Cartaventura: Lhassa"
-      or tag[0] == "Concordia Solitaria"
-      or tag[0] == "Kickstarter"
-      or tag[0] == "Mythic"
+      or tag[0] == "Arkwright: El Juego de Cartas"
+      or tag[0] == "Europa Universalis: The Price of Power"
       or tag[0] == "Pandemic: Legacy"
+      or tag[0] == "Colonos del Imperio: Imperios del Norte"
+      or tag[0] == "Gloomhaven: Fauces del León"
+      or tag[0] == "Iron Helm"
+      or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Mythic"
+      or tag[0] == "Paper Dungeons"
+      or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "7 Wonders Duel"
       or tag[0] == "Aeon's End"
-      or tag[0] == "Barrage"
+      or tag[0] == "Agricola"
+      or tag[0] == "Alone Among the Stars"
       or tag[0] == "Blades in the Dark"
       or tag[0] == "Boletín Informativo Solitario"
+      or tag[0] == "Cartaventura: Lhassa"
       or tag[0] == "Cascadia"
       or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Five Parsecs From Home"
-      or tag[0] == "Gloomhaven: Fauces del León"
       or tag[0] == "Great Western Trail"
-      or tag[0] == "Grove"
-      or tag[0] == "Merv: The Heart of the Silk Road"
-      or tag[0] == "Rol"
-      or tag[0] == "Scarlet Heroes"
-      or tag[0] == "Suburbia"
+      or tag[0] == "Star Wars: Rebellion"
+      or tag[0] == "Tetrarchia"
       or tag[0] == "The Siege of Runedar"
-      or tag[0] == "The Vast in the Dark"
-      or tag[0] == "7 Wonders Duel"
-      or tag[0] == "Agricola"
-      or tag[0] == "Air Raid Pearl Harbor"
-      or tag[0] == "Alone Among the Stars"
+      or tag[0] == "A Rasp of Sand"
       or tag[0] == "Anachrony"
       or tag[0] == "Arquitectos del Reino del Oeste"
+      or tag[0] == "Barrage"
+      or tag[0] == "Brass: Birmingham"
       or tag[0] == "Circadians: Primera Luz"
+      or tag[0] == "Concordia Solitaria"
       or tag[0] == "Cuentos de ánimas"
       or tag[0] == "Curious Cargo"
       or tag[0] == "Dados y Colonos"
       or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
-      or tag[0] == "Europa Universalis: The Price of Power"
-      or tag[0] == "Expansiópolis"
+      or tag[0] == "Etherfields"
       or tag[0] == "Forbidden Lands"
       or tag[0] == "Forgotten Waters"
       or tag[0] == "Four Against Darkness"
+      or tag[0] == "Grove"
       or tag[0] == "Jackals: Bronze Age Fantasy Roleplaying"
-      or tag[0] == "Maracaibo"
-      or tag[0] == "Mini Rogue"
+      or tag[0] == "Kickstarter"
+      or tag[0] == "Nevsky: Teutons and Rus in Collision"
       or tag[0] == "On Mars"
       or tag[0] == "One Page Dungeon"
       or tag[0] == "Orquesta Negra"
-      or tag[0] == "Paper Dungeons"
+      or tag[0] == "OSR"
+      or tag[0] == "Pathfinder"
       or tag[0] == "Pico, Pluma & Hueso"
-      or tag[0] == "Praga Caput Regni"
+      or tag[0] == "Rol"
+      or tag[0] == "Ronin"
       or tag[0] == "Root: Los Cachivaches"
       or tag[0] == "Root: The Clockwork"
       or tag[0] == "Root"
-      or tag[0] == "Russian Railroads"
-      or tag[0] == "Scythe: El Auge de Fenris"
+      or tag[0] == "Slay the Spire: The Board Game"
       or tag[0] == "Solitaire Print & Play Design Contest"
-      or tag[0] == "Spirit Island: Jagged Earth"
-      or tag[0] == "Spirit Island"
+      or tag[0] == "Starforged"
+      or tag[0] == "Suburbia"
       or tag[0] == "Super-Skill Pinball: 4-Cade"
-      or tag[0] == "Tetrarchia"
-      or tag[0] == "The Wretched"
-      or tag[0] == "Thunderstone Quest"
+      or tag[0] == "The Perilous Wilds"
+      or tag[0] == "The Vast in the Dark"
+      or tag[0] == "Twilight: 2000"
       or tag[0] == "Undaunted: Normandy"
       or tag[0] == "World at War 85: Storming the Gap"
       or tag[0] == "Zine Quest" %}
