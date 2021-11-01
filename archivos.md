@@ -55,6 +55,7 @@ categorías.
         tag[0] == "Under Ashen Skies" or
         tag[0] == "Mapping the Catacombs" or
         tag[0] == "Old-School Essentials" or
+        tag[0] == "Dolmenwood" or
         tag[0] == "The Nightmares Underneath" or
         tag[0] == "A Cool and Lonely Courage" or
         tag[0] == "Dead Halt" or
@@ -164,6 +165,7 @@ categorías.
                         tag[0] == "Multi-Man Publishing" or
                         tag[0] == "NAC Wargames" or
                         tag[0] == "Revolution Games" or
+                        tag[0] == "SNAFU Design" or
                         tag[0] == "Tiny Battle Publishing" or
                         tag[0] == "VUCA Simulations" or
                         tag[0] == "White Dog Games" or
@@ -174,6 +176,8 @@ categorías.
                         tag[0] == "All Bridges Burning" or
                         tag[0] == "Ambon: Burning Sun & Little Seagulls" or
                         tag[0] == "Ardennes 44" or
+                        tag[0] == "Atlantic Chase" or
+                        tag[0] == "Bear Trap: The Soviet-Afghan War" or
                         tag[0] == "Cataclysm: A Second World War" or
                         tag[0] == "Caesar: Rome vs. Gaul" or
                         tag[0] == "Crossing the Line: Aachen 1944" or
@@ -191,6 +195,7 @@ categorías.
                         tag[0] == "Horse & Musket" or
                         tag[0] == "Inferno" or
                         tag[0] == "Lanzerath Ridge" or
+                        tag[0] == "Mr. President" or
                         tag[0] == "Nevsky: Teutons and Rus in Collision" or
                         tag[0] == "Next War: Korea" or
                         tag[0] == "Pavlov's House" or
@@ -209,6 +214,7 @@ categorías.
                         tag[0] == "The Dark Valley" or
                         tag[0] == "The Last Hundred Yards" or
                         tag[0] == "The Last Hundred Yards: Airborne Over Europe" or
+                        tag[0] == "The Last Hundred Yards: The Russian Front" or
                         tag[0] == "The Plum Island Horror" or
                         tag[0] == "The Pure Land" or
                         tag[0] == "The Shores of Tripoli" or
