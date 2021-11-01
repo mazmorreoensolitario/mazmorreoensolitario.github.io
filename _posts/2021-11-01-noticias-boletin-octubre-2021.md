@@ -43,7 +43,7 @@ src="https://live.staticflickr.com/65535/51546204920_b18234b36a_b.jpg"></p>
 
 <p align="center">
 <img height=""
-src="http://www.edgeent.com/sisimg/public/images/MEC101ES_M_1.png"></p>
+src="https://cf.geekdo-images.com/lJb94ELm_GRVRymSJTDQ3g__imagepage/img/DrWmU45G-t04lWwVDgmmlBhnBRM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6448001.png"></p>
 
 **—** **Edge Entertainment España**
 [anuncia](http://www.fantasyflightgames.es/noticias/articulo/contando_el_cuento_de_nuevo)

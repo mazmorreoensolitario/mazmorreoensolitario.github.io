@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: julio 2020"
 date: 2020-07-31
 categories: [Noticias]
-tags: ["Boletín Informativo Solitario", "GenCon", El Imperio del Sol, Hallertau, "Undaunted: Reinforcemens", Undaunted, Crazy Taco, On Mars, Spiel des Jahres, "Pavlov's House", "La Tripulación: En busca del noveno planeta", "The Crew: The Quest for Planet Nine", Set A Watch, A Cool and Lonely Courage, Black Sonata, "Legends Untold: The Weeping Caves", Legends Untold, GMT Games, A Thousand Year Old Vampire, "Undaunted: Normandy", "Beak Feather & Bone", "Pico Pluma & Hueso", Ironsworn, "Ironsworn: Delve"]
+tags: ["Boletín Informativo Solitario", "GenCon", El Imperio del Sol, Hallertau, "Undaunted: Reinforcements", Undaunted, Crazy Taco, On Mars, Spiel des Jahres, "Pavlov's House", "La Tripulación: En busca del noveno planeta", "The Crew: The Quest for Planet Nine", Set A Watch, A Cool and Lonely Courage, Black Sonata, "Legends Untold: The Weeping Caves", Legends Untold, GMT Games, A Thousand Year Old Vampire, "Undaunted: Normandy", "Beak Feather & Bone", "Pico Pluma & Hueso", Ironsworn, "Ironsworn: Delve"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200731-bis/boletin-informativo.png
 post_desc: "Primer boletín informativo de juegos en solitario donde tendréis un
 resumen de las noticias del mundillo y lo que ha acontecido durante este mes"

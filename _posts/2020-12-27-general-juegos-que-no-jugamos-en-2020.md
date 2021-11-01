@@ -3,7 +3,7 @@ layout: post
 title: "Top 10 de juegos del 2020 que no hemos podido jugar"
 date: 2020-12-27
 categories: [Listas]
-tags: [Tops, Faiyum, Fayún, GMT Games, Compass Games, Curious Cargo, "The Last Hundred Yards: Airborne Over Europe", The Last Hundred Yards, All Bridges Burning, GATE, Praga Caput Regni, CloudAge, "Merv: The Heart of the Silk Road", Stellar Horizons, "Undaunted: Normandy", "Undaunted: Reinforcemens"]
+tags: [Tops, Faiyum, Fayún, GMT Games, Compass Games, Curious Cargo, "The Last Hundred Yards: Airborne Over Europe", The Last Hundred Yards, All Bridges Burning, GATE, Praga Caput Regni, CloudAge, "Merv: The Heart of the Silk Road", Stellar Horizons, "Undaunted: Normandy", "Undaunted: Reinforcements"]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20201227-top-no-jugados/top-no-jugados-2020.jpg
 post_desc: "Aquí llega la tradicional lista de juegos que han salido este año y 
 que me he quedado sin poder jugar, espero jugar a muchos de ellos en 2021"
