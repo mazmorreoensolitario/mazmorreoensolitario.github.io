@@ -113,8 +113,8 @@ a la galería de fotos.
 <img height=""
 src="https://cf.geekdo-images.com/348MR0T5e5vkVAw1LjOzCg__imagepage/img/enqEmpcp-ugJgR4Wcgww_Mcarms=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6450223.png"></p>
 
-**—** También durante la **Spiel'21** se podía ver uno de los futuros lanzamientos de la
-tenéis un enlace a la precampañaeditorial londinense **PHALANX**, se trata de
+**—** También durante la **Spiel'21** se podía ver uno de los futuros
+lanzamientos de la editorial londinense **PHALANX**, se trata de
 **[Purple Haze](https://boardgamegeek.com/boardgame/349051/purple-haze)**, un
 juego cooperativo de 1 a 6 jugadores ambientado en la guerra de Vietnam en el
 que tenemos mecánicas narrativas, partes tácticas y una campaña.
@@ -152,7 +152,7 @@ src="https://cf.geekdo-images.com/TVCI92YdCPSLy2az5M-ctQ__imagepage/img/Df1AQgO_
 **—** Después de muchos retrasos, tenemos por fin una fecha de salida
 definitiva para **[Undaunted:
 Reinforcements](https://boardgamegeek.com/boardgame/313441/undaunted-reinforcements)**,
-la expansión para **Undaunted: Normandy** e **Undaunted: North Africa**, que
+la expansión para **Undaunted: Normandy** y **Undaunted: North Africa**, que
 entre otras cosas nos trae un modo en solitario. Saldrá finalmente el **25 de
 noviembre**.
 
@@ -255,7 +255,7 @@ Oeste](https://boardgamegeek.com/boardgame/296151/viscounts-west-kingdom). **Sch
 tendría un elemento de bag-building, e **Inventors** todavía se encuentra en
 las fases tempranas de desarrollo.
 
-Finalmente, desde la editorial comentan que esta nueva trilogía **cambiará en
+Finalmente, desde la editorial comentan que esta nueva trilogía **cambiará el
 formato de las cajas**, pasándose a un formato más grande, puesto que las
 pequeñas aumentaban el coste de producción. Sin embargo, esto hará que las
 futuras expansiones de los juegos entren en las cajas de los juegos base, y las
@@ -412,7 +412,7 @@ implementado para
 pero tiene una parte más asimétrica que este y tiene una duración más ajustada
 (2-3 horas).
 
-Además, Bear Trap cuenta con un completo modo en solitario que
+Además, Bear Trap cuenta con un completo **modo en solitario** que
 funciona con un bot asistido con un diagrama de flujo y un mazo de cartas.
 
 <p align="center">
@@ -444,7 +444,7 @@ próximo *gran* juego en solitario de la editorial:
 src="https://cf.geekdo-images.com/xLUg_wxw_A40Exwbd7jFTQ__imagepage/img/SL1BnMxr8re_2sNAG-CLcHMxSmc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5889812.jpg"></p>
 
 **—** **SNAFU Design** ha sacado un nuevo título dentro de su serie **Small
-Battles** que inauguro con
+Battles** que inauguró con
 [Ambon](https://boardgamegeek.com/boardgame/327721/ambon-burning-sun-little-seagulls),
 se trata de **Santander'37** un wargame sobre la ofensiva nacional contra la
 ciudad de Santander en la Guerra Civil Española.
@@ -498,7 +498,7 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
   **42€** (PVP: 50€), español, Doit Games (2019). 
 * **[Tawantinsuyu: El Imperio
   Inca](https://zacatrus.es/tawantinsuyu-el-imperio-inca.html#u97):** **42€**
-  (PVP: 55€), Maldito Games (2020).
+  (PVP: 55€), español, Maldito Games (2020).
 * **[Marvel Champions](https://amzn.to/3qwr9wl):** **45€** (PVP: 60€),
   español, Fantasy Flight Games (2019).
 * **[Black Angel](https://zacatrus.es/black-angel.html#u97):** **50€** (PVP:
@@ -636,7 +636,7 @@ deportivos den lo mejor.
 Campaña de Kickstarter **el 11 de noviembre**.
 
 <p align="center">
-<img height="350"
+<img height=""
 src="https://cf.geekdo-images.com/KVe8vAU3pMpdzn-t7YinRA__imagepage/img/z1CVxqmTSNaxsadR3UP7Bb-SpRg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6405025.jpg"></p>
 
 **—** **[Derrocar: The Five Presidents
