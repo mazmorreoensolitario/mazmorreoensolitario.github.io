@@ -508,7 +508,7 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
   **60€** (PVP: 75€), inglés, GMT Games (2019). En Philibert.
 * **[Aeon's End: Legacy](https://amzn.to/3kYZYJq)**: **63€** (PVP: 84.95€),
   inglés. Indie Boards & Cards (2019).
-* **[Juji Koro
+* **[Fuji Koro
   Deluxe](https://zacatrus.es/fuji-koro-edicion-deluxe.html#u97):** **116€**
   (PVP: 162€), español, Game Brewer (2019).
 * **[Twilight Imperium Cuarta Edición](https://amzn.to/3GI7Vvg)**: **118€**
