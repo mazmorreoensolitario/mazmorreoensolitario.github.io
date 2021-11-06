@@ -157,16 +157,16 @@ una partida y sin parafernalia que agobie</small></p>
 
 Y llegué al stand de **Board and Dice** donde iba a entrar en la primera demo
 de
-[**Trigmegistus**](https://boardgamegeek.com/boardgame/281442/trismegistus-ultimate-formula),
+[**Trismegistus**](https://boardgamegeek.com/boardgame/281442/trismegistus-ultimate-formula),
 [**Teotihuacán**](https://boardgamegeek.com/boardgame/229853/teotihuacan-city-gods)
 y su expansión [Preclásico Tardío](https://boardgamegeek.com/boardgameexpansion/270364/teotihuacan-late-preclassic-period)
 o [**Dados y
 colonos**](https://boardgamegeek.com/boardgame/230267/dice-settlers),
 con la expansión [Western Sea](https://boardgamegeek.com/boardgameexpansion/270624/dice-settlers-western-sea)
-que se abriera. Trigmegistus y Teotihuacán: Preclásico Tardío llegarán a España
+que se abriera. Trismegistus y Teotihuacán: Preclásico Tardío llegarán a España
 de mano de **Maldito Games** y la licencia de Dados y Colonos está en manos de
 **Last Level**, así que entiendo que eventualmente sacarán el juego. Hasta que
-no llegué al stand y vi el póster gigante de Trigmegistus estuve refiriéndome
+no llegué al stand y vi el póster gigante de Trismegistus estuve refiriéndome
 al juego como *Trismagicus*.
 
 Finalmente me tocó una mesa de Dados y Colonos en una partida a tres y pude
