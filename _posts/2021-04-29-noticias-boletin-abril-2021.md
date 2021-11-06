@@ -108,7 +108,7 @@ src="https://cf.geekdo-images.com/ufUK_7N_13rYhsIurbbtzg__imagepage/img/1S9wyjBm
 * **Board & Dice**
   [anuncian](https://twitter.com/BoardAndDice/status/1380909838146895873?s=09)
   que están trabajando en **una edición Deluxe** para **[La
-  Graja](https://boardgamegeek.com/boardgame/146886/la-granja)** . Esta edición
+  Granja](https://boardgamegeek.com/boardgame/146886/la-granja)** . Esta edición
   saldrá mediante **Kickstarter durante 2022**.
   
 <p align="center">
