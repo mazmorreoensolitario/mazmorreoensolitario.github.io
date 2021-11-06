@@ -289,7 +289,7 @@ Allá vamos con los juegos entre los puestos 75 y 51:
     </div>
     <div class="col-md-9">
          <h4>63. <a href="https://www.philibertnet.com/en/renegade-game-studios/45944-clank-859930005520.html#ae447-11">Clank!: A Deck-Building Adventure</a></h4>
-         <p>En <strong><a href="https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure">Clank!: A Deck-Building Adventure</a></strong>
+         <p><strong><a href="https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure">Clank!: A Deck-Building Adventure</a></strong>
          de Paul Dennen y publicado por <strong>Renegade Game
     Studios</strong>, es un juego de construcción de mazos en el que tratas de
     pasar desapercibido mientras te adentras en la guarida de un dragón en
