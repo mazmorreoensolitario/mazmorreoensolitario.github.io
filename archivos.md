@@ -180,9 +180,11 @@ categorías.
                         tag[0] == "Bear Trap: The Soviet-Afghan War" or
                         tag[0] == "Cataclysm: A Second World War" or
                         tag[0] == "Caesar: Rome vs. Gaul" or
+                        tag[0] == "Conflict of Heroes" or
                         tag[0] == "Crossing the Line: Aachen 1944" or
                         tag[0] == "Cross Bronx Expressway" or
                         tag[0] == "El Imperio del Sol" or
+                        tag[0] == "Enemy Action: Ardennes" or
                         tag[0] == "Empire of the Sun" or
                         tag[0] == "Exploradores de las Profundidades Sombrías" or
                         tag[0] == "Fields of Fire" or
@@ -195,6 +197,7 @@ categorías.
                         tag[0] == "Horse & Musket" or
                         tag[0] == "Inferno" or
                         tag[0] == "Lanzerath Ridge" or
+                        tag[0] == "Labyrinth: The War on Terror" or
                         tag[0] == "Mr. President" or
                         tag[0] == "Nevsky: Teutons and Rus in Collision" or
                         tag[0] == "Next War: Korea" or

@@ -3,7 +3,7 @@ layout: post
 title: "Top 100 de BGG: ¿qué puedo jugar en solitario? (Parte 3)"
 date: 2021-03-18
 categories: [General]
-tags: [Tops, Golden Geek, Food Chain Magnate, "Pandemic: Legacy", "The Crew: The Quest for Planet Nine", "La Tripulación: En busca del noveno planeta", "Mechs vs. Minions", Anachrony, Power Grid, "Alta Tensión", "Alta Tensión: Los Robots", Too Many Bones, Le Havre, Clanes de Caledonia, Clans of Caledonia, "Star Wars: Imperial Assault", Underwater Cities, Everdell, Maracaibo, "Kingdom Death: Monster", The 7th Continent, Mansions of Madness, Las Mansiones de la Locura, Caverna, Agricola, Mage Knight, Root, "Root: Los Cachivaches", "Root: The Clockwork"]
+tags: [Tops, Golden Geek, Food Chain Magnate, "Pandemic Legacy", "The Crew: The Quest for Planet Nine", "La Tripulación: En busca del noveno planeta", "Mechs vs. Minions", Anachrony, Power Grid, "Alta Tensión", "Alta Tensión: Los Robots", Too Many Bones, Le Havre, Clanes de Caledonia, Clans of Caledonia, "Star Wars: Imperial Assault", Underwater Cities, Everdell, Maracaibo, "Kingdom Death: Monster", The 7th Continent, Mansions of Madness, Las Mansiones de la Locura, Caverna, Agricola, Mage Knight, Root, "Root: Los Cachivaches", "Root: The Clockwork"]
 imghtml: https://live.staticflickr.com/65535/51045530911_c05e22a96f_o.png
 post_desc: "Esta semana volvemos a adentrarnos en el Top 100 de BGG, posiciones 
 50 a 26, para descubrir qué juegos podemos jugar en solitario"
