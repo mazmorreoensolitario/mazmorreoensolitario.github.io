@@ -11,13 +11,6 @@ de juegos de los usuarios de este gremio en Board Game Geek"
 
 ![](https://live.staticflickr.com/65535/51659960186_415a45c56f_b.jpg)
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/165706612@N02/51659960186/in/dateposted-public/"
-title="1pg-top-200-2021-p1"><img
-src=""
-width="1024" height="768" alt="1pg-top-200-2021-p1"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-
 * **Parte 1: 200-151** (estás aquí)
 * Parte 2: 150-101
 * Parte 3: 100-51
