@@ -163,7 +163,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Iron Helm">
     </div>
     <div class="col-md-9">
-         <h4>195. <a href="">Iron Helm</a></h4>
+         <h4>195. <a href="https://www.thegamecrafter.com/games/iron-helm">Iron Helm</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/273264/iron-helm">Iron Helm</a></strong>
          de Jason Glover; publicado por <strong>Grey Gnome Games</strong> (lo
          traerá <strong>Melmac Games</strong> a España).</p>
@@ -362,7 +362,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Red Rising">
     </div>
     <div class="col-md-9">
-         <h4>186. <a href="">Red Rising</a></h4>
+         <h4>186. Red Rising</h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/329465/red-rising">Red Rising</a></strong>
          de Jamey Stegmaier y Alexander Schmidt; publicado por
     <strong>Stonemaier Games</strong> (<strong>Maldito Games</strong> en España).</p>
@@ -428,7 +428,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Bloodborne: The Board Game">
     </div>
     <div class="col-md-9">
-         <h4>183. <a href="">Bloodborne: The Board Game</a></h4>
+         <h4>183. Bloodborne: The Board Game</h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/273330/bloodborne-board-game">Bloodborne: The Board Game</a></strong>
          de Eric M. Lang y Michael Shinall; publicado por <strong>CMON</strong>.</p>
          <p><strong>Bloodborne: The Board Game</strong> es un juego de
@@ -537,7 +537,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
          <p><strong>Comentario.</strong> Para jugar en solitario se utiliza la
     expansión <a
     href="https://boardgamegeek.com/boardgameexpansion/257570/patchwork-automa">Patchwork:
-    Automa</a>(es un mazo de cartas).</p>
+    Automa</a> (es un mazo de cartas).</p>
      </div>
 </div>
 
@@ -809,7 +809,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="The City Of Kings">
     </div>
     <div class="col-md-9">
-         <h4>166. <a href="">The City Of Kings</a></h4>
+         <h4>166. <a href="https://www.philibertnet.com/en/the-city-of-games/74736-city-of-kings-019962801211.html#ae447-11">The City Of Kings</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/207243/city-kings">The City Of Kings</a></strong>
          de Frank West; publicado por <strong>The City of Games</strong>.</p>
          <p><strong>The City Of Kings</strong> es un juego cooperativo muy
@@ -834,7 +834,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Paleo">
     </div>
     <div class="col-md-9">
-         <h4>165. <a href="">Paleo</a></h4>
+         <h4>165. <a href="https://zacatrus.es/paleo.html#u97">Paleo</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/300531/paleo">Paleo</a></strong>
          de Peter Rustemeyer; publicado por <strong>Hans im Glück</strong>
     (<strong>Devir</strong> en España).</p>
@@ -853,7 +853,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Fallout">
     </div>
     <div class="col-md-9">
-         <h4>164. <a href="">Fallout</a></h4>
+         <h4>164. <a href="https://zacatrus.es/fallout-el-juego-de-tablero.html#u97">Fallout</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/232918/fallout">Fallout</a></strong>
          de Andrew Fischer y Nathan I. Hajek; publicado por <strong>Fantasy
     Flight Games</strong> (también en español).</p>
@@ -872,7 +872,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="The Gallerist">
     </div>
     <div class="col-md-9">
-         <h4>163. <a href="">The Gallerist</a></h4>
+         <h4>163. <a href="https://zacatrus.es/the-gallerist.html#u97">The Gallerist</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/125153/gallerist">The Gallerist</a></strong>
          de Vital Lacerda; publicado por <strong>Eagle-Gryphon Games</strong>
     (<strong>Maldito Games</strong> en España).</p>
@@ -895,7 +895,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Pandemic Legacy: Season 1">
     </div>
     <div class="col-md-9">
-         <h4>162. <a href="">Pandemic Legacy: Season 1</a></h4>
+         <h4>162. <a href="https://zacatrus.es/pandemia-legacy-rojo.html#u97">Pandemic Legacy: Season 1</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1">Pandemic Legacy: Season 1</a></strong>
          de Rob Daviau y Matt Leacock; publicado por <strong>Z-Man
     Games</strong> (también en español).</p>
@@ -944,7 +944,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Pandemic Iberia">
     </div>
     <div class="col-md-9">
-         <h4>160. <a href="">Pandemic Iberia</a></h4>
+         <h4>160. Pandemic Iberia</h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/198928/pandemic-iberia">Pandemic Iberia</a></strong>
          de Jesús Torres Castro y Matt Leacock; publicado por <strong>Z-Man
     Games</strong> (también en español).</p>
@@ -980,7 +980,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Nations">
     </div>
     <div class="col-md-9">
-         <h4>158. <a href="">Nations</a></h4>
+         <h4>158. <a href="https://zacatrus.es/nations.html#u97">Nations</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/126042/nations">Nations</a></strong>
          de  Einar Rosén, Robert Rosén, Nina Håkansson y Rustan Håkansson, y
     publicado por <strong>Lautapelit.fi</strong> (<strong>Asmodee</strong> en España).</p>
@@ -1002,7 +1002,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="On Mars">
     </div>
     <div class="col-md-9">
-         <h4>157. <a href="">On Mars</a></h4>
+         <h4>157. <a href="https://zacatrus.es/on-mars.html#u97">On Mars</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/184267/mars">On Mars</a></strong>
          de Vital Lacerda; publicado por <strong>Eagle-Gryphon Games</strong>
     (<strong>Maldito Games</strong> en España).</p>
@@ -1024,7 +1024,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Super-Skill Pinball: 4-Cade">
     </div>
     <div class="col-md-9">
-         <h4>156. <a href="">Super-Skill Pinball: 4-Cade</a></h4>
+         <h4>156. <a href="https://www.philibertnet.com/en/wizkids/102509-super-skill-pinball-4-cade-634482875209.html#ae447-11">Super-Skill Pinball: 4-Cade</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/302524/super-skill-pinball-4-cade">Super-Skill Pinball: 4-Cade</a></strong>
          de Geoff Engelstein; publicado por <strong>WizKids</strong>.</p>
          <p><strong>Super-Skill Pinball: 4-Cade</strong> es un juego tipo roll
