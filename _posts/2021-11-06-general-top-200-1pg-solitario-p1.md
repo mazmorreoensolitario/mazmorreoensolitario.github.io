@@ -150,7 +150,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
          <p>Los juegos de <strong>Shadows of Brimstone</strong> son juegos
          cooperativos de tipo mazmorreo principalmente ambientados en el lejano
          oeste, pero también tienes una ambientación oriental.</p>
-         <p><strong>Comentario.</strong> Penaba que esta serie estaría en
+         <p><strong>Comentario.</strong> Pensaba que esta serie estaría en
     puestos más altos de esta lista. Si os gustan los juegos de mazmorreo con
     miniaturas es un juego para tener en cuenta.</p>
      </div>
@@ -368,7 +368,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
     <strong>Stonemaier Games</strong> (<strong>Maldito Games</strong> en España).</p>
          <p><strong>Red Rising</strong> es un juego de cartas ambientado en las
     novelas del mismo nombre en el que tenemos que tratar de conseguir punto
-    eligiendo a los personajes más poderosos.x</p>
+    eligiendo a los personajes más poderosos.</p>
          <img src="https://cf.geekdo-images.com/L8KjbjQBUab7pqupwwgt2A__imagepage/img/plCs8iSDuZswb00oRuEzlc9Qck4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6457386.jpg">
          <p><small>Foto de @PZS69</small></p>
          <p><strong>Comentario.</strong> No sabía nada de la serie de libros en
@@ -457,7 +457,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
          pero me suena que cuando NSKS se convirtió en la editorial Board &
          Dice (o hicieron un merge o la adquirió Board & Dice, no sé como fue la
          historia legal) hubo descuentos muy fuertes con este juego, por lo que
-    puede que aún lo podéis conseguir barato.</p>
+     puede que quizás aún lo podáis conseguir barato.</p>
      </div>
 </div>
 
@@ -630,7 +630,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Altar Quest">
     </div>
     <div class="col-md-9">
-         <h4>174. <a href="">Altar Quest</a></h4>
+         <h4>174. Altar Quest</h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/273703/altar-quest">Altar Quest</a></strong>
          de Adam Sadler y Brady Sadler; publicado por <strong>Blacklist Games</strong>.</p>
          <p><strong>Altar Quest</strong> es un juego cooperativo inspirado por
@@ -638,7 +638,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
          a medida que los jugadores se adentran en el juego conocerán más de este reino y del
          mundo de Rhuna.</p>
          <p><strong>Comentario.</strong> Desafortunadamente este juego es algo
-    difícil de conseguir sino os metisteis en su Kickstarter.</p>
+     difícil de conseguir si no os metisteis en su Kickstarter.</p>
      </div>
 </div>
 
@@ -795,7 +795,8 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
     cooperativos en los que exploras un mundo fantástico. Tiene la peculiaridad
     que son estilo sandbox, utilizan un mapa hexagonal donde se ocurre la
     acción, y usan materiales sobre los que puedes pintar encima y después
-    borrar, para por ejemplo las fichas de los personajes.</p>
+    borrar, para por ejemplo completar los datos de las fichas de los
+    personajes.</p>
          <p><strong>Comentario.</strong> Si no jugase a rol en solitario y
     encima partidas tipo hexcrawl, tendría algún juego de esta IP sin ningún
     tipo de duda. Tampoco descarto probar alguno en el futuro.</p>
@@ -969,7 +970,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
     en el que eres un constructor de buques aéreo y tienes que tirar dados para
     conseguir los componentes que necesitas utilizar para construir estas naves.</p>
          <p><strong>Comentario.</strong> Otro juego del oniverso que aparece en
-    el top ya iremos descubriendo si nos sale alguno más.</p>
+    el top, ya iremos descubriendo si nos sale alguno más.</p>
      </div>
 </div>
 
@@ -1161,7 +1162,7 @@ tablet.
 zoom.</strong></small></p>
 
 Empezando a ojear quién ha firmado el diseño de estos primeros 50 juegos de
-mesa, podemos ver que tenémos 62 autores diferentes, al final hay muchos juegos
+mesa, podemos ver que tenemos 62 autores diferentes, al final hay muchos juegos
 que tienen más de un autor, pero la tendencia es que los juegos los firme como
 diseñador una única persona.
 
