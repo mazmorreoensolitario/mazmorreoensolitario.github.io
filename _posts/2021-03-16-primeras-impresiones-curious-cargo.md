@@ -37,7 +37,9 @@ haciendo conexiones con losetas de tuberías"
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td
     class="text-left"> 30-60 mins</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td
-            class="text-left">Inglés</td></tr>
+            class="text-left">Inglés/Español</td></tr>
+            <tr><td class="text-left"></strong>Dependencia del
+    idioma:</strong></td><td> class="text-left">Baja, solo manual</td></tr>
          </table>
         </div>
         <div class="col-md-12"></div>
