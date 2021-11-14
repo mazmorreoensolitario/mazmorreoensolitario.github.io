@@ -158,19 +158,28 @@ categorías.
                     {% if
                         tag[0] == "Compass Games" or 
                         tag[0] == "Decision Games" or
+                        tag[0] == "Fellowship of Simulations" or
+                        tag[0] == "Fort Circle Games" or
                         tag[0] == "GMT Games" or
                         tag[0] == "Hollandspiele" or
                         tag[0] == "Legion Wargames" or
                         tag[0] == "Lock 'n Load Publishing" or
                         tag[0] == "Multi-Man Publishing" or
                         tag[0] == "NAC Wargames" or
+                        tag[0] == "New England Simulations" or
+                        tag[0] == "Nuts! Publishing" or
+                        tag[0] == "One Small Step" or
+                        tag[0] == "Operational Studies Group" or
                         tag[0] == "Revolution Games" or
                         tag[0] == "SNAFU Design" or
+                        tag[0] == "Thin Red Line Games" or
                         tag[0] == "Tiny Battle Publishing" or
                         tag[0] == "VUCA Simulations" or
                         tag[0] == "White Dog Games" or
                         tag[0] == "Worthington Publishing" or
+                        tag[0] == "1985: Deadly Northern Lights" or
                         tag[0] == "Across the Bug River: Volodymyr-Volynskyi 1941" or
+                        tag[0] == "Advanced Squad Leader" or
                         tag[0] == "Advanced Squad Leader: Starter Kit" or
                         tag[0] == "Air Raid Pearl Harbor" or
                         tag[0] == "All Bridges Burning" or
@@ -178,8 +187,10 @@ categorías.
                         tag[0] == "Ardennes 44" or
                         tag[0] == "Atlantic Chase" or
                         tag[0] == "Bear Trap: The Soviet-Afghan War" or
+                        tag[0] == "By Stealth and Sea" or
                         tag[0] == "Cataclysm: A Second World War" or
                         tag[0] == "Caesar: Rome vs. Gaul" or
+                        tag[0] == "Chancellorsville 1863" or
                         tag[0] == "Conflict of Heroes" or
                         tag[0] == "Crossing the Line: Aachen 1944" or
                         tag[0] == "Cross Bronx Expressway" or
@@ -188,6 +199,7 @@ categorías.
                         tag[0] == "Empire of the Sun" or
                         tag[0] == "Exploradores de las Profundidades Sombrías" or
                         tag[0] == "Fields of Fire" or
+                        tag[0] == "Fire in the Lake" or
                         tag[0] == "Five Parsecs From Home" or
                         tag[0] == "Five Leagues From the Borderlands" or
                         tag[0] == "Gettysburg" or
@@ -195,12 +207,19 @@ categorías.
                         tag[0] == "Hannibal's Revenge" or
                         tag[0] == "Hitler's Reich" or
                         tag[0] == "Horse & Musket" or
+                        tag[0] == "Hungarian Rhapsody" or
                         tag[0] == "Inferno" or
+                        tag[0] == "Iron Curtain" or
                         tag[0] == "Lanzerath Ridge" or
+                        tag[0] == "Labyrinth: The Forever War" or
                         tag[0] == "Labyrinth: The War on Terror" or
+                        tag[0] == "Men of Iron Battles Tri-pack" or
                         tag[0] == "Mr. President" or
+                        tag[0] == "Napoleon's Wheel" or
                         tag[0] == "Nevsky: Teutons and Rus in Collision" or
                         tag[0] == "Next War: Korea" or
+                        tag[0] == "Next War: Vietnam" or
+                        tag[0] == "Next War Series" or
                         tag[0] == "Pavlov's House" or
                         tag[0] == "Peloponnesian War" or
                         tag[0] == "Rangers of Shadow Deep" or
@@ -208,16 +227,23 @@ categorías.
                         tag[0] == "Road to Cheren" or
                         tag[0] == "Santander 37" or
                         tag[0] == "Schnell Boats: Scourge of the English Channel" or 
+                        tag[0] == "Shiloh 1862" or
                         tag[0] == "Sniper Kill Confirmed" or
                         tag[0] == "Space Empires" or
                         tag[0] == "Stargrave" or
+                        tag[0] == "Stilicho: Last of the Romans" or
                         tag[0] == "Scream Aim Fire!" or
                         tag[0] == "Stalingrad 42" or
                         tag[0] == "The Bell of Treason" or
+                        tag[0] == "The Conquistadors" or
                         tag[0] == "The Dark Valley" or
+                        tag[0] == "The First Jihad" or
+                        tag[0] == "The Great Crisis of Frederick II" or
+                        tag[0] == "The Jaws of Victory" or
                         tag[0] == "The Last Hundred Yards" or
                         tag[0] == "The Last Hundred Yards: Airborne Over Europe" or
                         tag[0] == "The Last Hundred Yards: The Russian Front" or
+                        tag[0] == "The Mission" or
                         tag[0] == "The Plum Island Horror" or
                         tag[0] == "The Pure Land" or
                         tag[0] == "The Shores of Tripoli" or
