@@ -106,10 +106,10 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/gmt/94300-men-of-iron-tri-pack-817054011919.html#ae447-11">Men of Iron Battles Tri-pack</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/293959/men-iron-battles-tri-pack-men-iron-infidel-blood-r">Men of Iron Battles Tri-pack</a></strong> por
-    <strong>Richard H. Berg, Jack Polonka, Mike Lemick</strong> y <strong>Ralph Shelton </strong>,
+    <strong>Richard H. Berg, Jack Polonka, Mike Lemick</strong> y <strong>Ralph Shelton</strong>,
         publicado por <strong>GMT Games</strong>, es un wargame que contiene
     tres juegos en uno más un extra: Men of Iron se centra en el resurgimiento de la
-    infantería en el siglo XIV, Agincourt cubre la famosa vitoria de Enrique V
+    infantería en el siglo XIV, Agincourt cubre la famosa victoria de Enrique V
     de Inglaterra en la guerra de los Cien Años, Infidel se centra en las
     batallas de la era de los Cruzados, y Blood & Roses cubre las batallas de
     la guerra civil entre la Casa de Lancaster y la Cada de York en la llamada
@@ -864,7 +864,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
     <strong>Stéphane Acquaviva, Curtis Baer</strong> y <strong> Dean Essig</strong>,
         publicado por
         <strong>Multi-Man Publishing</strong>, es el nuevo wargame de la serie
-    OCS (Operational Combat Series) de </p>
+    OCS (Operational Combat Series) de MMP.</p>
         <ul>
         <li>Puedes ojear las reglas de OCS <a
             href="http://www.ocsdepot.com/images/contentfile/OCS-v4.3-rules.pdf">aquí</a>.</li>
