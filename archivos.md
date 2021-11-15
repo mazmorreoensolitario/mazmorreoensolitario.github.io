@@ -187,6 +187,7 @@ categorías.
                         tag[0] == "Ardennes 44" or
                         tag[0] == "Atlantic Chase" or
                         tag[0] == "Bear Trap: The Soviet-Afghan War" or
+                        tag[0] == "Brazen Chariots: Battles for Tobruk" or
                         tag[0] == "By Stealth and Sea" or
                         tag[0] == "Cataclysm: A Second World War" or
                         tag[0] == "Caesar: Rome vs. Gaul" or
@@ -202,6 +203,7 @@ categorías.
                         tag[0] == "Fire in the Lake" or
                         tag[0] == "Five Parsecs From Home" or
                         tag[0] == "Five Leagues From the Borderlands" or
+                        tag[0] == "Freeman's Farm 1777" or
                         tag[0] == "Gettysburg" or
                         tag[0] == "Great War Commander" or
                         tag[0] == "Hannibal's Revenge" or
@@ -209,10 +211,11 @@ categorías.
                         tag[0] == "Horse & Musket" or
                         tag[0] == "Hungarian Rhapsody" or
                         tag[0] == "Inferno" or
-                        tag[0] == "Iron Curtain" or
+                        tag[0] == "Iron Curtain: Central Europe" or
                         tag[0] == "Lanzerath Ridge" or
                         tag[0] == "Labyrinth: The Forever War" or
                         tag[0] == "Labyrinth: The War on Terror" or
+                        tag[0] == "Less than 60 Miles" or
                         tag[0] == "Men of Iron Battles Tri-pack" or
                         tag[0] == "Mr. President" or
                         tag[0] == "Napoleon's Wheel" or
@@ -224,6 +227,7 @@ categorías.
                         tag[0] == "Peloponnesian War" or
                         tag[0] == "Rangers of Shadow Deep" or
                         tag[0] == "Red Dust Rebellion" or
+                        tag[0] == "Red Storm: The Air War Over Central Germany" or
                         tag[0] == "Road to Cheren" or
                         tag[0] == "Santander 37" or
                         tag[0] == "Schnell Boats: Scourge of the English Channel" or 
@@ -249,7 +253,9 @@ categorías.
                         tag[0] == "The Shores of Tripoli" or
                         tag[0] == "Thunder in the East" or
                         tag[0] == "Triumvir" or
+                        tag[0] == "Verdun 1916: Steel Inferno" or
                         tag[0] == "Versailles 1919" or
+                        tag[0] == "White Eagle Defiant" or
                         tag[0] == "World at War 85: Storming the Gap" %}
                         <span class="label label-grey"><strong>#<a class="tag-color"
                     href="/etiqueta/{{tag[0] | slugify:
