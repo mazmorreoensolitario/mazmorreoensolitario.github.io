@@ -336,11 +336,11 @@ para la siguiente mitad:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
-            src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210105-10-rol/twilight-2000.jpg"
+            src="https://d1vzi28wh99zvq.cloudfront.net/images/11437/358090.jpg"
         class="img-thumbnail" alt="Twilight: 2000">
     </div>
     <div class="col-md-9">
-         <h4>5. <a href="https://frialigan.se/en/games/twilight-2000/">Twilight: 2000</a></h4>
+         <h4>5. <a href="https://www.drivethrurpg.com/product/358090/Twilight-2000-4th-Edition-Core-Set?affiliate_id=1914894">Twilight: 2000</a></h4>
          <p><strong>Twilight: 2000</strong> (T2K) de <strong>Tomas
     Härenstam</strong> y publicado por <strong><a
     href="https://frialigan.se/en/startpage/">Free League</a></strong>, es la

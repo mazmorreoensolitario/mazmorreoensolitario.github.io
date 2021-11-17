@@ -363,7 +363,7 @@ parece tan malo. Os hablo más de esta caja a continuación.
 src="https://ksr-ugc.imgix.net/assets/030/137/472/481b677114b24dc464a2ca9855a06f59_original.jpg?ixlib=rb-4.0.2&w=680&fit=max&v=1597059139&auto=format&gif-q=50&q=92&s=6f2c904b9655d20cfdedff94f1fb2df8"></p>
 
 **[Twilight:
-2000](https://freeleaguepublishing.com/en/store/?collection_id=270655783061)**
+2000](https://www.drivethrurpg.com/product/358090/Twilight-2000-4th-Edition-Core-Set?affiliate_id=1914894)**
 es una reimplementación de Twilight: 2000 primera y segunda edición, pero con
 el sistema de Year Zero Engine que tienen todos los juegos propios de **Free
 League**, y también han cambiado la ambientación, que es una Tercera Guerra
