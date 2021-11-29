@@ -3,7 +3,7 @@ layout: post
 title: "Top 200 del 1 Player Guild: los juegos en solitario definitivos (Parte 2)"
 date: 2021-11-29
 categories: [General]
-tags: [Tops, Railroad Ink, Colonos del Imperio, Saqueadores del Mar del Norte, Barrage, Pathfinder Adventure Card Game, Lisboa, "Star Wars: El Borde Exterior", The Search for Planet X, Dwellings of Eldervale, Tiny Epic Galaxies, "Sword & Sorcery", "Trickerion: Legends of Illusion", Unbroken, Calico, "Burgle Bros 2: The Casino Capers", Burgle Bros, "SpaceCorp: 2025-2300AD", Flame Rouge, D-Day at Omaha Beach, Navajo Wars, Sherlock Holmes Consulting Detective, Sherlock Holmes Detective Asesor, Maquis, La Expedición Perdida, After The Virus, Snowdonia, Zombicide, Clanes de Caledonia, "1862: Railway Mania in the Eastern Counties", "Blackout: Hong Kong", "Circadians: Primera Luz", Sylvion, "Pavlov's House", Los Castillos de Borgoña, Fantastic Factories, PARKS, Le Havre, Set A Watch, Pax Renaissance]
+tags: [Tops, 7 Wonders Duel, Newton, Clans of Caledonia, DVG, GMT Games, Decision Games, Railroad Ink, Colonos del Imperio, Saqueadores del Mar del Norte, Barrage, Pathfinder Adventure Card Game, Lisboa, "Star Wars: El Borde Exterior", The Search for Planet X, Dwellings of Eldervale, Tiny Epic Galaxies, "Sword & Sorcery", "Trickerion: Legends of Illusion", Unbroken, Calico, "Burgle Bros 2: The Casino Capers", Burgle Bros, "SpaceCorp: 2025-2300AD", Flame Rouge, D-Day at Omaha Beach, Navajo Wars, Sherlock Holmes Consulting Detective, Sherlock Holmes Detective Asesor, Maquis, La Expedición Perdida, After The Virus, Snowdonia, Zombicide, Clanes de Caledonia, "1862: Railway Mania in the Eastern Counties", "Blackout: Hong Kong", "Circadians: Primera Luz", Sylvion, "Pavlov's House", Los Castillos de Borgoña, Fantastic Factories, PARKS, Le Havre, Set A Watch, Pax Renaissance]
 imghtml: https://live.staticflickr.com/65535/51661769085_62a9c9967a_b.jpg
 post_desc: "Segunda parte del Top 200 de 1 Player Guild, donde hablamos del top
 de juegos de los usuarios de este gremio en Board Game Geek"
@@ -131,14 +131,14 @@ descubrimientos, podrás instigar guerras y rebeliones y desatarás Yihads e inq
     <div class="col-md-3">
         <img width="500" height="500"
             src="https://cf.geekdo-images.com/AzNYQ2o-SXBAHFpPPtRBIw__imagepage/img/vcy5ddeuWVHB5dds0ccc6X-d2vQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4095959.png"
-        class="img-thumbnail" alt="Factastic Factories">
+        class="img-thumbnail" alt="Fantastic Factories">
     </div>
     <div class="col-md-9">
-         <h4>146. <a href="https://www.philibertnet.com/en/deep-water-games/90425-fantastics-factories-613310202493.html#ae447-11">Factastic Factories</a></h4>
-         <p><strong><a href="https://boardgamegeek.com/boardgame/216600/fantastic-factories">Factastic Factories</a></strong>
+         <h4>146. <a href="https://www.philibertnet.com/en/deep-water-games/90425-fantastics-factories-613310202493.html#ae447-11">Fantastic Factories</a></h4>
+         <p><strong><a href="https://boardgamegeek.com/boardgame/216600/fantastic-factories">Fantastic Factories</a></strong>
          de Joseph Z Chen y Justin Faulkner, y publicado por
     <strong>Metafactory Games</strong> (<strong>Maldito Games</strong> en España).</p>
-         <p><strong>Factastic Factories</strong> es un juego que combina las
+         <p><strong>Fantastic Factories</strong> es un juego que combina las
     mecánicas de construcción de motores con la colocación de dados con el
     objetivo de producir el mayor número de productos y construir los edificios
     más prestigiosos.</p>

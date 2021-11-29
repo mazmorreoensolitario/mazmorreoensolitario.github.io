@@ -20,7 +20,7 @@ categorías.
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or tag[0] == "Ronin" or
-        tag[0] == "Paria" or
+        tag[0] == "Paria" or tag[0] == "Pathfinder" or
         tag[0] == "Dirt RPG" or
         tag[0] == "All Must Bow" or tag[0] == "Muspelhell" or
         tag[0] == "Across a Thousand Dead Worlds" or tag[0] == "Apothecaria" or
@@ -157,10 +157,12 @@ categorías.
                 {% else %}
                     {% if
                         tag[0] == "Compass Games" or 
+                        tag[0] == "DVG" or
                         tag[0] == "Decision Games" or
                         tag[0] == "Fellowship of Simulations" or
                         tag[0] == "Fort Circle Games" or
                         tag[0] == "GMT Games" or
+                        tag[0] == "Hexasim" or
                         tag[0] == "Hollandspiele" or
                         tag[0] == "Legion Wargames" or
                         tag[0] == "Lock 'n Load Publishing" or
@@ -195,6 +197,7 @@ categorías.
                         tag[0] == "Conflict of Heroes" or
                         tag[0] == "Crossing the Line: Aachen 1944" or
                         tag[0] == "Cross Bronx Expressway" or
+                        tag[0] == "D-Day at Omaha Beach" or
                         tag[0] == "El Imperio del Sol" or
                         tag[0] == "Enemy Action: Ardennes" or
                         tag[0] == "Empire of the Sun" or
@@ -219,6 +222,7 @@ categorías.
                         tag[0] == "Men of Iron Battles Tri-pack" or
                         tag[0] == "Mr. President" or
                         tag[0] == "Napoleon's Wheel" or
+                        tag[0] == "Navajo Wars" or
                         tag[0] == "Nevsky: Teutons and Rus in Collision" or
                         tag[0] == "Next War: Korea" or
                         tag[0] == "Next War: Vietnam" or
