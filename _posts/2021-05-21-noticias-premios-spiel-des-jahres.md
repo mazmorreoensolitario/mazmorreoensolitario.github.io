@@ -257,7 +257,7 @@ de Johannes Sich y publicado por <strong>Edition Spielwiese</strong> (SD Games
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/251247/barrage">Barrage</a></strong>
     de Tommaso Battista y Simone Luciani, y publicado por <strong>Cranio
-    Creations</strong> (Maldito Games en España), e ambienta en una distopía de
+    Creations</strong> (Maldito Games en España), se ambienta en una distopía de
     los años 30 en el que la energía mundial se produce por energía
     hidroeléctrica. En este juego los jugadores compiten para construir
     presas.</p>
