@@ -438,7 +438,7 @@ src="https://www.legionwargames.com/images/SDS_maps.jpg"></p>
 La primera trilogía de juegos de esta serie trata sobre la campaña de
 **Operation Mars**, formada por los juegos **BELYY**, **KONEV** y
 **OLENINO**. Operation Mars fue la fallida ofensiva soviética para eliminar los
-puntos principales de la novena armada alemana durante el invierno de 1942
+puntos principales del noveno ejército alemán durante el invierno de 1942
 a 1943.
 
 <p align="center">
@@ -587,7 +587,7 @@ editorial. Puedes elegir entre la edición coleccionista (26.8€), edición nor
 src="https://d1vzi28wh99zvq.cloudfront.net/images/18935/377175.jpg"></p>
 
 **—** **Alfred Valley** lanza
-**[Tundrabower](https://www.drivethrurpg.com/product/377175/Tundrabower?affiliate_id=1914894)**
+**[Tundrabower](https://www.drivethrurpg.com/product/377175/Tundrabower?affiliate_id=1914894)**,
 un setting post-apocalíptico para **[Lay On Hands](https://www.drivethrurpg.com/product/369648/Lay-On-Hands?affiliate_id=1914894)**
 ([Zine Quest 2021]({{site.baseurl}}/2021/01/31/rol-zinequest-3-en-solitario/)).
 
