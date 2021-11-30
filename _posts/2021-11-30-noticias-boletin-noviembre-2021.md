@@ -267,6 +267,19 @@ Vistos los juegos de mesa, seguimos el resumen del mes con la **sección de
 wargames del Boletín de noviembre**.
 
 <p align="center">
+<img height=""
+src="https://live.staticflickr.com/65535/51675250735_c42ef9b3e9_o.png"></p>
+
+**—** A principios de noviembre pudimos conocer los resultados de los **premios
+Charles S. Roberts** de wargames publicados durante el último año.
+
+Yo hice una **[Guía de wargames en
+solitario]({{site.baseurl}}/2021/11/14/noticias-csr-awards-2021/)** donde puedes
+descubrir qué juegos puedes jugar en solitario, y cómo, de cada una de las
+diferentes categorías.
+
+
+<p align="center">
 <img height="550"
 src="https://d1vzi28wh99zvq.cloudfront.net/images/11264/374317.jpg"></p>
 
