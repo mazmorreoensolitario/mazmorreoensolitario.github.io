@@ -21,7 +21,7 @@ categorías.
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or tag[0] == "Ronin" or
         tag[0] == "Paria" or tag[0] == "Pathfinder" or
-        tag[0] == "Dirt RPG" or
+        tag[0] == "Dirt RPG" or tag[0] == "Mapeando las catacumbas" or
         tag[0] == "All Must Bow" or tag[0] == "Muspelhell" or
         tag[0] == "Across a Thousand Dead Worlds" or tag[0] == "Apothecaria" or
         tag[0] == "Tunnels & Trolls" or
@@ -188,6 +188,7 @@ categorías.
                         tag[0] == "Ambon: Burning Sun & Little Seagulls" or
                         tag[0] == "Ardennes 44" or
                         tag[0] == "Atlantic Chase" or
+                        tag[0] == "Battlespace" or
                         tag[0] == "Bear Trap: The Soviet-Afghan War" or
                         tag[0] == "Brazen Chariots: Battles for Tobruk" or
                         tag[0] == "By Stealth and Sea" or
