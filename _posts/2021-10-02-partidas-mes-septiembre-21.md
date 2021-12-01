@@ -3,7 +3,7 @@ layout: post
 title: "Septiembre en juegos"
 date: 2021-10-02
 categories: [General]
-tags: [El mes en juegos, Dirt RPG, Cascadia, "Next War: Korea", Tiny Towns, Terraforming Mars, "Terraforming Mars: Preludio", Faiyum, Spirit Island, Sprawlopolis, Expansiópolis, Cascadia, Curious Cargo, Colonos del Imperio]
+tags: [El mes en juegos, Fayún, Dirt RPG, Cascadia, "Next War: Korea", Tiny Towns, Terraforming Mars, "Terraforming Mars: Preludio", Faiyum, Spirit Island, Sprawlopolis, Expansiópolis, Cascadia, Curious Cargo, Colonos del Imperio]
 imghtml: https://live.staticflickr.com/65535/51539850376_a853dc6877_b.jpg
 post_desc: "¿Qué se ha jugado durante septiembre? Aquí te hablo de los juegos de mesa
 y rol que han visto mesa durante este último mes"

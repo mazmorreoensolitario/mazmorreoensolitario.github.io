@@ -78,6 +78,11 @@ En solitario, en el modo de juego estándar, jugamos contra una especie de IA
 que es una planta, y nosotros tendremos que utilizarla como nuestro sustento
 como especie herbívora.
 
+Por ese error que cometí en el medio de la partida (eran un par de
+*herbivore-contest* que hice mal) me quedé con las ganas de volver a empezar de
+cero, pero ya era tarde y luego sucedió todo el caos del mes de noviembre, por
+lo que espero volver a jugar a este juego pronto para quedarme a gusto.
+
 ### [Curious Cargo](https://boardgamegeek.com/boardgame/312251/curious-cargo)
 
 <p align="center">
@@ -113,7 +118,7 @@ planificado jugar a **[Faiyum](https://www.philibertnet.com/en/2f-spiaele/90517-
 (primeras impresiones
 [aquí]({{site.baseurl}}/2021/02/13/primeras-impresiones-faiyum/)), pero al
 final no me dio tiempo. Así que me quedé con ganas, y me propuse sacarlo en
-noviembre. Al final, **Faiyum** ha sido uno de los pocos juegos duros que he
+noviembre. **Faiyum** ha sido uno de los pocos juegos de peso más duro que he
 podido sacar a la mesa durante noviembre.
 
 <div align="center">
@@ -124,11 +129,11 @@ Esta partida ha sido algo especial, ya que he jugado utilizando un modo en
 solitario
 [fan-made](https://boardgamegeek.com/thread/2738652/play-tested-rebalanced-solo-challenge-you),
 ya que la campaña en solitario que viene por defecto en el juego es bastante
-fácil. Además de la campaña hay un modo en solitario por defecto de conseguir
-la mayor cantidad de puntos, que es a lo que yo suelo jugar por defecto, pero
-este modo fan-made pone algunas restricciones que hacen que las partidas sean
-más difíciles. De hecho, perdí esa partida miserablemente, así que de momento
-me está gustando ese modo en solitario.
+fácil. Además de la campaña hay un modo en solitario por defecto, en el que
+tratas de conseguir la mayor cantidad de puntos y que es a lo que yo suelo
+jugar por defecto, pero este modo fan-made pone algunas restricciones que hacen
+que las partidas sean más difíciles. De hecho, perdí esa partida
+miserablemente, así que de momento me está gustando ese modo en solitario.
 
 ### [Reinos de Papel](https://boardgamegeek.com/boardgame/217861/paper-tales) y expansión [Más Allá de las Puertas](https://boardgamegeek.com/boardgame/245473/paper-tales-beyond-gates)
 
@@ -155,17 +160,19 @@ con el excelente
 en español Delirium Games). **Verdant**
 tuvo una campaña de Kickstarter hace unos meses, pero podemos jugar el juego
 mientras esperamos a que salga en retail desde una pequeña [app
-web](https://verdantgame.github.io/)).
+web](https://verdantgame.github.io/).
 
 Solo he jugado una partida de aprender reglas y de hacerme a la app, pero he
 salido con muy buenas sensaciones. Los mecanismos de selección de carta-loseta
-me recuerdan bastante a los de **Cascadia**, pero luego tiene un puzle algo más
-complicado. En general en **Verdant** tratamos de colocar dos tipos de cartas,
+me recuerdan bastante a los de **Cascadia**, pero luego tiene un puzle quizás
+algo más complicado.
+
+En general en **Verdant** tratamos de colocar dos tipos de cartas,
 de habitación y planta, en una matriz de 3x4, las habitaciones tienen
 diferentes tipos de iluminación (completamente soleada, semi-sombra y sombra) y
 las plantas requieren también un tipo de iluminación específica, así que
 tenemos que hacerlas cuadrar. La dificultad viene dada por que el drafting es
-algo especial, y porque tenemos que colocar las cartas de habitación y planta
+algo especial (estilo Cascadia), y porque tenemos que colocar las cartas de habitación y planta
 de forma salteada, no puede haber dos cartas del mismo tipo ortogonalmente
 adyacentes.
 
@@ -211,30 +218,33 @@ el libro de rol más sexy de mi balda. Tengo muchos libros, pero como podéis ve
 en la foto de arriba, la edición *estándar* de este libro ya viene con partes
 holográficas en la portada que lo hacen destacar.
 
+<p align="center">
+<img height=""
+src="https://ksr-ugc.imgix.net/assets/032/116/406/91403abfc8d740e51137c691d6ea55b6_original.png?ixlib=rb-4.0.2&w=680&fit=max&v=1611508690&auto=format&gif-q=50&lossless=true&s=d3d9a746cb20d42eb9e0e71d9864bbeb"></p>
+
 Sobre el sistema, cuando leí la versión pre-alfa o alfa de este juego, no
 recuerdo bien, se trataba de un hack de [Maze Rats](https://www.drivethrurpg.com/product/197158/Maze-Rats?affiliate_id=1914894)
 con un setting extremadamente interesante y muchísimas tablas, que es
 lo que me hizo interesarme por entrar en la campaña de Kickstarter una vez
 saliera. Al no ser un juego preparado para jugar en solitario, cuando más
 contenido aleatorio podamos general nosotros mejor, así que entro
-definitivamente en mi radar. Además, era parte de la escuela de Suecia de juegos de rol (Stockholm
-Kartell, los creadores de [Mörk
+definitivamente en mi radar. Además, era parte de la escuela de Suecia de
+juegos de rol (**Stockholm Kartell**, los creadores de [Mörk
 Borg](https://www.drivethrurpg.com/product/295910/Mork-Borg-English?affiliate_id=1914894)),
 pero por el layout que se podía ver entonces del juego, parece que iban a hacer 
 un juego de más contenido escrito y de menos peso artístico en el layout (mi
 forma fina de decir: más chicha y menos páginas artísticamente vacías).
 
-Volviendo al sistema, sigue teniendo algunos elementos de Maze Rats y Knave,
-tenemos item slots, los personajes se crean tirando en diferentes tablas que
-les dan características, y en general el sistema es muy ligero y hay pocas
-reglas: tiradas enfrentadas, chequeos con 1d20 (para habilidades que dependen
-de 4 atributos), ventaja y desventaja, reacciones de enemigos y NPCs, combate,
-combate espacial, y una
-cosa especial que son *Void Points*. Podemos gastar estos void points (los
-ganamos cuando fallamos un chequeo o tirada de ataque) para poder activar
-mutaciones cósmicas (una especie habilidades especiales, más o menos útiles al
-estilo OSR). Y luego hay un porrón de tablas para generar enemigos, encuentros,
-módulos de estaciones... 
+Volviendo al sistema, sigue teniendo algunos elementos de **Maze Rats** y
+**Knave**, tenemos item slots, los personajes se crean tirando en diferentes
+tablas que les dan características, y en general el sistema es muy ligero y hay
+pocas reglas: tiradas enfrentadas, chequeos con 1d20 (para habilidades que
+dependen de 4 atributos), ventaja y desventaja, reacciones de enemigos y NPCs,
+combate, combate espacial, y una cosa especial que son *Void Points*. Podemos
+gastar estos void points (los ganamos cuando fallamos un chequeo o tirada de
+ataque) para poder activar mutaciones cósmicas (una especie habilidades
+especiales, más o menos útiles al estilo OSR). Y luego hay un porrón de tablas
+para generar enemigos, encuentros, módulos de estaciones... 
 
 Ha sido un acierto meterse en este Kickstarter, y como envían desde Suecia no
 habrá problemas con IVA y aduanas, así que doblemente acierto.
@@ -251,10 +261,12 @@ Este mes he seguido leyendo el nuevo **[Twilight:
 todas las tablas de vehículos y armas, me resulta especialmente interesante ya
 que [World At War 85: Storming the
 Gap](https://boardgamegeek.com/boardgame/209877/world-war-85-storming-gap), un
-wargame ambientado en una también hipotética Tercera Guerra Mundial, tiene los
-mismos tanques y vehículos soviéticos que aparecen en Twilight: 2000, y he
-estado un buen rato comparando estadísticas entre el wargamae y juego de rol
-para ver cómo habían escalado cada uno el daño de los diferentes elementos.
+wargame ambientado en una también hipotética Tercera Guerra Mundial y que a mí
+me gusta mucho, tiene los mismos tanques y vehículos soviéticos que aparecen en
+Twilight: 2000 —ya que ambos juegos tratan de ser fieles a los hechos
+históricos no ficticios—, y he estado un buen rato comparando estadísticas
+entre el wargame y juego de rol para ver cómo habían escalado cada uno el daño
+de los diferentes elementos.
 
 ## El juego del mes
 
@@ -265,9 +277,9 @@ Y ya cerrando mi resumen lúdico de octubre, aquí llega la entrega de los
 **Premios Juego del Mes**, donde elijo al juego de mesa y juego de rol más
 destacado:
 
-* **En juegos de mesa...** el ganador es **Bios: Megafauna**, porque me ha
-  gustado mucho volver a sacarlo a la mesa desde mi última partida en octubre
-  de 2019.
+* **En juegos de mesa...** el ganador es **Faiyum**, porque tenía muchísimas
+  ganas de jugarlo, y la única partida de este mes a él ha merecido mucho la
+  pena.
 
 * **En juegos de rol...** el ganador es **Death In Space**, no esperaba que
   llegase el PDF tan pronto, y me ha gustado mucho todo lo que he leído.
@@ -279,10 +291,9 @@ destacado:
 Puesto que en noviembre no he podido jugar mucho, espero volver a recuperar el
 ritmo habitual durante diciembre, entre lo que quiero volver a jugar este mes
 tengo a: Tranvías, Bios: Megafauna, High Frontier 4 All, y ya que empieza
-diciembre espero poder jugar también a Ardennes'44. Espero poder sacar todo a
-la mesa.
-
-Además de esto en rol quiero seguir con Old-School Essentials.
+diciembre espero poder jugar también a Ardennes'44. Además de esto en rol
+quiero seguir con Old-School Essentials. Tengo un gran puente por delante, así
+que soy bastante optimista al respecto :)
 
 Esto es todo, ¡nos vemos en la siguiente entrada de **[El mes en
 juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos/)**!
