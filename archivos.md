@@ -24,7 +24,7 @@ categorías.
         tag[0] == "Dirt RPG" or tag[0] == "Mapeando las catacumbas" or
         tag[0] == "All Must Bow" or tag[0] == "Muspelhell" or
         tag[0] == "Across a Thousand Dead Worlds" or tag[0] == "Apothecaria" or
-        tag[0] == "Tunnels & Trolls" or
+        tag[0] == "Tunnels & Trolls" or tag[0] == "Death In Space" or
         tag[0] == "Desert Moon of Karth" or
         tag[0] == "Fronds of Benevolence" or
         tag[0] == "OSRIC" or tag[0] == "ALIEN RPG" or tag[0] == "Vaesen" or
