@@ -79,6 +79,22 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
+       {% if post.url == "/2021/12/01/partidas-mes-noviembre-21/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
        {% if post.url == "/2021/11/06/general-top-200-1pg-solitario-p1/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -95,23 +111,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2021/12/01/partidas-mes-noviembre-21/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -153,55 +153,76 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "El mes en juegos"
+      or tag[0] == "Mapeando las catacumbas"
+      or tag[0] == "Tops"
       or tag[0] == "Arkwright: El Juego de Cartas"
+      or tag[0] == "Exploradores de las Profundidades Sombrías"
       or tag[0] == "Boletín Informativo Solitario"
+      or tag[0] == "7 Wonders Duel"
       or tag[0] == "Concordia Solitaria"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
+      or tag[0] == "Maracaibo"
+      or tag[0] == "Old-School Essentials"
+      or tag[0] == "On Mars"
+      or tag[0] == "Pax Pamir"
       or tag[0] == "Res Arcana"
-      or tag[0] == "7 Wonders Duel"
       or tag[0] == "Alone Among the Stars"
-      or tag[0] == "Exploradores de las Profundidades Sombrías"
       or tag[0] == "Gloomhaven: Fauces del León"
       or tag[0] == "Iron Helm"
       or tag[0] == "Lanzerath Ridge"
-      or tag[0] == "Mapeando las catacumbas"
       or tag[0] == "Mechs vs. Minions"
-      or tag[0] == "On Mars"
+      or tag[0] == "Merv: The Heart of the Silk Road"
       or tag[0] == "Ronin"
       or tag[0] == "Solar Storm"
+      or tag[0] == "Tekhenu: El obelisco del sol"
+      or tag[0] == "The Last Hundred Yards: Airborne Over Europe"
+      or tag[0] == "The Red Cathedral: Contractors"
       or tag[0] == "The Red Cathedral"
       or tag[0] == "The Veil"
       or tag[0] == "Trismegistus: La Fórmula Definitiva"
+      or tag[0] == "Welcome Hacia el Perfecto Hogar"
       or tag[0] == "A Thousand Year Old Vampire"
       or tag[0] == "A Torch in the Dark"
       or tag[0] == "Across the Bug River: Volodymyr-Volynskyi 1941"
       or tag[0] == "Aeon's End"
+      or tag[0] == "Anachrony"
       or tag[0] == "Bios: Megafauna"
+      or tag[0] == "Bios: Mesofauna"
+      or tag[0] == "Blackout: Hong Kong"
+      or tag[0] == "Boonlake"
       or tag[0] == "Campos de Arle"
+      or tag[0] == "Clanes de Caledonia"
       or tag[0] == "Colonos del Imperio: Imperios del Norte"
       or tag[0] == "Curious Cargo"
+      or tag[0] == "Everdell"
+      or tag[0] == "Food Chain Magnate"
       or tag[0] == "Forbidden Lands"
       or tag[0] == "Gaia Project"
+      or tag[0] == "Great War Commander"
       or tag[0] == "Hegemony"
       or tag[0] == "Ironsworn"
+      or tag[0] == "Kanban EV"
       or tag[0] == "Kickstarter"
+      or tag[0] == "Las Mansiones de la Locura"
       or tag[0] == "Le Havre"
       or tag[0] == "Legion Wargames"
       or tag[0] == "Mörk Borg"
       or tag[0] == "Oh My Goods!"
-      or tag[0] == "Old-School Essentials"
       or tag[0] == "Paladines del Reino del Oeste"
       or tag[0] == "Paper Dungeons"
-      or tag[0] == "Pax Pamir"
       or tag[0] == "Reinos de Papel"
       or tag[0] == "Scarlet Heroes"
+      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Solar Blades & Cosmic Spells"
       or tag[0] == "Star Wars: Imperial Assault"
       or tag[0] == "Star Wars: Rebellion"
       or tag[0] == "Stellar Horizons"
       or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "Terraforming Mars: Ares Expedition"
+      or tag[0] == "Terraforming Mars"
+      or tag[0] == "The Vast in the Dark"
       or tag[0] == "Twilight: 2000"
+      or tag[0] == "Twilight Imperium"
       or tag[0] == "Undaunted: North Africa"
       or tag[0] == "World at War 85: Storming the Gap" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
@@ -262,7 +283,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/10/12/analisis-set-a-watch/" %}
+       {% if post.url == "/2019/03/09/analisis-maquis/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>3. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -270,7 +291,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/06/21/analisis-root/" %}
+       {% if post.url == "/2020/10/12/analisis-set-a-watch/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>4. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -278,7 +299,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/03/09/analisis-maquis/" %}
+       {% if post.url == "/2021/03/16/primeras-impresiones-curious-cargo/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>5. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
