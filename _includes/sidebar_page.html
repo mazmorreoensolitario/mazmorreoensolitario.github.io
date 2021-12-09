@@ -62,7 +62,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/11/30/noticias-boletin-noviembre-2021/" %}
+       {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -86,7 +86,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
+       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -102,15 +102,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2021/11/06/general-top-200-1pg-solitario-p1/" %}
+       {% if post.url == "/2021/11/30/noticias-boletin-noviembre-2021/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -119,6 +111,14 @@
     <div class="image-container">
        {% for post in site.posts %}
        {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2021/11/06/general-top-200-1pg-solitario-p1/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -139,76 +139,80 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Mapeando las catacumbas"
-      or tag[0] == "Tops"
-      or tag[0] == "Maracaibo"
-      or tag[0] == "Exploradores de las Profundidades Sombrías"
-      or tag[0] == "Pax Pamir"
       or tag[0] == "7 Wonders Duel"
-      or tag[0] == "The Red Cathedral: Contractors"
-      or tag[0] == "Iron Helm"
-      or tag[0] == "Old-School Essentials"
-      or tag[0] == "On Mars"
-      or tag[0] == "Barrage"
-      or tag[0] == "Boonlake"
-      or tag[0] == "Concordia Solitaria"
-      or tag[0] == "El mes en juegos"
+      or tag[0] == "Arkwright: El Juego de Cartas"
       or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
-      or tag[0] == "Great War Commander"
+      or tag[0] == "Food Chain Magnate"
+      or tag[0] == "Iron Helm"
+      or tag[0] == "Maracaibo"
+      or tag[0] == "Pax Pamir"
+      or tag[0] == "Tops"
+      or tag[0] == "Welcome Hacia el Perfecto Hogar"
+      or tag[0] == "Aeon's End"
+      or tag[0] == "Barrage"
+      or tag[0] == "Concordia Solitaria"
+      or tag[0] == "Exploradores de las Profundidades Sombrías"
       or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "It's a Wonderful Kingdom"
       or tag[0] == "Labyrinth Lord"
-      or tag[0] == "Las Mansiones de la Locura"
       or tag[0] == "Marvel Champions: The Card Game"
-      or tag[0] == "Merv: The Heart of the Silk Road"
+      or tag[0] == "On Mars"
       or tag[0] == "Paper Dungeons"
       or tag[0] == "Print & play"
       or tag[0] == "Res Arcana"
       or tag[0] == "Stargrave"
-      or tag[0] == "Tekhenu: El obelisco del sol"
-      or tag[0] == "Terraforming Mars"
-      or tag[0] == "The Last Hundred Yards: Airborne Over Europe"
+      or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "The Pure Land"
-      or tag[0] == "Welcome Hacia el Perfecto Hogar"
-      or tag[0] == "Aeon's End"
+      or tag[0] == "The Red Cathedral: Contractors"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "A Rasp of Sand"
       or tag[0] == "Alone Among the Stars"
-      or tag[0] == "Anachrony"
-      or tag[0] == "Arkwright: El Juego de Cartas"
+      or tag[0] == "Ark Nova"
       or tag[0] == "Arquitectos del Reino del Oeste"
-      or tag[0] == "Bios: Mesofauna"
-      or tag[0] == "Blackout: Hong Kong"
-      or tag[0] == "Clanes de Caledonia"
+      or tag[0] == "Boonlake"
+      or tag[0] == "Brass: Birmingham"
+      or tag[0] == "Cthulhu: Death May Die"
       or tag[0] == "Curious Cargo"
       or tag[0] == "Disciples of Bone and Shadow: Conquered Sun Edition"
       or tag[0] == "Dune: Imperium"
       or tag[0] == "El Imperio del Sol"
-      or tag[0] == "Everdell"
+      or tag[0] == "El mes en juegos"
       or tag[0] == "Expedition to Newdale"
       or tag[0] == "Five Tribes"
-      or tag[0] == "Food Chain Magnate"
       or tag[0] == "Forbidden Lands"
+      or tag[0] == "Great War Commander"
+      or tag[0] == "Great Western Trail"
       or tag[0] == "High Frontier 4 All"
       or tag[0] == "Ironsworn: Starforged"
-      or tag[0] == "Kanban EV"
+      or tag[0] == "Ironsworn"
+      or tag[0] == "Las Mansiones de la Locura"
       or tag[0] == "Le Havre"
       or tag[0] == "Mapping the Catacombs"
+      or tag[0] == "Middara: Unintentional Malum"
       or tag[0] == "Nuts! Publishing"
+      or tag[0] == "Old-School Essentials"
+      or tag[0] == "Orchard"
       or tag[0] == "Paladines del Reino del Oeste"
       or tag[0] == "Paleo: Ein neuer Anfang"
       or tag[0] == "Rolling Realms"
       or tag[0] == "Russian Railroads: German Railroads"
       or tag[0] == "Russian Railroads"
+      or tag[0] == "Sabana Park"
       or tag[0] == "Santander 37"
-      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Shinkansen"
       or tag[0] == "Small World of Warcraft"
+      or tag[0] == "Tank Duel: Enemy in the Crosshairs"
+      or tag[0] == "Terraforming Mars"
       or tag[0] == "Tetrarchia"
       or tag[0] == "The Perilous Wilds"
       or tag[0] == "The Siege of Runedar"
-      or tag[0] == "The Vast in the Dark"
+      or tag[0] == "The Ultraviolet Grasslands"
       or tag[0] == "Through the Ages: A New Story of Civilization"
       or tag[0] == "Trickerion: Legends of Illusion"
       or tag[0] == "Twilight: 2000"
       or tag[0] == "Twilight Imperium"
       or tag[0] == "UMBRA"
+      or tag[0] == "Vizcondes del Reino del Oeste"
       or tag[0] == "Wingspan" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
