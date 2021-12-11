@@ -38,8 +38,8 @@ haciendo conexiones con losetas de tuberías"
     class="text-left"> 30-60 mins</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td
             class="text-left">Inglés/Español</td></tr>
-            <tr><td class="text-left"></strong>Dependencia del
-    idioma:</strong></td><td> class="text-left">Baja, solo manual</td></tr>
+            <tr><td class="text-left"><strong>Dependencia del
+    idioma:</strong></td><td class="text-left">Baja, solo manual</td></tr>
          </table>
         </div>
         <div class="col-md-12"></div>
