@@ -12,7 +12,7 @@ categorías.
 <span class="label label-primary"><strong>Juegos de nesa</strong></span>,
 <span class="label label-success"><strong>concursos y premios</strong></span>,
 <span class="label label-info"><strong>eventos y ferias</strong></span>,
-<span class="label label-warning"><strong>general</strong></span>
+<span class="label label-warning"><strong>general</strong></span>,
 <span class="label label-danger"><strong>rol</strong></span>,
 <span class="label label-grey"><strong>wargames</strong></span>.
 

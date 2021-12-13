@@ -152,7 +152,7 @@ Unidas arriba a la derecha</small></p>
 El tablero del jugador (foto de arriba) es donde vamos a colocar todos nuestros
 diferentes recursos: dinero, plástico (cubitos rosas), acero, ciencia y crudo;
 los dados de energía, nuestros trabajadores y fichas de energía y también
-tenemos una zona donde podremos ver las contaminación del medio ambiente.
+tenemos una zona donde podremos ver la contaminación del medio ambiente.
 
 Si os fijáis, el tablero del jugador tiene una cuadrícula de 3x5 dividida en:
 atmósfera, tierra y mar, donde vamos a tener que colocar diferentes fichas de
@@ -174,17 +174,21 @@ con trabajadores ó energía para conseguir alguno de los efectos inmediatos.
 
 El coste de estas cartas se muestra en el tablero principal, dependiendo de la
 posición que esté será más o menos cara. Además de esto algunas cartas serán
-limpias (por ejemplo las cartas de *Amusement Park*, *Airport*,  *Warehouse* y
+limpias (por ejemplo las cartas de *Amusement Park*, *Warehouse* y
 los *Natural Resources* que veis en juego), mientras que otras nos obligan a
 contaminar una zona específica de nuestro tablero cuando las compramos. Por
 ejemplo la carta *Supertanker* contamina el mar con una ficha de contaminación
-normal.
+normal y la carta de  *Airport* contamina la atmósfera también con
+contaminación normal.
 
 Las cartas tienen en la parte inferior unas ranuras donde tendremos que colocar
 trabajadores o energía (son intercambiables, se pueden utilizar unos u otros)
 para activar sus efectos. En el ejemplo de arriba, la carta *Amusement Park* ha
 sido activada utilizando un trabajador y uno de energía, y nos permite cambiar
-3 de dinero por 2 PV.
+3 de dinero por 2 PV. Algunas cartas podrán activarse varias veces, ya que
+tienen dos ranuras, otras serán de un solo uso, y dentro de las de un solo uso
+a veces podemos necesitar colocar dos fichas (trabajador/energía) para poder
+activar la carta.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/51738624287_460dcf18ba_b.jpg"></p>
 <p align="center"><small>Dados de energía</small></p>
