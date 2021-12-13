@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: El Simbolo Arcano"
-tag: "El Simbolo Arcano"
+title: "Etiqueta: El Símbolo Arcano"
+tag: "El Símbolo Arcano"
 ---
