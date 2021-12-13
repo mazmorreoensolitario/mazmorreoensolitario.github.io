@@ -298,7 +298,7 @@ por las que me gusta este juego, no tienes que tener la cabeza funcionando al
 100% para poder jugar, y tampoco te va a cansar mentalmente—. Así que yo
 personalmente tengo interés en que salga la expansión [Cold
 War](https://boardgamegeek.com/boardgameexpansion/267743/manhattan-project-energy-empire-cold-war)
-(que también la publicará **Doit Games**) con el nuevo modo en solitario para
+(~~que también la publicará Doit Games~~[^1]) con el nuevo modo en solitario para
 ver si hace las cosas más difíciles. Por otro lado, en cuanto a tiempo de juego
 a mi me parece que tiene una duración perfecta, unos 40 minutos, por lo que
 siempre invita a jugar dos partidas seguidas, y no se tarda nada en preparar si
@@ -321,3 +321,15 @@ juego que puedes sacar entre semana cuando no tengas mucho tiempo.
 <img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
 3 de 5 monedas. **Me lo paso bien jugando a este juego.**
 
+<hr>
+
+**Notas**
+
+[^1]: (En relación a la publicación de la expansión Cold War por Doit Games):
+    Mi última información de que sí se iba a publicar la expansión era de
+    [septiembre]({{site.baseurl}}/2021/10/01/noticias-boletin-septiembre-2021/)
+    donde la editorial anunció en Análisis Parálisis que iban a publicar la
+    expansión. Un lector me informa en los comentarios que en la DAU'21 de
+    Barcelona la editorial ha dicho que al final no la publican y la editorial
+    me lo ha confirmado. Así que, a fecha de publicación de esta entrada Doit
+    Games no publica la expansión.
