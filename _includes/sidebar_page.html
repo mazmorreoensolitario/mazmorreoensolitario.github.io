@@ -62,14 +62,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2021/12/13/general-top-200-1pg-solitario-p3/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -78,7 +70,15 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
+       {% if post.url == "/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2021/12/11/analisis-manhattan-project-energy-empire/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -94,7 +94,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/12/11/analisis-manhattan-project-energy-empire/" %}
+       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -118,7 +118,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/18/general-top-100-bgg-solitario-p3/" %}
+       {% if post.url == "/2021/11/06/general-top-200-1pg-solitario-p1/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -126,7 +126,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/12/01/partidas-mes-noviembre-21/" %}
+       {% if post.url == "/2021/03/18/general-top-100-bgg-solitario-p3/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -143,17 +143,24 @@
       or tag[0] == "Tops"
       or tag[0] == "Twilight: 2000"
       or tag[0] == "Print & play"
+      or tag[0] == "Santander 37"
       or tag[0] == "Undaunted: North Africa"
       or tag[0] == "Iron Helm"
-      or tag[0] == "Santander 37"
       or tag[0] == "Scarlet Heroes"
+      or tag[0] == "Aeon's End"
+      or tag[0] == "Arkwright: El Juego de Cartas"
       or tag[0] == "Barrage"
       or tag[0] == "Enemy Action: Ardennes"
       or tag[0] == "Exploradores de las Profundidades Sombrías"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
       or tag[0] == "Ironsworn"
+      or tag[0] == "It's a Wonderful Kingdom"
       or tag[0] == "Space Empires"
+      or tag[0] == "Tainted Grail: La caída de Ávalon"
       or tag[0] == "Tin Helm"
+      or tag[0] == "Alubari: A Nice Cup of Tea"
+      or tag[0] == "Blackout: Hong Kong"
+      or tag[0] == "Boletín Informativo Solitario"
       or tag[0] == "Campos de Arle"
       or tag[0] == "Coffee Roaster"
       or tag[0] == "Concordia Solitaria"
@@ -161,45 +168,47 @@
       or tag[0] == "El Banquete de Odín"
       or tag[0] == "Europa Universalis: The Price of Power"
       or tag[0] == "La Isla de los Gatos"
+      or tag[0] == "Lanzerath Ridge"
       or tag[0] == "Mörk Borg"
+      or tag[0] == "Old-School Essentials"
+      or tag[0] == "OSR"
       or tag[0] == "Res Arcana"
+      or tag[0] == "Ronin"
       or tag[0] == "Root"
       or tag[0] == "Saqueadores de Escitia"
+      or tag[0] == "The Red Cathedral: Contractors"
       or tag[0] == "The Siege of Runedar"
       or tag[0] == "Across a Thousand Dead Worlds"
       or tag[0] == "Altar Quest"
-      or tag[0] == "Arkwright: El Juego de Cartas"
-      or tag[0] == "Boletín Informativo Solitario"
+      or tag[0] == "Cosmonaves"
       or tag[0] == "Dungeons Dice & Danger"
       or tag[0] == "El mes en juegos"
       or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Fantastic Factories"
       or tag[0] == "Fire in the Lake"
       or tag[0] == "Five Tribes"
+      or tag[0] == "Gloomhaven: Fauces del León"
       or tag[0] == "Ironsworn: Delve"
-      or tag[0] == "It's a Wonderful Kingdom"
       or tag[0] == "Kanban EV"
+      or tag[0] == "Keyper at Sea"
       or tag[0] == "Labyrinth Lord"
       or tag[0] == "Mothership"
       or tag[0] == "Oh My Goods!"
-      or tag[0] == "Old-School Essentials"
-      or tag[0] == "OSR"
+      or tag[0] == "Pax Pamir"
       or tag[0] == "Pequeños Grandes Zombis"
       or tag[0] == "Pico, Pluma & Hueso"
       or tag[0] == "Rol"
-      or tag[0] == "Ronin"
       or tag[0] == "Root: The Underworld"
       or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Solitaire Print & Play Design Contest"
       or tag[0] == "Star Wars: Imperial Assault"
       or tag[0] == "Stargrave"
-      or tag[0] == "Tainted Grail: La caída de Ávalon"
+      or tag[0] == "Tabannusi: Constructores de Ur"
       or tag[0] == "Tetrarchia"
       or tag[0] == "The City of Kings"
       or tag[0] == "The Manhattan Project: Energy Empire"
       or tag[0] == "The Pure Land"
-      or tag[0] == "The Red Cathedral: Contractors"
       or tag[0] == "Twilight Imperium"
       or tag[0] == "Vaults of Vaarn"
       or tag[0] == "Vizcondes del Reino del Oeste"
