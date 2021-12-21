@@ -14,7 +14,8 @@ categorías.
 <span class="label label-info"><strong>eventos y ferias</strong></span>,
 <span class="label label-warning"><strong>general</strong></span>,
 <span class="label label-danger"><strong>rol</strong></span>,
-<span class="label label-grey"><strong>wargames</strong></span>.
+<span class="label label-grey"><strong>wargames</strong></span>,
+<span class="label label-black"><strong>off topic</strong></span>.
 
 <p class="text-left">
 {% assign sorted_tags = site.tags | sort %}
@@ -266,9 +267,15 @@ categorías.
                     href="/etiqueta/{{tag[0] | slugify:
                     "latin"}}">{{tag[0]}}</a></strong></span> 
                 {% else %}
+                {% if tag[0] == "Libros" %}
+                <span class="label label-black"><strong>#<a class="tag-color"
+                    href="/etiqueta/{{tag[0] | slugify:
+                    "latin"}}">{{tag[0]}}</a></strong></span> 
+                {% else %}
                     <span class="label label-primary"><strong>#<a class="tag-color"
                     href="/etiqueta/{{tag[0] | slugify:
                     "latin"}}">{{tag[0]}}</a></strong></span> 
+                {% endif %}
                 {% endif %}
                 {% endif %}
             {% endif %}
