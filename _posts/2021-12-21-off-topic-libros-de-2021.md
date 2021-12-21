@@ -69,7 +69,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/15554
   Y bueno, qué os voy a contar de *Dune*. Paul Atreides junto con su familia
   son enviados al planeta Arrakis por decreto imperial, y tienen que dejar su
   hogar. Arrakis es un auténtico contraste con el planeta natal de los Atreides
-  porque esta cubierto de desiertos y el agua es el bien más preciado, junto
+  porque está cubierto de desiertos y el agua es el bien más preciado, junto
   con la especia, un recurso que solamente se produce en Arrakis. La vida en
   Arrakis no es fácil ya que los enemigos del Clan Atreides, el Clan Harkonnen,
   quieren recuperar de estrangis su poder en Arrakis. Además de este prolema
