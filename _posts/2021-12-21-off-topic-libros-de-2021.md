@@ -168,7 +168,7 @@ src="https://images-na.ssl-images-amazon.com/images/I/71AoJgsC7-L.jpg"></p>
   mientras trata de reconstruir su imperio. Hail es de sangre noble y era la
   segunda en línea para el trono, pero dejó atrás esa vida y se convirtió en
   una traficante de armas (hell yeah!). Tras un golpe de estado en el que parte
-  de su familia muerte, incluyendo su madre y su hermana mayor, es decir la
+  de su familia muere, incluyendo su madre y su hermana mayor, es decir la
   emperatriz anterior y la primera en la línea de sucesión al trono, unos
   rastreadores del imperio la buscan para que se haga cargo del imperio, ya que
   le toca a ella; el libro comienza cuando el golpe de estado / guerra ha sido
@@ -948,7 +948,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/15236
   desde que empezó a ser consciente de lo que era, de su poder y desde que
   llegó a la tierra como un meteorito y ahora es una roca en medio de una
   colina, se le conoce como *"The Strength and Patience of the Hill"*
-  (dios-Piedra de ahora en adelante). En este
+  (dios-Piedra de ahora en adelante porque sino es muy largo). En este
   mundo hay diversos dioses y cada uno interactúa con los humanos de diferente
   forma, algunos pueden hablar con los humanos porque han aprendido su lengua,
   mientras que otros como nuestro protagonista, utilizan piedras con símbolos
