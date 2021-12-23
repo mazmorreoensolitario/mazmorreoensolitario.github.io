@@ -14,7 +14,7 @@ de juegos de los usuarios de este gremio en Board Game Geek"
 * [Parte 1: 200-151]({{site.baseurl}}/2021/11/06/general-top-200-1pg-solitario-p1/)
 * **Parte 2: 150-101** (estás aquí)
 * [Parte 3: 100-51]({{site.baseurl}}/2021/12/13/general-top-200-1pg-solitario-p3/)
-* Parte 4: 50-1
+* [Parte 4: 50-1]({{site.baseurl}}/2021/12/23/general-top-200-1pg-solitario-p4/)
   
 <hr>
 
