@@ -449,9 +449,9 @@ más abajo en las estadísticas.
          <img src="https://cf.geekdo-images.com/WY44tqBsKw8se1xHkh5KWA__imagepage/img/HYYjAEaSzUOYRnHdZTpdi3vdqSQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1760517.jpg">
          <p><small>Foto de @kilroy_locke</small></p>
          <p><strong>Comentario.</strong> Este es uno de los juegos mejor
-    valorados de Firedemann Friese, y como podéis ver, uno de los más queridos
+    valorados de Friedemann Friese, y como podéis ver, uno de los más queridos
     en la comunidad de los jugadores en solitario. También está disponible en
-    formato app para el móvil..</p>
+    formato app para el móvil.</p>
      </div>
 </div>
 
