@@ -57,7 +57,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
         class="img-thumbnail" alt="Cascadia">
     </div>
     <div class="col-md-9">
-        <h4><strong>10. <a href="">Cascadia</a></strong></h4>
+        <h4><strong>10. <a href="https://zacatrus.es/cascadia.html#u97">Cascadia</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/343905/boonlake">Cascadia</a></strong> de <strong>Randy Flynn</strong> y publicado por
     <strong>Flatout Games</strong> (<strong>Delirium Games</strong> en España), es
@@ -88,7 +88,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
         class="img-thumbnail" alt="Brazil: Imperial">
     </div>
     <div class="col-md-9">
-        <h4><strong>9. <a href="">Brazil: Imperial</a></strong></h4>
+        <h4><strong>9. Brazil: Imperial</strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/249277/brazil-imperial">Brazil:
     Imperial</a></strong> de <strong>Zé Mendes</strong> y publicado por
@@ -122,7 +122,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
         class="img-thumbnail" alt="Messina 1347">
     </div>
     <div class="col-md-9">
-        <h4><strong>8. <a href="">Messina 1347</a></strong></h4>
+        <h4><strong>8. Messina 1347</strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/238799/messina-1347">Messina
     1347</a></strong> de <strong>Vladimír Suchý</strong> y <strong>Raúl
@@ -165,7 +165,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
         class="img-thumbnail" alt="The Dogs of War">
     </div>
     <div class="col-md-9">
-        <h4><strong>7. <a href="">The Dogs of War</a></strong></h4>
+        <h4><strong>7. The Dogs of War</strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/320084/dogs-war">The Dogs of
     War</a></strong> de <strong>Fabrizio Vianello</strong> y publicado por
@@ -193,7 +193,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
         class="img-thumbnail" alt="SpaceCorp: Ventures">
     </div>
     <div class="col-md-9">
-        <h4><strong>6. <a href="">SpaceCorp: Ventures</a></strong></h4>
+        <h4><strong>6. <a href="https://www.philibertnet.com/en/gmt/73512-spacecorp-817054011599.html#ae447-11">SpaceCorp: Ventures</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/292670/spacecorp-ventures">SpaceCorp:
     Ventures</a></strong> de <strong>John H. Butterfield</strong> y publicado
@@ -222,7 +222,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
         class="img-thumbnail" alt="Corrosion">
     </div>
     <div class="col-md-9">
-        <h4><strong>5. <a href="">Corrosion</a></strong></h4>
+        <h4><strong>5. <a href="https://www.philibertnet.com/en/deep-print-games/104880-corrosion-4250231730375.html#ae447-11">Corrosion</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/344277/corrosion">Corrosion</a></strong>
     de <strong>Stefan Bauer</strong> y publicado por <strong>Deep Print
@@ -263,7 +263,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
         class="img-thumbnail" alt="Mini Express">
     </div>
     <div class="col-md-9">
-        <h4><strong>4. <a href="">Mini Express</a></strong></h4>
+        <h4><strong>4. Mini Express</strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/300751/mini-express">Mini
     Express</a></strong> de <strong>Mark Gerrits</strong> y publicado por 
@@ -297,7 +297,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
         class="img-thumbnail" alt="The Last Hundred Yards: Airborne Over Europe">
     </div>
     <div class="col-md-9">
-        <h4><strong>3. <a href="">The Last Hundred Yards: Airborne Over Europe</a></strong></h4>
+        <h4><strong>3. <a href="https://www.philibertnet.com/en/western-front/97521-the-last-hundred-yards-volume-2-airborne-over-europe-817054012077.html#ae447-11">The Last Hundred Yards: Airborne Over Europe</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/287783/last-hundred-yards-volume-2-airborne-over-europe">The
     Last Hundred Yards: Airborne Over Europe</a></strong> de <strong>Mike
@@ -331,7 +331,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
         class="img-thumbnail" alt="Stardew Valley: The Board Game">
     </div>
     <div class="col-md-9">
-        <h4><strong>2. <a href="">Stardew Valley: The Board Game</a></strong></h4>
+        <h4><strong>2. Stardew Valley: The Board Game</strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/332290/stardew-valley-board-game">Stardew
     Valley: The Board Game</a></strong> de <strong>Cole Medeiros</strong> y
@@ -366,7 +366,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
         class="img-thumbnail" alt="Ark Nova">
     </div>
     <div class="col-md-9">
-        <h4><strong>1. <a href="">Ark Nova</a></strong></h4>
+        <h4><strong>1. <a href="https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447-11">Ark Nova</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/342942/ark-nova">Ark
     Nova</a></strong> de <strong>Mathias Wigge</strong> y publicado por
