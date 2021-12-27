@@ -16,26 +16,16 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
 
 # Sobre mí
 
-* Libros que estoy leyendo ahora: [The City in the Middle of the
-  Night](https://amzn.to/3BrfBPk), [Ardenas 1944](https://amzn.to/3fACxSx).
+* Libros que estoy leyendo ahora: [Recursion](https://amzn.to/3JmFJPX), [Ardenas 1944](https://amzn.to/3fACxSx).
 * Posibles siguiente/s libro/s en mi lista para leer: *[The Winter War: The Russo-Finish
   War of 1939-1940](https://amzn.to/3lajpfl)* de Willian R. Trotter,
   *[The Dying Earth](https://amzn.to/2V4HLMN)* de Jack Vance y
   *[The Book of the New Sun](https://amzn.to/2HIcs7A)* de Gene Wolfe.
-* Libros que he leído este 2021: [The Unspoken Name](https://amzn.to/36QeU4O),
-[Dune](https://amzn.to/3eFnvvu), [A Desolation Called
-Peace](https://amzn.to/2V4MrFy), [There Before the
-Chaos](https://amzn.to/3wOwyk0), [Down Among the
-Death](https://amzn.to/3ivUymS), [Out Past The Stars](https://amzn.to/3Bo44kD),
-[The Traitor Baru Cormorant](https://amzn.to/3BsNrEa), [The
-Unbroken](https://amzn.to/3BjZiVj), [Velocity Weapon](https://amzn.to/2UZmCXM),
-[Chaos Vector](https://amzn.to/3iAXQ8r), [Catalyst
-Gate](https://amzn.to/2Tr0yF1), [Ancestral Night](https://amzn.to/2UOELax),
-[Machine](https://amzn.to/2W6rXwT), [The Gutter
-Prayer](https://amzn.to/3y59EWY), [Embers of War](https://amzn.to/2W1DzBM), [A
-Big Ship at the Edge of the Universe](https://amzn.to/385jQn7), [A Master of
-Djinn](https://amzn.to/3zz01AM). 
-* Series que estoy viendo: [Invincible](https://www.primevideo.com/?tag=mazmorreo-21), For all mankind.
+* Libros que he leído: [en 2021]({{site.baseurl}}/2021/12/21/off-topic-libros-de-2021/).
+* Series que estoy viendo: [The Wheel Of
+  Time](https://www.primevideo.com/?tag=mazmorreo-21), [The
+  Expanse](https://www.primevideo.com/?tag=mazmorreo-21),
+  [Invincible](https://www.primevideo.com/?tag=mazmorreo-21), For all mankind.
 * Videojuegos que ocasionalmente juego durante estos meses: Deep Sky Derelicts,
   Caves of Qud y [Star Wars Battlefront II](https://amzn.to/2TQNQz5).
 
