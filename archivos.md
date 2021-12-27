@@ -247,6 +247,7 @@ categorías.
                         tag[0] == "The Bell of Treason" or
                         tag[0] == "The Conquistadors" or
                         tag[0] == "The Dark Valley" or
+                        tag[0] == "The Dogs of War" or
                         tag[0] == "The First Jihad" or
                         tag[0] == "The Great Crisis of Frederick II" or
                         tag[0] == "The Jaws of Victory" or
