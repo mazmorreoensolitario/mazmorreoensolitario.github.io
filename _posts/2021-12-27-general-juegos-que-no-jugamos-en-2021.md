@@ -59,7 +59,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
     <div class="col-md-9">
         <h4><strong>10. <a href="https://zacatrus.es/cascadia.html#u97">Cascadia</a></strong></h4>
          <p><strong><a
-    href="https://boardgamegeek.com/boardgame/343905/boonlake">Cascadia</a></strong> de <strong>Randy Flynn</strong> y publicado por
+    href="https://boardgamegeek.com/boardgame/295947/cascadia">Cascadia</a></strong> de <strong>Randy Flynn</strong> y publicado por
     <strong>Flatout Games</strong> (<strong>Delirium Games</strong> en España), es
     un juego de colocación y drafting de losetas de mapa y fichas de animales
     en el que buscamos colocar los animales en unos determinados patrones de
