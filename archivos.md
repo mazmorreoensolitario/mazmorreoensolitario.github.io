@@ -216,6 +216,7 @@ categorías.
                         tag[0] == "Horse & Musket" or
                         tag[0] == "Hungarian Rhapsody" or
                         tag[0] == "Inferno" or
+                        tag[0] == "Infernal Machine" or
                         tag[0] == "Iron Curtain: Central Europe" or
                         tag[0] == "Lanzerath Ridge" or
                         tag[0] == "Labyrinth: The Forever War" or
@@ -229,6 +230,7 @@ categorías.
                         tag[0] == "Next War: Korea" or
                         tag[0] == "Next War: Vietnam" or
                         tag[0] == "Next War Series" or
+                        tag[0] == "North Africa 41" or
                         tag[0] == "Pavlov's House" or
                         tag[0] == "Peloponnesian War" or
                         tag[0] == "Rangers of Shadow Deep" or
