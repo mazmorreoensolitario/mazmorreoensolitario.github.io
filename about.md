@@ -44,23 +44,23 @@ crowdfunding, y lo último sobre el **[rol en
 solitario]({{site.baseurl}}/rol-en-solitario/)**.
 
 
-**Entidades colaboradoras**
+<!-- **Entidades colaboradoras** -->
 
-<div class="row">
-    <div class="col-md-3">
-        <a href="https://www.misifu.es/" target="_blank">
-            <img src="{{site.baseurl}}/images/logo-misifu-juegosdemesa.png"
-            alt="Misifú">
-        </a>
-    </div>
-    <div class="col-md-9">
-        <p><strong>Misifú</strong> es una tienda malagueña de juegos de mesa,
-            que toma el nombre de la gata del hermano del propietario.
-            Desde Mazmorreo en solitario damos las gracias al equipo de Misifú
-            por colaborar con nosotros.
-        </p>
-    </div>
-</div>
+<!-- <div class="row"> -->
+<!--     <div class="col-md-3"> -->
+<!--         <a href="https://www.misifu.es/" target="_blank"> -->
+<!--             <img src="{{site.baseurl}}/images/logo-misifu-juegosdemesa.png" -->
+<!--             alt="Misifú"> -->
+<!--         </a> -->
+<!--     </div> -->
+<!--     <div class="col-md-9"> -->
+<!--         <p><strong>Misifú</strong> es una tienda malagueña de juegos de mesa, -->
+<!--             que toma el nombre de la gata del hermano del propietario. -->
+<!--             Desde Mazmorreo en solitario damos las gracias al equipo de Misifú -->
+<!--             por colaborar con nosotros. -->
+<!--         </p> -->
+<!--     </div> -->
+<!-- </div> -->
 
 
 <a href="#cookies"><strong>Descargo de responsabilidad</strong></a>
