@@ -36,7 +36,7 @@ de este año.
   print & play, pero confieso que de esos me cuesta más llevar la cuenta.
   
   A mucha gente le parecerán muy pocas compras en comparación con el ritmo que
-  suelen llevar otros blogs/páginas o gente en general. A mí me parece un bueno
+  suelen llevar otros blogs/páginas o gente en general. A mí me parece un buen
   año de juegos, yo compro lo que voy a jugar, tener muchos juegos sin jugar me
   agobia y creo que hay juegazos en mi colección, así que suelo rejugar mucho
   lo que me gusta, sin ansias por comprar más, tampoco sufro de FOMO ni otros
