@@ -31,7 +31,8 @@ es bastante seguro porque tengo ya algún que otro juego pre-pedido.
 
 De todas formas, siguiendo la tendencia del año pasado, este año ha sido muy
 bueno para mí en cuanto a la selección de compras, me he comprado juegos que
-han sido grandes éxitos (hablare de ello en mi balance de 2021) y no me he
+han sido grandes éxitos (hablaré de ello en mi [balance de
+2021]({{site.baseurl}}/2022/01/03/listas-lo-mas-jugado-2021/)) y no me he 
 dejado en ningún momento llevar por el hype de las novedades o el FOMO ("fear
 of missing out"), concretamente no he sentido nada de FOMO este año, así que
 punto para mí; y es más, este año os anuncio con gran orgullo y satisfacción
