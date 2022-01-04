@@ -273,7 +273,7 @@ de los diferentes elementos.
 <p align="center">
 <img height="" src="https://live.staticflickr.com/65535/51017482330_95d9f724e1_o.png"></p>
 
-Y ya cerrando mi resumen lúdico de octubre, aquí llega la entrega de los
+Aquí llega la entrega de los
 **Premios Juego del Mes**, donde elijo al juego de mesa y juego de rol más
 destacado:
 
