@@ -372,8 +372,8 @@ destacado:
 
 ## Planes para enero
 
-Tengo ganas de seguir con **Gaia Project** y **Tranvías**, echar igual una a
-**High Frontier 4 All**. Me apetece también jugar otra vez al **Bios:
+Tengo ganas de seguir con **Gaia Project** y **Tranvías** y de echar igual una
+a **High Frontier 4 All**. Me apetece también jugar otra vez al **Bios:
 Megafauna** y quiero sacar otra vez mi **Pathfinder Adventure Card Game:
 Mummy's Mask**. Pero ya veremos lo que el mes me depara.
 
