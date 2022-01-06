@@ -3,7 +3,7 @@ layout: post
 title: "Juegos en solitario: Premios UK Games Expo de 2021"
 date: 2021-07-15
 categories: [Noticias]
-tags: [UKGE Awards, UKGE, UKGE 2021, Rol, OSR, OSRIC, ALIEN RPG, Vaesen, The Dee Sanction, "Jackals: Bronze Age Fantasy Roleplaying", Fábulas de Peluche, Stuffed Fables, "Stuffed Fables: Oh Brother!", Small World of Warcraft, Dice Hospital, "Dice Hospital: Community Care", Trek 12, Paper Dungeons, Escape the Dark Sector, "Imperium: Classics", "Imperium: Legends", Village Green, "Unmatched: Battle of Legends", "Undaunted: North Africa", Prisma Arena, Excavation Earth, Excavación Tierra, "X-Men: Mutant Insurrection", Flash 8, Ghost Adventure]
+tags: [UKGE Awards, UKGE, UKGE 2021, Undaunted, Rol, OSR, OSRIC, ALIEN RPG, Vaesen, The Dee Sanction, "Jackals: Bronze Age Fantasy Roleplaying", Fábulas de Peluche, Stuffed Fables, "Stuffed Fables: Oh Brother!", Small World of Warcraft, Dice Hospital, "Dice Hospital: Community Care", Trek 12, Paper Dungeons, Escape the Dark Sector, "Imperium: Classics", "Imperium: Legends", Village Green, "Unmatched: Battle of Legends", "Undaunted: North Africa", Prisma Arena, Excavation Earth, Excavación Tierra, "X-Men: Mutant Insurrection", Flash 8, Ghost Adventure]
 general: ""
 imghtml: https://media.ukgamesexpo.co.uk/prod/images/Peoples_Choice_Award_2021.width-500.png
 post_desc: "Este año la UK Games Expo vuelve a ser presencial y trae muchos

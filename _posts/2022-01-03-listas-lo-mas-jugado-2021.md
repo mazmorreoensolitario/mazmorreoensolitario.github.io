@@ -369,9 +369,9 @@ En novena posición se encuentran empatados **Spirit Island** y  **World at War
     dos jugadores y supe que era de lo mio. También sufrí muchísimo al ver que
     era solamente de 2 jugadores, pero luego se alinearon los astros y el autor
     del juego hizo un modo en solitario que será publicado oficialmente en la
-    primera expansión del juego, pero que podíamos obtener mediante formato
-    print & play. Así que me lancé a la piscina y me hice con este juego cuando
-    empezó el año.</p>
+    primera expansión del juego, pero que podíamos obtener de momento mediante
+    formato print & play. Así que me lancé a la piscina y me hice con este
+    juego cuando empezó el año.</p>
     <p>Gran compra, gran decisión y un verdadero juegazo.</p>
     <p>Es el juego que más partidas y más horas ha pasado conmigo en 2021 y mi
     mejor compra de 2021 sin ningún tipo de duda.</p>
