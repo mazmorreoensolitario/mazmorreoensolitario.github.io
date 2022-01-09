@@ -123,7 +123,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
         class="img-thumbnail" alt="Messina 1347">
     </div>
     <div class="col-md-9">
-        <h4><strong>8. Messina 1347</strong></h4>
+        <h4><strong>8. <a href="https://www.philibertnet.com/en/delicious-games/105440-messina-1347-8594195080128.html#ae447-11">Messina 1347</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/238799/messina-1347">Messina
     1347</a></strong> de <strong>Vladimír Suchý</strong> y <strong>Raúl
