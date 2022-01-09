@@ -1127,7 +1127,7 @@ Y llegamos al podio:
     espíritus y la fuerza de los habitantes nativos para echar a los
     invasores.</p>
          <p>Puedes leer más sobre este juego, de mis favoritos en el tema de
-    "Battallas o guerras" <a href="{{site.baseurl}}/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/">en esta entrada</a>.</p>
+    "Batallas o guerras" <a href="{{site.baseurl}}/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/">en esta entrada</a>.</p>
          <img src="https://live.staticflickr.com/65535/50700207656_66bd2188ce_h.jpg">
          <p><small>Foto de mi copia</small></p>
          <p><strong>Comentario.</strong> Creo que tiene una merecidísima

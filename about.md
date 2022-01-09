@@ -17,15 +17,14 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
 # Sobre mí
 
 * Libros que estoy leyendo ahora: [Recursion](https://amzn.to/3JmFJPX), [Ardenas 1944](https://amzn.to/3fACxSx).
-* Posibles siguiente/s libro/s en mi lista para leer: *[The Winter War: The Russo-Finish
-  War of 1939-1940](https://amzn.to/3lajpfl)* de Willian R. Trotter,
-  *[The Dying Earth](https://amzn.to/2V4HLMN)* de Jack Vance y
-  *[The Book of the New Sun](https://amzn.to/2HIcs7A)* de Gene Wolfe.
-* Libros que he leído: [en 2021]({{site.baseurl}}/2021/12/21/off-topic-libros-de-2021/).
+* Posibles siguiente/s libro/s en mi lista para leer: *muchos*.
+* Libros que he leído:
+  - en 2022: *ninguno de momento*
+  - en 2021: [lista
+    aquí]({{site.baseurl}}/2021/12/21/off-topic-libros-de-2021/)
 * Series que estoy viendo: [The Wheel Of
   Time](https://www.primevideo.com/?tag=mazmorreo-21), [The
-  Expanse](https://www.primevideo.com/?tag=mazmorreo-21),
-  [Invincible](https://www.primevideo.com/?tag=mazmorreo-21), For all mankind.
+  Expanse](https://www.primevideo.com/?tag=mazmorreo-21), The Book of Boba Fett.
 * Videojuegos que ocasionalmente juego durante estos meses: Deep Sky Derelicts,
   Caves of Qud y [Star Wars Battlefront II](https://amzn.to/2TQNQz5).
 
@@ -33,15 +32,17 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
 # Sobre el blog
 
 **Mazmorreo en solitario** es un blog sobre toda clase de información
-relacionada con el hobby de los **juegos de mesa y rol para un jugador**.
+relacionada con el hobby de los **juegos de mesa, wargames y rol para un jugador**.
 
-Espera encontrar **[análisis de juegos]({{site.baseurl}}/analisis/)**, un
-pequeño rincón dedicado a los juegos **[print &
-play]({{site.baseurl}}/rincon-print-and-play)**, **noticias sobre los últimos
-juegos** en ferias, [Kickstarter]({{site.baseurl}}/etiqueta/kickstarter/), 
-Indiegogo, [Verkami]({{site.baseurl}}/etiqueta/verkami) u otras plataformas de
-crowdfunding, y lo último sobre el **[rol en
-solitario]({{site.baseurl}}/rol-en-solitario/)**.
+Espera encontrar **[análisis, reseñas y primeras impresiones de
+juegos]({{site.baseurl}}/analisis/)**, un pequeño rincón dedicado a los juegos **[print &
+play]({{site.baseurl}}/rincon-print-and-play)**, **noticias** sobre juegos de
+mesa, rol y wargames en solitario en el **[Boletín Informativo Solitario
+mensual]({{site.baseurl}}etiqueta/boletin-informativo-solitario/)**, las
+últimas campañas de **crowdfunding** en **Kickstarter**, **Gamefound**,
+**Verkami**... y lo último sobre el **[rol en
+solitario]({{site.baseurl}}/rol-en-solitario/)** con noticias y análisis de
+juegos.
 
 
 <!-- **Entidades colaboradoras** -->
