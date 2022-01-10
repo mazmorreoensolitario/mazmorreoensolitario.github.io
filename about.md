@@ -16,10 +16,10 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
 
 # Sobre mí
 
-* Libros que estoy leyendo ahora: [Recursion](https://amzn.to/3JmFJPX), [Ardenas 1944](https://amzn.to/3fACxSx).
+* Libros que estoy leyendo ahora: [Ardenas 1944](https://amzn.to/3fACxSx).
 * Posibles siguiente/s libro/s en mi lista para leer: *muchos*.
 * Libros que he leído:
-  - en 2022: *ninguno de momento*
+  - en 2022: [Recursion](https://amzn.to/3HSVyMH)
   - en 2021: [lista
     aquí]({{site.baseurl}}/2021/12/21/off-topic-libros-de-2021/)
 * Series que estoy viendo: [The Wheel Of
