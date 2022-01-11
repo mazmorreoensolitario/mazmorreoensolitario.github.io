@@ -122,7 +122,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/12/31/noticias-boletin-diciembre-2021/" %}
+       {% if post.url == "/2019/03/09/analisis-maquis/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -130,7 +130,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/03/09/analisis-maquis/" %}
+       {% if post.url == "/2021/12/31/noticias-boletin-diciembre-2021/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -156,71 +156,74 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Four Against Darkness"
-      or tag[0] == "Tops"
-      or tag[0] == "Concordia Solitaria"
       or tag[0] == "Cosmonaves"
+      or tag[0] == "Tops"
       or tag[0] == "Gloomhaven: Fauces del León"
-      or tag[0] == "Welcome Hacia el Perfecto Hogar"
-      or tag[0] == "Boonlake"
-      or tag[0] == "Forbidden Lands"
-      or tag[0] == "Mapeando las catacumbas"
       or tag[0] == "Res Arcana"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Aeon's End"
+      or tag[0] == "Five Parsecs From Home"
+      or tag[0] == "Forbidden Lands"
+      or tag[0] == "Gladiator Gauntlet"
       or tag[0] == "The Jaws of Victory"
       or tag[0] == "Undaunted: Normandy"
+      or tag[0] == "Welcome Hacia el Perfecto Hogar"
       or tag[0] == "A Rasp of Sand"
-      or tag[0] == "Aeon's End"
       or tag[0] == "Ark Nova"
+      or tag[0] == "Concordia Solitaria"
       or tag[0] == "Ennie"
-      or tag[0] == "Iron Helm"
-      or tag[0] == "Las Ruinas Perdidas de Arnak"
-      or tag[0] == "Mörk Borg"
+      or tag[0] == "Europa Universalis: The Price of Power"
+      or tag[0] == "Mapeando las catacumbas"
       or tag[0] == "Oh My Goods!"
-      or tag[0] == "On Mars"
-      or tag[0] == "Ronin"
+      or tag[0] == "Oneironaut"
+      or tag[0] == "Race for the Galaxy"
       or tag[0] == "Root: Los Cachivaches"
+      or tag[0] == "Star Wars: Imperial Assault"
+      or tag[0] == "Tabannusi: Builders of Ur"
       or tag[0] == "Twilight Imperium"
       or tag[0] == "Unmatched: Battle of Legends"
-      or tag[0] == "Advanced Squad Leader: Starter Kit"
       or tag[0] == "All Bridges Burning"
+      or tag[0] == "Anachrony"
+      or tag[0] == "Arkwright: El Juego de Cartas"
+      or tag[0] == "Atlantic Chase"
+      or tag[0] == "AuZtralia"
       or tag[0] == "Beyond the Sun"
-      or tag[0] == "Concordia"
+      or tag[0] == "Boonlake"
+      or tag[0] == "Brass: Birmingham"
+      or tag[0] == "Caesar: Rome vs. Gaul"
+      or tag[0] == "Clanes de Caledonia"
       or tag[0] == "Curious Cargo"
-      or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "Dwellings of Eldervale"
-      or tag[0] == "Everdell"
+      or tag[0] == "Eldritch Horror"
+      or tag[0] == "Etherfields"
       or tag[0] == "Excavación Tierra"
       or tag[0] == "Expansiópolis"
-      or tag[0] == "Faiyum"
       or tag[0] == "Five Tribes"
       or tag[0] == "For Northwood!"
       or tag[0] == "Gaia Project"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
       or tag[0] == "Great Western Trail"
+      or tag[0] == "Hexasim"
       or tag[0] == "High Frontier 4 All"
-      or tag[0] == "Kanban EV"
-      or tag[0] == "Maracaibo"
+      or tag[0] == "Iron Helm"
+      or tag[0] == "Ironsworn"
       or tag[0] == "Messina 1347"
       or tag[0] == "Mombasa"
+      or tag[0] == "Mörk Borg"
       or tag[0] == "Mothership"
       or tag[0] == "Mythic"
       or tag[0] == "Non Gratus Rodentum"
-      or tag[0] == "Paper Dungeons"
-      or tag[0] == "Pequeños Grandes Zombis"
+      or tag[0] == "On Mars"
+      or tag[0] == "Pandemic Legacy"
       or tag[0] == "Praga Caput Regni"
-      or tag[0] == "Rising Sun"
+      or tag[0] == "Ronin"
+      or tag[0] == "Santander 37"
+      or tag[0] == "Saqueadores de Escitia"
       or tag[0] == "Scarlet Heroes"
-      or tag[0] == "Scythe: El Auge de Fenris"
       or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "Stalingrad 42"
-      or tag[0] == "Star Wars: Rebellion"
-      or tag[0] == "Tabannusi: Builders of Ur"
-      or tag[0] == "Terraforming Mars: Preludio"
-      or tag[0] == "The Red Cathedral: Contractors"
       or tag[0] == "The Red Cathedral"
       or tag[0] == "Tin Helm"
       or tag[0] == "Trickerion: Legends of Illusion"
-      or tag[0] == "Trismegistus: La Fórmula Definitiva"
-      or tag[0] == "Vaesen"
       or tag[0] == "Zine Quest 2"
       or tag[0] == "Zine Quest" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
@@ -289,7 +292,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/05/16/analisis-desolate/" %}
+       {% if post.url == "/2020/05/23/ojeando-mini-rogue/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>4. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -297,7 +300,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2020/05/23/ojeando-mini-rogue/" %}
+       {% if post.url == "/2021/02/13/primeras-impresiones-faiyum/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>5. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
