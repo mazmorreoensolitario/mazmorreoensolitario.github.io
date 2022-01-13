@@ -29,12 +29,16 @@ desarrollamos la región egipcia de Faiyum para conseguir el favor del faraón"
         <table class="table table-striped table-hover">
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2020</td></tr>
             <tr><td class="text-left"><strong>Precio:</strong></td><td
-        class="text-left"><a href="https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447-11">49.95€</a></td></tr>
+        class="text-left"><a
+    href="https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447-11">49.95€</a>
+    (inglés)</td></tr>
+    <tr><td class="text-left"><strong>Precio:</strong></td><td
+    class="text-left"><a href="https://zacatrus.es/fayun.html#u97">55€</a> (español)</td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-5</td></tr>
             <tr><td>Tiene un modo en solitario</td><td></td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">~2h</td></tr>
             <tr><td class="text-left"><strong>Idioma:</strong></td><td
-            class="text-left">Inglés/Alemán</td></tr>
+            class="text-left">Inglés/Alemán/Español</td></tr>
          </table>
         </div>
         <div class="col-md-12"></div>
@@ -45,7 +49,8 @@ desarrollamos la región egipcia de Faiyum para conseguir el favor del faraón"
              <li>Arte de Harald Lieske.</li>
              <li>Publicado por <strong><a href="https://2f-games.com/">2F
          Games</a></strong>, editorial del autor, y como lanzamiento de <a
-    href="{{site-baseurl}}/etiqueta/spiel-digital/">Spiel Digital 2020</a>.</li>
+    href="{{site-baseurl}}/etiqueta/spiel-digital/">Spiel Digital 2020</a>. En
+    español lo publica <strong>Asmodee</strong> en 2022.</li>
              <li>Como todo juego del señor Friese, el título empieza por una F
              y tiene algún elemento verde, aunque en este juego hay menos verde
          de lo que acostumbra.</li>

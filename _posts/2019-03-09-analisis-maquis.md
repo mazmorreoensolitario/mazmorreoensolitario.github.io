@@ -5,7 +5,7 @@ date:   2019-03-09
 categories: [Análisis, Print & play]
 tags: [Maquis, Print & play, Solitaire Print & Play Design Contest, Golden Geek]
 img: maquis.jpg
-imghtml: https://cf.geekdo-images.com/imagepage/img/HFn5Fv2UD6hwyzGfvXKn7InXXBE=/fit-in/900x600/filters:no_upscale()/pic3531368.png
+imghtml: https://cf.geekdo-images.com/wgHvFfiPzMJUFrP4OLKtwQ__imagepage/img/_hUqxMm_x66gY5ZniEG6p_Qd1QM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5009864.jpg
 score: 4
 crop: true
 game: "Maquis"
@@ -32,11 +32,16 @@ la ocupación alemana."
         <div class="col-md-6">
         <table class="table table-striped table-hover">
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2013</td></tr>
-            <tr><td class="text-left"><strong>Precio:</strong></td><td class="text-left"><a href="https://www.sideroomgames.com/product/maquis-pre-order/">25$</a></td></tr>
+            <tr><td class="text-left"><strong>Precio:</strong></td><td
+    class="text-left"><a
+    href="https://www.sideroomgames.com/product/maquis-pre-order/">25$</a>
+    (inglés)</td></tr>
+        <tr><td class="text-left"><strong>Precio:</strong></td><td
+    class="text-left"><a href="https://zacatrus.es/maquis.html#u97">28€</a> (español)</td></tr>
             <tr><td class="text-left"><strong>Precio print & play:</strong></td><td class="text-left">¡Gratis!</td></tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1</td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">5-30 mins</td></tr>
-            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés</td></tr>
+            <tr><td class="text-left"><strong>Idioma:</strong></td><td class="text-left">Inglés/Español</td></tr>
             <tr><td class="text-left"><strong>Dependencia del idioma:</strong></td><td class="text-left">Media, manual y unas cartas</td></tr>
          </table>
         </div>
