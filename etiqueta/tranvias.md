@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: Tranvias"
-tag: "Tranvias"
+title: "Etiqueta: Tranvías"
+tag: "Tranvías"
 ---
