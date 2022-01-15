@@ -1530,16 +1530,18 @@ Llegamos a la categoría de *Mejor wargame del periodo napoleónico*, de la que
 hay mucho wargamer de culo duro que solamente juega a juegos de Napoleón, y
 para mí ha sido una sorpresa ver a **The Shores of Tripoli** ganar en esta
 categoría. Es un wargame muy ligero en comparación con el resto, por lo que me
-sorprende ya que esperaba que los culo duros votasen a la nueva edición de
+sorprende ya que esperaba que los culo duro votasen a la nueva edición de
 **War and Peace**.
 
 En la categoría de *Mejor wargame de finales de la época de la pólvora* es
 cuando he empezado a descubrir algún juego que me podría interesar,
 concretamente hablo de **Red Sun Blue Cross** de Bonsai Games, pero no he
 podido encontrar las reglas en ningún sitio y hay muy poca información en
-inglés de él por lo que se queda guardado como juego interesante del que tengo
+inglés de él, por lo que se queda guardado como juego interesante del que tengo
 que conseguir más información. Sé que Bonsai Games es la editorial japonesa que
-ha traducido Ambon de los chicos de SNAFU, y ahí me quedo.
+ha traducido
+[Ambon](https://boardgamegeek.com/boardgame/327721/ambon-burning-sun-little-seagulls)
+de los chicos de SNAFU, y ahí me quedo.
 
 En *Mejor wargame de la guerra de Secesión* ha ganado **Chancellorsville 1863**
 un diseño de la editorial Worthington Publishing, que se está poniendo las
@@ -1582,8 +1584,10 @@ pues no, es un SCS sobre una hipotética Tercera Guerra Mundial ¡toma ya! Me
 interesa muchísimo.
 
 Finalmente tenemos al nuevo de la serie Next War, **Next War: Vietnam**, yo
-actualmente estoy jugando a Next War: Korea y me está encantando, así que todos
-los juegos de esa serie son candidatos a terminar en mi balda en un futuro.
+actualmente estoy jugando a [Next War:
+Korea](https://boardgamegeek.com/boardgame/69130/next-war-korea) y me está
+encantando, así que todos los juegos de esa serie son candidatos a terminar en
+mi balda en un futuro.
 
 En la categoría de *Mejor wargame de ciencia ficción o fantasía* ha ganado
 **Stellar Horizons**, también sin sorpresas por mi parte.

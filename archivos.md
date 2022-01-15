@@ -9,12 +9,12 @@ categorías.
 
 ### Nube de etiquetas
 
-<span class="label label-primary"><strong>Juegos de nesa</strong></span>,
+<span class="label label-primary"><strong>Juegos de mesa</strong></span>,
+<span class="label label-grey"><strong>wargames</strong></span>,
+<span class="label label-danger"><strong>rol</strong></span>,
 <span class="label label-success"><strong>concursos y premios</strong></span>,
 <span class="label label-info"><strong>eventos y ferias</strong></span>,
 <span class="label label-warning"><strong>general</strong></span>,
-<span class="label label-danger"><strong>rol</strong></span>,
-<span class="label label-grey"><strong>wargames</strong></span>,
 <span class="label label-black"><strong>off topic</strong></span>.
 
 <p class="text-left">
@@ -92,8 +92,8 @@ categorías.
         tag[0] == "A Thousand Year Old Vampire" or
         tag[0] == "A Torch in the Dark" or
         tag[0] == "Alone Among the Stars" or
-        tag[0] == "Beak, Feather & Bone" or
-        tag[0] == "Pico, Pluma & Hueso" or
+        tag[0] == "Beak Feather & Bone" or
+        tag[0] == "Pico Pluma & Hueso" or
         tag[0] == "Cuentos de ánimas" or
         tag[0] == "Disciples of Bone and Shadow" or
         tag[0] == "Disciples of Bone and Shadow: Conquered Sun Edition" or
@@ -146,7 +146,8 @@ categorías.
                 <span class="label label-warning"><strong>#<a class="tag-color"
                 href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
             {% else %}
-                {% if tag[0] == "GenCon"
+                {% if tag[0] == "Cinturón de Hierro"
+                or tag[0] == "GenCon"
                 or tag[0] == "Spiel Digital"
                 or tag[0] == "Essen Spiel"
                 or tag[0] == "Essen Spiel 2019"
@@ -191,6 +192,7 @@ categorías.
                         tag[0] == "Atlantic Chase" or
                         tag[0] == "Battlespace" or
                         tag[0] == "Bear Trap: The Soviet-Afghan War" or
+                        tag[0] == "Bizkaia 1937" or
                         tag[0] == "Brazen Chariots: Battles for Tobruk" or
                         tag[0] == "By Stealth and Sea" or
                         tag[0] == "Cataclysm: A Second World War" or

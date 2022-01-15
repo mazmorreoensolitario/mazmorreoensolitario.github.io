@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: diciembre 2021"
 date: 2021-12-31
 categories: [Noticias]
-tags: ["Boletín Informativo Solitario", GMT Games, Wicked Ones, Oneironaut,"Brazil: Imperial", Infernal Machine, North Africa 41, "Monster Pit: Overworld", "Legends Untold: Illumination of Deepsorrow", Legends Untold, Trailblazers, Fit to Print, Woodcraft, Pharaon, Ancient Realm, The Royal Limited, River Wild, Fishing Lessons, Naturopolis, "Lock 'n Load Publishing", "World at War 85: Storming the Gap", Bot Factory, Robinson Crusoe, "Warhammer Quest: Cursed City", Iron Helm, Framework, Ark Nova]
+tags: ["Boletín Informativo Solitario", Bizkaia 1937, GMT Games, Wicked Ones, Oneironaut,"Brazil: Imperial", Infernal Machine, North Africa 41, "Monster Pit: Overworld", "Legends Untold: Illumination of Deepsorrow", Legends Untold, Trailblazers, Fit to Print, Woodcraft, Pharaon, Ancient Realm, The Royal Limited, River Wild, Fishing Lessons, Naturopolis, "Lock 'n Load Publishing", "World at War 85: Storming the Gap", Bot Factory, Robinson Crusoe, "Warhammer Quest: Cursed City", Iron Helm, Framework, Ark Nova]
 imghtml: https://live.staticflickr.com/65535/51790621249_6bc53eece6_b.jpg
 post_desc: "Boletín Informativo Solitario de diciembre, con un resumen de todas
 las novedades, próximos lanzamientos, crowdfunding y mucho más"
