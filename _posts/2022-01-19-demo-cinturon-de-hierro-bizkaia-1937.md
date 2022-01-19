@@ -307,3 +307,14 @@ echéis un vistazo al juego.
 
 <img width="50" src="{{site.baseurl}}/images/fire.png"> **Nivel de hype:** soy
 de Bilbao y es un wargame en solitario, para mí es imprescindible.
+
+### Extra
+
+Finalmente, me gustaría dar unos puntos extra a quién ha diseñado la leyenda
+del mapa ya que ha puesto *"Capital del universo"* para indicar el icono que
+denota Bilbao, ya que la gran mayoría de las señales y mapas lo omiten, pero
+gusta ver que todavía queda gente decente en la Vía Láctea que se acuerda de
+poner las cosas como son.
+
+Sí, hay que contribuir a los buenos tópicos bilbotarrak cuando se da la
+oportunidad ;)
