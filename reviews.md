@@ -301,12 +301,12 @@ tendrán un análisis del mismo:
 </div>
 <div class="col-md-12"><h1></h1></div>
 
-## Demos
+## Demos y protos
 
 Estas son mis impresiones sobre **demos de juegos**, en muchos casos de
 **versiones todavía sin terminar** de juegos que saldrán en el futuro, por lo
 que no puedo hacer un análisis o primeras impresiones per se, ya que el juego
-aún no está entero o porque no lo he jugado lo suficiente:
+aún no está en su versión final:
 
 <div class="col-md-12">
 <div class="col-md-8">

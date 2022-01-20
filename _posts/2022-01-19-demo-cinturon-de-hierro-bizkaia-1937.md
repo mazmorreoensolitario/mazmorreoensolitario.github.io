@@ -220,7 +220,7 @@ decisiones interesantes, algunas nos darán más OPs pero tendrán eventos malos
 mientras que otras irán más justas de OPs y tendrán eventos más
 beneficiosos. Otro punto importante es que tenemos que fijarnos en los eventos
 de salida (ES) al decidir jugar una carta u otra ya que los efectos de las
-cartas *siempre se aplican* no podemos tratar de deshacernos de ellos
+cartas *siempre se aplican*, no podemos tratar de deshacernos de ellos
 intentando que lleguen al descarte y se tapen.
 
 ## La demo
