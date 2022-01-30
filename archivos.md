@@ -21,6 +21,7 @@ categorías.
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or tag[0] == "Ronin" or
+        tag[0] == "Zine Month" or
         tag[0] == "Paria" or tag[0] == "Pathfinder" or
         tag[0] == "Dirt RPG" or tag[0] == "Mapeando las catacumbas" or
         tag[0] == "All Must Bow" or tag[0] == "Muspelhell" or
@@ -214,6 +215,7 @@ categorías.
                         tag[0] == "Gettysburg" or
                         tag[0] == "Great War Commander" or
                         tag[0] == "Hannibal's Revenge" or
+                        tag[0] == "Hill of Doves" or
                         tag[0] == "Hitler's Reich" or
                         tag[0] == "Horse & Musket" or
                         tag[0] == "Hungarian Rhapsody" or
@@ -242,6 +244,7 @@ categorías.
                         tag[0] == "Santander 37" or
                         tag[0] == "Schnell Boats: Scourge of the English Channel" or 
                         tag[0] == "Shiloh 1862" or
+                        tag[0] == "Silent Victory" or
                         tag[0] == "Sniper Kill Confirmed" or
                         tag[0] == "Space Empires" or
                         tag[0] == "Stargrave" or
@@ -254,6 +257,7 @@ categorías.
                         tag[0] == "The Dogs of War" or
                         tag[0] == "The First Jihad" or
                         tag[0] == "The Great Crisis of Frederick II" or
+                        tag[0] == "The Hunters" or
                         tag[0] == "The Jaws of Victory" or
                         tag[0] == "The Last Hundred Yards" or
                         tag[0] == "The Last Hundred Yards: Airborne Over Europe" or
