@@ -11,6 +11,7 @@ las novedades, próximos lanzamientos, crowdfunding y mucho más"
 
 ![](https://live.staticflickr.com/65535/51852079179_e9efe88e81_b.jpg)
 
+
 <hr>
 
 Este es el **primer Boletín Informativo Solitario (BIS) de 2022**. Aquí podéis
