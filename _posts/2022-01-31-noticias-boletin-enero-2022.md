@@ -382,7 +382,7 @@ wargames del Boletín de enero**.
 
 <p align="center">
 <img height=""
-src="https://gallery.mailchimp.com/64afd67af980f39db7df40b12/images/31820119-bdf1-49fd-aa5a-8b176edbb151.jpg"></p>
+src="https://cf.geekdo-images.com/xbG5hfGBsxZAvisvs65ewQ__imagepagezoom/img/-Zpdnp-U1zpynA92t0yuSuNS-5g=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic4096160.png"></p>
 
 **—** Como todos los meses tenemos noticias de **GMT Games** gracias a  [newsletter
 mensual](https://mailchi.mp/7bb5c619cdf8/january-20-update-from-gmt-new-p500s-production-update-force-multipliers-and-more):
@@ -556,7 +556,7 @@ después en verano llegarán los productos en físico.
 
 <p align="center">
 <img height=""
-src="https://ksr-ugc.imgix.net/assets/036/125/090/427e82883f69f408e9a6d0945d78a340_original.png?ixlib=rb-4.0.2&crop=faces&w=1024&h=576&fit=crop&v=1642721567&auto=format&frame=1"></p>
+src="https://ksr-ugc.imgix.net/assets/036/125/090/427e82883f69f408e9a6d0945d78a340_original.png?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1642721567&auto=format&frame=1&q=92&s=e29f92bc7147db9328f86eb8f170fbff"></p>
 
 **—** **Across a Thousand Dead Worls**, el nuevo juego de rol en solitario,
 cooperativo o con DM de Alex T. (Seekers Beyond The Shroud, Disciples of Bone
