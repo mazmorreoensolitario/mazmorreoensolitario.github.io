@@ -15,9 +15,17 @@ los juegos de mesa y rol que han visto mesa durante enero"
 
 En esta entrada de **[El mes en
 juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos/)** de **enero de 2022** os
-dejo un pequeño resumen de lo que he jugado durante enero, y al final de la
+dejo un pequeño resumen de lo que he jugado durante el mes, y al final de la
 entrada tendréis los esperados **premios juego del mes**, otorgados al juego de
-mesa (o wargame) más destacado del mes junto con al juego de rol más destacado.
+mesa (o wargame) y rol más destacado.
+
+Antes de ponerme a hablar de juegos, en mi resumen del tiempo mensual que tanto
+interés suscita comento que por el norte el tiempo ha sido bastante loco las
+primeras semanas, hubo un día de 23º (yo fui al súper en manga corta y la gente
+me miraba raro) y luego bajó a 11º la máxima. Pasamos por lluvia y ahora
+estamos con ese frío que te deja las manos peladas (y hasta me parece bueno
+llevar mascarilla en exteriores a las mañanas aunque sea una tontería inmensa
+porque te quita el frío de la cara).
 
 ## Juegos de mesa
 
@@ -307,7 +315,7 @@ tenía en pausa, pero voy a tomármelo con calma.
 
 En el ámbito multi-jugador mi grupito y yo hemos empezado una nueva campaña a
 **Pathfinder**, yo no soy muy fan del sistema ya que hacer la hoja del
-personaje me da una pereza tremenda, pero me hecho unas risas siempre jugando.
+personaje me da una pereza tremenda, pero me echo unas risas siempre jugando.
 
 ### Old-School Essentials
 
@@ -357,7 +365,7 @@ Al final no he podido jugar a **High Frontier 4 All**, pero como he conseguido
 avanzar con el **ASLSK** no pasa mucho, espero continuar con él
 semi-semanalmente en el *Wargame-Wednesday* para ir marcando ritmo. En febrero
 *igual* me llega ya el **Ark Nova**, o los dos wargames que tengo pedidos de
-**GMT**, o igual no llega nada, ya os contaré.
+**GMT**, o igual no llega nada... ya os contaré.
 
 En rol tenemos el **Zine Month**, así que espero ver cosas interesantes por las
 plataformas de crowdfunding.
