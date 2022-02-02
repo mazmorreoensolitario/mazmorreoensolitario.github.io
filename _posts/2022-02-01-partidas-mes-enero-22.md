@@ -121,7 +121,7 @@ wargame-wednesday) e ir haciéndome al sistema poco a poco. **Multi-Man
 Publishing** ha
 [comentado](https://twitter.com/MultiManPub/status/1486870826964209667?t=Y4D7tvPfsIe9oHJ8IEmVGg&s=09)
 en su previsión de producción para este 2022 que se esperan re-impresiones de
-los ASKSK #2 y #3, así que a mí me pillaría genial.
+los ASLSK #2 y #3, así que a mí me pillaría genial.
 
 
 
