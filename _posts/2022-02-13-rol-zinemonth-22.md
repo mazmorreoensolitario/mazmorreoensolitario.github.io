@@ -17,7 +17,7 @@ Como os adelantaba en el [Boletín de
 enero]({{site.baseurl}}/2022/01/31/noticias-boletin-enero-2022/), debido a las
 diferencias políticas con Kickstarter de muchos de los participantes y la falta
 de previsión de **Kickstarter** —que mueve el Zine Quest a agosto— durante 2022
-los participantes de la tradicional **[Zine Quest]()** han querido participar
+los participantes de la tradicional **[Zine Quest]({{site.baseurl}}/etiqueta/zine-quest/)** han querido participar
 durante este año bajo su propio paraguas, que se ha bautizado como **Zine Month**. 
 
 En **[Zine Month](https://www.zinemonth.com/)** se buscará financiación de
