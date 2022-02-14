@@ -17,8 +17,9 @@ Como os adelantaba en el [Boletín de
 enero]({{site.baseurl}}/2022/01/31/noticias-boletin-enero-2022/), debido a las
 diferencias políticas con Kickstarter de muchos de los participantes y la falta
 de previsión de **Kickstarter** —que mueve el Zine Quest a agosto— durante 2022
-los participantes de la tradicional **[Zine Quest]({{site.baseurl}}/etiqueta/zine-quest/)** han querido participar
-durante este año bajo su propio paraguas, que se ha bautizado como **Zine Month**. 
+los participantes de la tradicional **[Zine
+Quest]({{site.baseurl}}/etiqueta/zine-quest/)** han querido participar este año
+bajo su propio paraguas, que se ha sido bautizado como **Zine Month**.
 
 En **[Zine Month](https://www.zinemonth.com/)** se buscará financiación de
 zines de rol en diferentes plataformas de crowdfunding, no solo Kickstarter.
@@ -30,6 +31,162 @@ herramientas interesantes para ayudarnos en nuestros juegos en solitario.
 Y sin más dilación, aquí están las listas de zines:
 
 ### Zines para el juego en solitario
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/036/221/846/f7426ba912609475f8001502f672501c_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1024&h=576&fit=crop&v=1643649117&auto=format&frame=1&q=92&s=2d90e2f0ff9ef97cac3bf950ce61cb72"
+        class="img-thumbnail" alt="Those Wretched Kids!">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/squidinkgames/those-wretched-kids-zimo?ref=mazmorreoensolitario">
+    Those Wretched Kids!</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Eres un emprendedor en un mundo de fisgones</p>
+        <p><strong>Those Wretched Kids!</strong> es un juego en solitario
+    basado en el sistema de Wretched & Alone en el que eres un emprendedor en
+    un mundo lleno de fisgones y entrometidos.</p>
+        <ul>
+            <li>PDF: 6$</li>
+            <li>PDF + copia en físico: 10$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://res.cloudinary.com/zinemonth/image/upload/v1643820170/small_2_The_Teapot_Fully_Steeped_Cover_Marren_Mac_Adam_745f5c62df.png"
+        class="img-thumbnail" alt="The Teapot">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://marrensmusings.itch.io/the-teapot-fully-steeped?ref=mazmorreoensolitario">
+    The Teapot</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Juego de escritura creativa en el que eres un tetera con vida.</p>
+        <p><strong>The Teapot</strong> es un juego solitario de escritura
+    creativa basado en el sistema Lost & Found en el que eres una tetera
+    <i>sintiente</i> con la habilidad de destilar el poder mágico latiente de
+    varios tés en pociones mágicas.</p>
+        <ul>
+            <li>PDF: 8$</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://res.cloudinary.com/zinemonth/image/upload/v1643822376/large_Wail_Art_Marc_Cook_a954a74934.png"
+        class="img-thumbnail" alt="Wail">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://marccook.itch.io/wail?ref=mazmorreoensolitario">
+    Wail</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Juego de exploración en solitario.</p>
+        <p><strong>Wail</strong> es un juego de escritura creativa y
+    construcción de mundos con mecánicas tipo hexcrawl en el que eres un
+    caprichoso aventurero perdido en un nuevo mundo. Mientras juegas irás
+    generando el mapa, creando localizaciones, te encontrarás con nuevos
+    personajes y resolverás eventos.</p>
+        <ul>
+            <li>PDF: 4$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://img.itch.zone/aW1nLzgwNDA2MTEuanBn/original/AH%2B8Yy.jpg"
+        class="img-thumbnail" alt="It’s Lunch Time!">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://marccook.itch.io/wail?ref=mazmorreoensolitario">
+    It’s Lunch Time!</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Simulador de gaviotas.</p>
+        <p><strong>It’s Lunch Time!</strong> es un juego de rol en solitario en
+    el que eres una gaviota hambrienta que vive cerca de un mercado situado en
+    un muelle, y es frecuentado tanto por locales como turistas. ¿Podrás
+    conseguir algo para comer?</p>
+        <ul>
+            <li>PDF: 3$</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/036/191/739/03d7b7a29c89cb8ad94fe99de0e2481a_original.png?ixlib=rb-4.0.2&crop=faces&w=1024&h=576&fit=crop&v=1643335672&auto=format&frame=1&q=92&s=4fa9ae2935b7caf5063574e867e4b096"
+        class="img-thumbnail" alt="Spellcraft">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/inkwyrmling/spellcrafting-a-primer-on-the-creation-of-sorceries?ref=mazmorreoensolitario">
+    Spellcraft</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Juego de escritura creativa sobre crear hechizos.</p>
+        <p><strong>Spellcraft</strong> es un juego solitario de escritura
+    creativa en el que tienes que crear un hechizo. Utilizarás etiquetas para
+    crear el hechizo y luego podrás convertirlo a cualquier sistema de rol.</p>
+        <ul>
+            <li>PDF: 5$</li>
+            <li>PDF + copia en físico: 10$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://img.itch.zone/aW1hZ2UvMTM4MjA1NC84MDcwNDk3LmpwZWc=/original/6mfsop.jpeg"
+        class="img-thumbnail" alt="Tending: A Game of Devotion">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://tori-truslow.itch.io/tending?ref=mazmorreoensolitario">
+    Tending: A Game of Devotion</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Juego de escritura creativa donde eres un feligrés en un lugar sagrado.</p>
+        <p><strong>Tending: A Game of Devotion</strong> es un juego de
+    escritura creativa en el que eres un feligrés viviendo en un ligar
+    sagrado. Deberás hacer tus tareas divinas, buscar inspiración divina y
+    tratar de cambiar todo en el proceso.</p>
+        <ul>
+            <li>PDF: 5£</li>
+            <li>PDF + copia en físico: 12$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://res.cloudinary.com/zinemonth/image/upload/v1644169675/large_Untitled_design_5_7755089087.png"
+        class="img-thumbnail" alt="The Station">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/suns-ransom/the-station-a-zimo-ttrpg?ref=mazmorreoensolitario">
+    The Station</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Juego de escritura creativa sobre una estación de tren.</p>
+        <p><strong>The Station</strong> es un juego sin GM de creación de
+    mundos en el que estás en una estación y el juego termina cuando el tren
+    llega. Hasta entonces deberás describir las estación, a dónde va y de dónde
+    viene el tren, además de la gente que está en la estación.</p>
+        <ul>
+            <li>PDF: 8AU$</li>
+            <li>PDF + copia en físico: 15AU$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
 
 <div class="row">
     <div class="col-md-3">
@@ -336,6 +493,113 @@ Y sin más dilación, aquí están las listas de zines:
 </div>
 
 ### Zines de settings o herramientes útiles para el rol en solitario
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://res.cloudinary.com/zinemonth/image/upload/v1644075000/large_thumbnail_Micah_Abresch_2a6a093602.png"
+        class="img-thumbnail" alt="Your Life: Random Fantasy Character Backgrounds">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/abresch/your-life-random-fantasy-character-backgrounds?ref=mazmorreoensolitario">
+    Your Life: Random Fantasy Character Backgrounds</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Generador de personajes</p>
+        <p><strong>Your Life: Random Fantasy Character Backgrounds</strong> es
+    un generador agnóstico del sistema de personajes.</p>
+        <ul>
+            <li>PDF: 2$</li>
+            <li>PDF + copia en físico: 5$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://res.cloudinary.com/zinemonth/image/upload/v1643648579/medium_Discordantopia_Promo_Art_Sage_Lennon_6fe605afc9.jpg"
+        class="img-thumbnail" alt="Discordantopia">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://sagedamage.itch.io/discordantopia?ref=mazmorreoensolitario">
+    Discordantopia</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Setting de una ciudad para Troika! y Pulka.</p>
+        <p><strong>Discordantopia</strong> contiene un setting de una una
+    ciudad "dystopian-punk" que puedes crear a tu manera.</p>
+        <ul>
+            <li>PDF: 10$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://res.cloudinary.com/zinemonth/image/upload/v1643643509/large_titan_port_promo_Emiel_Boven_3d917be80f.png"
+        class="img-thumbnail" alt="The Electrum Archive - Issue #01">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://emielboven.itch.io/tea-01?ref=mazmorreoensolitario">
+    The Electrum Archive - Issue #01</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Setting tipo science-fantasy.</p>
+        <p>En <strong>The Electrum Archive - Issue #01</strong> tenemos un
+    juego de rol (no solitario) y un setting tipo science-fantasy para él, en
+    el que una tinta mágica ha sido dejada atrás por una raza alienígena. Esta
+    tinta se utiliza como moneda, se inhala para lanzar hechizos, o se usa para
+    dar energía a construcciones antiguas.</p>
+        <ul>
+            <li>PDF: 9$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://res.cloudinary.com/zinemonth/image/upload/v1643643115/large_exarch_Joseph_Chambers_068c01132f.jpg"
+        class="img-thumbnail" alt="Exarch">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.indiegogo.com/projects/exarch-a-roleplaying-game-zine#/?ref=mazmorreoensolitario">
+    Exarch</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Zine sobre campesinos de la Edad Media que encuentran una
+    megaestructura futurista.</p>
+        <p><strong>Exarch</strong> es un setting agnóstico al sistema en el que
+    un grupo de campesinos de la Edad Media encuentran una serie de túneles de
+    ciencia ficción llenos de peligros y tesoros.</p>
+        <ul>
+            <li>PDF: 5$</li>
+            <li>PDF + copia en físico: 10$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://img.itch.zone/aW1hZ2UvMTM0MTgyNS83OTI1MjY2LnBuZw==/original/HuMekD.png"
+        class="img-thumbnail" alt="Roguelike Dungeon">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://proton31.itch.io/roguelike-dungeon?ref=mazmorreoensolitario">
+    Roguelike Dungeon</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Generador de mazmorras.</p>
+        <p><strong>Roguelike Dungeon</strong> es un generador de mazmorras que
+        utiliza una forma similar a los videojuegos tipo rogue-like para
+        generarlas, pero de forma simplificada.</p>
+        <ul>
+            <li>PDF: 10$</li>
+        </ul>
+     </div>
+</div>
 
 <div class="row">
     <div class="col-md-3">
