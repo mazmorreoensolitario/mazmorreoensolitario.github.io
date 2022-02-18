@@ -326,6 +326,8 @@ src="https://live.staticflickr.com/65535/51463720096_715757e340_o.png">
 
 **[Old-School
 Essentials](https://www.drivethrurpg.com/product/279183/OldSchool-Essentials-Classic-Fantasy-Rules-Tome?affiliate_id=1914894)**
+(análisis
+[aquí]({{site.baseurl}}/2021/09/13/rol-old-school-essentials-advanced-fantasy/)) 
 es la opción que he elegido para volver a coger ganas al rol en solitario
 después de mi saturación de 2021 —espero que no vuelva a pasar durante este
 año— y he comenzado una campaña nueva, sin ataduras.

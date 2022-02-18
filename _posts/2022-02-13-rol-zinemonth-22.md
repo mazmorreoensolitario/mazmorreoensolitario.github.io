@@ -31,6 +31,140 @@ herramientas interesantes para ayudarnos en nuestros juegos en solitario.
 Y sin más dilación, aquí están las listas de zines:
 
 ### Zines para el juego en solitario
+    
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/036/121/266/713636e1b1568250d936cae8e0f6aa6f_original.jpg?ixlib=rb-4.0.2&crop=faces&w=352&h=198&fit=crop&v=1642694465&auto=format&frame=1&q=92&s=b1fb82486ba642ee856544977e5be6b6"
+        class="img-thumbnail" alt="Colostle - The Roomlands">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="ujue?ref=mazmorreoensolitario">
+    Colostle - The Roomlands</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Expansión para el juego de escritura creativa en solitario Colostle</p>
+        <p><strong>Colostle - The Roomlands</strong> es una expansión para
+        Colostle en la que se añade una nueva sección llena de autómatas.</p>
+        <ul>
+            <li>PDF de la expansión: 5£</li>
+            <li>PDF + copia en físico de la expansión: 20£</li>
+            <li>PDF del libro base y la expansión 10£</li>
+            <li>PDF + copia en físico del libro base y la expansión: 40£</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://img.itch.zone/aW1nLzgxMzk3NDAuanBn/original/8s2BWJ.jpg"
+        class="img-thumbnail" alt="Grim Harvest">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://aurora-sanguine.itch.io/grim-harvest?ref=mazmorreoensolitario">
+    Grim Harvest</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Juego de mazmorreo que puede jugarse en solitario</p>
+        <p><strong>Grim Harvest</strong> es un híbrido entre juego de mazmorreo
+        y TTRPG ambientado en un mundo sombrío al borde del desastre.</p>
+        <ul>
+            <li>PDF: 7.2$</li>
+        </ul>
+     </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://res.cloudinary.com/zinemonth/image/upload/v1644424416/medium_F_Pcover_LF_Phlvx_dd34342cf4.jpg"
+        class="img-thumbnail" alt="Fabled Paths">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/phlvx/fabled-paths?ref=mazmorreoensolitario">
+    Fabled Paths</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Reglas para aventuras tipo sanbox fantásticas jugables en solitario</p>
+        <p><strong>Fabled Paths</strong> es un juego de rol que trata de
+        capturar la nostalgia de D&D 0e pero que tiene sensibilidades modernas,
+    se presenta como un pequeño sandbox para jugar con personajes en solitario
+    en aventuras tanto en mazmorras como fuera de ellas. </p>
+        <ul>
+            <li>PDF: 10$</li>
+            <li>PDF + copia en físico: 38$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://res.cloudinary.com/zinemonth/image/upload/v1644278370/medium_Glide_Title_Placeholder_A5_Cody_Barr_817d718b74.png"
+        class="img-thumbnail" alt="Glide">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/sleepysasquatch/glide-0?ref=mazmorreoensolitario">
+    Glide</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Juego en solitario de exploración y descubrimientos inspirado en el
+    mundo de Dune.</p>
+        <p><strong>Glide</strong> es un juego en solitario de escritura
+    creativa sobre explorar, buscar comida y encontrar tu lugar en el
+    mundo. Pasarás el tiempo explorando el planeta-desierto Eridoor, mientras
+    buscas restos, materiales, artefactos e importantes piezas de tecnología.</p>
+        <ul>
+            <li>PDF: 10CA$</li>
+            <li>PDF + copia en físico: 20CA$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://res.cloudinary.com/zinemonth/image/upload/v1644277579/small_Cover_Imageitch_Lost_Ways_8b02a9cc3a.png"
+        class="img-thumbnail" alt="HEIST!">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://lostwaysclub.itch.io/heist?ref=mazmorreoensolitario">
+    HEIST!</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Juego en solitario sobre hacer atracos</p>
+        <p><strong>HEIST!</strong> es un juego en solitario o para dos
+        jugadores en el que tratas de robar algo.</p>
+        <ul>
+            <li>PDF: 5.05$</li>
+            <li>PDF + copia en físico: 15.15$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://img.itch.zone/aW1hZ2UvMTM4MTk0NC84MDg5MjQxLnBuZw==/original/KhIw25.png"
+        class="img-thumbnail" alt="Daddy Issues">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://nikolarpetrov.itch.io/daddy-issues?ref=mazmorreoensolitario">
+    Daddy Issues</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Juego en solitario sobre un padre malentendido que va comprar
+    cigarros y nunca vuelve a casa</p>
+        <p>En <strong>Daddy Issues</strong> eres el típico padre que va a
+    comprar cigarros y nunca vuelve a casa, pero que no te malinterpreten, la
+    ciudad está llena de peligros, palomas gordas y... ¿hombres lobo?</p>
+        <ul>
+            <li>PDF: 0.99$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
 
 <div class="row">
     <div class="col-md-3">
@@ -107,7 +241,7 @@ Y sin más dilación, aquí están las listas de zines:
     </div>
     <div class="col-md-9">
          <h4><a
-    href="https://marccook.itch.io/wail?ref=mazmorreoensolitario">
+    href="https://ell0.itch.io/its-lunch-time?ref=mazmorreoensolitario">
     It’s Lunch Time!</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
         <p>Simulador de gaviotas.</p>
         <p><strong>It’s Lunch Time!</strong> es un juego de rol en solitario en
@@ -197,7 +331,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/feralwizard/lichdom?ref=mazmorreoensolitario">
-    Lichdom</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Lichdom</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de escritura creativa sobre la ambición sin medida y el
     peligroso viaje hacia la inmortalidad.</p>
         <p><strong>Lichdom</strong> es un juego en solitario o para dos
@@ -222,7 +356,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/alfredvalley/thousand-empty-light?ref=mazmorreoensolitario">
-    Thousand Empty Light</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Thousand Empty Light</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Es una aventura en solitario para Mothership RPG.</p>
         <p><strong>Thousand Empty Light</strong> es un setting y una aventura
     en solitario para Mothership RPG ambientada en un túnel bajo el agua en un
@@ -316,6 +450,7 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 9$</li>
             <li>PDF + copia en físico: 15$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -497,6 +632,71 @@ Y sin más dilación, aquí están las listas de zines:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
+            src="https://img.itch.zone/aW1nLzgwNzg1MTYucG5n/original/PKaRNz.png"
+        class="img-thumbnail" alt="The Voyage Appendix">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://jbherer.itch.io/the-voyage-appendix?ref=mazmorreoensolitario">
+    The Voyage Appendix</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Colección de tarjetas de ayudas de juego</p>
+        <p><strong>The Voyage Appendix</strong> es una colección de ayudas de
+        juego en formato tarjeta en las que tienes reglas minimalistas para
+        gestionar la exploración y los viajes en juegos OSR.</p>
+        <ul>
+            <li>PDF: 1.98$</li>
+            <li>PDF + copia en físico: 9$</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://res.cloudinary.com/zinemonth/image/upload/v1644277978/large_itchcover_Alex_Damaceno_a08e06fe21.png"
+        class="img-thumbnail" alt="The Archon Ruins">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://gnarledmonster.itch.io/the-archon-ruins?ref=mazmorreoensolitario">
+    The Archon Ruins</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Setting agnóstico al sistema.</p>
+        <p><strong>The Archon Ruins</strong> es un setting que puede utilizarse
+    con cualquier juego de rol en el que se presentan las ruinas de una antigua
+    civilización en medio del desierto.</p>
+        <ul>
+            <li>PDF: 6$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://res.cloudinary.com/zinemonth/image/upload/v1643998382/small_DIZ_var_copy_Smaller_Ben_L_27ba41b3a8.jpg"
+        class="img-thumbnail" alt="Downtime in Zyan">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/through-ultans-door/downtime-in-zyan?ref=mazmorreoensolitario">
+    Downtime in Zyan
+</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+        <p>Serie de reglas para saber qué hacer con el tiempo libre de tus
+    personajes entre aventuras</p>
+        <p><strong>Downtime in Zyan</strong> presenta un sistema para gestionar
+    la inactividad que pueden tener los personajes entre aventuras.</p>
+        <ul>
+            <li>PDF: 7$</li>
+            <li>PDF + copia en físico: 15$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
             src="https://res.cloudinary.com/zinemonth/image/upload/v1644075000/large_thumbnail_Micah_Abresch_2a6a093602.png"
         class="img-thumbnail" alt="Your Life: Random Fantasy Character Backgrounds">
     </div>
@@ -567,7 +767,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.indiegogo.com/projects/exarch-a-roleplaying-game-zine#/?ref=mazmorreoensolitario">
-    Exarch</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Exarch</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Zine sobre campesinos de la Edad Media que encuentran una
     megaestructura futurista.</p>
         <p><strong>Exarch</strong> es un setting agnóstico al sistema en el que
@@ -631,7 +831,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.indiegogo.com/projects/zine-o-map3#/?ref=mazmorreoensolitario">
-    Zine-o-Map3</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Zine-o-Map3</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Zine que contiene mapas estilo old-school.</p>
         <p>En <strong>Zine-o-Map3</strong> tienes 34 mapas que puedes utilizar
         para tus aventuras.</p>
@@ -652,7 +852,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/bloodfields/the-bloodfields-at-blackstar-station?ref=mazmorreoensolitario">
-    The Bloodfields at Blackstar Station</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    The Bloodfields at Blackstar Station</a> <span class="label label-default"><strong>Finalizada</strong></span></span></h4>
         <p>Hexcrawl battle-royale y setting de una estación espacial para
     Mothership RPG</p>
         <p>En <strong>The Bloodfields at Blackstar Station</strong> tienes la
@@ -695,7 +895,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/moonmax/fairyland?ref=mazmorreoensolitario">
-    Fairyland</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Fairyland</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Una mini-ambientación de hadas.</p>
         <p><strong>Fairyland</strong> es un micro-setting relacionado con el
     mundo de las hadas.</p>
@@ -710,7 +910,7 @@ Y sin más dilación, aquí están las listas de zines:
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
-            src="https://ksr-ugc.imgix.net/assets/036/133/239/d77c4c344b1c3632345fe7410ada0ed7_original.jpeg?ixlib=rb-4.0.2&crop=faces&w=1024&h=576&fit=crop&v=1642795887&auto=format&frame=1&q=92&s=61272a4306742def8edd4a0d9926ec64"
+            src="https://ksr-ugc.imgix.net/assets/036/391/433/3fd307d9db29ad450db40cd204e577f3_original.jpeg?ixlib=rb-4.0.2&crop=faces&w=1024&h=576&fit=crop&v=1645103438&auto=format&frame=1&q=92&s=b9b883ecdda76462c3f5f65dbd9880a7"
         class="img-thumbnail" alt="The Toxic Wood">
     </div>
     <div class="col-md-9">
@@ -737,7 +937,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/terryherc/orbital-debris-a-sci-fi-horror-hexcrawl-for-mothership-rpg?ref=mazmorreoensolitario">
-    Orbital Debris</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Orbital Debris</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Aventura tipo hexcrawl</p>
         <p><strong>Orbital Debris</strong> es un hexcrawl para Mothership RPG.</p>
         <ul>
