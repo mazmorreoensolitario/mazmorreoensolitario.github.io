@@ -25,8 +25,11 @@ jugando en [Campaign index](https://eeriespace.github.io/campaign-index/).
 
 ### Guías sobre cómo jugar a rol en solitario
 
+Guía introductoria sobre qué es el rol en solitario y cómo empezar a jugar:
+
 * 16 Mayo, 2020. [Rol en solitario: ¿cómo
-  empiezo?]({{site.baseurl}}/2020/05/16/rol-en-solitario-como-empiezo/)
+  empiezo?]({{site.baseurl}}/2020/05/16/rol-en-solitario-como-empiezo/) (Parte 1)
+
 
 ### Análisis de juegos de rol
 
@@ -34,7 +37,7 @@ jugando en [Campaign index](https://eeriespace.github.io/campaign-index/).
 <div class="col-md-8">
 {% for category in site.categories %}
 {% if category[0] == "Rol" %}
-    {% assign sorted = (category[1] | sort: 'book') %}
+    {% assign sorted = category[1] | sort: 'book' %}
     {% for post in sorted %}
         {% if post.book %}
             <div class="image-container">
@@ -57,6 +60,7 @@ jugando en [Campaign index](https://eeriespace.github.io/campaign-index/).
 
 ### Noticias
 
+* 13 de Febrero, 2022. [Zine Month 2022: las zines de RPGs solo-friendly]({{site.baseurl}}/2022/02/13/rol-zinemonth-22/).
 * 18 de Agosto, 2021. [Premios ENNIE 2021]({{site.baseurl}}/2021/08/18/ennie-awards-2021/).
 * 15 de Julio, 2021. [Juegos en solitario: Premios UK Games Expo de
   2021]({{site.baseurl}}/2021/07/15/noticias-premios-ukge-2021/).
