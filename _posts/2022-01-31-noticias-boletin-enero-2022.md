@@ -162,11 +162,11 @@ gremios de ciencia, política y comercio.
 <img height=""
 src="https://cf.geekdo-images.com/q-j_S5DPuUhNk5qobBc8pQ__imagepage/img/EXdpSO9VfDI0GnXoMDODFw3Mnb0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6399054.png"></p>
 
-**—** **Thistroy Games** editorial de **Micro City** ([análisis
+**—** **Thistroy Games**, editorial de **Micro City** ([análisis
 aquí]({{site.baseurl}}/2019/01/26/analisis-micro-city/) de la primera edición),
 nos muestra la primera imagen de **[Micro
-Cosmos](https://boardgamegeek.com/boardgame/347347/micro-cosmos)** la próxima
-novedad de la editorial:
+Cosmos](https://boardgamegeek.com/boardgame/347347/micro-cosmos)**, su próxima
+novedad:
 
 <p align="center">
 <img height=""
