@@ -517,7 +517,7 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
 * **[Fayún](https://zacatrus.es//fayun-km0.html#u97)**: **49€** (PVP: 55€),
   español, Asmodee (2022).
 * **[Normandy
-  '44](fhttps://www.philibertnet.com/en/gmt/35467-normandy-44-817054010882.html#ae447-11)**:
+  '44](https://www.philibertnet.com/en/gmt/35467-normandy-44-817054010882.html#ae447-11)**:
   **50€** (PVP: 55€), inglés, GMT Games (2021, tercera reimpresión).
 * **[The Last Hundred Yards Volume 3: The Solomon
   Islands](https://www.philibertnet.com/en/gmt/106042-the-last-hundred-yards-volume-3-the-solomon-islands-2100000816262.html#ae447-11)**:
