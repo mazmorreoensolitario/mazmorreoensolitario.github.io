@@ -40,7 +40,7 @@ Y sin más dilación, aquí están las listas de zines:
     </div>
     <div class="col-md-9">
          <h4><a
-    href="ujue?ref=mazmorreoensolitario">
+    href="https://www.kickstarter.com/projects/colostle/colostle-the-roomlands?ref=mazmorreoensolitario">
     Colostle - The Roomlands</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
         <p>Expansión para el juego de escritura creativa en solitario Colostle</p>
         <p><strong>Colostle - The Roomlands</strong> es una expansión para
@@ -84,7 +84,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/phlvx/fabled-paths?ref=mazmorreoensolitario">
-    Fabled Paths</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Fabled Paths</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Reglas para aventuras tipo sanbox fantásticas jugables en solitario</p>
         <p><strong>Fabled Paths</strong> es un juego de rol que trata de
         capturar la nostalgia de D&D 0e pero que tiene sensibilidades modernas,
@@ -175,7 +175,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/squidinkgames/those-wretched-kids-zimo?ref=mazmorreoensolitario">
-    Those Wretched Kids!</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Those Wretched Kids!</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Eres un emprendedor en un mundo de fisgones</p>
         <p><strong>Those Wretched Kids!</strong> es un juego en solitario
     basado en el sistema de Wretched & Alone en el que eres un emprendedor en
@@ -308,7 +308,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/suns-ransom/the-station-a-zimo-ttrpg?ref=mazmorreoensolitario">
-    The Station</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    The Station</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de escritura creativa sobre una estación de tren.</p>
         <p><strong>The Station</strong> es un juego sin GM de creación de
     mundos en el que estás en una estación y el juego termina cuando el tren
@@ -420,7 +420,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/whatfouldust/what-foul-dust?ref=mazmorreoensolitario">
-    What Foul Dust</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    What Foul Dust</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego basado en Wretched & Alone.</p>
         <p><strong>What Foul Dust</strong> es un juego de rol en solitario
     basado en el sistema de Wretched & Alone en el que tienes que buscar
@@ -646,6 +646,7 @@ Y sin más dilación, aquí están las listas de zines:
         <ul>
             <li>PDF: 1.98$</li>
             <li>PDF + copia en físico: 9$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -852,7 +853,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/bloodfields/the-bloodfields-at-blackstar-station?ref=mazmorreoensolitario">
-    The Bloodfields at Blackstar Station</a> <span class="label label-default"><strong>Finalizada</strong></span></span></h4>
+    The Bloodfields at Blackstar Station</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Hexcrawl battle-royale y setting de una estación espacial para
     Mothership RPG</p>
         <p>En <strong>The Bloodfields at Blackstar Station</strong> tienes la

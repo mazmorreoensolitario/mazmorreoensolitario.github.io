@@ -162,11 +162,11 @@ gremios de ciencia, política y comercio.
 <img height=""
 src="https://cf.geekdo-images.com/q-j_S5DPuUhNk5qobBc8pQ__imagepage/img/EXdpSO9VfDI0GnXoMDODFw3Mnb0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6399054.png"></p>
 
-**—** **Thistroy Games** editorial de **Micro City** ([análisis
+**—** **Thistroy Games**, editorial de **Micro City** ([análisis
 aquí]({{site.baseurl}}/2019/01/26/analisis-micro-city/) de la primera edición),
 nos muestra la primera imagen de **[Micro
-Cosmos](https://boardgamegeek.com/boardgame/347347/micro-cosmos)** la próxima
-novedad de la editorial:
+Cosmos](https://boardgamegeek.com/boardgame/347347/micro-cosmos)**, su próxima
+novedad:
 
 <p align="center">
 <img height=""
@@ -517,7 +517,7 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
 * **[Fayún](https://zacatrus.es//fayun-km0.html#u97)**: **49€** (PVP: 55€),
   español, Asmodee (2022).
 * **[Normandy
-  '44](fhttps://www.philibertnet.com/en/gmt/35467-normandy-44-817054010882.html#ae447-11)**:
+  '44](https://www.philibertnet.com/en/gmt/35467-normandy-44-817054010882.html#ae447-11)**:
   **50€** (PVP: 55€), inglés, GMT Games (2021, tercera reimpresión).
 * **[The Last Hundred Yards Volume 3: The Solomon
   Islands](https://www.philibertnet.com/en/gmt/106042-the-last-hundred-yards-volume-3-the-solomon-islands-2100000816262.html#ae447-11)**:
