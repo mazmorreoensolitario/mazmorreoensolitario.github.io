@@ -235,6 +235,7 @@ categorías.
                         tag[0] == "Next War: Vietnam" or
                         tag[0] == "Next War Series" or
                         tag[0] == "North Africa 41" or
+                        tag[0] == "Operation Theseus: Gazala 1942" or
                         tag[0] == "Pavlov's House" or
                         tag[0] == "Peloponnesian War" or
                         tag[0] == "Rangers of Shadow Deep" or
@@ -246,11 +247,11 @@ categorías.
                         tag[0] == "Shiloh 1862" or
                         tag[0] == "Silent Victory" or
                         tag[0] == "Sniper Kill Confirmed" or
-                        tag[0] == "Space Empires" or
                         tag[0] == "Stargrave" or
                         tag[0] == "Stilicho: Last of the Romans" or
                         tag[0] == "Scream Aim Fire!" or
                         tag[0] == "Stalingrad 42" or
+                        tag[0] == "That Others May Live" or
                         tag[0] == "The Bell of Treason" or
                         tag[0] == "The Conquistadors" or
                         tag[0] == "The Dark Valley" or

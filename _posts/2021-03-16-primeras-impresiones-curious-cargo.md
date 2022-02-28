@@ -125,7 +125,7 @@ no tiene ninguna, independientemente de sus puntos o los tuyos, habrás ganado
 porque tienes una estrella.
 
 
-### Cuéntame cómo se juega un turno del juego
+### Cuéntame cómo se juega a un turno del juego
 
 <p align="center"><img src="https://live.staticflickr.com/65535/51042776598_e4e7ff12ca_b.jpg"></p>
 <p align="center"><small>En la mitad de una partida. Tengo una conexión de

@@ -85,7 +85,7 @@ Como os he adelantado arriba este juego llegó a mi lista de [juegos del
 por una cosa u otra no pude probar, pero este año me he decidido a
 comprarlo. Tras un mes jugándolo, aquí tenéis mis primeras impresiones.
 
-### Cuéntame cómo se juega un turno del juego
+### Cuéntame cómo se juega a un turno del juego
 
 <p align="center"><img src="https://live.staticflickr.com/65535/50656998872_299de82b2c_c.jpg"></p>
 <p align="center"><small>Todo lo que necesitas para jugar</small></p>

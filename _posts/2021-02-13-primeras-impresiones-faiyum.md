@@ -97,7 +97,7 @@ jugar las cartas** de nuestra mano, **qué queremos comprar en el mercado de
 cartas, los recursos** disponibles **y la pila de descarte**, todo ello para
 desarrollar la región egipcia de Faiyum lo mejor que podamos.
 
-### Cuéntame cómo se juega un turno del juego
+### Cuéntame cómo se juega a un turno del juego
 
 Todas las partidas de Faiyum comienzan con el tablero de la misma forma, tenemos
 un asentamiento ya colocado, una carretera, y todos los hexágonos de trigo y
