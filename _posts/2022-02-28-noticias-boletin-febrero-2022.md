@@ -134,7 +134,7 @@ src="https://cf.geekdo-images.com/NTNhldVlXHY-EncaJAm-wA__imagepage/img/PbPZOUSy
 
 **—** **Spielworxx** anuncia en BGG que **[Oranienburger
 Kanal](https://boardgamegeek.com/boardgame/352695/oranienburger-kanal)** será
-el siguiente lanzamiento de la editorial, un juego de **1 a 2 juegadores**
+el siguiente lanzamiento de la editorial, un juego de **1 a 2 jugadores**
 sobre la construcción de industrias e infraestructura, diseñado por **Uwe
 Rosenberg**. 
 
@@ -149,7 +149,7 @@ src="https://cf.geekdo-images.com/6e-V_Xb2IsAsMNXU18Fi6A__imagepage/img/Pt-JVaba
 [informan](https://boardgamegeek.com/blogpost/127993/take-seas-again-libertalia-winds-galecrest)
 que el siguiente lanzamiento de **Stonemaier Games** será **[Libertalia: Winds
 of
-Galecrest](https://boardgamegeek.com/boardgame/356033/libertalia-winds-galecrest)**
+Galecrest](https://boardgamegeek.com/boardgame/356033/libertalia-winds-galecrest)**, 
 una nueva versión del juego **Libertalia** de Paolo Mori, que se publicó
 originalmente en 2012.
 
@@ -215,11 +215,9 @@ src="https://cf.geekdo-images.com/rZmmbuhaj6ML58Ov3JMGjg__imagepage/img/PiLSizAW
 
 **—** Desde **Portal Games**
 [anuncian](https://boardgamegeek.com/thread/2814825/portal-games-release-wrath-lighthouse-new-expansio)
-que la nueva expansión **exclusiva para el juego en solitario** de **[Imperial
-Settlers: Empires of the
-North](https://boardgamegeek.com/boardgame/270844/imperial-settlers-empires-north):
- **[Warth of the
-Lighthouse](https://boardgamegeek.com/boardgameexpansion/330655/imperial-settlers-empires-north-wrath-lighthouse)**
+que la nueva expansión **exclusiva para el juego en solitario** de 
+**[Imperial Settlers: Empires of the North](https://boardgamegeek.com/boardgame/270844/imperial-settlers-empires-north)**:
+ **[Warth of the Lighthouse](https://boardgamegeek.com/boardgameexpansion/330655/imperial-settlers-empires-north-wrath-lighthouse)**
 se espera para **septiembre de 2022**.
 
 **Warth of the Lighthouse** contiene una campaña en solitario de 15 escenarios,
@@ -260,12 +258,6 @@ el **modo en solitario** en formato print & play (funciona con un mazo de 32
 cartas tamaño mini-euro) a principios del año pasado (2021), y este modo en
 solitario es el que se publicará profesionalmente como la primera expansión del
 juego.
-
-<p align="center">
-<img height=""
-src=""></p>
-
-**—** ** **
 
 ### Fechas de lanzamientos en España
 
