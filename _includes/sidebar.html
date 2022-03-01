@@ -82,14 +82,6 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2022/02/13/rol-zinemonth-22/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
        {% if post.url == "/2021/03/27/general-top-100-bgg-solitario-p4/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -106,7 +98,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/12/23/general-top-200-1pg-solitario-p4/" %}
+       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -114,7 +106,15 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
+       {% if post.url == "/2022/02/13/rol-zinemonth-22/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2021/12/23/general-top-200-1pg-solitario-p4/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -130,7 +130,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/05/16/analisis-desolate/" %}
+       {% if post.url == "/2021/09/13/rol-old-school-essentials-advanced-fantasy/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -157,67 +157,69 @@
       {% for tag in site.tags %}
       {% if tag[0] == "It's a Wonderful Kingdom"
       or tag[0] == "Print & play"
-      or tag[0] == "World at War 85: Storming the Gap"
-      or tag[0] == "Cosmonaves"
       or tag[0] == "Old-School Essentials"
-      or tag[0] == "Gloomhaven: Fauces del León"
-      or tag[0] == "Gloomhaven: Jaws of the Lion"
-      or tag[0] == "GMT Games"
-      or tag[0] == "All Bridges Burning"
-      or tag[0] == "Anunnaki: Dawn of the Gods"
-      or tag[0] == "Atlantic Chase"
+      or tag[0] == "Cosmonaves"
+      or tag[0] == "World at War 85: Storming the Gap"
       or tag[0] == "Beyond the Sun"
       or tag[0] == "Dungeons Dice & Danger"
-      or tag[0] == "Europa Universalis: The Price of Power"
+      or tag[0] == "Gloomhaven: Fauces del León"
+      or tag[0] == "GMT Games"
+      or tag[0] == "Root"
+      or tag[0] == "All Bridges Burning"
+      or tag[0] == "Barrage"
+      or tag[0] == "Boletín Informativo Solitario"
+      or tag[0] == "Cthulhu: Death May Die"
+      or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
+      or tag[0] == "Five Tribes"
       or tag[0] == "Forbidden Lands"
+      or tag[0] == "Gamefound"
+      or tag[0] == "Gloomhaven: Jaws of the Lion"
+      or tag[0] == "Héroes de Terrinoth"
       or tag[0] == "Kickstarter"
+      or tag[0] == "Mausritter"
+      or tag[0] == "Mini Rogue"
       or tag[0] == "Mythic"
       or tag[0] == "Race for the Galaxy"
       or tag[0] == "Root: Los Cachivaches"
-      or tag[0] == "Root"
-      or tag[0] == "White Dog Games"
       or tag[0] == "7 Wonders Duel"
-      or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Anunnaki: Dawn of the Gods"
+      or tag[0] == "Atlantic Chase"
       or tag[0] == "AuZtralia"
       or tag[0] == "Beak Feather & Bone"
-      or tag[0] == "Cascadia"
-      or tag[0] == "Colonos del Imperio: Imperios del Norte"
       or tag[0] == "Compass Games"
-      or tag[0] == "Cthulhu: Death May Die"
+      or tag[0] == "Crónicas del Crimen"
+      or tag[0] == "Death In Space"
       or tag[0] == "Descent"
-      or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
       or tag[0] == "Etherfields"
-      or tag[0] == "Excavación Tierra"
-      or tag[0] == "Five Parsecs From Home"
       or tag[0] == "Food Chain Island"
-      or tag[0] == "Great War Commander"
+      or tag[0] == "Great Western Trail"
       or tag[0] == "Imperium: Classics"
       or tag[0] == "Ironsworn: Starforged"
       or tag[0] == "Ironsworn"
-      or tag[0] == "Labyrinth Lord"
-      or tag[0] == "Mausritter"
-      or tag[0] == "Mini Rogue"
+      or tag[0] == "Labyrinth: The Forever War"
+      or tag[0] == "Labyrinth: The War on Terror"
+      or tag[0] == "Mapeando las catacumbas"
       or tag[0] == "Mothership: Dead Planet"
       or tag[0] == "Mothership"
+      or tag[0] == "Nova Luna"
+      or tag[0] == "One Page Dungeon"
       or tag[0] == "Paleo"
+      or tag[0] == "Posthuman Saga"
       or tag[0] == "Praga Caput Regni"
-      or tag[0] == "Res Arcana"
-      or tag[0] == "Rol"
       or tag[0] == "Scarlet Heroes"
+      or tag[0] == "Shadows of Kilforth"
       or tag[0] == "Sherlock Holmes Detective Asesor"
       or tag[0] == "Suburbia"
-      or tag[0] == "Tabannusi: Builders of Ur"
       or tag[0] == "Terraforming Mars"
-      or tag[0] == "The Crew: The Quest for Planet Nine"
+      or tag[0] == "The City of Kings"
       or tag[0] == "The Red Cathedral: Contractors"
       or tag[0] == "The Red Cathedral"
       or tag[0] == "The Vast in the Dark"
-      or tag[0] == "Through the Ages: A New Story of Civilization"
       or tag[0] == "Thunderstone Quest"
       or tag[0] == "Tops"
-      or tag[0] == "Vaults of Vaarn"
       or tag[0] == "Wicked Ones"
-      or tag[0] == "Wingspan" %}
+      or tag[0] == "Wingspan"
+      or tag[0] == "Zine Quest" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
@@ -228,13 +230,48 @@
     <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=12&l=ur1&category=pw&banner=1WEH4VACNXPDB8PEBXR2&f=ifr&linkID=0bd03f634ab407bb9507c3d2089fdb48&t=mazmorreo-21&tracking_id=mazmorreo-21" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
   </div>
   <div class="mt10">
-    <h4>Artículos recientes</h4>
-    {% for post in site.related_posts limit:5 %}
+    <h4>Análisis más leídos</h4>
+    <div id="top-analisis"></div>
     <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      <div class="text-block"><h5>1. {{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
     </div>
-    {% endfor %}
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2021/09/13/rol-old-school-essentials-advanced-fantasy/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>2. {{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2020/05/23/ojeando-mini-rogue/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>3. {{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2019/05/16/analisis-desolate/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>4. {{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2018/12/15/analisis-one-deck-dungeon/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>5. {{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
   </div>
   <!-- <div class="mt10"> -->
   <!--   <h4>Entidades colaboradoras</h4> -->
@@ -256,48 +293,13 @@
                             charset="utf-8"></script>
   </div>
   <div class="mt10">
-    <h4>Análisis más leídos</h4>
-    <div id="top-analisis"></div>
+    <h4>Artículos recientes</h4>
+    {% for post in site.related_posts limit:5 %}
     <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>1. {{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
     </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2019/05/16/analisis-desolate/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>2. {{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2021/09/13/rol-old-school-essentials-advanced-fantasy/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>3. {{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2018/12/15/analisis-one-deck-dungeon/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>4. {{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2019/07/23/analisis-orchard/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>5. {{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
+    {% endfor %}
   </div>
   <div class="mt10">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

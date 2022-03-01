@@ -89,7 +89,13 @@ para el próximo mes de **marzo** en **Kickstarter**, **Gamefound**,
 * [Tamashii: Chronicle of
   Ascend](https://boardgamegeek.com/boardgame/356754/tamashii-chronicle-ascend):
   Gamefound.
-  
+
+**16 de marzo**
+
+* [Micro Dojo: Loyalty +
+  Deceit](https://boardgamegeek.com/boardgame/348612/micro-dojo-loyalty-deceit):
+  en [Kickstarter](https://www.kickstarter.com/projects/prometheus-gamelabs/micro-dojo-expansion?ref=mazmorreoensolitario).
+
 **22 de marzo** 
 
 * [Jurassic World: The Legacy of Isla Nublar](https://boardgamegeek.com/boardgame/352567/jurassic-world-legacy-isla-nublar): en Kickstarter.
