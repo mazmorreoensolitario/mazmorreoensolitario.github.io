@@ -139,7 +139,7 @@ Después me metí en uno de los escenarios con reglas estándar que utiliza los
 dos mapas que tiene el juego y jugué todo lo que el tiempo me permitió. Este
 escenario duraba 16 turnos, pero era evidente que no iba a poder completarlo. 
 
-Casualmente elegí que las fuerzas rusas apoyaran la invasión de DPKR en vez de
+Casualmente elegí que las fuerzas rusas apoyaran la invasión de DPRK en vez de
 usar a las fueras chinas... 
 
 Como he dejado entrever arriba, sigo jugando con las reglas estándar del juego
@@ -248,7 +248,10 @@ restamos la defensa del enemigo y eso nos da un número, tiramos un d10 y
 tenemos que conseguir sacar menos o igual. Si es así impactamos. Muy directo.
 
 He apreciado mucho que las reglas sean sencillas, creo que este es el primer
-juego de GMT que puedo jugar a la vez que estoy leyendo el manual.
+juego de GMT que puedo jugar a la vez que estoy leyendo el manual, y en general
+que no tengo que "planificar" un refresco de reglas antes de ponerme a
+jugar. Cosa que con el resto de wargames que tengo sí pasa. ¿Es Space Empires
+un wargame? Dejo esa pregunta para los lectores.
 
 ### [Terraforming Mars](https://boardgamegeek.com/boardgame/167791/terraforming-mars)
 
@@ -310,6 +313,9 @@ algunos bastante majos.
 
 En cuanto a las novedades, me ha llegado **Death In Space**, muy elegante y
 brillante, te lo cuento justo abajo con fotos.
+
+En el ámbito de rol no-solitario mi grupo y yo seguimos atascados en la fase de
+planificar partidas, llevamos así un mes.
 
 ### Death In Space
 
