@@ -428,6 +428,9 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
 * **[The Dark Summer: Normandy
   1944](https://www.philibertnet.com/en/western-front/106493-the-dark-summer-normandy-1944-817054012107.html#ae447-11)**:
   **40€** (PVP: 55€), inglés, GMT Games (2021).
+* **[Salerno
+  '43](https://www.philibertnet.com/en/western-front/107545-salerno-43-2100000826421.html#ae447-11)**:
+  **40€** (PVP: 45€), inglés, GMT Games (2022).
 * **[Clinic: Deluxe
   Edition](https://zacatrus.es/clinic-deluxe-edition.html#u97)**: **46€** (PVP:
   60€), español, AVStudioGames (2019).
@@ -439,6 +442,9 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
 * **[The Last Hundred Yards Volume 3: The Solomon
   Islands](https://www.philibertnet.com/en/gmt/106042-the-last-hundred-yards-volume-3-the-solomon-islands-2100000816262.html#ae447-11)**:
   **53€** (PVP: 55€), GMT Games (2022).
+* **[Plains Indian
+  War](https://www.philibertnet.com/en/19th-century/107539-plains-indian-war-2100000826407.html#ae447-11)**:
+  **60€** (PVP: 65€), GMT Games (2022).
 
 ## Juegos de rol
 
