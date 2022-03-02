@@ -107,7 +107,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/sleepysasquatch/glide-0?ref=mazmorreoensolitario">
-    Glide</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Glide</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego en solitario de exploración y descubrimientos inspirado en el
     mundo de Dune.</p>
         <p><strong>Glide</strong> es un juego en solitario de escritura
@@ -206,6 +206,7 @@ Y sin más dilación, aquí están las listas de zines:
     varios tés en pociones mágicas.</p>
         <ul>
             <li>PDF: 8$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -464,7 +465,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/grinningratpub/dungeoneering-wanderers?ref=mazmorreoensolitario">
-    DUNGEONEERING: Wanderers</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    DUNGEONEERING: Wanderers</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Expansión para Dungeoneering.</p>
         <p><strong>DUNGEONEERING: Wanderers</strong> es una expansión para <a
     href="https://www.drivethrurpg.com/product/383958/DUNGEONEERING?affiliate_id=1914894">Dungeoneering</a>
@@ -529,7 +530,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/albi13/the-royal-cartographer?ref=mazmorreoensolitario">
-    The Royal Cartographer</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    The Royal Cartographer</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de creación de mapas.</p>
         <p><strong>The Royal Cartographer</strong> es un juego de escritura
     creativa en
@@ -571,7 +572,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/lonearchivist/iow-tidebreak?ref=mazmorreoensolitario">
-    In Other Waters: Tidebreak</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    In Other Waters: Tidebreak</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Aventura en solitario para Mothership RPG</p>
         <p><strong>In Other Waters: Tidebreak</strong> es un módulo ambientado
     en el mundo oceánico de Gliese 667Cc que puedes jugar en solitario. Utiliza
@@ -593,7 +594,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/diamondblood/for-small-creatures-such-as-we?ref=mazmorreoensolitario">
-    For Small Creatures Such As We</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    For Small Creatures Such As We</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de escritura creativa sobre la interacción con especies alienígenas.</p>
         <p> <strong>For Small Creatures Such As We</strong> es un juego de
     escritura creativa cooperativo o solitario en el que eres un capitán de una
@@ -682,7 +683,7 @@ Y sin más dilación, aquí están las listas de zines:
          <h4><a
     href="https://www.kickstarter.com/projects/through-ultans-door/downtime-in-zyan?ref=mazmorreoensolitario">
     Downtime in Zyan
-</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Serie de reglas para saber qué hacer con el tiempo libre de tus
     personajes entre aventuras</p>
         <p><strong>Downtime in Zyan</strong> presenta un sistema para gestionar
@@ -917,7 +918,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/lazylitch/the-toxic-wood?ref=mazmorreoensolitario">
-    The Toxic Wood</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    The Toxic Wood</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Aventura tipo hexcrawl</p>
         <p><strong>The Toxic Wood</strong> es una aventura tipo hexcrawl para
     Old-School Essentials.</p>
