@@ -176,7 +176,7 @@ y puedo tratar de anticiparme a qué cartas es mejor comprar según el momento e
 el que estés en la partida, pero aún así las formas de usarlas y el momento
 justo en el que quieres que aparezcan siguen dando retos de juego.
 
-#### [Gloomhaven: Jaws of the Lion](https://amzn.to/3pncDXd)
+#### [Gloomhaven: Jaws of the Lion](https://amzn.to/3q3d5vt)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__imagepage/img/JUEcmeR5Cm5haFjoG5f_Uv8Zlws=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5055631.jpg"></p>

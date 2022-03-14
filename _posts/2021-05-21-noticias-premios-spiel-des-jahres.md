@@ -227,7 +227,7 @@ de Johannes Sich y publicado por <strong>Edition Spielwiese</strong> (SD Games
         class="img-thumbnail" alt="Gloomhaven: Jaws of the Lion">
     </div>
     <div class="col-md-9">
-         <h4><a href="https://amzn.to/3vfTU1y">Gloomhaven: Jaws of the Lion</a></h4>
+         <h4><a href="https://amzn.to/3q3d5vt">Gloomhaven: Jaws of the Lion</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion">Gloomhaven:
     Jaws of the Lion</a></strong> de Isaac Childres y publicado por

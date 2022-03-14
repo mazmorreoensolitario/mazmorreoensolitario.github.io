@@ -1044,7 +1044,7 @@ Y tras todo este montonazo de juegos, por fin llegamos al **Top 10**:
         class="img-thumbnail" alt="Gloomhaven / Gloomhaven: Jaws of the Lion">
     </div>
     <div class="col-md-9">
-         <h4>4. <a href="https://amzn.to/3EtRdOg">Gloomhaven</a> / <a href="https://amzn.to/3muVA5f">Gloomhaven: Jaws of the Lion</a></h4>
+         <h4>4. <a href="https://amzn.to/3EtRdOg">Gloomhaven</a> / <a href="https://amzn.to/3q3d5vt">Gloomhaven: Jaws of the Lion</a></h4>
          <p>En esta posición se agrupan el <strong><a href="https://boardgamegeek.com/boardgame/174430/gloomhaven">Gloomhaven</a></strong> original y la reciente caja más pequeña
     <strong><a href="https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion">Gloomhaven: Jaws of the Lion</a></strong>, ambas
     diseñadas por Isaac Childres, y publicadas por <strong>Cephalofair Games</strong>

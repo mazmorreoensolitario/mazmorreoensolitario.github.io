@@ -443,7 +443,7 @@ de Nick Bentley, Dominic Crapuchettes, Ben Goldman y Brian O'Neill y publicado
         class="img-thumbnail" alt="Gloomhaven: Jaws of the Lion">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://amzn.to/3vfTU1y">Gloomhaven: Jaws of the Lion</a></h4>
+        <h4><a href="https://amzn.to/3q3d5vt">Gloomhaven: Jaws of the Lion</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>¡Juego de mesa de peso duro del año!</strong></div>
         <p><strong><a

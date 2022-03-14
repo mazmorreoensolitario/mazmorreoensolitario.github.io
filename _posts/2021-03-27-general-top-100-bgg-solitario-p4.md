@@ -479,7 +479,7 @@ completas sobre los juegos del Top 100**.
         class="img-thumbnail" alt="Gloomhaven: Jaws of the Lion">
     </div>
     <div class="col-md-9">
-         <h4>6. <a href="https://www.philibertnet.com/en/cephalofair-games/90068-gloomhaven-jaws-of-the-lion-644216610563.html#ae447-11">Gloomhaven: Jaws of the Lion</a></h4>
+         <h4>6. <a href="https://amzn.to/3q3d5vt">Gloomhaven: Jaws of the Lion</a></h4>
          <p>En <strong><a href="https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion">Gloomhaven: Jaws of the Lion</a></strong>
          de Isaac Childres y publicado por <strong>Cephalofair Games</strong>,
      es un juego de escaramuzas con toques RPG en el que controlamos hasta

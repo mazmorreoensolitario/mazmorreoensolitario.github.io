@@ -168,7 +168,7 @@ año, mientras que otros ya formaban parte de mi colección, vamos a ello:
         class="img-thumbnail" alt="Gloomhaven: Jaws of the Lion">
     </div>
     <div class="col-md-9">
-        <h4><strong>3. <a href="https://www.philibertnet.com/en/cephalofair-games/90068-gloomhaven-jaws-of-the-lion-644216610563.html#ae447-11">Gloomhaven: Jaws of the Lion</a></strong></h4>
+        <h4><strong>3. <a href="https://amzn.to/3q3d5vt">Gloomhaven: Jaws of the Lion</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion">Gloomhaven:
     Jaws of the Lion</a></strong> es un juego de escaramuzas con toques RPG en
