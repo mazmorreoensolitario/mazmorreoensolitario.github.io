@@ -6,7 +6,7 @@ categories: [Análisis, Print & play]
 tags: ["Food Chain Island", Isla Animal, Print & play, Golden Geek]
 imghtml: https://cf.geekdo-images.com/_Zj858ai-PlnbTjXnzZBfg__imagepage/img/xWmBcoGhz8hi1b7YgbabKpWFwdQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5425050.png
 score: 3.5
-game: "Food Chain Island"
+game: "Food Chain Island / Isla Animal"
 crop: true
 post_desc: "Food Chain Island es un juego de 18 cartas de la serie Simply Solo 
 en el que tenemos que ir comiendo animales en una isla e intentar quedarnos 
