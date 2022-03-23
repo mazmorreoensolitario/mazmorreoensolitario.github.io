@@ -104,7 +104,7 @@ Además de los caminos cada carta cuenta con una habilidad especial, que
 podremos activar y descartar cuando la carta se encuentre en el *Campamento
 base* (nuestra mano), y nos dará alguna forma de modificar las cartas que se
 encuentren en la pirámide formando la montaña, o el orden de cartas de nuestra
-mano, que también es relevando.
+mano, que también es relevante.
 
 **¡Vamos a prepararnos para un juego de Mazmorreo en solitario!**
 
