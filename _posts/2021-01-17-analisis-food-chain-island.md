@@ -90,7 +90,7 @@ hambrientos! Tu objetivo es influenciar a la fauna y ordenar sus comidas para
 que solamente quede un animal al final.*
 
 **[Food Chain
-Island](https://boardgamegeek.com/boardgame/309110/food-chain-island)** es un
+Island / Isla Animal](https://boardgamegeek.com/boardgame/309110/food-chain-island)** es un
 pequeño juego de 18 cartas en el que tenemos que conseguir que los animales de
 la isla se coman unos a otros, intentando que el depredador en la cima de la
 cadena alimenticia se quede solo.
