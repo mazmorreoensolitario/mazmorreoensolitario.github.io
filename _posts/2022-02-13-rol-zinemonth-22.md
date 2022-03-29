@@ -41,7 +41,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/colostle/colostle-the-roomlands?ref=mazmorreoensolitario">
-    Colostle - The Roomlands</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Colostle - The Roomlands</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Expansión para el juego de escritura creativa en solitario Colostle</p>
         <p><strong>Colostle - The Roomlands</strong> es una expansión para
         Colostle en la que se añade una nueva sección llena de autómatas.</p>
@@ -64,7 +64,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://aurora-sanguine.itch.io/grim-harvest?ref=mazmorreoensolitario">
-    Grim Harvest</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Grim Harvest</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de mazmorreo que puede jugarse en solitario</p>
         <p><strong>Grim Harvest</strong> es un híbrido entre juego de mazmorreo
         y TTRPG ambientado en un mundo sombrío al borde del desastre.</p>
@@ -131,7 +131,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://lostwaysclub.itch.io/heist?ref=mazmorreoensolitario">
-    HEIST!</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    HEIST!</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego en solitario sobre hacer atracos</p>
         <p><strong>HEIST!</strong> es un juego en solitario o para dos
         jugadores en el que tratas de robar algo.</p>
@@ -152,7 +152,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://nikolarpetrov.itch.io/daddy-issues?ref=mazmorreoensolitario">
-    Daddy Issues</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Daddy Issues</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego en solitario sobre un padre malentendido que va comprar
     cigarros y nunca vuelve a casa</p>
         <p>En <strong>Daddy Issues</strong> eres el típico padre que va a
@@ -198,7 +198,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://marrensmusings.itch.io/the-teapot-fully-steeped?ref=mazmorreoensolitario">
-    The Teapot</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    The Teapot</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de escritura creativa en el que eres un tetera con vida.</p>
         <p><strong>The Teapot</strong> es un juego solitario de escritura
     creativa basado en el sistema Lost & Found en el que eres una tetera
@@ -220,7 +220,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://marccook.itch.io/wail?ref=mazmorreoensolitario">
-    Wail</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Wail</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de exploración en solitario.</p>
         <p><strong>Wail</strong> es un juego de escritura creativa y
     construcción de mundos con mecánicas tipo hexcrawl en el que eres un
@@ -243,7 +243,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://ell0.itch.io/its-lunch-time?ref=mazmorreoensolitario">
-    It’s Lunch Time!</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    It’s Lunch Time!</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Simulador de gaviotas.</p>
         <p><strong>It’s Lunch Time!</strong> es un juego de rol en solitario en
     el que eres una gaviota hambrienta que vive cerca de un mercado situado en
@@ -264,7 +264,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/inkwyrmling/spellcrafting-a-primer-on-the-creation-of-sorceries?ref=mazmorreoensolitario">
-    Spellcraft</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Spellcraft</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de escritura creativa sobre crear hechizos.</p>
         <p><strong>Spellcraft</strong> es un juego solitario de escritura
     creativa en el que tienes que crear un hechizo. Utilizarás etiquetas para
@@ -286,7 +286,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://tori-truslow.itch.io/tending?ref=mazmorreoensolitario">
-    Tending: A Game of Devotion</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Tending: A Game of Devotion</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de escritura creativa donde eres un feligrés en un lugar sagrado.</p>
         <p><strong>Tending: A Game of Devotion</strong> es un juego de
     escritura creativa en el que eres un feligrés viviendo en un ligar
@@ -400,7 +400,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://donniedynamo.itch.io/the-unnaturalist-forest?ref=mazmorreoensolitario">
-    The (Un)Naturalist</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    The (Un)Naturalist</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de escritura creativa sobre una expedición en un bosque antinatural.</p>
         <p><strong>The (Un)Naturalist</strong> es un juego en solitario de
     escritura creativa en el que eres un científico explorando y documentando
@@ -443,7 +443,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://acoupleofdrakes.itch.io/skyworthy-zimo22?ref=mazmorreoensolitario">
-    Skyworthy</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Skyworthy</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de escritura creativa sobre barcos que vuelan.</p>
         <p><strong>Skyworthy</strong> es una zine de escritura creativa en
             solitario en el que escribes desde el punto de vista de un capitán
@@ -488,7 +488,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://monkeys-paw-games.itch.io/chalice?ref=mazmorreoensolitario">
-    Chalice</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Chalice</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de escritura creativa sobre la búsqueda del grial.</p>
         <p><strong>Chalice</strong> es un juego en solitario de escritura
     creativa en el que eres un caballero de las leyendas del Rey Arturo y estás
@@ -509,7 +509,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://hopefulweirdwonder.itch.io/sunguard?ref=mazmorreoensolitario">
-    Pilgrimage of the Sun Guard</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Pilgrimage of the Sun Guard</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de escritura creativa sobre el viaje de un caballero.</p>
         <p>En <strong>Pilgrimage of the Sun Guard</strong> eres un caballero de
     la Guardia del Sol y debes viajar solo tratando de mantener tu código hasta
@@ -552,7 +552,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://davidblandy.itch.io/lone-eons?ref=mazmorreoensolitario">
-    Lone Eons</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Lone Eons</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de escritura creativa science-fantasy.</p>
         <p><strong>Lone Eons</strong> es un juego de escritura creativa en
     solitario con toques science-fantasy solarpunk.</p>
@@ -616,7 +616,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://washyourhands.itch.io/lineage-epoch-edition?ref=mazmorreoensolitario">
-    Lineage: Epoch Edition</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Lineage: Epoch Edition</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Juego de escritura creativa en el que eres un historiador.</p>
         <p>En <strong>Lineage: Epoch Edition</strong> eres un historiador de la
     corte y debes crear un árbol genealógico que cuenta la historia de los
@@ -639,7 +639,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://jbherer.itch.io/the-voyage-appendix?ref=mazmorreoensolitario">
-    The Voyage Appendix</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    The Voyage Appendix</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Colección de tarjetas de ayudas de juego</p>
         <p><strong>The Voyage Appendix</strong> es una colección de ayudas de
         juego en formato tarjeta en las que tienes reglas minimalistas para
@@ -661,7 +661,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://gnarledmonster.itch.io/the-archon-ruins?ref=mazmorreoensolitario">
-    The Archon Ruins</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    The Archon Ruins</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Setting agnóstico al sistema.</p>
         <p><strong>The Archon Ruins</strong> es un setting que puede utilizarse
     con cualquier juego de rol en el que se presentan las ruinas de una antigua
@@ -705,7 +705,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/abresch/your-life-random-fantasy-character-backgrounds?ref=mazmorreoensolitario">
-    Your Life: Random Fantasy Character Backgrounds</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Your Life: Random Fantasy Character Backgrounds</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Generador de personajes</p>
         <p><strong>Your Life: Random Fantasy Character Backgrounds</strong> es
     un generador agnóstico del sistema de personajes.</p>
@@ -726,7 +726,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://sagedamage.itch.io/discordantopia?ref=mazmorreoensolitario">
-    Discordantopia</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Discordantopia</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Setting de una ciudad para Troika! y Pulka.</p>
         <p><strong>Discordantopia</strong> contiene un setting de una una
     ciudad "dystopian-punk" que puedes crear a tu manera.</p>
@@ -746,7 +746,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://emielboven.itch.io/tea-01?ref=mazmorreoensolitario">
-    The Electrum Archive - Issue #01</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    The Electrum Archive - Issue #01</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Setting tipo science-fantasy.</p>
         <p>En <strong>The Electrum Archive - Issue #01</strong> tenemos un
     juego de rol (no solitario) y un setting tipo science-fantasy para él, en
@@ -792,7 +792,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://proton31.itch.io/roguelike-dungeon?ref=mazmorreoensolitario">
-    Roguelike Dungeon</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Roguelike Dungeon</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Generador de mazmorras.</p>
         <p><strong>Roguelike Dungeon</strong> es un generador de mazmorras que
         utiliza una forma similar a los videojuegos tipo rogue-like para
@@ -812,7 +812,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://seedling.itch.io/procedures-to-discover-the-path-ahead?ref=mazmorreoensolitario">
-    Procedures to Discover the Path Ahead</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Procedures to Discover the Path Ahead</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Zine de herramientas para generar un mapa o un viaje.</p>
         <p> <strong>Procedures to Discover the Path Ahead</strong> es una zine
     que contiene herramientas que puedes usar para pintar mapas o en tu proceso
@@ -877,7 +877,7 @@ Y sin más dilación, aquí están las listas de zines:
     <div class="col-md-9">
          <h4><a
     href="https://penpaperdice.itch.io/oak-pasture-1?ref=mazmorreoensolitario">
-    Oak Pasture #1</a> <span class="label label-info"><strong>Crowdfunding abierto</strong></span></h4>
+    Oak Pasture #1</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Hexcrawl y setting para Mausritter.</p>
         <p><strong>Oak Pasture #1</strong> es una zine que contiene un setting
     formato hexcrawl con una región. Tenemos rumores, localizaciones,
