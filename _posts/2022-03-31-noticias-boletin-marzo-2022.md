@@ -127,7 +127,7 @@ src="https://cf.geekdo-images.com/5S4mv0txfpPBtvttcOThUg__imagepage/img/RFffC6_Z
  ellos diseñados por **Haakon Gaarder**.
  
  **Moon** es un juego de cartas de construcción en el que deberás hacer la base
- lunar más atractiva para trabajar y vivir para la gente de la tierra.
+ lunar más atractiva para trabajar y vivir para la gente de la Tierra.
 
 Durante 2022 **Moon** buscará financiación en **Kickstarter**, que se espera
 que comience a la vez que la feria UKGE, donde se podrá probar.
@@ -199,8 +199,8 @@ src="https://cf.geekdo-images.com/J41NO2HQ-UCkgW4vmIfLuQ__imagepage/img/OGCUnNVZ
 
 Finalmente **Ediciones Primigenio** anuncia el nuevo juego de **Shei S. e Isra
 C.** (Llama Dice):
-**[Flowar](https://boardgamegeek.com/boardgame/240357/flowar)** con una fecha
-de salida prevista para este 2022, previsiblemente en la **Spiel 2022**.
+**[Flowar](https://boardgamegeek.com/boardgame/240357/flowar)**; que tiene una
+fecha de salida prevista para este 2022, previsiblemente en la **Spiel 2022**.
 
 **Flowar** es un juego de gestión de mano, colecciones y de colocación de
 trabajadores en el que eres un mercader y tendrás que hacerte con las mejores
@@ -305,7 +305,7 @@ futuros lanzamientos para el mes de abril:
 ## Wargames
 
 Vistos los juegos de mesa, seguimos el resumen del mes con la **sección de
-wargames del Boletín de enero**.
+wargames del Boletín*.
 
 <p align="center">
 <img height=""
