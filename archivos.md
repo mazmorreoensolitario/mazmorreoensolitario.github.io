@@ -21,7 +21,7 @@ categorías.
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or tag[0] == "Ronin" or
-        tag[0] == "Zine Month" or
+        tag[0] == "Zine Month" or tag[0] == "Solo Game Master's Guide" or
         tag[0] == "Paria" or tag[0] == "Pathfinder" or
         tag[0] == "Dirt RPG" or tag[0] == "Mapeando las catacumbas" or
         tag[0] == "All Must Bow" or tag[0] == "Muspelhell" or
@@ -238,9 +238,11 @@ categorías.
                         tag[0] == "Operation Theseus: Gazala 1942" or
                         tag[0] == "Pavlov's House" or
                         tag[0] == "Peloponnesian War" or
+                        tag[0] == "Port Arthur" or
                         tag[0] == "Rangers of Shadow Deep" or
                         tag[0] == "Red Dust Rebellion" or
                         tag[0] == "Red Storm: The Air War Over Central Germany" or
+                        tag[0] == "Red Sun Blue Cross" or
                         tag[0] == "Road to Cheren" or
                         tag[0] == "Santander 37" or
                         tag[0] == "Schnell Boats: Scourge of the English Channel" or 
