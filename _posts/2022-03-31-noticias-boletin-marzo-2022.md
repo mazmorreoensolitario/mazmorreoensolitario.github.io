@@ -300,7 +300,9 @@ futuros lanzamientos para el mes de abril:
 * **[Brazil Imperial](https://boardgamegeek.com/boardgame/249277/brazil-imperial)**: 7 de abril 
 * **[Gólem](https://boardgamegeek.com/boardgame/298383/golem)**: 7 de abril
 * **[Fábricas Fantásticas](https://boardgamegeek.com/boardgame/216600/fantastic-factories)** (y expansiones): 21 de abril
-* **[Hipócrates](https://boardgamegeek.com/boardgame/327971/hippocrates)**: 21 de abril
+* **[Hipócrates](https://boardgamegeek.com/boardgame/327971/hippocrates)**: 21
+  de abril
+* **[Ark Nova](https://boardgamegeek.com/boardgame/342942/ark-nova)**: 28 de abril
   
 ## Wargames
 
