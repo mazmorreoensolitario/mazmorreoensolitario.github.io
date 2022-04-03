@@ -56,3 +56,5 @@ sass:
 # Ruby Gems
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed, jekyll-sitemap]
 
+#
+future: true
