@@ -89,6 +89,14 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
+       {% if post.url == "/2022/04/04/crowdfunding-0321-0403/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
        {% if post.url == "/2021/03/27/general-top-100-bgg-solitario-p4/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -98,14 +106,6 @@
     <div class="image-container">
        {% for post in site.posts %}
        {% if post.url == "/2021/03/04/general-top-100-bgg-solitario-p1/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2022/04/04/crowdfunding-0321-0403/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -145,80 +145,80 @@
       or tag[0] == "Death In Space"
       or tag[0] == "Gloomhaven: Fauces del León"
       or tag[0] == "Tops"
-      or tag[0] == "Ironsworn"
       or tag[0] == "Men of Iron Battles Tri-pack"
+      or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Sherlock Holmes Detective Asesor"
       or tag[0] == "Small World of Warcraft"
       or tag[0] == "Everdell"
+      or tag[0] == "Ironsworn"
       or tag[0] == "Old-School Essentials"
       or tag[0] == "OSR"
-      or tag[0] == "Root"
-      or tag[0] == "Sherlock Holmes Detective Asesor"
+      or tag[0] == "Roll for the Galaxy"
       or tag[0] == "Sub Terra"
-      or tag[0] == "Twilight: 2000"
-      or tag[0] == "7 Wonders Duel"
+      or tag[0] == "Terraforming Mars: Ares Expedition"
       or tag[0] == "Anunnaki: Dawn of the Gods"
-      or tag[0] == "Black Orchestra"
-      or tag[0] == "Cosmonaves"
-      or tag[0] == "Dungeons Dice & Danger"
+      or tag[0] == "Concordia Solitaria"
       or tag[0] == "Exploradores de las Profundidades Sombrías"
-      or tag[0] == "Fantastic Factories"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
       or tag[0] == "High Frontier 4 All"
       or tag[0] == "Ironsworn: Starforged"
       or tag[0] == "Maracaibo"
-      or tag[0] == "Oh My Goods!"
-      or tag[0] == "Paladines del Reino del Oeste"
+      or tag[0] == "Mörk Borg"
+      or tag[0] == "Root"
       or tag[0] == "Stargrave"
-      or tag[0] == "The Red Cathedral: Contractors"
-      or tag[0] == "Zombicide"
+      or tag[0] == "Tin Helm"
+      or tag[0] == "Twilight: 2000"
+      or tag[0] == "7 Wonders Duel"
       or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Aeon's End"
       or tag[0] == "Alone Among the Stars"
+      or tag[0] == "Ark Nova"
+      or tag[0] == "Arquitectos del Reino del Oeste"
       or tag[0] == "Bios: Megafauna"
       or tag[0] == "Bismarck Solitaire"
-      or tag[0] == "Bullet"
       or tag[0] == "Compass Games"
-      or tag[0] == "Concordia Solitaria"
+      or tag[0] == "Cosmonaves"
       or tag[0] == "Count of Nine"
-      or tag[0] == "Cthulhu: Death May Die"
-      or tag[0] == "Curious Cargo"
+      or tag[0] == "Desolate"
+      or tag[0] == "Dungeons Dice & Danger"
       or tag[0] == "El Banquete de Odín"
       or tag[0] == "El mes en juegos"
-      or tag[0] == "Eldritch Horror"
       or tag[0] == "Etherfields"
+      or tag[0] == "Expansiópolis"
       or tag[0] == "Fábulas de Peluche"
-      or tag[0] == "Five Leagues From the Borderlands"
       or tag[0] == "Forbidden Lands"
+      or tag[0] == "Four Against Darkness"
       or tag[0] == "Gamefound"
       or tag[0] == "Gladiator Gauntlet"
       or tag[0] == "Kickstarter"
-      or tag[0] == "Marvel Champions: The Card Game"
-      or tag[0] == "Mörk Borg"
+      or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Lewis & Clark: The Expedition"
       or tag[0] == "Mothership: Gradient Descent"
+      or tag[0] == "Nemesis"
       or tag[0] == "Nevsky: Teutons and Rus in Collision"
+      or tag[0] == "Nidavellir"
+      or tag[0] == "Oh My Goods!"
+      or tag[0] == "On Mars"
+      or tag[0] == "Paleo"
       or tag[0] == "Paper Dungeons"
       or tag[0] == "Pathfinder Adventure Card Game"
       or tag[0] == "Riftforce"
-      or tag[0] == "Roll for the Galaxy"
+      or tag[0] == "Russian Railroads: German Railroads"
+      or tag[0] == "Russian Railroads"
       or tag[0] == "Scarlet Heroes"
       or tag[0] == "Scythe"
-      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Small Islands"
-      or tag[0] == "Star Realms"
+      or tag[0] == "Solitaire Print & Play Design Contest"
       or tag[0] == "Star Wars: El Borde Exterior"
-      or tag[0] == "Tank Duel: Enemy in the Crosshairs"
-      or tag[0] == "Terraforming Mars: Ares Expedition"
+      or tag[0] == "Star Wars: Imperial Assault"
       or tag[0] == "Terraforming Mars"
-      or tag[0] == "The Dogs of War"
       or tag[0] == "The Key: Sabotage at Lucky Llama Land"
-      or tag[0] == "The Wretched"
-      or tag[0] == "Tin Helm"
       or tag[0] == "Tome of Adventure Design"
+      or tag[0] == "Undaunted: Normandy"
       or tag[0] == "Undaunted: North Africa"
       or tag[0] == "Verdant"
       or tag[0] == "Waterloo Solitaire"
-      or tag[0] == "White Dog Games"
-      or tag[0] == "Zine Quest 2" %}
+      or tag[0] == "White Dog Games" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
