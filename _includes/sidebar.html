@@ -249,7 +249,7 @@
     <div id="top-analisis"></div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2022/03/23/analisis-infranqueable/" %}
+       {% if post.url == "/2021/06/21/analisis-root/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>1. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -257,7 +257,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
+       {% if post.url == "/2019/03/09/analisis-maquis/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>2. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -265,15 +265,15 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/06/21/analisis-root/" %}
+       {% if post.url == "/2021/09/13/rol-old-school-essentials-advanced-fantasy/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>3. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
       {% endfor %}
     </div>
     <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2019/03/09/analisis-maquis/" %}
+       {% for post in site/2019/09/16/analisis-terraforming-mars/.posts %}
+       {% if post.url == "" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>4. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -281,7 +281,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/09/13/rol-old-school-essentials-advanced-fantasy/" %}
+       {% if post.url == "/2022/03/23/analisis-infranqueable/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>5. {{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
