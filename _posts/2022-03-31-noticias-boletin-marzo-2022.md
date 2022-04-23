@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: marzo 2022"
 date: 2022-03-31
 categories: [Noticias]
-tags: ["Boletín Informativo Solitario", Mythic, Ark Nova, Flowar, Undaunted, "Undaunted: Reinforcements", Great Western Trail, "Assassin's Creed: Brotherhood of Venice", Moon, "Solo Game Master's Guide", The Guild of Merchant Explorers, "Nuts! Publishing", Port Arthur, Red Sun Blue Cross, Five Leagues From the Borderlands, Fields of Fire, Pathfinder Adventure Card Game]
+tags: ["Boletín Informativo Solitario", GMT Games, Mythic, Ark Nova, Flowar, Undaunted, "Undaunted: Reinforcements", Great Western Trail, "Assassin's Creed: Brotherhood of Venice", Moon, "Solo Game Master's Guide", The Guild of Merchant Explorers, "Nuts! Publishing", Port Arthur, Red Sun Blue Cross, Five Leagues From the Borderlands, Fields of Fire, Pathfinder Adventure Card Game]
 imghtml: https://live.staticflickr.com/65535/51974004273_49096d2ae1_b.jpg
 post_desc: "Boletín Informativo Solitario de marzo, con un resumen de todas las
 novedades, próximos lanzamientos, crowdfunding y mucho más"
