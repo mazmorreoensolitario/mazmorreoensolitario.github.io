@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: julio 2021"
 date: 2021-08-05
 categories: [Noticias]
-tags: ["Boletín Informativo Solitario", UKGE Awards, UKGE 2021, Mythic, Tulpenfieber, GMT Games, Compass Games, Tiny Battle Publishing, Railways, City Planner, Empire, "G.I. JOE Deck-Building Game", "Schnell Boats: Scourge of the English Channel", Cosmonaves, SpaceShipped, Tussie Mussie, Paleo, "Paleo: Ein neuer Anfang", Across a Thousand Dead Worlds, "Disciples of Bone and Shadow: Conquered Sun Edition", Seekers Beyond The Shroud, "The Lord of the Rings: Journeys in Middle-Earth", "El Señor de los Anillos: Viajes por la Tierra Media", "Dune: Imperium - Rise of Ix","Dune: Imperium", Rolling Realms, Nobel Run, Res Arcana, "Res Arcana: Lux et Tenebrae", Cascadia, "Tunnels & Trolls", "Scream Aim Fire!", Mini Rogue, Apothecaria]
+tags: ["Boletín Informativo Solitario", UKGE Awards, UKGE 2021, Mythic, Tulpenfieber, GMT Games, Compass Games, Tiny Battle Publishing, Railways, City Planner, Empire, "G.I. JOE Deck-Building Game", "Schnell Boats: Scourge of the English Channel", Cosmonaves, SpaceShipped, Tussie Mussie, Paleo, "Paleo: Ein neuer Anfang", Across a Thousand Dead Worlds, "Disciples of Bone and Shadow: Conquered Sun Edition", Seekers Beyond The Shroud, "The Lord of the Rings: Journeys in Middle-Earth", "El Señor de los Anillos: Viajes por la Tierra Media", "Dune: Imperium - Rise of Ix","Dune: Imperium", Rolling Realms, Nobel Run, Res Arcana, Cascadia, "Tunnels & Trolls", "Scream Aim Fire!", Mini Rogue, Apothecaria]
 imghtml: https://live.staticflickr.com/65535/51309291210_15cfe2f405_b.jpg
 post_desc: "Boletín Informativo Solitario de julio, con todas las novedades,
 lanzamientos, crowdfunding y mucho más"
