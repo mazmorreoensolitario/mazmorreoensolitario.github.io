@@ -3,7 +3,7 @@ layout: post
 title: "Primeras impresiones - Pathfinder Adventure Card Game: Mummy's Mask"
 date:   2019-04-10
 categories: [Primeras impresiones]
-tags: [Pathfinder Adventure Card Game, "Pathfinder Adventure Card Game Mummy's Mask"]
+tags: [Pathfinder Adventure Card Game, "Pathfinder Adventure Card Game: Mummy's Mask"]
 game: "Pathfinder Adventure Card Game: Mummy's Mask"
 imghtml: https://cf.geekdo-images.com/imagepage/img/mKqlGbRXfdh0LUn6tZKTXIVgmV0=/fit-in/900x600/filters:no_upscale()/pic3531593.jpg
 ---

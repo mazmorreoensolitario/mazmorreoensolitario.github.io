@@ -183,6 +183,7 @@ categorías.
                         tag[0] == "White Dog Games" or
                         tag[0] == "Worthington Publishing" or
                         tag[0] == "1985: Deadly Northern Lights" or
+                        tag[0] == "Absolute War! The Russian Front 1941-45" or
                         tag[0] == "Across the Bug River: Volodymyr-Volynskyi 1941" or
                         tag[0] == "Advanced Squad Leader" or
                         tag[0] == "Advanced Squad Leader: Starter Kit" or
@@ -224,7 +225,6 @@ categorías.
                         tag[0] == "Infernal Machine" or
                         tag[0] == "Iron Curtain: Central Europe" or
                         tag[0] == "Lanzerath Ridge" or
-                        tag[0] == "Labyrinth: The Forever War" or
                         tag[0] == "Labyrinth: The War on Terror" or
                         tag[0] == "Less than 60 Miles" or
                         tag[0] == "Men of Iron Battles Tri-pack" or
@@ -242,6 +242,7 @@ categorías.
                         tag[0] == "Port Arthur" or
                         tag[0] == "Rangers of Shadow Deep" or
                         tag[0] == "Red Dust Rebellion" or
+                        tag[0] == "Red Flag Over Paris" or
                         tag[0] == "Red Storm: The Air War Over Central Germany" or
                         tag[0] == "Red Sun Blue Cross" or
                         tag[0] == "Road to Cheren" or
@@ -253,10 +254,12 @@ categorías.
                         tag[0] == "Stargrave" or
                         tag[0] == "Stilicho: Last of the Romans" or
                         tag[0] == "Scream Aim Fire!" or
+                        tag[0] == "Soldiers in Postmen's Uniforms" or
                         tag[0] == "Stalingrad 42" or
                         tag[0] == "That Others May Live" or
                         tag[0] == "The Bell of Treason" or
                         tag[0] == "The Conquistadors" or
+                        tag[0] == "The Dark Summer: Normandy 1944" or
                         tag[0] == "The Dark Valley" or
                         tag[0] == "The Dogs of War" or
                         tag[0] == "The First Jihad" or
