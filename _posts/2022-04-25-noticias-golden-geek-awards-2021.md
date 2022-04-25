@@ -38,9 +38,6 @@ cuando salgan los resultados finales.
 
 Nos ponemos a ello.
 
-<img src="">
-<p><small>Foto de @</small></p>
-
 ### Juego de mesa de peso ligero del año
 
 <div class="row">
