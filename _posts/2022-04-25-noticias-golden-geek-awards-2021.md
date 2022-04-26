@@ -428,7 +428,6 @@ de Kamil 'Sanex' Cieśla, Robert Plesowicz y Łukasz Włodarczyk, y publicado po
     España), es un juego de colocación de trabajadores asimétrico que utiliza
     miniaturas en el que los jugadores tratan de repeler los incesantes ataques
     de las hordas Mongolas controladas por el bot del juego.</p>
-         <p><strong>Comentario.</strong> </p>
     </div>
 </div>
 
@@ -466,7 +465,7 @@ de Alexander Huemer, y publicado por <strong>Capstone Games</strong>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/318184/imperium-classics">Imperium: Classics</a></strong>
 de Nigel Buckle y Dávid Turczi, y publicado por <strong>Osprey Games</strong>
-    (por <strong>Devir</strong> en España), es un juego de construcción de
+    (próximamente por <strong>Devir</strong> en España), es un juego de construcción de
     mazos ambientado en las diferentes naciones que formaron parte de la
     historia de la antigüedad. Tu objetivo será ganar a otra nación en un duelo
     por puntos de victoria en el que ganarás puntos cuando mejores tu nación y
