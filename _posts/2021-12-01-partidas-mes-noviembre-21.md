@@ -202,7 +202,7 @@ PDF de **Death In Space**, del que os hablaré más abajo.
 <img height=""
 src="https://ksr-ugc.imgix.net/assets/032/814/392/6f53d1c6766a0aea3ed5e5b5ff749190_original.png?ixlib=rb-4.0.2&w=680&fit=max&v=1616266099&auto=format&gif-q=50&lossless=true&s=8e12518a76f86525752e4b89a8a578d9"></p>
 
-**Death In Space** es un juego de rol de temática espacial ambientado en el
+**[Death In Space](https://www.drivethrurpg.com/product/377188/Death-in-Space-Core-Rules??affiliate_id=1914894)** es un juego de rol de temática espacial ambientado en el
 sistema Tenebris, un sistema recóndito que fue una pieza central en la guerra
 de las Gemas, donde grandes corporaciones se enfrentaron por controlar este
 recurso. La guerra ha terminado hace ya diez años y ha acarreado graves

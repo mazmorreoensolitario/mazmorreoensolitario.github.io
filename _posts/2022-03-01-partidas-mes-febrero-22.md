@@ -323,7 +323,7 @@ planificar partidas, llevamos así un mes.
 <img height=""
 src="https://ksr-ugc.imgix.net/assets/032/814/392/6f53d1c6766a0aea3ed5e5b5ff749190_original.png?ixlib=rb-4.0.2&w=680&fit=max&v=1616266099&auto=format&gif-q=50&lossless=true&s=8e12518a76f86525752e4b89a8a578d9"></p>
 
-Este mes me ha llegado mi copia en físico de **Death In Space**
+Este mes me ha llegado mi copia en físico de **[Death In Space](https://www.drivethrurpg.com/product/377188/Death-in-Space-Core-Rules??affiliate_id=1914894)**
 ([Kickstarter](https://www.kickstarter.com/projects/cnibl/death-in-space)), un
 juego de rol de temática espacial con toques de terror del que os
 hablé en [noviembre
