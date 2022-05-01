@@ -246,6 +246,7 @@ categorías.
                         tag[0] == "Red Storm: The Air War Over Central Germany" or
                         tag[0] == "Red Sun Blue Cross" or
                         tag[0] == "Road to Cheren" or
+                        tag[0] == "Salerno 43" or
                         tag[0] == "Santander 37" or
                         tag[0] == "Schnell Boats: Scourge of the English Channel" or 
                         tag[0] == "Shiloh 1862" or
@@ -269,6 +270,7 @@ categorías.
                         tag[0] == "The Last Hundred Yards" or
                         tag[0] == "The Last Hundred Yards: Airborne Over Europe" or
                         tag[0] == "The Last Hundred Yards: The Russian Front" or
+                        tag[0] == "The Last Hundred Yards: The Solomon Islands" or
                         tag[0] == "The Mission" or
                         tag[0] == "The Plum Island Horror" or
                         tag[0] == "The Pure Land" or
