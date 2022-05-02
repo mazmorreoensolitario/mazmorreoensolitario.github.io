@@ -899,6 +899,8 @@ de David Thompson y Trevor Nemjamin, y publicado por <strong>Osprey
 
 ### Mejor juego cooperativo del año
 
+El ganador de esta categoría no puede jugarse en solitario.
+
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
