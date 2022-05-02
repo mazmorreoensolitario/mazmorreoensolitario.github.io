@@ -46,7 +46,7 @@ print & play que puedo recomendar:
 
 <div class="col-md-12">
 <div class="col-md-8">
-{% assign sorted-posts = site.posts | where: "categories", "Print & Play" %}
+{% assign sorted-posts = site.posts | where: "categories", "Print & play" %}
 {% assign sorted = sorted-posts | sort: 'game' %}
 {% for post in sorted  %}
 <div class="image-container">
