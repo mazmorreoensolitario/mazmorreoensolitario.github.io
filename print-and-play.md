@@ -46,17 +46,14 @@ print & play que puedo recomendar:
 
 <div class="col-md-12">
 <div class="col-md-8">
-{% for category in site.categories %}
-{% if category[0] == "Print & play" %}
-{% assign sorted = category[1] | sort: 'game' %}
+{% assign sorted-posts = site.posts | where: "categories", "Print & Play" %}
+{% assign sorted = sorted-posts | sort: 'game' %}
 {% for post in sorted  %}
 <div class="image-container">
 <a href="{{site.url}}{{post.url}}">
 <img class="crop-sidebar" src="{{post.imghtml}}">
 <div class="text-block"><h5>{{post.game | truncate: 40}}</h5></div></a>
 </div>
-{% endfor %}
-{% endif %}
 {% endfor %}
 </div>
 </div>

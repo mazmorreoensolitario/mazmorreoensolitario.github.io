@@ -44,24 +44,6 @@ La escala es la siguiente:
 empezar por estos. <strong>Son 
 juegos ideales que te puedo recomendar sin ninguna duda.</strong></p>
 
-<div class="col-md-8">
-{% for category in site.categories %}
-{% if category[0] == "Análisis" %}
-    {% assign sorted = category[1] | sort: 'game' %}
-    {% for post in sorted %}
-        {% if post.score and post.score == 5 %}
-            <div class="image-container">
-                <a href="{{site.url}}{{post.url}}">
-                    <img class="crop-sidebar" src="{{post.imghtml}}">
-                    <div class="text-block"><h5>{{post.game}}</h5></div>
-                </a>
-            </div>
-        {% endif %}
-    {% endfor %}
-{% endif %}
-{% endfor %}
-</div>
-
 <div class="col-md-12">
 <p><i>(actualmente me encuentro en búsqueda del juego ideal, no sé aún si
 existe)</i></p>
@@ -76,11 +58,10 @@ partida, y si no puedes volver a jugar acto seguido, es por Una Causa
 Mayor. También <strong>te los recomiendo sin dudas.</strong></p>
 
 <div class="col-md-8">
-{% for category in site.categories %}
-{% if category[0] == "Análisis" %}
-    {% assign sorted = category[1] | sort: 'game' %}
-    {% for post in sorted %}
-        {% if post.score and post.score == 4.5 %}
+{% assign sorted-posts = site.posts | where: "categories","Análisis" %}
+{% assign sorted = sorted-posts | sort: 'game' %}
+{% for post in sorted %}
+    {% if post.score and post.score == 4.5 %}
             <div class="image-container">
                 <a href="{{site.url}}{{post.url}}">
                     <img class="crop-sidebar" src="{{post.imghtml}}">
@@ -88,8 +69,6 @@ Mayor. También <strong>te los recomiendo sin dudas.</strong></p>
                 </a>
             </div>
         {% endif %}
-    {% endfor %}
-{% endif %}
 {% endfor %}
 </div>
 </div>
@@ -101,11 +80,10 @@ Juegos muy muy buenos, también quiero jugar otra vez según he terminado la
 partida, pero a lo mejor no en el mismo día. <strong>Recomendados.</strong></p>
 
 <div class="col-md-8">
-{% for category in site.categories %}
-{% if category[0] == "Análisis" %}
-    {% assign sorted = category[1] | sort: 'game' %}
-    {% for post in sorted %}
-        {% if post.score and post.score == 4 %}
+{% assign sorted-posts = site.posts | where: "categories","Análisis" %}
+{% assign sorted = sorted-posts | sort: 'game' %}
+{% for post in sorted %}
+    {% if post.score and post.score == 4 %}
             <div class="image-container">
                 <a href="{{site.url}}{{post.url}}">
                     <img class="crop-sidebar" src="{{post.imghtml}}">
@@ -113,8 +91,6 @@ partida, pero a lo mejor no en el mismo día. <strong>Recomendados.</strong></p>
                 </a>
             </div>
         {% endif %}
-    {% endfor %}
-{% endif %}
 {% endfor %}
 </div>
 </div>
@@ -129,11 +105,10 @@ jugarlos. <strong>Solamente los recomiendo si algún aspecto del juego te llama 
 atención.</strong></p>
 
 <div class="col-md-8">
-{% for category in site.categories %}
-{% if category[0] == "Análisis" %}
-    {% assign sorted = category[1] | sort: 'game' %}
-    {% for post in sorted %}
-        {% if post.score and post.score == 3.5 %}
+{% assign sorted-posts = site.posts | where: "categories","Análisis" %}
+{% assign sorted = sorted-posts | sort: 'game' %}
+{% for post in sorted %}
+    {% if post.score and post.score == 3.5 %}
             <div class="image-container">
                 <a href="{{site.url}}{{post.url}}">
                     <img class="crop-sidebar" src="{{post.imghtml}}">
@@ -141,8 +116,6 @@ atención.</strong></p>
                 </a>
             </div>
         {% endif %}
-    {% endfor %}
-{% endif %}
 {% endfor %}
 </div>
 </div>
@@ -154,11 +127,10 @@ puedo decir que me gustan. Son los que menos saco a la mesa, también son
 *estacionales* (mira qué es esto en la descripción de la categoría superior).</p>
 
 <div class="col-md-8">
-{% for category in site.categories %}
-{% if category[0] == "Análisis" %}
-    {% assign sorted = category[1] | sort: 'game' %}
-    {% for post in sorted %}
-        {% if post.score and post.score == 3 %}
+{% assign sorted-posts = site.posts | where: "categories","Análisis" %}
+{% assign sorted = sorted-posts | sort: 'game' %}
+{% for post in sorted %}
+    {% if post.score and post.score == 3 %}
             <div class="image-container">
                 <a href="{{site.url}}{{post.url}}">
                     <img class="crop-sidebar" src="{{post.imghtml}}">
@@ -166,8 +138,6 @@ puedo decir que me gustan. Son los que menos saco a la mesa, también son
                 </a>
             </div>
         {% endif %}
-    {% endfor %}
-{% endif %}
 {% endfor %}
 </div>
 </div>
@@ -179,11 +149,10 @@ pegas, y como dice el título, son entretenidos, pero no me enganchan y salvo
 que se cambie algo en el juego, dudo que repita.</p>
 
 <div class="col-md-8">
-{% for category in site.categories %}
-{% if category[0] == "Análisis" %}
-    {% assign sorted = category[1] | sort: 'game' %}
-    {% for post in sorted %}
-        {% if post.score and post.score == 2.5 %}
+{% assign sorted-posts = site.posts | where: "categories","Análisis" %}
+{% assign sorted = sorted-posts | sort: 'game' %}
+{% for post in sorted %}
+    {% if post.score and post.score == 2.5 %}
             <div class="image-container">
                 <a href="{{site.url}}{{post.url}}">
                     <img class="crop-sidebar" src="{{post.imghtml}}">
@@ -191,8 +160,6 @@ que se cambie algo en el juego, dudo que repita.</p>
                 </a>
             </div>
         {% endif %}
-    {% endfor %}
-{% endif %}
 {% endfor %}
 </div>
 </div>
@@ -204,11 +171,10 @@ mayores que a los de la categoría anterior y hasta me pueden llegar a parecer
 aburridos.</p>
 
 <div class="col-md-8">
-{% for category in site.categories %}
-{% if category[0] == "Análisis" %}
-    {% assign sorted = category[1] | sort: 'game' %}
-    {% for post in sorted %}
-        {% if post.score and post.score == 2 %}
+{% assign sorted-posts = site.posts | where: "categories","Análisis" %}
+{% assign sorted = sorted-posts | sort: 'game' %}
+{% for post in sorted %}
+    {% if post.score and post.score == 2 %}
             <div class="image-container">
                 <a href="{{site.url}}{{post.url}}">
                     <img class="crop-sidebar" src="{{post.imghtml}}">
@@ -216,8 +182,6 @@ aburridos.</p>
                 </a>
             </div>
         {% endif %}
-    {% endfor %}
-{% endif %}
 {% endfor %}
 </div>
 </div>
@@ -230,11 +194,10 @@ que prefiero hacer alguna otra actividad de ocio antes que jugar a estos
 juegos, no conectan conmigo.</p>
 
 <div class="col-md-8">
-{% for category in site.categories %}
-{% if category[0] == "Análisis" %}
-    {% assign sorted = category[1] | sort: 'game' %}
-    {% for post in sorted %}
-        {% if post.score and post.score == 1.5 %}
+{% assign sorted-posts = site.posts | where: "categories","Análisis" %}
+{% assign sorted = sorted-posts | sort: 'game' %}
+{% for post in sorted %}
+    {% if post.score and post.score == 1.5 %}
             <div class="image-container">
                 <a href="{{site.url}}{{post.url}}">
                     <img class="crop-sidebar" src="{{post.imghtml}}">
@@ -242,8 +205,6 @@ juegos, no conectan conmigo.</p>
                 </a>
             </div>
         {% endif %}
-    {% endfor %}
-{% endif %}
 {% endfor %}
 </div>
 </div>
@@ -251,30 +212,12 @@ juegos, no conectan conmigo.</p>
 <p></p>
 <h3> 1 moneda</h3>
 <div class="col-md-12">
-<p>
-<strong>Definitivamente, prefiero hacer otra cosa.</strong> Espero no jugar a ningún juego
-de esta categoría y darme cuenta antes de jugarlo que no es lo mio.</p>
+    <p>
+    <strong>Definitivamente, prefiero hacer otra cosa.</strong> Espero no jugar a ningún juego
+    de esta categoría y darme cuenta antes de jugarlo que no es lo mio.</p>
+    <p><i>(de momento no he jugado a ninguno de estos, existen, pero evito
+    jugarlos)</i></p>
 
-<p><i>(de momento no he jugado a ninguno de estos, existen, pero evito
-jugarlos)</i></p>
-
-<div class="col-md-8">
-{% for category in site.categories %}
-{% if category[0] == "Análisis" %}
-    {% assign sorted = category[1] | sort: 'game' %}
-    {% for post in sorted %}
-        {% if post.score and post.score == 1 %}
-            <div class="image-container">
-                <a href="{{site.url}}{{post.url}}">
-                    <img class="crop-sidebar" src="{{post.imghtml}}">
-                    <div class="text-block"><h5>{{post.game}}</h5></div>
-                </a>
-            </div>
-        {% endif %}
-    {% endfor %}
-{% endif %}
-{% endfor %}
-</div>
 </div>
 
 ## Primeras impresiones
@@ -284,9 +227,8 @@ tendrán un análisis del mismo:
 
 <div class="col-md-12">
 <div class="col-md-8">
-{% for category in site.categories %}
-{% if category[0] == "Primeras impresiones" %}
-    {% assign sorted = category[1] | sort: 'game' %}
+{% assign sorted-posts = site.posts | where: "categories", "Primeras impresiones" %}
+{% assign sorted = sorted-posts | sort: 'game' %}
     {% for post in sorted %}
         <div class="image-container">
             <a href="{{site.url}}{{post.url}}">
@@ -295,8 +237,6 @@ tendrán un análisis del mismo:
             </a>
         </div>
     {% endfor %}
-{% endif %}
-{% endfor %}
 </div>
 </div>
 <div class="col-md-12"><h1></h1></div>
@@ -310,9 +250,8 @@ aún no está en su versión final:
 
 <div class="col-md-12">
 <div class="col-md-8">
-{% for category in site.categories %}
-{% if category[0] == "Demos" %}
-    {% assign sorted = category[1] | sort: 'game' %}
+{% assign sorted-posts = site.posts | where: "categories", "Demos" %}
+{% assign sorted = sorted-posts | sort: 'game' %}
     {% for post in sorted %}
         <div class="image-container">
             <a href="{{site.url}}{{post.url}}">
@@ -321,8 +260,6 @@ aún no está en su versión final:
             </a>
         </div>
     {% endfor %}
-{% endif %}
-{% endfor %}
 </div>
 </div>
 <div class="col-md-12"><h1></h1></div>
@@ -331,14 +268,12 @@ aún no está en su versión final:
 
 Aquí os presento brevemente algunos juegos:
 
-{% for category in site.categories %}
-{% if category[0] == "Ojeando" %}
+{% assign sorted-posts = site.posts | where: "categories", "Ojeando" %}
+{% assign sorted = sorted-posts | sort: 'game' %}
 <ul>
-{% for post in category[1] %}
+{% for post in sorted %}
 <li>
     <a href="{{ post.url }}">{{ post.title }}.</a>
 </li>
 {% endfor %}
 </ul>
-{% endif %}
-{% endfor %}

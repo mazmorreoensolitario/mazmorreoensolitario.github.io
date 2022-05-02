@@ -35,9 +35,8 @@ Guía introductoria sobre qué es el rol en solitario y cómo empezar a jugar:
 
 <div class="col-md-12">
 <div class="col-md-8">
-{% for category in site.categories %}
-{% if category[0] == "Rol" %}
-    {% assign sorted = category[1] | sort: 'book' %}
+{% assign sorted-posts = site.posts | where: "categories", "Rol" %}
+{% assign sorted = sorted-posts | sort: 'book' %}
     {% for post in sorted %}
         {% if post.book %}
             <div class="image-container">
@@ -48,8 +47,6 @@ Guía introductoria sobre qué es el rol en solitario y cómo empezar a jugar:
             </div>
         {% endif %}
     {% endfor %}
-{% endif %}
-{% endfor %}
 </div>
 </div>
 
