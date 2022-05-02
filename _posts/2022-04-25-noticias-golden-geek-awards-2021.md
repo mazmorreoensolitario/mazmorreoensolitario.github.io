@@ -14,9 +14,6 @@ info de cada juego jugable en solitario y algunos de mis comentarios."
 
 <hr>
 
-<div class="alert alert-warning" role="alert">
-            <strong>¡Juego del año!</strong></div>
-
 Volvemos a esa época del año en la que se abren las
 **[nominaciones](https://boardgamegeek.com/thread/2854374/16th-annual-golden-geek-awards-nominees-announced)
 del os Premios Golden Geek** :)
