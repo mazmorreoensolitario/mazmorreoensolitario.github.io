@@ -14,6 +14,9 @@ info de cada juego jugable en solitario y algunos de mis comentarios."
 
 <hr>
 
+<div class="alert alert-warning" role="alert">
+            <strong>¡Juego del año!</strong></div>
+
 Volvemos a esa época del año en la que se abren las
 **[nominaciones](https://boardgamegeek.com/thread/2854374/16th-annual-golden-geek-awards-nominees-announced)
 del os Premios Golden Geek** :)
@@ -48,6 +51,8 @@ Nos ponemos a ello.
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3Ou6Zil">Canvas</a></h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/290236/canvas">Canvas</a></strong>
 de Jeff Chin y Andrew Nerger, y publicado por <strong>Road To Infamy
@@ -75,6 +80,8 @@ de Jeff Chin y Andrew Nerger, y publicado por <strong>Road To Infamy
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3vIv9N9">Cascadia</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego de mesa de peso ligero del año!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/295947/cascadia">Cascadia</a></strong>
 de Randy Flynn, y publicado por <strong>Flatout Games</strong> (por
@@ -191,6 +198,8 @@ de Molly Johnson, Shawn Stankewich y Robert Melvin, y publicado por
 
 ### Juego de mesa de peso medio del año
 
+El ganador de esta categoría no puede jugarse en solitario.
+
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
@@ -268,7 +277,11 @@ de Jay Cormier y Sen-Foong Lim, y publicado por <strong>Off the Page
         class="img-thumbnail" alt="Sleeping Gods">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping Gods</a></h4>
+        <h4><a
+    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping
+    Gods</a></h4>
+    <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/255984/sleeping-gods">Sleeping Gods</a></strong>
 de Ryan Laukat, y publicado por su editorial, <strong>Red Raven Games</strong> (por
@@ -295,7 +308,11 @@ de Ryan Laukat, y publicado por su editorial, <strong>Red Raven Games</strong> (
         class="img-thumbnail" alt="Terraforming Mars: Ares Expedition">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://zacatrus.es/terraforming-mars-expedicion-ares.html#u97">Terraforming Mars: Ares Expedition / Expedición Ares</a></h4>
+        <h4><a
+    href="https://zacatrus.es/terraforming-mars-expedicion-ares.html#u97">Terraforming
+    Mars: Ares Expedition / Expedición Ares</a></h4>
+    <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/328871/terraforming-mars-ares-expedition">Terraforming
     Mars: Ares Expedition</a></strong> 
@@ -327,6 +344,8 @@ de Jacob Fryxelius, Nick Little y Sydney Engelstein, y publicado por
     </div>
     <div class="col-md-9">
         <h4><a href="https://zacatrus.es/ark-nova.html#u97">Ark Nova</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego de mesa de peso duro del año!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/342942/ark-nova">Ark Nova</a></strong>
 de Mathias Wigge, y publicado por <strong>Feuerland Spiele</strong> (por
@@ -462,6 +481,8 @@ de Alexander Huemer, y publicado por <strong>Capstone Games</strong>
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/37BKZS2">Imperium: Classics</a></h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/318184/imperium-classics">Imperium: Classics</a></strong>
 de Nigel Buckle y Dávid Turczi, y publicado por <strong>Osprey Games</strong>
@@ -500,7 +521,11 @@ de Nigel Buckle y Dávid Turczi, y publicado por <strong>Osprey Games</strong>
         class="img-thumbnail" alt="Oath: Chronicles of Empire and Exile">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447-11">Oath: Chronicles of Empire and Exile</a></h4>
+        <h4><a
+    href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447-11">Oath:
+    Chronicles of Empire and Exile</a></h4>
+    <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/291572/oath-chronicles-empire-and-exile">Oath:
     Chronicles of Empire and Exile</a></strong> 
@@ -562,6 +587,8 @@ de Steven Aramini, Danny Devine y Paul Kluka, y publicado por <strong>Button
     </div>
     <div class="col-md-9">
         <h4><a href="https://zacatrus.es/ark-nova.html#u97">Ark Nova</a></h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p>Tienes toda la info de este juego más arriba, en la sección de <i>Juego
     de mesa de peso duro del año</i>.</p>
     </div>
@@ -608,7 +635,11 @@ de Mac Gerdts, y publicado por <strong>PD-Verlag</strong>, es una expansión que
         class="img-thumbnail" alt="Final Girl">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/van-ryder-games/106473-final-girl-core-box-850024976016.html#ae447-11">Final Girl</a></h4>
+        <h4><a
+    href="https://www.philibertnet.com/en/van-ryder-games/106473-final-girl-core-box-850024976016.html#ae447-11">Final
+    Girl</a></h4>
+    <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego en solitario del año!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/277659/final-girl">Final Girl</a></strong>
     de Evan Derrick, A. J. Porfirio, y publicado por <strong>Van Ryder
@@ -667,7 +698,11 @@ de Mac Gerdts, y publicado por <strong>PD-Verlag</strong>, es una expansión que
         class="img-thumbnail" alt="Sleeping Gods">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping Gods</a></h4>
+        <h4><a
+    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping
+    Gods</a></h4>
+    <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p>Tienes toda la info de este juego más arriba, en la sección de <i>Juego
     de mesa de peso medio del año</i>.</p>
     </div>
@@ -747,6 +782,8 @@ de David Thompson, y publicado por <strong>Dan Versen Games</strong>, es un warg
     </div>
     <div class="col-md-9">
         <h4>Atlantic Chase</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
          href="https://boardgamegeek.com/boardgame/251747/atlantic-chase">Atlantic Chase</a></strong>
      de Jeremy White, y publicado por <strong>GMT Games</strong>,  es un juego
@@ -794,7 +831,11 @@ de Ted Raicer, y publicado por <strong>GMT Games</strong>, es un juego de la
         class="img-thumbnail" alt="Red Flag Over Paris">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/106040-red-flag-over-paris-817054012251.html#ae447-11">Red Flag Over Paris</a></h4>
+        <h4><a
+    href="https://www.philibertnet.com/en/gmt/106040-red-flag-over-paris-817054012251.html#ae447-11">Red
+    Flag Over Paris</a></h4>
+    <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
      href="https://boardgamegeek.com/boardgame/296577/red-flag-over-paris">Red Flag Over Paris</a></strong>
     de Fred Serval, y publicado por <strong>GMT Games</strong>, es un juego que
@@ -829,7 +870,10 @@ de Ted Raicer, y publicado por <strong>GMT Games</strong>, es un juego de la
         class="img-thumbnail" alt="Undaunted: Reinforcements">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://amzn.to/37BJvHs">Undaunted: Reinforcements</a></h4>
+        <h4><a href="https://amzn.to/37BJvHs">Undaunted:
+    Reinforcements</a></h4>
+    <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor wargame del año!</strong></div>
          <p><strong><a
      href="https://boardgamegeek.com/boardgameexpansion/313441/undaunted-reinforcements">Undaunted: Reinforcements</a></strong>
 de David Thompson y Trevor Nemjamin, y publicado por <strong>Osprey
@@ -976,7 +1020,10 @@ de Corey Konieczka, y publicado por <strong>Unexpected Games</strong> (por
         class="img-thumbnail" alt="MicroMacro: Crime City – Full House">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://amzn.to/3kabErw">MicroMacro: Crime City – Full House</a></h4>
+        <h4><a href="https://amzn.to/3kabErw">MicroMacro: Crime City – Full
+    House</a></h4>
+    <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p>Tienes toda la info de este juego más arriba, en la sección de <i>Juego
          de mesa de peso ligero del año</i>.</p>
     </div>
@@ -1013,7 +1060,11 @@ de Malachi Ray Rempen, y publicado por <strong>Keen Bean Studio</strong>
         class="img-thumbnail" alt="Sleeping Gods">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping Gods</a></h4>
+        <h4><a
+    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping
+    Gods</a></h4>
+    <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p>Tienes toda la info de este juego más arriba, en la sección de <i>Juego
         de mesa de peso medio del año</i>.</p>
     </div>
@@ -1060,7 +1111,11 @@ de Michał Gołębiowski, Filip Miłuński, y publicado por <strong>Lucky Duck
         class="img-thumbnail" alt="Final Girl">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/van-ryder-games/106473-final-girl-core-box-850024976016.html#ae447-11">Final Girl</a></h4>
+        <h4><a
+    href="https://www.philibertnet.com/en/van-ryder-games/106473-final-girl-core-box-850024976016.html#ae447-11">Final
+    Girl</a></h4>
+    <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p>Tienes toda la info de este juego más arriba, en la sección de
      <i>Mejor juego en solitario</i>.</p>
     </div>
@@ -1106,7 +1161,11 @@ de Adam Kwapiński, y publicado por <strong>Awaken Realms</strong> (también por
         class="img-thumbnail" alt="Oath: Chronicles of Empire and Exile">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447-11">Oath: Chronicles of Empire and Exile</a></h4>
+        <h4><a
+    href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447-11">Oath:
+    Chronicles of Empire and Exile</a></h4>
+    <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p>Tienes toda la info de este juego más arriba, en la sección de <i>Juego
         de mesa de peso duro del año</i>.</p>
     </div>
@@ -1132,7 +1191,11 @@ de Adam Kwapiński, y publicado por <strong>Awaken Realms</strong> (también por
         class="img-thumbnail" alt="Sleeping Gods">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping Gods</a></h4>
+        <h4><a
+    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping
+    Gods</a></h4>
+    <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego temático del año!</strong></div>
          <p>Tienes toda la info de este juego más arriba, en la sección de <i>Juego
     de mesa de peso medio del año</i>.</p>
     </div>
@@ -1140,6 +1203,8 @@ de Adam Kwapiński, y publicado por <strong>Awaken Realms</strong> (también por
 
 ### Mejor juego de dos jugadores del año
 
+En esta categoría tanto los subcampeones como el ganador no tienen modo en
+solitario.
 
 <div class="row">
     <div class="col-md-3">
@@ -1247,6 +1312,8 @@ de Adam Kwapiński, y publicado por <strong>Awaken Realms</strong> (también por
     </div>
     <div class="col-md-9">
         <h4>Gloomholdin'</h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego print & play del año!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/340909/gloomholdin">Gloomholdin'</a></strong>
         de Joe Klipfel, es una versión de 18 cartas de <a
@@ -1265,6 +1332,8 @@ de Adam Kwapiński, y publicado por <strong>Awaken Realms</strong> (también por
     </div>
     <div class="col-md-9">
         <h4>Grim(m) World: First Steps</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/317402/grimm-world-first-steps">Grim(m) World: First Steps</a></strong>
 de Raoul Schaupp, es un juego de mundo abierto ambientado en el mundo de los
@@ -1285,6 +1354,8 @@ de Raoul Schaupp, es un juego de mundo abierto ambientado en el mundo de los
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3va6jXs">Concordia: Solitaria</a></h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p>Tienes toda la info de este juego más arriba, en la sección de
         <i>Mejor juego en solitario</i>.</p>
     </div>
@@ -1318,6 +1389,8 @@ de Raoul Schaupp, es un juego de mundo abierto ambientado en el mundo de los
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/czech-games-edition/103747-lost-ruins-of-arnak-expeditions-leaders-8594156310639.html#ae447-11">Lost Ruins of Arnak: Expedition Leaders / Las Ruinas
     Perdidas de Arnak: Líderes de la Expedición</a></h4>
+    <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor expansión del año!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/341254/lost-ruins-arnak-expedition-leaders">Lost
     Ruins of Arnak: Expedition Leaders</a></strong> 
@@ -1399,7 +1472,10 @@ de Shem Phillips y S J Macdonald, y publicado por <strong>Garphill
         class="img-thumbnail" alt="PARKS: Nightfall">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://zacatrus.es/parks-nightfall.html#u97">PARKS: Nightfall</a></h4>
+        <h4><a href="https://zacatrus.es/parks-nightfall.html#u97">PARKS:
+    Nightfall</a></h4>
+    <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/298729/parks-nightfall">PARKS: Nightfall</a></strong>
     de Mattox Shuler, y publicado por <strong>Keymaster Games</strong> (por
@@ -1460,6 +1536,8 @@ de Shem Phillips y S J Macdonald, y publicado por <strong>Garphill
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3Ou6Zil">Canvas</a></h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p>Tienes toda la info de este juego más arriba, en la sección de
     <i>Juego de mesa de peso ligero del año</i>.</p>
     </div>
@@ -1512,7 +1590,11 @@ de Shem Phillips y S J Macdonald, y publicado por <strong>Garphill
         class="img-thumbnail" alt="Oath: Chronicles of Empire and Exile">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447-11">Oath: Chronicles of Empire and Exile</a></h4>
+        <h4><a
+    href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447-11">Oath:
+    Chronicles of Empire and Exile</a></h4>
+    <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p>Tienes toda la info de este juego más arriba, en la sección de <i>Juego
         de mesa de peso duro del año</i>.</p>
     </div>
@@ -1525,7 +1607,11 @@ de Shem Phillips y S J Macdonald, y publicado por <strong>Garphill
         class="img-thumbnail" alt="Sleeping Gods">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping Gods</a></h4>
+        <h4><a
+    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping
+    Gods</a></h4>
+    <div class="alert alert-warning" role="alert">
+            <strong>¡Juego con mejor arte/presentación del año!</strong></div>
          <p>Tienes toda la info de este juego más arriba, en la sección de <i>Juego
     de mesa de peso medio del año</i>.</p>
     </div>
@@ -1554,6 +1640,8 @@ de Shem Phillips y S J Macdonald, y publicado por <strong>Garphill
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3Ou6Zil">Canvas</a></h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p>Tienes toda la info de este juego más arriba, en la sección de
     <i>Juego de mesa de peso ligero del año</i>.</p>
     </div>
@@ -1627,7 +1715,11 @@ de Carl Van Ostrand, Jonny Pac y Drake Villareal, y publicado por <strong>Final
         class="img-thumbnail" alt="Oath: Chronicles of Empire and Exile">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447-11">Oath: Chronicles of Empire and Exile</a></h4>
+        <h4><a
+    href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447-11">Oath:
+    Chronicles of Empire and Exile</a></h4>
+    <div class="alert alert-warning" role="alert">
+            <strong>¡Juego más innovador del año!</strong></div>
         <p>Tienes toda la info de este juego más arriba, en la sección de <i>Juego
         de mesa de peso duro del año</i>.</p>
     </div>
@@ -1640,7 +1732,11 @@ de Carl Van Ostrand, Jonny Pac y Drake Villareal, y publicado por <strong>Final
         class="img-thumbnail" alt="Sleeping Gods">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping Gods</a></h4>
+        <h4><a
+    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping
+    Gods</a></h4>
+    <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p>Tienes toda la info de este juego más arriba, en la sección de <i>Juego
     de mesa de peso medio del año</i>.</p>
     </div>
@@ -1681,6 +1777,30 @@ categoría de ligero, en peso medio creo que puede ganar **Sleeping Gods** o
 **Terraforming Mars: Expedición Ares**, pero me decanto más por el primero, y
 en el peso pesado creo que ganará **Ark Nova** sin despeinarse. Ya veremos lo
 que ocurre :)
+
+### Tras los resultados
+
+¡He acertado 2/3! **Cascadia** en juego ligero y **Ark Nova** en pesado, ni tan
+mal, en la categoría de peso medio he fallado completamente, pensaba que
+**Terraforming Mars: Expedicón Ares** ó **Sleeping Gods** (más este último),
+pero nada de nada, al final el nuevo de **The Crew**... 
+
+La sorpresa gorda ha sido que el **Undaunted: Reinforcements** haya ganado el
+premio a mejor wargame *facepalm*... por eso los Golden Geek son siempre tan
+divertidos. Yo ya ponía caras raras cuando había aparecido en esa categoría,
+pero no pensaba que fuera a más, y me vuelven a sorprender otro año. Una pena
+por el **Atlantic Chase** que es el que yo pensaba que iba a tener más
+posibilidades este año.
+
+Otro punto interesante es que **Sleeping Gods** ha ganado a **Oath: Chronicles
+of Empire and Exile** en mejor arte/presentación, yo pensaba sinceramente que
+**Oath** iba a desbancar a todos clarisimamente, pero no. 
+
+Finalmente **Final Girl** como mejor juego en solitario me ha sorprendido
+también, como os he comentado arriba no es un juego que me llame la atención
+porque el tema no me gusta nada de nada, y evidentemente sigo pensando lo
+mismo.
+
 
 <hr>
 

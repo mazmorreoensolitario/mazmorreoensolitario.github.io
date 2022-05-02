@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Imperium: Classics"
 date:   2021-08-31
 categories: [Análisis]
-tags: ["Imperium: Classics", "Imperium: Legends", UKGE Awards]
+tags: ["Imperium: Classics", "Imperium: Legends", UKGE Awards, Golden Geek]
 imghtml: https://cf.geekdo-images.com/MN0OvKejfrfwD6bupQHp4g__imagepage/img/_KBieU1eKYBaokeNGgDva0cThxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5623566.jpg
 score: 3
 crop: true
