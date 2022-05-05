@@ -21,7 +21,7 @@ extinguido hace casi una década, juegos de viaje y rol.
 Y al final del todo la tradicional sección con los **Premios Juego del Mes**.
 
 ## Juegos de mesa
-
+ 
 Este ha sido un mes raro para los juegos de mesa, estaba la Semana Santa de por
 medio y yo iba a ir a hacer turismo al sur y antes de eso he tenido unos fines
 de semana complicados, y otros compromisos, así que he jugado a poca cantidad
@@ -42,7 +42,7 @@ Borderlands](https://mazmorreoensolitario.com/2022/03/31/noticias-boletin-marzo-
 más adelante, así que he estado montando minis de enemigos para Rangers y
 leyéndome las reglas del juego.
 
-A mediados de e abril me llegó finalmente mi pedido de **GMT Games** con
+A mediados de abril me llegó finalmente mi pedido de **GMT Games** con
 **Salerno '43**  y **The Last Hundred Yards: The Solomon Islands**, y para mi
 sorpresa, aún no se ha dignado a aparecer mi reserva de **Ark Nova** (en
 inglés)... Creo que habrán liado algo con el distribuidor porque ya he visto
@@ -177,7 +177,7 @@ escenario que son solamente 8 turnos.
 </div>
 
 Empecé con el setup un viernes pensando que iba a empezar a jugarlo el sábado a
-la mañana, ya que con **Ardennes '43** el setup es bastante largo y tedioso, y
+la mañana, ya que con **Ardennes '44** el setup es bastante largo y tedioso, y
 me sorprendió enormemente haber terminado el setup tan rápido, como que no
 tengo aún interiorizado que los juegos de Simonitch puedan ser rápidos de
 preparar. **Salerno '43** es un *outlier*.
