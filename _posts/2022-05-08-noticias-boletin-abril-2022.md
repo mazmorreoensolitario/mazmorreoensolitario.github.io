@@ -95,7 +95,7 @@ para el próximo mes de **mayo** en **Kickstarter**, **Gamefound**,
 
 ## Juegos de mesa
 
-Emepezamos el **Boletín de con el resumen de abril de 2022** con noticias sobre
+Empezamos el **Boletín de con el resumen de abril de 2022** con noticias sobre
 juegos de mesa:
 
 <p align="center">
