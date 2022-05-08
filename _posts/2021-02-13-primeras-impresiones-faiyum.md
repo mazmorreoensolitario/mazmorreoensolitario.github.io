@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Primeras impresiones - Faiyum"
+title: "Primeras impresiones - Faiyum / Fayún"
 date:   2021-02-13
 categories: [Primeras impresiones]
 tags: [Faiyum, Fayún, Spiel Digital, Golden Geek]
