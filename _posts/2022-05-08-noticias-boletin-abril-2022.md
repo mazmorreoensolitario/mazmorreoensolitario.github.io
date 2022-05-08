@@ -42,16 +42,19 @@ para el próximo mes de **mayo** en **Kickstarter**, **Gamefound**,
 **5 de mayo** 
 * [Age of Steam Deluxe: Expansion Volumes I, II &
   III](https://boardgamegeek.com/boardgame/4098/age-steam): en
-  [Kickstarter](https://www.kickstarter.com/projects/eaglegryphon/age-of-steam-deluxe-expansion-volumes-i-ii-and-iii?ref=bggforums) 
+  [Kickstarter](https://www.kickstarter.com/projects/eaglegryphon/age-of-steam-deluxe-expansion-volumes-i-ii-and-iii?ref=mazmorreoensolitario) 
 
 **10 de mayo**
+* [Battlecrest](https://boardgamegeek.com/boardgame/339532/battlecrest-fellwoods-base-set):
+  en
+  [Kickstarter](https://www.kickstarter.com/projects/239309591/battlecrest?ref=mazmorreoensolitario) 
 * [Tiny Epic
   Vikings](https://boardgamegeek.com/boardgame/360896/tiny-epic-vikings): en
-  [Kickstarter](https://www.kickstarter.com/projects/coe/tiny-epic-vikings?ref=bggforums) 
+  [Kickstarter](https://www.kickstarter.com/projects/coe/tiny-epic-vikings?ref=mazmorreoensolitario) 
 * [Trailblazer: the John Muir
   Trail](https://boardgamegeek.com/boardgame/307044/trailblazer-john-muir-trail):
   en
-  [Kickstarter](https://www.kickstarter.com/projects/trailblazerjohnmuir/trailblazer-the-john-muir-trail?ref=bggforums)
+  [Kickstarter](https://www.kickstarter.com/projects/trailblazerjohnmuir/trailblazer-the-john-muir-trail?ref=mazmorreoensolitario)
 
 **12 de mayo**
 * [Resist!](https://boardgamegeek.com/boardgame/352697/resist): en Gamefound
@@ -60,14 +63,14 @@ para el próximo mes de **mayo** en **Kickstarter**, **Gamefound**,
 * [The Artemis Project: Satellites &
   Commanders](https://boardgamegeek.com/boardgameexpansion/356578/artemis-project-satellites-commanders):
   en
-  [Kickstarter](https://www.kickstarter.com/projects/grandgamersguild/the-artemis-project-satellites-and-commanders?ref=bggforums)
+  [Kickstarter](https://www.kickstarter.com/projects/grandgamersguild/the-artemis-project-satellites-and-commanders?ref=mazmorreoensolitario)
 * [Kingdoms of
   Akandia](https://boardgamegeek.com/boardgame/346614/kingdoms-akandia): en
-  [Kickstarter](https://www.kickstarter.com/projects/kingdoms-of-akandia/kingdoms-of-akandia-volume-1-the-seven-realms?ref=bggforums)
+  [Kickstarter](https://www.kickstarter.com/projects/kingdoms-of-akandia/kingdoms-of-akandia-volume-1-the-seven-realms?ref=mazmorreoensolitario)
 
 **24 de mayo**
 * [Bark Avenue](https://boardgamegeek.com/boardgame/343684/bark-avenue): en
-  [Kickstarter](https://www.kickstarter.com/projects/terredicegames/bark-avenue?ref=bggforums)
+  [Kickstarter](https://www.kickstarter.com/projects/terredicegames/bark-avenue?ref=mazmorreoensolitario)
 * [Batman: Gotham City Chronicles Season
   3](https://boardgamegeek.com/boardgame/222514/batman-gotham-city-chronicles):
   en Kickstarter
@@ -85,7 +88,7 @@ para el próximo mes de **mayo** en **Kickstarter**, **Gamefound**,
 * [Drop Bears: Survival Series, Chapter
   1](https://boardgamegeek.com/boardgame/329511/drop-bears-survival-series-chapter-1):
   en
-  [Kickstarter](https://www.kickstarter.com/projects/theratcatcher/drop-bears-0?ref=bggforums) 
+  [Kickstarter](https://www.kickstarter.com/projects/theratcatcher/drop-bears-0?ref=mazmorreoensolitario) 
 * [Thorgal: The Board
   Game](https://boardgamegeek.com/boardgame/358216/thorgal-board-game): en
   [Gamefound](https://gamefound.com/projects/draft/noiamkh8alfnl5msm1kklb2plz7)
@@ -94,6 +97,20 @@ para el próximo mes de **mayo** en **Kickstarter**, **Gamefound**,
 
 Emepezamos el **Boletín de con el resumen de abril de 2022** con noticias sobre
 juegos de mesa:
+
+<p align="center">
+<img height=""
+src="https://cf.geekdo-images.com/chGnA9qZdb5eTCwUoKTvTA__imagepage/img/gAYWLV_Y0M6em1O9OIWg7c7QA-w=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6808635.jpg"></p>
+
+**—** Durante abril hemos tenido las
+[nominaciones](https://boardgamegeek.com/thread/2854374/16th-annual-golden-geek-awards-nominees-announced)
+de los **Premios Golden Geek de 2021**.
+
+En **[esta
+entrada]({{site.baseurl}}/2022/04/25/noticias-golden-geek-awards-2021/)**
+tienes un resumen sobre qué va cada juego que puede jugarse en solitario y los
+**ganadores** de cada categoría.
+
 
 <p align="center">
 <img height=""
@@ -189,11 +206,11 @@ src="https://cf.geekdo-images.com/1_2b5CFi7H8TKvc2-gTfiw__imagepage/img/zLbitnhi
 
 **—** **Jonathan Fryxelius**, parte de la editorial familiar **FryxGames**
 [confirma](https://boardgamegeek.com/thread/2850779/article/39892087#39892087)
-que se está trabajando en **una nueva expansión para [Terraforming Mars]**
+que se está trabajando en **una nueva expansión para [Terraforming Mars](https://boardgamegeek.com/boardgame/167791/terraforming-mars)**
 (análisis
 **[aquí]({{site.baseurl}}/2019/09/16/analisis-terraforming-mars/))**,
 que no añadirá "mecánicas más complicadas" ya que ya creen que el juego es lo
-suficientemente complicado con todas sus expansiones. Sin embargo Fyxelius
+suficientemente complicado con todas sus expansiones. Sin embargo Fryxelius
 comenta que nuevas cartas de proyecto, corporaciones, preludios y quizás un
 nuevo mapa serán lanzados próximamente.
 
