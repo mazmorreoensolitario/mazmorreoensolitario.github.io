@@ -1137,7 +1137,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3HinJ8u">Dune: Imperium</a></h4>
-        <p><strong><a href="">Dune: Imperium</a></strong> por <strong>Paul Dennen</strong>,
+        <p><strong><a href="https://boardgamegeek.com/boardgame/316554/dune-imperium">Dune: Imperium</a></strong> por <strong>Paul Dennen</strong>,
         publicado por
         <strong>Dire Wolf</strong> (<strong>Asmodee</strong> en España), es un
     juego basado en el libro de ciencia ficción Dune de Frank Herbert, en el
