@@ -87,7 +87,15 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2022/05/08/noticias-boletin-abril-2022/" %}
+       {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="image-container">
+       {% for post in site.posts %}
+       {% if post.url == "/2022/05/28/noticias-premios-spiel-des-jahres-2022/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -103,7 +111,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/05/16/analisis-desolate/" %}
+       {% if post.url == "/2022/04/25/noticias-golden-geek-awards-2021/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -111,7 +119,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2019/09/16/analisis-terraforming-mars/" %}
+       {% if post.url == "/2022/05/08/noticias-boletin-abril-2022/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -119,15 +127,7 @@
     </div>
     <div class="image-container">
        {% for post in site.posts %}
-       {% if post.url == "/2021/12/23/general-top-200-1pg-solitario-p4/" %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endif %}
-      {% endfor %}
-    </div>
-    <div class="image-container">
-       {% for post in site.posts %}
-       {% if post.url == "/2020/11/07/noticias-csr-awards-2020/" %}
+       {% if post.url == "/2019/02/09/analisis-pocket-landship/" %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endif %}
@@ -139,76 +139,73 @@
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
       {% for tag in site.tags %}
-      {% if tag[0] == "Las Ruinas Perdidas de Arnak"
-      or tag[0] == "Mausritter"
-      or tag[0] == "Print & play"
-      or tag[0] == "Res Arcana"
-      or tag[0] == "Undaunted: North Africa"
-      or tag[0] == "Gloomhaven: Fauces del León"
-      or tag[0] == "GMT Games"
-      or tag[0] == "Maracaibo"
-      or tag[0] == "Mini Rogue"
-      or tag[0] == "Rol"
-      or tag[0] == "Root: The Underworld"
-      or tag[0] == "Tops"
-      or tag[0] == "A las Puertas de Loyang"
-      or tag[0] == "All Bridges Burning"
-      or tag[0] == "Atlantic Chase"
-      or tag[0] == "Boletín Informativo Solitario"
-      or tag[0] == "Dune: Imperium"
-      or tag[0] == "El Señor de los Anillos: el Juego de Cartas"
-      or tag[0] == "Expansiópolis"
-      or tag[0] == "Ironsworn: Delve"
-      or tag[0] == "Labyrinth Lord"
-      or tag[0] == "Old-School Essentials"
-      or tag[0] == "Pico Pluma & Hueso"
-      or tag[0] == "Star Scrappers: Orbital"
-      or tag[0] == "Star Wars: Rebellion"
-      or tag[0] == "Suburbia"
-      or tag[0] == "The Last Hundred Yards: Airborne Over Europe"
-      or tag[0] == "Wingspan"
-      or tag[0] == "7 Wonders Duel"
-      or tag[0] == "9 Card Game Print & Play Design Contest"
-      or tag[0] == "Anachrony"
-      or tag[0] == "Arquitectos del Reino del Oeste"
-      or tag[0] == "Augmented Reality"
-      or tag[0] == "Bitoku"
-      or tag[0] == "Brazil: Imperial"
-      or tag[0] == "Cascadia"
-      or tag[0] == "Compass Games"
-      or tag[0] == "D30 Sandbox Companion"
-      or tag[0] == "Dados y Colonos"
-      or tag[0] == "Dungeon Degenerates"
-      or tag[0] == "El mes en juegos"
+      {% if tag[0] == "Scarlet Heroes"
       or tag[0] == "Four Against Darkness"
-      or tag[0] == "Great War Commander"
+      or tag[0] == "Res Arcana"
+      or tag[0] == "Rol"
+      or tag[0] == "Terraforming Mars"
+      or tag[0] == "Undaunted: North Africa"
+      or tag[0] == "GMT Games"
       or tag[0] == "Iron Helm"
+      or tag[0] == "Las Ruinas Perdidas de Arnak"
+      or tag[0] == "Maracaibo"
+      or tag[0] == "Thunderstone Quest"
+      or tag[0] == "A las Puertas de Loyang"
+      or tag[0] == "Anachrony"
+      or tag[0] == "Boletín Informativo Solitario"
+      or tag[0] == "Dados y Colonos"
+      or tag[0] == "Dune: Imperium"
+      or tag[0] == "Expansiópolis"
+      or tag[0] == "Fábulas de Peluche"
+      or tag[0] == "Gloomhaven: Fauces del León"
+      or tag[0] == "It's a Wonderful Kingdom"
+      or tag[0] == "Kickstarter"
+      or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Mausritter"
+      or tag[0] == "Old-School Essentials"
+      or tag[0] == "One Deck Dungeon: Forest of Shadows"
+      or tag[0] == "Print & play"
+      or tag[0] == "Ruins of the Undercity"
+      or tag[0] == "Star Wars: Imperial Assault"
+      or tag[0] == "Suburbia"
+      or tag[0] == "The Vast in the Dark"
+      or tag[0] == "Wingspan"
+      or tag[0] == "1066 Tears To Many Mothers"
+      or tag[0] == "Aeon's End"
+      or tag[0] == "Arquitectos del Reino del Oeste"
+      or tag[0] == "Atlantis Rising"
+      or tag[0] == "Beak Feather & Bone"
+      or tag[0] == "Compass Games"
+      or tag[0] == "Curious Cargo"
+      or tag[0] == "Disciples of Bone and Shadow: Conquered Sun Edition"
+      or tag[0] == "Dungeons Dice & Danger"
+      or tag[0] == "El muro de Adriano"
+      or tag[0] == "Everdell"
+      or tag[0] == "Faiyum"
+      or tag[0] == "Gloomhaven: Jaws of the Lion"
+      or tag[0] == "Great War Commander"
       or tag[0] == "Ironsworn: Starforged"
-      or tag[0] == "Ironsworn"
       or tag[0] == "Mad Monks of Kwantoom"
-      or tag[0] == "Messina 1347"
-      or tag[0] == "Nidavellir"
+      or tag[0] == "Mapeando las catacumbas"
+      or tag[0] == "Marvel Champions: The Card Game"
+      or tag[0] == "Ni no Kuni II: The Board Game"
       or tag[0] == "On Mars"
+      or tag[0] == "Operation Theseus: Gazala 1942"
+      or tag[0] == "Pico Pluma & Hueso"
       or tag[0] == "Project L"
       or tag[0] == "Race for the Galaxy"
-      or tag[0] == "Robinson Crusoe"
+      or tag[0] == "Root: The Underworld"
       or tag[0] == "Santa Maria"
-      or tag[0] == "Santander 37"
-      or tag[0] == "Scythe: El Auge de Fenris"
       or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Solar Blades & Cosmic Spells"
       or tag[0] == "Tapestry"
-      or tag[0] == "Terraforming Mars: Ares Expedition"
-      or tag[0] == "Terraforming Mars"
-      or tag[0] == "The 7th Continent"
-      or tag[0] == "The Vast in the Dark"
-      or tag[0] == "Thunderstone Quest"
+      or tag[0] == "The Adventures of Robin Hood"
+      or tag[0] == "TINYforming Mars"
       or tag[0] == "Too Many Bones"
-      or tag[0] == "Tunnels & Trolls"
-      or tag[0] == "Twilight Imperium"
-      or tag[0] == "UKGE Awards"
-      or tag[0] == "UKGE"
-      or tag[0] == "Unbroken"
-      or tag[0] == "Xia: Leyendas de un Sistema a la Deriva" %}
+      or tag[0] == "Tops"
+      or tag[0] == "Troyes Dice"
+      or tag[0] == "Xia: Leyendas de un Sistema a la Deriva"
+      or tag[0] == "Zine Quest 2" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
