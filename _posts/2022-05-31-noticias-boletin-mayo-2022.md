@@ -70,7 +70,7 @@ src="https://cf.geekdo-images.com/riUk7cIL_0LDawtsZ_Tcvg__imagepage/img/Wt0SOZxv
 
 **—** Desde **Board Game Geek**
 [informan](https://boardgamegeek.com/blogpost/131867/stellarion-joins-oniverse-which-has-new-home-inpat)
-que Shadi Torbey sacará el séptimo juego más dentro del
+que Shadi Torbey sacará el séptimo juego dentro del
 [Oniverso](https://boardgamegeek.com/boardgamefamily/9976/setting-oniverse):
 **[Stellarion](https://boardgamegeek.com/boardgame/360843/stellarion)**.
 
@@ -190,7 +190,7 @@ Hollandspiele](https://hollandspiele.com/products/heading-forward).
 <img height=""
 src="https://cf.geekdo-images.com/xbG5hfGBsxZAvisvs65ewQ__imagepagezoom/img/-Zpdnp-U1zpynA92t0yuSuNS-5g=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic4096160.png"></p>
 
-**—** Como todos los meses, tenemos noticias de **GMT Games** gracias a  [newsletter
+**—** Como todos los meses, tenemos noticias de **GMT Games** gracias a su [newsletter
 mensual](https://mailchi.mp/d8e3fdd5523b/february-24-update-from-gmt-new-p500-production-update-honoring-an-ace-and-more):
 
 <p align="center">
