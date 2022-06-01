@@ -24,18 +24,6 @@ La escala es la siguiente:
 * 4 monedas - ¡este juego es genial!
 * 5 monedas - ES IDEAL
 
-## Índice alfabético
-
-<ul>
-{% assign sorted = site.posts | sort: 'game' %}
-{% for post in sorted %}
-    {% if post.game %}
-        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
-    {% endif %}
-{% endfor %}
-</ul>
-
-
 ## Índice por puntuaciones
 
 <div class="col-md-12">
@@ -275,5 +263,16 @@ Aquí os presento brevemente algunos juegos:
 <li>
     <a href="{{ post.url }}">{{ post.title }}.</a>
 </li>
+{% endfor %}
+</ul>
+
+## Índice alfabético
+
+<ul>
+{% assign sorted = site.posts | sort: 'game' %}
+{% for post in sorted %}
+    {% if post.game %}
+        <li><a href="{{ post.url }}">{{ post.title }}.</a></li>
+    {% endif %}
 {% endfor %}
 </ul>
