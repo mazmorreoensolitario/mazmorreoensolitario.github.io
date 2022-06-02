@@ -72,7 +72,7 @@ proyecto avanza.
 
 Ahora paso a hablaros un poco más de cada uno de los juegos.
 
-### [Ark Nova](https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html)
+### [Ark Nova](https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447-11)
 
 <p align="center">
 <img height=""
@@ -137,7 +137,7 @@ cartas tienen algunos requisitos para jugarlas, y que tengamos mucha gestión de
 que también pasa en **Terraforming Mars**, pero solamente eso. No creo que
 **Ark Nova** pise a **Terraforming Mars** ni viceversa.
 
-### [Cascadia](https://amzn.to/3vIv9N9)
+### [Cascadia](https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447-11)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__imagepage/img/0ksox22FKLq-Z-rsbBlF2IDG9x0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5100691.jpg"></p>
@@ -156,18 +156,18 @@ pequeñas sospechosas").
 Durante este mes también he estado jugado al [reto mensual de
 1PG](https://boardgamegeek.com/boardgame/295947/cascadia/forums/274) de
 **Cascadia**, que durante este mes ha sido el BBDCB
-(oso-alce-salmón-halcón-zorro)y he conseguido por primera vez batir los 110
+(oso-alce-salmón-halcón-zorro) y he conseguido por primera vez batir los 110
 puntos al juego. Se alinearon los astros, en este caso los halcones, y pude
 sacar combos bastante majos.
 
-### [Curious Cargo](https://zacatrus.es/curious-cargo.html#u97)
+### [Curious Cargo](https://www.philibertnet.com/en/capstone-hk-ltd/91290-curious-cargo-850000576148.html#ae447-11)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/4EX-XaYzUK21jAl5L3KEUA__imagepage/img/pHCJM9ZULjRhszItuB7pr8c-eY0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5478785.jpg"></p>
 
  **[Curious
 Cargo](https://boardgamegeek.com/boardgame/312251/curious-cargo)** (primeras
-impresiones [aquí]({{site.baseurl}}/2021/03/16/primeras-impresiones-curious-cargo/),
+impresiones [aquí]({{site.baseurl}}/2021/03/16/primeras-impresiones-curious-cargo/)),
 también se ha llevado unas partidas durante este mes, y es otro de los juegos
 que me he llevado de viaje. Además de tener una caja pequeña también es
 extremadamente portable porque tiene tableros que no son de cartón, y abultan
