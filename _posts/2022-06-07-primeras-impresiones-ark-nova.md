@@ -209,7 +209,9 @@ El único componente que no me gusta del juego son las fichas de dinero, que son
 negras, y yo he sustituido por las monedas de madera que habéis visto en las
 diferentes fotos de esta entrada.
 
-Sobre la **comparación con Terraforming Mars**... tiene una cosa que se parece,
+Sobre la **comparación con Terraforming Mars** (análisis
+[aquí]({{site.baseurl}}/2019/09/16/analisis-terraforming-mars/))... tiene una
+cosa que se parece, 
 y es que en ambos juegos tenemos iconos en las cartas, podemos llamarlos
 "palos", que tenemos que tener en cuenta para jugar otras cartas, y listo. Soy
 muy fan de Terraforming Mars, y en mi opinión son dos juegos diferentes. Yo
