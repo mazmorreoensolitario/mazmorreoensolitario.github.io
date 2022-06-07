@@ -170,8 +170,9 @@ puntitos</small></p>
 
 En estos dos findes con **Ark Nova** el juego ha pasado de no estar enfundado,
 a estar enfundado, de tardar hora y media en jugar una partida a tener partidas
-de ~40 minutitos. Lo he jugado mucho y directamente os voy a decir sin mayor
-ceremonia que es un juegazo y me está encantando. 
+de ~40 minutitos. Lo he jugado mucho (y de forma exclusiva durante estos dos
+findes) y directamente os voy a decir sin mayor ceremonia que es un juegazo y
+me está encantando.
 
 En cuanto a **re-jugabilidad**, nos la da a base de fuerza bruta. Tenemos un
 mazo de doscientas cartas y pico, y no ves ni un cuarto en una partida, tienes
