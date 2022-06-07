@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Primeras impresiones - Dos findes con Ark Nova"
+title: "Primeras impresiones - Ark Nova"
 date: 2022-06-07
 categories: [Primeras impresiones]
 tags: [Ark Nova, Golden Geek]
