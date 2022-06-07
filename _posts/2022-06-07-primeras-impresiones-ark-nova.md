@@ -47,6 +47,9 @@ gestionar científicamente un zoo moderno."
     Games</strong>.</li>
               <li>Publicado como parte de los lanzamientos de la feria
               <strong>Spiel 2021</strong>.</li>
+              <li>Ganador del premio <a
+    href="{{site.baseurl}}/2022/04/25/noticias-golden-geek-awards-2021/">Golden
+    Geek de 2021</a> al <i>Mejor juego de mesa de peso duro del año</i>.</li>
          </ul>
          </div>
     </div>
@@ -201,6 +204,10 @@ Finalmente, un juego con tanto icono necesita que la disposición de las cartas
 sea limpia y consistente; creo que este juego lo ha hecho de libro sin
 sacrificar que los jugadores podamos también disfrutar de las fotos de
 animales.
+
+El único componente que no me gusta del juego son las fichas de dinero, que son
+negras, y yo he sustituido por las monedas de madera que habéis visto en las
+diferentes fotos de esta entrada.
 
 Sobre la **comparación con Terraforming Mars**... tiene una cosa que se parece,
 y es que en ambos juegos tenemos iconos en las cartas, podemos llamarlos
