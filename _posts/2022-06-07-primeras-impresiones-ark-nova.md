@@ -225,5 +225,5 @@ minutos (43 mi partida más corta de momento). Cosa que no me esperaba para
 nada y ha sido una grata sorpresa.
 
 <img width="50" src="{{site.baseurl}}/images/eye.png"> **Primera impresión:**
-es un candidato muy fuerte a ser el mejor juego (nuevo par amí) de este 2022.
+es un candidato muy fuerte a ser el mejor juego (nuevo para mí) de este 2022.
 
