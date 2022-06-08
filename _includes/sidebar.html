@@ -62,13 +62,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2022/05/31/noticias-boletin-mayo-2022/" %}
-       {% for post in target-posts %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2022/06/01/partidas-mes-mayo-22/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -77,6 +70,13 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
+       {% for post in target-posts %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2022/05/31/noticias-boletin-mayo-2022/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -111,14 +111,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2022/03/23/analisis-infranqueable/" %}
+      {% assign target-posts = site.posts | where: "url","/2021/03/18/general-top-100-bgg-solitario-p3/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2018/11/05/analisis-mini-rogue/" %}
+      {% assign target-posts = site.posts | where: "url","/2019/03/09/analisis-maquis/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -144,28 +144,35 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Pico Pluma & Hueso"
+      or tag[0] == "Ironsworn"
       or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Ark Nova"
+      or tag[0] == "Gloomhaven: Fauces del León"
       or tag[0] == "A Thousand Year Old Vampire"
       or tag[0] == "Arkwright: El Juego de Cartas"
       or tag[0] == "Barrage"
       or tag[0] == "Mausritter"
+      or tag[0] == "Old-School Essentials"
+      or tag[0] == "OSR"
+      or tag[0] == "Print & play"
       or tag[0] == "Root"
       or tag[0] == "Ruins of the Undercity"
+      or tag[0] == "Scarlet Heroes"
       or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Trickerion: Legends of Illusion"
       or tag[0] == "Viernes"
+      or tag[0] == "1066 Tears To Many Mothers"
       or tag[0] == "7 Wonders Duel"
       or tag[0] == "All Bridges Burning"
       or tag[0] == "Dados y Colonos"
       or tag[0] == "Disciples of Bone and Shadow: Conquered Sun Edition"
       or tag[0] == "Enemy Action: Ardennes"
       or tag[0] == "Four Against Darkness"
-      or tag[0] == "Gloomhaven: Fauces del León"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
-      or tag[0] == "Ironsworn"
+      or tag[0] == "Iron Helm"
       or tag[0] == "Kickstarter"
       or tag[0] == "Labyrinth Lord"
-      or tag[0] == "OSR"
-      or tag[0] == "Print & play"
+      or tag[0] == "Marvel Champions: The Card Game"
       or tag[0] == "Res Arcana"
       or tag[0] == "Root: The Underworld"
       or tag[0] == "Tops"
@@ -178,6 +185,8 @@
       or tag[0] == "Concordia Solitaria"
       or tag[0] == "Dwellings of Eldervale"
       or tag[0] == "El mes en juegos"
+      or tag[0] == "Essen Spiel 2021"
+      or tag[0] == "Essen Spiel"
       or tag[0] == "Everdell"
       or tag[0] == "Ex Novo"
       or tag[0] == "Expansiópolis"
@@ -186,22 +195,23 @@
       or tag[0] == "Golden Geek"
       or tag[0] == "Great War Commander"
       or tag[0] == "Great Western Trail"
-      or tag[0] == "Iron Helm"
+      or tag[0] == "High Frontier 4 All"
       or tag[0] == "Ironsworn: Starforged"
       or tag[0] == "It's a Wonderful Kingdom"
       or tag[0] == "Kanban EV"
       or tag[0] == "Las Ruinas Perdidas de Arnak"
-      or tag[0] == "Marvel Champions: The Card Game"
+      or tag[0] == "Lewis & Clark: The Expedition"
+      or tag[0] == "Mörk Borg"
       or tag[0] == "Mythic"
       or tag[0] == "On Mars"
       or tag[0] == "One Deck Dungeon: Forest of Shadows"
       or tag[0] == "Root: Los Cachivaches"
-      or tag[0] == "Scarlet Heroes"
+      or tag[0] == "Scythe"
       or tag[0] == "Solo Game Master's Guide"
       or tag[0] == "The Red Cathedral: Contractors"
       or tag[0] == "The Siege of Runedar"
       or tag[0] == "The Wretched"
-      or tag[0] == "Trickerion: Legends of Illusion"
+      or tag[0] == "Troyes"
       or tag[0] == "Unbroken"
       or tag[0] == "Undaunted: Normandy"
       or tag[0] == "Waterloo Solitaire"
