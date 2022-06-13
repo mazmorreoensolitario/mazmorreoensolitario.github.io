@@ -68,7 +68,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2022/06/01/partidas-mes-mayo-22/" %}
+      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -82,21 +82,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}
-       {% for post in target-posts %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2022/05/31/noticias-boletin-mayo-2022/" %}
-       {% for post in target-posts %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2022/06/07/primeras-impresiones-ark-nova/" %}
+       {% for post in target-posts %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2022/06/01/partidas-mes-mayo-22/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -110,7 +103,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/04/25/rol-mothership/" %}
+      {% assign target-posts = site.posts | where: "url","/2021/03/10/general-top-100-bbg-solitario-p2/" %}
+       {% for post in target-posts %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2022/05/31/noticias-boletin-mayo-2022/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -129,83 +129,72 @@
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
       {% for tag in site.tags %}
-      {% if tag[0] == "Print & play"
-      or tag[0] == "9 Card Game Print & Play Design Contest"
-      or tag[0] == "Ironsworn"
-      or tag[0] == "All Bridges Burning"
-      or tag[0] == "Ark Nova"
-      or tag[0] == "Old-School Essentials"
-      or tag[0] == "Gloomhaven: Fauces del León"
-      or tag[0] == "Res Arcana"
-      or tag[0] == "Arquitectos del Reino del Oeste"
-      or tag[0] == "El mes en juegos"
-      or tag[0] == "Expansiópolis"
+      {% if tag[0] == "Tops"
+      or tag[0] == "Pico Pluma & Hueso"
+      or tag[0] == "Dune: Imperium"
+      or tag[0] == "Twilight: 2000"
+      or tag[0] == "Print & play"
+      or tag[0] == "A Rasp of Sand"
+      or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Ronin"
+      or tag[0] == "Twilight Imperium"
       or tag[0] == "Four Against Darkness"
+      or tag[0] == "Gloomhaven: Fauces del León"
+      or tag[0] == "Ironsworn"
+      or tag[0] == "Old-School Essentials"
+      or tag[0] == "OSR"
+      or tag[0] == "Root: The Underworld"
+      or tag[0] == "Santander 37"
+      or tag[0] == "7 Wonders Duel"
+      or tag[0] == "Aeon's End"
+      or tag[0] == "All Bridges Burning"
+      or tag[0] == "Anachrony"
+      or tag[0] == "Battlestar Galactica: The Board Game"
+      or tag[0] == "Boletín Informativo Solitario"
+      or tag[0] == "Crónicas del Crimen"
+      or tag[0] == "Crossing the Line: Aachen 1944"
+      or tag[0] == "Cryo"
+      or tag[0] == "Curious Cargo"
+      or tag[0] == "El Imperio del Sol"
+      or tag[0] == "El mes en juegos"
+      or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
+      or tag[0] == "Faiyum"
+      or tag[0] == "Food Chain Island"
+      or tag[0] == "Forbidden Lands"
+      or tag[0] == "Gamefound"
+      or tag[0] == "Gloomhaven: Jaws of the Lion"
+      or tag[0] == "GMT Games"
+      or tag[0] == "La Isla Prohibida"
+      or tag[0] == "Las Mansiones de la Locura"
+      or tag[0] == "Mapeando las catacumbas"
+      or tag[0] == "Mapping the Catacombs"
+      or tag[0] == "Mausritter"
+      or tag[0] == "Mind MGMT"
+      or tag[0] == "NAC Wargames"
+      or tag[0] == "Nemesis"
+      or tag[0] == "Oh My Goods!"
+      or tag[0] == "One Deck Dungeon: Forest of Shadows"
+      or tag[0] == "Paper Dungeons"
+      or tag[0] == "Rome & Roll"
+      or tag[0] == "Root"
+      or tag[0] == "Ruins of the Undercity"
+      or tag[0] == "Russian Railroads: German Railroads"
       or tag[0] == "Scarlet Heroes"
       or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "1066 Tears To Many Mothers"
-      or tag[0] == "Beak Feather & Bone"
-      or tag[0] == "Boletín Informativo Solitario"
-      or tag[0] == "Cuentos de ánimas"
-      or tag[0] == "Dwellings of Eldervale"
-      or tag[0] == "Food Chain Island"
-      or tag[0] == "High Frontier 4 All"
-      or tag[0] == "OSR"
-      or tag[0] == "Pico Pluma & Hueso"
-      or tag[0] == "Space Empires 4X"
-      or tag[0] == "The Vast in the Dark"
-      or tag[0] == "Tops"
-      or tag[0] == "Trickerion: Legends of Illusion"
-      or tag[0] == "Waterloo Solitaire"
-      or tag[0] == "7 Wonders Duel"
-      or tag[0] == "A Thousand Year Old Vampire"
-      or tag[0] == "Absolute War! The Russian Front 1941-45"
-      or tag[0] == "Aeon's End"
-      or tag[0] == "Agricola"
-      or tag[0] == "Arkwright: El Juego de Cartas"
-      or tag[0] == "Atlantic Chase"
-      or tag[0] == "Colonos del Imperio: Imperios del Norte"
-      or tag[0] == "Conflict of Heroes"
-      or tag[0] == "Curious Cargo"
-      or tag[0] == "Essen Spiel 2021"
-      or tag[0] == "Essen Spiel"
-      or tag[0] == "Fábulas de Peluche"
-      or tag[0] == "Fort"
-      or tag[0] == "GMT Games"
-      or tag[0] == "Iron Helm"
-      or tag[0] == "Las Ruinas Perdidas de Arnak"
-      or tag[0] == "Lewis & Clark: The Expedition"
-      or tag[0] == "Mapeando las catacumbas"
-      or tag[0] == "Marvel Champions: The Card Game"
-      or tag[0] == "Mörk Borg"
-      or tag[0] == "Mythic"
-      or tag[0] == "Nemesis"
-      or tag[0] == "Nobel Run"
-      or tag[0] == "Oath: Chronicles of Empire and Exile"
-      or tag[0] == "On Mars"
-      or tag[0] == "One Deck Dungeon: Forest of Shadows"
-      or tag[0] == "Orquesta Negra"
-      or tag[0] == "Paper Dungeons"
-      or tag[0] == "Race for the Galaxy"
-      or tag[0] == "Resist!"
-      or tag[0] == "Rising Sun"
-      or tag[0] == "Robinson Crusoe"
-      or tag[0] == "Root: Los Cachivaches"
-      or tag[0] == "Root: The Clockwork"
-      or tag[0] == "Root"
-      or tag[0] == "Saqueadores de Escitia"
-      or tag[0] == "Scythe"
-      or tag[0] == "Stargrave"
-      or tag[0] == "Terraforming Mars: Preludio"
-      or tag[0] == "The 7th Citadel"
+      or tag[0] == "Small Islands"
+      or tag[0] == "Solar Blades & Cosmic Spells"
+      or tag[0] == "Star Wars: Imperial Assault"
+      or tag[0] == "Terraforming Mars"
+      or tag[0] == "The Last Hundred Yards: Airborne Over Europe"
       or tag[0] == "The Red Cathedral: Contractors"
-      or tag[0] == "The Wretched"
-      or tag[0] == "Too Many Bones"
+      or tag[0] == "The Vast in the Dark"
       or tag[0] == "Trajan"
-      or tag[0] == "Troyes"
-      or tag[0] == "Unbroken"
+      or tag[0] == "Undaunted: Normandy"
       or tag[0] == "Undaunted: North Africa"
-      or tag[0] == "Viernes" %}
+      or tag[0] == "Verdun 1916: Steel Inferno"
+      or tag[0] == "Welcome Hacia el Perfecto Hogar"
+      or tag[0] == "Zine Quest 2"
+      or tag[0] == "Zine Quest" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
