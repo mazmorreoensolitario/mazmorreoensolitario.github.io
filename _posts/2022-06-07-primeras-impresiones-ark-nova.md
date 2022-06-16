@@ -25,7 +25,7 @@ gestionar científicamente un zoo moderno."
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2021</td></tr>
             <tr><td class="text-left"><strong>Precio:</strong></td><td
         class="text-left"><a
-    href="https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.htmll#ae447-11">65€</a>
+    href="https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447-11">65€</a>
     (inglés)</td></tr>
     <tr><td class="text-left"><strong>Precio:</strong></td><td
     class="text-left"><a href="https://zacatrus.es/ark-nova.html#u97">60€</a> (español)</td></tr>
