@@ -138,7 +138,7 @@ da y acciones especiales. Si nos fijamos en el *Nile crocodile - Crocodylus
 noloticus* (abajo a la derecha) tenemos dos iconos en la parte de arriba a la
 derecha de la carta, uno con el icono de África y otro con el icono de un
 reptil. Estos son los dos iconos que nos ofrece esta carta cuando está en
-juego. En la zona de la derecha tenemos más iconos, que son los *requisitos*
+juego. En la zona de la izquierda tenemos más iconos, que son los *requisitos*
 que requiere la carta para poder jugarse, por un lado nos dice que necesitamos
 un recinto de 5 espacios adyacente a agua ó tres espacios libres en el recinto
 especial de reptiles, además de esto necesitamos pagar 13 de dinero para poder
