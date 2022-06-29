@@ -21,6 +21,7 @@ categorías.
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
     {% if tag[0] == "Augmented Reality" or tag[0] == "Ronin" or
+        tag[0] == "The One Ring" or 
         tag[0] == "Zine Month" or tag[0] == "Solo Game Master's Guide" or
         tag[0] == "Paria" or tag[0] == "Pathfinder" or
         tag[0] == "Dirt RPG" or tag[0] == "Mapeando las catacumbas" or
