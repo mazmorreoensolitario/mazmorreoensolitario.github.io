@@ -20,9 +20,9 @@ que puedan jugarse en solitario.
 El boletín está dividido en **tres secciones: juegos de mesa, wargames y
 juegos de rol**, más una sección de chollos con enlaces afiliados.
 
-La tradicional sección de **crowfunding** pasa a ser una entrada separada (por
+La tradicional sección de **crowdfunding** pasa a ser una entrada separada (por
 razones de organización) donde se irán recogiendo las campañas del próximo
-mes de julio.
+mes de julio. Podrás verla la primera semana de julio.
 
 Recordad que podéis acceder a **[Boletines de los meses anteriores en este
 enlace]({{site.baseurl}}/etiqueta/boletin-informativo-solitario/)**. 
@@ -257,7 +257,7 @@ información.
 ## Wargames
 
 Vistos los juegos de mesa, seguimos el resumen del mes con la **sección de
-wargames del Boletín de junio**
+wargames del Boletín de junio**:
 
 
 <p align="center">
@@ -400,8 +400,9 @@ src="https://cf.geekdo-images.com/WnMljk1qF2A634Ux_phgsw__imagepage/img/cO2r0J-d
 
 **—** Durante este mes de junio **Modiphius Entertainment** ha abierto la venta
 del **[Solo Game Master's
-Guide]()** de **Geek Gamers**, que ahora además de conseguirse desde la [web de
-MOdiphious](https://www.modiphius.net/products/solo-game-masters-guide?s=09)
+Guide](https://www.drivethrurpg.com/product/399150/Solo-Game-Masters-Guide-PDF?affiliate_id=1914894)**
+de **Geek Gamers**, que ahora además de conseguirse desde la [web de
+Modiphious](https://www.modiphius.net/products/solo-game-masters-guide?s=09) 
 puedes obtener en
 [PDF](https://www.drivethrurpg.com/product/399150/Solo-Game-Masters-Guide-PDF?affiliate_id=1914894)
 por 15$ desde [DriveThruRPG](https://www.drivethrurpg.com/product/399150/Solo-Game-Masters-Guide-PDF?affiliate_id=1914894).
