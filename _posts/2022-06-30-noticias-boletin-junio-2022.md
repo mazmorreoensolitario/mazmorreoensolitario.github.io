@@ -73,10 +73,10 @@ src="https://cf.geekdo-images.com/TUGMKDbhnRsPHzXEmBiITw__imagepage/img/JdKD8X-Y
 **—** Desde **Board Game Geek** también
 [informan](https://boardgamegeek.com/blogpost/132555/use-fruit-bats-wisely-uwe-rosenbergs-atiwa-and-rev)
 del nuevo lanzamiento de la editorial **Lookout Games** firmado por **Uwe
-Rosemberg**: **[Atiwa](https://boardgamegeek.com/boardgame/362452/atiwa)**.
+Rosenberg**: **[Atiwa](https://boardgamegeek.com/boardgame/362452/atiwa)**.
 
 **Atiwa** es un juego que sigue teniendo la temática agrícola que acostumbra
-**Rosemberg** pero con algunos puntos *picantes*, Atiwa es una región de la
+**Rosenberg** pero con algunos puntos *picantes*, Atiwa es una región de la
 República de Ghana en la que viven unos murciélagos que comen fruta. Por el día
 duermen y por la noche se dedican a buscar fruta para alimentarse. Las
 excreciones de estos animales contienen las semillas de las frutas que han
@@ -402,7 +402,7 @@ src="https://cf.geekdo-images.com/WnMljk1qF2A634Ux_phgsw__imagepage/img/cO2r0J-d
 del **[Solo Game Master's
 Guide](https://www.drivethrurpg.com/product/399150/Solo-Game-Masters-Guide-PDF?affiliate_id=1914894)**
 de **Geek Gamers**, que ahora además de conseguirse desde la [web de
-Modiphious](https://www.modiphius.net/products/solo-game-masters-guide?s=09) 
+Modiphius](https://www.modiphius.net/products/solo-game-masters-guide?s=09) 
 puedes obtener en
 [PDF](https://www.drivethrurpg.com/product/399150/Solo-Game-Masters-Guide-PDF?affiliate_id=1914894)
 por 15$ desde [DriveThruRPG](https://www.drivethrurpg.com/product/399150/Solo-Game-Masters-Guide-PDF?affiliate_id=1914894).
