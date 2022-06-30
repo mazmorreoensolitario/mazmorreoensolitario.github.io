@@ -5,8 +5,8 @@ date: 2022-06-30
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario", Tome of Adventure Design, "Solo Game Master's Guide", Mythic, Wingspan, Caverna, Zombicide, Verdant, Spirit Island, Stargrave, GMT Games, Legion Wargames, "Brazil: Imperial", Five Leagues from the Borderlands, Wormholes, Atiwa, Great Western Trail, The One Ring]
 imghtml: https://live.staticflickr.com/65535/52177737803_57df5fdcaf_b.jpg
-post_desc: "Boletín Informativo Solitario de junio, con un resumen de todas las novedades, próximos lanzamientos,
-crowdfunding y mucho más"
+post_desc: "Boletín Informativo Solitario de junio, con un resumen de todas las
+novedades, próximos lanzamientos y mucho más"
 ---
 
 ![](https://live.staticflickr.com/65535/52177737803_57df5fdcaf_b.jpg)
