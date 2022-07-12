@@ -49,7 +49,7 @@ Esta entrada se actualizará de forma periódica durante todo el mes de julio,
         guerrero y debes derrotar al Coloso Og.
         <br>
         <br>
-	         - Invierte 18 para conseguir el juego.<br>
+	         - Invierte 18€ para conseguir el juego.<br>
          - ¡Ya está financiado!
     </div>
 </div>
