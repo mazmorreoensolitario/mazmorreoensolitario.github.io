@@ -236,7 +236,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url",/2022/03/23/analisis-infranqueable/" %}
+      {% assign target-posts = site.posts | where: "url","/2022/03/23/analisis-infranqueable/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>3. {{post.title | truncate: 40}}</h5></div></a>
