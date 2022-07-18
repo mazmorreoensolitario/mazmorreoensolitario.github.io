@@ -333,9 +333,9 @@ impresiones <strong><a
     la caja, pero solamente con el básico ya es un juego muy bueno. La única
     pega que tengo es que como muchos tableros de GMT Games (puede que todos,
     no tengo datos jaja) no se queda plano cuando lo abres, y no me gusta nada
-    jugar así los juegos, así que cuando quiero jugar a este juego tengo un
+    jugar así a los juegos. Así que cuando quiero jugar a este juego tengo un
     pequeño problema logístico porque tengo que esperar a que los libros que
-    suelo poner encima de él lo aplasten y dejen liso. Manías mías.</p>
+    suelo poner encima aplasten el tablero y lo dejen liso. Manías mías.</p>
     <p>Este es un juego de esos que suele aparecer en muchas listas de
     favoritos y tal, y siempre encuentra un hueco, yo también os recomiendo que
     igual en vez de "arriesgaros" con jugar una novedad, o el juego cool del
