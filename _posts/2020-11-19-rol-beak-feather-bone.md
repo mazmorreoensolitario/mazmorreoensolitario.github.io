@@ -4,7 +4,7 @@ title: "Análisis - Beak, Feather & Bone"
 date: 2020-11-19
 categories: [Rol]
 tags: [Rol, "Beak Feather & Bone", Zine Quest, Zine Quest 2, "Pico Pluma & Hueso"]
-imghtml: https://img.itch.zone/aW1hZ2UvNTcwMTkxLzI5OTgyNTEucG5n/original/XA3mt7.png
+imghtml: https://d1vzi28wh99zvq.cloudfront.net/images/16903/311602.png
 book: "Beak, Feather & Bone"
 post_desc: "Beak, Feather & Bone es un juego de rol de etiquetado de mapas en 
 el que los jugadores colaboran en una actividad de worldbuilding sobre las
