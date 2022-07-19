@@ -90,7 +90,21 @@
       {% endfor %}
     </div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2022/07/17/partidas-mes-junio-22-medio-urte/" %}
+       {% for post in target-posts %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/03/18/general-top-100-bgg-solitario-p3/" %}
+       {% for post in target-posts %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2018/11/05/analisis-mini-rogue/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -105,20 +119,6 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2022/06/30/noticias-boletin-junio-2022/" %}
-       {% for post in target-posts %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/11/14/noticias-csr-awards-2021/" %}
-       {% for post in target-posts %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2018/11/05/analisis-mini-rogue/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -145,65 +145,29 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Print & play"
       or tag[0] == "On Mars"
+      or tag[0] == "Ironsworn"
       or tag[0] == "Solitaire Print & Play Design Contest"
+      or tag[0] == "Disciples of Bone and Shadow"
+      or tag[0] == "Ark Nova"
+      or tag[0] == "Boletín Informativo Solitario"
+      or tag[0] == "Forbidden Lands"
+      or tag[0] == "Gloomhaven: Fauces del León"
       or tag[0] == "Mapeando las catacumbas"
       or tag[0] == "Suburbia"
-      or tag[0] == "Boletín Informativo Solitario"
-      or tag[0] == "Disciples of Bone and Shadow"
+      or tag[0] == "Tops"
+      or tag[0] == "El mes en juegos"
       or tag[0] == "Gaia Project"
       or tag[0] == "Ironsworn: Starforged"
-      or tag[0] == "Ironsworn"
+      or tag[0] == "Pathfinder Adventure Card Game"
       or tag[0] == "Ultimate Railroads"
+      or tag[0] == "1985: Deadly Northern Lights"
       or tag[0] == "Anachrony"
-      or tag[0] == "Ark Nova"
       or tag[0] == "Escape the Dark Sector"
       or tag[0] == "Expansiópolis"
       or tag[0] == "Fábulas de Peluche"
       or tag[0] == "Faiyum"
-      or tag[0] == "Forbidden Lands"
-      or tag[0] == "Gloomhaven: Fauces del León"
-      or tag[0] == "Gloomhaven: Jaws of the Lion"
-      or tag[0] == "Golden Geek"
-      or tag[0] == "Marvel United"
-      or tag[0] == "Robinson Crusoe"
-      or tag[0] == "Scarlet Heroes"
-      or tag[0] == "Tops"
-      or tag[0] == "1985: Deadly Northern Lights"
-      or tag[0] == "A Thousand Year Old Vampire"
-      or tag[0] == "Aeon's End"
-      or tag[0] == "Alta Tension: Los Robots"
-      or tag[0] == "Arquitectos del Reino del Oeste"
-      or tag[0] == "Battlestar Galactica: The Board Game"
-      or tag[0] == "Beyond the Sun"
-      or tag[0] == "Dados y Colonos"
-      or tag[0] == "Dune: Imperium"
-      or tag[0] == "El mes en juegos"
-      or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
-      or tag[0] == "Fire in the Lake"
       or tag[0] == "Food Chain Island"
-      or tag[0] == "Great Western Trail"
-      or tag[0] == "Hallertau"
-      or tag[0] == "Iron Helm"
-      or tag[0] == "Labyrinth Lord"
-      or tag[0] == "Libertalia: Winds of Galecrest"
-      or tag[0] == "Mörk Borg"
-      or tag[0] == "One Page Dungeon"
-      or tag[0] == "Paleo"
-      or tag[0] == "Pico Pluma & Hueso"
-      or tag[0] == "Praga Caput Regni"
-      or tag[0] == "Red Flag Over Paris"
-      or tag[0] == "Root"
-      or tag[0] == "Russian Railroads: German Railroads"
-      or tag[0] == "Terraforming Mars"
-      or tag[0] == "The Dark Summer: Normandy 1944"
-      or tag[0] == "The Vast in the Dark"
-      or tag[0] == "The Wretched"
-      or tag[0] == "Tome of Adventure Design"
-      or tag[0] == "Twilight Imperium"
-      or tag[0] == "Unmatched: Battle of Legends"
-      or tag[0] == "White Dog Games"
-      or tag[0] == "Wingspan"
-      or tag[0] == "Zine Quest 2" %}
+      or tag[0] == "Gloomhaven: Jaws of the Lion" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
@@ -241,11 +205,11 @@
       {% assign target-posts = site.posts | where: "url","/2021/01/17/analisis-food-chain-island/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>4. {{post.title | truncate: 40}}</h5></div></a>
+        <div class="text-block"><h5>4. {{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/05/16/analisis-desolate/" %}
+      {% assign target-posts = site.posts | where: "url","/2019/02/02/analisis-gladiator-gauntlet/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>5. {{post.title | truncate: 40}}</h5></div></a>
