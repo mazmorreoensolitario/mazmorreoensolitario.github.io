@@ -19,13 +19,87 @@ recogen las campañas del mes**. Así queda todo más accesible y ordenado, y es
 más eficiente y sencillo de gestionar por mi parte.
 
 Esta entrada se actualizará de forma periódica durante todo el mes de julio,
-**última actualización: 17 de julio**.
+**última actualización: 25 de julio**.
 
 ## BackerKit
 
 *(nada de momento)*
 
 ## Gamefound
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="200" height="200"
+            src="https://cf.geekdo-images.com/ei2QfXPotdYJVJ95_-6efg__imagepage/img/eSfjFeyjYg1_uUhxUjzCaCVB--g=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5699018.jpg"
+            class="img-thumbnail" alt="World At War 85 Blood And Fury">
+    </div>
+    <div class="col-md-9">
+        <p>
+            <a target="_blank" 
+                href="https://gamefound.com/projects/lnlp/blood-and-fury?ref=mazmorreoensolitario">
+            <strong>World At War 85 Blood And Fury</strong>
+            </a>
+        </p>
+        - <strong>World At War 85 Blood And Fury</strong> es el segundo volumen
+        de la serie <strong>World At War 85</strong> centrada en combates a
+        nivel de sección y ambientada en una historia alternativa de 1985 en el
+        que las fuerzas del Pacto de Varsovia han invadido Alemania del Oeste.
+        <br>
+        <br>
+	         - Invierte 110$ para conseguir el juego.<br>
+         - ¡Ya está financiado!
+    </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="200" height="200"
+            src="https://cf.geekdo-images.com/Lt5NfFRA8uTF4U5T09l9Bg__imagepage/img/HYv_wFtXiatEXhjNiejZUJlvkaQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6252560.jpg"
+            class="img-thumbnail" alt="Utopia">
+    </div>
+    <div class="col-md-9">
+        <p>
+            <a target="_blank" 
+                href="https://gamefound.com/projects/gravity-games/utopia?ref=mazmorreoensolitario">
+            <strong>Utopia</strong>
+            </a>
+        </p>
+        - <strong>Utopia</strong> es un juego de colocación de trabajadores en
+        el que tienes que reordenar la historia para que se asemeje a tu visión
+        de una utopía.
+        <br>
+        <br>
+	         - Invierte 80£ para conseguir el juego.<br>
+
+    </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="200" height="200"
+            src="https://cf.geekdo-images.com/q8j5dVwRPgCx0G3G_bq2gw__imagepage/img/kCzczVjT_Yx85qdQv2IjFAwhRUY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5733466.jpg"
+            class="img-thumbnail" alt="Burncycle: New Recruits + Series Reprint">
+    </div>
+    <div class="col-md-9">
+        <p>
+            <a target="_blank" 
+                href="https://gamefound.com/projects/chip-theory-games/burncycle-new-recruits--series-reprint?ref=mazmorreoensolitario">
+            <strong>Burncycle: New Recruits + Series Reprint</strong>
+            </a>
+        </p>
+        - En esta campaña puedes conseguir el juego <strong>Burncycle</strong>
+        junto con una nueva campaña: <strong>Burncycle: New Recruits</strong>.
+        <br>
+        <br>
+	         - Invierte 220$ para conseguir todo.<br>
+         - Invierte 45$ para conseguir la nueva campaña.<br>
+         - Invierte 150$ para conseguir el juego base.<br>
+         - ¡Ya está financiado!
+    </div>
+</div>
+<br>
 
 <div class="row">
     <div class="col-md-3">
@@ -57,6 +131,155 @@ Esta entrada se actualizará de forma periódica durante todo el mes de julio,
 
 
 ## Kickstarter
+
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="200" height="200"
+            src="https://ksr-ugc.imgix.net/assets/037/995/542/f4115d1885af8efed1d969f1ae4b8eb5_original.png?ixlib=rb-4.0.2&crop=faces&w=352&h=198&fit=crop&v=1658167835&auto=format&frame=1&q=92&s=6dfbe219ecd1960c175ac41059b4d376"
+            class="img-thumbnail" alt="Forbidden Psalm - KillSampleProcess">
+    </div>
+    <div class="col-md-9">
+        <p>
+            <a target="_blank" 
+                href="https://www.kickstarter.com/projects/impioussaint/forbidden-psalm-killsampleprocess?ref=mazmorreoensolitario">
+            <strong>Forbidden Psalm - KillSampleProcess</strong>
+            </a>
+        </p>
+        - <strong>Forbidden Psalm - KillSampleProcess</strong> es un juego de
+        miniaturas cyberpunk basado en el juego de rol <strong>Cy_Börg</strong>.
+        <br>
+        <br>
+	         - Invierte 9£ para conseguir el libro de reglas en PDF.<br>
+         - Invierte 22£ para conseguir el libro de reglas en tapa blanda.<br>
+         - Invierte 34£ para conseguir el libro de reglas en tapa dura.<br>
+         - ¡Ya está financiado!
+    </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="200" height="200"
+            src="https://cf.geekdo-images.com/sqzOkjbD4c46061A2kYJcQ__imagepage/img/SwhkSNnAmSdGM4Z1rzYJcSGZ6co=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6803338.png"
+            class="img-thumbnail" alt="Aquamarine">
+    </div>
+    <div class="col-md-9">
+        <p>
+            <a target="_blank" 
+                href="https://www.kickstarter.com/projects/postmarkgames/aquamarine?ref=mazmorreoensolitario">
+            <strong>Aquamarine</strong>
+            </a>
+        </p>
+        - <strong>Aquamarine</strong> es un juego roll & write en formato print
+        & play en el que tienes que explorar las profundidades el océano.
+        <br>
+        <br>
+	         - Invierte 4£ para conseguir el juego en formato print & play.<br>
+         - ¡Ya está financiado!
+    </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="200" height="200"
+            src="https://cf.geekdo-images.com/QNSZMJjjxRuSJr1C_R3wTA__imagepage/img/_-rIwx_xXbrajyrXOWFbwNb2fpw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6266958.jpg"
+            class="img-thumbnail" alt="Silver Coin: Age of Monster Hunters">
+    </div>
+    <div class="col-md-9">
+        <p>
+            <a target="_blank" 
+                href="https://www.kickstarter.com/projects/bonafidegames/silver-coin-age-of-monster-hunters?ref=mazmorreoensolitario">
+            <strong>Silver Coin: Age of Monster Hunters</strong>
+            </a>
+        </p>
+        - <strong>Silver Coin: Age of Monster Hunters</strong> es un juego
+        cooperativo o solitario de aventuras en un mundo abierto en el que
+        tienes que cazar y derrotar a monstruos a cambio de unas monedas de plata.
+        <br>
+        <br>
+	         - Invierte 85€ para conseguir el juego.<br>
+         - ¡Ya está financiado!
+    </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="200" height="200"
+            src="https://cf.geekdo-images.com/atjJKVYnNTTn1gZ2lbw8bA__imagepage/img/pZjqlZFGbLD8WMT3m2-UXSIvbmw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5631285.png"
+            class="img-thumbnail" alt="Moonrakers: Titan">
+    </div>
+    <div class="col-md-9">
+        <p>
+            <a target="_blank" 
+                href="https://www.kickstarter.com/projects/ivstudios/moonrakers-titan?ref=mazmorreoensolitario">
+            <strong>Moonrakers: Titan</strong>
+            </a>
+        </p>
+        - En esta campaña puedes conseguir el juego de construcción de mazos
+        <strong>Moonrakers</strong> y tres nuevas expansiones agrupadas bajo
+        <strong>Moonrakers: Titan</strong>.
+        <br>
+        <br>
+	         - Invierte 35$ para conseguir una expansión.<br>
+         - Invierte 65$ para conseguir el juego base.<br>
+         - Invierte 99$ para conseguir las tres expansiones.<br>
+         - ¡Ya está financiado!
+    </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="200" height="200"
+            src="https://cf.geekdo-images.com/bNBkM3Wy-4SMmt9a5YsDyw__imagepage/img/WQqDBIdBbC5dV2jVsmwe_9WSJuA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6883498.png"
+            class="img-thumbnail" alt="Shu's Tactics">
+    </div>
+    <div class="col-md-9">
+        <p>
+            <a target="_blank" 
+                href="https://www.kickstarter.com/projects/shustactics/shus-tactics?ref=mazmorreoensolitario">
+            <strong>Shu's Tactics</strong>
+            </a>
+        </p>
+        - <strong>Shu's Tactics</strong> es un juego roll & write con mecánicas
+        de tower defense que se juega en formato campaña.
+        <br>
+        <br>
+	        - Este juego estará disponible en español.
+            <br>
+            <br>
+         - Invierte 6$ para conseguir el juego en formato print & play.<br>
+         - ¡Ya está financiado!
+    </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="200" height="200"
+            src="https://cf.geekdo-images.com/AnTuPwFv3d3D9iVw7hK6fA__imagepage/img/gfu6MxSw82c0ruEvcI3rpIQvqA0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6875328.jpg"
+            class="img-thumbnail" alt="Roll or die">
+    </div>
+    <div class="col-md-9">
+        <p>
+            <a target="_blank" 
+                href="https://www.kickstarter.com/projects/fundamentalgames/roll-or-die?ref=mazmorreoensolitario">
+            <strong>Roll or die</strong>
+            </a>
+        </p>
+        - <strong>Roll or die</strong> es un juego roll & write en formato
+        print & play en el que tienes que derrotar a todos los enemigos que te
+        vas encontrando.
+        <br>
+        <br>
+	         - Invierte 7CA$ para conseguir el juego.<br>
+         - ¡Ya está financiado!
+    </div>
+</div>
+<br>
 
 <div class="row">
     <div class="col-md-3">
