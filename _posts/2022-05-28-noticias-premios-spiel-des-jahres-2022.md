@@ -49,6 +49,8 @@ en solitario.
     </div>
     <div class="col-md-9">
          <h4><a href="">Cascadia</a></h4>
+         <div class="alert alert-warning" role="alert">
+            <strong>¡Ganador del año!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/295947/cascadia">Cascadia</a></strong>
     de Randy Flynn y publicado por
@@ -129,6 +131,8 @@ También tenemos nominado a **Cryptid**, que no tiene modo en solitario.
             src="https://cf.geekdo-images.com/fPhdfZX9UTLr4-SVgK0zoQ__imagepage/img/PoKEhfCrJtNe_BX-L8OYWDfyAmE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5899025.jpg"
         class="img-thumbnail" alt="Living Forest">
     </div>
+    <div class="alert alert-warning" role="alert">
+            <strong>¡Ganador del año!</strong></div>
     <div class="col-md-9">
          <h4><a href="https://www.philibertnet.com/en/ludonaute/107707-living-forest-3760269592117.html#ae447-11">Living Forest</a></h4>
          <p><strong><a
