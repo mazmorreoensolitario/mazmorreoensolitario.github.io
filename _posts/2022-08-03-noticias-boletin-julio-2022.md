@@ -227,7 +227,7 @@ src="https://cf.geekdo-images.com/xbG5hfGBsxZAvisvs65ewQ__imagepagezoom/img/-Zpd
 
 **—** Otro mes más, tenemos noticias de **GMT Games** gracias a su [newsletter
 mensual](https://mailchi.mp/b03d21c71e06/june-23-update-from-gmt-new-p500s-production-update-sneak-peeks-and-more),
-donde anuncian dos nuevos juegos para su programa **P500**:
+donde se anuncia un nuevo juego dentro del programa **P500**:
 
 <p align="center">
 <img height=""
@@ -263,12 +263,6 @@ original, febrero.
 
 Podéis esperar una entrada donde os pondré las zines que puedan jugarse en
 solitario.
-
-<p align="center">
-<img height="450"
-src=""></p>
-
-**—** **[](?affiliate_id=1914894)**
 
 <p align="center">
 <img height="450"
