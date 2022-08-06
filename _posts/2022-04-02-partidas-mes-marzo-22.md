@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Marzo en juegos"
+title: "Marzo en juegos (2022)"
 date: 2022-04-02
 categories: [General]
 tags: [El mes en juegos, Faiyum, "Fayún", Terraforming Mars, Tiny Towns, Unsurmountable, Infranqueable, Pocket Mars, Space Empires 4X, "Gloomhaven: Jaws of the Lion", "Gloomhaven: Fauces del León", Corrosion, Curious Cargo]

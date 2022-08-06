@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mayo en juegos"
+title: "Mayo en juegos (2022)"
 date: 2022-06-01
 categories: [General]
 tags: [El mes en juegos, Exploradores de las Profundidades Sombrías, Rangers of Shadow Deep, "Ironsworn: Starforged", Ark Nova, Cascadia, Terraforming Mars, Curious Cargo]

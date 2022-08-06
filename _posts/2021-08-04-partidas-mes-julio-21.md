@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Julio en juegos"
+title: "Julio en juegos (2021)"
 date: 2021-08-04
 categories: [General]
 tags: [El mes en juegos, Fayún, Troika, Desert Moon of Karth, Old-School Essentials, The Scourge of the Scorn Lords, Fronds of Benevolence, Terraforming Mars, Cascadia, Faiyum, "Imperium: Classics", Mothership]

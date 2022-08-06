@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Septiembre en juegos"
+title: "Septiembre en juegos (2021)"
 date: 2021-10-02
 categories: [General]
 tags: [El mes en juegos, Fayún, Dirt RPG, Cascadia, "Next War: Korea", Tiny Towns, Terraforming Mars, "Terraforming Mars: Preludio", Faiyum, Spirit Island, Sprawlopolis, Expansiópolis, Curious Cargo, Colonos del Imperio]
