@@ -57,6 +57,7 @@ Guía introductoria sobre qué es el rol en solitario y cómo empezar a jugar:
 
 ### Noticias
 
+* 6 de Agosto, 2022. [Zine Quest 4: las zines en solitario]({{site.baseurl}}/2022/08/08/rol-zinequest-4-en-solitario/)
 * 13 de Febrero, 2022. [Zine Month 2022: las zines de RPGs solo-friendly]({{site.baseurl}}/2022/02/13/rol-zinemonth-22/).
 * 18 de Agosto, 2021. [Premios ENNIE 2021]({{site.baseurl}}/2021/08/18/ennie-awards-2021/).
 * 15 de Julio, 2021. [Juegos en solitario: Premios UK Games Expo de
