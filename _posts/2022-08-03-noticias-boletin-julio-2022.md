@@ -63,7 +63,7 @@ src="https://cf.geekdo-images.com/yoI11o0dAKewAYszEUSxog__imagepage/img/zsOpQ-UA
 
 **—**  Después de un gran tiempo en espera, se ha conocido la portada oficial
 de la **siguiente expansión de Reinos de Papel: [Ce qui forge les
-légends](https://boardgamegeek.com/boardgameexpansion/365468/paper-tales-ce-qui-forge-les-legendes)**
+légendes](https://boardgamegeek.com/boardgameexpansion/365468/paper-tales-ce-qui-forge-les-legendes)** 
 ("Aquello que forja las leyendas"[^1])
 (**análisis** del juego base **[aquí]({{site.baseurl}}/2019/07/05/analisis-reinos-de-papel-mas-alla-de-las-puertas/)**). 
 
@@ -360,9 +360,8 @@ type='text/javascript'>kofiwidget2.init('Y si te ha gustado, invítame a un caf�
 <hr>
 
 [^1]:
-    [Traducción]({{site.baseurl}}/2022/08/01/noticias-boletin-julio-2022//#fnref:1):
-    gracias a mi buen amigo anónimo por ayudarme con la traducción de *Ce qui forge les
-    légends* al español. Este mi mersí oficial.
+    [Traducción]({{site.baseurl}}/2022/08/03/noticias-boletin-julio-2022/#fnref:1):
+    gracias a mi buen amigo anónimo por ayudarme con la traducción de *Ce qui forge les légendes* al español. Este mi mersí oficial.
 
 <small>Nota: Las imágenes de los juegos pertenecen sus respectivos
 autores.</small>

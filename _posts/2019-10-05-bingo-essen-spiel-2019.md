@@ -8,6 +8,11 @@ img: logo-spiel-2019.jpg
 imghtml: https://www.spiel-messe.com/wp-content/uploads/2019/10/SG_Webseite.jpg
 ---
 
+<p align="center">
+<img
+src="https://www.spiel-messe.com/wp-content/uploads/2019/10/SG_Webseite.jpg">
+</p>
+
 Como acabamos de entrar en octubre, llega la tradicional colección de entradas 
 de blogs que hablan sobre los lanzamientos (o no tan lanzamientos) de juegos de
 mesa que vamos a tener este año en la feria **Essen Spiel**; y yo también me 
