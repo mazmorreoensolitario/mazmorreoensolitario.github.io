@@ -28,10 +28,72 @@ siguiente **Zine Quest** se moverá otra vez a febrero.
 Aquí os dejo las zines que pueden jugarse en solitario, y algo más abajo las
 zines que tienen settings o recursos que pueden ayudar al juego en solitario:
 
-Última actualización: **6 de agosto**.
+Última actualización: **15 de agosto**.
+
 
 ### Zines para el juego en solitario
 
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/037/921/012/d3d6f3f263c018536e2bd2918610cb65_original.png?ixlib=rb-4.0.2&w=680&fit=max&v=1657551454&gif-q=50&lossless=true&s=f22cd0299e1fad98830a8b2ac9f64d97"
+        class="img-thumbnail" alt="NOTORIOUS">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/alwayscheckers/notorious-a-solo-rpg-zine?ref=mazmorreoensolitario">NOTORIOUS</a>  <span class="label label-info"><strong>Crowdfunding</strong></span></h4>
+        <p>Juega como un cazarecompensas en medio de una guerra intergaláctica.</p>
+        <p><strong>NOTORIOUS</strong> es un juego de rol para un jugador en el
+        que cuentas historias de los nómadas, unos cazarecompensas que causan
+        miedo entre los villanos y la chusma de la galaxia.</p>
+        <ul>
+            <li>PDF: 5£</li>
+            <li>PDF + copia en físico: 10£</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/038/222/873/761ec44006b744db6bf286bd97aaf18f_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1024&h=576&fit=crop&v=1660057991&auto=format&frame=1&q=92&s=8c31bb444473c2e9f64c66acebef73a5"
+        class="img-thumbnail" alt="Pocket Hex">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/pockethexmod/pocket-hex?ref=mazmorreoensolitario">Pocket Hex</a>  <span class="label label-info"><strong>Crowdfunding</strong></span></h4>
+        <p>Tres zines tipo pocketmod para jugar un hexcrawl en solitario </p>
+        <p><strong>Pocket Hex</strong> es una colección de tres zines en
+    formato pocketmod con las que puedes jugar en solitario en un formato hexcrawl </p>
+        <ul>
+            <li>PDF: 4$</li>
+            <li>PDF + copia en físico: 7$</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://ksr-ugc.imgix.net/assets/037/911/364/2b7c85e454d5baf073af69cfc087f3af_original.png?ixlib=rb-4.0.2&crop=faces&w=352&h=198&fit=crop&v=1657456662&auto=format&frame=1&q=92&s=59e9e61ace9e1fd24adf09ba113104dc"
+        class="img-thumbnail" alt="One Breath Left">
+    </div>
+    <div class="col-md-9">
+         <h4><a
+    href="https://www.kickstarter.com/projects/stoutstoat/one-breath-left?ref=mazmorreoensolitario">One Breath Left</a>  <span class="label label-info"><strong>Crowdfunding</strong></span></h4>
+        <p>Explora naves espaciales</p>
+        <p><strong>One Breath Left</strong> es un juego de rol de escritura
+    creativa en el que exploras naves espaciales abandonadas generadas de forma
+    procedural con el objetivo de documentar qué pasó con la nave.</p>
+        <ul>
+            <li>PDF: 15£</li>
+            <li>PDF + copia en físico: 25£</li>
+            <li>¡Ya está financiada!</li>
+        </ul>
+     </div>
+</div>
 
 <div class="row">
     <div class="col-md-3">
@@ -103,7 +165,7 @@ zines que tienen settings o recursos que pueden ayudar al juego en solitario:
     </div>
     <div class="col-md-9">
          <h4><a
-    href="https://www.kickstarter.com/projects/firekeytarot/last-sabbath-the-witches-rpg-illustrated-by-loputy?ref=mazmorreoensolitario">Last Sabbath - The Witches' RPG</a>  <span class="label label-info"><strong>Crowdfunding</strong></span></h4>
+    href="https://www.kickstarter.com/projects/firekeytarot/last-sabbath-the-witches-rpg-illustrated-by-loputyn?ref=mazmorreoensolitario">Last Sabbath - The Witches' RPG</a>  <span class="label label-info"><strong>Crowdfunding</strong></span></h4>
         <p>Juego de escritura sobre un aquelarre </p>
         <p><strong>Last Sabbath - The Witches' RPG</strong> es un juego de
     escritura creativa en solitario en el que contestas la llamada de la Madre
@@ -193,6 +255,7 @@ zines que tienen settings o recursos que pueden ayudar al juego en solitario:
         <ul>
             <li>PDF: 6$</li>
             <li>PDF + copia en físico: 10$</li>
+            <li>¡Ya está financiada!</li>
         </ul>
      </div>
 </div>
@@ -311,7 +374,7 @@ zines que tienen settings o recursos que pueden ayudar al juego en solitario:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/philipjensen/trapped-within-a-mork-borg-zine?ref=mazmorreoensolitario">Trapped
-    Within – a Mörk Borg zine</a> <span class="label label-info"><strong>Crowdfunding</strong></span></h4>
+    Within – a Mörk Borg zine</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Aventura para Mörk Borg</p>
         <p><strong>Trapped Within – a Mörk Borg zine</strong> es una aventura
     para Mörk Borg dentro de una antigua prisión, y ha desbloqueado un modo en
@@ -334,7 +397,7 @@ zines que tienen settings o recursos que pueden ayudar al juego en solitario:
     </div>
     <div class="col-md-9">
          <h4><a
-    href="?ref=mazmorreoensolitario">Atop the Wailing Dunes</a> <span class="label label-info"><strong>Crowdfunding</strong></span></h4>
+    href="https://www.kickstarter.com/projects/sofinho/atop-the-wailing-dunes?ref=mazmorreoensolitario">Atop the Wailing Dunes</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Aventura tipo hexcrawl</p>
         <p><strong>Atop the Wailing Dunes</strong> es una zine con un hexcrawl
     para PARIAH.</p>
@@ -355,7 +418,7 @@ zines que tienen settings o recursos que pueden ayudar al juego en solitario:
     <div class="col-md-9">
          <h4><a
     href="https://www.kickstarter.com/projects/xploringmap/loot-hunters-first-coin?ref=mazmorreoensolitario">Loot
-    Hunters - First Coin</a> <span class="label label-info"><strong>Crowdfunding</strong></span></h4>
+    Hunters - First Coin</a> <span class="label label-default"><strong>Finalizada</strong></span></h4>
         <p>Suplemento agnostico al sistema</p>
         <p><strong>Loot Hunters - First Coin</strong> es una zine que contiene
     mapas, lore de diferentes regiones y pequeñas aventuras para los mapas que
