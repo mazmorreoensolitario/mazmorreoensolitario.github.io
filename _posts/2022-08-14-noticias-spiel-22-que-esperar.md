@@ -34,7 +34,7 @@ src="https://www.spiel-messe.com/wp-content/uploads/2022/07/Gela%cc%88ndeplan-Sp
 </p>
 <p align="left"><small>Plano de Messe Essen</small></p>
 
-Arriba tenéis el plano de la la feria, siendo las entradas clásicas la **Oeste
+Arriba tenéis el plano de la la feria, siendo la entrada clásica la **Oeste
 (West)**, pero una de las más concurridas. Yo personalmente os recomiendo que
 entréis por la que os pille más cerca de lo que queráis ojear el primer día,
 pero si buscáis la que tenga menos agobio, en mi opinión sería la **Este
@@ -58,7 +58,7 @@ para ellas el año comienza en octubre, junto con la **SPIEL**.
 En cuanto a visitantes, en 2019 se llegó al
 [récord](https://de.wikipedia.org/wiki/Internationale_Spieltage) de **20900**,
 en 2020 fue digital, 2021 hubo muchas restricciones por el tema de vacunas y
-vuelos y no llegó a los 10000, mientras que este 2022 se espera remontar y
+vuelos y no llegó a los 100000, mientras que este 2022 se espera remontar y
 llegar a cifras pre-pandemia.
 
 Y en cuanto a juegos, a fecha de publicación de esta entrada tenemos una lista
