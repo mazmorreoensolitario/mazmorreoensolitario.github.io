@@ -56,9 +56,9 @@ para ellas el año comienza en octubre, junto con la **SPIEL**.
 ## ¿Qué se espera?
 
 En cuanto a visitantes, en 2019 se llegó al
-[récord](https://de.wikipedia.org/wiki/Internationale_Spieltage) de **20900**,
+[récord](https://de.wikipedia.org/wiki/Internationale_Spieltage) de **209.000**,
 en 2020 fue digital, 2021 hubo muchas restricciones por el tema de vacunas y
-vuelos y no llegó a los 100000, mientras que este 2022 se espera remontar y
+vuelos y no llegó a los 100.000, mientras que este 2022 se espera remontar y
 llegar a cifras pre-pandemia.
 
 Y en cuanto a juegos, a fecha de publicación de esta entrada tenemos una lista
