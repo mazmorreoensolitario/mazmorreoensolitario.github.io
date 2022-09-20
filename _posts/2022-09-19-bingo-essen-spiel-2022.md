@@ -101,12 +101,12 @@ la feria pero que quiero probar por una cosa y otra:
          <p><strong>¿Por qué me interesa este juego?</strong> Generalmente los
          juegos de Eklund son obtusos de aprender solamente leyendo el manual
          porque los escribe de forma rara y no de la forma que la mayoría del
-    público demanda, lo que hace que averiguar si un juego me gusta o no
+    público demanda; lo que hace que averiguar si un juego me gusta o no
     bastante más complicado, porque yo me suelo leer los manuales para hacerme
     a la idea, pero con este autor es imposible.</p>
-        <p>Así que, como este es un juego de espacio exploración espacial, tema
+        <p>Así que, como este es un juego de exploración espacial, tema
         que me gusta mucho, tiene relación con <strong>High Frontier 4
-        All</strong> me también me gusta mucho, quiero ir a una demo de este
+        All</strong>, que me también me gusta mucho, quiero ir a una demo de este
         juego para ver qué me parece.</p>
      </div>
 </div>
@@ -213,7 +213,7 @@ la feria pero que quiero probar por una cosa y otra:
         precio de venta de <strong>89€</strong> y las reglas no me han parecido
     muy claras, por lo que es uno de esos juegos que espero que me expliquen
     para averiguar si me podría gustar o no, ya que 89€ me parece una inversión
-    importante para un juego, me tiene que gustar mucho-mucho-mucho para
+    importante para un juego; me tiene que gustar mucho-mucho-mucho para
     planteárme comprarlo. Y es por eso que se convierte en mi demo más deseada
     de este año.</p>
      </div>
@@ -265,7 +265,7 @@ interesantes, y quiero volver a casa con ellos:
          <a
     href="https://greaterthangames.com/announcing-horizons-of-spirit-island/">anunció
 como exclusivo</a> para la venta en Estados Unidos en tiendas Target
-            durante dos años, y después se abriría al resto de mundo (como pasó
+            <strong>durante dos años</strong>, y después se abriría al resto de mundo (como pasó
             con el periodo de exclusividad de varios meses de <a
     href="https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion">Gloomhaven:
 Jaws of the Lion</a> en 2020), pero luego <a
@@ -315,10 +315,10 @@ Jaws of the Lion</a> en 2020), pero luego <a
     Baphomet. Las cartas del mazo no pueden usarse directamente, sino que hay
     que invocarlas pagando un coste de Poder Mágico para ponerlas en juego. Una
     vez que han sido invocadas podemos usar los diferentes efectos que esta 
-    nos diga cuando hagamos lo que nos diga la carta (la descartemos o la
-    movamos a la pila de sacrificio). Cuando no podamos hacer algo más, se
-    regenerará otra vez el mazo con los descartes y volveremos a tratar de
-    invocar cartas, pero puede que hayamos sufrido daño en el proceso. Si
+    nos diga cuando apliquemos la mecánica que nos diga la carta (la
+    descartemos o la movamos a la pila de sacrificio). Cuando no podamos hacer
+    nada más, se regenerará otra vez el mazo con los descartes y volveremos a
+    tratar de invocar cartas, pero puede que hayamos sufrido daño en el proceso. Si
     sufrimos tres de daño, nos quedamos sin rondas o perdamos alguna de las
     cartas clave, habremos perdido.</p>
     <p>Te dejo aquí las <a
@@ -371,12 +371,12 @@ Jaws of the Lion</a> en 2020), pero luego <a
     acción que haya tocado en el rondel ese turno (entre <i>Architect</i>,
     <i>Merchant</i>, <i>Character</i>, <i>Contract</i>, <i>King</i> y
     <i>Joker</i>), pero nos asignará 1 acción de ese tipo.</p>
-    <img src="https://secureservercdn.net/198.71.233.168/wkz.953.myftpupload.com/wp-content/uploads/2022/08/Tiletum-Komponenty-1-scaled.jpg">
-    <p><small>Contenido de la caja de Tiletum, foto de Board & Dice</small></p>
+    <img src="https://secureservercdn.net/198.71.233.168/wkz.953.myftpupload.com/wp-content/uploads/2022/09/Tiletum-Rozgrywka-1-1200x800.jpg">
+    <p><small>Tiletum preparado para jugar, foto de Board & Dice</small></p>
     <p>Así por encima os comento que las diferentes tipos de acciones nos
     permiten interactuar con las diferentes zonas del tablero principal y de
-    nuestro tablero de jugador, para conseguir bonos de recursos o acciones en
-    los siguientes turnos o para manipular el orden de los jugadores. Para
+    nuestro tablero de jugador; también sirven para conseguir bonos de recursos o acciones en
+    los siguientes turnos, y también podemos manipular el orden de los jugadores. Para
     movernos por el mapa de Europa tenemos dos diferentes peones, que son el
     arquitecto (asociado a la acción del mismo nombre) y el mercader (asociado
     a las acciones del mismo nombre).</p>
@@ -385,7 +385,7 @@ Jaws of the Lion</a> en 2020), pero luego <a
     en los sitios en los que se quiere construir una catedral para poder
     participar en su construcción, y las casitas también del tablero del
     jugador nos habilitan para participar en cada feria que se celebra al final
-    de cada ronda, y en cada una de estas ferias se dan un montonazo de puntos
+    de cada ronda, ya que en cada una de estas ferias se dan un montonazo de puntos
     en base a si tenemos algunas cosas o no, como desarrollo de nuestro tablero
     de jugador, casitas o pilares por el mapa, participaciones en la
     construcción de catedrales etc.</p>
@@ -394,9 +394,9 @@ Jaws of the Lion</a> en 2020), pero luego <a
     que se leen muy bien (el modo en solitario tiene un <a
     href="https://www.dropbox.com/s/u7ezcpmaff2848v/tiletum_solo_rulebook_final.pdf?dl=0">libro
     de reglas</a> separado).</p>
-         <img src="https://secureservercdn.net/198.71.233.168/wkz.953.myftpupload.com/wp-content/uploads/2022/09/Tiletum-Rozgrywka-1-1200x800.jpg">
-         <p><small>Tiletum preparado para jugar, foto de Board & Dice</small></p>
-         <p><strong>¿Por qué me interesa este juego?</strong> Comencé a
+    <img src="https://secureservercdn.net/198.71.233.168/wkz.953.myftpupload.com/wp-content/uploads/2022/08/Tiletum-Komponenty-1-scaled.jpg">
+    <p><small>Contenido de la caja de Tiletum, foto de Board & Dice</small></p>
+    <p><strong>¿Por qué me interesa este juego?</strong> Comencé a
     interesarme en los juegos de la "Serie T" con el lanzamiento de <a
     href="https://boardgamegeek.com/boardgame/316786/tabannusi-builders-ur">Tabannusi</a>
     en la <a href="{{site.baseurl}}/2021/10/12/bingo-essen-spiel-2021/">Spiel
@@ -406,9 +406,9 @@ Jaws of the Lion</a> en 2020), pero luego <a
     ha pasado eso, tras leer las reglas me ha parecido mucho más sencillo y es
     menos "euro sin alma" de lo que me parecía <strong>Tabannusi</strong>, a
     <strong>Tiletum</strong> yo le puedo sacar algo de sentido a las cosas que
-    hacemos y tras ver un pequeño <a
+    hacemos, y tras ver un pequeño <a
     href="https://www.youtube.com/watch?v=7MvQywI0lfg">playthrough</a> me ha
-    convencido. Así que en un principio se viene, con un precio de
+    convencido del todo. Así que en un principio se viene, con un precio de
     <strong>55€</strong>, el más caro de esta lista y también el más complejo
     mecánicamente.</p>
      </div>
@@ -433,9 +433,10 @@ Jaws of the Lion</a> en 2020), pero luego <a
     nuestro objetivo es ganar más puntos que la IA, nuestro rival. Ganamos
     puntos llevando pasajeros a sus planetas destino y siendo el primer jugador
     que coloca un agujero de gusano en la cercanía de un planeta. Los agujeros
-    de gusano están formados con dos fichas que tienen el mismo número y color
-    (identificador del jugador), de forma que cuando lleguemos a una de esas
-    fichas automáticamente podremos movernos a la otra. Podemos
+    de gusano están formados con dos fichas gemelas que tienen el mismo número
+    y color identificador del jugador), de forma que cuando lleguemos a una de
+    esas fichas automáticamente podremos movernos a la otra que tenga el mismo
+    número y color. Podemos
     usar tanto nuestros agujeros de gusano como los que haya creado la IA, pero
     si usamos los de la IA esta gana un punto por viaje.</p>
     <p>En nuestro
@@ -460,7 +461,7 @@ Jaws of the Lion</a> en 2020), pero luego <a
     <strong>construcción de rutas</strong>, unas de mis favoritas. Así que en
     un principio esto puso el semáforo verde. Tuvimos que esperar hasta junio
     de este año para poder ver las primeras imágenes del juego de cara a su
-    lanzamiento en GenCon, y después subieron el manual. Tras leerlo el
+    lanzamiento en <strong>GenCon</strong>, y después subieron el manual. Tras leerlo el
     semáforo se mantuvo en verde. Tiene poquísimas reglas y es uno de esos
     juegos que entiendes completamente tras leer el manual, así que me
     convenció. Además de esto nuestra IA rival tenía varios niveles de
@@ -469,8 +470,8 @@ Jaws of the Lion</a> en 2020), pero luego <a
     <p>Tras GenCon, algunas tiendas online ya aceptaban pre-ventas y el precio
     era de <strong>55€</strong>, lo que me hizo descartar el juego de mi lista
     de deseos, ya que me parecía excesivo para algo que había sido
-    promocionado como "ligero y de caja pequeña" (la caja es tamaño cuadrado de
-    ~24cm), y ya si eso pensaría comprarlo de segunda mano. Sin embargo, en un
+    promocionado como "ligero y de caja pequeña" (la caja es de tamaño cuadrado
+    de ~24cm), y ya si eso pensaría comprarlo de segunda mano. Sin embargo, en un
     giro de los acontecimientos, en la lista de la Spiel de BGG y en la Spiel
     Guide official, el juego tiene un precio de venta de <strong>35€</strong>,
     que me parece hasta menos de lo que yo pensaba que iba a valer —unos 40€,
@@ -578,20 +579,29 @@ la Spiel, ya que espero hacerme con una expansión:
 Y bueno, esto es todo, pero quiero hablaros también de otros juegos que están
 haciendo mucho ruido y que no han salido en mi lista:
 
-El primero es **Terracotta Army**, del que no he leído las reglas porque todas
-esas minis que tiene en el tablero me dan alergia, hay gente a la que le mola
-eso, yo veo dinero que podrían haber quitado del PVP. Esto no quita que si veo
-sitio en una mesa en la que están haciendo una demo, me voy a sentar seguro,
-pero no está alto en la lista de prioridades. Probaría el **Tiletum** antes de
-comprar cuando vaya al stand de **Board & Dice**, y si surge, surge, pero
-tampoco voy a buscar una demo.
+El primero es **[Terracotta
+Army](https://boardgamegeek.com/boardgame/350458/terracotta-army)**, del que no
+he leído las reglas porque todas esas minis que tiene en el tablero me dan
+alergia, hay gente a la que le mola eso, pero yo veo dinero que podrían haber
+quitado del PVP. Esto no quita que si veo sitio en una mesa en la que están
+haciendo una demo, no me vaya a sentar seguro, pero no está alto en la lista de
+prioridades. Probaría el **Tiletum** antes de comprar cuando vaya al stand de
+**Board & Dice**, y si surge una demo de **Terracotta Army**, surge, pero
+tampoco voy a ir buscándola. 
 
-El segundo es **Woodcraft**, la novedad de Vladimír Suchý. Así como su novedad
-del año anterior **Messina 1347**, me pareció más interesante, esta no tanto,
-pero sí que lo tengo en mi lista de juegos que hay que probar en la feria.
+El segundo es
+**[Woodcraft](https://boardgamegeek.com/boardgame/355093/woodcraft)**, la
+novedad de Vladimír Suchý. Así como su novedad 
+del año anterior **[Messina
+1347](https://boardgamegeek.com/boardgame/238799/messina-1347)**, me pareció
+más interesante, esta no tanto, pero sí que lo tengo en mi lista de juegos que
+hay que probar en la feria.
 
-Los siguientes son los de la escuela española, **Sabika**, **Lacrimosa** y
-**Flowar**; no he leído ninguno de los manuales porque va a haber copias
+Los siguientes son los de la escuela española,
+**[Sabika](https://boardgamegeek.com/boardgame/360265/sabika)**,
+**[Lacrimosa](https://boardgamegeek.com/boardgame/348450/lacrimosa)** y 
+**[Flowar](https://boardgamegeek.com/boardgame/240357/flowar)**; no he leído
+ninguno de los manuales porque va a haber copias 
 fácilmente disponibles (me refiero a que son editoriales españolas y que son
 juegos más fáciles de conseguir por eso), así que no me urge enterarme de cómo
 se juegan antes de ir a la feria. Allí espero probarlos, puede que me interesen
@@ -599,26 +609,37 @@ más en este otro orden: primero **Sabika**, seguido de **Flowar** y después
 **Lacrimosa**.
 
 Sobre los lanzamientos de **Uwe Rosenberg**, también quiero probar ambos
-(**Atiwa** y **Oranienburger Kanal**), pero del primero no han subido el
-manual, así que voy a ciegas, y del segundo de ni fu ni fa.
+(**[Atiwa](https://boardgamegeek.com/boardgame/362452/atiwa)** y
+**[Oranienburger
+Kanal](https://boardgamegeek.com/boardgame/352695/oranienburger-kanal)**), pero
+del primero no han subido el manual, así que voy a ciegas, y del segundo ni fu
+ni fa.
 
-**Verdant** se va a poder comprar en la Spiel, y casi entra en mi lista de
-compras pero aún tengo la campaña del **Cascadia** sin terminar, así que no sé,
-ya lo trae **Maldito Games** en un futuro, así que no tengo prisa por
-comprarlo. Me gustó lo que jugué en la app, pero no me parece que merezca la
-pena comprarlo en la Spiel.
+**[Verdant](https://boardgamegeek.com/boardgame/334065/verdant)** se va a poder
+comprar en la Spiel, y casi entra en mi lista de compras pero aún tengo la
+campaña del **Cascadia** sin terminar, así que no sé, ya lo trae **Maldito
+Games** en un futuro, así que no tengo prisa por comprarlo. Me gustó lo que
+jugué en la app, pero no me parece que merezca la pena comprarlo en la Spiel.
 
-**Earthborne Rangers** se lista como una de las demos que va a haber este año
-en la Spiel, no la he añadido porque sale con la editorial alemana **Frosted
-Games** y posiblemente sean todas las demos en alemán... y mi nivel de alemán
-aún no es suficientemente alto como para asistir a demos. Si resulta que hay
-demos en inglés no me la perdería.
+**[Earthborne
+Rangers](https://boardgamegeek.com/boardgame/342900/earthborne-rangers)** se
+lista como una de las demos que va a haber este año en la Spiel, no la he
+añadido porque sale con la editorial alemana **Frosted Games** y posiblemente
+sean todas las demos en alemán... y mi nivel de alemán aún no es
+suficientemente alto como para asistir a demos. Si resulta que hay demos en
+inglés no me lo perdería.
 
-Y eso es un poco todo... **Voidfall** también está por ahí pero el dúo de
-**Nigel Buckle** y **Dávid Turci** me da miedo tras el **Imperium: Classics**,
-pero posiblemente también lo pruebe. **Autobahn** me pareció plano tras leer el
-manual y ver un playthrough, así que completamente descartado... y me estoy
-enrollando, espero hablaros de lo que haya jugado cuando asista a la feria.
+Y eso es un poco
+todo... **[Voidfall](https://boardgamegeek.com/boardgame/342900/earthborne-rangers)**
+también está por ahí pero el dúo de 
+**Nigel Buckle** y **Dávid Turczi** me da miedo tras el **[Imperium:
+Classics](https://boardgamegeek.com/boardgame/318184/imperium-classics)** 
+([análisis aquí]({{site.baseurl}}/2021/08/31/analisis-imperium-classics/)),
+pero posiblemente también lo
+pruebe. **[Autobahn](https://boardgamegeek.com/boardgame/348554/autobahn)** me
+pareció plano tras leer el manual y ver un playthrough, así que completamente
+descartado... y me estoy enrollando, espero hablaros de lo que haya jugado
+cuando asista a la feria.
 
 ¿Tenéis vosotros algún juego que estéis esperando con mucha ansia? ¿Compartimos
 algún juego deseado? 
