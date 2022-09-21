@@ -61,6 +61,13 @@
       {% endfor %}
     </div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2022/09/19/bingo-essen-spiel-2022/" %}
+       {% for post in target-posts %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -103,21 +110,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2021/11/14/noticias-csr-awards-2021/" %}
+       {% for post in target-posts %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2018/11/05/analisis-mini-rogue/" %}
-       {% for post in target-posts %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/03/09/analisis-maquis/" %}
-       {% for post in target-posts %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/07/23/analisis-orchard/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -131,76 +131,73 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Tops"
       or tag[0] == "Aeon's End"
+      or tag[0] == "Dados y Colonos"
       or tag[0] == "Disciples of Bone and Shadow"
-      or tag[0] == "Ironsworn"
-      or tag[0] == "Atlantic Chase"
-      or tag[0] == "Gloomhaven: Fauces del León"
-      or tag[0] == "Iron Helm"
-      or tag[0] == "Resistid"
-      or tag[0] == "Tin Helm"
-      or tag[0] == "Beyond the Sun"
-      or tag[0] == "Bios: Megafauna"
-      or tag[0] == "Caesar: Rome vs. Gaul"
-      or tag[0] == "Colonos del Imperio: Imperios del Norte"
-      or tag[0] == "Essen Spiel 2022"
-      or tag[0] == "Gloomhaven: Jaws of the Lion"
-      or tag[0] == "Kickstarter"
-      or tag[0] == "Labyrinth Lord"
-      or tag[0] == "Lux Aeterna"
-      or tag[0] == "Mythic"
-      or tag[0] == "Nemesis"
-      or tag[0] == "OSR"
-      or tag[0] == "Pico Pluma & Hueso"
-      or tag[0] == "Print & play"
+      or tag[0] == "Forbidden Lands"
       or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Tiletum"
+      or tag[0] == "Atlantic Chase"
+      or tag[0] == "Dune: Imperium"
+      or tag[0] == "Five Parsecs From Home"
+      or tag[0] == "High Frontier 4 All"
+      or tag[0] == "Ironsworn"
+      or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Nemesis"
+      or tag[0] == "Print & play"
+      or tag[0] == "Resistid"
+      or tag[0] == "Ruins of the Undercity"
+      or tag[0] == "Scarlet Heroes"
       or tag[0] == "Solitaire Print & Play Design Contest"
-      or tag[0] == "Star Realms"
       or tag[0] == "Wingspan"
+      or tag[0] == "7 Wonders Duel"
       or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "A las Puertas de Loyang"
-      or tag[0] == "Aeon's End: Legacy"
+      or tag[0] == "Across a Thousand Dead Worlds"
+      or tag[0] == "Aleph Null"
+      or tag[0] == "Ark Nova"
       or tag[0] == "Arquitectos del Reino del Oeste"
-      or tag[0] == "Barrage"
-      or tag[0] == "Black Sonata"
-      or tag[0] == "Brazil: Imperial"
-      or tag[0] == "Compass Games"
+      or tag[0] == "Beak Feather & Bone"
+      or tag[0] == "Beyond the Sun"
+      or tag[0] == "Bitoku"
+      or tag[0] == "Caesar: Rome vs. Gaul"
+      or tag[0] == "Colonos del Imperio: Imperios del Norte"
       or tag[0] == "Conflict of Heroes"
-      or tag[0] == "Dados y Colonos"
-      or tag[0] == "Dune: Imperium"
       or tag[0] == "El mes en juegos"
       or tag[0] == "El Señor de los Anillos: el Juego de Cartas"
-      or tag[0] == "Essen Spiel"
-      or tag[0] == "Expansiópolis"
-      or tag[0] == "Fábulas de Peluche"
-      or tag[0] == "Faiyum"
+      or tag[0] == "Essen Spiel 2022"
+      or tag[0] == "Etherfields"
+      or tag[0] == "Everdell"
       or tag[0] == "Fallout"
-      or tag[0] == "Five Parsecs From Home"
+      or tag[0] == "Fateforge: Chronicles of Kaan"
+      or tag[0] == "Findorff"
       or tag[0] == "Four Against Darkness"
-      or tag[0] == "GMT Games"
-      or tag[0] == "Gran Austria Hotel"
-      or tag[0] == "High Frontier 4 All"
-      or tag[0] == "Imperial Steam"
-      or tag[0] == "Ironsworn: Starforged"
+      or tag[0] == "Gloomhaven: Fauces del León"
+      or tag[0] == "Great War Commander"
+      or tag[0] == "Horizons of Spirit Island"
+      or tag[0] == "Interstellar"
+      or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "Mythic"
       or tag[0] == "Non Gratus Rodentum"
-      or tag[0] == "Old-School Essentials"
       or tag[0] == "On Mars"
-      or tag[0] == "One Deck Dungeon: Forest of Shadows"
-      or tag[0] == "Oneironaut"
-      or tag[0] == "Oranienburger Kanal"
-      or tag[0] == "Pathfinder Adventure Card Game"
+      or tag[0] == "OSR"
+      or tag[0] == "Pampero"
+      or tag[0] == "Paperback Adventures"
+      or tag[0] == "Pathfinder"
       or tag[0] == "Pax Renaissance"
+      or tag[0] == "Pilgrim"
       or tag[0] == "Res Arcana"
       or tag[0] == "Robinson Crusoe"
       or tag[0] == "Root: Los Cachivaches"
-      or tag[0] == "Ruins of the Undercity"
+      or tag[0] == "Root"
       or tag[0] == "Russian Railroads: German Railroads"
-      or tag[0] == "Russian Railroads"
       or tag[0] == "Saqueadores de Escitia"
-      or tag[0] == "Scarlet Heroes"
+      or tag[0] == "Small World of Warcraft"
+      or tag[0] == "Spirit Island"
       or tag[0] == "The Vast in the Dark"
-      or tag[0] == "Warhammer Quest: Cursed City"
-      or tag[0] == "Zine Quest 2"
-      or tag[0] == "Zombicide" %}
+      or tag[0] == "Unbroken"
+      or tag[0] == "World at War 85: Storming the Gap"
+      or tag[0] == "Wormholes"
+      or tag[0] == "Zine Quest 2" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
