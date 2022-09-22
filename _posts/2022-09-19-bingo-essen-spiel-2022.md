@@ -373,13 +373,13 @@ Jaws of the Lion</a> en 2020), pero luego <a
     <i>Joker</i>), pero nos asignará 1 acción de ese tipo.</p>
     <img src="https://secureservercdn.net/198.71.233.168/wkz.953.myftpupload.com/wp-content/uploads/2022/09/Tiletum-Rozgrywka-1-1200x800.jpg">
     <p><small>Tiletum preparado para jugar, foto de Board & Dice</small></p>
-    <p>Así por encima os comento que las diferentes tipos de acciones nos
+    <p>Así por encima os comento que los diferentes tipos de acciones nos
     permiten interactuar con las diferentes zonas del tablero principal y de
-    nuestro tablero de jugador; también sirven para conseguir bonos de recursos o acciones en
-    los siguientes turnos, y también podemos manipular el orden de los jugadores. Para
-    movernos por el mapa de Europa tenemos dos diferentes peones, que son el
-    arquitecto (asociado a la acción del mismo nombre) y el mercader (asociado
-    a las acciones del mismo nombre).</p>
+    nuestro tablero de jugador; también sirven para conseguir bonos de recursos
+    o acciones en los siguientes turnos, y también podemos manipular el orden
+    de los jugadores. Para movernos por el mapa de Europa tenemos dos peones
+    diferentes, que son el arquitecto y el mercader, y que están asociados con
+    las dos acciones de ese mismo nombre..</p>
     <p>
     Las columnas que veis en los tableros de los jugadores hay que colocarlas
     en los sitios en los que se quiere construir una catedral para poder
@@ -434,9 +434,9 @@ Jaws of the Lion</a> en 2020), pero luego <a
     puntos llevando pasajeros a sus planetas destino y siendo el primer jugador
     que coloca un agujero de gusano en la cercanía de un planeta. Los agujeros
     de gusano están formados con dos fichas gemelas que tienen el mismo número
-    y color identificador del jugador), de forma que cuando lleguemos a una de
-    esas fichas automáticamente podremos movernos a la otra que tenga el mismo
-    número y color. Podemos
+    y color (el color identifica al jugador), de forma que cuando lleguemos a
+    una de esas fichas automáticamente podremos movernos a la otra que tenga el
+    mismo número y color. Podemos
     usar tanto nuestros agujeros de gusano como los que haya creado la IA, pero
     si usamos los de la IA esta gana un punto por viaje.</p>
     <p>En nuestro
@@ -560,8 +560,10 @@ la Spiel, ya que espero hacerme con una expansión:
          impresiones</a> aquí) que añade dos nuevos mapas de zoo (tableros de
          jugador) al juego. Es para darle más variedad a un juego que ya tiene
          muchísima, pero aún así me gustaría hacerme con ellos.</p>
-         <p>Creo que va a ser un poco complicado, porque va a haber más copias
-         en alemán que en inglés, pero hay que intentarlo igualmente. Esta
+         <p>Creo que va a ser un poco complicado hacerme con estos tableros
+         porque va a haber más copias en alemán que en inglés, pero hay que
+         intentarlo igualmente.
+         Esta
          expansión es oficialmente mi ítem número dos en la lista de
          prioridades de conseguir el primer día, tras el <strong>Horizons of
          Spirit Island</strong>.
