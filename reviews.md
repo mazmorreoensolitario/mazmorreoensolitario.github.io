@@ -24,6 +24,17 @@ La escala es la siguiente:
 * 4 monedas - ¡este juego es genial!
 * 5 monedas - ES IDEAL
 
+El indicador **dependencia del idioma** de un juego (únicamente
+en los juegos en inglés) explica cómo de importante es que tengáis soltura en
+el idioma para poder jugar al juego y entenderlo. **NO significa** que un juego
+tenga un "nivel de inglés alto" o "nivel de inglés bajo", eso es una
+desfachatez y no es una métrica objetiva. Con esta métrica trato de explicar
+cuántos elementos dependen de que entendáis el idioma; por ejemplo, si el juego
+solamente tiene el manual en inglés y el resto es independiente del idioma,
+entonces tendrá una dependencia *baja*, si por otro lado, además del manual el
+juego requiere que estéis leyendo cartas y estas no están doblemente
+codificadas con iconos, entonces la dependencia será *alta*.
+
 ## Índice por puntuaciones
 
 <div class="col-md-12">
