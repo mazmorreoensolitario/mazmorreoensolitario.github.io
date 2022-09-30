@@ -437,6 +437,9 @@ preparar:
     hayamos empezado. En este juego para ajustar la dificultad puedes ponerte
     más o menos tiempo para jugar y puedes empezar más o menos cerca del
     agujero negro.</p>
+    <p>Aquí tienes <strong><a
+    href="{{site.baseurl}}/2022/09/29/analisis-lux-aeterna/">un análisis
+    detallado</a></strong> del juego.</p>
     <img
     src="https://live.staticflickr.com/65535/51183809295_771a86775a_b.jpg">
     <p><small>Partida de Lux Aeterna en curso</small></p>

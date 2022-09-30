@@ -130,7 +130,7 @@ con una habilidad, y otra parte en un color (específico de cada sistema) que
 también tiene una habilidad.
 
 Cuando un sistema esté en proceso de arreglarse, la carta estará en horizontal y
-tendrá todavía su lado de salud encima, cuando la carta esté en vertical será porque
+tendrá todavía su dado de salud encima, cuando la carta esté en vertical será porque
 esté el sistema arreglado en el caso de tener la parte de color arriba, o roto,
 si la parte negra está arriba.
 
