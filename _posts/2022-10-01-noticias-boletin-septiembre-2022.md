@@ -5,8 +5,8 @@ date: 2022-10-01
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario", Coffee Roaster, Fields of Fire, "Ironsworn: Starforged", Dorfromantik, Woodcraft, Terraforming Mars, Horizons of Spirit Island, Spirit Island]
 imghtml: https://live.staticflickr.com/65535/52397151693_d60a3eb0c3_o.png
-post_desc: ", con un resumen de todas las novedades, próximos lanzamientos,
-crowdfunding y mucho más"
+post_desc: "BIS de septiembre, con un resumen de las noticias de juegos de
+mesa, rol y wargames en solitario del mes"
 ---
 
 ![](https://live.staticflickr.com/65535/52397151693_d60a3eb0c3_o.png)
