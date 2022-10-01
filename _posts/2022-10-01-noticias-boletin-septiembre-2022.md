@@ -35,9 +35,10 @@ src="https://cf.geekdo-images.com/jQ9g8pqZZuchIX_Pv3bHRQ__imagepage/img/JTaTgOZp
 **—** Os comentaba en
 [julio]({{site.baseurl}}/2022/08/03/noticias-boletin-julio-2022/) el
 lanzamiento de **[Horizons of Spirit
-Island](https://boardgamegeek.com/boardgame/367498/horizons-spirit-island)**,
-que iba a ser exclusivo para Estados Unidos, y solamente en tiendas Target,
-durante **dos años** con un precio recomendado de 30$.
+Island](https://boardgamegeek.com/boardgame/367498/horizons-spirit-island)**;
+juego que iba a ser exclusivo para Estados Unidos, y que solamente se iba a
+vender en tiendas Target. Esta exclusividad se iba a mantener durante **dos
+años**, y el precio de venta iba a ser 30$.
 
 A principios de septiembre [hemos sabido](https://greaterthangames.com/horizons-of-spirit-island-across-the-globe/)
 que desde **Greater Than Games** han cambiado esta decisión de ser exclusivo en
