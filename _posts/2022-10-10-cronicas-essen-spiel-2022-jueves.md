@@ -100,7 +100,7 @@ ligero en el que hay que colocar las losetas de diferentes edificios de la
 ciudad en el tablero, de forma que se cumplan ciertos patrones.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/52417147277_70af3364fa_o.jpg"></p>
-<p align="center"><small></small></p>
+<p align="center"><small>Partida de Shake that City</small></p>
 
 A la hora de elegir qué edificio podemos colocar tenemos que fijarnos en los
 cubitos que veis arriba, que se sacan automáticamente de esa especie de caja de
@@ -110,7 +110,7 @@ tenemos que colocarlo en nuestro tablero de forma de que el patrón que ha
 salido se cumpla también en nuestro tablero.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/52417939609_fa6a06218a_o.jpg"></p>
-<p align="center"><small></small></p>
+<p align="center"><small>Partida de Dorfromantik</small></p>
 
 Paseando también pude ver la zona de demos de **Pegasus Spiele** y miré con
 envidia a todos los germano-parlantes que estaban jugando a **Dorfromantik**,
@@ -172,7 +172,7 @@ Yo quería probar el **Sabika**, pero tampoco me causaba tanta fascinación como
 para estar esperando, así que observé alguna partida y listo.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/52418193593_b726a773e2_o.jpg"></p>
-<p align="center"><small></small></p>
+<p align="center"><small>Partida de Lacrimosa</small></p>
 
 Algo parecido pasó con el **Lacrimosa** del stand de **Devir**, tenían pocas
 mesas para probar el **Lacrimosa** sabiendo con todo el hype que venía. Además
@@ -183,7 +183,7 @@ Han traído mucho este año y su stand no era tan grande como yo creo que deber�
 ser.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/52417681816_b7439c03ca_o.jpg"></p>
-<p align="center"><small></small></p>
+<p align="center"><small>Partida a Atiwa</small></p>
 
 Todo lo contrario ha pasado con el stand de **Lookout games**, que presentaba
 este año el **Atiwa**, tenían dos zonas de demos, una en inglés en el Hall 6, y
@@ -195,7 +195,7 @@ adelante. Ha sido mi primer juego de **Uwe Rosenberg**, y la verdad es que me
 ha gustado mucho.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/52418148644_1cd95a393d_o.jpg"></p>
-<p align="center"><small></small></p>
+<p align="center"><small>Partida a Findorff</small></p>
 
 También hubo parado obligada en el stand del señor del pelo verde, la editorial
 **2F-Spiele**, que este año traía a **Findorff**. Las demos de este juego eran
@@ -209,15 +209,15 @@ al final, aunque estaba en mi [top
 la feria no lo compré, estuve mirando como jugaban un rato y no me hizo tilín.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/52417943494_260dd16bb9_o.jpg"></p>
-<p align="center"><small></small></p>
+<p align="center"><small>Stand de Vallejo</small></p>
 
 Pero no todo fueron juegos de mesa, también me pase por el stand de
 **Vallejo**, que estaban haciendo demostraciones de su nueva formulación para
-las pinturas **Game Color** y su nueva versión de las contrast, que se llaman 
-**Xpress Color**. Además en la parte de atrás tenían una pequeña tienda donde
-se podía comprar lo nuevo. Las **Xpress Color** las están vendiendo en packs de
-4 pinturas, no sé si podrán comprarse por separado en un futuro (y allí costaba
-el pack 13€).
+las pinturas **Game Color** y su versión particular de pinturas tipo contrast,
+que se llaman **Xpress Color**. Además en la parte de atrás tenían una pequeña
+tienda donde se podía comprar lo nuevo. Las **Xpress Color** las están
+vendiendo en packs de 4 pinturas, no sé si podrán comprarse por separado en un
+futuro (y allí costaba el pack 13€).
 
 <br>
 
