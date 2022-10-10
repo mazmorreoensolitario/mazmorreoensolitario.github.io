@@ -95,7 +95,7 @@ cosas que no entiendo.
 <p align="center"><small>Shake that City</small></p>
 
 Siguiendo en el stand de **AEG**, me dieron una explicación de las reglas de
-**Shaje that City**, su nueva apuesta para 2023. Es un city builder de corte
+**Shake that City**, su nueva apuesta para 2023. Es un city builder de corte
 ligero en el que hay que colocar las losetas de diferentes edificios de la
 ciudad en el tablero, de forma que se cumplan ciertos patrones.
 
