@@ -3,7 +3,7 @@ layout: post
 title: "Crónicas de Essen Spiel 2022 - Viernes"
 date: 2022-10-12
 categories: [General]
-tags: [Great Western Trail, Terracotta Army, "Terraforming Mars: The Dice Game", Verdant, Woodcraft, Flowar, Pampero, Gloomhaven, Essen Spiel, Essen Spiel 2022]
+tags: [Great Western Trail, Interstellar, Terracotta Army, "Terraforming Mars: The Dice Game", Verdant, Woodcraft, Flowar, Pampero, Gloomhaven, Essen Spiel, Essen Spiel 2022]
 imghtml: https://live.staticflickr.com/65535/52421864163_8cde0c3585_b.jpg
 post_desc: "Otro día más en la SPIEL" 
 ---
@@ -296,6 +296,24 @@ Argentina](https://boardgamegeek.com/boardgame/364011/great-western-trail-argent
 pero todas con  copias tipo prototipo porque no había llegado casi ninguna
 copia a la feria, y las que llegaron se usaron para vender (que por supuesto se
 terminaron el primer día).
+
+<p align="center">
+<img src="https://live.staticflickr.com/65535/52420840232_7e58a1be76_b.jpg" alt=""></p>
+<p align="center"><small>Interstellar</small></p> 
+
+El jueves me aseguré tener una demo de
+**[Interstellar](https://boardgamegeek.com/boardgame/339591/interstellar)**, ya
+que el stand de **Ion Game Design** con **Sierra Madre Games** funciona también
+mediante el método de apuntarse un día y una hora en un papel, y el viernes
+tocó jugarla.
+
+Fue la demo más temática de la feria; **Interstellar** es un juego cooperativo
+donde tratamos de llegar en una nave generacional para asentarnos en un nuevo
+planeta. Cada jugador tiene un rol en la nave y se hacen tiradas de dados para
+averiguar si ha habido éxito o no en el rol asignado. Actualmente tiene un 4.33
+de peso en BGG, que supuestamente designa la "complejidad" de las reglas, y
+como todo juego que tenga a Eklund será porque estas sean obtusas, porque el
+gameplay no daba a entender que fuera a ser un juego para nada complicado.
 
 <p align="center">
 <img src="https://live.staticflickr.com/65535/52421797675_b221efaee3_b.jpg" alt=""></p>
