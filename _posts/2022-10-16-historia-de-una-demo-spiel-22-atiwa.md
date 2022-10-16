@@ -90,48 +90,55 @@ que pueden pedirnos algunas condiciones extra para poder ganar.
 <p align="center"><small>Tablero del jugador y comienzo de la
 partida</small></p>
 
-La partida comienza con nuestro tablero de jugador con todos los recursos sobre
+La partida comienza con nuestro **tablero de jugador** con todos los recursos sobre
 él, tenemos (de arriba a abajo): animales salvajes, arbolitos, fruta, familias
 (sin entrenar por un lado del token, y entrenadas por el otro lado, estas
 últimas tienen un murciélago), y cabras.
 
-Además de esto tenemos tres trabajadores (en mi caso azul) y una carta cuadrada
-de localización que representa nuestro pueblo, donde tenemos ya una familia
-(sin entrenar) colocada. En estas localizaciones es donde tenemos que colocar
-los diferentes recursos de nuestro tablero (perdón si llamo a las familias con
-personas recursos). Hay algunos espacios que tienen un icono y eso significa
-que solamente podemos poner dicho recurso en ese espacio. Cuando no hay ningún
-icono en el espacio, podremos colocar cualquier recurso (menos familias) en
-dicho sitio siempre que ya tengamos otro del mismo tipo en la misma
-localización.
+Además de esto tenemos tres trabajadores (en mi caso azul) y una **carta cuadrada
+de localización** que representa nuestro pueblo, donde tenemos ya una familia
+(sin entrenar) colocada. Durante la partida podremos conseguir más cartas de
+localización, y es donde colocaremos los diferentes recursos de nuestro tablero
+(perdón si llamo a las familias con 
+personas recursos).
+
+Estas cartas de localización están siempre formadas por una
+cuadricula de 3x3 en la que tenemos todos los espacios disponibles menos uno,
+que es en el espacio donde aparece el nombre de la localización y su valor en
+puntos. 
+
+En las localizaciones (cartas cuadradas) hay algunos espacios que tienen un
+icono y eso significa que solamente podemos poner dicho recurso en ese
+espacio. Cuando no hay ningún icono en el espacio, podremos colocar cualquier
+recurso (menos familias) en dicho sitio siempre que ya tengamos otro del mismo
+tipo en la misma localización.
 
 Nos interesa mejorar nuestras familias a familias entrenadas porque estas
 pueden dar cobijo a un meeple de murciélago, ya que la gestión del espacio es
 muy importante en este juego. Por otro lado, los árboles pueden tener también
 meeples de fruta encima de ellos.
 
-Durante el desarrollo de la partida podemos añadir más cartas de localización a
-nuestro tablero, y así tendremos más espacio para colocar más cosas. Además,
-los diferentes tableros también valen puntos, que nos lo indican en la esquina
-superior izquierda, aunque también pueden valer puntos negativos.
-
 <p align="center"><img src="https://live.staticflickr.com/65535/52431847841_cd02be1a2c_b.jpg"></p>
 <p align="center"><small>Tablero principal</small></p>
 
 El juego tiene siete rondas con tres rondas de colocación de trabajadores cada
-una. Estos trabajadores se colocan en el tablero principal que veis en la foto de
-arriba, y es generalmente para conseguir diferentes recursos, localizaciones,
-cambiar recursos por oro o por más recursos etc. Lo típico de los juegos tipo
-euro. No podemos conseguir ni perder trabajadores durante la partida, siempre
-tendremos tres, uno para cada ronda de colocación de trabajadores.
+una. Estos trabajadores se colocan en el tablero principal que veis en la foto
+de arriba (el tablero más grande), y son usados generalmente para conseguir
+diferentes recursos, nuevas cartas de localizaciones, cambiar recursos por oro
+o por más recursos etc. Lo típico de los juegos tipo euro. No podemos conseguir
+ni perder trabajadores durante la partida, siempre tendremos tres, uno para
+cada ronda de colocación de trabajadores. 
 
-Además de esto podéis ver una bolsa en la imagen, ahí se guardan unas losetas
-de contaminación. Cuando lleguemos a la fase de mantenimiento, si tenemos
-familias sin entrenar tendremos que robar cierto número de losetas de polución,
-por un lado puede que nos den algún recurso extra, pero por otro lado tienen la
-parte negativa de que se quedan para siempre en nuestras cartas de localización
-quitándonos espacios. Y tampoco podemos decidir dónde las ponemos, se colocan
-siempre de izquierda a derecha en la primera fila que formen las
+Además de esto podéis ver una bolsa en la imagen de arriba, ahí se guardan unas
+**losetas de contaminación**. Cuando lleguemos a la fase de mantenimiento, si
+tenemos familias sin entrenar tendremos que robar cierto número de estas
+losetas de contaminación, que tienen doble cara. En un lado nos indican si nos
+dan algún recurso, y por el otro lado es por donde tendremos que colocarlas en
+nuestras cartas de localización, que simplemente toman espacios y nos nos dejan
+colocar nada más. Si hubiera algo en esos espacios (los cuadraditos de la
+cuadrícula 3x3 de las cartas cuadradas de localización) perderíamos dicho
+recurso. Además, tampoco podemos decidir dónde las ponemos, se colocan siempre
+de izquierda a derecha en la primera fila de cuadraditos que formen las
 localizaciones. 
 
 <p align="center"><img src="https://live.staticflickr.com/65535/52432301795_35dbe2bb61_b.jpg"></p>
@@ -152,10 +159,18 @@ tomar una **"acción de murciélagos"** (no se llama oficialmente así, es solam
 como yo lo recuerdo), que representa parte del tema relacionado con cómo
 funciona la reforestación en la región de **Atiwa**: podremos mover 3
 murciélagos de nuestras localizaciones a la carta de localización especial que
-veis a la izquierda de la foto, que representa que los murciélagos están
-volando por la noche. Les daremos de comer 1 fruta
-devolviéndola a nuestro tablero y a cambio conseguiremos 1 árbol frutal que
-podremos colocar en una de nuestras localizaciones.
+veis a la izquierda de la foto de arriba, que es la más oscura, y que
+representa que los murciélagos están volando por la noche. Les daremos de comer
+1 fruta devolviéndola a nuestro tablero y a cambio conseguiremos 1 árbol frutal
+que podremos colocar en una de nuestras localizaciones.
+
+Por ejemplo, mirando la foto de arriba, podría coger 3 murciélagos de la
+localización llamada *"Plains"*, los movería a la localización que representa
+la noche, pagaría 1 de fruta también de la localización "Plains" y la movería a
+mi tablero, y entonces conseguiría 1 arbolito (que lo cojo de mi tablero) y lo
+pondría en un espacio disponible de mis localizaciones, en este caso tendría 2
+espacios vacíos en la localización "Orchard", así que lo pondría en uno de esos
+dos.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/52432363853_b644a01feb_b.jpg"></p>
 <p align="center"><small>Fase de mantenimiento</small></p>
@@ -167,19 +182,26 @@ entrenada.
 Después, 2) nos fijamos en nuestro tablero y conseguimos **nuevos
 recursos** según lo que nos diga en los espacios. Si nos fijamos en la foto de
 arriba yo conseguiría 1 de fruta, y 1 murciélago, porque es lo que pone en los
-espacios vacíos de más a la derecha. Seguiríamos con la **gestión de
-murciélagos**, 3) los murciélagos volverían a nuestras localizaciones de volar
-a la noche (de la localización especial esa), si no tenemos espacio los
+espacios vacíos de más a la derecha de mi tablero de jugador (en mi tablero de
+jugador, no en las localizaciones; hay unos números pequeños impresos en la
+silueta de cada espacio que antes albergaba un recurso).
+
+Seguiríamos con la **gestión de murciélagos**, 3) los murciélagos volverían a
+nuestras localizaciones tras volar por la noche (vuelven de la localización
+especial esa a nuestras localizaciones normales), si no tenemos espacio los
 perderíamos. Después viene **la alimentación**: 4) tendríamos que dar de comer a
-nuestras familias; en el tablero nos fijamos en cuánta comida necesitan, en
-este caso 3 de comida (espacio de más a la derecha), y calculamos cuánta comida
-producimos, que es el espacio de más a la derecha de nuestras cabras; en este
+nuestras familias; en el tablero de jugador nos fijamos en cuánta comida
+necesitan, en este caso 3 de comida (espacio de más a la derecha de la fila de
+familias), y calculamos cuánta comida producimos, que es el espacio de más a la
+derecha de nuestras cabras; en este 
 caso 1. Así que yo necesitaría 2 de comida adicional. Para esto podemos
-descartar a nuestro tablero de las localizaciones cabras, animales salvajes o
-fruta/oro, que nos darán 3, 2 ó 1 de comida respectivamente. Finalmente
-llegaríamos a la 5) **fase de reproducción**; en cada una de las siete rondas
-de juego tenemos unos objetivos de personas, murciélagos, cabras y animales
-salvajes que tenemos que cumplir, si los conseguimos conseguiríamos uno extra.
+descartar desde las localizaciones cabras, animales salvajes o
+fruta/oro, a nuestro tablero, que nos darán 3, 2 ó 1 de comida respectivamente.
+
+Finalmente llegaríamos a la 5) **fase de reproducción**; en cada una de las
+siete rondas de juego tenemos unos objetivos de personas, murciélagos, cabras y
+animales salvajes que tenemos que cumplir, si los conseguimos conseguiríamos
+uno extra. 
 
 <hr>
 
