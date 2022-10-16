@@ -12,7 +12,7 @@ post_desc: "Tras dos años de parón (uno por la pandemia y otro por mi parte)
 ![](https://live.staticflickr.com/65535/52417117657_fa97f61ecf_b.jpg)
 
 * **Jueves 6/10** (estás aquí)
-* Viernes 7/10
+* [Viernes 7/10]({{site.baseurl}}/2022/10/12/cronicas-essen-spiel-2022-viernes/)
 * Sábado 8/10
 * Domingo 9/10
 
