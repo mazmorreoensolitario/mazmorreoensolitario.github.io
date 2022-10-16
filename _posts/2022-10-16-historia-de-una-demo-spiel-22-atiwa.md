@@ -29,7 +29,7 @@ post_desc: "Os cuento qué tal va Atiwa, el último lanzamiento de Uwe Rosenberg
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td
                 class="text-left">Octubre de 2022</td></tr>
             <tr><td class="text-left"><strong>Precio:</strong></td>
-                <td class="text-left">55€</td>
+                <td class="text-left"><a href="https://zacatrus.es/atiwa.html#u97">55€</a></td>
             </tr>
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-4</td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td
@@ -223,7 +223,8 @@ en el tablero, lo que implica que tengo más bocas que dar de comer... y así se
 cierra el círculo. Si es eso lo que hace *un Uwe* a un juego de este señor,
 entonces estoy de acuerdo en que eso es diferenciador. Pero por otro lado, la
 parte de colocación de trabajadores no es nada diferenciadora, hay
-chorrocientosmil juegos con que hacen lo mismo.
+chorrocientosmil juegos con una parte de colocación de trabajadores que hacen
+lo mismo.
 
 Aún así, y eso porque a mí no me suelen gustar los juegos de colocación de
 trabajadores, me ha parecido que aunque esa mecánica es algo fundamental y
@@ -242,7 +243,7 @@ muy bien jugando.
 
 Sobre si lo compraría... pues no os diría que no para nada, quizás en un
 futuro, pero no llega a la cabeza de mi lista de deseos. Lo que sí que me ha
-causado este **Atiwa** es que se a avivado mi interés por los juegos del autor,
+causado este **Atiwa** es que se ha avivado mi interés por los juegos del autor,
 el **Campos de Arle** especialmente.
 
 Finalmente, estoy de acuerdo contigo querid@ lector/@, la portada del juego es
