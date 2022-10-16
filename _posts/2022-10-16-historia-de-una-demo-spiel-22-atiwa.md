@@ -7,7 +7,7 @@ tags: [Atiwa, Essen Spiel, Essen Spiel 2022]
 game: "Atiwa"
 crop: true
 imghtml: https://cf.geekdo-images.com/TUGMKDbhnRsPHzXEmBiITw__imagepage/img/JdKD8X-YgSKMeu06WCBKCdztP-c=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6895244.jpg
-post_desc: "Os cuento qué tal va Atiwa, el siguiente lanzamiento de Uwe Rosenberg"
+post_desc: "Os cuento qué tal va Atiwa, el último lanzamiento de Uwe Rosenberg"
 ---
 
 <div class="panel panel-warning">
