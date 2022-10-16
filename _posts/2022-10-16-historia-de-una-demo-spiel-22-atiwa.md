@@ -105,6 +105,11 @@ icono en el espacio, podremos colocar cualquier recurso (menos familias) en
 dicho sitio siempre que ya tengamos otro del mismo tipo en la misma
 localización.
 
+Nos interesa mejorar nuestras familias a familias entrenadas porque estas
+pueden dar cobijo a un meeple de murciélago, ya que la gestión del espacio es
+muy importante en este juego. Por otro lado, los árboles pueden tener también
+meeples de fruta encima de ellos.
+
 Durante el desarrollo de la partida podemos añadir más cartas de localización a
 nuestro tablero, y así tendremos más espacio para colocar más cosas. Además,
 los diferentes tableros también valen puntos, que nos lo indican en la esquina
@@ -113,16 +118,18 @@ superior izquierda, aunque también pueden valer puntos negativos.
 <p align="center"><img src="https://live.staticflickr.com/65535/52431847841_cd02be1a2c_b.jpg"></p>
 <p align="center"><small>Tablero principal</small></p>
 
-En cada fase del juego tendremos tres rondas, y en cada una de ellas podremos
-colocar nuestros trabajadores en el tablero principal que veis en la foto de
-arriba para conseguir diferentes recursos, localizaciones, cambiar recursos por
-oro o por más recursos etc. Lo típico de los juegos tipo euro.
+El juego tiene siete rondas con tres rondas de colocación de trabajadores cada
+una. Estos trabajadores se colocan en el tablero principal que veis en la foto de
+arriba, y es generalmente para conseguir diferentes recursos, localizaciones,
+cambiar recursos por oro o por más recursos etc. Lo típico de los juegos tipo
+euro. No podemos conseguir ni perder trabajadores durante la partida, siempre
+tendremos tres, uno para cada ronda de colocación de trabajadores.
 
 Además de esto podéis ver una bolsa en la imagen, ahí se guardan unas losetas
-de contaminación. Cuando lleguemos a la fase de mantenimiento con familias sin
-entrenar tendremos que robar cierto número de losetas de polución, por un lado
-puede que nos den algún recurso extra, pero por otro lado tienen la parte
-negativa de que se quedan para siempre en nuestras cartas de localización
+de contaminación. Cuando lleguemos a la fase de mantenimiento, si tenemos
+familias sin entrenar tendremos que robar cierto número de losetas de polución,
+por un lado puede que nos den algún recurso extra, pero por otro lado tienen la
+parte negativa de que se quedan para siempre en nuestras cartas de localización
 quitándonos espacios. Y tampoco podemos decidir dónde las ponemos, se colocan
 siempre de izquierda a derecha en la primera fila que formen las
 localizaciones. 
@@ -141,11 +148,12 @@ pero estas son de un mazo diferente y no son genéricas.
 <p align="center"><small>Gestión de murciélagos</small></p>
 
 Después de que tomemos una acción con un trabajador tenemos oportunidad de
-tomar una "acción de murciélagos" (no se llama oficialmente así, es solamente
+tomar una **"acción de murciélagos"** (no se llama oficialmente así, es solamente
 como yo lo recuerdo), que representa parte del tema relacionado con cómo
 funciona la reforestación en la región de **Atiwa**: podremos mover 3
-murciélagos de nuestras localizaciones a la carta especial que veis a la
-izquierda de la foto, que representa una cueva. Les daremos de comer 1 fruta
+murciélagos de nuestras localizaciones a la carta de localización especial que
+veis a la izquierda de la foto, que representa que los murciélagos están
+volando por la noche. Les daremos de comer 1 fruta
 devolviéndola a nuestro tablero y a cambio conseguiremos 1 árbol frutal que
 podremos colocar en una de nuestras localizaciones.
 
@@ -160,18 +168,18 @@ Después, 2) nos fijamos en nuestro tablero y conseguimos **nuevos
 recursos** según lo que nos diga en los espacios. Si nos fijamos en la foto de
 arriba yo conseguiría 1 de fruta, y 1 murciélago, porque es lo que pone en los
 espacios vacíos de más a la derecha. Seguiríamos con la **gestión de
-murciélagos**, 3) los murciélagos que estén en la
-cueva volverían a nuestras localizaciones, si no tenemos espacio los
-perderíamos. Después viene con **la alimentación**: 4) tendríamos que dar de comer a
-nuestras familias, en el tablero nos fijamos en cuánta comida necesitan, en
+murciélagos**, 3) los murciélagos volverían a nuestras localizaciones de volar
+a la noche (de la localización especial esa), si no tenemos espacio los
+perderíamos. Después viene **la alimentación**: 4) tendríamos que dar de comer a
+nuestras familias; en el tablero nos fijamos en cuánta comida necesitan, en
 este caso 3 de comida (espacio de más a la derecha), y calculamos cuánta comida
 producimos, que es el espacio de más a la derecha de nuestras cabras; en este
-caso 1. Así que yo necesitaría 2 de comida adicional. Para esto podemos usar
-cabras, animales salvajes o fruta/oro, que nos darán 3, 2 ó 1 de comida
-respectivamente. Finalmente llegaríamos a la 5) **fase de reproducción**, en
-cada una de las siete rondas de juego tenemos unos objetivos de personas,
-murciélagos, cabras y animales salvajes que tenemos que cumplir, si los
-conseguimos conseguiríamos uno extra.
+caso 1. Así que yo necesitaría 2 de comida adicional. Para esto podemos
+descartar a nuestro tablero de las localizaciones cabras, animales salvajes o
+fruta/oro, que nos darán 3, 2 ó 1 de comida respectivamente. Finalmente
+llegaríamos a la 5) **fase de reproducción**; en cada una de las siete rondas
+de juego tenemos unos objetivos de personas, murciélagos, cabras y animales
+salvajes que tenemos que cumplir, si los conseguimos conseguiríamos uno extra.
 
 <hr>
 
@@ -189,7 +197,8 @@ Al final de las siete rondas contamos puntos y listo kalisto.
 <p align="center"><small>Partida de Atiwa</small></p>
 
 Las demos en inglés de **Atiwa** estaban separadas de las demos en alemán en la
-feria **SPIEL '22**, por lo que había bastantes mesas para poder jugar.
+feria **SPIEL '22**, cada una estaba en un stand diferente de un hall también
+diferente, por lo que había bastantes mesas para poder jugar.
 
 En la SPIEL pude jugar una demo a cuatro jugadores que duró una hora más o
 menos, con explicación incluida, y nos dio tiempo a jugar a 5 de 7 rondas del
@@ -233,8 +242,8 @@ muy bien jugando.
 
 Sobre si lo compraría... pues no os diría que no para nada, quizás en un
 futuro, pero no llega a la cabeza de mi lista de deseos. Lo que sí que me ha
-causado este **Atiwa** es más interés por los juegos del autor, el **Campos de
-Arle** especialmente.
+causado este **Atiwa** es que se a avivado mi interés por los juegos del autor,
+el **Campos de Arle** especialmente.
 
 Finalmente, estoy de acuerdo contigo querid@ lector/@, la portada del juego es
 horrible y la cabeza del murciélago de la portada parece un oso.

@@ -199,7 +199,7 @@ layout: default
         {% endfor %}
       </div><!-- col-md-3 -->
       <div class="col-md-3 col-sm-3 col-xs-6">
-        <h4><a href="{{site.baseurl}}/analisis/#demos">Demos</h4>
+        <h4><a href="{{site.baseurl}}/analisis/#demos-y-protos">Demos</h4>
         {% assign sorted-posts = site.posts | where: "categories", "Demos" %}
         {% assign sorted = sorted-posts | sort: 'date' | reverse %} 
         {% for post in sorted limit: 6 %}
