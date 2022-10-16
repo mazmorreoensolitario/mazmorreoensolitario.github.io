@@ -180,8 +180,8 @@ ronda del juego, 1) **conseguimos 1 de oro** por cada familia entrenada, ó
 robaremos 1 token de **contaminación** de la bolsa por cada familia no
 entrenada.
 Después, 2) nos fijamos en nuestro tablero y conseguimos **nuevos
-recursos** según lo que nos diga en los espacios. Si nos fijamos en la foto de
-arriba yo conseguiría 1 de fruta, y 1 murciélago, porque es lo que pone en los
+recursos** según lo que nos diga en los espacios *vacíos* de más a la
+derecha. Si nos fijamos en la foto de arriba yo conseguiría 1 de fruta, y 1 murciélago, porque es lo que pone en los
 espacios vacíos de más a la derecha de mi tablero de jugador (en mi tablero de
 jugador, no en las localizaciones; hay unos números pequeños impresos en la
 silueta de cada espacio que antes albergaba un recurso).
