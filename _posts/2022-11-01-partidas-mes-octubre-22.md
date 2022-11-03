@@ -264,7 +264,9 @@ complicados para empezar y caja más compacta.
 src="https://cf.geekdo-images.com/p74gLVRjxJ3JfhCmkwY6bg__imagepage/img/kqCPzxz1oUzYRstKgJQGGEVBSXA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6336146.jpg">
 </p>
 
-**[Mini Rogue](https://boardgamegeek.com/boardgame/311715/mini-rogue)** es otro
+**[Mini Rogue](https://boardgamegeek.com/boardgame/311715/mini-rogue)**
+(un vistazo a la [nueva versión del juego
+aquí]({{site.baseurl}}/2020/05/23/ojeando-mini-rogue/) es otro 
 juego tipo tiradados con un tema de mazmorreo muy amable que había sido
 relegado porque como os he comentado, cada vez juego menos entre semana y
 prefiero dedicar mis fines de semana a juegos más complejos y de más
