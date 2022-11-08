@@ -19,8 +19,9 @@ de 2Tomatoes Games.</small>
 <p align="center"><small>Una de mis primeras partidas a Root, Marquise de Cat
    (yo) contra Electric Eyrie (bot)</small></p>
  
-> [Aquí]({{site.baseurl}}/2021/06/21/analisis-root/) tienes un análisis sobre
-> Root y la expansión Clockwork (Los Cachivaches). 
+> **[Aquí]({{site.baseurl}}/2021/06/21/analisis-root/) tienes un análisis**
+> sobre Root y la expansión Clockwork (Los Cachivaches) para jugar en
+> solitario. 
 
 Una de las preguntas que más recibo cuando subo alguna imagen de mis partidas
 de **Root** a [Twitter](https://twitter.com/mazmorreo) o
@@ -169,6 +170,10 @@ Hay varias formas de jugar a
 
 Y esto es todo, espero que esta pequeña entrada os solucione las dudas y sino
 os puedo **contestar a las preguntas en los comentarios de abajo**.
+
+> **[Aquí]({{site.baseurl}}/2021/06/21/analisis-root/) tienes un análisis**
+> sobre Root y la expansión Clockwork (Los Cachivaches) para jugar en
+> solitario. 
 
 <hr>
 
