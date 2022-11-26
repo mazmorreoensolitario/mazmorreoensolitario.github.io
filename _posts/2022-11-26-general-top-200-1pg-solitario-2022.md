@@ -65,9 +65,9 @@ sí se mantienen en el top.
 mantiene en el noveno puesto, y **[Ark
 Nova](https://boardgamegeek.com/boardgame/342942/ark-nova) entra por primera
 vez en el top de solitarios** (primeras impresiones
-[aqui]({{site.baseurl}}/2022/06/07/primeras-impresiones-ark-nova/) con una décima posición. No es de 
+[aqui]({{site.baseurl}}/2022/06/07/primeras-impresiones-ark-nova/)) con una décima posición. No es de 
 extrañar visto lo que ha gustado el juego, pero una décima posición es muy
-bueno para su estreno.
+buena para su estreno.
 
 En la segunda mitad de la tabla, posiciones 11 a 20, también ha habido ciertos
 movimientos interesantes, el primero es que **[The 7th
@@ -90,7 +90,8 @@ subido hasta la posición 18 (29 el año pasado).
 El resto de los juegos del top 20 se mantienen con unos ligeros cambios, pero
 ahí siguen el **[Gaia
 Project](https://boardgamegeek.com/boardgame/220308/gaia-project)**,
-**[Imperium](https://boardgamegeek.com/boardgame/318184/imperium-classics)**,
+**[Imperium](https://boardgamegeek.com/boardgame/318184/imperium-classics)**
+(análisis [aquí]({{site.baseurl}}/2021/08/31/analisis-imperium-classics/)),
 **[Under Falling
 Skies](https://boardgamegeek.com/boardgame/306735/under-falling-skies)**,
 **[Robinson
@@ -114,12 +115,11 @@ nuevo de **Chip Theory Games**;
 **[Voyages](https://boardgamegeek.com/boardgame/350736/voyages)** y
 **[The Guild of Merchant
 Explorers](https://boardgamegeek.com/boardgame/350933/guild-merchant-explorers)**,
-dos juegos del mismo autor **Matthew Dunstan** que ha triunfado con juegos
-estilo roll & write; y finalmente  **[Dinosaur Island: Rawr 'n
+dos juegos del mismo autor, **Matthew Dunstan**, que ha triunfado con juegos
+estilo roll & write; y finalmente seguimos con dos roll & writes, **[Dinosaur Island: Rawr 'n
 Write](https://boardgamegeek.com/boardgame/318009/dinosaur-island-rawr-n-write)**
 y **[Three
-Sisters](https://boardgamegeek.com/boardgame/291845/three-sisters)**, otros dos
-roll & write.
+Sisters](https://boardgamegeek.com/boardgame/291845/three-sisters)**.
 
 ## Estadísticas de 2022
 
