@@ -55,7 +55,7 @@ Bones](https://boardgamegeek.com/boardgame/192135/too-many-bones)**,
 cartas](https://boardgamegeek.com/boardgame/77423/lord-rings-card-game)**, y
 **[Terraforming
 Mars](https://boardgamegeek.com/boardgame/167791/terraforming-mars)** (análisis
-[aqui]({{site.baseurl}}/2019/09/16/analisis-terraforming-mars/).  Ha
+[aqui]({{site.baseurl}}/2019/09/16/analisis-terraforming-mars/)).  Ha
 habido cierta reorganización en 
 comparación con el año pasado, siendo lo más destacado que **Gloomhaven** y
 **Terraforming Mars** han perdido dos posiciones cada uno, pero los juegos en
@@ -96,7 +96,7 @@ Project](https://boardgamegeek.com/boardgame/220308/gaia-project)**,
 Skies](https://boardgamegeek.com/boardgame/306735/under-falling-skies)**,
 **[Robinson
 Crusoe](https://boardgamegeek.com/boardgame/121921/robinson-crusoe-adventures-cursed-island)**,
-**[El Banquete de Odín](https://boardgamegeek.com/boardgame/177736/feast-odin)** , 
+**[El Banquete de Odín](https://boardgamegeek.com/boardgame/177736/feast-odin)**, 
 **[Scythe](https://boardgamegeek.com/boardgame/169786/scythe)**,
 **[Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan)** y
 **[Expansiópolis](https://boardgamegeek.com/boardgame/251658/sprawlopolis)**
