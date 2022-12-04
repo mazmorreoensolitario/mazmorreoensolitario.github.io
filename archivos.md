@@ -238,6 +238,7 @@ categorías.
                         tag[0] == "Next War: Korea" or
                         tag[0] == "Next War: Vietnam" or
                         tag[0] == "Next War Series" or
+                        tag[0] == "Nightwatch" or
                         tag[0] == "North Africa 41" or
                         tag[0] == "Operation Theseus: Gazala 1942" or
                         tag[0] == "Pavlov's House" or
@@ -283,7 +284,8 @@ categorías.
                         tag[0] == "Verdun 1916: Steel Inferno" or
                         tag[0] == "Versailles 1919" or
                         tag[0] == "White Eagle Defiant" or
-                        tag[0] == "World at War 85: Storming the Gap" %}
+                        tag[0] == "World at War 85: Storming the Gap" or
+                        tag[0] == "Zona Alfa" %}
                         <span class="label label-grey"><strong>#<a class="tag-color"
                     href="/etiqueta/{{tag[0] | slugify:
                     "latin"}}">{{tag[0]}}</a></strong></span> 
