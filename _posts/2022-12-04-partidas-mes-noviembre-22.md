@@ -171,10 +171,10 @@ src="https://cf.geekdo-images.com/rXXpwVqLzhBwcbyiZTci0Q__imagepage/img/C8LwGeKt
 **[Nightwatch](https://boardgamegeek.com/boardgame/316560/nightwatch-terror-and-treasure-dark-corners-world)**
 es un wargame de minis de escaramuzas diseñado para ser jugado de forma
 cooperativa o en solitario. Es un juego indie con un manual de unas 80 páginas
-que ha sido publicado por el mismo autor, así que si queréis conseguirlo tenéis
-que tirar de [Amazon](https://amzn.to/3iFbKtC) si lo queréis en físico, o de
-[Wargame
-Vault](https://www.wargamevault.com/product/323202/Nightwatch-Terror-and-Treasure-in-the-Dark-Corners-of-the-World?affiliate_id=1914894)
+que ha sido publicado por el propio autor, sin una editorial por detrás, así
+que si queréis conseguirlo tenéis que tirar de
+[Amazon](https://amzn.to/3iFbKtC) si lo queréis en físico, o de [Wargame
+Vault](https://www.wargamevault.com/product/323202/Nightwatch-Terror-and-Treasure-in-the-Dark-Corners-of-the-World?affiliate_id=1914894) 
 si preferís tenerlo en PDF. 
 
 Sin meternos demasiado en mecánicas (eso es más tema de un análisis) el juego
