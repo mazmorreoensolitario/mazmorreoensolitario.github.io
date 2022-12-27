@@ -3,7 +3,7 @@ layout: post
 title: "Top 1̶0̶ 8 de juegos del 2022 que no he podido jugar"
 date: 2022-12-27
 categories: [Listas]
-tags: [Tops, The Guild of Merchant Explorers, "Forbidden Psalm: The Last War", Pilgrim, "Dorfromantik", "Mosaic: A Story of Civilization", Five Leagues From The Borderlands, Dark Venture, "Small City: Deluxe Edition"]
+tags: [Tops, The Guild of Merchant Explorers, "Forbidden Psalm: The Last War", Pilgrim, "Dorfromantik", "Mosaic: A Story of Civilization", Five Leagues From the Borderlands, Dark Venture, "Small City: Deluxe Edition"]
 imghtml: https://live.staticflickr.com/65535/52589905598_961f4dda0c_b.jpg
 post_desc: "Aquí llega la tradicional lista de juegos que han salido este año y 
 que me he quedado sin poder jugar, espero jugar a muchos de ellos en el próximo
