@@ -3,7 +3,7 @@ layout: post
 title: "Crónicas de Essen SPIEL'22 - Viernes"
 date: 2022-10-12
 categories: [General]
-tags: [Great Western Trail, Interstellar, Terracotta Army, "Terraforming Mars: The Dice Game", Verdant, Woodcraft, Flowar, Pampero, Gloomhaven, Essen Spiel, Essen Spiel 2022]
+tags: ["Mosaic: A Story of Civilization", Great Western Trail, Interstellar, Terracotta Army, "Terraforming Mars: The Dice Game", Verdant, Woodcraft, Flowar, Pampero, Gloomhaven, Essen Spiel, Essen Spiel 2022]
 imghtml: https://live.staticflickr.com/65535/52421864163_8cde0c3585_b.jpg
 post_desc: "Otro día más en la SPIEL, esta vez el viernes, probando juegos y ojeando los stands" 
 ---
