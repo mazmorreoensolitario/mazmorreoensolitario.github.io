@@ -272,7 +272,7 @@ Y sin más dilación, ¡al lío!
     del mismo nombre</a> que también ha salido durante este año y que fue un
     verdadero boom (tampoco he jugado al videojuego).</p>
          <p><strong>¿Qué me llama la atención de este juego?</strong> Es un
-    juego amable de colocación de losetas con pocas reglas y rápodo de
+    juego amable de colocación de losetas con pocas reglas y rápido de
     jugar. Es uno de esos juegos que parece que podría jugar entre semana si no
     tengo demasiado tiempo.</p>
     </div>
@@ -305,7 +305,7 @@ Y sin más dilación, ¡al lío!
     énfasis de este juego está en los combates, en los que puedes utilizar
     cualquier tipo de miniaturas, pero también tiene un formato campaña con
     elemetos tipo RPG para el desarrollo de los personajes y para que vayas
-    descubriendo el mundo en el que juegas tú campaña. El combate promete ser
+    descubriendo el mundo en el que juegas tu campaña. El combate promete ser
     picante sin ser excesivamente engorroso, y en resumidas cuentas, por todo
     eso es mi número uno de este 2022.</p>
     </div>
