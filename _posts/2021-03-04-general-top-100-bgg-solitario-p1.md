@@ -3,7 +3,7 @@ layout: post
 title: "Top 100 de BGG: ¿qué puedo jugar en solitario? (Parte 1)"
 date: 2021-03-04
 categories: [General]
-tags: [Tops, Golden Geek, El Grande, Twilight Imperium, "Battlestar Galactica: The Board Game", Eldritch Horror, Troyes, Rising Sun, Mombasa, Grand Austria Hotel, Patchwork, Roll for the Galaxy, Trajan, Lorenzo il Magnifico, Ultimate Railroads, "Russian Railroads: German Railroads", Russian Railroads, Saqueadores del Mar del Norte, Raiders of the North Sea, "The Lord of the Rings: Journeys in Middle-Earth", "El Señor de los Anillos: Viajes por la Tierra Media", Tainted Grail, Arquitectos del Reino del Oeste, Sherlock Holmes Consulting Detective, Sherlock Holmes Detective Asesor, Pandemic]
+tags: [Tops, Golden Geek, El Grande, Twilight Imperium, "Battlestar Galactica: The Board Game", Eldritch Horror, Troyes, Mombasa, Grand Austria Hotel, Patchwork, Roll for the Galaxy, Lorenzo il Magnifico, Ultimate Railroads, "Russian Railroads: German Railroads", Russian Railroads, Saqueadores del Mar del Norte, Raiders of the North Sea, "The Lord of the Rings: Journeys in Middle-Earth", "El Señor de los Anillos: Viajes por la Tierra Media", Tainted Grail, Arquitectos del Reino del Oeste, Sherlock Holmes Consulting Detective, Sherlock Holmes Detective Asesor, Pandemic]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210304-top-100-bgg-solo/top-100-bgg-solitario-p1.png
 post_desc: "Primera parte de una serie de entradas que te muestra cómo (y si) 
 se puede jugar en solitario al top 100 de juegos de Board Game Geek"

@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: enero 2022"
 date: 2022-01-31
 categories: [Noticias]
-tags: ["Boletín Informativo Solitario", "Twilight: 2000", Zine Month, Pampero, Runescape, GMT Games, The Hunters, Silent Victory, Fire in the Lake, Wreckland Run, "Across a Thousand Dead Worlds", Malditos, Legion Wargames, Hill of Doves, Legacy of Yu, Too Many Bones, Mythic, "Dungeons Dice & Danger", Bargain Basement Bathysphere, Undaunted, "For Northwood!", Micro Cosmos, Wayfarers of the South Tigris, Maglev Metro]
+tags: ["Boletín Informativo Solitario", "Twilight: 2000", Zine Month, Pampero, GMT Games, Fire in the Lake, "Across a Thousand Dead Worlds", Malditos, Legion Wargames, Hill of Doves, Legacy of Yu, Too Many Bones, Mythic, "Dungeons Dice & Danger", Bargain Basement Bathysphere, Undaunted, "For Northwood!", Micro Cosmos, Wayfarers of the South Tigris, Maglev Metro]
 imghtml: https://live.staticflickr.com/65535/51852079179_e9efe88e81_b.jpg
 post_desc: "Primer Boletín Informativo Solitario de 2022, con un resumen de todas
 las novedades, próximos lanzamientos, crowdfunding y mucho más"

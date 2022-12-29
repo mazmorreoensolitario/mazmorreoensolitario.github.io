@@ -23,11 +23,11 @@ categorías.
     {% if tag[0] == "Augmented Reality" or tag[0] == "Ronin" or
         tag[0] == "The One Ring" or 
         tag[0] == "Zine Month" or tag[0] == "Solo Game Master's Guide" or
-        tag[0] == "Paria" or tag[0] == "Pathfinder" or
+        tag[0] == "Pathfinder" or
         tag[0] == "Dirt RPG" or tag[0] == "Mapeando las catacumbas" or
         tag[0] == "All Must Bow" or tag[0] == "Muspelhell" or
         tag[0] == "Across a Thousand Dead Worlds" or tag[0] == "Apothecaria" or
-        tag[0] == "Tunnels & Trolls" or tag[0] == "Death In Space" or
+        tag[0] == "Death In Space" or
         tag[0] == "Desert Moon of Karth" or
         tag[0] == "Fronds of Benevolence" or
         tag[0] == "OSRIC" or tag[0] == "ALIEN RPG" or tag[0] == "Vaesen" or
@@ -233,7 +233,6 @@ categorías.
                         tag[0] == "Less than 60 Miles" or
                         tag[0] == "Men of Iron Battles Tri-pack" or
                         tag[0] == "Mr. President" or
-                        tag[0] == "Napoleon's Wheel" or
                         tag[0] == "Navajo Wars" or
                         tag[0] == "Nevsky: Teutons and Rus in Collision" or
                         tag[0] == "Next War: Korea" or
@@ -250,41 +249,26 @@ categorías.
                         tag[0] == "Red Flag Over Paris" or
                         tag[0] == "Red Storm: The Air War Over Central Germany" or
                         tag[0] == "Red Sun Blue Cross" or
-                        tag[0] == "Road to Cheren" or
                         tag[0] == "Salerno 43" or
                         tag[0] == "Santander 37" or
-                        tag[0] == "Schnell Boats: Scourge of the English Channel" or 
-                        tag[0] == "Shiloh 1862" or
-                        tag[0] == "Silent Victory" or
                         tag[0] == "Sniper Kill Confirmed" or
                         tag[0] == "Stargrave" or
                         tag[0] == "Stilicho: Last of the Romans" or
-                        tag[0] == "Scream Aim Fire!" or
                         tag[0] == "Soldiers in Postmen's Uniforms" or
                         tag[0] == "Stalingrad 42" or
                         tag[0] == "That Others May Live" or
-                        tag[0] == "The Bell of Treason" or
-                        tag[0] == "The Conquistadors" or
                         tag[0] == "The Dark Summer: Normandy 1944" or
                         tag[0] == "The Dark Valley" or
                         tag[0] == "The Dogs of War" or
-                        tag[0] == "The First Jihad" or
-                        tag[0] == "The Great Crisis of Frederick II" or
-                        tag[0] == "The Hunters" or
                         tag[0] == "The Jaws of Victory" or
                         tag[0] == "The Last Hundred Yards" or
                         tag[0] == "The Last Hundred Yards: Airborne Over Europe" or
                         tag[0] == "The Last Hundred Yards: The Russian Front" or
                         tag[0] == "The Last Hundred Yards: The Solomon Islands" or
-                        tag[0] == "The Mission" or
-                        tag[0] == "The Plum Island Horror" or
-                        tag[0] == "The Pure Land" or
                         tag[0] == "The Shores of Tripoli" or
-                        tag[0] == "Thunder in the East" or
                         tag[0] == "Triumvir" or
                         tag[0] == "Verdun 1916: Steel Inferno" or
                         tag[0] == "Versailles 1919" or
-                        tag[0] == "White Eagle Defiant" or
                         tag[0] == "World at War 85: Storming the Gap" or
                         tag[0] == "Zona Alfa" %}
                         <span class="label label-grey"><strong>#<a class="tag-color"

@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: agosto 2021"
 date: 2021-08-31
 categories: [Noticias]
-tags: ["Boletín Informativo Solitario", Seas of Havoc, Stargrave, Founders of Teotihuacan, Mythic, Hollandspiele, "Horse & Musket", The Siege of Runedar, Golem, On Tour, Grove, Ennie, Legion Wargames, Road to Cheren, Tin Helm, Quill, "Keystone: North America", Boonlake, GMT Games, The Bell of Treason, Weather Machine, Corrosion, Five Leagues From the Borderlands, Five Parsecs From Home, 54 Card Game Design Contest, 9 Card Game Print & Play Design Contest, "For Northwood!", Faiyum, Fayún, "Total War: Rome", Beyond the Sun, Maximum Apocalypse, Set A Watch, Cryo]
+tags: ["Boletín Informativo Solitario", Seas of Havoc, Stargrave, Founders of Teotihuacan, Mythic, Hollandspiele, "Horse & Musket", The Siege of Runedar, Golem, Grove, Ennie, Legion Wargames, Tin Helm, Quill, "Keystone: North America", Boonlake, GMT Games, Corrosion, Five Leagues From the Borderlands, Five Parsecs From Home, 54 Card Game Design Contest, 9 Card Game Print & Play Design Contest, "For Northwood!", Faiyum, Fayún, Beyond the Sun, Maximum Apocalypse, Set A Watch, Cryo]
 imghtml: https://live.staticflickr.com/65535/51403282101_d092642a9f_b.jpg
 post_desc: "Boletín Informativo Solitario de agosto, con un resumen de todas
 las novedades, próximos lanzamientos, crowdfunding y mucho más"
