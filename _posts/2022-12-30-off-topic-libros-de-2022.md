@@ -652,6 +652,10 @@ por su originalidad en el arte de insultar.
 
 ¿Que libros habéis leído vosotros? ¿Tenéis alguna recomendación?
 
+**Nota:** a mi querido amigo que me dejó un libro (*The Lottery*) y que aún no
+he leído: no lo he perdido, está felizmente en la balda. Sí, me come la
+vergüenza por dentro.
+
 <hr>
 
 <small>Nota: Las imágenes de las portadas de los libros pertenecen a sus
