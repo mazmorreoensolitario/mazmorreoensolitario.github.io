@@ -19,14 +19,14 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
 * Libros que estoy leyendo ahora: [Ardenas 1944](https://amzn.to/3fACxSx).
 * Posibles siguiente/s libro/s en mi lista para leer: *muchos*.
 * Libros que he leído:
-  - en 2022: [Recursion](https://amzn.to/3HSVyMH)
+  - en 2022: [lista aquí]({{site.baseurl}}/2022/12/30/off-topic-libros-de-2022/)
   - en 2021: [lista
     aquí]({{site.baseurl}}/2021/12/21/off-topic-libros-de-2021/)
 * Series que estoy viendo: [The Wheel Of
   Time](https://www.primevideo.com/?tag=mazmorreo-21), [The
   Expanse](https://www.primevideo.com/?tag=mazmorreo-21), The Book of Boba Fett.
 * Videojuegos que ocasionalmente juego durante estos meses: Deep Sky Derelicts,
-  Caves of Qud y [Star Wars Battlefront II](https://amzn.to/2TQNQz5).
+  Caves of Qud, [Star Wars Battlefront II](https://amzn.to/2TQNQz5), Atom RPG.
 
 
 # Sobre el blog

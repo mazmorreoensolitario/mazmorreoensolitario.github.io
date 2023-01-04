@@ -194,6 +194,7 @@ categorías.
                         tag[0] == "All Bridges Burning" or
                         tag[0] == "Ambon: Burning Sun & Little Seagulls" or
                         tag[0] == "Ardennes 44" or
+                        tag[0] == "Arracourt" or
                         tag[0] == "Atlantic Chase" or
                         tag[0] == "Battlespace" or
                         tag[0] == "Bear Trap: The Soviet-Afghan War" or
