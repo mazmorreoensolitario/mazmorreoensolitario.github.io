@@ -116,13 +116,13 @@ Y sin más dilación, ¡al lío!
 <div class="row">
     <div class="col-md-3">
         <img width="500" height="500"
-            src="https://static.wixstatic.com/media/dca4b0_346ef45218c64a4d86029402c4bf64c5~mv2.png/v1/fill/w_422,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/dca4b0_346ef45218c64a4d86029402c4bf64c5~mv2.png"
+            src="https://cf.geekdo-images.com/eSfIZyZzeQ0EXA-D6591Hg__imagepage/img/LsrwXb53fZdLu5bwJ54-ljNf58Q=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7262823.jpg"
         class="img-thumbnail" alt="Forbidden Psalm: The Last War">
     </div>
     <div class="col-md-9">
         <h4><strong>6. <a href="https://www.drivethrurpg.com/product/396497/Forbidden-Psalm-The-Last-War?affiliate_id=1914894">Forbidden Psalm: The Last War</a></strong></h4>
          <p><strong><a
-    href="https://www.forbiddenpsalm.com/last-war">Forbidden Psalm: The Last
+    href="https://boardgamegeek.com/boardgame/377680/forbidden-psalm-last-war">Forbidden Psalm: The Last
     War</a></strong> de <strong>Kevin Rahman</strong> y publicado por
     <strong>Exalted Funeral</strong>, es un wargame de escaramuzas agnóstico a
     las miniaturas (pero tienen que ser de 28mm) que puede jugarse en
