@@ -73,7 +73,7 @@ quedado sin jugar en la balda de la vergüenza.
   2022]({{site.baseurl}}/2022/12/27/general-juegos-que-no-jugamos-en-2022/)),
   pero sobran novedades que probar, así que no me importa tanto.
   
-* **Puerta.** Entre mis nuevas adquisiciones, he dado puerta a **Corrosion** y
+* **Puerta.** Entre mis nuevas adquisiciones, he dado puerta a **Corrosion**, y
   **¡Resistid!** está peligrando pero le voy a dar otra oportunidad porque no
   lo he jugado tanto. Pero ya [os
   conté]({{site.baseurl}}/2022/10/03/partidas-mes-septiembre-22/) qué pienso de
