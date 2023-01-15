@@ -41,7 +41,7 @@ Y sin más dilación, ¡al lío!
         class="img-thumbnail" alt="Dark Venture: Battle of the Ancients">
     </div>
     <div class="col-md-9">
-        <h4><strong>8. Dark Venture: Battle of the Ancients</strong></h4>
+        <h4><strong>8. <a href="https://www.philibertnet.com/en/gilded-skull-games/118732-dark-venture-battle-of-the-ancients-core-game-kickstarter-edition-787790257264.html#ae447-11">Dark Venture: Battle of the Ancients</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/298163/dark-venture-battle-ancients">Dark
     Venture: Battle of the Ancients</a></strong> de <strong>Rob Lemon</strong>
