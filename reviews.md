@@ -267,15 +267,21 @@ aún no está en su versión final:
 
 Aquí os presento brevemente algunos juegos:
 
+<div class="col-md-12">
+<div class="col-md-8">
 {% assign sorted-posts = site.posts | where: "categories", "Ojeando" %}
 {% assign sorted = sorted-posts | sort: 'game' %}
-<ul>
-{% for post in sorted %}
-<li>
-    <a href="{{ post.url }}">{{ post.title }}.</a>
-</li>
-{% endfor %}
-</ul>
+    {% for post in sorted %}
+        <div class="image-container">
+            <a href="{{site.url}}{{post.url}}">
+                <img class="crop-sidebar" src="{{post.imghtml}}">
+                <div class="text-block"><h5>{{post.game}}</h5></div>
+            </a>
+        </div>
+    {% endfor %}
+</div>
+</div>
+<div class="col-md-12"><h1></h1></div>
 
 ## Índice alfabético
 

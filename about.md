@@ -38,7 +38,7 @@ Espera encontrar **[análisis, reseñas y primeras impresiones de
 juegos]({{site.baseurl}}/analisis/)**, un pequeño rincón dedicado a los juegos **[print &
 play]({{site.baseurl}}/rincon-print-and-play)**, **noticias** sobre juegos de
 mesa, rol y wargames en solitario en el **[Boletín Informativo Solitario
-mensual]({{site.baseurl}}etiqueta/boletin-informativo-solitario/)**, las
+mensual]({{site.baseurl}}/etiqueta/boletin-informativo-solitario/)**, las
 últimas campañas de **crowdfunding** en **Kickstarter**, **Gamefound**,
 **Verkami**... y lo último sobre el **[rol en
 solitario]({{site.baseurl}}/rol-en-solitario/)** con noticias y análisis de
