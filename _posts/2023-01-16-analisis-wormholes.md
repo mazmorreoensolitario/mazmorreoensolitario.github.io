@@ -188,15 +188,15 @@ gestionar.
 En el turno del bot este robará un determinado número de cartas (más
 cartas a mayor dificultad) y las colocará en montones diferenciados por el tipo
 de planeta, como podéis ver en la foto de arriba. Cuando en un montón de un
-tipo de planeta haya más de una carta nos fijamos en ese planeta: si el bot
-tiene un agujero de gusano **activo**, se lleva todas las cartas del montón a su
-zona de puntuación (esto representa que ha conseguido llevar todos esos
-pasajeros al planeta), si el bot tiene un agujero de gusano **inactivo**
-solamente se lleva una carta de ese montón para puntuar, y finalmente, si no
-tiene ningún agujero de gusano, coloca uno del par que toque (y se llevaría una
-**ficha de exploración** si es el primero en descubrir ese planeta). Estos
-montones se mantienen turno a turno, por lo que el bot va cogiendo cada vez más
-velocidad.
+tipo de planeta haya más de una carta nos fijamos en ese planeta en el mapa: si
+el bot tiene un agujero de gusano **activo** adyacente, se lleva todas las
+cartas del montón a su zona de puntuación (esto representa que ha conseguido
+llevar todos esos pasajeros al planeta), si el bot tiene un agujero de gusano
+**inactivo** adyacente solamente se lleva una carta de ese montón para puntuar,
+y finalmente, si no tiene ningún agujero de gusano, coloca uno del par que
+toque (y se llevaría una **ficha de exploración** si es el primero en descubrir
+ese planeta). Estos montones se mantienen turno a turno, por lo que el bot va
+cogiendo cada vez más velocidad.
 
 Y esto es todo lo que tenemos que gestionar del bot.
 
@@ -265,11 +265,11 @@ sería bastante menos. Así que, parece que lo que le falta es alguna que otra
 mecánica más para añadir algo más de complejidad al asunto.
 
 Complejidad de reglas, no complejidad de dificultad, en dificultad el juego
-está muy bien. Como os he comentado por arriba el juego tiene tres dificultades
-diferentes para el bot: *normal*, *difícil* y *experto*. Las palabras que
-denominan la dificultad están elegidas de forma excelente. El modo *difícil* es muy
-complicado, yo solo he ganado una vez, y el *experto* es una ida de olla
-impresionante. 
+está muy bien. Como os he comentado por arriba **Wormholes** tiene tres
+dificultades diferentes para el bot: *normal*, *difícil* y *experto*. Las
+palabras que denominan la dificultad están elegidas de forma excelente. El modo
+*difícil* es muy complicado, yo solo he ganado una vez, y el *experto* es una
+ida de olla impresionante. 
 
 Lo que me lleva a la conclusión de que para mí este juego se salva porque a el
 bot es complicado ganarle, y las mecánicas son buenas, aunque necesiten algo
@@ -280,8 +280,8 @@ las dificultades en este caso) no sé que va a pasar con él, porque no es
 tremendamente rejugable y el setup de las losetas, aunque las puedas poner en
 diferentes configuraciones formando diferentes mapas, no es algo que le de
 rejugabilidad "emocionante" para mí. Pero, costará bastante ganar al bot en
-*experto*. Costará bastante, así que se le quedarán más de una docena de
-partidas al juego.
+*experto*. Costará bastante, así que posiblemente le quedarán más de una docena
+de partidas al juego.
 
 **¿Cómo sé si me puede gustar a mí este juego?** Si quieres descubrir de forma
 sencilla qué es esto del *pick-up and deliver* y construcción de rutas con un
