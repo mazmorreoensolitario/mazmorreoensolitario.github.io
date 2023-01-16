@@ -13,7 +13,7 @@ post_desc: "Wormholes es un juego con mecánicas de pick-up and deliver (recoger
  pasajeros entre planetas con la  ayuda de agujeros de gusano"
 ---
 
-<div class="panel panel-warning">
+<div class="panel panel-primary">
     <div class="panel-heading">
         <h3 class="panel-title">Ficha técnica - Wormholes</h3>
     </div>
