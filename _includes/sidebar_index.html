@@ -50,77 +50,68 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Gloomhaven: Fauces del León"
-      or tag[0] == "Ironsworn: Delve"
-      or tag[0] == "Labyrinth Lord"
-      or tag[0] == "Star Wars: El Borde Exterior"
-      or tag[0] == "Aeon's End"
       or tag[0] == "Boletín Informativo Solitario"
-      or tag[0] == "Disciples of Bone and Shadow"
-      or tag[0] == "Four Against Darkness"
-      or tag[0] == "Print & play"
-      or tag[0] == "Tops"
-      or tag[0] == "Ironsworn"
-      or tag[0] == "Mythic"
+      or tag[0] == "Ironsworn: Delve"
       or tag[0] == "Resistid"
-      or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "Arquitectos del Reino del Oeste"
-      or tag[0] == "Atlantic Chase"
       or tag[0] == "Colonos del Imperio: Imperios del Norte"
-      or tag[0] == "Dune: Imperium"
-      or tag[0] == "El mes en juegos"
-      or tag[0] == "Fábulas de Peluche"
-      or tag[0] == "Forbidden Lands"
-      or tag[0] == "High Frontier 4 All"
-      or tag[0] == "Lacrimosa"
-      or tag[0] == "Mapeando las catacumbas"
-      or tag[0] == "Marvel Champions: The Card Game"
+      or tag[0] == "Four Against Darkness"
+      or tag[0] == "Ironsworn"
       or tag[0] == "Old-School Essentials"
-      or tag[0] == "Pathfinder"
+      or tag[0] == "Print & play"
+      or tag[0] == "Absolute War! The Russian Front 1941-45"
+      or tag[0] == "Carnegie"
+      or tag[0] == "Essen Spiel 2022"
+      or tag[0] == "Grand Austria Hotel"
+      or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Lacrimosa"
       or tag[0] == "Res Arcana"
       or tag[0] == "Rol"
       or tag[0] == "Scarlet Heroes"
+      or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Sherlock Holmes Detective Asesor"
+      or tag[0] == "Star Wars: El Borde Exterior"
       or tag[0] == "Sword & Sorcery"
-      or tag[0] == "Across a Thousand Dead Worlds"
-      or tag[0] == "Agricola"
-      or tag[0] == "Ark Nova"
+      or tag[0] == "Arquitectos del Reino del Oeste"
       or tag[0] == "Barrage"
-      or tag[0] == "Brass: Birmingham"
-      or tag[0] == "Crónicas del Crimen"
-      or tag[0] == "Curious Cargo"
-      or tag[0] == "Dados y Colonos"
-      or tag[0] == "Dawn of the Zeds"
-      or tag[0] == "Enemy Action: Ardennes"
-      or tag[0] == "Essen Spiel 2021"
-      or tag[0] == "Etherfields"
+      or tag[0] == "Beyond the Sun"
+      or tag[0] == "Conflict of Heroes"
+      or tag[0] == "Dune: Imperium"
+      or tag[0] == "El mes en juegos"
       or tag[0] == "Expansiópolis"
+      or tag[0] == "Five Leagues From the Borderlands"
       or tag[0] == "Flamecraft"
-      or tag[0] == "Gloomhaven: Jaws of the Lion"
+      or tag[0] == "Forbidden Lands"
       or tag[0] == "Gran Austria Hotel"
-      or tag[0] == "Lands of Galzyr"
-      or tag[0] == "Las Mansiones de la Locura"
+      or tag[0] == "Great Western Trail"
+      or tag[0] == "High Frontier 4 All"
+      or tag[0] == "Kickstarter"
       or tag[0] == "Mage Knight"
-      or tag[0] == "Maracaibo"
+      or tag[0] == "Marvel Champions: The Card Game"
       or tag[0] == "Marvel United"
-      or tag[0] == "Mechs vs. Minions"
       or tag[0] == "Men of Iron Battles Tri-pack"
-      or tag[0] == "Oath: Chronicles of Empire and Exile"
+      or tag[0] == "Mythic"
+      or tag[0] == "Nightwatch"
       or tag[0] == "On Mars"
       or tag[0] == "OSR"
       or tag[0] == "Praga Caput Regni"
-      or tag[0] == "Race for the Galaxy"
+      or tag[0] == "Robinson Crusoe"
       or tag[0] == "Root: The Clockwork"
-      or tag[0] == "Root: The Underworld"
+      or tag[0] == "Russian Railroads: German Railroads"
       or tag[0] == "Sigils in the Dark"
-      or tag[0] == "Space Hulk: Death Angel The Card Game"
       or tag[0] == "Star Wars: Imperial Assault"
       or tag[0] == "Suburbia"
+      or tag[0] == "Terraforming Mars: Ares Expedition"
+      or tag[0] == "Terraforming Mars: Colonias"
+      or tag[0] == "Terraforming Mars: Preludio"
       or tag[0] == "The 7th Continent"
       or tag[0] == "The Red Cathedral"
-      or tag[0] == "Tin Helm"
+      or tag[0] == "The Vast in the Dark"
+      or tag[0] == "Tiletum"
+      or tag[0] == "Tops"
       or tag[0] == "Twilight: 2000"
       or tag[0] == "Wingspan"
-      or tag[0] == "Xia: Leyendas de un Sistema a la Deriva"
-      or tag[0] == "Zine Quest 2"
+      or tag[0] == "Wormholes"
+      or tag[0] == "Zine Quest"
       or tag[0] == "Zombicide" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
                                                    href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
@@ -160,13 +151,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/03/27/general-top-100-bgg-solitario-p4/" %}
-       {% for post in target-posts %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/11/14/noticias-csr-awards-2021/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -181,6 +165,13 @@
       {% endfor %}
     </div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2021/03/27/general-top-100-bgg-solitario-p4/" %}
+       {% for post in target-posts %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2022/12/30/off-topic-libros-de-2022/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -188,14 +179,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2020/11/07/noticias-csr-awards-2020/" %}
+      {% assign target-posts = site.posts | where: "url","/2018/11/05/analisis-mini-rogue/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/12/23/general-top-200-1pg-solitario-p4/" %}
+      {% assign target-posts = site.posts | where: "url","/2020/11/07/noticias-csr-awards-2020/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
