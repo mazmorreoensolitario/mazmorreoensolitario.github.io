@@ -160,7 +160,7 @@ que me recuerda mucho al videojuego [Caves of
 Qud](https://store.steampowered.com/app/333640/Caves_of_Qud/) (y de hecho forma
 parte de las inspiraciones del juego).
 
-### Vaults of Vaarn
+### [Vaults of Vaarn](https://www.philibertnet.com/en/jdr-vo-stand-alone/119575-vaults-of-vaarn.html#ae447-11)
 
 <p align="center">
 <img height=""
