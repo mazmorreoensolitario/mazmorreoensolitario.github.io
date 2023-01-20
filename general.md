@@ -11,7 +11,7 @@ categoría:
 <div class="col-md-10">
 {% assign sorted-posts = site.posts | where: "categories", "General" %}
 {% assign sorted = sorted-posts | sort: 'date' | reverse %}
-{% for post in sorted%}
+{% for post in sorted %}
         <div class="image-container">
             <a href="{{site.url}}{{post.url}}">
             <img class="crop-sidebar" src="{{post.imghtml}}">
