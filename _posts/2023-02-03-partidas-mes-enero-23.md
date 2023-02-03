@@ -5,8 +5,8 @@ date: 2023-02-03
 categories: [General]
 tags: [El mes en juegos, Three Sisters, The 7th Continent, Ark Nova, Cascadia, Wormholes, Sprawlopolis, Expansiópolis, Paper Tales, "Paper Tales: Beyond the Gates", Reinos de Papel, "Reinos de Papel: Más allá de las puertas"]
 imghtml: https://live.staticflickr.com/65535/52667383856_39b4e73e1c_b.jpg
-post_desc: "¿Qué se ha jugado durante el último mes del año? Aquí te cuento qué juegos de
-mesa, rol y wargames han visto mesa durante diciembre"
+post_desc: "¿Qué se ha jugado durante el primer mes del año? Aquí te cuento qué
+se ha jugado en enero"
 ---
 
 ![](https://live.staticflickr.com/65535/52667383856_39b4e73e1c_b.jpg)
