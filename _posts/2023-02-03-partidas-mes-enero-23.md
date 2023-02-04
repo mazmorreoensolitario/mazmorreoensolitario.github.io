@@ -230,7 +230,7 @@ src="https://cf.geekdo-images.com/ffId2T0emnZQ4tIpOR4JIg__imagepage/img/ei3JGRe5
 
 Durante enero también he jugado a
 **[Wormholes](https://boardgamegeek.com/boardgame/350689/wormholes)**, y como
-he hecho un **[análisis]({{site.baseurl}}/2023/01/15/analisis-wormholes/)**
+he hecho un **[análisis]({{site.baseurl}}/2023/01/16/analisis-wormholes/)**
 durante el mes me remito al análisis para que lo leáis.
 
 ## Juegos de rol
