@@ -94,7 +94,7 @@ Nova](https://boardgamegeek.com/boardgame/342942/ark-nova)** (primeras
 impresiones
 **[aquí]({{site.baseurl}}/2022/06/07/primeras-impresiones-ark-nova/)**) también
 ha tenido partidas durante el mes, pero solamente dos, se está des-acelerando
-en comparación con toda la caña que le he di en 2022, pero bueno es
+en comparación con toda la caña que le di en 2022, pero bueno es
 comprensible.
 
 <div align="center">
@@ -194,7 +194,7 @@ No quiero excederme porque hay unas primeras impresiones ya planificadas, pero
 os comento que **Three Sisters** es un roll & write de Ben Pinchback y Matt
 Riddle, que son los mismos autores que hicieron [Fleet: The Dice
 Game](https://boardgamegeek.com/boardgame/245961/fleet-dice-game), otro roll &
-writee que está muy bien valorado, y encima es de la época pre-boom de los
+write que está muy bien valorado, y encima es de la época pre-boom de los
 juegos roll & write.
 
 En **Three Sisters** buscamos gestionar nuestro huerto evitando que la maja,
