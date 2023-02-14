@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: Wingspan: Asia"
-tag: "Wingspan: Asia"
+title: "Etiqueta: Wingspan Asia"
+tag: "Wingspan Asia"
 ---
