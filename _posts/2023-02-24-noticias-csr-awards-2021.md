@@ -1284,7 +1284,9 @@ comentarios sobre los nominados y ganadores de cada categoría.
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/gmt/105419-tank-duel-north-africa-expansion-817054012183.html#ae447-11">Tank Duel: Expansion #1 – North Africa</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/302455/tank-duel-expansion-1-north-africa">Tank Duel: Expansion #1 – North Africa</a></strong> por <strong>Mike Bertucelli</strong>,
-        publicado por <strong>GMT Games</strong>,</p>
+        publicado por <strong>GMT Games</strong>, es una expansión para Tank
+    Duel que añade nuevo terreno y reglas además de tanques británicos,
+    italianos y más vehículos blindados alemanes.</p>
         <ul>
         <li>Puedes ojear las <a
             href="https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/TankDuel_NorthAfrica/Tank+Duel_NA_Expansion_Rule_Booklet_f_22MAR21_Web.pdf">reglas
@@ -1342,7 +1344,9 @@ comentarios sobre los nominados y ganadores de cada categoría.
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/series/106495-wing-leader-legends-1937-1945-817054012176.html#ae447-11">Wing Leader: Legends 1937-1945</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/333060/wing-leader-legends-1937-1945">Wing Leader: Legends 1937-1945</a></strong> por <strong>Lee Brimmicombe-Wood</strong>,
-        publicado por <strong>GMT Games</strong>,</p>
+        publicado por <strong>GMT Games</strong>, es una expansión para Wing
+    Leader que añade nuevos aviones y escenarios, además de un nuevo sistema de
+    campaña.</p>
         <ul>
         <li>Puedes ver un unboxing en el canal de  <a
             href="https://www.youtube.com/watch?v=BvqQOjYRZsQ">GMT Games</a>.</li>
