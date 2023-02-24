@@ -1633,17 +1633,17 @@ merece mucho la pena, y creo que recordar que ya no hacen envíos a Europa
 directamente ellos.
 
 Si nos fijamos en la sección de *"Mejor wargame de la Segunda Guerra Mundial"*,
-**MMP** ha tenido dos juegos nominados este año, **Panzers Last STand** (de la
+**MMP** ha tenido dos juegos nominados este año, **Panzers Last Stand** (de la
 serie BCS) y **The Third Winter** (de la serie OCS),  y si no recuerdo mal, los
 dos son un par de monstruos ya que tienen cuatro mapas. Yo estoy aprendiendo
-las reglas de la seria BCS con **Arracourt**, que es el juego más nuevo de la
+las reglas de la serie BCS con **Arracourt**, que es el juego más nuevo de la
 serie BCS —y el menos monstruo—, así que de momento no puedo comentar nada.
 
 <img src="https://cf.geekdo-images.com/4SXteJ2Fnx8vngK_5cgPAg__imagepage/img/sej1SkOCF7q_uMY7vqaDvjXbhfI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5709880.jpg">
 
 Llegamos a mi sección favorita, que es la de *"Mejor wargame del periodo
 moderno"*, y aquí diré lo que digo siempre, en algún momento tengo que probar
-algún juego de **Thin Red Line** games, porque todos los que hacen me ponen los
+algún juego de **Thin Red Line Games**, porque todos los que hacen me ponen los
 dientes largos. En 2021 salieron **1985: Sacred Oil**, que es un monstruo y
 **The Dogs of War**, que es parte de la serie C3, que es la que a mí me
 interesa de la editorial, ya que los juegos suelen ser de un único mapa y se
@@ -1672,7 +1672,7 @@ y [The Dark
 Summer](https://boardgamegeek.com/boardgame/249582/dark-summer-normandy-1944))
 aunque no tenga el adjetivo "dark" en el título, ya que todos los juegos son
 del mismo autor, tienen el mismo sistema de chip-pull (muy bueno para jugar en
-solitario), pero este **The deadly Woods** no ha sido publicado por **GMT
+solitario), pero este **The Deadly Woods** no ha sido publicado por **GMT
 Games**, como sí han sido el resto, sino que ha venido de la mano de
 **Revolution Games**, ni idea de cuál fue la razón de esta decisión. Yo quiero
 probar algún juego de esta serie, y el que mejor pinta tenía para mí era este
