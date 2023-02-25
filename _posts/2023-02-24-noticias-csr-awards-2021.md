@@ -1590,14 +1590,14 @@ comentarios sobre los nominados y ganadores de cada categoría.
 
 Estaba claro que el juego del año de 2021 iba a ser **Atlantic Chase**, ya que
 ha ganado en tres categorías diferentes —*"Mejor wargame de la Segunda
-Guerra Mundial"*, *"Mejor wargame en solitario o cooperativo"*— además de ganar
-el propio premio a el *"Mejor wargame del año"*. Recuerdo que cuando salió
-generó bastante sorpresa (quizás incluso controversia) por lo raro/innovador
-que era, aunque para mí personalmente había pasado desapercibido hasta que
-empezaron a llegar los juegos vía P500. Es un juego que me apetecería descubrir
-en el futuro, tiene 15 escenarios para jugar en solitario, y si ha ganado en la
-mayoría de las categorías que a mí me interesan como wargamer, me lo puedo
-tomar como una señal.
+Guerra Mundial"*, *"Mejor wargame en solitario o cooperativo"* y *"Mejores
+reglas"*— además de ganar el propio premio a el *"Mejor wargame del
+año"*. Recuerdo que cuando salió generó bastante sorpresa (quizás incluso
+controversia) por lo raro/innovador que era, aunque para mí personalmente había
+pasado desapercibido hasta que empezaron a llegar los juegos vía P500. Es un
+juego que me apetecería descubrir en el futuro, tiene 15 escenarios para jugar
+en solitario, y si ha ganado en la mayoría de las categorías que a mí me
+interesan como wargamer, me lo puedo tomar como una señal.
 
 Hablando de juegos menos conocidos, **Dawn of Battle**, nominado en la
 categoría de *"Mejor wargame del periodo antiguo al medieval"* es un juego que
