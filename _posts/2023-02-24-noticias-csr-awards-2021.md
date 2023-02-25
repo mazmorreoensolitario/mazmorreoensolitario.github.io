@@ -27,8 +27,8 @@ Como en otros años ([Premios de
 2019]({{site.baseurl}}/2020/11/07/noticias-csr-awards-2020/)) aquí os dejo una
 lista con los nominados en las distintas categorías, una pequeña descripción de
 cada juego y cómo se puede jugar en solitario al wargame (si se puede). Además
-de esto tenéis un par de enlaces, a las reglas y a un unboxing, de esta forma
-os podéis hacer mejor a la idea de qué pinta tiene el juego.
+de esto tenéis un par de enlaces, uno a las reglas y otro a un unboxing, de
+esta forma os podéis hacer mejor a la idea de qué pinta tiene el juego.
 
 Cuando un wargame esté en más de una categoría os referiré a la primera
 categoría donde aparece su descripción. Al final del todo tendréis mis
@@ -1627,7 +1627,7 @@ gran descubrimiento y lo añado a mi lista de deseos.
 
 En la sección de *"Mejor wargame de la Primera Guerra Mundial"* me alegra ver
 que **Decisive Victory 1918: Soissons** haya salido vencedor, yo lo tenía
-fichado; **Legion Wargames** tiene un catalogo muy interesante, os animo a que
+fichado; **Legion Wargames** tiene un catálogo muy interesante, os animo a que
 ojeéis su página, también tiene un programa de preventas, pero desde Europa no
 merece mucho la pena, y creo que recordar que ya no hacen envíos a Europa
 directamente ellos.
