@@ -218,7 +218,7 @@ Essentials](https://www.drivethrurpg.com/product/279183/OldSchool-Essentials-Cla
 [aquí]({{site.baseurl}}/2021/09/13/rol-old-school-essentials-advanced-fantasy/))
 se ha llevado un par de sesiones en solitario, que podéis leer en mi blog en
 inglés que utilizo principalmente para hacer un backup de mis notas en cuaderno
-de los *Play Reports*: [Noltere: OSE Hex-crawl Adventues (Part
+de los *Play Reports*: [Noltere: OSE Hex-crawl Adventures (Part
 1)](https://eeriespace.github.io/2022/05/01/play-report-ose-hexcrawl-noltere-p1/). 
 
 Lo que estoy jugando es una campaña tipo hex-crawl sobre el mapa que utilicé en

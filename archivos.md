@@ -237,6 +237,7 @@ categorías.
                         tag[0] == "Navajo Wars" or
                         tag[0] == "Nevsky: Teutons and Rus in Collision" or
                         tag[0] == "Next War: Korea" or
+                        tag[0] == "Next War: Poland" or
                         tag[0] == "Next War: Vietnam" or
                         tag[0] == "Next War Series" or
                         tag[0] == "Nightwatch" or
