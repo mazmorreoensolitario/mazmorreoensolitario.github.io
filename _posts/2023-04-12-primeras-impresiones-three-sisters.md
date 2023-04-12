@@ -7,7 +7,8 @@ tags: [Three Sisters]
 game: Three Sisters
 crop: true
 imghtml: https://cf.geekdo-images.com/Z1ihG_FHEKuf1Et53f2Dzg__imagepage/img/pQRnVBp7FYWmR0l1k9k5NECmOiQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6349029.png
-post_desc: "Three Sisters es un juego tipo roll & write"
+post_desc: "Three Sisters es un juego tipo roll & write en el que tenemos que
+conseguir tener el mejor jardín plantando calabazas, maíz y judías"
 ---
 
 <div class="panel panel-warning">
@@ -261,7 +262,7 @@ acción.
 
 En general **Three Sisters** no es un roll & write en el que vas como pollo sin
 cabeza a lo que te dicen los dados, sino que algo de planificación hay que
-tener y tienes que utilizar las mitigaciones que te da el juego (por ejemplo el
+tener y *tienes* que utilizar las mitigaciones que te da el juego (por ejemplo el
 *compost* para hacer el +/-1 en el resultado del dado) si quieres conseguir una
 puntuación digna.
 
