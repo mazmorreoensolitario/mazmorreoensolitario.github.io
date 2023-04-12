@@ -48,7 +48,7 @@ abajo.
 <img height=""
 src="https://live.staticflickr.com/65535/52787468656_ec3fa89b18_o.jpg">
 </p>
-<p><small>Un grupo de eurogamers culo-duros disfrutando con el ultimo Lacerda.</small></p>
+<p><small>Un grupo de eurogamers culo-duros disfrutando con el último Lacerda.</small></p>
 
 En el panorama no solitario pude probar el **Sushi Go!**, **Love Letter** y un
 juego de **HABA**, **Bella Blümchen** (traducido como Bellaflor en español) que
