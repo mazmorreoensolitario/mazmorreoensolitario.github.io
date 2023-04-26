@@ -18,7 +18,7 @@ con un resumen todavía más resumen de las noticias del panorama solitario de
 los juegos de mesa, rol y wargames.
 
 ¿No te has enterado de lo que ha pasado en el mundillo durante abril? No te
-preocupes, el **BIS** te pone al día rápidamente. ahora mismo te pone al día.
+preocupes, el **BIS** te pone al día rápidamente.
 
 Podéis acceder a **BIS-es de los meses anteriores** en [este
 enlace]({{site.baseurl}}/etiqueta/boletin-informativo-solitario/). 
