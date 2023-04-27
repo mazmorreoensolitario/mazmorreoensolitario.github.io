@@ -370,6 +370,7 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
 * **[ Descent: Leyendas de Las tinieblas](https://amzn.to/3H7m8nw)**: **154€**
   (PVP: 175€), español, Fantasy Flight Games (2021).
 
+
 <hr>
 
 <small>Nota: Las imágenes de las portadas de los juegos pertenecen sus
