@@ -45,7 +45,7 @@ BGG.
 <img height="250"
 src="https://cf.geekdo-images.com/sfgo3BXIx9lE_OP1sOnzwA__imagepage/img/NygILC3xbItIsz1VNfmD04PHjZ0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7442805.jpg"></p>
 
-**—** La editorial española **Salt & Pepper games**
+**—** La editorial española **Salt & Pepper Games**
 [anuncia](https://twitter.com/SaltPeppergames/status/1643879853802897409)
 **[¡Brujería!](https://boardgamegeek.com/boardgame/383499/witchcraft)**
 (*Witchcraft!*), un nuevo juego en solitario de **David Thompson** y **Roger
@@ -91,7 +91,7 @@ jugarlo en solitario. Se trata de **[Santorini: Riddle of the
 Sphinx](https://boardgamegeek.com/boardgameexpansion/383477/santorini-riddle-sphinx)**. Para
 conseguirlo ha habido una [campaña de
 Kickstarter](https://www.kickstarter.com/projects/roxley/santorini-pantheon-edition-and-the-riddle-of-the-sphinx?ref=mazmorreoensolitario)
-que terminó el pasado 28 de abril. Una vez que se entregue a los mecenas
+que terminó el (pasado) 28 de abril. Una vez que se entregue a los mecenas
 podréis conseguirlo en retail.
 
 
@@ -168,7 +168,7 @@ src="https://cf.geekdo-images.com/8efZyVI3MicQdMYThEdpQw__imagepage/img/1-j9REwD
 
 **—** Las siguientes noticias nos llegan de
 [Board Game Geek](https://boardgamegeek.com/blogpost/146645/place-toadstools-glade-build-words-sides-and-forge),
-en las que **R& Games** anuncia **[The
+en las que **R&D Games** anuncia **[The
 Glade](https://boardgamegeek.com/boardgame/382966/glade)**, un juego de
 estrategia abstracta y deducción en el que hay que construir patrones. Se
 espera para 2023.
@@ -225,7 +225,7 @@ en un stream **[Ezra and
 Nehemiah](https://boardgamegeek.com/boardgame/386368/ezra-and-nehemiah)**, un
 nuevo juego dentro de su serie [Ancient
 Anthology](https://boardgamegeek.com/boardgamefamily/72045/series-ancient-anthology-garphill-games).
-**Ezra and nehemiah** saldrá en 2024, pero se espera una campaña de Kickstarter
+**Ezra and Nehemiah** saldrá en 2024, pero se espera una campaña de Kickstarter
 para finales de 2023.
 
 <p align="center">
