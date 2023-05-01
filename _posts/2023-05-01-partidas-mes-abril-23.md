@@ -265,8 +265,9 @@ eso, la partida ha sido justísima.
 ### [Tramways](https://www.philibertnet.com/en/avstudiogames/42631-tramways-859573004348.html#ae447-11)/[Tranvías](https://zacatrus.es/tranvias.html#u97)
 
 <div align="center">
-<img src="https://cf.geekdo-images.com/ycMPJvg5CWhhCHWYvW06BQ__imagepage/img/WXqikPlY8n2XeqAuRxMg4jAJhGc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2974065.jpg">
+<img height="" src="https://cf.geekdo-images.com/ycMPJvg5CWhhCHWYvW06BQ__imagepage/img/WXqikPlY8n2XeqAuRxMg4jAJhGc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2974065.jpg">
 </div>
+<br>
 
 **[Tramways/Tranvías](https://boardgamegeek.com/boardgame/166571/tramways)** ha
 sido el último juego que he jugado durante abril, es otro juego que también
@@ -326,8 +327,8 @@ dos juegos se lleven el codiciado galardón:
 
 ## Planes para mayo
 
-No se me ocurre nada especial, pintar pinis y terminar de hacer abrolitos de
-escenografía, con un poco de suerte igual supero el escenario 13 de
+No se me ocurre nada especial, pintar minis y terminar de hacer arbolitos de
+escenografía, y con un poco de suerte igual supero el escenario 13 de
 **Cascadia**.
 
 Esto es todo, ¡os espero en la siguiente entrada de **[El mes en
