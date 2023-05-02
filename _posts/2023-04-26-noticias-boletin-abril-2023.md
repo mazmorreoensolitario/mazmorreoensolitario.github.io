@@ -361,8 +361,6 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
   **60€** (PVP: 65€), GMT Games (2022).
 * **[Marvel Champions: El Juego de Cartas](https://amzn.to/40sXtAx)**: **60€**
   (PVP: 70€), español, Fantasy Flight Games (2019).
-* **[Maracaibo](https://amzn.to/40zNuJY)**: **63€** (PVP: 75€), español,
-  Ediciones Masqueoca (2020).
 * **[El Señor de los Anillos: Viajes por la Tierra Media](https://amzn.to/3L8S2kW)**: **93€** (PVP:
   110€), español, Fantasy Flight Games (2019).
 * **[Gloomhaven 2ª Edición](https://amzn.to/3H60os0)**: **127€** (PVP: 150€),
