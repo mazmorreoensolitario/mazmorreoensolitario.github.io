@@ -336,6 +336,6 @@ juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos)**!
 
 <hr>
 
-<small>Nota: nota el fondo de galaxia es la <a
+<small>Nota: el fondo de galaxia de la foto "portada" de esta entrada es la <a
 href="https://es.wikipedia.org/wiki/Nebulosa_de_la_Tar%C3%A1ntula">Nebulosa de
 la Tarántula</a> en una foto de la NASA.</small>
