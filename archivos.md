@@ -254,6 +254,7 @@ categorías.
                         tag[0] == "Salerno 43" or
                         tag[0] == "Santander 37" or
                         tag[0] == "Sniper Kill Confirmed" or
+                        tag[0] == "Stargard Solstice" or
                         tag[0] == "Stargrave" or
                         tag[0] == "Stilicho: Last of the Romans" or
                         tag[0] == "Soldiers in Postmen's Uniforms" or
