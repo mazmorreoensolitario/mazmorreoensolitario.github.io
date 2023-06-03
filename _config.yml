@@ -45,7 +45,7 @@ disqus-shortname: mazmorreo-en-solitario
 #twitter: https://twitter.com/mazmorreo
 twitter:
   username: mazmorreo
-  card: summary_large_image
+  card: 'summary_large_image'
 email: mazmorreoensolitario@gmail.com
 instagram: https://www.instagram.com/mazmorreo/?hl=es
 
