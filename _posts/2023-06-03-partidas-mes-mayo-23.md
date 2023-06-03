@@ -196,10 +196,10 @@ Nada que destacar este mes.
 Y finalmente llegamos a la sección del los **Premios Juego del Mes**, para que
 dos juegos se lleven el codiciado galardón:
 
-* **En juegos de mesa...** el ganador es **Stargard Solstice** , porque los
+* **En juegos de mesa...** el ganador es **Stargard Solstice**, porque los
   wargames no tienen porqué ser complicados.
 
-* **En juegos de rol...** no saltamos el galardón este mes.
+* **En juegos de rol...** nos saltamos el galardón este mes.
 
 ¡Felicidades a los premiados!
 
