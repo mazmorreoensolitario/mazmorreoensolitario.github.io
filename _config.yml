@@ -42,10 +42,10 @@ comments: true
 disqus-shortname: mazmorreo-en-solitario
 
 # social
-#twitter: https://twitter.com/mazmorreo
-twitter:
-  username: mazmorreo
-  card: 'summary_large_image'
+twitter: https://twitter.com/mazmorreo
+# twitter:
+#   username: mazmorreo
+#   card: 'summary_large_image'
 email: mazmorreoensolitario@gmail.com
 instagram: https://www.instagram.com/mazmorreo/?hl=es
 
@@ -57,7 +57,7 @@ sass:
   style: compressed
 
 # Ruby Gems
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed, jekyll-sitemap]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap]
 
 #
 future: true
