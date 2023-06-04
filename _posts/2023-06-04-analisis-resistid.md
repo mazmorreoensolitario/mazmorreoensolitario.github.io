@@ -282,21 +282,21 @@ ya paso, y simplemente voy a calificar todo el tema de la caja del juego como
 
 <p align="center"><img src="https://live.staticflickr.com/65535/52950066616_ff37b52032_b.jpg"></p>
 <p align="center"><small>Contenido de ¡Resistid! dentro de la caja de Mini Rogue,
-dentro de la caja de ¡Resitid!</small></p>
+dentro de la caja de ¡Resistid!</small></p>
 
 Si utilizásemos una caja del tamaño de **Mini Rogue** aún sobraría espacio de
 largo y ancho.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/52950515663_8c6433fb4e_b.jpg"></p>
 <p align="center"><small>Contenido de ¡Resistid! dentro de la caja de Pocket Mars,
-dentro de la caja de Lux Aeterna, y dentro de la caja ¡Resitid!</small></p>
+dentro de la caja de Lux Aeterna, y dentro de la caja ¡Resistid!</small></p>
 
 Si utilizásemos una caja del tamaño de **Lux Aeterna**/**Aleph Null** aún
 sobraría espacio; la caja de **Pocket Mars** parece que es justa de
 profundidad, pero queda holgado de altura y anchura.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/52950066561_be8c2b099a_b.jpg"></p>
-<p align="center"><small>Contenido de ¡Resistid! dentro de la caja de Desolate y dentro de la caja ¡Resitid!</small></p>
+<p align="center"><small>Contenido de ¡Resistid! dentro de la caja de Desolate y dentro de la caja ¡Resistid!</small></p>
 
 Una caja del tamaño de **Desolate** es lo más justo que he encontrado en cuando
 a anchura y altura, que ya veis que sobra, aunque necesitaría algo más de
@@ -329,7 +329,7 @@ no había un bot que estuvieras gestionando más que jugar tu turno, pero no me
 hizo *click*.
 
 Por un lado, el drafting inicial que te recomiendan hacer *"cuando ya domines
-el juego"* en **¡Resitid!** no podría ser peor recomendación, tienes que
+el juego"* en **¡Resistid!** no podría ser peor recomendación, tienes que
 hacerlo sí o sí, y a veces solamente por las cartas de maquis que te han tocado
 ya sabes que vas a perder la partida seguro. Este drafting inicial es la forma
 de conseguir las 12 cartas de maquis con las que vas a crear tu mazo oculto; si
