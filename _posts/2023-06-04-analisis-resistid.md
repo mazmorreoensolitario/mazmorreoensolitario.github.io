@@ -263,7 +263,7 @@ visión, no hay codificación de nada por colores.
 **Componentes.** Las cartas son muy flexibles sin parecer blandengues, no son
 de acabado lino, pero tienen buen tacto. La única pega es que no han sido
 cortadas correctamente y en algunas aristas vais a poder ver líneas como en
-blanco, podría ser porque la maquina que corta las cartas no estuviera bien
+blanco, podría ser porque la máquina que corta las cartas no estuviera bien
 afilada en la fábrica. Eso, o me ha tocado a mí la copia mala.
 
 Pasamos a hablar del elefante en la habitación (la caja).
