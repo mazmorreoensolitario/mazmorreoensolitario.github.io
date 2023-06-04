@@ -142,7 +142,7 @@ que podéis descargar de la editorial, yo jugué al primer escenario descargable
 
 El setup es bastante infierno porque las posiciones en las que tienes que poner
 los counters no tiene mucha lógica, algunas cosas sí, pero otras podrían
-mejorarse, además no sé, no es un juego inmenso con chorrocientos counters, así
+mejorarse; además, no sé, no es un juego inmenso con chorrocientos counters, así
 que no cuesta nada añadir una foto con flechitas donde te den la posición
 aproximada de cada grupo, y a partir de ahí tú te apañas.
 

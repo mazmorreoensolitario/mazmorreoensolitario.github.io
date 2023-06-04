@@ -58,6 +58,7 @@ post_desc: "Glory: A Game of Knights está ambientado en Europa medieval, en el
     </div>
 </div>
 
+
 > **Las fotos del juego son de un prototipo**. La producción final del juego
 > puede diferir de lo aquí expuesto.
 
