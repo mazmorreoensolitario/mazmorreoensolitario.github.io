@@ -302,7 +302,7 @@ Una caja del tamaño de **Desolate** es lo más justo que he encontrado en cuand
 a anchura y altura, que ya veis que sobra, aunque necesitaría algo más de
 profundidad. 
 
-Siendo objetivos, viendo la cantidad de aire-cartas que viene en la caja con
+Siendo objetivos, viendo la relación de aire-cartas que viene en la caja, con
 los 25€ de **¡Resistid!** parece que hemos comprado más aire que componentes
 para el juego.
 
