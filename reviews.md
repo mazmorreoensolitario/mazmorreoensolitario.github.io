@@ -39,7 +39,7 @@ codificadas con iconos, entonces la dependencia será *alta*.
 
 <div class="col-md-12">
 <h3>5 monedas</h3>
-<p><strong>ES IDEAL.</strong> Si no sabes a qué jugar, <strong>debes</strong>
+<p><strong>ES IDEAL.</strong> — Si no sabes a qué jugar, <strong>debes</strong>
 empezar por estos. <strong>Son 
 juegos ideales que te puedo recomendar sin ninguna duda.</strong></p>
 
@@ -51,7 +51,7 @@ existe)</i></p>
 
 <div class="col-md-12">
 <h3> 4.5 monedas</h3>
-<p><strong>Fantástico.</strong>
+<p><strong>Fantástico.</strong>  — 
 Juegos fantásticos, de los que quieres volver a jugar cuando has terminado la
 partida, y si no puedes volver a jugar acto seguido, es por Una Causa
 Mayor. También <strong>te los recomiendo sin dudas.</strong></p>
@@ -74,7 +74,7 @@ Mayor. También <strong>te los recomiendo sin dudas.</strong></p>
 
 <h3> 4 monedas</h3>
 <div class="col-md-12">
-<p><strong>¡Este juego es genial!</strong>  Voy a jugar otra vez ya mismo.
+<p><strong>¡Este juego es genial!</strong> Voy a jugar otra vez ya mismo.  — 
 Juegos muy muy buenos, también quiero jugar otra vez según he terminado la
 partida, pero a lo mejor no en el mismo día. <strong>Recomendados.</strong></p>
 
@@ -96,7 +96,7 @@ partida, pero a lo mejor no en el mismo día. <strong>Recomendados.</strong></p>
 
 <h3> 3.5 monedas</h3>
 <div class="col-md-12">
-<p><strong>Me lo paso muy bien jugando a este juego.</strong> Estos juegos me gustan, son
+<p><strong>Me lo paso muy bien jugando a este juego.</strong>  — Estos juegos me gustan, son
 buenos, pero no los saco a la mesa tan a menudo porque tengo otros que me
 tiran más. Yo los llamo <i>juegos estacionales</i>, a veces me dan rachas en los que
 los juego mucho y otras veces pasan temporadas muy largas sin
@@ -121,7 +121,7 @@ atención.</strong></p>
 
 <h3> 3 monedas</h3>
 <div class="col-md-12">
-<p><strong>Me lo paso bien jugando a este juego.</strong> El último escalón de los juegos que
+<p><strong>Me lo paso bien jugando a este juego.</strong>  — El último escalón de los juegos que
 puedo decir que me gustan. Son los que menos saco a la mesa, también son 
 *estacionales* (mira qué es esto en la descripción de la categoría superior).</p>
 
@@ -143,7 +143,7 @@ puedo decir que me gustan. Son los que menos saco a la mesa, también son
 
 <h3> 2.5 monedas</h3>
 <div class="col-md-12">
-<p><strong>Es entretenido, pero no me engancha.</strong> En estos juegos empiezo a ver algunas
+<p><strong>Es entretenido, pero no me engancha.</strong> — En estos juegos empiezo a ver algunas
 pegas, y como dice el título, son entretenidos, pero no me enganchan y salvo
 que se cambie algo en el juego, dudo que repita.</p>
 
@@ -165,7 +165,7 @@ que se cambie algo en el juego, dudo que repita.</p>
 
 <h3>2 monedas</h3>
 <div class="col-md-12">
-<p><strong>Es algo entretenido, pero no me engancha.</strong> A estos juegos les veo pegas
+<p><strong>Es algo entretenido, pero no me engancha.</strong>  — A estos juegos les veo pegas
 mayores que a los de la categoría anterior y hasta me pueden llegar a parecer
 aburridos.</p>
 
@@ -188,7 +188,7 @@ aburridos.</p>
 
 <h3> 1.5 monedas</h3>
 <div class="col-md-12">
-<p><strong>Creo que prefiero hacer otra cosa.</strong> Como dice el título, creo
+<p><strong>Creo que prefiero hacer otra cosa.</strong>  — Como dice el título, creo
 que prefiero hacer alguna otra actividad de ocio antes que jugar a estos
 juegos, no conectan conmigo.</p>
 
@@ -212,7 +212,7 @@ juegos, no conectan conmigo.</p>
 <h3> 1 moneda</h3>
 <div class="col-md-12">
     <p>
-    <strong>Definitivamente, prefiero hacer otra cosa.</strong> Espero no jugar a ningún juego
+    <strong>Definitivamente, prefiero hacer otra cosa.</strong>  — Espero no jugar a ningún juego
     de esta categoría y darme cuenta antes de jugarlo que no es lo mio.</p>
     <p><i>(de momento no he jugado a ninguno de estos, existen, pero evito
     jugarlos)</i></p>
