@@ -285,7 +285,10 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
 * **[Nightwatch: Terror and Treasure in the Dark Corners of the
   World](https://amzn.to/41P94ey)**: **16€**, Patrick Todoroff (2020).
 * **[Frostgrave: Perilous Dark](https://amzn.to/4409Wi7)**: **17€** (PVP: 20€),
-  inglés, Osprey Games, 2019. 
+  inglés, Osprey Games (2019). 
+* **[Tiny Epic
+  Vikings](https://www.philibertnet.com/en/gamelyn-games/122465-tiny-epic-vikings-850038580018.html#ae447-11):
+  **17€** (PVP: 29.95€), inglés, Gamelyn Games (2023). 
 * **[Frostgrave: Second Edition: Fantasy Wargames in the Frozen City](https://amzn.to/3H9lvtD)**:
   **23€** (PVP: 28€), inglés, Osprey Games (2020).
 * **[The Silver Bayonet: A Wargame of Napoleonic Gothic
@@ -303,6 +306,9 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
   **35€**, inglés, MMP (2005).
 * **[Arkham Horror: Hora Final](https://amzn.to/3w75ZpQ):** **32€** (PVP:
   39.95€), español, Fantasy Flight Games (2019).
+* **[Free
+  Ride](https://www.philibertnet.com/en/2f-spiele/102427-free-ride-4260300450622.html#ae447-11)**:
+  **37€** (PVP: 49.95€), inglés, 2F-Spiele (2021).
 * **[Salerno
   '43](https://www.philibertnet.com/en/western-front/107545-salerno-43-2100000826421.html#ae447-11)**:
   **40€** (PVP: 45€), inglés, GMT Games (2022).
