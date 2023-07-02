@@ -84,14 +84,14 @@ mismo año. Sin confirmación aún de que sea un lanzamiento de la **SPIEL '23**
 src="https://cf.geekdo-images.com/85UBlmIH6s5PUKHpvk-cPA__imagepage/img/zsOO95seeVDYWq5wgg5NkV1Hl4g=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7580719.png"></p>
 
 **—** La editorial alemana de reciente creación, **The Game Builders**,  anuncia **[Planta
-Nuvo](https://boardgamegeek.com/boardgame/388339/planta-nubo)**, un euro
+Nubo](https://boardgamegeek.com/boardgame/388339/planta-nubo)**, un euro
 económico de colocación de trabajadores, colocación de losetas tipo polinomio,
 *engine building* y una temática solar-punk; además tiene a tres grandes
 nombres como autores: **Michael Keller**, **Uwe Rosenberg** y **Andreas "ode."
 Odendahl**.
 
 
-**Planta Nuvo** se espera para la **SPIEL '23**.
+**Planta Nubo** se espera para la **SPIEL '23**.
 
 <p align="center">
 <img height="250"
@@ -148,7 +148,7 @@ el que tenemos que liderar al pueblo celta en su expansión por Europa.
 <img height="250"
 src="https://cf.geekdo-images.com/4wy6b2jPK9Zsipa0PMjrsA__imagepage/img/T9ItjSUzxjRodHy9CWjgA3tLCR4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7535494.jpg"></p>
 
-**—** Pasándonos a Europa central, la editorial aleman **Hall Games** anuncia
+**—** Pasándonos a Europa central, la editorial alemana **Hall Games** anuncia
 **[Djinn](https://boardgamegeek.com/boardgame/384150/djinn)**, un euro de
 temática fantástica diseñado por **Benjamin Schwer** ([Crown of
 Emara](https://boardgamegeek.com/boardgame/256570/crown-emara)) que también se
