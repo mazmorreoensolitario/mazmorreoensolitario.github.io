@@ -320,7 +320,7 @@ En novena posición se encuentran empatados **Spirit Island** y  **World at War
         class="img-thumbnail" alt="Faiyum">
     </div>
     <div class="col-md-9">
-        <h4><strong>2. <a href="https://zacatrus.es/fayun.html#u97">Faiyum/Fayún</a></strong></h4>
+        <h4><strong>2. <a href="https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447-11">Faiyum/Fayún</a></strong></h4>
         <p><i>22h, 10 partidas</i></p>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/318983/faiyum">Faiyum</a></strong>

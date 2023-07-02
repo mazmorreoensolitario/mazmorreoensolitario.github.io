@@ -251,7 +251,7 @@ sorpresa... ahora os lo cuento.
         class="img-thumbnail" alt="Faiyum / Fayún">
     </div>
     <div class="col-md-9">
-        <h4><strong>7. <a href="https://zacatrus.es/fayun.html#u97">Faiyum / Fayún</a></strong></h4>
+        <h4><strong>7. <a href="https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447-11">Faiyum / Fayún</a></strong></h4>
          <p><strong><a
     href="https://cf.geekdo-images.com/sl0ReaWGqY1LQjNoGtCPWg__imagepage/img/M9hKi_flOtVxnYKQXRaEO0S196c=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5638086.jpg">Faiyum
     / Fayún</a></strong> (primeras impresiones <strong><a
