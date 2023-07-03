@@ -55,13 +55,6 @@
     <h4>Lo más leído</h4>
     <div id="most-read"></div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
-       {% for post in target-posts %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2020/05/16/rol-en-solitario-como-empiezo/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -69,7 +62,35 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/02/24/noticias-csr-awards-2021/" %}
+      {% assign target-posts = site.posts | where: "url","/2023/07/02/noticias-boletin-mayo-junio-2023/" %}
+       {% for post in target-posts %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}
+       {% for post in target-posts %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2023/07/02/partidas-mes-junio-23/" %}
+       {% for post in target-posts %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2023/06/04/analisis-resistid/" %}
+       {% for post in target-posts %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2018/11/05/analisis-mini-rogue/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -90,20 +111,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/11/14/noticias-csr-awards-2021/" %}
-       {% for post in target-posts %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2018/11/05/analisis-mini-rogue/" %}
-       {% for post in target-posts %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2019/03/09/analisis-maquis/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -111,14 +118,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/06/04/analisis-resistid/" %}
-       {% for post in target-posts %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/06/03/partidas-mes-mayo-23/" %}
+      {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -143,80 +143,81 @@
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
       {% for tag in site.tags %}
-      {% if tag[0] == "Gloomhaven: Fauces del León"
-      or tag[0] == "Resistid"
-      or tag[0] == "Barrage"
-      or tag[0] == "Print & play"
-      or tag[0] == "Tin Helm"
-      or tag[0] == "Etherfields"
-      or tag[0] == "Five Leagues From The Borderlands"
-      or tag[0] == "High Frontier 4 All"
-      or tag[0] == "Nemesis"
-      or tag[0] == "Terraforming Mars"
-      or tag[0] == "Tops"
-      or tag[0] == "9 Card Game Print & Play Design Contest"
-      or tag[0] == "Aeon's End"
-      or tag[0] == "ALIEN RPG"
-      or tag[0] == "Beak Feather & Bone"
-      or tag[0] == "Eldritch Horror"
-      or tag[0] == "Europa Universalis: The Price of Power"
-      or tag[0] == "Four Against Darkness"
-      or tag[0] == "Ironsworn"
-      or tag[0] == "Kickstarter"
-      or tag[0] == "Mind MGMT"
-      or tag[0] == "Pico Pluma & Hueso"
-      or tag[0] == "Root: The Underworld"
+      {% if tag[0] == "Print & play"
+      or tag[0] == "El mes en juegos"
+      or tag[0] == "Gloomhaven: Fauces del León"
       or tag[0] == "Scarlet Heroes"
-      or tag[0] == "Star Wars: Rebellion"
-      or tag[0] == "Trickerion: Legends of Illusion"
-      or tag[0] == "Zine Quest"
-      or tag[0] == "A Rasp of Sand"
-      or tag[0] == "Across a Thousand Dead Worlds"
-      or tag[0] == "Advanced Squad Leader"
-      or tag[0] == "All Bridges Burning"
+      or tag[0] == "Tops"
       or tag[0] == "Alone Among the Stars"
-      or tag[0] == "Anachrony"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Four Against Darkness"
+      or tag[0] == "Iron Helm"
+      or tag[0] == "Resistid"
+      or tag[0] == "1985: Deadly Northern Lights"
+      or tag[0] == "Etherfields"
+      or tag[0] == "Europa Universalis: The Price of Power"
+      or tag[0] == "Five Parsecs From Home"
+      or tag[0] == "Pico Pluma & Hueso"
+      or tag[0] == "Res Arcana"
+      or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Zine Quest 2"
+      or tag[0] == "Absolute War! The Russian Front 1941-45"
+      or tag[0] == "Aeon's End"
+      or tag[0] == "After The Virus"
+      or tag[0] == "Beak Feather & Bone"
+      or tag[0] == "Bomber Boys"
+      or tag[0] == "Brass: Birmingham"
+      or tag[0] == "Dune: Imperium"
+      or tag[0] == "Forbidden Lands"
+      or tag[0] == "Ironsworn: Starforged"
+      or tag[0] == "Mapeando las catacumbas"
+      or tag[0] == "Nemesis"
+      or tag[0] == "Paleo"
+      or tag[0] == "The Adventurer"
+      or tag[0] == "Undaunted: Normandy"
+      or tag[0] == "Wingspan"
+      or tag[0] == "Advanced Squad Leader"
+      or tag[0] == "Agricola"
+      or tag[0] == "ALIEN RPG"
+      or tag[0] == "Apothecaria"
+      or tag[0] == "Ark Nova: Aquarius"
       or tag[0] == "Arquitectos del Reino del Oeste"
       or tag[0] == "Atlantic Chase"
-      or tag[0] == "Brass: Birmingham"
-      or tag[0] == "Cities: Skylines The Board Game"
+      or tag[0] == "Augmented Reality"
+      or tag[0] == "Bloodborne: The Board Game"
+      or tag[0] == "Boletín Informativo Solitario"
+      or tag[0] == "Cascadia"
+      or tag[0] == "Cielos de metal"
+      or tag[0] == "Concordia Solitaria"
       or tag[0] == "Conflict of Heroes"
-      or tag[0] == "Crónicas del Crimen"
       or tag[0] == "D-Day at Omaha Beach"
       or tag[0] == "Dados y Colonos"
+      or tag[0] == "Dawn of the Zeds"
+      or tag[0] == "Dice Settlers: Western Sea"
       or tag[0] == "Disciples of Bone and Shadow: Conquered Sun Edition"
       or tag[0] == "Disciples of Bone and Shadow"
-      or tag[0] == "El mes en juegos"
-      or tag[0] == "Enemy Action: Ardennes"
-      or tag[0] == "Exploradores de las Profundidades Sombrías"
       or tag[0] == "Food Chain Island"
-      or tag[0] == "Forbidden Lands"
       or tag[0] == "G.I. JOE Deck-Building Game"
       or tag[0] == "GMT Games"
       or tag[0] == "HEXplore It"
-      or tag[0] == "Imperial Steam"
-      or tag[0] == "Ironsworn: Delve"
-      or tag[0] == "Lanzerath Ridge"
-      or tag[0] == "Legends of Dsyx"
+      or tag[0] == "Horizons of Spirit Island"
+      or tag[0] == "It's a Wonderful World"
       or tag[0] == "Marvel Champions: The Card Game"
-      or tag[0] == "Mythic"
-      or tag[0] == "NAC Wargames"
-      or tag[0] == "North Africa 41"
-      or tag[0] == "Oh My Goods!"
-      or tag[0] == "Old-School Essentials"
-      or tag[0] == "On Mars"
-      or tag[0] == "One Page Dungeon"
+      or tag[0] == "Mörk Borg"
+      or tag[0] == "Pathfinder"
       or tag[0] == "Pax Pamir"
-      or tag[0] == "Planet Unknown"
-      or tag[0] == "Pocket Landship"
-      or tag[0] == "Res Arcana"
-      or tag[0] == "Rol"
-      or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Robinson Crusoe"
+      or tag[0] == "Sabika"
       or tag[0] == "Solitaire Print & Play Design Contest"
       or tag[0] == "Star Wars: El Borde Exterior"
-      or tag[0] == "The Adventure Crafter"
-      or tag[0] == "Traducciones"
-      or tag[0] == "Warp's Edge" %}
+      or tag[0] == "Stellar Horizons"
+      or tag[0] == "The Dark Summer: Normandy 1944"
+      or tag[0] == "Tin Helm"
+      or tag[0] == "Trickerion: Legends of Illusion"
+      or tag[0] == "Twilight: 2000"
+      or tag[0] == "Verdun 1916: Steel Inferno"
+      or tag[0] == "Villagers"
+      or tag[0] == "Zine Quest" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
@@ -230,28 +231,28 @@
     <h4>Análisis más leídos</h4>
     <div id="top-analisis"></div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2020/05/23/ojeando-mini-rogue/" %}
+      {% assign target-posts = site.posts | where: "url","/2023/06/04/analisis-resistid/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>1. {{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/03/09/analisis-maquis/" %}
+      {% assign target-posts = site.posts | where: "url","/2020/05/23/ojeando-mini-rogue/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>2. {{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/06/04/analisis-resistid/" %}
+      {% assign target-posts = site.posts | where: "url","/2019/03/09/analisis-maquis/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>3. {{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/07/23/analisis-orchard/" %}
+      {% assign target-posts = site.posts | where: "url","/2019/02/02/analisis-gladiator-gauntlet/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
         <div class="text-block"><h5>4. {{post.title | truncate: 40}}</h5></div></a>
