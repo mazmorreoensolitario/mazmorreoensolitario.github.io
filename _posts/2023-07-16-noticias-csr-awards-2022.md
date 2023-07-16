@@ -131,7 +131,7 @@ de Paolo Mori, y publicado por <strong>PSC Games</strong> (<strong>Maldito
     href="https://boardgamegeek.com/boardgameexpansion/323529">Great Battles of Julius Caesar: Deluxe Edition</a></strong>
 de Richard H. Berg, Mark Herman, y publicado por <strong>GMT Games</strong>, es
     un wargame de hex & counter que contiene veinte batallas desde Cirta 106
-    A.d.C a Wales 51 D.d.C.</p>
+    a.C a Wales 51 d.C.</p>
     <ul>
       <li>Puedes ojear las <a href="https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/GBOJC/GBJC_Rules+Final+Low-Res.pdf">reglas aquí</a>.</li>
       <li>Puedes ver un unboxing en el canal de <a
@@ -462,7 +462,10 @@ de Cole Wehrle, y publicado por <strong>Wehrlegig Games</strong>
 de Matt Shoemaker, Roberta Taylor, y publicado por <strong>Hit 'Em With a
     Shoe</strong>, es un wargame sobre la invasión francesa de Algeria.</p>
     <ul>
-      <li>Puedes ojear las <a href="https://boardgamegeek.com/filepage/245392/red-burnoose-english-rules">reglas aquí</a>.</li>
+      <li>Puedes ojear las <a
+    href="https://boardgamegeek.com/filepage/245392/red-burnoose-english-rules">reglas
+    aquí</a>.</li>
+    </ul>
     <p><strong>En solitario...</strong> tienes un bot contra el que enfrentarte.</p>
     <img src="https://cf.geekdo-images.com/_BATgiwHpg7nr-Xx0SmKqw__imagepage/img/-rA9sw8iyd-gi2CohopIFkrQ5_U=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6749433.jpg">
     </div>
