@@ -129,7 +129,9 @@ de Paolo Mori, y publicado por <strong>PSC Games</strong> (<strong>Maldito
         <h4><a href="https://www.philibertnet.com/en/great-battles-of-history/112745-great-battles-of-julius-caesar-deluxe-edition-817054012350.html#ae447">Great Battles of Julius Caesar: Deluxe Edition</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/323529">Great Battles of Julius Caesar: Deluxe Edition</a></strong>
-de Richard H. Berg, Mark Herman, y publicado por <strong>GMT Games</strong>, es.</p>
+de Richard H. Berg, Mark Herman, y publicado por <strong>GMT Games</strong>, es
+    un wargame de hex & counter que contiene veinte batallas desde Cirta 106
+    A.d.C a Wales 51 D.d.C.</p>
     <ul>
       <li>Puedes ojear las <a href="https://gmtwebsiteassets.s3.us-west-2.amazonaws.com/GBOJC/GBJC_Rules+Final+Low-Res.pdf">reglas aquí</a>.</li>
       <li>Puedes ver un unboxing en el canal de <a
@@ -461,7 +463,6 @@ de Matt Shoemaker, Roberta Taylor, y publicado por <strong>Hit 'Em With a
     Shoe</strong>, es un wargame sobre la invasión francesa de Algeria.</p>
     <ul>
       <li>Puedes ojear las <a href="https://boardgamegeek.com/filepage/245392/red-burnoose-english-rules">reglas aquí</a>.</li>
-      <li>Puedes ver un unboxing en el canal de <a href="">X</a>.</li></ul>
     <p><strong>En solitario...</strong> tienes un bot contra el que enfrentarte.</p>
     <img src="https://cf.geekdo-images.com/_BATgiwHpg7nr-Xx0SmKqw__imagepage/img/-rA9sw8iyd-gi2CohopIFkrQ5_U=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6749433.jpg">
     </div>
@@ -544,9 +545,9 @@ de Kevin Zucker, y publicado por <strong>OSG (Operational Studies
     href="https://boardgamegeek.com/boardgameexpansion/356124">A Crowning Glory: Austerlitz 1805</a></strong>
 de Ty Bomba, y publicado por <strong>Against the Odds</strong>, es un wargame
     de hex & counter sobre la batalla de Austerlitz.</p>
-    </div>
         <p><strong>En solitario...</strong> tiene una idoneidad "baja" para
     jugar en solitario según la editorial.</p>
+    </div>
 </div>
 <br>
 
