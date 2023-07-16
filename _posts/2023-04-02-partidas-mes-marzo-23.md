@@ -36,7 +36,7 @@ sabéis que yo creo que sale más barato todo en retail, y este es otro ejemplo
 en el que tengo razón, precio de Kickstarter: 34$, más 9$ de envío, más otros
 9$ de IVA, que nos ponen en un total de 52$. A mí me a costado 38€ envío
 incluido (por
-[Philibert](https://www.philibertnet.com/en/boardgametables/107284-factory-funner-618149322640.html#ae447-11)).
+[Philibert](https://www.philibertnet.com/en/boardgametables/107284-factory-funner-618149322640.html#ae447)).
 
 La segunda novedad del mes ha sido **Roll Player**, un regalo sorpresa total de
 un familiar (¡gracias!). En el pasado ya había jugado un par de partidas al modo
@@ -78,7 +78,7 @@ música a tope.
 Ahora volvemos a la normalidad y paso a hablaros en detalle del panorama
 solitario:
 
-### [Ark Nova](https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447-11)
+### [Ark Nova](https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447)
 
 <p align="center">
 <img height=""
@@ -101,7 +101,7 @@ muy bien el peso de todas las partidas que le he dado, pero a la vez también
 tengo en mi lista de deseos la primera expansión que se espera para la
 SPIEL'23.
 
-### [Cascadia](https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447-11)
+### [Cascadia](https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__imagepage/img/0ksox22FKLq-Z-rsbBlF2IDG9x0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5100691.jpg"></p>
@@ -115,7 +115,7 @@ partidas.
 
 No os he sacado fotos, se me ha pasado completamente.
 
-### [Factory Funner](https://www.philibertnet.com/en/boardgametables/107284-factory-funner-618149322640.html#ae447-11)
+### [Factory Funner](https://www.philibertnet.com/en/boardgametables/107284-factory-funner-618149322640.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/KSF17xv7uX1TAwfyXg7jGg__imagepage/img/K9TGuHuAU0iz0y1_2kQu_gw3VT8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6068797.jpg"></p>
@@ -196,7 +196,7 @@ Lo que no me ha gustado es la calidad del cartón, al destroquelar hay que tener
 mucho cuidado porque se levanta la impresión. El tamaño de la caja del juego es
 un despropósito.
 
-### [The Last Hundred Yards: The Solomon Islands](https://www.philibertnet.com/en/gmt/106042-the-last-hundred-yards-volume-3-the-solomon-islands-817054012190.html#ae447-11)
+### [The Last Hundred Yards: The Solomon Islands](https://www.philibertnet.com/en/gmt/106042-the-last-hundred-yards-volume-3-the-solomon-islands-817054012190.html#ae447)
 
 <p align="center">
 <img height=""

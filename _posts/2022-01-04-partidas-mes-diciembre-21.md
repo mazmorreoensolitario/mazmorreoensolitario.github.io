@@ -49,7 +49,7 @@ muy agradable aunque perdimos miserablemente.
 
 Ahora os dejo con mis partidas en solitario:
 
-### [Ardennes '44](https://www.philibertnet.com/en/gmt/76069-ardennes-44-3rd-edition-817054010158.html#ae447-11)
+### [Ardennes '44](https://www.philibertnet.com/en/gmt/76069-ardennes-44-3rd-edition-817054010158.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/f9NFzkUvCVYOJnQWw8dT1Q__imagepage/img/fUIoRNgFtnMvpYRpD-uQYqoIHBQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic177731.jpg"></p>
@@ -79,7 +79,7 @@ Dentro de poco tiene que salir [Salerno
 '43](https://www.gmtgames.com/p-868-salerno-43.aspx) del mismo autor, y muy
 posiblemente yo me haga con ese juego.
 
-### [Bios: Megafauna (Second Edition)](https://www.philibertnet.com/en/sierra-madre-games/53867-bios-megafauna-6533410401692.html#ae447-11)
+### [Bios: Megafauna (Second Edition)](https://www.philibertnet.com/en/sierra-madre-games/53867-bios-megafauna-6533410401692.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/RA8mln_pt3TUeoPCckvCYQ__imagepage/img/5gMSTdtn-oOPfnIYQ-UpfQrXrXI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4095180.jpg"></p>

@@ -529,7 +529,7 @@ utilicéis esos links.
 
 * **[Imperium: Classics](https://amzn.to/3vnuyyE)**: **29€** (PVP: 30£, 35€),
     inglés, 2021, Osprey Games.
-* **[Hallertau](https://www.philibertnet.com/en/lookout/90389-hallertau-4260402316208.html#ae447-11):
+* **[Hallertau](https://www.philibertnet.com/en/lookout/90389-hallertau-4260402316208.html#ae447):
     55€** (PVP: 70€), inglés, 2020, Lookout Games. En Philibert.
 * **[Undaunted: Normandy](https://amzn.to/3s9cZkU):** **25€** (PVP: 35€),
   inglés, 2019, Osprey Games.

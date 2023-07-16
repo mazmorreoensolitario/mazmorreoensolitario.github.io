@@ -155,7 +155,7 @@ así que voy a utilizar el número de partidas (1 vs 15) como desempate.
     </div>
     <div class="col-md-9">
         <h4><strong>9. <a
-    href="https://www.philibertnet.com/en/western-front/107545-salerno-43-817054012312.html#ae447-11">Salerno
+    href="https://www.philibertnet.com/en/western-front/107545-salerno-43-817054012312.html#ae447">Salerno
     '43</a></strong></h4> 
         <p><i>~4h, 1 partida. Nuevo en el top.</i></p>
          <p><strong><a
@@ -182,7 +182,7 @@ así que voy a utilizar el número de partidas (1 vs 15) como desempate.
         class="img-thumbnail" alt="Wormholes">
     </div>
     <div class="col-md-9">
-        <h4><strong>8. <a href="https://www.philibertnet.com/en/alderac/113449-wormholes-729220071293.html#ae447-11">Wormholes</a></strong></h4>
+        <h4><strong>8. <a href="https://www.philibertnet.com/en/alderac/113449-wormholes-729220071293.html#ae447">Wormholes</a></strong></h4>
         <p><i>~4h, 15 partidas. Nuevo en el top.</i></p>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/350689/wormholes">Wormholes</a></strong>
@@ -265,7 +265,7 @@ así que voy a utilizar el número de partidas (1 vs 15) como desempate.
         class="img-thumbnail" alt="Space Empires 4X">
     </div>
     <div class="col-md-9">
-        <h4><strong>5. <a href="https://www.philibertnet.com/en/science-fiction/98699-space-empires-4x-4th-printing-817054010066.html#ae447-11">Space Empires 4X</a></strong></h4>
+        <h4><strong>5. <a href="https://www.philibertnet.com/en/science-fiction/98699-space-empires-4x-4th-printing-817054010066.html#ae447">Space Empires 4X</a></strong></h4>
         <p><i>~5h, 2 partidas. Nuevo en el top.</i></p>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/84419/space-empires-4x">Space Empires 4X</a></strong> de <strong>Jim Krohn</strong>, publicado por
@@ -290,7 +290,7 @@ así que voy a utilizar el número de partidas (1 vs 15) como desempate.
         class="img-thumbnail" alt="Next War: Korea">
     </div>
     <div class="col-md-9">
-        <h4><strong>4. <a href="https://www.philibertnet.com/en/gmt/18971-next-war-korea-817054010189.html#ae447-11">Next War: Korea</a></strong></h4>
+        <h4><strong>4. <a href="https://www.philibertnet.com/en/gmt/18971-next-war-korea-817054010189.html#ae447">Next War: Korea</a></strong></h4>
         <p><i>~7h, 2 partidas. Gana 1 posición respecto a 2021.</i></p>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/69130/next-war-korea">Next War:
@@ -316,7 +316,7 @@ así que voy a utilizar el número de partidas (1 vs 15) como desempate.
         class="img-thumbnail" alt="Curious Cargo">
     </div>
     <div class="col-md-9">
-        <h4><strong>3. <a href="https://www.philibertnet.com/en/capstone-hk-ltd/91290-curious-cargo-850000576148.html#ae447-11">Curious Cargo</a></strong></h4>
+        <h4><strong>3. <a href="https://www.philibertnet.com/en/capstone-hk-ltd/91290-curious-cargo-850000576148.html#ae447">Curious Cargo</a></strong></h4>
         <p><i>~8h, 16 partidas. Pierde 2 posiciones respecto a 2021.</i></p>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/312251/curious-cargo">Curious Cargo</a></strong> de <strong>Ryan Courtney</strong>, publicado por
@@ -338,7 +338,7 @@ así que voy a utilizar el número de partidas (1 vs 15) como desempate.
         class="img-thumbnail" alt="Cascadia">
     </div>
     <div class="col-md-9">
-        <h4><strong>2. <a href="https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447-11">Cascadia</a></strong></h4>
+        <h4><strong>2. <a href="https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447">Cascadia</a></strong></h4>
         <p><i>~9h, 37 partidas. Nuevo en el top.</i></p>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/295947/cascadia">Cascadia</a></strong> de <strong>Randy Flynn</strong>, publicado por
@@ -359,7 +359,7 @@ así que voy a utilizar el número de partidas (1 vs 15) como desempate.
         class="img-thumbnail" alt="Ark Nova">
     </div>
     <div class="col-md-9">
-        <h4><strong>1. <a href="https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447-11">Ark Nova</a></strong></h4>
+        <h4><strong>1. <a href="https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447">Ark Nova</a></strong></h4>
         <p><i>~28h, 40 partidas. Nuevo en el top.</i></p>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/342942/ark-nova">Ark Nova</a></strong> de <strong>Mathias Wigge</strong>, publicado por

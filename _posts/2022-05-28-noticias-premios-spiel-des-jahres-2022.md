@@ -133,7 +133,7 @@ También tenemos nominado a **Cryptid**, que no tiene modo en solitario.
     </div>
     <div class="col-md-9">
          <h4><a
-    href="https://www.philibertnet.com/en/ludonaute/107707-living-forest-3760269592117.html#ae447-11">Living
+    href="https://www.philibertnet.com/en/ludonaute/107707-living-forest-3760269592117.html#ae447">Living
     Forest</a></h4>
     <div class="alert alert-warning" role="alert">
             <strong>¡Ganador del año!</strong></div>
@@ -166,7 +166,7 @@ solitario tenemos a **Khôra** y **Witchstone**.
     </div>
     <div class="col-md-9">
          <h4><a
-    href="https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447-11">Ark
+    href="https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447">Ark
     Nova</a></h4> 
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/342942/ark-nova">Ark

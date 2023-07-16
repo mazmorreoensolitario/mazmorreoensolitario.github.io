@@ -65,7 +65,7 @@ Ahora paso a contaros algo más de mis partidas de **marzo**:
 
 </div>
 
-### [Corrosion](https://www.philibertnet.com/en/deep-print-games/104880-corrosion-4250231730375.html#ae447-11)
+### [Corrosion](https://www.philibertnet.com/en/deep-print-games/104880-corrosion-4250231730375.html#ae447)
 
 <p align="center"> <img height="" src="https://cf.geekdo-images.com/utvlrrmevsn9Cb_Fs6kqlg__imagepage/img/e6_wsyRYQ-DrTRn4ipz6En07qwQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6329299.jpg"></p>
 
@@ -142,7 +142,7 @@ oportunidad al juego porque es un verdadero juegazo.
 </div>
 
 
-### [Faiyum / Fayún](https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447-11)
+### [Faiyum / Fayún](https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/sl0ReaWGqY1LQjNoGtCPWg__imagepage/img/M9hKi_flOtVxnYKQXRaEO0S196c=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5638086.jpg"></p>
@@ -240,7 +240,7 @@ joyita, ya que cuando jugamos estamos jugando de verdad contra alguien, contra
 el bot, y podemos influenciar qué va a hacer durante su turno si pensamos bien
 nuestra jugada. Y creo que esto es algo genial para jugar en solitario.
 
-### [Space Empires: 4X](https://www.philibertnet.com/en/science-fiction/98699-space-empires-4x-4th-printing-817054010066.html#ae447-11)
+### [Space Empires: 4X](https://www.philibertnet.com/en/science-fiction/98699-space-empires-4x-4th-printing-817054010066.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/tMPL9ySUdJvhMc8qhIvHdQ__imagepage/img/SNbBMJgZObsVIJmQqL_1Y9w3PrQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6439163.jpg"></p>

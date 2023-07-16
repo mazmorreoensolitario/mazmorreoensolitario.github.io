@@ -77,7 +77,7 @@ ficha. Pero bueno paranoias mías.
 
 Gran juego.
 
-### [Corrosion](https://www.philibertnet.com/en/deep-print-games/104880-corrosion-4250231730375.html#ae447-11)
+### [Corrosion](https://www.philibertnet.com/en/deep-print-games/104880-corrosion-4250231730375.html#ae447)
 
 <p align="center"> <img height="" src="https://cf.geekdo-images.com/utvlrrmevsn9Cb_Fs6kqlg__imagepage/img/e6_wsyRYQ-DrTRn4ipz6En07qwQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6329299.jpg"></p>
 
@@ -95,7 +95,7 @@ truco y ver qué cosas merecen la pena hacer y cuáles no. En esa partida en
 concreto me pareció un pelín largo, pero todavía es pronto para hacer un
 análisis del juego, pero bueno, sigo recogiendo sensaciones.
 
-### [The Last Hundred Yards: The Solomon Islands](https://www.philibertnet.com/en/gmt/106042-the-last-hundred-yards-volume-3-the-solomon-islands-817054012190.html#ae447-11)
+### [The Last Hundred Yards: The Solomon Islands](https://www.philibertnet.com/en/gmt/106042-the-last-hundred-yards-volume-3-the-solomon-islands-817054012190.html#ae447)
 
 <p align="center">
 <img height=""
@@ -152,7 +152,7 @@ También he estado leyendo las reglas del libro, la verdad es que es muy
 sencillo y directo todo, pero tiene la pinta de ser muy divertido, y además ha
 conseguido que vuelva a pintar, así que bienvenido sea.
 
-### [Salerno '43](https://www.philibertnet.com/en/western-front/107545-salerno-43-2100000826421.html#ae447-11)
+### [Salerno '43](https://www.philibertnet.com/en/western-front/107545-salerno-43-2100000826421.html#ae447)
 
 <p align="center">
 <img height=""

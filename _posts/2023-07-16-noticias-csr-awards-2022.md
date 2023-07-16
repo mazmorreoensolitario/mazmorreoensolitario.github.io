@@ -55,7 +55,7 @@ probar o cuáles me parecen más interesantes para probar en un futuro.
         class="img-thumbnail" alt="414 BC: Siege of Syracuse">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/worthington-games/111324-414-bc-siege-of-syracuse-856565007509.html#ae447-11">414 BC: Siege of Syracuse</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/worthington-games/111324-414-bc-siege-of-syracuse-856565007509.html#ae447">414 BC: Siege of Syracuse</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/336403">414 BC: Siege of Syracuse</a></strong>
 de Dan Fournie, y publicado por <strong>Worthington Publishing</strong>, es
@@ -80,7 +80,7 @@ de Dan Fournie, y publicado por <strong>Worthington Publishing</strong>, es
         class="img-thumbnail" alt="Barbarians at the Gates: The Decline and Fall of the Western Roman Empire 337 - 476">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/110668-barbarians-at-the-gates-2100000851539.html#ae447-11">Barbarians at the Gates: The Decline and Fall of the Western Roman Empire 337 - 476</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/110668-barbarians-at-the-gates-2100000851539.html#ae447">Barbarians at the Gates: The Decline and Fall of the Western Roman Empire 337 - 476</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/296666">Barbarians at the Gates: The Decline and Fall of the Western Roman Empire 337 - 476</a></strong>
 de Kris Van Beurden, y publicado por <strong>Compass Games</strong>, es un
@@ -126,7 +126,7 @@ de Paolo Mori, y publicado por <strong>PSC Games</strong> (<strong>Maldito
         class="img-thumbnail" alt="Great Battles of Julius Caesar: Deluxe Edition">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/great-battles-of-history/112745-great-battles-of-julius-caesar-deluxe-edition-817054012350.html#ae447-11">Great Battles of Julius Caesar: Deluxe Edition</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/great-battles-of-history/112745-great-battles-of-julius-caesar-deluxe-edition-817054012350.html#ae447">Great Battles of Julius Caesar: Deluxe Edition</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/323529">Great Battles of Julius Caesar: Deluxe Edition</a></strong>
 de Richard H. Berg, Mark Herman, y publicado por <strong>GMT Games</strong>, es.</p>
@@ -191,7 +191,7 @@ de Pablo Sanz, y publicado por <strong>Draco Ideas</strong>, es un wargame que
         class="img-thumbnail" alt="Almoravid: Reconquista and Riposte in Spain 1085-1086">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/110548-almoravid-reconquista-and-riposte-in-spain-1085-1086-817054012220.html#ae447-11">Almoravid: Reconquista and Riposte in Spain 1085-1086</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/110548-almoravid-reconquista-and-riposte-in-spain-1085-1086-817054012220.html#ae447">Almoravid: Reconquista and Riposte in Spain 1085-1086</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/295103">Almoravid: Reconquista and Riposte in Spain 1085-1086</a></strong>
 de Volko Ruhnke, y publicado por <strong>GMT Games</strong>, es un wargame
@@ -232,7 +232,7 @@ de Mike Lambo, y publicado por él mismo, es un libro-juego-wargame en el que se
         class="img-thumbnail" alt="Breizh 1341">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/shakos/115260-breizh-1341-3770022389083.html#ae447-11">Breizh 1341</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/shakos/115260-breizh-1341-3770022389083.html#ae447">Breizh 1341</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/376155">Breizh 1341</a></strong>
 de Laurent Gary, y publicado por <strong>Shakos</strong>, es un wargame con un
@@ -249,7 +249,7 @@ de Laurent Gary, y publicado por <strong>Shakos</strong>, es un wargame con un
         class="img-thumbnail" alt="Saladin">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/shakos/111376-saladin-3770022389038.html#ae447-11">Saladin</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/shakos/111376-saladin-3770022389038.html#ae447">Saladin</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/330769">Saladin</a></strong>
 de Denis Sauvage, y publicado por <strong>Shakos</strong> (<strong>Draco
@@ -274,7 +274,7 @@ de Denis Sauvage, y publicado por <strong>Shakos</strong> (<strong>Draco
         class="img-thumbnail" alt="1565: Siege of Malta">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/worthington-games/108578-1565-siege-of-malta-856565007493.html#ae447-11">1565: Siege of Malta</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/worthington-games/108578-1565-siege-of-malta-856565007493.html#ae447">1565: Siege of Malta</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/336402">1565: Siege of Malta</a></strong>
 de Maurice Suckling, y publicado por <strong>Worthington Publishing</strong>, es
@@ -298,7 +298,7 @@ de Maurice Suckling, y publicado por <strong>Worthington Publishing</strong>, es
         class="img-thumbnail" alt="Fire & Stone: Siege of Vienna 1683">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/capstone-hk-ltd/117007-fire-stone-siege-of-vienna-1683-850000576490.html#ae447-11">Fire & Stone: Siege of Vienna 1683</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/capstone-hk-ltd/117007-fire-stone-siege-of-vienna-1683-850000576490.html#ae447">Fire & Stone: Siege of Vienna 1683</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/362868">Fire & Stone: Siege of Vienna 1683</a></strong>
 de Robert DeLeskie, y publicado por <strong>Capstone Games</strong>, es un
@@ -322,7 +322,7 @@ de Robert DeLeskie, y publicado por <strong>Capstone Games</strong>, es un
         class="img-thumbnail" alt="Nagashino 1575 & Shizugatake 1583">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/renaissance/119597-nagashino-1575-shizugatake-1583-battles-of-the-sengoku-jidai-2100000919482.html#ae447-11">Nagashino 1575 & Shizugatake 1583</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/renaissance/119597-nagashino-1575-shizugatake-1583-battles-of-the-sengoku-jidai-2100000919482.html#ae447">Nagashino 1575 & Shizugatake 1583</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/327471">Nagashino 1575 & Shizugatake 1583</a></strong>
 de Philippe Hardy, y publicado por <strong>SERIOUS HISTORICAL GAMES</strong>
@@ -344,7 +344,7 @@ de Philippe Hardy, y publicado por <strong>SERIOUS HISTORICAL GAMES</strong>
         class="img-thumbnail" alt="No Peace Without Honor!: The Dutch War 1672-1678">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/114598-no-peace-without-honor-2100000888245.html#ae447-11">No Peace Without Honor!: The Dutch War 1672-1678</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/114598-no-peace-without-honor-2100000888245.html#ae447">No Peace Without Honor!: The Dutch War 1672-1678</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/340279">No Peace Without Honor!: The Dutch War 1672-1678</a></strong>
 de David Meyler, y publicado por <strong>Compass Games</strong>, es un wargame
@@ -364,7 +364,7 @@ de David Meyler, y publicado por <strong>Compass Games</strong>, es un wargame
         class="img-thumbnail" alt="Wars of Religion, France 1562-1598">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/fellowship-of-simulations/111780-wars-of-religion-france-1562-1598-3760312250094.html#ae447-11">Wars of Religion, France 1562-1598</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/fellowship-of-simulations/111780-wars-of-religion-france-1562-1598-3760312250094.html#ae447">Wars of Religion, France 1562-1598</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/358604">Wars of Religion, France 1562-1598</a></strong>
 de Jerome Lefrancq, y publicado por <strong>Fellowship of Simulations</strong>,
@@ -390,7 +390,7 @@ de Jerome Lefrancq, y publicado por <strong>Fellowship of Simulations</strong>,
         class="img-thumbnail" alt="Bloody Retribution: The Battle of Inkerman">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/paper-wars/110723-paper-wars-100-bloody-retributions-2100000851546.html#ae447-11">Bloody Retribution: The Battle of Inkerman</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/paper-wars/110723-paper-wars-100-bloody-retributions-2100000851546.html#ae447">Bloody Retribution: The Battle of Inkerman</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/354843">Bloody Retribution: The Battle of Inkerman</a></strong>
 de Ty Bomba, y publicado por <strong>Compass Games</strong>, es un wargame de
@@ -408,7 +408,7 @@ de Ty Bomba, y publicado por <strong>Compass Games</strong>, es un wargame de
         class="img-thumbnail" alt="John Company: Second Edition">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/wehrlegig-games/117875-john-company-2nd-edition-860000996068.html#ae447-11">John Company: Second Edition</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/wehrlegig-games/117875-john-company-2nd-edition-860000996068.html#ae447">John Company: Second Edition</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/332686">John Company: Second Edition</a></strong>
 de Cole Wehrle, y publicado por <strong>Wehrlegig Games</strong>
@@ -430,7 +430,7 @@ de Cole Wehrle, y publicado por <strong>Wehrlegig Games</strong>
         class="img-thumbnail" alt="Plains Indian Wars">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/19th-century/107539-plains-indian-war-817054012275.html#ae447-11">Plains Indian Wars</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/19th-century/107539-plains-indian-war-817054012275.html#ae447">Plains Indian Wars</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/233958">Plains Indian Wars</a></strong>
     de John Poniske, y publicado por <strong>GMT Games</strong>, es un juego sobre
@@ -454,7 +454,7 @@ de Cole Wehrle, y publicado por <strong>Wehrlegig Games</strong>
         class="img-thumbnail" alt="The Red Burnoose: Algeria 1857">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/hit-em-with-a-shoe/117427-the-red-burnoose-algeria-1857-658580387440.html#ae447-11">The Red Burnoose: Algeria 1857</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/hit-em-with-a-shoe/117427-the-red-burnoose-algeria-1857-658580387440.html#ae447">The Red Burnoose: Algeria 1857</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/339165">The Red Burnoose: Algeria 1857</a></strong>
 de Matt Shoemaker, Roberta Taylor, y publicado por <strong>Hit 'Em With a
@@ -475,7 +475,7 @@ de Matt Shoemaker, Roberta Taylor, y publicado por <strong>Hit 'Em With a
         class="img-thumbnail" alt="Votes for Women">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/fort-circle-games/122011-votes-for-women-2100000932160.html#ae447-11">Votes for Women</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/fort-circle-games/122011-votes-for-women-2100000932160.html#ae447">Votes for Women</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/311900">Votes for Women</a></strong>
     de Tory Brown, y publicado por <strong>Fort Circle Games</strong>, es un juego
@@ -519,7 +519,7 @@ de Tristan Hall, y publicado por <strong>Hall or Nothing Productions</strong>
         class="img-thumbnail" alt="Bonaparte in the Quadrilateral">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/napoleonic-wars/109494-bonaparte-in-the-quadrilateral-2100000842360.html#ae447-11">Bonaparte in the Quadrilateral</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/napoleonic-wars/109494-bonaparte-in-the-quadrilateral-2100000842360.html#ae447">Bonaparte in the Quadrilateral</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/358607">Bonaparte in the Quadrilateral</a></strong>
 de Kevin Zucker, y publicado por <strong>OSG (Operational Studies
@@ -539,7 +539,7 @@ de Kevin Zucker, y publicado por <strong>OSG (Operational Studies
         class="img-thumbnail" alt="A Crowning Glory: Austerlitz 1805">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/against-the-odds/116884-against-the-odds-57-a-crowning-glory-austerlitz-1805-2100000908509.html#ae447-11">A Crowning Glory: Austerlitz 1805</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/against-the-odds/116884-against-the-odds-57-a-crowning-glory-austerlitz-1805-2100000908509.html#ae447">A Crowning Glory: Austerlitz 1805</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/356124">A Crowning Glory: Austerlitz 1805</a></strong>
 de Ty Bomba, y publicado por <strong>Against the Odds</strong>, es un wargame
@@ -557,7 +557,7 @@ de Ty Bomba, y publicado por <strong>Against the Odds</strong>, es un wargame
         class="img-thumbnail" alt="Napoléon 1815">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/shakos/109367-napoleon-1815-3770022389069.html#ae447-11">Napoléon 1815</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/shakos/109367-napoleon-1815-3770022389069.html#ae447">Napoléon 1815</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/334975">Napoléon 1815</a></strong>
 de Denis Sauvage, y publicado por <strong>Shakos</strong>, es un wargame de
@@ -603,7 +603,7 @@ de Denis Sauvage, y publicado por <strong>Shakos</strong>, es un wargame de
         class="img-thumbnail" alt="Give Us Victories">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/american-civil-war/109789-give-us-victories-7427251514521.html#ae447-11">Give Us Victories</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/american-civil-war/109789-give-us-victories-7427251514521.html#ae447">Give Us Victories</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/335130">Give Us Victories</a></strong>
 de Sergio Schiavi, y publicado por <strong>Dissimula Edizioni</strong>, es un
@@ -626,7 +626,7 @@ de Sergio Schiavi, y publicado por <strong>Dissimula Edizioni</strong>, es un
         class="img-thumbnail" alt="Brothers at War: 1862">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/113432-brothers-at-war-1862-2100000870066.html#ae447-11">Brothers at War: 1862</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/113432-brothers-at-war-1862-2100000870066.html#ae447">Brothers at War: 1862</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/322197">Brothers at War: 1862</a></strong>
 de Christopher Moeller, y publicado por <strong>Compass Games</strong>, es un
@@ -652,7 +652,7 @@ de Christopher Moeller, y publicado por <strong>Compass Games</strong>, es un
         class="img-thumbnail" alt="Border States">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/shakos/111761-border-states-2100000858774.html#ae447-11">Border States</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/shakos/111761-border-states-2100000858774.html#ae447">Border States</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/333759">Border States</a></strong>
 de Stéphane Brachet, y publicado por <strong>Shakos</strong>, es un juego
@@ -674,7 +674,7 @@ de Stéphane Brachet, y publicado por <strong>Shakos</strong>, es un juego
         class="img-thumbnail" alt="Into the Woods: The Battle of Shiloh, April 6-7, 1862">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/great-battles-of-the-american-civil-war/107551-into-the-woods-the-battle-of-shiloh-817054012336.html#ae447-11">Into the Woods: The Battle of Shiloh, April 6-7, 1862</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/great-battles-of-the-american-civil-war/107551-into-the-woods-the-battle-of-shiloh-817054012336.html#ae447">Into the Woods: The Battle of Shiloh, April 6-7, 1862</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/300036">Into the Woods: The Battle of Shiloh, April 6-7, 1862</a></strong>
 de Richard H. Berg, Richard Whitaker, y publicado por <strong>GMT
@@ -700,7 +700,7 @@ de Richard H. Berg, Richard Whitaker, y publicado por <strong>GMT
         class="img-thumbnail" alt="A Most Fearful Sacrifice: The Three Days of Gettysburg">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/american-civil-war/110724-a-most-fearful-sacrifice-700306665827.html#ae447-11">A Most Fearful Sacrifice: The Three Days of Gettysburg</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/american-civil-war/110724-a-most-fearful-sacrifice-700306665827.html#ae447">A Most Fearful Sacrifice: The Three Days of Gettysburg</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/329089">A Most Fearful Sacrifice: The Three Days of Gettysburg</a></strong>
 de Hermann Luttmann, y publicado por <strong>Flying Pig Games</strong>, es un
@@ -768,7 +768,7 @@ de Kerry Anderson, y publicado por <strong>Revolution Games</strong>, es un
         class="img-thumbnail" alt="Imperial Tide: The Great War 1914-1918">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/106450-imperial-tide-the-great-war-1914-1918-2100000817962.html#ae447-11">Imperial Tide: The Great War 1914-1918</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/106450-imperial-tide-the-great-war-1914-1918-2100000817962.html#ae447">Imperial Tide: The Great War 1914-1918</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/294113">Imperial Tide: The Great War 1914-1918</a></strong>
 de Gregory M. Smith, y publicado por <strong>Compass Games</strong>, es un
@@ -814,7 +814,7 @@ de Ben Madison, y publicado por <strong>White Dog Games</strong>, es un wargame
         class="img-thumbnail" alt="Arracourt">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/125701-arracourt-2100000956449.html#ae447-11">Arracourt</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/125701-arracourt-2100000956449.html#ae447">Arracourt</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/347161">Arracourt</a></strong>
 de Dean Essig, Carl Fung, y publicado por <strong>Multi-Man
@@ -838,7 +838,7 @@ de Dean Essig, Carl Fung, y publicado por <strong>Multi-Man
         class="img-thumbnail" alt="Barbarossa: Army Group Center, 1941 – Second Edition">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/eastern-front/107540-barbarossa-army-group-center-1941-2nd-edition-817054012305.html#ae447-11">Barbarossa: Army Group Center, 1941 – Second Edition</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/eastern-front/107540-barbarossa-army-group-center-1941-2nd-edition-817054012305.html#ae447">Barbarossa: Army Group Center, 1941 – Second Edition</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/1583">Barbarossa: Army Group Center, 1941 – Second Edition</a></strong>
 de Tony Curtis, Vance von Borries, y publicado por <strong>GMT Games</strong>,
@@ -861,7 +861,7 @@ de Tony Curtis, Vance von Borries, y publicado por <strong>GMT Games</strong>,
         class="img-thumbnail" alt="Enemy Action: Kharkov">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/112432-enemy-action-kharkov-196852384327.html#ae447-11">Enemy Action: Kharkov</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/112432-enemy-action-kharkov-196852384327.html#ae447">Enemy Action: Kharkov</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/291155">Enemy Action: Kharkov</a></strong>
     de John H. Butterfield, y publicado por <strong>Compass Games</strong>, es un
@@ -885,7 +885,7 @@ de Tony Curtis, Vance von Borries, y publicado por <strong>GMT Games</strong>,
         class="img-thumbnail" alt="Pacific War: The Struggle Against Japan, 1941-1945 (Second Edition)">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/guerre-du-pacifique/107538-pacific-war-the-struggle-against-japan-1941-1945-817054012237.html#ae447-11">Pacific War: The Struggle Against Japan, 1941-1945 (Second Edition)</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/guerre-du-pacifique/107538-pacific-war-the-struggle-against-japan-1941-1945-817054012237.html#ae447">Pacific War: The Struggle Against Japan, 1941-1945 (Second Edition)</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/314577">Pacific War: The Struggle Against Japan, 1941-1945 (Second Edition)</a></strong>
 de Mark Herman, y publicado por <strong>GMT Games</strong>, es un wargame tipo
@@ -935,7 +935,7 @@ de David Thompson y Trevor Benjamin, y publicado por <strong>Osprey
         class="img-thumbnail" alt="2 Minutes to Midnight">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/plague-island-games/110976-2-minutes-to-midnight-793888099517.html#ae447-11">2 Minutes to Midnight</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/plague-island-games/110976-2-minutes-to-midnight-793888099517.html#ae447">2 Minutes to Midnight</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/314170">2 Minutes to Midnight</a></strong>
 de Stuart Tonge, y publicado por <strong>Plague Island Games</strong>
@@ -956,7 +956,7 @@ de Stuart Tonge, y publicado por <strong>Plague Island Games</strong>
         class="img-thumbnail" alt="Flashpoint: South China Sea">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/112635-flashpoint-south-china-sea-817054012299.html#ae447-11">Flashpoint: South China Sea</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/112635-flashpoint-south-china-sea-817054012299.html#ae447">Flashpoint: South China Sea</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/247182">Flashpoint: South China Sea</a></strong>
 de Harold Buchanan, y publicado por <strong>GMT Games</strong>, es un wargame
@@ -977,7 +977,7 @@ con motor de cartas que simula las disputas entre Estados Unidos y China sobre
         class="img-thumbnail" alt="Resist!">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/salt-pepper-games/114039-resist-8425402844991.html#ae447-11">¡Resistid!</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/salt-pepper-games/114039-resist-8425402844991.html#ae447">¡Resistid!</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/352697">¡Resistid!</a></strong>
 de David Thompson, Roger Tankersley y Trevor Benjamin, y publicado por
@@ -1003,7 +1003,7 @@ de David Thompson, Roger Tankersley y Trevor Benjamin, y publicado por
         class="img-thumbnail" alt="Twilight Struggle: Red Sea – Conflict in the Horn of Africa">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/116887-twilight-struggle-red-sea-conflict-in-the-horn-of-africa-817054012381.html#ae447-11">Twilight Struggle: Red Sea – Conflict in the Horn of Africa</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/116887-twilight-struggle-red-sea-conflict-in-the-horn-of-africa-817054012381.html#ae447">Twilight Struggle: Red Sea – Conflict in the Horn of Africa</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/300192">Twilight Struggle: Red Sea – Conflict in the Horn of Africa</a></strong>
     de Jason Matthews, y publicado por <strong>GMT Games</strong>, utiliza un
@@ -1026,7 +1026,7 @@ de David Thompson, Roger Tankersley y Trevor Benjamin, y publicado por
         class="img-thumbnail" alt="Zurmat: Small Scale Counterinsurgency">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/catastrophe-games/114605-zurmat-123456789012.html#ae447-11">Zurmat: Small Scale Counterinsurgency</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/catastrophe-games/114605-zurmat-123456789012.html#ae447">Zurmat: Small Scale Counterinsurgency</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/260727">Zurmat: Small Scale Counterinsurgency</a></strong>
 de Tim Densham, y publicado por <strong>Catastrophe Games</strong>, es un
@@ -1053,7 +1053,7 @@ de Tim Densham, y publicado por <strong>Catastrophe Games</strong>, es un
         class="img-thumbnail" alt="Case Geld: The Axis Invasion of North America, 1945-46">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/paper-wars/112433-paper-wars-101-case-geld-2100000861750.html#ae447-11">Case Geld: The Axis Invasion of North America, 1945-46</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/paper-wars/112433-paper-wars-101-case-geld-2100000861750.html#ae447">Case Geld: The Axis Invasion of North America, 1945-46</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/354916">Case Geld: The Axis Invasion of North America, 1945-46</a></strong>
 de Ty Bomba, y publicado por <strong>Compass Games</strong>, es un wargame de
@@ -1072,7 +1072,7 @@ de Ty Bomba, y publicado por <strong>Compass Games</strong>, es un wargame de
         class="img-thumbnail" alt="CO-OPS">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/nuts-publishing/123140-co-ops-3770009354776.html#ae447-11">CO-OPS</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/nuts-publishing/123140-co-ops-3770009354776.html#ae447">CO-OPS</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/365978">CO-OPS</a></strong>
 de Biciacci, Prévost, Rouyre, y publicado por <strong>Nuts!
@@ -1137,7 +1137,7 @@ de Dean Brown, y publicado por <strong>Dan Verssen Games (DVG)</strong>, es un
         class="img-thumbnail" alt="The Third World War: Designer Signature Edition">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/112413-the-third-world-war-designer-signature-edition-2100000861736.html#ae447-11">The Third World War: Designer Signature Edition</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/112413-the-third-world-war-designer-signature-edition-2100000861736.html#ae447">The Third World War: Designer Signature Edition</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/316410">The Third World War: Designer Signature Edition</a></strong>
 de Frank Chadwick, y publicado por <strong>Compass Games</strong>, es una
@@ -1185,7 +1185,7 @@ de Ryan Heilman y Dave Shaw, y publicado por <strong>Hollandspiele</strong>, es
         class="img-thumbnail" alt="The Long Road">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/flying-pig-games/115635-the-long-road-2100000902460.html#ae447-11">The Long Road</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/flying-pig-games/115635-the-long-road-2100000902460.html#ae447">The Long Road</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/294456">The Long Road</a></strong>
 de Mark H. Walker, y publicado por <strong>Flying Pig Games</strong>, es un
@@ -1233,7 +1233,7 @@ de Mark H. Walker, y publicado por <strong>Flying Pig Games</strong>, es un
         class="img-thumbnail" alt="Wonderland's War">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/skybound-games/112127-wonderland-s-wars-811949032515.html#ae447-11">Wonderland's War</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/skybound-games/112127-wonderland-s-wars-811949032515.html#ae447">Wonderland's War</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/227935">Wonderland's War</a></strong>
 de Tim Eisner, Ben Eisner, Ian Moss, y publicado por <strong>Druid City
@@ -1279,7 +1279,7 @@ de Richard Cowen, Daniel Mersey, y publicado por <strong>Osprey Games</strong>,
         class="img-thumbnail" alt="American Tank Ace: 1944-1945">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/115612-american-tank-ace-europe-1944-45-2100000900428.html#ae447-11">American Tank Ace: 1944-1945</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/115612-american-tank-ace-europe-1944-45-2100000900428.html#ae447">American Tank Ace: 1944-1945</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/334100">American Tank Ace: 1944-1945</a></strong>
     de Gregory M. Smith, y publicado por <strong>Compass Games</strong>, es un
@@ -1302,7 +1302,7 @@ de Richard Cowen, Daniel Mersey, y publicado por <strong>Osprey Games</strong>,
         class="img-thumbnail" alt="Enemy Action: Kharkov">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/112432-enemy-action-kharkov-196852384327.html#ae447-11">Enemy Action: Kharkov</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/112432-enemy-action-kharkov-196852384327.html#ae447">Enemy Action: Kharkov</a></h4>
         <p>Información en la sección de <i>Mejor wargame de la Segunda Guerra Mundial</i>.</p>
 </div>
 </div>
@@ -1315,7 +1315,7 @@ de Richard Cowen, Daniel Mersey, y publicado por <strong>Osprey Games</strong>,
         class="img-thumbnail" alt="Lanzerath Ridge">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/dan-verssen-games/114586-lanzerath-ridge-battle-of-the-bulge-810003563064.html#ae447-11">Lanzerath Ridge</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/dan-verssen-games/114586-lanzerath-ridge-battle-of-the-bulge-810003563064.html#ae447">Lanzerath Ridge</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/352483">Lanzerath Ridge</a></strong>
 de David Thompson, y publicado por <strong>Dan Verssen Games (DVG)</strong>, es
@@ -1338,7 +1338,7 @@ de David Thompson, y publicado por <strong>Dan Verssen Games (DVG)</strong>, es
         class="img-thumbnail" alt="Resist!">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/salt-pepper-games/114039-resist-8425402844991.html#ae447-11">¡Resistid!</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/salt-pepper-games/114039-resist-8425402844991.html#ae447">¡Resistid!</a></h4>
         <p>Información en la sección de <i>Mejor wargame del periodo moderno</i>.</p>
     </div>
 </div>
@@ -1351,7 +1351,7 @@ de David Thompson, y publicado por <strong>Dan Verssen Games (DVG)</strong>, es
         class="img-thumbnail" alt="Skies Above Britain">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/116464-skies-above-britain-817054012404.html#ae447-11">Skies Above Britain</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/116464-skies-above-britain-817054012404.html#ae447">Skies Above Britain</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/325096">Skies Above Britain</a></strong>
     de Jeremy White, Gina Willis, y publicado por <strong>GMT Games</strong>, es un
@@ -1374,7 +1374,7 @@ de David Thompson, y publicado por <strong>Dan Verssen Games (DVG)</strong>, es
         class="img-thumbnail" alt="Fields of Fire: The Bulge Campaign">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/western-front/115242-fields-of-fire-the-bulge-campaign-817054012343.html#ae447-11">Fields of Fire: The Bulge Campaign</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/western-front/115242-fields-of-fire-the-bulge-campaign-817054012343.html#ae447">Fields of Fire: The Bulge Campaign</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/332579">Fields of Fire: The Bulge Campaign</a></strong>
 de Ben Hull, y publicado por <strong>GMT Games</strong>, es una expansión para
@@ -1393,7 +1393,7 @@ de Ben Hull, y publicado por <strong>GMT Games</strong>, es una expansión para
         class="img-thumbnail" alt="Fire in the Lake: Fall of Saigon">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/112640-fire-in-the-lake-fall-of-saigon-expansion-817054012206.html#ae447-11">Fire in the Lake: Fall of Saigon</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/112640-fire-in-the-lake-fall-of-saigon-expansion-817054012206.html#ae447">Fire in the Lake: Fall of Saigon</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/286415">Fire in the Lake: Fall of Saigon</a></strong>
 de Mark Herman, Volko Ruhnke, y publicado por <strong>GMT Games</strong>, es
@@ -1430,7 +1430,7 @@ de Amabel Holland, y publicado por <strong>Hollandspiele</strong>, es una
         class="img-thumbnail" alt="Red Storm: Baltic Approaches – The Air War Over the Baltic, 1987">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/110549-red-storm-baltic-approaches-817054012244.html#ae447-11">Red Storm: Baltic Approaches – The Air War Over the Baltic, 1987</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/110549-red-storm-baltic-approaches-817054012244.html#ae447">Red Storm: Baltic Approaches – The Air War Over the Baltic, 1987</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/306750">Red Storm: Baltic Approaches – The Air War Over the Baltic, 1987</a></strong>
 de Lee Brimmicombe-Wood, y publicado por <strong>GMT Games</strong>, es una
@@ -1456,7 +1456,7 @@ de Lee Brimmicombe-Wood, y publicado por <strong>GMT Games</strong>, es una
         class="img-thumbnail" alt="Almoravid: Reconquista and Riposte in Spain 1085-1086">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/110548-almoravid-reconquista-and-riposte-in-spain-1085-1086-817054012220.html#ae447-11">Almoravid: Reconquista and Riposte in Spain 1085-1086</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/110548-almoravid-reconquista-and-riposte-in-spain-1085-1086-817054012220.html#ae447">Almoravid: Reconquista and Riposte in Spain 1085-1086</a></h4>
         <p>Información en la sección de <i>Mejor wargame del periodo medieval</i>.</p>
 </div>
 </div>
@@ -1468,7 +1468,7 @@ de Lee Brimmicombe-Wood, y publicado por <strong>GMT Games</strong>, es una
         class="img-thumbnail" alt="Into the Woods: The Battle of Shiloh, April 6-7, 1862">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/great-battles-of-the-american-civil-war/107551-into-the-woods-the-battle-of-shiloh-817054012336.html#ae447-11">Into the Woods: The Battle of Shiloh, April 6-7,
+        <h4><a href="https://www.philibertnet.com/en/great-battles-of-the-american-civil-war/107551-into-the-woods-the-battle-of-shiloh-817054012336.html#ae447">Into the Woods: The Battle of Shiloh, April 6-7,
     1862</a></h4>
     <p>Información en la sección de <i>Mejor wargame de la guerra de Secesión</i>.</p>
     </div>
@@ -1481,7 +1481,7 @@ de Lee Brimmicombe-Wood, y publicado por <strong>GMT Games</strong>, es una
         class="img-thumbnail" alt="A Most Fearful Sacrifice: The Three Days of Gettysburg">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/american-civil-war/110724-a-most-fearful-sacrifice-700306665827.html#ae447-11">A Most Fearful Sacrifice: The Three Days of
+        <h4><a href="https://www.philibertnet.com/en/american-civil-war/110724-a-most-fearful-sacrifice-700306665827.html#ae447">A Most Fearful Sacrifice: The Three Days of
     Gettysburg</a></h4>
     <p>Información en la sección de <i>Mejor wargame de la guerra de Secesión</i>.</p>
     </div>
@@ -1495,7 +1495,7 @@ de Lee Brimmicombe-Wood, y publicado por <strong>GMT Games</strong>, es una
         class="img-thumbnail" alt="Napoléon 1815">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/shakos/109367-napoleon-1815-3770022389069.html#ae447-11">Napoléon 1815</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/shakos/109367-napoleon-1815-3770022389069.html#ae447">Napoléon 1815</a></h4>
         <p>Información en la sección de <i>Mejor wargame napoleónico</i>.</p>
     </div>
 </div>

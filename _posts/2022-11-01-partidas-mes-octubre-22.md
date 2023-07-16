@@ -67,7 +67,7 @@ una app, y que compites contra dicha app.
 
 Ahora nos pasamos al panorama solitario con mis partidas de octubre.
 
-### [Ark Nova](https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447-11)
+### [Ark Nova](https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447)
 
 <p align="center">
 <img height=""
@@ -97,7 +97,7 @@ mapa. Así que es complicado aunque te da unos bonos majos.
 A mí me costaron 5€, y creo que están bastante bien, así que si tenéis la
 oportunidad de comprarlos yo os los recomendaría.
 
-### [Cascadia](https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447-11)
+### [Cascadia](https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__imagepage/img/0ksox22FKLq-Z-rsbBlF2IDG9x0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5100691.jpg"></p>
@@ -155,7 +155,7 @@ esos problemas os diría que adelante si queréis probar el juego. A mí el
 sistema de combate junto con la exploración de las losetas es lo que más me
 gusta del juego.
 
-### [Curious Cargo](https://www.philibertnet.com/en/capstone-hk-ltd/91290-curious-cargo-850000576148.html#ae447-11)
+### [Curious Cargo](https://www.philibertnet.com/en/capstone-hk-ltd/91290-curious-cargo-850000576148.html#ae447)
 
 <p align="center">
 <img height=""
@@ -201,7 +201,7 @@ desplazándose más hacia los fines de semana, y también he estado dejando los
 juegos rápidos y ligeros como este **Desolate** de lado. Así que **Desolate**
 se ha jugado algún día suelto entre semana.
 
-### [Expansiópolis](https://www.philibertnet.com/en/quined-games/81304-sprawlopolis-8719327030554.html#ae447-11)
+### [Expansiópolis](https://www.philibertnet.com/en/quined-games/81304-sprawlopolis-8719327030554.html#ae447)
 
 <p align="center">
 <img height=""
@@ -277,7 +277,7 @@ duración. Pero ha salido en octubre y lo he disfrutado mucho.
 </div>
 
 
-### [¡Resistid!](https://www.philibertnet.com/en/salt-pepper-games/114039-resist-8425402844991.html#ae447-11)
+### [¡Resistid!](https://www.philibertnet.com/en/salt-pepper-games/114039-resist-8425402844991.html#ae447)
 
 <p align="center">
 <img height=""
@@ -290,7 +290,7 @@ jugué también a principios de octubre, antes de ir a Essen.
 Así que como no me acuerdo no os puedo comentar nada :)
 
 
-### [Wormholes](https://www.philibertnet.com/en/alderac/113449-wormholes-729220071293.html#ae447-11)
+### [Wormholes](https://www.philibertnet.com/en/alderac/113449-wormholes-729220071293.html#ae447)
 
 <p align="center">
 <img height=""

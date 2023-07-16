@@ -44,7 +44,7 @@ Allá vamos con los siguientes cincuenta juegos, preparen sus carteras:
         class="img-thumbnail" alt="Pax Renaissance: 2nd Edition">
     </div>
     <div class="col-md-9">
-         <h4>150. <a href="https://www.philibertnet.com/en/sierra-madre-games/44777-pax-renaissance-6533410423618.html#ae447-11">Pax Renaissance: 2nd Edition</a></h4>
+         <h4>150. <a href="https://www.philibertnet.com/en/sierra-madre-games/44777-pax-renaissance-6533410423618.html#ae447">Pax Renaissance: 2nd Edition</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/308119/pax-renaissance-2nd-edition">Pax Renaissance: 2nd Edition</a></strong>
          de Phil y Matt Eklund, y publicado por <strong>Ion Game Design</strong>.</p>
          <p>En <strong>Pax Renaissance</strong> eres un banquero en la época
@@ -134,7 +134,7 @@ descubrimientos, podrás instigar guerras y rebeliones y desatarás Yihads e inq
         class="img-thumbnail" alt="Fantastic Factories">
     </div>
     <div class="col-md-9">
-         <h4>146. <a href="https://www.philibertnet.com/en/deep-water-games/90425-fantastics-factories-613310202493.html#ae447-11">Fantastic Factories</a></h4>
+         <h4>146. <a href="https://www.philibertnet.com/en/deep-water-games/90425-fantastics-factories-613310202493.html#ae447">Fantastic Factories</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/216600/fantastic-factories">Fantastic Factories</a></strong>
          de Joseph Z Chen y Justin Faulkner, y publicado por
     <strong>Metafactory Games</strong> (<strong>Maldito Games</strong> en España).</p>
@@ -311,7 +311,7 @@ s of Kilforth</a> ha conseguido una fama similar, yo ni me acordaba de Veilwrait
         class="img-thumbnail" alt="Thunderbolt Apache Leader">
     </div>
     <div class="col-md-9">
-         <h4>137. <a href="https://www.philibertnet.com/en/dan-verssen-games/19163-thunderbolt-apache-leader-810003560643.html#ae447-11">Thunderbolt Apache Leader</a></h4>
+         <h4>137. <a href="https://www.philibertnet.com/en/dan-verssen-games/19163-thunderbolt-apache-leader-810003560643.html#ae447">Thunderbolt Apache Leader</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/123955/thunderbolt-apache-leader">Thunderbolt Apache Leader</a></strong>
          de Dan Verssen, y publicado por <strong>DVG</strong>.</p>
          <p>En <strong>Thunderbolt Apache Leader</strong> entras dentro de la
@@ -329,7 +329,7 @@ s of Kilforth</a> ha conseguido una fama similar, yo ni me acordaba de Veilwrait
         class="img-thumbnail" alt="Blackout: Hong Kong">
     </div>
     <div class="col-md-9">
-         <h4>136. <a href="https://www.philibertnet.com/en/eggertspiele/77322-blackout-hong-kong-4061897501304.html#ae447-11">Blackout: Hong Kong</a></h4>
+         <h4>136. <a href="https://www.philibertnet.com/en/eggertspiele/77322-blackout-hong-kong-4061897501304.html#ae447">Blackout: Hong Kong</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/262215/blackout-hong-kong">Blackout: Hong Kong</a></strong>
          de Alexander Pfister, y publicado por <strong>eggerspiele</strong>
     (<strong>Masqueoca</strong> en España).</p>
@@ -351,7 +351,7 @@ s of Kilforth</a> ha conseguido una fama similar, yo ni me acordaba de Veilwrait
         class="img-thumbnail" alt="Glen More II: Chronicles">
     </div>
     <div class="col-md-9">
-         <h4>135. <a href="https://www.philibertnet.com/en/funtails/83092-glen-more-2-chronicles-4270000541902.html#ae447-11">Glen More II: Chronicles</a></h4>
+         <h4>135. <a href="https://www.philibertnet.com/en/funtails/83092-glen-more-2-chronicles-4270000541902.html#ae447">Glen More II: Chronicles</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/265188/glen-more-ii-chronicles">Glen More II: Chronicles</a></strong>
          de Matthias Cramer, y publicado por <strong>Funtails</strong>.</p>
          <p>En <strong>Glen More II: Chronicles</strong> estamos en las tierras
@@ -367,7 +367,7 @@ s of Kilforth</a> ha conseguido una fama similar, yo ni me acordaba de Veilwrait
         class="img-thumbnail" alt="1862: Railway Mania in the Eastern Counties">
     </div>
     <div class="col-md-9">
-         <h4>134. <a href="https://www.philibertnet.com/en/gmt/84000-1862-railway-mania-in-the-eastern-counties-817054011704.html#ae447-11">1862: Railway Mania in the Eastern Counties</a></h4>
+         <h4>134. <a href="https://www.philibertnet.com/en/gmt/84000-1862-railway-mania-in-the-eastern-counties-817054011704.html#ae447">1862: Railway Mania in the Eastern Counties</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/66837/1862-railway-mania-eastern-counties">1862: Railway Mania in the Eastern Counties</a></strong>
          de Mike Hutton, y publicado por <strong>GMT Games</strong>.</p>
          <p><strong>1862: Railway Mania in the Eastern Counties</strong> es un
@@ -391,7 +391,7 @@ s of Kilforth</a> ha conseguido una fama similar, yo ni me acordaba de Veilwrait
         class="img-thumbnail" alt="Freedom: The Undergound Railroad">
     </div>
     <div class="col-md-9">
-         <h4>133. <a href="https://www.philibertnet.com/en/academy-games/27326-freedom-the-underground-railroad-083832339210.html#ae447-11">Freedom: The Undergound Railroad</a></h4>
+         <h4>133. <a href="https://www.philibertnet.com/en/academy-games/27326-freedom-the-underground-railroad-083832339210.html#ae447">Freedom: The Undergound Railroad</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/119506/freedom-underground-railroad">Freedom: The Undergound Railroad</a></strong>
          de Brian Mayer, y publicado por <strong>Academy Games</strong>.</p>
          <p><strong>Freedom: The Undergound Railroad</strong> es un juego
@@ -411,7 +411,7 @@ s of Kilforth</a> ha conseguido una fama similar, yo ni me acordaba de Veilwrait
         class="img-thumbnail" alt="Clanes de Caledonia">
     </div>
     <div class="col-md-9">
-         <h4>132. <a href="https://www.philibertnet.com/en/karma-games/55578-clans-of-caledonia-2100000580231.html#ae447-11">Clanes de Caledonia</a></h4>
+         <h4>132. <a href="https://www.philibertnet.com/en/karma-games/55578-clans-of-caledonia-2100000580231.html#ae447">Clanes de Caledonia</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/216132/clans-caledonia">Clanes de Caledonia</a></strong>
          de Juma Al-JouJou, y publicado por <strong>Karma Games</strong>
     (<strong>Gen-X Games</strong> en España).</p>
@@ -458,7 +458,7 @@ s of Kilforth</a> ha conseguido una fama similar, yo ni me acordaba de Veilwrait
         class="img-thumbnail" alt="Snowdonia: Deluxe Master Set">
     </div>
     <div class="col-md-9">
-         <h4>130. <a href="https://www.philibertnet.com/en/nskn-legendary-games/81516-snowdonia-deluxe-master-set-6425453000836.html#ae447-11">Snowdonia: Deluxe Master Set</a></h4>
+         <h4>130. <a href="https://www.philibertnet.com/en/nskn-legendary-games/81516-snowdonia-deluxe-master-set-6425453000836.html#ae447">Snowdonia: Deluxe Master Set</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/255924/snowdonia-deluxe-master-set">Snowdonia: Deluxe Master Set</a></strong>
          de Tony Boydell, y publicado por <strong>NSKN Games</strong>.</p>
          <p><strong>Snowdonia: Deluxe Master Set</strong> es un juego de
@@ -582,7 +582,7 @@ s of Kilforth</a> ha conseguido una fama similar, yo ni me acordaba de Veilwrait
         class="img-thumbnail" alt="Maquis">
     </div>
     <div class="col-md-9">
-         <h4>124. <a href="https://www.philibertnet.com/en/side-room-games/83740-maquis-672975094409.html#ae447-11">Maquis</a></h4>
+         <h4>124. <a href="https://www.philibertnet.com/en/side-room-games/83740-maquis-672975094409.html#ae447">Maquis</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/148729/maquis">Maquis</a></strong>
          de Jake Staines, y publicado por <strong>Side Room Games</strong>
     (<strong>Melmac Games</strong> en España).</p>
@@ -622,7 +622,7 @@ s of Kilforth</a> ha conseguido una fama similar, yo ni me acordaba de Veilwrait
         class="img-thumbnail" alt="Navajo Wars">
     </div>
     <div class="col-md-9">
-         <h4>122. <a href="https://www.philibertnet.com/en/gmt/26392-navajo-wars-817054010448.html#ae447-11">Navajo Wars</a></h4>
+         <h4>122. <a href="https://www.philibertnet.com/en/gmt/26392-navajo-wars-817054010448.html#ae447">Navajo Wars</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/102435/navajo-wars">Navajo Wars</a></strong>
          de Joel Toppen, y publicado por <strong>GMT Games</strong>.</p>
          <p><strong>Navajo Wars</strong> es un juego con motor de cartas en el
@@ -644,7 +644,7 @@ s of Kilforth</a> ha conseguido una fama similar, yo ni me acordaba de Veilwrait
         class="img-thumbnail" alt="D-Day at Omaha Beach">
     </div>
     <div class="col-md-9">
-         <h4>121. <a href="https://www.philibertnet.com/en/decision-games/51800-d-day-at-omaha-beach-3rd-printing-095109010180.html#ae447-11">D-Day at Omaha Beach</a></h4>
+         <h4>121. <a href="https://www.philibertnet.com/en/decision-games/51800-d-day-at-omaha-beach-3rd-printing-095109010180.html#ae447">D-Day at Omaha Beach</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/29603/d-day-omaha-beach">D-Day at Omaha Beach</a></strong>
          de John H. Butterfield, y publicado por <strong>Decision Games</strong>.</p>
          <p><strong>D-Day at Omaha Beach</strong> es una simulación del
@@ -681,7 +681,7 @@ s of Kilforth</a> ha conseguido una fama similar, yo ni me acordaba de Veilwrait
         class="img-thumbnail" alt="SpaceCorp: 2025-2300AD">
     </div>
     <div class="col-md-9">
-         <h4>119. <a href="https://www.philibertnet.com/en/gmt/73512-spacecorp-817054011599.html#ae447-11">SpaceCorp: 2025-2300AD</a></h4>
+         <h4>119. <a href="https://www.philibertnet.com/en/gmt/73512-spacecorp-817054011599.html#ae447">SpaceCorp: 2025-2300AD</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/214029/spacecorp-2025-2300ad">SpaceCorp: 2025-2300AD</a></strong>
          de John H. Butterfield, y publicado por <strong>GMT Games</strong>.</p>
          <p><strong>SpaceCorp: 2025-2300AD</strong> es un juego de exploración
@@ -778,7 +778,7 @@ s of Kilforth</a> ha conseguido una fama similar, yo ni me acordaba de Veilwrait
         class="img-thumbnail" alt="Trickerion: Legends of Illusion ">
     </div>
     <div class="col-md-9">
-         <h4>114. <a href="https://www.philibertnet.com/en/ape-games/40235-trickerion-legends-of-illusion-645871789267.html#ae447-11">Trickerion: Legends of Illusion</a></h4>
+         <h4>114. <a href="https://www.philibertnet.com/en/ape-games/40235-trickerion-legends-of-illusion-645871789267.html#ae447">Trickerion: Legends of Illusion</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/163068/trickerion-legends-illusion">Trickerion: Legends of Illusion</a></strong>
          de Richard Amann y Viktor Peter, y publicado por <strong>Mindclash
     Games</strong> (<strong>Maldito Games</strong> ha traído la edición
@@ -893,7 +893,7 @@ s of Kilforth</a> ha conseguido una fama similar, yo ni me acordaba de Veilwrait
         class="img-thumbnail" alt="The Search for Planet X">
     </div>
     <div class="col-md-9">
-         <h4>109. <a href="https://www.philibertnet.com/en/renegade-game-studios/91352-the-search-for-planet-x-810011720794.html#ae447-11">The Search for Planet X</a></h4>
+         <h4>109. <a href="https://www.philibertnet.com/en/renegade-game-studios/91352-the-search-for-planet-x-810011720794.html#ae447">The Search for Planet X</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/279537/search-planet-x">The Search for Planet X</a></strong>
          de Matthew O'Malley y Ben Rosset, y publicado por <strong>Foxtrot Games</strong>.</p>
          <p>En <strong>The Search for Planet X</strong> os jugadores son

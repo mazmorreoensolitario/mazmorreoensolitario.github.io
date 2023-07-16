@@ -41,7 +41,7 @@ Y sin más dilación, ¡al lío!
         class="img-thumbnail" alt="Dark Venture: Battle of the Ancients">
     </div>
     <div class="col-md-9">
-        <h4><strong>8. <a href="https://www.philibertnet.com/en/gilded-skull-games/118732-dark-venture-battle-of-the-ancients-core-game-kickstarter-edition-787790257264.html#ae447-11">Dark Venture: Battle of the Ancients</a></strong></h4>
+        <h4><strong>8. <a href="https://www.philibertnet.com/en/gilded-skull-games/118732-dark-venture-battle-of-the-ancients-core-game-kickstarter-edition-787790257264.html#ae447">Dark Venture: Battle of the Ancients</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/298163/dark-venture-battle-ancients">Dark
     Venture: Battle of the Ancients</a></strong> de <strong>Rob Lemon</strong>
@@ -83,7 +83,7 @@ Y sin más dilación, ¡al lío!
         class="img-thumbnail" alt="The Guild of Merchant Explorers">
     </div>
     <div class="col-md-9">
-        <h4><strong>7. <a href="https://www.philibertnet.com/en/alderac/110699-the-guild-of-merchant-explorers-729220071026.html#ae447-11">The Guild of Merchant Explorers</a></strong></h4>
+        <h4><strong>7. <a href="https://www.philibertnet.com/en/alderac/110699-the-guild-of-merchant-explorers-729220071026.html#ae447">The Guild of Merchant Explorers</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/350933/guild-merchant-explorers">The
     Guild of Merchant Explorers</a></strong> de <strong>Matthew Dunstan y Brett J. Gilbert</strong>, y publicado por
@@ -220,7 +220,7 @@ Y sin más dilación, ¡al lío!
         class="img-thumbnail" alt="Small City: Deluxe Edition">
     </div>
     <div class="col-md-9">
-        <h4><strong>3. <a href="https://www.philibertnet.com/en/avstudiogames/109775-small-city-deluxe-edition-2100000825806.html#ae447-11">Small City: Deluxe Edition</a></strong></h4>
+        <h4><strong>3. <a href="https://www.philibertnet.com/en/avstudiogames/109775-small-city-deluxe-edition-2100000825806.html#ae447">Small City: Deluxe Edition</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/326538/small-city-deluxe-edition">Small
     City: Deluxe Edition</a></strong> de <strong>Alban Viard</strong> y

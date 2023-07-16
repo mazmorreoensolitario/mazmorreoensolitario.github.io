@@ -42,7 +42,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Caesar: Rome vs. Gaul">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/94149-caesar-rome-vs-gaul-817054011995.html#ae447-11">Caesar: Rome vs. Gaul</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/94149-caesar-rome-vs-gaul-817054011995.html#ae447">Caesar: Rome vs. Gaul</a></h4>
                 <div class="alert alert-warning" role="alert">
             <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a href="https://boardgamegeek.com/boardgame/276386/caesar-rome-vs-gaul">Caesar: Rome vs. Gaul</a></strong> por <strong>Mark Simonitch</strong>,
@@ -105,7 +105,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Men of Iron Battles Tri-pack">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/94300-men-of-iron-tri-pack-817054011919.html#ae447-11">Men of Iron Battles Tri-pack</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/94300-men-of-iron-tri-pack-817054011919.html#ae447">Men of Iron Battles Tri-pack</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/293959/men-iron-battles-tri-pack-men-iron-infidel-blood-r">Men of Iron Battles Tri-pack</a></strong> por
     <strong>Richard H. Berg, Jack Polonka, Mike Lemick</strong> y <strong>Ralph Shelton</strong>,
         publicado por <strong>GMT Games</strong>, es un wargame que contiene
@@ -184,7 +184,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Commands & Colors Tricorne: Jacobite Rising">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/91800-commands-colors-tricorne-jacobite-rising-2100000721597.html#ae447-11">Commands & Colors Tricorne: Jacobite Rising</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/91800-commands-colors-tricorne-jacobite-rising-2100000721597.html#ae447">Commands & Colors Tricorne: Jacobite Rising</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/286358/commands-colors-tricorne-jacobite-rising">Commands & Colors Tricorne: Jacobite Rising</a></strong> por <strong>Richard Borg</strong>,
         publicado por
         <strong>Compass Games</strong>, es un juego que engloba diversas
@@ -207,7 +207,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Imperial Struggle">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/the-age-of-reason/97528-imperial-struggle-2nd-printing-817054011926.html#ae447-11">Imperial Struggle</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/the-age-of-reason/97528-imperial-struggle-2nd-printing-817054011926.html#ae447">Imperial Struggle</a></h4>
         <div class="alert alert-warning" role="alert">
         <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a href="https://boardgamegeek.com/boardgame/206480/imperial-struggle">Imperial Struggle</a></strong> por
@@ -237,7 +237,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="The Conquistadors: The Spanish Conquest of the Americas 1518-1548">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/93964-the-conquistadors-the-spanish-conquest-of-the-americas-1518-1548-2100000731169.html#ae447-11">The Conquistadors: The Spanish Conquest of the Americas 1518-1548</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/93964-the-conquistadors-the-spanish-conquest-of-the-americas-1518-1548-2100000731169.html#ae447">The Conquistadors: The Spanish Conquest of the Americas 1518-1548</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/267243/conquistadors-spanish-conquest-americas-1518-1548">The Conquistadors</a></strong> por
         <strong>Jon Southard</strong>, publicado por
         <strong>Compass Games</strong>, es un juego con un motor de cartas en
@@ -257,7 +257,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="The Great Crisis of Frederick II">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/vuca-simulations/88216-the-great-crisis-of-frederick-ii-4260489350812.html#ae447-11">The Great Crisis of Frederick II</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/vuca-simulations/88216-the-great-crisis-of-frederick-ii-4260489350812.html#ae447">The Great Crisis of Frederick II</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/301572/great-crisis-frederick-ii">The Great Crisis of Frederick II</a></strong> por
         <strong>Tetsuya Nakamura</strong>, publicado por
         <strong>VUCA Simulations</strong>, cubre la guerra de los Siete
@@ -288,7 +288,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="This War Without an Enemy">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/nuts-publishing/91433-this-war-without-an-enemy-2100000748969.html#ae447-11">This War Without an Enemy</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/nuts-publishing/91433-this-war-without-an-enemy-2100000748969.html#ae447">This War Without an Enemy</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/203321/war-without-enemy">This War Without an Enemy</a></strong> por
         <strong>Scott H. Moore</strong>, publicado por
         <strong>Nuts! Publishing</strong>, es un wargame de bloques por el
@@ -312,7 +312,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Dawn's Early Light: The War of 1812">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/91796-dawn-s-early-light-the-war-of-1812-2100000721603.html#ae447-11">Dawn's Early Light: The War of 1812</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/91796-dawn-s-early-light-the-war-of-1812-2100000721603.html#ae447">Dawn's Early Light: The War of 1812</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/296644/dawns-early-light-war-1812">Dawn's Early Light: The War of 1812</a></strong> por
         <strong>David McDonough</strong>, publicado por
         <strong>Compass Games</strong>, es un juego con un motor de cartas que
@@ -334,7 +334,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Napoleon 1807 ">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/shakos/89733-napoleon-1807-2100000706167.html#ae447-11">Napoleon 1807 </a></h4>
+        <h4><a href="https://www.philibertnet.com/en/shakos/89733-napoleon-1807-2100000706167.html#ae447">Napoleon 1807 </a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/255902/napoleon-1807">Napoleon 1807 </a></strong> por
         <strong>Denis Sauvage</strong>, publicado por
         <strong>Shakos</strong>, simula la guerra del invierno de 1806 a 1807
@@ -356,7 +356,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Napoleon's Wheel">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/osg-operational-studies-group/88192-napoleon-s-wheel-2100000685592.html#ae447-11">Napoleon's Wheel</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/osg-operational-studies-group/88192-napoleon-s-wheel-2100000685592.html#ae447">Napoleon's Wheel</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/273909/napoleons-wheel">Napoleon's Wheel</a></strong> por
         <strong>Kevin Zucker</strong>, publicado por
         <strong>Operational Studies Group</strong>, es un juego de la serie The
@@ -383,7 +383,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="The Shores of Tripoli">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/fort-circle-games/93962-the-shores-of-tripoli-860031002509.html#ae447-11">The Shores of Tripoli</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/fort-circle-games/93962-the-shores-of-tripoli-860031002509.html#ae447">The Shores of Tripoli</a></h4>
         <div class="alert alert-warning" role="alert">
         <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a href="https://boardgamegeek.com/boardgame/237860/shores-tripoli">The Shores of Tripoli</a></strong> por
@@ -435,7 +435,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Dawn of Empire: The Spanish American Naval War in the Atlantic, 1898">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/88224-dawn-of-empire-2100000694006.html#ae447-11">Dawn of Empire: The Spanish American Naval War in the Atlantic, 1898</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/88224-dawn-of-empire-2100000694006.html#ae447">Dawn of Empire: The Spanish American Naval War in the Atlantic, 1898</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/284948/dawn-empire-spanish-american-naval-war-atlantic-18">Dawn of Empire</a></strong> por <strong>Stephen Newberg</strong>,
         publicado por
         <strong>Compass Games</strong>, se centra en los aspectos navales de la
@@ -463,7 +463,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Freedom!">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/phalanx/85125-freedom-5900741508573.html#ae447-11">Freedom!</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/phalanx/85125-freedom-5900741508573.html#ae447">Freedom!</a></h4>
         <div class="alert alert-warning" role="alert">
         <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a href="https://boardgamegeek.com/boardgame/177096/freedom">Freedom!</a></strong> por <strong>Vangelis Bagiartakis</strong>,
@@ -560,7 +560,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Chancellorsville 1863">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/worthington-games/91852-chancellorsville-1863-2100000722457.html#ae447-11">Chancellorsville 1863</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/worthington-games/91852-chancellorsville-1863-2100000722457.html#ae447">Chancellorsville 1863</a></h4>
         <div class="alert alert-warning" role="alert">
         <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a href="https://boardgamegeek.com/boardgame/299179/chancellorsville-1863">Chancellorsville 1863</a></strong> por <strong>Maurice Suckling</strong>,
@@ -586,7 +586,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Shiloh 1862">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/worthington-games/86499-shiloh-1862-856565007332.html#ae447-11">Shiloh 1862</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/worthington-games/86499-shiloh-1862-856565007332.html#ae447">Shiloh 1862</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/284072/shiloh-1862">Shiloh 1862</a></strong> por <strong>Grant
     Wylie</strong> y <strong>Mike Wylie</strong>,
         publicado por
@@ -629,7 +629,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Cedar Mountain 1862">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/vae-victis/91436-vae-victis-153-cedar-mountain-1862-2100000718252.html#ae447-11">Cedar Mountain 1862</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/vae-victis/91436-vae-victis-153-cedar-mountain-1862-2100000718252.html#ae447">Cedar Mountain 1862</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/322067/cedar-mountain-1862">Cedar Mountain 1862</a></strong> por <strong>Pascal Toupy</strong>,
         publicado por
         <strong>Vae Victis</strong>, es un wargame sobre la batalla de la
@@ -649,7 +649,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="1918/1919: Storm in the West">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/94188-1918-1919-storm-in-the-west-817054012039.html#ae447-11">1918/1919: Storm in the West</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/94188-1918-1919-storm-in-the-west-817054012039.html#ae447">1918/1919: Storm in the West</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/240902/19181919-storm-west">1918/1919:
     Storm in the West</a></strong> por <strong>Ted Raicer</strong>,
@@ -677,7 +677,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="All Bridges Burning: Red Revolt and White Guard in Finland, 1917-1918">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/93328-all-bridges-burning-817054011902.html#ae447-11">All Bridges Burning: Red Revolt and White Guard in Finland, 1917-1918</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/93328-all-bridges-burning-817054011902.html#ae447">All Bridges Burning: Red Revolt and White Guard in Finland, 1917-1918</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/242520/all-bridges-burning-red-revolt-and-white-guard-fin">All
     Bridges Burning</a></strong> por <strong>VPJ Arponen</strong>,
@@ -710,7 +710,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="An Attrition of Souls">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/93866-attrition-of-souls-2100000728725.html#ae447-11">An Attrition of Souls</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/93866-attrition-of-souls-2100000728725.html#ae447">An Attrition of Souls</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/279975/attrition-souls">An
     Attrition of Souls</a></strong> por <strong>Scott W. Leibbrandt</strong>, 
@@ -739,7 +739,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Verdun 1916: Steel Inferno">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/fellowship-of-simulations/89310-verdun-1916-steel-inferno-3760312250018.html#ae447-11">Verdun 1916: Steel Inferno</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/fellowship-of-simulations/89310-verdun-1916-steel-inferno-3760312250018.html#ae447">Verdun 1916: Steel Inferno</a></h4>
         <div class="alert alert-warning" role="alert">
         <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a
@@ -773,7 +773,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Versailles 1919">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/93406-versailles-1919-817054011957.html#ae447-11">Versailles 1919</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/93406-versailles-1919-817054011957.html#ae447">Versailles 1919</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/253506/versailles-1919">Versailles
     1919</a></strong> por <strong>Mark Herman</strong> y <strong>Geoff Engelstein</strong>,
@@ -804,7 +804,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="A Time for Trumpets: The Battle of the Bulge, December 1944">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/93713-a-time-for-trumpets-817054011636.html#ae447-11">A Time for Trumpets: The Battle of the Bulge, December 1944</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/93713-a-time-for-trumpets-817054011636.html#ae447">A Time for Trumpets: The Battle of the Bulge, December 1944</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/240901/time-trumpets-battle-bulge-december-1944">A Time for Trumpets</a></strong> por <strong>Bruno Sinigaglio</strong>,
         publicado por
         <strong>GMT Games</strong>, es un wargame a nivel de batallón sobre la
@@ -860,7 +860,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Hungarian Rhapsody: The Eastern Front in Hungary">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/93102-hungarian-rhapsody-2100000725335.html#ae447-11">Hungarian Rhapsody: The Eastern Front in Hungary</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/93102-hungarian-rhapsody-2100000725335.html#ae447">Hungarian Rhapsody: The Eastern Front in Hungary</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/207398/hungarian-rhapsody-eastern-front-hungary">Hungarian Rhapsody</a></strong> por
     <strong>Stéphane Acquaviva, Curtis Baer</strong> y <strong> Dean Essig</strong>,
         publicado por
@@ -886,7 +886,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="The Jaws of Victory: Battle of Korsun-Cherkassy Pocket: January/February 1944 ">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/new-england-simulations/92921-the-jaws-of-victory-2100000723300.html#ae447-11">The Jaws of Victory: Battle of Korsun-Cherkassy Pocket: January/February 1944</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/new-england-simulations/92921-the-jaws-of-victory-2100000723300.html#ae447">The Jaws of Victory: Battle of Korsun-Cherkassy Pocket: January/February 1944</a></h4>
         <div class="alert alert-warning" role="alert">
         <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a href="https://boardgamegeek.com/boardgame/288539/jaws-victory-battle-korsun-cherkassy-pocket-januar">The Jaws of Victory</a></strong> por
@@ -978,7 +978,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Brief Border Wars">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/89317-brief-border-wars-2100000702565.html#ae447-11">Brief Border Wars</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/89317-brief-border-wars-2100000702565.html#ae447">Brief Border Wars</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/285193/brief-border-wars">Brief Border Wars</a></strong> por <strong>Brian Train</strong>,
         publicado por
         <strong>Compass Games</strong>, tiene cuatro juegos en uno que se
@@ -1009,7 +1009,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Brotherhood & Unity">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/89500-brotherhood-unity-2100000704354.html#ae447-11">Brotherhood & Unity</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/89500-brotherhood-unity-2100000704354.html#ae447">Brotherhood & Unity</a></h4>
         <div class="alert alert-warning" role="alert">
         <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a href="https://boardgamegeek.com/boardgame/255570/brotherhood-unity">Brotherhood & Unity</a></strong> por <strong>Tomislav Cipcic</strong>,
@@ -1038,7 +1038,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Iron Curtain: Central Europe, 1945-1989">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/93094-iron-curtain-central-front-1945-1989-2100000725342.html#ae447-11">Iron Curtain: Central Europe, 1945-1989</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/93094-iron-curtain-central-front-1945-1989-2100000725342.html#ae447">Iron Curtain: Central Europe, 1945-1989</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/310726/iron-curtain-central-europe-1945-1989">Iron Curtain</a></strong> por <strong>Dean Essig</strong> y <strong>Carl
     Fung</strong>, publicado por
         <strong>Multi-Man Publishing</strong>, es un wargame que utiliza el
@@ -1065,7 +1065,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Next War: Vietnam">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/94354-next-war-vietnam-817054012046.html#ae447-11">Next War: Vietnam</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/94354-next-war-vietnam-817054012046.html#ae447">Next War: Vietnam</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/263223/next-war-vietnam">Next War: Vietnam</a></strong> por <strong>Mitchell Land</strong>,
         publicado por
         <strong>GMT Games</strong>, es el siguiente juego de la serie Next War,
@@ -1095,7 +1095,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Aliens: Another Glorious Day in the Corps">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/aliens/91324-aliens-another-glorious-day-in-the-corps-9781947494497.html#ae447-11">Aliens: Another Glorious Day in the Corps</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/aliens/91324-aliens-another-glorious-day-in-the-corps-9781947494497.html#ae447">Aliens: Another Glorious Day in the Corps</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/256852/aliens-another-glorious-day-corps">Aliens: Another Glorious Day in the Corps</a></strong> por <strong>Andrew Haught</strong>,
         publicado por
         <strong>Gale Force Nine</strong>, es un juego cooperativo de
@@ -1165,7 +1165,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Stellar Horizons">
     </div>
     <div class="col-md-9">
-        <h4><a href="#ae447-11">Stellar Horizons</a></h4>
+        <h4><a href="#ae447">Stellar Horizons</a></h4>
         <div class="alert alert-warning" role="alert">
         <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a href="https://boardgamegeek.com/boardgame/217990/stellar-horizons">Stellar Horizons</a></strong> por <strong>Andrew Rader</strong>,
@@ -1198,7 +1198,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="By Stealth and Sea">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/dan-verssen-games/91749-by-stealth-and-sea-810003562418.html#ae447-11">By Stealth and Sea</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/dan-verssen-games/91749-by-stealth-and-sea-810003562418.html#ae447">By Stealth and Sea</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/294652/stealth-and-sea">By Stealth and Sea</a></strong> por <strong>David Thompson</strong> y <strong>Nicola Saggini</strong>,
         publicado por
         <strong>DVG</strong>, es un juego solitario y cooperativo que ocurre
@@ -1257,7 +1257,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="The Shores of Tripoli">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/fort-circle-games/93962-the-shores-of-tripoli-860031002509.html#ae447-11">The Shores of Tripoli</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/fort-circle-games/93962-the-shores-of-tripoli-860031002509.html#ae447">The Shores of Tripoli</a></h4>
         <div class="alert alert-warning" role="alert">
         <strong>¡Ganador de la categoría!</strong></div>
         <p>Descripción en la categoría de <i>Mejor wargame del periodo napoleónico</i>.</p>
@@ -1289,7 +1289,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Buffalo Wings Expansion Kit">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/against-the-odds/94728-against-the-odds-29-buffalo-wings-2100000737352.html#ae447-11">Buffalo Wings Expansion Kit</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/against-the-odds/94728-against-the-odds-29-buffalo-wings-2100000737352.html#ae447">Buffalo Wings Expansion Kit</a></h4>
         <p><strong><a href="https://www.atomagazine.com/Details.cfm?ProdID=172">Buffalo Wings Expansion Kit</a></strong> por <strong>John D. Webster</strong>,
         publicado por <strong>Against the Odds</strong>, es una expansión para
     Buffalo Wings que añade la cobertura para la guerra de Invierno y la guerra
@@ -1308,7 +1308,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Croix de Guerre">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/core-modules/88851-asl-croix-de-guerre-second-edition-2100000698813.html#ae447-11">Croix de Guerre</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/core-modules/88851-asl-croix-de-guerre-second-edition-2100000698813.html#ae447">Croix de Guerre</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/299065/croix-de-guerre-second-edition">Croix
     de Guerre</a></strong> por <strong>Nadir Elfarra, Charles Kibler</strong> y
@@ -1335,7 +1335,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Fire in the Lake: Tru'ng Bot Update Pack">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/coin/97541-fire-in-the-lake-trung-bot-update-pack-2100000755776.html#ae447-11">Fire in the Lake: Tru'ng Bot Update Pack</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/coin/97541-fire-in-the-lake-trung-bot-update-pack-2100000755776.html#ae447">Fire in the Lake: Tru'ng Bot Update Pack</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/307176/fire-lake-trung-bot-update-pack">Fire in the Lake: Tru'ng Bot Update
     Pack</a></strong> por <strong>Mark Herman, Bruce Mansfield</strong> y <strong>Volko Ruhnke</strong>,
         publicado por
@@ -1359,7 +1359,7 @@ gustaría probar o qué juegos nuevos he descubierto gracias a estos premios.
         class="img-thumbnail" alt="Labyrinth: The Forever War, 2015-?">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/94362-labyrinth-the-forever-war-2015--807154011889.html#ae447-11">Labyrinth: The Forever War, 2015-?</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/94362-labyrinth-the-forever-war-2015--807154011889.html#ae447">Labyrinth: The Forever War, 2015-?</a></h4>
         <div class="alert alert-warning" role="alert">
         <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a href="https://boardgamegeek.com/boardgame/280769/labyrinth-forever-war-2015">Labyrinth: The Forever War, 2015-?</a></strong> por <strong>Trevor Bender</strong>,
@@ -1386,7 +1386,7 @@ Labyrinth: The War on Terror, 2001 – ?</a> que añade más contenido históric
         class="img-thumbnail" alt="Root: The Underworld Expansion">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/ledergames/90119-root-the-underworld-expansion-672975032067.html#ae447-11">Root: The Underworld Expansion</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/ledergames/90119-root-the-underworld-expansion-672975032067.html#ae447">Root: The Underworld Expansion</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/272637/root-underworld-expansion">Root: The Underworld Expansion</a></strong> por
     <strong>Patrick Leder</strong>,
         publicado por
@@ -1415,7 +1415,7 @@ Labyrinth: The War on Terror, 2001 – ?</a> que añade más contenido históric
         class="img-thumbnail" alt="Wing Leader: Origins 1936-1942">
     </div>
     <div class="col-md-9">
-        <h4><a href="#ae447-11">Wing Leader: Origins 1936-1942</a></h4>
+        <h4><a href="#ae447">Wing Leader: Origins 1936-1942</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/288983/wing-leader-origins-1936-1942">Wing Leader: Origins 1936-1942</a></strong> por <strong>Lee Brimmicombe-Wood</strong>,
         publicado por
         <strong>GMT Games</strong>, es una expansión para <a href="https://boardgamegeek.com/boardgame/282033/wing-leader-victories-1940-1942-second-edition">
@@ -1441,7 +1441,7 @@ Wing Leader: Victories 1940-1942</a> en la que se añaden nuevos aviones de
         class="img-thumbnail" alt="Brotherhood & Unity">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/89500-brotherhood-unity-2100000704354.html#ae447-11">Brotherhood & Unity</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/89500-brotherhood-unity-2100000704354.html#ae447">Brotherhood & Unity</a></h4>
         <p>Descipción en <i>Mejor wargame del periodo moderno o de un periodo
     hipotético</i>.</p>
     </div>
@@ -1455,7 +1455,7 @@ Wing Leader: Victories 1940-1942</a> en la que se añaden nuevos aviones de
         class="img-thumbnail" alt="Imperial Struggle">
     </div>
     <div class="col-md-9">
-        <h4><a href="#ae447-11">Imperial Struggle</a></h4>
+        <h4><a href="#ae447">Imperial Struggle</a></h4>
         <p>Visto en <i>Mejor wargame de principios de la época de la pólvora</i>.</p>
         <img src="">
     </div>
@@ -1469,7 +1469,7 @@ Wing Leader: Victories 1940-1942</a> en la que se añaden nuevos aviones de
         class="img-thumbnail" alt="The Shores of Tripoli">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/fort-circle-games/93962-the-shores-of-tripoli-860031002509.html#ae447-11">The Shores of Tripoli</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/fort-circle-games/93962-the-shores-of-tripoli-860031002509.html#ae447">The Shores of Tripoli</a></h4>
         <p>Descripción en la categoría de <i>Mejor wargame del periodo napoleónico</i>.</p>
     </div>
 </div>
@@ -1482,7 +1482,7 @@ Wing Leader: Victories 1940-1942</a> en la que se añaden nuevos aviones de
         class="img-thumbnail" alt="The Jaws of Victory: Battle of Korsun-Cherkassy Pocket: January/February 1944 ">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/new-england-simulations/92921-the-jaws-of-victory-2100000723300.html#ae447-11">The Jaws of Victory: Battle of Korsun-Cherkassy Pocket: January/February 1944</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/new-england-simulations/92921-the-jaws-of-victory-2100000723300.html#ae447">The Jaws of Victory: Battle of Korsun-Cherkassy Pocket: January/February 1944</a></h4>
          <p>Descripción en la categoría de <i>Mejor wargame de la Segunda
     Guerra Mundial</i>.</p>
     </div>
@@ -1496,7 +1496,7 @@ Wing Leader: Victories 1940-1942</a> en la que se añaden nuevos aviones de
         class="img-thumbnail" alt="Verdun 1916: Steel Inferno">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/fellowship-of-simulations/89310-verdun-1916-steel-inferno-3760312250018.html#ae447-11">Verdun 1916: Steel Inferno</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/fellowship-of-simulations/89310-verdun-1916-steel-inferno-3760312250018.html#ae447">Verdun 1916: Steel Inferno</a></h4>
         <div class="alert alert-warning" role="alert">
         <strong>¡Mejor wargame del año!</strong></div>
         <p>Descripción en la categoría de <i>Mejor wargame de la Primera

@@ -46,7 +46,7 @@ algo más ligero.
 Dicho esto ahora os hablo de los juegos que he jugado en solitario, hay pocas
 fotos porque no he tenido la cabeza para acordarme de sacar fotos.
 
-### [Bios: Megafauna (Second Edition)](https://www.philibertnet.com/en/sierra-madre-games/53867-bios-megafauna-6533410401692.html#ae447-11)
+### [Bios: Megafauna (Second Edition)](https://www.philibertnet.com/en/sierra-madre-games/53867-bios-megafauna-6533410401692.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/RA8mln_pt3TUeoPCckvCYQ__imagepage/img/5gMSTdtn-oOPfnIYQ-UpfQrXrXI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4095180.jpg"></p>
@@ -74,7 +74,7 @@ otra vez al juego.
 En general el mayor punto positivo de las partidas de este mes es que por fin
 tengo mi pequeño resumen para que otras veces no me cueste tanto arrancar.
 
-### [Cascadia](https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447-11)
+### [Cascadia](https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__imagepage/img/0ksox22FKLq-Z-rsbBlF2IDG9x0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5100691.jpg"></p>
@@ -90,7 +90,7 @@ muy fáciles pero el cinco se me ha estado atragantando, cosa que me encanta.
 
 Si todavía no lo habéis probado os lo recomiendo mucho.
 
-### [Curious Cargo](https://www.philibertnet.com/en/capstone-hk-ltd/91290-curious-cargo-850000576148.html#ae447-11)
+### [Curious Cargo](https://www.philibertnet.com/en/capstone-hk-ltd/91290-curious-cargo-850000576148.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/4EX-XaYzUK21jAl5L3KEUA__imagepage/img/pHCJM9ZULjRhszItuB7pr8c-eY0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5478785.jpg"></p>

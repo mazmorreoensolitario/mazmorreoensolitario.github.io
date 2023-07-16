@@ -44,7 +44,7 @@ Aquí está mi selección:
         class="img-thumbnail" alt="">
     </div>
     <div class="col-md-9">
-         <h4>1. <a href="https://www.philibertnet.com/en/ion-game-design/95490-high-frontier-4-all-6533410411660.html#ae447-11">High Frontier 4 All</a></h4>
+         <h4>1. <a href="https://www.philibertnet.com/en/ion-game-design/95490-high-frontier-4-all-6533410411660.html#ae447">High Frontier 4 All</a></h4>
          <p>En <strong><a
     href="https://boardgamegeek.com/boardgame/281655/high-frontier-4-all">High
     Frontier 4 All</a></strong> de Phil Eklund y publicado por <strong>Ion Game
@@ -394,7 +394,7 @@ preparar:
         class="img-thumbnail" alt="">
     </div>
     <div class="col-md-9">
-         <h4>4. <a href="https://www.philibertnet.com/en/surprised-stare-games/81507-lux-aeterna-2100000646838.html#ae447-11">Lux Aeterna</a></h4>
+         <h4>4. <a href="https://www.philibertnet.com/en/surprised-stare-games/81507-lux-aeterna-2100000646838.html#ae447">Lux Aeterna</a></h4>
          <p>En <strong><a
     href="https://boardgamegeek.com/boardgame/282439/lux-aeterna">Lux
     Aeterna</a></strong> de Tony Boydell y publicado por <strong>Frosted Games
@@ -544,18 +544,18 @@ tenéis el análisis]({{site.baseurl}}/2019/03/14/analisis-pocket-mars/).
 Otros juegos que me parecen súper interesantes y que aún no he podido probar,
 pero que igual os interesa echarles un vistazo son:
 [SpaceCorp](https://boardgamegeek.com/boardgame/214029/spacecorp) ([GMT
-Games](https://www.philibertnet.com/en/gmt/73512-spacecorp-817054011599.html#ae447-11)),
+Games](https://www.philibertnet.com/en/gmt/73512-spacecorp-817054011599.html#ae447)),
 [Leaving Earth](https://boardgamegeek.com/boardgame/173064/leaving-earth)
-([Lumenaris](https://www.philibertnet.com/en/lumenaris/41981-leaving-earth-811872022515.html#ae447-11)),
+([Lumenaris](https://www.philibertnet.com/en/lumenaris/41981-leaving-earth-811872022515.html#ae447)),
 [On Mars](https://boardgamegeek.com/boardgame/184267/mars) 
 ([Maldito
-Games](https://www.philibertnet.com/en/tout-le-catalogue/76285-on-mars-2100000612314.html#ae447-11))
+Games](https://www.philibertnet.com/en/tout-le-catalogue/76285-on-mars-2100000612314.html#ae447))
 y [Stellar Horizons](https://boardgamegeek.com/boardgame/217990/stellar-horizons)
 ([Compass
-Games](https://www.philibertnet.com/en/compass-games/88502-stellar-horizons-2100000697823.html#ae447-11)),
+Games](https://www.philibertnet.com/en/compass-games/88502-stellar-horizons-2100000697823.html#ae447)),
 además de [Beyond the
 Sun](https://boardgamegeek.com/boardgame/317985/beyond-sun) ([Rio Grande
-Games](https://www.philibertnet.com/en/rio-grande/91289-beyond-the-sun-655132005807.html#ae447-11)),
+Games](https://www.philibertnet.com/en/rio-grande/91289-beyond-the-sun-655132005807.html#ae447)),
 del que tenemos una expansión para jugar en solitario en desarrollo, y es el
 que más interés despierta en mí.
 

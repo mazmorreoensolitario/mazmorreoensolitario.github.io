@@ -63,7 +63,7 @@ Allá vamos con los juegos entre los puestos 75 y 51:
         class="img-thumbnail" alt="Agricola (Revised Edition)">
     </div>
     <div class="col-md-9">
-         <h4>74. <a href="https://www.philibertnet.com/en/mayfair-games/43083-agricola-edition-2016-anglais-029877035151.html#ae447-11">Agricola (Revised Edition)</a></h4>
+         <h4>74. <a href="https://www.philibertnet.com/en/mayfair-games/43083-agricola-edition-2016-anglais-029877035151.html#ae447">Agricola (Revised Edition)</a></h4>
          <p>En <strong><a href="https://boardgamegeek.com/boardgame/200680/agricola-revised-edition">Agricola (Revised Edition)</a></strong>
          de Uwe Rosenberg y publicado por <strong>Lookout Games</strong>
      (<strong>Devir</strong> en España), es la edición revisada del galardonado
@@ -149,7 +149,7 @@ Allá vamos con los juegos entre los puestos 75 y 51:
         class="img-thumbnail" alt="Aeon's End">
     </div>
     <div class="col-md-9">
-         <h4>70. <a href="https://www.philibertnet.com/en/indie-boards-and-cards/47757-aeon-s-end-792273251554.html#ae447-11">Aeon's End</a></h4>
+         <h4>70. <a href="https://www.philibertnet.com/en/indie-boards-and-cards/47757-aeon-s-end-792273251554.html#ae447">Aeon's End</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/191189/aeons-end">Aeon's End</a></strong>
          de Kevin Riley y publicado por <strong> Indie Boards & Cards</strong>
          (llegará algún día por SD Games a España), es un juego cooperativo de
@@ -207,7 +207,7 @@ Allá vamos con los juegos entre los puestos 75 y 51:
         class="img-thumbnail" alt="Dominant Species">
     </div>
     <div class="col-md-9">
-         <h4>67. <a href="https://www.philibertnet.com/en/gmt/27341-dominant-species-4nd-edition-817054010554.html#ae447-11">Dominant Species</a></h4>
+         <h4>67. <a href="https://www.philibertnet.com/en/gmt/27341-dominant-species-4nd-edition-817054010554.html#ae447">Dominant Species</a></h4>
          <p>En <strong><a href="https://boardgamegeek.com/boardgame/62219/dominant-species">Dominant Species</a></strong>
          de Chad Jensen y publicado por <strong>GMT Games</strong>, tomamos el
     rol de una especie animal sobre el año 90.000 a.d.C. y tratamos de
@@ -226,7 +226,7 @@ Allá vamos con los juegos entre los puestos 75 y 51:
         class="img-thumbnail" alt="Five Tribes">
     </div>
     <div class="col-md-9">
-         <h4>66. <a href="https://www.philibertnet.com/en/days-of-wonder/31336-five-tribes-version-anglaise-824968784914.html#ae447-11">Five Tribes</a></h4>
+         <h4>66. <a href="https://www.philibertnet.com/en/days-of-wonder/31336-five-tribes-version-anglaise-824968784914.html#ae447">Five Tribes</a></h4>
          <p>En <strong><a href="https://boardgamegeek.com/boardgame/157354/five-tribes">Five Tribes</a></strong>
          de Bruno Cathala y publicado por <strong>Days of Wonder</strong>
          (<strong>Maldito Games</strong> en España), tenemos que mover a
@@ -247,7 +247,7 @@ Allá vamos con los juegos entre los puestos 75 y 51:
         class="img-thumbnail" alt="Crokinole">
     </div>
     <div class="col-md-9">
-         <h4>65. <a href="https://www.philibertnet.com/en/crokinole/16933-crokinole-3760093330305.html#ae447-11">Crokinole</a></h4>
+         <h4>65. <a href="https://www.philibertnet.com/en/crokinole/16933-crokinole-3760093330305.html#ae447">Crokinole</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/521/crokinole">Crokinole</a></strong>
     es un juego muy antiguo de flicking en el que los jugadores tratan de mover
@@ -288,7 +288,7 @@ Allá vamos con los juegos entre los puestos 75 y 51:
         class="img-thumbnail" alt="Clank!: A Deck-Building Adventure">
     </div>
     <div class="col-md-9">
-         <h4>63. <a href="https://www.philibertnet.com/en/renegade-game-studios/45944-clank-859930005520.html#ae447-11">Clank!: A Deck-Building Adventure</a></h4>
+         <h4>63. <a href="https://www.philibertnet.com/en/renegade-game-studios/45944-clank-859930005520.html#ae447">Clank!: A Deck-Building Adventure</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure">Clank!: A Deck-Building Adventure</a></strong>
          de Paul Dennen y publicado por <strong>Renegade Game
     Studios</strong>, es un juego de construcción de mazos en el que tratas de
@@ -345,7 +345,7 @@ Allá vamos con los juegos entre los puestos 75 y 51:
         class="img-thumbnail" alt="Campos de Arle">
     </div>
     <div class="col-md-9">
-         <h4>60. <a href="https://www.philibertnet.com/en/zman-games/32740-fields-of-arle-681706714905.html#ae447-11">Campos de Arle</a></h4>
+         <h4>60. <a href="https://www.philibertnet.com/en/zman-games/32740-fields-of-arle-681706714905.html#ae447">Campos de Arle</a></h4>
          <p>En <strong><a href="https://boardgamegeek.com/boardgame/159675/fields-arle">Campos de Arle</a></strong>
          de Uwe Rosenberg y publicado por <strong>Feuerland Spiele</strong>
          (<strong>Maldito Games</strong> en España), tenemos otro juego de
@@ -407,7 +407,7 @@ Allá vamos con los juegos entre los puestos 75 y 51:
         class="img-thumbnail" alt="The Gallerist">
     </div>
     <div class="col-md-9">
-         <h4>57. <a href="https://www.philibertnet.com/en/gryphon-games/36069-the-gallerist-609456647335.html#ae447-11">The Gallerist</a></h4>
+         <h4>57. <a href="https://www.philibertnet.com/en/gryphon-games/36069-the-gallerist-609456647335.html#ae447">The Gallerist</a></h4>
          <p>En <strong><a href="https://boardgamegeek.com/boardgame/125153/gallerist">The Gallerist</a></strong>
          de Vital Lacerda y publicado por <strong>Eagle-Gryphon Games</strong>
          (<strong>Maldito Games</strong> en España),
@@ -495,7 +495,7 @@ Allá vamos con los juegos entre los puestos 75 y 51:
         class="img-thumbnail" alt="Clank! Legacy: Acquisitions Incorporated">
     </div>
     <div class="col-md-9">
-         <h4>53. <a href="https://www.philibertnet.com/en/renegade-game-studios/85269-clank-legacy-acquisitions-incorporated-810011720374.html#ae447-11">Clank! Legacy: Acquisitions Incorporated</a></h4>
+         <h4>53. <a href="https://www.philibertnet.com/en/renegade-game-studios/85269-clank-legacy-acquisitions-incorporated-810011720374.html#ae447">Clank! Legacy: Acquisitions Incorporated</a></h4>
          <p>En <strong><a href="https://boardgamegeek.com/boardgame/266507/clank-legacy-acquisitions-incorporated">Clank! Legacy: Acquisitions Incorporated</a></strong>
          de Andy Clautice y Paul Dennen, y publicado por <strong>Dire
     Wolf</strong>, tenemos las mismas mecánicas que el Clank original (posición

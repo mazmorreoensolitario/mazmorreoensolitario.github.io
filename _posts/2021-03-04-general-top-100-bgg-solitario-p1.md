@@ -278,7 +278,7 @@ con los 25 últimos juegos, que toman las **posiciones 100 a 76 del ranking**:
         class="img-thumbnail" alt="Saqueadores del Mar del Norte">
     </div>
     <div class="col-md-9">
-         <h4>90. <a href="https://www.philibertnet.com/en/tout-le-catalogue/52510-raiders-of-the-north-sea-859930005858.html#ae447-11">Saqueadores del Mar del Norte</a></h4>
+         <h4>90. <a href="https://www.philibertnet.com/en/tout-le-catalogue/52510-raiders-of-the-north-sea-859930005858.html#ae447">Saqueadores del Mar del Norte</a></h4>
          <p>En <strong><a href="https://boardgamegeek.com/boardgame/170042/raiders-north-sea">Saqueadores del Mar del Norte</a></strong>
          de Shem Phillips y publicado por <strong>Garphill Games</strong>
      (<strong>Ediciones Primigenio</strong> en España), es un juego de

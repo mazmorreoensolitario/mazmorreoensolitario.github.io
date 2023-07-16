@@ -185,7 +185,7 @@ los mecenas, ahora la propiedad intelectual del juego ha pasado de Minion Games
 a Grail Games, y están cerrando el pledge manager, así que aún queda para que
 llegue a tiendas.
 
-#### [Mini Rogue](https://www.philibertnet.com/en/nuts-publishing/99567-mini-rogue-3770009354530.html#ae447-11)
+#### [Mini Rogue](https://www.philibertnet.com/en/nuts-publishing/99567-mini-rogue-3770009354530.html#ae447)
 
 <p align="center">
 <img height=""
@@ -215,7 +215,7 @@ necesitarás centrarte en conseguir comida, pociones... hay un poco de todo.
 Como os he comentado en el resumen de arriba cuando pruebe las expansiones
 podéis esperar un análisis de este juego.
 
-#### [Next War: Korea, 2nd Edition](https://www.philibertnet.com/en/gmt/18971-next-war-korea-817054010189.html#ae447-11)
+#### [Next War: Korea, 2nd Edition](https://www.philibertnet.com/en/gmt/18971-next-war-korea-817054010189.html#ae447)
 
 <p align="center">
 <img height=""
@@ -238,7 +238,7 @@ para atrás, estaba ojeando el [Next War:
 Vietnam](https://www.gmtgames.com/p-733-next-war-vietnam.aspx), que era del que
 parecía haber más stock por ser el último lanzamiento, pero por temática NW:
 Korea era mi primera opción. Pude conseguirlo por 60€ (envío incluido) desde 
-[Philibert](https://www.philibertnet.com/en/gmt/18971-next-war-korea-817054010189.html#ae447-11),
+[Philibert](https://www.philibertnet.com/en/gmt/18971-next-war-korea-817054010189.html#ae447),
 gracias a un descuento que me quitó algo de dinero, y ya, a un precio que no me
 incomodaba tanto, pude comprarlo.
 
@@ -256,7 +256,7 @@ para póster, ya que los escenarios con las reglas avanzadas utilizan dos mapas
 mapa norte, que cubre desde el norte de Incheon hasta Pyongyang, como podéis
 ver en la foto de arriba.
 
-#### [World at War 85: Storming The Gap](https://www.philibertnet.com/en/world-at-war-85/98511-world-at-war-85-storming-the-gap-639302314241.html#ae447-11)
+#### [World at War 85: Storming The Gap](https://www.philibertnet.com/en/world-at-war-85/98511-world-at-war-85-storming-the-gap-639302314241.html#ae447)
 
 <p align="center">
 <img height=""

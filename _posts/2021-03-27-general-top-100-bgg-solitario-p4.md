@@ -72,7 +72,7 @@ completas sobre los juegos del Top 100**.
         class="img-thumbnail" alt="Nemesis">
     </div>
     <div class="col-md-9">
-         <h4>24. <a href="https://www.philibertnet.com/en/awaken-realms/82240-nemesis-20-5907222999073.html#ae447-11">Nemesis</a></h4>
+         <h4>24. <a href="https://www.philibertnet.com/en/awaken-realms/82240-nemesis-20-5907222999073.html#ae447">Nemesis</a></h4>
          <p>En <strong><a href="https://boardgamegeek.com/boardgame/167355/nemesis">Nemesis</a></strong>
          de Adam Kwapiński y publicado por <strong>Awaken Realms</strong>, nos
          despertamos abruptamente de nuestra hibernación en un viaje
@@ -129,7 +129,7 @@ completas sobre los juegos del Top 100**.
         class="img-thumbnail" alt="El Banquete de Odín">
     </div>
     <div class="col-md-9">
-         <h4>21. <a href="https://www.philibertnet.com/en/zman-games/46018-a-feast-for-odin-681706716909.html#ae447-11">El Banquete de Odín</a></h4>
+         <h4>21. <a href="https://www.philibertnet.com/en/zman-games/46018-a-feast-for-odin-681706716909.html#ae447">El Banquete de Odín</a></h4>
          <p>En <strong><a href="https://boardgamegeek.com/boardgame/177736/feast-odin">El Banquete de Odín</a></strong>
          de Uwe Rosenberg y publicado por <strong>Feuerland Spiele</strong>
      (<strong>Devir</strong> en España), deberás asaltar y explorar nuevos
@@ -319,7 +319,7 @@ completas sobre los juegos del Top 100**.
         class="img-thumbnail" alt="Spirit Island">
     </div>
     <div class="col-md-9">
-         <h4>13. <a href="https://www.philibertnet.com/en/greater-than-games-llc/53139-spirit-island-core-game-798304339291.html#ae447-11">Spirit Island</a></h4>
+         <h4>13. <a href="https://www.philibertnet.com/en/greater-than-games-llc/53139-spirit-island-core-game-798304339291.html#ae447">Spirit Island</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/162886/spirit-island">Spirit Island</a></strong>
          de R. Eric Reuss y publicado por <strong>Greater Than Games</strong>
          (<strong>Arrakis Games</strong> en España), es un juego

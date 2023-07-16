@@ -117,7 +117,7 @@ conseguir poner algunos en mi granja, a partir de ahora para mí serán siempre
 cerdos ibéricos.
 
 
-### [Ark Nova](https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447-11)
+### [Ark Nova](https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447)
 
 <p align="center">
 <img height=""
@@ -141,7 +141,7 @@ Durante estos meses de noviembre y diciembre estoy jugando con los mapas que
 tiendo a jugar menos de cara a que tengáis una reseña antes de fin de año. Pero
 supongo que la valoración que le voy a dar no va a sorprender a nadie.
 
-### [Cascadia](https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447-11)
+### [Cascadia](https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__imagepage/img/0ksox22FKLq-Z-rsbBlF2IDG9x0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5100691.jpg"></p>
@@ -214,7 +214,7 @@ cumplir a la con el *objetivo de una misión*, y tenemos un límite de unos siet
 turnos. Los objetivos son variados, destruir o defender un objetivo, rescatar a
 alguien u obtener algo, destruir cierto número de enemigos etc.
 
-### [Wormholes](https://www.philibertnet.com/en/alderac/113449-wormholes-729220071293.html#ae447-11)
+### [Wormholes](https://www.philibertnet.com/en/alderac/113449-wormholes-729220071293.html#ae447)
 
 <p align="center">
 <img height=""

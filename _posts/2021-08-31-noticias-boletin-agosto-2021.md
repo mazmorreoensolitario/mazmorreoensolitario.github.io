@@ -558,7 +558,7 @@ compráis algo, utilicéis esos links.
 * **[Pathfinder Adventure Card Game: Core Set](https://amzn.to/2Nzfon1)**:
   **45€** (PVP: $59.99), inglés, Paizo (2019).
 * **[Space Empires
-  4X](https://www.philibertnet.com/en/science-fiction/98699-space-empires-4x-4th-printing-817054010066.html#ae447-11)**:
+  4X](https://www.philibertnet.com/en/science-fiction/98699-space-empires-4x-4th-printing-817054010066.html#ae447)**:
   **60€** (PVP: 75€), inglés, GMT Games (2017). En Philibert.
 * **[Peloponnesian
   War](https://www.philibertnet.com/en/gmt/78086-peloponnesian-war-817054011711.html)**:

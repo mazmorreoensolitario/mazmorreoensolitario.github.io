@@ -44,7 +44,7 @@ metido. Tendré que esperar a que el juego llegue a alguna tienda online o
 alguien lo venda de segunda mano porque me gustaría mucho poder jugarlo.
 
 
-#### [Advanced Squad Leader: Starter Kit #1](https://www.philibertnet.com/en/multi-man-publishing/30324-asl-starter-kit-1-2100000221967.html#ae447-11)
+#### [Advanced Squad Leader: Starter Kit #1](https://www.philibertnet.com/en/multi-man-publishing/30324-asl-starter-kit-1-2100000221967.html#ae447)
 
 <p align="center">
 <img height=""
@@ -145,7 +145,7 @@ uno de sus envíos por otro, quitar una de envíos, o un par de acciones más
 dinámicas. Realmente está muy bien hecho y espero con ganas que salga la
 expansión de este juego que vendría con el modo en solitario final.
 
-#### [Faiyum](https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447-11)
+#### [Faiyum](https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/sl0ReaWGqY1LQjNoGtCPWg__imagepage/img/M9hKi_flOtVxnYKQXRaEO0S196c=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5638086.jpg"></p>
@@ -194,7 +194,7 @@ de aventuras, la historia está ahí pero más que por la aventura o los toques 
 RPG lo bueno de este juego son todos los combates y los retos que te propone
 cada escenario. Gran juego.
 
-#### [High Frontier 4 All](https://www.philibertnet.com/en/ion-game-design/95490-high-frontier-4-all-6533410411660.html#ae447-11)
+#### [High Frontier 4 All](https://www.philibertnet.com/en/ion-game-design/95490-high-frontier-4-all-6533410411660.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/SjfNTsR84Ad--u5lo6HY-A__imagepage/img/ORRC9UVZ4s-iD5q0odrD0rLeps8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5316685.png"></p>

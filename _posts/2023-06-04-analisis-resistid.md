@@ -25,7 +25,7 @@ posguerra en la que juegas como maquis tratando de instaurar la democracia"
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2022</td></tr>
             <tr><td class="text-left"><strong>Precio:</strong></td><td
         class="text-left"><a
-    href="https://www.philibertnet.com/en/salt-pepper-games/114039-resist-8425402844991.html#ae447-11">25€</a></td></tr>
+    href="https://www.philibertnet.com/en/salt-pepper-games/114039-resist-8425402844991.html#ae447">25€</a></td></tr>
             <tr><td class="text-left"><strong>Número de
     jugadores:</strong></td><td class="text-left">1</td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td

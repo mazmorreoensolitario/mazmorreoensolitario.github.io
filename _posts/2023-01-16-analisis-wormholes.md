@@ -32,7 +32,7 @@ post_desc: "Wormholes es un juego con mecánicas de pick-up and deliver (recoger
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2022</td></tr>
             <tr><td class="text-left"><strong>Precio:</strong></td><td
         class="text-left"><a
-    href="https://www.philibertnet.com/en/alderac/113449-wormholes-729220071293.html#ae447-11">35€</a>
+    href="https://www.philibertnet.com/en/alderac/113449-wormholes-729220071293.html#ae447">35€</a>
     (en la SPIEL)</td></tr>
             <tr><td class="text-left"><strong>Número de
     jugadores:</strong></td><td class="text-left">1-5</td></tr>

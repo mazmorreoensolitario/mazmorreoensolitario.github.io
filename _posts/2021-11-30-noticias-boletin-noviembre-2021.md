@@ -506,7 +506,7 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
 * **[Excavación Tierra](https://zacatrus.es/excavation-earth.html#u97)**:
   **43€** (PVP: 54.95€), español, 2Tomatoes Games (2021).
 * **[Peloponnesian
-  War](https://www.philibertnet.com/en/gmt/78086-peloponnesian-war-817054011711.html#ae447-11)**:
+  War](https://www.philibertnet.com/en/gmt/78086-peloponnesian-war-817054011711.html#ae447)**:
   **60€** (PVP: 75€), inglés, GMT Games (2019). En Philibert.
 * **[Gloomhaven](https://amzn.to/3b3Dd2e)**: **119€** (PVP: 160€), inglés,
   Cephalofair Games (2017).

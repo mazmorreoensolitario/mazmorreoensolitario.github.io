@@ -49,7 +49,7 @@ capacidad de jugar mal cada una de las reglas. También salió el ya clásico
 
 Ahora volvemos al panorama solitario con mis partidas del mes:
 
-### [Cascadia](https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447-11)
+### [Cascadia](https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__imagepage/img/0ksox22FKLq-Z-rsbBlF2IDG9x0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5100691.jpg"></p>
@@ -65,7 +65,7 @@ especiales (los alces y halcones tienen que estar siempre adyacentes).
 Me he quemado un poco por eso, no os voy a mentir, llevo ya 11 partidas al
 escenario 13, así que igual descanso un poco y me pongo con el siguiente.
 
-### [Clinic: Deluxe Edition](https://www.philibertnet.com/en/9838-avstudiogames/s-3/languages-english#ae447-11)
+### [Clinic: Deluxe Edition](https://www.philibertnet.com/en/9838-avstudiogames/s-3/languages-english#ae447)
 
 <p align="center">
 <img src="https://cf.geekdo-images.com/iSPW4FWKZPiscVBbVgzJ0Q__imagepage/img/fJd2pRRRumlqfoXUGq8luLJKx24=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6625134.jpg">

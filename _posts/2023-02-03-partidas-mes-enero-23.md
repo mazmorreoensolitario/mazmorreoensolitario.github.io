@@ -83,7 +83,7 @@ a toda Europa —que tiempos— y a fecha de publicación de esta entrada parece
 el chollo de envío gratis se ha terminado, también han subido algo el precio,
 ahora cuesta 69€.
 
-### [Ark Nova](https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447-11)
+### [Ark Nova](https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447)
 
 <p align="center">
 <img height=""
@@ -111,7 +111,7 @@ para jugar a **Ark Nova** en solitario con un mapa concreto durante febrero,
 así que me voy a apuntar.
 Parece que la fiebre de **Ark Nova** aún no quiere decaer.
 
-### [Cascadia](https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447-11)
+### [Cascadia](https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__imagepage/img/0ksox22FKLq-Z-rsbBlF2IDG9x0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5100691.jpg"></p>
@@ -132,7 +132,7 @@ siguiente juego de esta serie de abstractos de **Flatout Games**,
 **[Verdant](https://boardgamegeek.com/boardgame/334065/verdant)**, que a España
 nos lo trae **Maldito Games**.
 
-### [Expansiópolis](https://www.philibertnet.com/en/quined-games/81304-sprawlopolis-8719327030554.html#ae447-11)
+### [Expansiópolis](https://www.philibertnet.com/en/quined-games/81304-sprawlopolis-8719327030554.html#ae447)
 
 <p align="center">
 <img height=""
@@ -222,7 +222,7 @@ minutos, es dentro del rango de lo que pone en la caja, pero me sorprende
 gratamente porque no me entero de que haya estado 45 minutos con el juego, es
 muy fluido y gratificante.
 
-### [Wormholes](https://www.philibertnet.com/en/alderac/113449-wormholes-729220071293.html#ae447-11)
+### [Wormholes](https://www.philibertnet.com/en/alderac/113449-wormholes-729220071293.html#ae447)
 
 <p align="center">
 <img height=""

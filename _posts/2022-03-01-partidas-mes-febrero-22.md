@@ -37,7 +37,7 @@ enero, concretamente he podido arreglar las fichas de **Next War: Korea**,
 que he jugado también durante este mes, y también las fichas de **Space
 Empires 4X**, que ha sido la novedad de este mes. No tenía ningún tipo de
 intención en comprarme nada, pero
-**[Philibert](https://www.philibertnet.com/en/#ae447-11)** regala al año un par
+**[Philibert](https://www.philibertnet.com/en/#ae447)** regala al año un par
 de vales de 10€ sin ningún tipo de razón aparente, pero que tienen un tiempo de
 uso limitado, así que me llegó uno y decidí aprovecharlo al ver que tenían
 stock de la última edición del juego. 56€ puesto en casa con envío incluido,
@@ -115,7 +115,7 @@ futuro y hacer que coincida con el bono de turno.
 
 Fue mi regalo del Olentzero en 2021, y gran compra.
 
-### [Next War: Korea, 2nd Edition](https://www.philibertnet.com/en/gmt/18971-next-war-korea-817054010189.html#ae447-11)
+### [Next War: Korea, 2nd Edition](https://www.philibertnet.com/en/gmt/18971-next-war-korea-817054010189.html#ae447)
 
 <p align="center">
 <img height=""
@@ -205,7 +205,7 @@ negrita, así que el uso de ese formato deja de tener sentido.
 Pero se le perdona porque es un juego muy relajado y que genera un buen
 ambiente, como que el verano parece estar más cerca.
 
-### [Space Empires: 4X](https://www.philibertnet.com/en/science-fiction/98699-space-empires-4x-4th-printing-817054010066.html#ae447-11)
+### [Space Empires: 4X](https://www.philibertnet.com/en/science-fiction/98699-space-empires-4x-4th-printing-817054010066.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/tMPL9ySUdJvhMc8qhIvHdQ__imagepage/img/SNbBMJgZObsVIJmQqL_1Y9w3PrQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6439163.jpg"></p>

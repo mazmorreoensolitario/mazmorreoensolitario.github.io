@@ -65,7 +65,7 @@ más abajo en las estadísticas.
         class="img-thumbnail" alt="Warp's Edge">
     </div>
     <div class="col-md-9">
-         <h4>49. <a href="https://www.philibertnet.com/en/renegade-game-studios/95734-warp-s-edge-3760243850998.html#ae447-11">Warp's Edge</a></h4>
+         <h4>49. <a href="https://www.philibertnet.com/en/renegade-game-studios/95734-warp-s-edge-3760243850998.html#ae447">Warp's Edge</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/296237/warps-edge">Warp's Edge</a></strong>
          de Scott Almes, y publicado por <strong>Renegade Game Studios</strong>.</p>
          <p>En <strong>Warp's Edge</strong> eres un piloto que tiene que luchar contra una flota espacial enemiga para tratar de volver a casa.</p>
@@ -143,7 +143,7 @@ más abajo en las estadísticas.
         class="img-thumbnail" alt="Onirim">
     </div>
     <div class="col-md-9">
-         <h4>45. <a href="https://www.philibertnet.com/en/zman-games/31959-onirim-second-edition-681706490007.html#ae447-11">Onirim</a></h4>
+         <h4>45. <a href="https://www.philibertnet.com/en/zman-games/31959-onirim-second-edition-681706490007.html#ae447">Onirim</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/156336/onirim-second-edition">Onirim</a></strong>
          de Shadi Torbey, y publicado por <strong>Z-Man Games</strong> (también
     en España).</p>
@@ -481,7 +481,7 @@ más abajo en las estadísticas.
         class="img-thumbnail" alt="Obsession">
     </div>
     <div class="col-md-9">
-         <h4>29. <a href="https://www.philibertnet.com/en/kayenta-games/96132-obsession-750958294968.html#ae447-11">Obsession</a></h4>
+         <h4>29. <a href="https://www.philibertnet.com/en/kayenta-games/96132-obsession-750958294968.html#ae447">Obsession</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/231733/obsession">Obsession</a></strong>
          de Dan Hallagan, y publicado por <strong>Kayenta Games</strong>.</p>
          <p><strong>Obsession</strong> es un juego ambientado en la época
@@ -749,7 +749,7 @@ más abajo en las estadísticas.
         class="img-thumbnail" alt="Nusfjord">
     </div>
     <div class="col-md-9">
-         <h4>17. <a href="https://www.philibertnet.com/en/mayfair-games/53527-nusfjord-4260402315959.html#ae447-11">Nusfjord</a></h4>
+         <h4>17. <a href="https://www.philibertnet.com/en/mayfair-games/53527-nusfjord-4260402315959.html#ae447">Nusfjord</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/234277/nusfjord">Nusfjord</a></strong>
          de Uwe Rosemberg, y publicado por <strong>Lookout Games</strong>
     (<strong>SD Games</strong> en España).</p>

@@ -142,7 +142,7 @@ algún capricho caro en 2020 elegiré entre estos:
         class="img-thumbnail" alt="The Dark Valley Deluxe Edition">
     </div>
     <div class="col-md-9">
-        <p><strong>7. <a href="https://www.philibertnet.com/en/gmt/26863-the-dark-valley-817054010462.html#ae447-11">The Dark Valley Deluxe Edition</a></strong></p>
+        <p><strong>7. <a href="https://www.philibertnet.com/en/gmt/26863-the-dark-valley-817054010462.html#ae447">The Dark Valley Deluxe Edition</a></strong></p>
          <p>Esta es la edición con mapas de cartón, fichas más gruesas y reglas
          mejoradas de <a
          href="https://boardgamegeek.com/boardgame/66855/dark-valley"><strong>The Dark
@@ -209,7 +209,7 @@ algún capricho caro en 2020 elegiré entre estos:
         class="img-thumbnail" alt="Posthuman Saga">
     </div>
     <div class="col-md-9">
-        <p><strong>5. <a href="https://www.philibertnet.com/en/mighty-boards/85101-posthuman-saga-732068834159.html#ae447-11">Posthuman Saga</a></strong></p>
+        <p><strong>5. <a href="https://www.philibertnet.com/en/mighty-boards/85101-posthuman-saga-732068834159.html#ae447">Posthuman Saga</a></strong></p>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/244820/posthuman-saga">Posthuman
          Saga</a></strong> es un juego temático ambientado en un futuro en el

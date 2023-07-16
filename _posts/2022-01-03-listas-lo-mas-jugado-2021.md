@@ -103,7 +103,7 @@ En novena posición se encuentran empatados **Spirit Island** y  **World at War
         class="img-thumbnail" alt="World at War 85: Storming the Gap">
     </div>
     <div class="col-md-9">
-        <h4><strong>9. <a href="https://www.philibertnet.com/en/world-at-war-85/98511-world-at-war-85-storming-the-gap-639302314241.html#ae447-11">World at War 85: Storming the Gap</a></strong></h4>
+        <h4><strong>9. <a href="https://www.philibertnet.com/en/world-at-war-85/98511-world-at-war-85-storming-the-gap-639302314241.html#ae447">World at War 85: Storming the Gap</a></strong></h4>
         <p><i>6h, 3 partidas</i></p>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/209877/world-war-85-storming-gap">World
@@ -231,7 +231,7 @@ En novena posición se encuentran empatados **Spirit Island** y  **World at War
         class="img-thumbnail" alt="Next War: Korea">
     </div>
     <div class="col-md-9">
-        <h4><strong>5. <a href="https://www.philibertnet.com/en/gmt/18971-next-war-korea-817054010189.html#ae447-11">Next War: Korea</a></strong></h4>
+        <h4><strong>5. <a href="https://www.philibertnet.com/en/gmt/18971-next-war-korea-817054010189.html#ae447">Next War: Korea</a></strong></h4>
         <p><i>10h, 2 partidas</i></p>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/69130/next-war-korea">Next War:
@@ -320,7 +320,7 @@ En novena posición se encuentran empatados **Spirit Island** y  **World at War
         class="img-thumbnail" alt="Faiyum">
     </div>
     <div class="col-md-9">
-        <h4><strong>2. <a href="https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447-11">Faiyum/Fayún</a></strong></h4>
+        <h4><strong>2. <a href="https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447">Faiyum/Fayún</a></strong></h4>
         <p><i>22h, 10 partidas</i></p>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/318983/faiyum">Faiyum</a></strong>

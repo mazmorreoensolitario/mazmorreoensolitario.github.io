@@ -149,7 +149,7 @@ pero de momento no ha habido ninguna noticia de cuándo irá a imprenta la
 expansión. Para mí no corre prisa, pero me haría ilusión que saliera ya
 finalmente.
 
-### [Dungeon Degenerates](https://www.philibertnet.com/en/goblinko/84782-dungeon-degenerates-hand-of-doom-2100000668809.html#ae447-11)
+### [Dungeon Degenerates](https://www.philibertnet.com/en/goblinko/84782-dungeon-degenerates-hand-of-doom-2100000668809.html#ae447)
 
 <p align="center">
 <img heigh=""
@@ -177,7 +177,7 @@ Es un juego de aventuras majo, con mecánicas divertidas, ilustraciones canallas
 y un tema muy poco visto, pero en mi opinión pierde bastante por el aspecto de
 cuánto cuesta guardar y sacar el juego a la mesa.
 
-### [Faiyum / Fayún](https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447-11)
+### [Faiyum / Fayún](https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/sl0ReaWGqY1LQjNoGtCPWg__imagepage/img/M9hKi_flOtVxnYKQXRaEO0S196c=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5638086.jpg"></p>

@@ -90,7 +90,7 @@ Venus](https://boardgamegeek.com/boardgame/256916/concordia-venus) que añade un
 que editará esta expansión en nuestro idioma.
 
 Si queréis esta expansión ya, tenéis un preorder en
-[Philibert](https://www.philibertnet.com/en/pd-games/102414-concordia-solitaria-4260754850016.html#ae447-11)
+[Philibert](https://www.philibertnet.com/en/pd-games/102414-concordia-solitaria-4260754850016.html#ae447)
 que llega en la primera quincena de noviembre.
 
 <p align="center">
@@ -504,7 +504,7 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
 * **[Black Angel](https://zacatrus.es/black-angel.html#u97):** **50€** (PVP:
   70€), español, Maldito Games (2020).
 * **[Peloponnesian
-  War](https://www.philibertnet.com/en/gmt/78086-peloponnesian-war-817054011711.html#ae447-11)**:
+  War](https://www.philibertnet.com/en/gmt/78086-peloponnesian-war-817054011711.html#ae447)**:
   **60€** (PVP: 75€), inglés, GMT Games (2019). En Philibert.
 * **[Aeon's End: Legacy](https://amzn.to/3kYZYJq)**: **63€** (PVP: 84.95€),
   inglés. Indie Boards & Cards (2019).

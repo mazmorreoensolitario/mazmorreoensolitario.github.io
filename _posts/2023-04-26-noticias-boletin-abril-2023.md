@@ -332,32 +332,32 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
 * **[Undaunted: North Africa](https://amzn.to/3N7xThp):** **27€** (PVP: 35€),
   inglés, Osprey Games (2020).
 * **[ASL Starter Kit
-  1](https://www.philibertnet.com/en/multi-man-publishing/30324-asl-starter-kit-1-2100000221967.html#ae447-11)**:
+  1](https://www.philibertnet.com/en/multi-man-publishing/30324-asl-starter-kit-1-2100000221967.html#ae447)**:
   **31€**, inglés, MMP (2004).
 * **[ASL Starter Kit
-  2 Guns](https://www.philibertnet.com/en/multi-man-publishing/9646-asl---starter-kit-2-guns---2100000273768.html#ae447-11)**:
+  2 Guns](https://www.philibertnet.com/en/multi-man-publishing/9646-asl---starter-kit-2-guns---2100000273768.html#ae447)**:
   **35€**, inglés, MMP (2005).
 * **[Arkham Horror: Hora Final](https://amzn.to/3w75ZpQ):** **32€** (PVP:
   39.95€), español, Fantasy Flight Games (2019).
 * **[Salerno
-  '43](https://www.philibertnet.com/en/western-front/107545-salerno-43-2100000826421.html#ae447-11)**:
+  '43](https://www.philibertnet.com/en/western-front/107545-salerno-43-2100000826421.html#ae447)**:
   **40€** (PVP: 45€), inglés, GMT Games (2022).
 * **[Boonlake](https://zacatrus.es/boonlake.html#u97)**: **41€** (PVP: 54€),
   español, Arrakis Games (2021). 
 * **[Gólem](https://zacatrus.es/golem.html#u97)**: **46€** (PVP: 60€), español,
   Maldito Games (2022).
 * **[Normandy
-  '44](https://www.philibertnet.com/en/gmt/35467-normandy-44-817054010882.html#ae447-11)**:
+  '44](https://www.philibertnet.com/en/gmt/35467-normandy-44-817054010882.html#ae447)**:
   **50€** (PVP: 55€), inglés, GMT Games (2021, tercera reimpresión).
 * **[Gloomhaven: Fauces del León](https://amzn.to/3VfV4bL)**: **50€** (PVP:
   70€), español, Cephalofair Games (2022).
 * **[Agrícola (Edición revisada)](https://amzn.to/3H7o9jJ)**: **50€** (PVP:
   55€), Lookout Games (2021).
 * **[The Last Hundred Yards Volume 3: The Solomon
-  Islands](https://www.philibertnet.com/en/gmt/106042-the-last-hundred-yards-volume-3-the-solomon-islands-2100000816262.html#ae447-11)**:
+  Islands](https://www.philibertnet.com/en/gmt/106042-the-last-hundred-yards-volume-3-the-solomon-islands-2100000816262.html#ae447)**:
   **53€** (PVP: 55€), GMT Games (2022).
 * **[Plains Indian
-  War](https://www.philibertnet.com/en/19th-century/107539-plains-indian-war-2100000826407.html#ae447-11)**:
+  War](https://www.philibertnet.com/en/19th-century/107539-plains-indian-war-2100000826407.html#ae447)**:
   **60€** (PVP: 65€), GMT Games (2022).
 * **[Marvel Champions: El Juego de Cartas](https://amzn.to/40sXtAx)**: **60€**
   (PVP: 70€), español, Fantasy Flight Games (2019).

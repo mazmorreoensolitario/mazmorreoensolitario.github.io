@@ -457,7 +457,7 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
 * **[Last Aurora](https://zacatrus.es/last-aurora.html#u97)**: **28€** (PVP:
   40€), español, Gen X Games (2020).
 * **[ASL Starter Kit
-  1](https://www.philibertnet.com/en/multi-man-publishing/30324-asl-starter-kit-1-2100000221967.html#ae447-11)**:
+  1](https://www.philibertnet.com/en/multi-man-publishing/30324-asl-starter-kit-1-2100000221967.html#ae447)**:
   **31€**, inglés, MMP, 2004.
 * **[Los Castillos de Borgoña](https://amzn.to/3y7ddvf)**: **35€** (PVP: 45€),
   español, Alea (2019).
@@ -470,23 +470,23 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
 * **[Merv: The Heart of the Silk Road](https://amzn.to/3oxiiId)**: **38€**
 (PVP: £50), inglés, Osprey Games (2020).
 * **[The Dark Summer: Normandy
-  1944](https://www.philibertnet.com/en/western-front/106493-the-dark-summer-normandy-1944-817054012107.html#ae447-11)**:
+  1944](https://www.philibertnet.com/en/western-front/106493-the-dark-summer-normandy-1944-817054012107.html#ae447)**:
   **40€** (PVP: 55€), inglés, GMT Games (2021).
 * **[Salerno
-  '43](https://www.philibertnet.com/en/western-front/107545-salerno-43-2100000826421.html#ae447-11)**:
+  '43](https://www.philibertnet.com/en/western-front/107545-salerno-43-2100000826421.html#ae447)**:
   **40€** (PVP: 45€), inglés, GMT Games (2022).
 * **[Fayún/Faiyum](https://zacatrus.es/catalog/product/view/id/20270#u97)**: **44€** (PVP: 55€),
   español, Asmodee (2022).
 * **[Normandy
-  '44](https://www.philibertnet.com/en/gmt/35467-normandy-44-817054010882.html#ae447-11)**:
+  '44](https://www.philibertnet.com/en/gmt/35467-normandy-44-817054010882.html#ae447)**:
   **50€** (PVP: 55€), inglés, GMT Games (2021, tercera reimpresión).
 * **[The Last Hundred Yards Volume 3: The Solomon
-  Islands](https://www.philibertnet.com/en/gmt/106042-the-last-hundred-yards-volume-3-the-solomon-islands-2100000816262.html#ae447-11)**:
+  Islands](https://www.philibertnet.com/en/gmt/106042-the-last-hundred-yards-volume-3-the-solomon-islands-2100000816262.html#ae447)**:
   **53€** (PVP: 55€), GMT Games (2022).
 * **[Fábulas de Peluche](https://amzn.to/37nyXYx)**: **60€** (PVP: 69.95€),
   español, Edge Entertainment (2018).
 * **[Plains Indian
-  War](https://www.philibertnet.com/en/19th-century/107539-plains-indian-war-2100000826407.html#ae447-11)**:
+  War](https://www.philibertnet.com/en/19th-century/107539-plains-indian-war-2100000826407.html#ae447)**:
   **60€** (PVP: 65€), GMT Games (2022).
 * **[El Señor de los Anillos: Viajes por la Tierra Media](https://zacatrus.es/el-se-or-de-los-anillos-viajes-por-la-tierra-media.html#u97)**: **91€** (PVP:
   110€), español, Fantasy Flight Games (2019).

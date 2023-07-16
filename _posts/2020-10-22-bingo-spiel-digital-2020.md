@@ -43,7 +43,7 @@ par de ellos antes de que termine el año:
         class="img-thumbnail" alt="Faiyum">
     </div>
     <div class="col-md-9">
-         <h4>1. <a href="https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447-11">Faiyum</a></h4>
+         <h4>1. <a href="https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447">Faiyum</a></h4>
          <p>En <strong><a
     href="https://boardgamegeek.com/boardgame/318983/faiyum">Faiyum</a></strong>
         de <strong>Friedemann Friese</strong>, publicado por
@@ -83,7 +83,7 @@ par de ellos antes de que termine el año:
         class="img-thumbnail" alt="Curious Cargo">
     </div>
     <div class="col-md-9">
-         <h4>2. <a href="https://www.philibertnet.com/en/capstone-hk-ltd/91290-curious-cargo-850000576148.html#ae447-11">Curious Cargo</a></h4>
+         <h4>2. <a href="https://www.philibertnet.com/en/capstone-hk-ltd/91290-curious-cargo-850000576148.html#ae447">Curious Cargo</a></h4>
          <p>En <strong><a
          href="https://boardgamegeek.com/boardgame/312251/curious-cargo">Curious Cargo</a></strong>
         de <strong>Ryan Courtney</strong> y publicado por <strong>Capstone
@@ -132,7 +132,7 @@ par de ellos antes de que termine el año:
         class="img-thumbnail" alt="CloudAge">
     </div>
     <div class="col-md-9">
-         <h4>3. <a href="https://www.philibertnet.com/en/dlp-games/90516-cloudage-9120111440029.html#ae447-11">CloudAge</a></h4>
+         <h4>3. <a href="https://www.philibertnet.com/en/dlp-games/90516-cloudage-9120111440029.html#ae447">CloudAge</a></h4>
          <p>En <strong><a
          href="https://boardgamegeek.com/boardgame/316858/cloudage">CloudAge</a></strong>
         de <strong>Alexander Pfister</strong> y <strong>Arno
@@ -237,7 +237,7 @@ entran en mi Top 4 por diversas razones.
         class="img-thumbnail" alt="">
     </div>
     <div class="col-md-9">
-         <h4><a href="https://www.philibertnet.com/en/czech-games-edition/90530-under-falling-skies-2100000712496.html#ae447-11">Under Falling Skies</a></h4>
+         <h4><a href="https://www.philibertnet.com/en/czech-games-edition/90530-under-falling-skies-2100000712496.html#ae447">Under Falling Skies</a></h4>
          <p>En <strong><a
     href="https://boardgamegeek.com/boardgame/306735/under-falling-skies">Under
     Falling Skies</a></strong>  la humanidad ha sido obligada a resguardarse

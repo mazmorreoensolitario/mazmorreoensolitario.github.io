@@ -204,7 +204,7 @@ src="https://cf.geekdo-images.com/nu-DueZCj6DIAvPgSME3mw__imagepage/img/FPFnsi-m
 
 Durante octubre han seguido mis partidas con las reglas standard de **[Next
 War:
-Korea](https://www.philibertnet.com/en/gmt/18971-next-war-korea-817054010189.html#ae447-11)**,
+Korea](https://www.philibertnet.com/en/gmt/18971-next-war-korea-817054010189.html#ae447)**,
 que entró como novedad en agosto. Me está gustando mucho el sistema, se siente
 más variable que otros juegos que he probado y aunque parezca una tontería,
 aprecio que los hexágonos sean un pelín más grandes de lo normal. 

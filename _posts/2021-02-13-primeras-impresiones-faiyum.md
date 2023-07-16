@@ -30,7 +30,7 @@ desarrollamos la región egipcia de Faiyum para conseguir el favor del faraón"
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2020</td></tr>
             <tr><td class="text-left"><strong>Precio:</strong></td><td
         class="text-left"><a
-    href="https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447-11">49.95€</a>
+    href="https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447">49.95€</a>
     (inglés)</td></tr>
     <tr><td class="text-left"><strong>Precio:</strong></td><td
     class="text-left"><a href="https://zacatrus.es/fayun.html#u97">55€</a> (español)</td></tr>

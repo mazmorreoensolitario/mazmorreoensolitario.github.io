@@ -61,7 +61,7 @@ Ahora paso a hablaros de mis partidas en solitario:
 <img height="" src="https://cf.geekdo-images.com/RA8mln_pt3TUeoPCckvCYQ__imagepage/img/5gMSTdtn-oOPfnIYQ-UpfQrXrXI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4095180.jpg"></p>
 
 **[Bios:
-Megafauna](https://www.philibertnet.com/en/sierra-madre-games/53867-bios-megafauna-6533410401692.html#ae447-11)**
+Megafauna](https://www.philibertnet.com/en/sierra-madre-games/53867-bios-megafauna-6533410401692.html#ae447)**
 llevaba sin salir a la mesa desde mis vacaciones de 2019 en septiembre/octubre,
 y ha salido con muchísimas ganas. He tenido que repasar reglas pero ha sido
 menos doloroso de lo que yo pensaba, aunque a media partida me di cuenta de que
@@ -114,7 +114,7 @@ sensato pensar que puede que tarde algo más.
 En mi **Mazmo solo-con** [de
 octubre]({{site.baseurl}}/2021/11/08/partidas-mes-octubre-21/) (celebrando 3
 años del blog) había
-planificado jugar a **[Faiyum](https://www.philibertnet.com/en/2f-spiaele/90517-faiyum-4260300450585.html#ae447-11)**
+planificado jugar a **[Faiyum](https://www.philibertnet.com/en/2f-spiaele/90517-faiyum-4260300450585.html#ae447)**
 (primeras impresiones
 [aquí]({{site.baseurl}}/2021/02/13/primeras-impresiones-faiyum/)), pero al
 final no me dio tiempo. Así que me quedé con ganas, y me propuse sacarlo en

@@ -54,7 +54,7 @@ hubiese encantado probar**, junto con algunos mis comentarios:
         class="img-thumbnail" alt="Stellar Horizons">
     </div>
     <div class="col-md-9">
-        <h4><strong>10. <a href="https://www.philibertnet.com/en/compass-games/88502-stellar-horizons-2100000697823.html#ae447-11">Stellar Horizons</a></strong></h4>
+        <h4><strong>10. <a href="https://www.philibertnet.com/en/compass-games/88502-stellar-horizons-2100000697823.html#ae447">Stellar Horizons</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/217990/stellar-horizons">Stellar
     Horizons</a></strong> de <strong>Andrew Rader</strong> y publicado por
@@ -183,7 +183,7 @@ interesantes de entonces:
         class="img-thumbnail" alt="Praga Caput Regni">
     </div>
     <div class="col-md-9">
-        <h4><strong>7. <a href="https://www.philibertnet.com/en/delicious-games/90064-prage-caput-regni-8594195080098.html#ae447-11">Praga Caput Regni</a></strong></h4>
+        <h4><strong>7. <a href="https://www.philibertnet.com/en/delicious-games/90064-prage-caput-regni-8594195080098.html#ae447">Praga Caput Regni</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/308765/praga-caput-regni">Praga
     Caput Regni</a></strong> de <strong>Vladimír Suchý</strong> y publicado por
@@ -269,7 +269,7 @@ interesantes de entonces:
         class="img-thumbnail" alt="CloudAge">
     </div>
     <div class="col-md-9">
-        <h4><strong>5. <a href="https://www.philibertnet.com/en/dlp-games/90516-cloudage-9120111440029.html#ae447-11">CloudAge</a></strong></h4>
+        <h4><strong>5. <a href="https://www.philibertnet.com/en/dlp-games/90516-cloudage-9120111440029.html#ae447">CloudAge</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/316858/cloudage">CloudAge</a></strong>
     de <strong>Alexander Pfister y Arno Steinwender</strong> y publicado por
@@ -474,7 +474,7 @@ En primera posición, mi juego más deseado de este año es...
         class="img-thumbnail" alt="Faiyum">
     </div>
     <div class="col-md-9">
-        <h4><strong>1. <a href="https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447-11">Faiyum</a></strong></h4>
+        <h4><strong>1. <a href="https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447">Faiyum</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/318983/faiyum">Faiyum</a></strong>
     de <strong>Friedemann Friese</strong> y publicado por su editorial,

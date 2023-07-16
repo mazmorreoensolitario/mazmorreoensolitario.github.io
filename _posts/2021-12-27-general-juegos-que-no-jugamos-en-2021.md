@@ -123,7 +123,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
         class="img-thumbnail" alt="Messina 1347">
     </div>
     <div class="col-md-9">
-        <h4><strong>8. <a href="https://www.philibertnet.com/en/delicious-games/105440-messina-1347-8594195080128.html#ae447-11">Messina 1347</a></strong></h4>
+        <h4><strong>8. <a href="https://www.philibertnet.com/en/delicious-games/105440-messina-1347-8594195080128.html#ae447">Messina 1347</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/238799/messina-1347">Messina
     1347</a></strong> de <strong>Vladimír Suchý</strong> y <strong>Raúl
@@ -194,7 +194,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
         class="img-thumbnail" alt="SpaceCorp: Ventures">
     </div>
     <div class="col-md-9">
-        <h4><strong>6. <a href="https://www.philibertnet.com/en/gmt/73512-spacecorp-817054011599.html#ae447-11">SpaceCorp: Ventures</a></strong></h4>
+        <h4><strong>6. <a href="https://www.philibertnet.com/en/gmt/73512-spacecorp-817054011599.html#ae447">SpaceCorp: Ventures</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/292670/spacecorp-ventures">SpaceCorp:
     Ventures</a></strong> de <strong>John H. Butterfield</strong> y publicado
@@ -223,7 +223,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
         class="img-thumbnail" alt="Corrosion">
     </div>
     <div class="col-md-9">
-        <h4><strong>5. <a href="https://www.philibertnet.com/en/deep-print-games/104880-corrosion-4250231730375.html#ae447-11">Corrosion</a></strong></h4>
+        <h4><strong>5. <a href="https://www.philibertnet.com/en/deep-print-games/104880-corrosion-4250231730375.html#ae447">Corrosion</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/344277/corrosion">Corrosion</a></strong>
     de <strong>Stefan Bauer</strong> y publicado por <strong>Deep Print
@@ -298,7 +298,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
         class="img-thumbnail" alt="The Last Hundred Yards: Airborne Over Europe">
     </div>
     <div class="col-md-9">
-        <h4><strong>3. <a href="https://www.philibertnet.com/en/western-front/97521-the-last-hundred-yards-volume-2-airborne-over-europe-817054012077.html#ae447-11">The Last Hundred Yards: Airborne Over Europe</a></strong></h4>
+        <h4><strong>3. <a href="https://www.philibertnet.com/en/western-front/97521-the-last-hundred-yards-volume-2-airborne-over-europe-817054012077.html#ae447">The Last Hundred Yards: Airborne Over Europe</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/287783/last-hundred-yards-volume-2-airborne-over-europe">The
     Last Hundred Yards: Airborne Over Europe</a></strong> de <strong>Mike
@@ -367,7 +367,7 @@ Ahora pasamos a mi **top de juegos del 2021 que me he quedado sin probar:**
         class="img-thumbnail" alt="Ark Nova">
     </div>
     <div class="col-md-9">
-        <h4><strong>1. <a href="https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447-11">Ark Nova</a></strong></h4>
+        <h4><strong>1. <a href="https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447">Ark Nova</a></strong></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/342942/ark-nova">Ark
     Nova</a></strong> de <strong>Mathias Wigge</strong> y publicado por

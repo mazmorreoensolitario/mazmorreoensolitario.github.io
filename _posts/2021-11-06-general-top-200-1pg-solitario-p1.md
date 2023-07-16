@@ -119,7 +119,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Nautilion">
     </div>
     <div class="col-md-9">
-         <h4>197. <a href="https://www.philibertnet.com/en/zman-games/82971-nautilion-681706490038.html#ae447-11">Nautilion</a></h4>
+         <h4>197. <a href="https://www.philibertnet.com/en/zman-games/82971-nautilion-681706490038.html#ae447">Nautilion</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/206084/nautilion">Nautilion</a></strong>
          de Shadi Torbey; publicado por <strong>Z-Man Games</strong>.</p>
          <p><strong>Nautilion</strong> es el quinto juego dentro del <a
@@ -141,7 +141,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Shadows of Brimstone">
     </div>
     <div class="col-md-9">
-         <h4>196. <a href="https://www.philibertnet.com/en/boites-de-base-et-extensions/70885-shadows-of-brimstone-forbidden-fortress-9781941816424.html#ae447-11">Shadows of Brimstone</a></h4>
+         <h4>196. <a href="https://www.philibertnet.com/en/boites-de-base-et-extensions/70885-shadows-of-brimstone-forbidden-fortress-9781941816424.html#ae447">Shadows of Brimstone</a></h4>
          <p>En esta posición se agrupan todos los juegos de la gama de
     <strong><a
     href="https://boardgamegeek.com/boardgamefamily/25738/game-shadows-brimstone">Shadows
@@ -326,7 +326,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Legacy of Dragonholt">
     </div>
     <div class="col-md-9">
-         <h4>188. <a href="https://www.philibertnet.com/en/fantasy-flight-games/55881-legacy-of-dragonholt-841333104085.html#ae447-11">Legacy of Dragonholt</a></h4>
+         <h4>188. <a href="https://www.philibertnet.com/en/fantasy-flight-games/55881-legacy-of-dragonholt-841333104085.html#ae447">Legacy of Dragonholt</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/234669/legacy-dragonholt">Legacy of Dragonholt</a></strong>
          de Nikki Valens; publicado por <strong>Fantasy Flight Games</strong>.</p>
          <p><strong>Legacy of Dragonholt</strong> es un híbrido de juego de rol
@@ -346,7 +346,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
     </div>
     <div class="col-md-9">
          <h4>187. <a href="https://www.philibertnet.com/en/renegade-game-studios/39898-fuse-859930005049.html">FUSE</a></h4>
-         <p><strong><a href="https://boardgamegeek.com/boardgame/171273/fuse#ae447-11">FUSE</a></strong>
+         <p><strong><a href="https://boardgamegeek.com/boardgame/171273/fuse#ae447">FUSE</a></strong>
          de Kane Klenko; publicado por <strong>Renegade Game Studios</strong>.</p>
          <p><strong>FUSE</strong> es un juego cooperativo que se juega con
     tiempo real en el que hay que tratar de desarmar una bomba utilizando una
@@ -404,7 +404,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Labyrinth: The War on Terror, 2001 – ?">
     </div>
     <div class="col-md-9">
-         <h4>184. <a href="https://www.philibertnet.com/en/gmt/43475-labyrinth-the-war-on-terror-2016-817054010011.html#ae447-11">Labyrinth: The War on Terror, 2001 – ?</a></h4>
+         <h4>184. <a href="https://www.philibertnet.com/en/gmt/43475-labyrinth-the-war-on-terror-2016-817054010011.html#ae447">Labyrinth: The War on Terror, 2001 – ?</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/62227/labyrinth-war-terror-2001">Labyrinth: The War on Terror, 2001 – ?</a></strong>
          de Volko Ruhnke; publicado por <strong>GMT Games</strong>.</p>
          <p><strong>Labyrinth: The War on Terror, 2001 – ?</strong> es un
@@ -468,7 +468,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Jump Drive">
     </div>
     <div class="col-md-9">
-         <h4>181. <a href="https://www.philibertnet.com/en/rio-grande/48390-jump-drive-655132005371.html#ae447-11">Jump Drive</a></h4>
+         <h4>181. <a href="https://www.philibertnet.com/en/rio-grande/48390-jump-drive-655132005371.html#ae447">Jump Drive</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/205597/jump-drive">Jump Drive</a></strong>
          de Thomas Lehmann; publicado por <strong>Rio Grande Games</strong>.</p>
          <p><strong>Jump Drive</strong> es un juego de cartas dentro del
@@ -548,7 +548,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Mini Rogue">
     </div>
     <div class="col-md-9">
-         <h4>177. <a href="https://www.philibertnet.com/en/nuts-publishing/99567-mini-rogue-3770009354530.html#ae447-11">Mini Rogue</a></h4>
+         <h4>177. <a href="https://www.philibertnet.com/en/nuts-publishing/99567-mini-rogue-3770009354530.html#ae447">Mini Rogue</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/311715/mini-rogue">Mini Rogue</a></strong>
          de Paolo Di Stefano y Gabriel Gendron; publicado por <strong>Nuts! Publishing</strong>.</p>
          <p>En <strong>Mini Rogue</strong> controlamos a uno o dos aventureros
@@ -691,7 +691,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="High Frontier 4 All">
     </div>
     <div class="col-md-9">
-         <h4>171. <a href="https://www.philibertnet.com/en/ion-game-design/95490-high-frontier-4-all-6533410411660.html#ae447-11">High Frontier 4 All</a></h4>
+         <h4>171. <a href="https://www.philibertnet.com/en/ion-game-design/95490-high-frontier-4-all-6533410411660.html#ae447">High Frontier 4 All</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/281655/high-frontier-4-all">High Frontier 4 All</a></strong>
          de Phil Eklund; publicado por <strong>Ion Game Design</strong> y
     <strong>Sierra Madre Games</strong> (<strong>Masqueoca</strong> en
@@ -810,7 +810,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="The City Of Kings">
     </div>
     <div class="col-md-9">
-         <h4>166. <a href="https://www.philibertnet.com/en/the-city-of-games/74736-city-of-kings-019962801211.html#ae447-11">The City Of Kings</a></h4>
+         <h4>166. <a href="https://www.philibertnet.com/en/the-city-of-games/74736-city-of-kings-019962801211.html#ae447">The City Of Kings</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/207243/city-kings">The City Of Kings</a></strong>
          de Frank West; publicado por <strong>The City of Games</strong>.</p>
          <p><strong>The City Of Kings</strong> es un juego cooperativo muy
@@ -1025,7 +1025,7 @@ Allá vamos con los primeros (últimos) cincuenta juegos:
         class="img-thumbnail" alt="Super-Skill Pinball: 4-Cade">
     </div>
     <div class="col-md-9">
-         <h4>156. <a href="https://www.philibertnet.com/en/wizkids/102509-super-skill-pinball-4-cade-634482875209.html#ae447-11">Super-Skill Pinball: 4-Cade</a></h4>
+         <h4>156. <a href="https://www.philibertnet.com/en/wizkids/102509-super-skill-pinball-4-cade-634482875209.html#ae447">Super-Skill Pinball: 4-Cade</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/302524/super-skill-pinball-4-cade">Super-Skill Pinball: 4-Cade</a></strong>
          de Geoff Engelstein; publicado por <strong>WizKids</strong>.</p>
          <p><strong>Super-Skill Pinball: 4-Cade</strong> es un juego tipo roll

@@ -252,7 +252,7 @@ de Bobby Hill, y publicado por <strong>Garphill Games</strong> (por
         class="img-thumbnail" alt="Mind MGMT: The Psychic Espionage “Game.”">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/off-the-page-games/107222-mind-mgmt-the-psychic-espionage-game-093674636101.html#ae447-11">Mind MGMT: The Psychic Espionage “Game.”</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/off-the-page-games/107222-mind-mgmt-the-psychic-espionage-game-093674636101.html#ae447">Mind MGMT: The Psychic Espionage “Game.”</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/284653/mind-mgmt-psychic-espionage-game">Mind
     MGMT: The Psychic Espionage “Game.”</a></strong> 
@@ -275,7 +275,7 @@ de Jay Cormier y Sen-Foong Lim, y publicado por <strong>Off the Page
     </div>
     <div class="col-md-9">
         <h4><a
-    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping
+    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447">Sleeping
     Gods</a></h4>
     <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
@@ -454,7 +454,7 @@ de Kamil 'Sanex' Cieśla, Robert Plesowicz y Łukasz Włodarczyk, y publicado po
         class="img-thumbnail" alt="Imperial Steam">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/capstone-hk-ltd/103625-imperial-steam-850000576292.html#ae447-11">Imperial Steam</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/capstone-hk-ltd/103625-imperial-steam-850000576292.html#ae447">Imperial Steam</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/338760/imperial-steam">Imperial Steam</a></strong>
 de Alexander Huemer, y publicado por <strong>Capstone Games</strong>
@@ -519,7 +519,7 @@ de Nigel Buckle y Dávid Turczi, y publicado por <strong>Osprey Games</strong>
     </div>
     <div class="col-md-9">
         <h4><a
-    href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447-11">Oath:
+    href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447">Oath:
     Chronicles of Empire and Exile</a></h4>
     <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
@@ -633,7 +633,7 @@ de Mac Gerdts, y publicado por <strong>PD-Verlag</strong>, es una expansión que
     </div>
     <div class="col-md-9">
         <h4><a
-    href="https://www.philibertnet.com/en/van-ryder-games/106473-final-girl-core-box-850024976016.html#ae447-11">Final
+    href="https://www.philibertnet.com/en/van-ryder-games/106473-final-girl-core-box-850024976016.html#ae447">Final
     Girl</a></h4>
     <div class="alert alert-warning" role="alert">
             <strong>¡Mejor juego en solitario del año!</strong></div>
@@ -696,7 +696,7 @@ de Mac Gerdts, y publicado por <strong>PD-Verlag</strong>, es una expansión que
     </div>
     <div class="col-md-9">
         <h4><a
-    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping
+    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447">Sleeping
     Gods</a></h4>
     <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
@@ -712,7 +712,7 @@ de Mac Gerdts, y publicado por <strong>PD-Verlag</strong>, es una expansión que
         class="img-thumbnail" alt="Soldiers in Postmen's Uniforms">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/dan-verssen-games/105273-soldiers-in-postmen-s-uniform-810003562609.html#ae447-11">Soldiers in Postmen's Uniforms</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/dan-verssen-games/105273-soldiers-in-postmen-s-uniform-810003562609.html#ae447">Soldiers in Postmen's Uniforms</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/318353/soldiers-postmens-uniforms">Soldiers in Postmen's Uniforms</a></strong>
 de David Thompson, y publicado por <strong>Dan Versen Games</strong>, es un wargame en el que jugamos como los
@@ -754,7 +754,7 @@ de David Thompson, y publicado por <strong>Dan Versen Games</strong>, es un warg
         class="img-thumbnail" alt="Absolute War! The Russian Front 1941-45">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/eastern-front/99243-absolute-war-817054012121.html#ae447-11">Absolute War! The Russian Front 1941-45</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/eastern-front/99243-absolute-war-817054012121.html#ae447">Absolute War! The Russian Front 1941-45</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/193727/absolute-war-russian-front-1941-45">Absolute War! The Russian Front 1941-45</a></strong>
     de Carl Paradis, y publicado por <strong>GMT Games</strong>, es un juego
@@ -800,7 +800,7 @@ de David Thompson, y publicado por <strong>Dan Versen Games</strong>, es un warg
         class="img-thumbnail" alt="The Dark Summer: Normandy 1944">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/western-front/106493-the-dark-summer-normandy-1944-817054012107.html#ae447-11">The Dark Summer: Normandy 1944</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/western-front/106493-the-dark-summer-normandy-1944-817054012107.html#ae447">The Dark Summer: Normandy 1944</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/249582/dark-summer-normandy-1944">The Dark Summer: Normandy 1944</a></strong>
 de Ted Raicer, y publicado por <strong>GMT Games</strong>, es un juego de la
@@ -829,7 +829,7 @@ de Ted Raicer, y publicado por <strong>GMT Games</strong>, es un juego de la
     </div>
     <div class="col-md-9">
         <h4><a
-    href="https://www.philibertnet.com/en/gmt/106040-red-flag-over-paris-817054012251.html#ae447-11">Red
+    href="https://www.philibertnet.com/en/gmt/106040-red-flag-over-paris-817054012251.html#ae447">Red
     Flag Over Paris</a></h4>
     <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
@@ -854,7 +854,7 @@ de Ted Raicer, y publicado por <strong>GMT Games</strong>, es un juego de la
         class="img-thumbnail" alt="Soldiers in Postmen's Uniforms">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/dan-verssen-games/105273-soldiers-in-postmen-s-uniform-810003562609.html#ae447-11">Soldiers in Postmen's Uniforms</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/dan-verssen-games/105273-soldiers-in-postmen-s-uniform-810003562609.html#ae447">Soldiers in Postmen's Uniforms</a></h4>
          <p>Tienes toda la info de este juego más arriba, en la sección de
          <i>Mejor juego en solitario</i>.</p>
     </div>
@@ -1060,7 +1060,7 @@ de Malachi Ray Rempen, y publicado por <strong>Keen Bean Studio</strong>
     </div>
     <div class="col-md-9">
         <h4><a
-    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping
+    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447">Sleeping
     Gods</a></h4>
     <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
@@ -1111,7 +1111,7 @@ de Michał Gołębiowski, Filip Miłuński, y publicado por <strong>Lucky Duck
     </div>
     <div class="col-md-9">
         <h4><a
-    href="https://www.philibertnet.com/en/van-ryder-games/106473-final-girl-core-box-850024976016.html#ae447-11">Final
+    href="https://www.philibertnet.com/en/van-ryder-games/106473-final-girl-core-box-850024976016.html#ae447">Final
     Girl</a></h4>
     <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
@@ -1127,7 +1127,7 @@ de Michał Gołębiowski, Filip Miłuński, y publicado por <strong>Lucky Duck
         class="img-thumbnail" alt="Mind MGMT: The Psychic Espionage “Game.”">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/off-the-page-games/107222-mind-mgmt-the-psychic-espionage-game-093674636101.html#ae447-11">Mind MGMT: The Psychic Espionage “Game.”</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/off-the-page-games/107222-mind-mgmt-the-psychic-espionage-game-093674636101.html#ae447">Mind MGMT: The Psychic Espionage “Game.”</a></h4>
         <p>Tienes toda la info de este juego más arriba, en la sección de <i>Juego
         de mesa de peso medio del año</i>.</p>
     </div>
@@ -1161,7 +1161,7 @@ de Adam Kwapiński, y publicado por <strong>Awaken Realms</strong> (también por
     </div>
     <div class="col-md-9">
         <h4><a
-    href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447-11">Oath:
+    href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447">Oath:
     Chronicles of Empire and Exile</a></h4>
     <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
@@ -1191,7 +1191,7 @@ de Adam Kwapiński, y publicado por <strong>Awaken Realms</strong> (también por
     </div>
     <div class="col-md-9">
         <h4><a
-    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping
+    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447">Sleeping
     Gods</a></h4>
     <div class="alert alert-warning" role="alert">
             <strong>¡Mejor juego temático del año!</strong></div>
@@ -1233,7 +1233,7 @@ solitario.
         class="img-thumbnail" alt="Lawyer Up">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/rock-manor-games/99071-lawyer-up-644216327492.html#ae447-11">Lawyer Up / Duelo de Abogados</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/rock-manor-games/99071-lawyer-up-644216327492.html#ae447">Lawyer Up / Duelo de Abogados</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/267401/lawyer">Lawyer Up</a></strong>
     de Samuel Bailey y Mike Gnade, y publicado por <strong>Rock Manor
@@ -1256,7 +1256,7 @@ solitario.
         class="img-thumbnail" alt="Red Flag Over Paris">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/106040-red-flag-over-paris-817054012251.html#ae447-11">Red Flag Over Paris</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/106040-red-flag-over-paris-817054012251.html#ae447">Red Flag Over Paris</a></h4>
         <p>Tienes toda la info de este juego más arriba, en la sección de
         <i>Mejor wargame</i>.</p>
     </div>
@@ -1386,7 +1386,7 @@ de Raoul Schaupp, es un juego de mundo abierto ambientado en el mundo de los
         class="img-thumbnail" alt="Lost Ruins of Arnak: Expedition Leaders">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/czech-games-edition/103747-lost-ruins-of-arnak-expeditions-leaders-8594156310639.html#ae447-11">Lost Ruins of Arnak: Expedition Leaders / Las Ruinas
+        <h4><a href="https://www.philibertnet.com/en/czech-games-edition/103747-lost-ruins-of-arnak-expeditions-leaders-8594156310639.html#ae447">Lost Ruins of Arnak: Expedition Leaders / Las Ruinas
     Perdidas de Arnak: Líderes de la Expedición</a></h4>
     <div class="alert alert-warning" role="alert">
             <strong>¡Mejor expansión del año!</strong></div>
@@ -1409,7 +1409,7 @@ de Raoul Schaupp, es un juego de mundo abierto ambientado en el mundo de los
     </div>
     <div class="col-md-9">
         <h4><a
-    href="https://www.philibertnet.com/en/capstone-hk-ltd/102445-maracaibo-the-uprising-850000576346.html#ae447-11">Maracaibo:
+    href="https://www.philibertnet.com/en/capstone-hk-ltd/102445-maracaibo-the-uprising-850000576346.html#ae447">Maracaibo:
     The Uprising / El Alzamiento</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/338013/maracaibo-uprising">Maracaibo: The Uprising</a></strong>
@@ -1451,7 +1451,7 @@ de Raoul Schaupp, es un juego de mundo abierto ambientado en el mundo de los
         class="img-thumbnail" alt="Paladines del Reino del Oeste: Ciudad de Coronas">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/renegade-game-studios/108829-paladins-of-the-west-kingdom-city-of-crowns-810011722521.html#ae447-11">Paladines del Reino del Oeste: Ciudad de Coronas</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/renegade-game-studios/108829-paladins-of-the-west-kingdom-city-of-crowns-810011722521.html#ae447">Paladines del Reino del Oeste: Ciudad de Coronas</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/317980/paladins-west-kingdom-city-crowns">Paladines
     del Reino del Oeste: Ciudad de Coronas</a></strong> 
@@ -1576,7 +1576,7 @@ de Shem Phillips y S J Macdonald, y publicado por <strong>Garphill
         class="img-thumbnail" alt="Mind MGMT: The Psychic Espionage “Game.”">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/off-the-page-games/107222-mind-mgmt-the-psychic-espionage-game-093674636101.html#ae447-11">Mind MGMT: The Psychic Espionage “Game.”</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/off-the-page-games/107222-mind-mgmt-the-psychic-espionage-game-093674636101.html#ae447">Mind MGMT: The Psychic Espionage “Game.”</a></h4>
         <p>Tienes toda la info de este juego más arriba, en la sección de <i>Juego
         de mesa de peso medio del año</i>.</p>
     </div>
@@ -1590,7 +1590,7 @@ de Shem Phillips y S J Macdonald, y publicado por <strong>Garphill
     </div>
     <div class="col-md-9">
         <h4><a
-    href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447-11">Oath:
+    href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447">Oath:
     Chronicles of Empire and Exile</a></h4>
     <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
@@ -1607,7 +1607,7 @@ de Shem Phillips y S J Macdonald, y publicado por <strong>Garphill
     </div>
     <div class="col-md-9">
         <h4><a
-    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping
+    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447">Sleeping
     Gods</a></h4>
     <div class="alert alert-warning" role="alert">
             <strong>¡Juego con mejor arte/presentación del año!</strong></div>
@@ -1701,7 +1701,7 @@ de Carl Van Ostrand, Jonny Pac y Drake Villareal, y publicado por <strong>Final
         class="img-thumbnail" alt="Mind MGMT: The Psychic Espionage “Game.”">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/off-the-page-games/107222-mind-mgmt-the-psychic-espionage-game-093674636101.html#ae447-11">Mind MGMT: The Psychic Espionage “Game.”</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/off-the-page-games/107222-mind-mgmt-the-psychic-espionage-game-093674636101.html#ae447">Mind MGMT: The Psychic Espionage “Game.”</a></h4>
         <p>Tienes toda la info de este juego más arriba, en la sección de <i>Juego
         de mesa de peso medio del año</i>.</p>
     </div>
@@ -1715,7 +1715,7 @@ de Carl Van Ostrand, Jonny Pac y Drake Villareal, y publicado por <strong>Final
     </div>
     <div class="col-md-9">
         <h4><a
-    href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447-11">Oath:
+    href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447">Oath:
     Chronicles of Empire and Exile</a></h4>
     <div class="alert alert-warning" role="alert">
             <strong>¡Juego más innovador del año!</strong></div>
@@ -1732,7 +1732,7 @@ de Carl Van Ostrand, Jonny Pac y Drake Villareal, y publicado por <strong>Final
     </div>
     <div class="col-md-9">
         <h4><a
-    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping
+    href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447">Sleeping
     Gods</a></h4>
     <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>

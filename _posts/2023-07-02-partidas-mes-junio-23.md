@@ -65,7 +65,7 @@ achicharrados si pisan (o peor, se sientan) en el césped.
 
 Y ahora al resumen de partidas.
 
-### [Ark Nova](https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447-11)
+### [Ark Nova](https://www.philibertnet.com/en/feuerland-spiele/104879-ark-nova-850000576407.html#ae447)
 
 <p align="center">
 <img height=""
@@ -90,7 +90,7 @@ expansión de **[Marine
 Worlds](https://boardgamegeek.com/boardgame/368966/ark-nova-marine-worlds)**
 que está planificada para Essen.
 
-### [Factory Funner](https://www.philibertnet.com/en/boardgametables/107284-factory-funner-618149322640.html#ae447-11)
+### [Factory Funner](https://www.philibertnet.com/en/boardgametables/107284-factory-funner-618149322640.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/KSF17xv7uX1TAwfyXg7jGg__imagepage/img/K9TGuHuAU0iz0y1_2kQu_gw3VT8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6068797.jpg"></p>
@@ -110,7 +110,7 @@ construcción de rutas con el tema espacial para que os pueda gustar el juego,
 sino no hay ninguna forma extra de la que podáis mirar al juego. A mí me
 funciona muy bien como juego ligero.
 
-### [Faiyum](https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447-11)
+### [Faiyum](https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447)
 
 <p align="center">
 <img height="" src="https://cf.geekdo-images.com/sl0ReaWGqY1LQjNoGtCPWg__imagepage/img/M9hKi_flOtVxnYKQXRaEO0S196c=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5638086.jpg"></p>
@@ -161,7 +161,7 @@ romper esa tendencia y volver a jugar a un poco de todo otra vez, ya veremos.
 Recomendadísimo el **Gaia Project**, peco de no jugarlo mucho pero creo que es
 algo que tengo que corregir porque es uno de los mejores de mi colección.
 
-### [Rebuilding Seattle](https://www.philibertnet.com/en/wizkids/116053-rebuilding-seattle-2100000904600.html#ae447-11)
+### [Rebuilding Seattle](https://www.philibertnet.com/en/wizkids/116053-rebuilding-seattle-2100000904600.html#ae447)
 
 <p align="center">
 <img height=""
@@ -201,7 +201,7 @@ qué acciones puedes tomar cuando una serie de eventos los activa el bot. Así
 que de cara a julio, que seguiré jugando al juego, ya espero poder tener
 puntuaciones que no tenga que impugnar.
 
-### [¡Resistid!](https://www.philibertnet.com/en/salt-pepper-games/114039-resist-8425402844991.html#ae447-11)
+### [¡Resistid!](https://www.philibertnet.com/en/salt-pepper-games/114039-resist-8425402844991.html#ae447)
 
 <p align="center">
 <img height=""

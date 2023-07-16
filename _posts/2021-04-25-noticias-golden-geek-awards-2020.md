@@ -143,7 +143,7 @@ de Josh Wood y publicado por <strong>AEG</strong> (lo trae Delirium Games a
         class="img-thumbnail" alt="Beyond the Sun">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/rio-grande/91289-beyond-the-sun-655132005807.html#ae447-11">Beyond the Sun</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/rio-grande/91289-beyond-the-sun-655132005807.html#ae447">Beyond the Sun</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/317985/beyond-sun">Beyond the Sun</a></strong>
     de Dennis K. Chan y publicado por <strong>Rio Grande Games</strong> (lo
@@ -193,7 +193,7 @@ de Kevin Russ y publicado por <strong>Flatout Games</strong> (Maldito Games lo
         class="img-thumbnail" alt="Dune: Imperium">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/dire-wolf-digital/91444-dune-imperium-810058800008.html#ae447-11">Dune: Imperium</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/dire-wolf-digital/91444-dune-imperium-810058800008.html#ae447">Dune: Imperium</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p><strong><a
@@ -215,7 +215,7 @@ de Kevin Russ y publicado por <strong>Flatout Games</strong> (Maldito Games lo
         class="img-thumbnail" alt="Faiyum">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447-11">Faiyum</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/2f-spiele/90517-faiyum-4260300450585.html#ae447">Faiyum</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/318983/faiyum">Faiyum</a></strong>
     de Friedemann Friese y publicado por su editorial <strong>2F
@@ -380,7 +380,7 @@ de Nick Bentley, Dominic Crapuchettes, Ben Goldman y Brian O'Neill y publicado
         class="img-thumbnail" alt="The Red Cathedral">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://philibertnet.com/en/devir/90644-the-red-cathedral-8436589621046.html#ae447-11">The Red Cathedral</a></h4>
+        <h4><a href="https://philibertnet.com/en/devir/90644-the-red-cathedral-8436589621046.html#ae447">The Red Cathedral</a></h4>
          <p>En <strong><a
     href="https://boardgamegeek.com/boardgame/227224/red-cathedral">The Red Cathedral</a></strong>
         de Shei S. e Isra C., y publicado por <strong>Devir</strong>, juegas
@@ -495,7 +495,7 @@ de Nick Bentley, Dominic Crapuchettes, Ben Goldman y Brian O'Neill y publicado
         class="img-thumbnail" alt="High Frontier 4 All">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/ion-game-design/95490-high-frontier-4-all-6533410411660.html#ae447-11">High Frontier 4 All</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/ion-game-design/95490-high-frontier-4-all-6533410411660.html#ae447">High Frontier 4 All</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/281655/high-frontier-4-all">High Frontier 4 All</a></strong>
     de Phil Eklund y publicado por <strong>Ion Game Design</strong> (Ediciones
@@ -525,7 +525,7 @@ de Nick Bentley, Dominic Crapuchettes, Ben Goldman y Brian O'Neill y publicado
         class="img-thumbnail" alt="Kanban EV">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/eagle-gryphon-games/85158-kanban-ev-2100000730155.html#ae447-11">Kanban EV</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/eagle-gryphon-games/85158-kanban-ev-2100000730155.html#ae447">Kanban EV</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/284378/kanban-ev">Kanban EV</a></strong>
     de Vital Lacerda y publicado por <strong>Eagle-Gryphon Games</strong>
@@ -544,7 +544,7 @@ de Nick Bentley, Dominic Crapuchettes, Ben Goldman y Brian O'Neill y publicado
         class="img-thumbnail" alt="On Mars">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/eagle-gryphon-games/76285-on-mars-2100000612314.html#ae447-11">On Mars</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/eagle-gryphon-games/76285-on-mars-2100000612314.html#ae447">On Mars</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p>En <strong><a
@@ -569,7 +569,7 @@ de Nick Bentley, Dominic Crapuchettes, Ben Goldman y Brian O'Neill y publicado
         class="img-thumbnail" alt="Praga Caput Regni">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/delicious-games/90064-prage-caput-regni-8594195080098.html#ae447-11">Praga Caput Regni</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/delicious-games/90064-prage-caput-regni-8594195080098.html#ae447">Praga Caput Regni</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/308765/praga-caput-regni">Praga Caput Regni</a></strong>
         de Vladimír Suchý  y publicado por <strong>Delicious Games</strong>
@@ -654,7 +654,7 @@ de Nick Bentley, Dominic Crapuchettes, Ben Goldman y Brian O'Neill y publicado
         class="img-thumbnail" alt="Dune: Imperium">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/dire-wolf-digital/91444-dune-imperium-810058800008.html#ae447-11">Dune: Imperium</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/dire-wolf-digital/91444-dune-imperium-810058800008.html#ae447">Dune: Imperium</a></h4>
          <p>Nominado también a <i>Mejor juego de peso medio del año, Mejor
     juego de cartas, Mejor juego temático y Juego más 
     innovador</i>.</p>
@@ -838,7 +838,7 @@ de Benjamin Schmauss y Cole Wehrle, y publicado por <strong> Leder
         class="img-thumbnail" alt="Chronicles of Crime: 1400">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/lucky-duck-games/91856-chronicles-of-crime-1400-752830298187.html#ae447-11">Chronicles of Crime: 1400</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/lucky-duck-games/91856-chronicles-of-crime-1400-752830298187.html#ae447">Chronicles of Crime: 1400</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/300300/chronicles-crime-1400">Chronicles of Crime: 1400</a></strong>
 de David Cicurel y Wojciech Grajkowski,  y publicado por <strong>Lucky Duck
@@ -955,7 +955,7 @@ de David Cicurel y Wojciech Grajkowski,  y publicado por <strong>Lucky Duck
         class="img-thumbnail" alt="All Bridges Burning: Red Revolt and White Guard in Finland, 1917-1918">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/93328-all-bridges-burning-817054011902.html#ae447-11">All Bridges Burning: Red Revolt and White Guard in Finland, 1917-1918</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/93328-all-bridges-burning-817054011902.html#ae447">All Bridges Burning: Red Revolt and White Guard in Finland, 1917-1918</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/242520/all-bridges-burning-red-revolt-and-white-guard-fin">All Bridges Burning</a></strong>
     de V.P.J. Arponen y publicado por <strong>GMT Games</strong>, es la décima
@@ -999,7 +999,7 @@ de David Cicurel y Wojciech Grajkowski,  y publicado por <strong>Lucky Duck
         class="img-thumbnail" alt="By Stealth and Sea">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/dan-verssen-games/91749-by-stealth-and-sea-810003562418.html#ae447-11">By Stealth and Sea</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/dan-verssen-games/91749-by-stealth-and-sea-810003562418.html#ae447">By Stealth and Sea</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/294652/stealth-and-sea">By Stealth and Sea</a></strong>
 de David Thompson y Nicola Saggini, y publicado por <strong>DVG</strong>, es un
@@ -1022,7 +1022,7 @@ de David Thompson y Nicola Saggini, y publicado por <strong>DVG</strong>, es un
         class="img-thumbnail" alt="Caesar: Rome vs. Gaul">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/94149-caesar-rome-vs-gaul-817054011995.html#ae447-11">Caesar: Rome vs. Gaul</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/94149-caesar-rome-vs-gaul-817054011995.html#ae447">Caesar: Rome vs. Gaul</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/276386/caesar-rome-vs-gaul">Caesar: Rome vs. Gaul</a></strong>
     de Mark Simonitch  y publicado por <strong>GMT Games</strong>, es un
@@ -1044,7 +1044,7 @@ de David Thompson y Nicola Saggini, y publicado por <strong>DVG</strong>, es un
         class="img-thumbnail" alt="Freedom!">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/phalanx/85125-freedom-5900741508573.html#ae447-11">Freedom!</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/phalanx/85125-freedom-5900741508573.html#ae447">Freedom!</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/177096/freedom">Freedom!</a></strong>
 de Vangelis Bagiartakis y publicado por <strong>PHALANX</strong>, es un juego
@@ -1066,7 +1066,7 @@ de Vangelis Bagiartakis y publicado por <strong>PHALANX</strong>, es un juego
         class="img-thumbnail" alt="The Shores of Tripoli">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/fort-circle-games/93962-the-shores-of-tripoli-860031002509.html#ae447-11">The Shores of Tripoli</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/fort-circle-games/93962-the-shores-of-tripoli-860031002509.html#ae447">The Shores of Tripoli</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/237860/shores-tripoli">The Shores of Tripoli</a></strong>
         de Kevin Bertram y publicado por <strong>Fort Circle Games</strong>, es
@@ -1114,7 +1114,7 @@ de Vangelis Bagiartakis y publicado por <strong>PHALANX</strong>, es un juego
         class="img-thumbnail" alt="Versailles 1919">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/93406-versailles-1919-817054011957.html#ae447-11">Versailles 1919</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/93406-versailles-1919-817054011957.html#ae447">Versailles 1919</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p><strong><a
@@ -1138,7 +1138,7 @@ de Mark Herman y Geoff Engelstein, y publicado por <strong>GMT Games</strong>,
         class="img-thumbnail" alt="Dune: Imperium">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/dire-wolf-digital/91444-dune-imperium-810058800008.html#ae447-11">Dune: Imperium</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/dire-wolf-digital/91444-dune-imperium-810058800008.html#ae447">Dune: Imperium</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>¡Mejor juego de cartas!</strong></div>
         <p>Nominado también a <i>Mejor juego de peso medio del año, Mejor
@@ -1247,7 +1247,7 @@ de Ben Pinchback y Matt Riddle, y publicado por <strong>Renegade Game
         class="img-thumbnail" alt="Dune: Imperium">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/dire-wolf-digital/91444-dune-imperium-810058800008.html#ae447-11">Dune: Imperium</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/dire-wolf-digital/91444-dune-imperium-810058800008.html#ae447">Dune: Imperium</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
     <p>Nominado también a <i>Mejor juego de peso medio del año, Mejor
@@ -1356,7 +1356,7 @@ de Michał Oracz y publicado por <strong>Awaken Realms</strong> es un dream craw
         class="img-thumbnail" alt="On Mars">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/eagle-gryphon-games/76285-on-mars-2100000612314.html#ae447-11">On Mars</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/eagle-gryphon-games/76285-on-mars-2100000612314.html#ae447">On Mars</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p>Nominado también a <i>Mejor juego de peso duro del año y Mejor arte / presentación</i>.</p>
@@ -1411,7 +1411,7 @@ de Michał Oracz y publicado por <strong>Awaken Realms</strong> es un dream craw
         class="img-thumbnail" alt="Glasgow">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/lookout/89713-glasgow-2100000705603.html#ae447-11">Glasgow</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/lookout/89713-glasgow-2100000705603.html#ae447">Glasgow</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/301716/glasgow">Glasgow</a></strong>
     de Mandela Fernandez-Grandon y publicado por <strong>Lookout
@@ -1436,7 +1436,7 @@ de Michał Oracz y publicado por <strong>Awaken Realms</strong> es un dream craw
         class="img-thumbnail" alt="The Shores of Tripoli">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/fort-circle-games/93962-the-shores-of-tripoli-860031002509.html#ae447-11">The Shores of Tripoli</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/fort-circle-games/93962-the-shores-of-tripoli-860031002509.html#ae447">The Shores of Tripoli</a></h4>
         <p>Nominado también a <i>Mejor wargame</i>.</p>
     </div>
 </div>
@@ -1612,7 +1612,7 @@ de Benjamin Gauthier, es un juego roll & write en el que tratas de representar
         class="img-thumbnail" alt="7 Wonders Duel: Agora">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/repos-productions/92800-7-wonders-duel-agora-expansion-5425016924402.html#ae447-11">7 Wonders Duel: Agora</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/repos-productions/92800-7-wonders-duel-agora-expansion-5425016924402.html#ae447">7 Wonders Duel: Agora</a></h4>
          <p>La expansión <strong><a
     href="https://boardgamegeek.com/boardgameexpansion/309116/7-wonders-duel-agora">7 Wonders Duel: Agora</a></strong>
     de Antoine Bauza y Bruno Cathala, y publicado por <strong>Repos
@@ -1655,7 +1655,7 @@ de Benjamin Gauthier, es un juego roll & write en el que tratas de representar
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/starling-games/86821-everdell-spirecrest-expansion-602573149799.html">Everdell: Spirecrest</a></h4>
          <p><strong><a
-    href="https://boardgamegeek.com/boardgameexpansion/289056/everdell-spirecrest#ae447-11">Everdell: Spirecrest</a></strong>
+    href="https://boardgamegeek.com/boardgameexpansion/289056/everdell-spirecrest#ae447">Everdell: Spirecrest</a></strong>
 de James A. Wilson y publicado por <strong>Starling Games</strong> (Maldito
     Games en España), es una expansión para Everdell en la que se añaden nuevas
     cartas de tiempo, de descubrimientos y nuevos tipos de trabajadores.</p>
@@ -1691,7 +1691,7 @@ de Michael Boggs, Nate French yCaleb Grace,  y publicado por <strong>Fantasy
         class="img-thumbnail" alt="Obsession: Upstairs, Downstairs">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/kayenta-games/96134-obsession-upstairs-downstairs-expansion-750958294999.html#ae447-11">Obsession: Upstairs, Downstairs</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/kayenta-games/96134-obsession-upstairs-downstairs-expansion-750958294999.html#ae447">Obsession: Upstairs, Downstairs</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/279067/obsession-upstairs-downstairs">Obsession: Upstairs, Downstairs</a></strong>
         de Dan Hallagan y publicado por <strong>Kayenta Games</strong>, es una
@@ -1843,7 +1843,7 @@ de R. Eric Reuss y publicado por <strong>Greater Than Games</strong> (Arrakis
         class="img-thumbnail" alt="Kanban EV">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/eagle-gryphon-games/85158-kanban-ev-2100000730155.html#ae447-11">Kanban EV</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/eagle-gryphon-games/85158-kanban-ev-2100000730155.html#ae447">Kanban EV</a></h4>
         <p>Nominado también a <i>Mejor juego de peso duro del año</i>.</p>
     </div>
 </div>
@@ -1886,7 +1886,7 @@ de R. Eric Reuss y publicado por <strong>Greater Than Games</strong> (Arrakis
         class="img-thumbnail" alt="On Mars">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/eagle-gryphon-games/76285-on-mars-2100000612314.html#ae447-11">On Mars</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/eagle-gryphon-games/76285-on-mars-2100000612314.html#ae447">On Mars</a></h4>
         <div class="alert alert-warning" role="alert">
             <strong>¡Mejor arte / presentación del año!</strong></div>
       <p>Nominado también a <i>Mejor juego de peso duro del año y Mejor juego temático</i>.</p>
@@ -1946,7 +1946,7 @@ de Francesco Testini, Pierluca Zizzi, y publicado por <strong>ThunderGryph
         class="img-thumbnail" alt="Beyond the Sun">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/rio-grande/91289-beyond-the-sun-655132005807.html#ae447-11">Beyond the Sun</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/rio-grande/91289-beyond-the-sun-655132005807.html#ae447">Beyond the Sun</a></h4>
         <div class="alert alert-info" role="alert">
             <strong>Subcampeón</strong></div>
         <p>Nominado también a <i>Mejor juego de peso medio</i>.</p>
@@ -1972,7 +1972,7 @@ de Francesco Testini, Pierluca Zizzi, y publicado por <strong>ThunderGryph
         class="img-thumbnail" alt="Dune: Imperium">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/dire-wolf-digital/91444-dune-imperium-810058800008.html#ae447-11">Dune: Imperium</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/dire-wolf-digital/91444-dune-imperium-810058800008.html#ae447">Dune: Imperium</a></h4>
     <p>Nominado también a <i>Mejor juego de peso medio del año, Mejor
     juego en solitario y Mejor juego de cartas</i>.</p>
     </div>

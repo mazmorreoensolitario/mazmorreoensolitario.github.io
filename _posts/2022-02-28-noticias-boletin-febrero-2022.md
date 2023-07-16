@@ -426,10 +426,10 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
 * **[Everdell: Spirecrest](https://zacatrus.es/everdell-spirecrest.html#u97)**:
   **39€** (PVP: 50€), español, Maldito Games (2021).
 * **[The Dark Summer: Normandy
-  1944](https://www.philibertnet.com/en/western-front/106493-the-dark-summer-normandy-1944-817054012107.html#ae447-11)**:
+  1944](https://www.philibertnet.com/en/western-front/106493-the-dark-summer-normandy-1944-817054012107.html#ae447)**:
   **40€** (PVP: 55€), inglés, GMT Games (2021).
 * **[Salerno
-  '43](https://www.philibertnet.com/en/western-front/107545-salerno-43-2100000826421.html#ae447-11)**:
+  '43](https://www.philibertnet.com/en/western-front/107545-salerno-43-2100000826421.html#ae447)**:
   **40€** (PVP: 45€), inglés, GMT Games (2022).
 * **[Clinic: Deluxe
   Edition](https://zacatrus.es/clinic-deluxe-edition.html#u97)**: **46€** (PVP:
@@ -437,13 +437,13 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
 * **[Fayún/Faiyum](https://zacatrus.es//fayun-km0.html#u97)**: **49€** (PVP: 55€),
   español, Asmodee (2022).
 * **[Normandy
-  '44](https://www.philibertnet.com/en/gmt/35467-normandy-44-817054010882.html#ae447-11)**:
+  '44](https://www.philibertnet.com/en/gmt/35467-normandy-44-817054010882.html#ae447)**:
   **50€** (PVP: 55€), inglés, GMT Games (2021, tercera reimpresión).
 * **[The Last Hundred Yards Volume 3: The Solomon
-  Islands](https://www.philibertnet.com/en/gmt/106042-the-last-hundred-yards-volume-3-the-solomon-islands-2100000816262.html#ae447-11)**:
+  Islands](https://www.philibertnet.com/en/gmt/106042-the-last-hundred-yards-volume-3-the-solomon-islands-2100000816262.html#ae447)**:
   **53€** (PVP: 55€), GMT Games (2022).
 * **[Plains Indian
-  War](https://www.philibertnet.com/en/19th-century/107539-plains-indian-war-2100000826407.html#ae447-11)**:
+  War](https://www.philibertnet.com/en/19th-century/107539-plains-indian-war-2100000826407.html#ae447)**:
   **60€** (PVP: 65€), GMT Games (2022).
 
 ## Juegos de rol

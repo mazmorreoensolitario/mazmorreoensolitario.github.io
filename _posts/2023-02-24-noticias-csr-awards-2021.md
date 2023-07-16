@@ -43,7 +43,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Cradle of Civilization">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/103994-cradle-of-civilization-2100000794355.html#ae447-11">Cradle of Civilization</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/103994-cradle-of-civilization-2100000794355.html#ae447">Cradle of Civilization</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/266937/cradle-civilization">Cradle of Civilization</a></strong> por <strong>Sean Chick y Daniel Chick</strong>,
         publicado por <strong>Compass Games</strong>, tiene dos juegos en uno:
     "From Sumeria to Persia", sobre la edad del Bronce y la edad del Hierro, y
@@ -71,7 +71,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Dawn of Battle">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/worthington-games/101463-dawn-of-battle-856565007424.html#ae447-11">Dawn of Battle</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/worthington-games/101463-dawn-of-battle-856565007424.html#ae447">Dawn of Battle</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/307703/dawn-battle">Dawn of Battle</a></strong> por <strong>Mike Nagel</strong>,
         publicado por <strong>Worthington Publishing</strong>, te permite
         simular las batallas históricas sucedidas entre 1500 a.C. a 1500
@@ -126,7 +126,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Mediterranean Empires: The Struggle for the Middle Sea, 1281-1350 AD">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/strategy-tactics/101829-strategy-tactics-330-mediterranean-empires-2100000780440.html#ae447-11">Mediterranean Empires: The Struggle for the Middle Sea, 1281-1350 AD</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/strategy-tactics/101829-strategy-tactics-330-mediterranean-empires-2100000780440.html#ae447">Mediterranean Empires: The Struggle for the Middle Sea, 1281-1350 AD</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/315045/mediterranean-empires-struggle-middle-sea-1281-135">Mediterranean Empires: The Struggle for the Middle Sea, 1281-1350 AD</a></strong> por <strong>Javier Romero</strong>,
         publicado por <strong>Decision Games</strong>, es un juego estratégico
         con mapa de movimiento en área en el que se simula la lucha por el
@@ -149,7 +149,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Rome, Inc.: From Augustus to Diocletian">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/against-the-odds/96923-against-the-odds-53-rome-inc-2100000750900.html#ae447-11">Rome, Inc.: From Augustus to Diocletian</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/against-the-odds/96923-against-the-odds-53-rome-inc-2100000750900.html#ae447">Rome, Inc.: From Augustus to Diocletian</a></h4>
                 <div class="alert alert-warning" role="alert">
             <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a href="https://boardgamegeek.com/boardgame/196676/rome-inc-augustus-diocletian">Rome, Inc.: From Augustus to Diocletian</a></strong> por <strong>Phillip Jelley</strong>,
@@ -235,7 +235,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Granada: Last Stand of the Moors – 1482-1492">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/103404-granada-last-stand-of-the-moors-1482-1492-2100000793945.html#ae447-11">Granada: Last Stand of the Moors – 1482-1492</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/103404-granada-last-stand-of-the-moors-1482-1492-2100000793945.html#ae447">Granada: Last Stand of the Moors – 1482-1492</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/295931/granada-last-stand-moors-1482-1492">Granada:
     Last Stand of the Moors – 1482-1492</a></strong> por <strong>Jose Antonio Rivero</strong>,
@@ -262,7 +262,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Lepanto 1571: A Sea Turned Red by Blood">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/acies-edizioni/107254-lepanto-1571-a-sea-turned-red-by-blood-2100000823659.html#ae447-11">Lepanto 1571: A Sea Turned Red by Blood</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/acies-edizioni/107254-lepanto-1571-a-sea-turned-red-by-blood-2100000823659.html#ae447">Lepanto 1571: A Sea Turned Red by Blood</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/334282/lepanto-1571-sea-turned-red-blood">Lepanto 1571: A Sea Turned Red by Blood</a></strong> por <strong>Enrico Acerbi</strong>,
         publicado por <strong>Acies</strong>, es un juego sobre la batalla de
     Lepanto en 1571, que enfrentó a una coalición católica formada por el
@@ -291,7 +291,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="First Blood in the Crimea: Battle of the Alma">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/paper-wars/104658-paper-wars-magazine-98-first-blood-in-the-crimea-2100000803347.html#ae447-11">First Blood in the Crimea: Battle of the Alma</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/paper-wars/104658-paper-wars-magazine-98-first-blood-in-the-crimea-2100000803347.html#ae447">First Blood in the Crimea: Battle of the Alma</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/343281/first-blood-crimea-battle-alma">First Blood in the Crimea: Battle of the Alma</a></strong> por <strong>Ty Bomba</strong>,
         publicado por <strong>Compass Games</strong>, es un wargame táctico que
     simula la primera batalla de la guerra de Crimea (1853-1856).</p>
@@ -308,7 +308,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="La Guerra de la Triple Alianza">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/masqueoca/108538-la-guerra-de-la-triple-alianza-8437018648856.html#ae447-11">La Guerra de la Triple Alianza</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/masqueoca/108538-la-guerra-de-la-triple-alianza-8437018648856.html#ae447">La Guerra de la Triple Alianza</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/330145/war-triple-alliance">La Guerra de la Triple Alianza</a></strong> por <strong>Pedro Iñaki Martínez</strong>,
         publicado por <strong>NAC Wargames</strong>, es un wargame sobre la
     guerra de Paraguay contra Brasil, Argentina y Uruguay entre 1864 y 1870.</p>
@@ -388,7 +388,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Coalition: The Napoleonic Wars, 1805-1815">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/napoleonic-wars/96391-coalition-2100000742004.html#ae447-11">Coalition: The Napoleonic Wars, 1805-1815</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/napoleonic-wars/96391-coalition-2100000742004.html#ae447">Coalition: The Napoleonic Wars, 1805-1815</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/305872/coalition-napoleonic-wars-1805-1815">Coalition: The Napoleonic Wars, 1805-1815</a></strong> por <strong>Javier Garcia de Gabiola</strong>,
         publicado por <strong>Compass Games</strong>, es un juego de movimiento
     en área que cubre las guerras napoleónicas (1805-1815).</p>
@@ -431,7 +431,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="La Bataille de Hanau">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/napoleonic-wars/96806-la-bataille-de-hanau-2100000742455.html#ae447-11">La Bataille de Hanau</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/napoleonic-wars/96806-la-bataille-de-hanau-2100000742455.html#ae447">La Bataille de Hanau</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/321727/la-bataille-de-hanau">La Bataille de Hanau</a></strong> por <strong>Didier Rouy</strong>,
         publicado por <strong>Legion Wargames</strong>, es un wargame que
     simula la batalla abortiva de los austro-bávaros en 1813 para impedir el
@@ -457,7 +457,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Napoleon Invades Spain: Peninsular War, Part I">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/osg-operational-studies-group/102467-napoleon-invades-spain-2100000788316.html#ae447-11">Napoleon Invades Spain: Peninsular War, Part I</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/osg-operational-studies-group/102467-napoleon-invades-spain-2100000788316.html#ae447">Napoleon Invades Spain: Peninsular War, Part I</a></h4>
                 <div class="alert alert-warning" role="alert">
             <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a href="https://boardgamegeek.com/boardgame/308862/napoleon-invades-spain-peninsular-war-part-i">Napoleon Invades Spain: Peninsular War, Part I</a></strong> por <strong>Kevin Zucker</strong>,
@@ -536,7 +536,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="The Day Was Ours">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/revolution-games-ii/103935-the-day-was-ours-boxed-edition-2100000798247.html#ae447-11">The Day Was Ours</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/revolution-games-ii/103935-the-day-was-ours-boxed-edition-2100000798247.html#ae447">The Day Was Ours</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/344194/day-was-ours-first-bull-run-july-21-1861">The Day Was Ours</a></strong> por <strong>Matt Ward</strong>,
         publicado por <strong>Revolution Games</strong>, es un wargame sobre la
     primera batalla más relevante de la campaña de Virginia en la guerra Civil Americana.</p>
@@ -562,7 +562,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Hood Strikes North: The Tennessee Campaign, Fall 1864 ">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/american-civil-war/99596-hood-strikes-north-2100000767465.html#ae447-11">Hood Strikes North: The Tennessee Campaign, Fall 1864</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/american-civil-war/99596-hood-strikes-north-2100000767465.html#ae447">Hood Strikes North: The Tennessee Campaign, Fall 1864</a></h4>
                 <div class="alert alert-warning" role="alert">
             <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a href="https://boardgamegeek.com/boardgame/301616/hood-strikes-north-tennessee-campaign-fall-1864">Hood Strikes North: The Tennessee Campaign, Fall 1864</a></strong> por <strong>Joseph M. Balkoski, Ed Beach y Chris Withers</strong>,
@@ -617,7 +617,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Thunder At Dawn: The Battle of Wilson's Creek (August 10, 1861)">
     </div>
     <div class="col-md-9">
-        <h4><a href="#ae447-11">Thunder At Dawn: The Battle of Wilson's Creek (August 10, 1861)</a></h4>
+        <h4><a href="#ae447">Thunder At Dawn: The Battle of Wilson's Creek (August 10, 1861)</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/340473/thunder-dawn-battle-wilsons-creek-august-10-1861">Thunder At Dawn: The Battle of Wilson's Creek (August 10, 1861)</a></strong> por <strong>Claude Whalen</strong>,
         publicado por <strong>Revolution Games</strong>, es un wargame sobre la
     primera gran batalla del teatro Trans-Misisipi de la guerra Civil
@@ -665,7 +665,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Decisive Victory 1918: Soissons">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/world-war-i/103490-decisive-victory-1918-volume-1-soissons-2100000795987.html#ae447-11">Decisive Victory 1918: Soissons</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/world-war-i/103490-decisive-victory-1918-volume-1-soissons-2100000795987.html#ae447">Decisive Victory 1918: Soissons</a></h4>
                 <div class="alert alert-warning" role="alert">
             <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a
@@ -745,7 +745,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Trench Club">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/pkb-games/108442-trench-club-rookie-edition-7061258263732.html#ae447-11">Trench Club</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/pkb-games/108442-trench-club-rookie-edition-7061258263732.html#ae447">Trench Club</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/294463/trench-club">Trench Club</a></strong> por <strong>Philipp K. Berger</strong>,
         publicado por <strong>PKB Games</strong>, es un juego de estrategia con
     miniaturas ambientado en las diferentes batallas de la Primera Guerra Mundial.</p>
@@ -773,7 +773,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
     </div>
     <div class="col-md-9">
         <h4><a
-    href="https://www.philibertnet.com/en/eastern-front/99243-absolute-war-817054012121.html#ae447-11">Absolute
+    href="https://www.philibertnet.com/en/eastern-front/99243-absolute-war-817054012121.html#ae447">Absolute
     War! The Russian Front 1941-45</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/193727/absolute-war-russian-front-1941-45">Absolute War!</a></strong> por <strong>Carl Paradis</strong>,
         publicado por <strong>GMT Games</strong>, es un juego sobre el frente
@@ -829,7 +829,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Conquest & Consequence">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/guerre-du-pacifique/99245-conquest-and-consequence-817054012268.html#ae447-11">Conquest & Consequence</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/guerre-du-pacifique/99245-conquest-and-consequence-817054012268.html#ae447">Conquest & Consequence</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/300323/conquest-consequence">Conquest & Consequence</a></strong> por <strong>Craig Besinque</strong>,
         publicado por <strong>GMT Games</strong>, utiliza el mismo sistema que
     <a href="https://boardgamegeek.com/boardgame/130960/triumph-tragedy-european-balance-power-1936-1945">Triumph & Tragedy</a>, pero sitúa la acción en el teatro del
@@ -856,7 +856,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Panzers Last Stand">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/106374-panzers-last-stand-2100000817351.html#ae447-11">Panzers Last Stand</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/106374-panzers-last-stand-2100000817351.html#ae447">Panzers Last Stand</a></h4>
         <p><strong><a
     href="https://boardgamegeek.com/boardgame/323046/panzers-last-stand-battles-budapest-1945">Panzers
     Last Stand</a></strong> por <strong>Carl Fung</strong>,
@@ -885,7 +885,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="The Third Winter">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/100435-the-third-winter-2100000771387.html#ae447-11">The Third Winter</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/100435-the-third-winter-2100000771387.html#ae447">The Third Winter</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/288572/third-winter-battle-ukraine-september-1943-april-1">The Third Winter</a></strong> por <strong>Antony Birkett</strong>,
         publicado por <strong>Multi-Man Publishing</strong>, es la última
     entrega de del sistema OCS (Operational Combat Series), en la que se simula
@@ -910,7 +910,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Zero Leader">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/guerre-du-pacifique/98525-zero-leader-810003562548.html#ae447-11">Zero Leader</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/guerre-du-pacifique/98525-zero-leader-810003562548.html#ae447">Zero Leader</a></h4>
         <p>En <strong><a href="https://boardgamegeek.com/boardgame/312059/zero-leader">Zero Leader</a></strong> por <strong>Chuck Seegert</strong>,
         publicado por <strong>DVG</strong>, tomas el control de un
         escuadrón de aviones Japoneses en la Segunda Guerra Mundial y tratas de
@@ -988,7 +988,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Indian Ocean Region: South China Sea – Vol. II">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/105042-indian-ocean-region-2100000810031.html#ae447-11">Indian Ocean Region: South China Sea – Vol. II</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/105042-indian-ocean-region-2100000810031.html#ae447">Indian Ocean Region: South China Sea – Vol. II</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/258209/indian-ocean-region-south-china-sea-vol-ii">Indian Ocean Region: South China Sea – Vol. II</a></strong> por <strong>John Gorkowski</strong>,
         publicado por <strong>Compass Games</strong>, es un wargame que te
         permite simular posibles conflictos bélicos cerca del año 2025 en la región
@@ -1013,7 +1013,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="NATO: The Cold War Goes Hot – Designer Signature Edition">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/100534-nato-the-cold-war-goes-hot-designers-edition-2100000772759.html#ae447-11">NATO: The Cold War Goes Hot – Designer Signature Edition</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/100534-nato-the-cold-war-goes-hot-designers-edition-2100000772759.html#ae447">NATO: The Cold War Goes Hot – Designer Signature Edition</a></h4>
                 <div class="alert alert-warning" role="alert">
             <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a href="https://boardgamegeek.com/boardgame/309081/nato-cold-war-goes-hot-designer-signature-edition">NATO: The Cold War Goes Hot – Designer Signature Edition</a></strong> por <strong>Bruce S. Maxwell</strong>,
@@ -1047,7 +1047,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="A Billion Suns: Interstellar Fleet Battles">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/osprey/94565-a-billion-suns-9781472835659.html#ae447-11">A Billion Suns: Interstellar Fleet Battles</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/osprey/94565-a-billion-suns-9781472835659.html#ae447">A Billion Suns: Interstellar Fleet Battles</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/265304/billion-suns-interstellar-fleet-battles">A Billion Suns: Interstellar Fleet Battles</a></strong> por <strong>Mike Hutchinson</strong>,
         publicado por <strong>Osprey Games</strong>, es un wargame de
         escaramuzas de flotas estelares centrado en simular batallas masivas.</p>
@@ -1067,7 +1067,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Five Parsecs From Home">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/autres-editeurs/100206-five-parsecs-from-home-solo-adventure-wargaming-9781912743957.html#ae447-11">Five Parsecs From Home</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/autres-editeurs/100206-five-parsecs-from-home-solo-adventure-wargaming-9781912743957.html#ae447">Five Parsecs From Home</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/337864/five-parsecs-home-solo-adventure-wargaming">Five Parsecs From Home</a></strong> por <strong>Ivan Sorensen</strong>,
         publicado por <strong>Modiphius Entertainment</strong>, es un wargame
     de aventuras y escaramuzas en el que creas tu banda intergaláctica y te
@@ -1087,7 +1087,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Oath: Chronicles of Empire and Exile">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447-11">Oath: Chronicles of Empire and Exile</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/ledergames/100844-oath-chronicles-of-empire-and-exile-672975032999.html#ae447">Oath: Chronicles of Empire and Exile</a></h4>
                 <div class="alert alert-warning" role="alert">
             <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a href="https://boardgamegeek.com/boardgame/291572/oath-chronicles-empire-and-exile">Oath: Chronicles of Empire and Exile</a></strong> por <strong>Cole Wehrle</strong>,
@@ -1117,7 +1117,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="World of Warcraft: Wrath of the Lich King">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/zman-games/101385-world-of-warcraft-wrath-of-the-lich-king-a-pandemic-system-board-game-3558380088110.html#ae447-11">World of Warcraft: Wrath of the Lich King</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/zman-games/101385-world-of-warcraft-wrath-of-the-lich-king-a-pandemic-system-board-game-3558380088110.html#ae447">World of Warcraft: Wrath of the Lich King</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/342848/world-warcraft-wrath-lich-king">World of Warcraft: Wrath of the Lich
     King</a></strong> por <strong>Justin Kemppainen, Todd Michlitsch, Alexandar
     Ortloff y Michael Sanfilippo</strong>,
@@ -1158,7 +1158,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Rome, Inc.: From Augustus to Diocletian">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/against-the-odds/96923-against-the-odds-53-rome-inc-2100000750900.html#ae447-11">Rome, Inc.: From Augustus to Diocletian</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/against-the-odds/96923-against-the-odds-53-rome-inc-2100000750900.html#ae447">Rome, Inc.: From Augustus to Diocletian</a></h4>
         <p><i>Descripción del juego en "Mejor wargame del periodo antiguo al medieval"</i></p>
     </div>
 </div>
@@ -1171,7 +1171,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Soldiers in Postmen's Uniforms">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/dan-verssen-games/105273-soldiers-in-postmen-s-uniform-810003562609.html#ae447-11">Soldiers in Postmen's Uniforms</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/dan-verssen-games/105273-soldiers-in-postmen-s-uniform-810003562609.html#ae447">Soldiers in Postmen's Uniforms</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/318353/soldiers-postmens-uniforms">Soldiers in Postmen's Uniforms</a></strong> por <strong>David Thompson</strong>,
         publicado por <strong>DVG</strong>, es un wargame en el que jugamos
     como los defensores de la Oficina Postal Número 1 en la ciudad libre de
@@ -1196,7 +1196,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Tarawa 1943">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/worthington-games/105233-tarawa-1943-856565007462.html#ae447-11">Tarawa 1943</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/worthington-games/105233-tarawa-1943-856565007462.html#ae447">Tarawa 1943</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/329432/tarawa-1943">Tarawa 1943</a></strong> por <strong>Grant Wylie y Mike Wylie</strong>,
         publicado por <strong>Worthington Publishing</strong>, es un juego
     sobre la invasión de la 2da División de Marines de los Estados Unidos a la
@@ -1221,7 +1221,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Zero Leader">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/guerre-du-pacifique/98525-zero-leader-810003562548.html#ae447-11">Zero Leader</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/guerre-du-pacifique/98525-zero-leader-810003562548.html#ae447">Zero Leader</a></h4>
         <p><i>Descripción del juego en "Mejor wargame de la Segunda Guerra Mundial"</i></p>
     </div>
 </div>
@@ -1236,7 +1236,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Panzer Grenadier: Black Panthers">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/panzer-grenadier/111872-panzer-grenadier-black-panthers-9781932091991.html#ae447-11">Panzer Grenadier: Black Panthers</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/panzer-grenadier/111872-panzer-grenadier-black-panthers-9781932091991.html#ae447">Panzer Grenadier: Black Panthers</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/349360/black-panthers-panzer-grenadier-book">Panzer Grenadier: Black Panthers</a></strong> por <strong>Michael Bennighof</strong>,
         publicado por <strong>Avalanche Press</strong>, es una expansión para
     <a
@@ -1255,7 +1255,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="SpaceCorp: Ventures">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/99757-spacecorp-ventures-817054012169.html#ae447-11">SpaceCorp: Ventures</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/99757-spacecorp-ventures-817054012169.html#ae447">SpaceCorp: Ventures</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/292670/spacecorp-ventures">SpaceCorp: Ventures</a></strong> por <strong>John H. Butterfield</strong>,
         publicado por <strong>GMT Games</strong>, es una expansión para <a
     href="https://boardgamegeek.com/boardgame/214029/spacecorp-2025-2300ad">SpaceCorp</a>
@@ -1282,7 +1282,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Tank Duel: Expansion #1 – North Africa">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gmt/105419-tank-duel-north-africa-expansion-817054012183.html#ae447-11">Tank Duel: Expansion #1 – North Africa</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/gmt/105419-tank-duel-north-africa-expansion-817054012183.html#ae447">Tank Duel: Expansion #1 – North Africa</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/302455/tank-duel-expansion-1-north-africa">Tank Duel: Expansion #1 – North Africa</a></strong> por <strong>Mike Bertucelli</strong>,
         publicado por <strong>GMT Games</strong>, es una expansión para Tank
     Duel que añade nuevo terreno y reglas además de tanques británicos,
@@ -1307,7 +1307,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Undaunted: Reinforcements">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/osprey-games/105766-undaunted-reinforcements-2100000813353.html#ae447-11">Undaunted: Reinforcements</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/osprey-games/105766-undaunted-reinforcements-2100000813353.html#ae447">Undaunted: Reinforcements</a></h4>
                 <div class="alert alert-warning" role="alert">
             <strong>¡Ganador de la categoría!</strong></div>
         <p><strong><a
@@ -1342,7 +1342,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Wing Leader: Legends 1937-1945">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/series/106495-wing-leader-legends-1937-1945-817054012176.html#ae447-11">Wing Leader: Legends 1937-1945</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/series/106495-wing-leader-legends-1937-1945-817054012176.html#ae447">Wing Leader: Legends 1937-1945</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/333060/wing-leader-legends-1937-1945">Wing Leader: Legends 1937-1945</a></strong> por <strong>Lee Brimmicombe-Wood</strong>,
         publicado por <strong>GMT Games</strong>, es una expansión para Wing
     Leader que añade nuevos aviones y escenarios, además de un nuevo sistema de
@@ -1383,7 +1383,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="The Deadly Woods: The Battle of the Bulge">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/western-front/101493-the-deadly-woods-the-battle-of-the-bulge-boxed-2100000779482.html#ae447-11">The Deadly Woods: The Battle of the Bulge</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/western-front/101493-the-deadly-woods-the-battle-of-the-bulge-boxed-2100000779482.html#ae447">The Deadly Woods: The Battle of the Bulge</a></h4>
         <p><strong><a href="https://boardgamegeek.com/boardgame/314461/deadly-woods-battle-bulge">The Deadly Woods: The Battle of the Bulge</a></strong> por <strong>Ted Raicer</strong>,
         publicado por <strong>Revolution Games</strong>, es un wargame sobre la
         batalla de las Ardenas de la Segunda Guerra Mundial en la que las
@@ -1412,7 +1412,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Hood Strikes North: The Tennessee Campaign, Fall 1864 ">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/american-civil-war/99596-hood-strikes-north-2100000767465.html#ae447-11">Hood Strikes North: The Tennessee Campaign, Fall 1864</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/american-civil-war/99596-hood-strikes-north-2100000767465.html#ae447">Hood Strikes North: The Tennessee Campaign, Fall 1864</a></h4>
     <p><i>Descripción del juego en "Mejor wargame de la guerra de Secesión"</i></p>
     </div>
 </div>
@@ -1425,7 +1425,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="NATO: The Cold War Goes Hot – Designer Signature Edition">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/100534-nato-the-cold-war-goes-hot-designers-edition-2100000772759.html#ae447-11">NATO: The Cold War Goes Hot – Designer Signature Edition</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/100534-nato-the-cold-war-goes-hot-designers-edition-2100000772759.html#ae447">NATO: The Cold War Goes Hot – Designer Signature Edition</a></h4>
         <p><i>Descripción del juego en "Mejor wargame del periodo moderno"</i></p>
     </div>
 </div>
@@ -1438,7 +1438,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Panzers Last Stand">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/106374-panzers-last-stand-2100000817351.html#ae447-11">Panzers Last Stand</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/106374-panzers-last-stand-2100000817351.html#ae447">Panzers Last Stand</a></h4>
          <p><i>Descripción del juego en "Mejor wargame de la Segunda Guerra Mundial"</i></p>
     </div>
 </div>
@@ -1469,7 +1469,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Decisive Victory 1918: Soissons">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/world-war-i/103490-decisive-victory-1918-volume-1-soissons-2100000795987.html#ae447-11">Decisive Victory 1918: Soissons</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/world-war-i/103490-decisive-victory-1918-volume-1-soissons-2100000795987.html#ae447">Decisive Victory 1918: Soissons</a></h4>
             <p><i>Descripción del juego en "Mejor wargame de la Primera Guerra Mundial"</i></p>
     </div>
 </div>
@@ -1482,7 +1482,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="NATO: The Cold War Goes Hot – Designer Signature Edition">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/100534-nato-the-cold-war-goes-hot-designers-edition-2100000772759.html#ae447-11">NATO: The Cold War Goes Hot – Designer Signature Edition</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/100534-nato-the-cold-war-goes-hot-designers-edition-2100000772759.html#ae447">NATO: The Cold War Goes Hot – Designer Signature Edition</a></h4>
         <p><i>Descripción del juego en "Mejor wargame del periodo moderno"</i></p>
     </div>
 </div>
@@ -1496,7 +1496,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Panzers Last Stand">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/106374-panzers-last-stand-2100000817351.html#ae447-11">Panzers Last Stand</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/106374-panzers-last-stand-2100000817351.html#ae447">Panzers Last Stand</a></h4>
          <p><i>Descripción del juego en "Mejor wargame de la Segunda Guerra Mundial"</i></p>
     </div>
 </div>
@@ -1509,7 +1509,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="The Third Winter">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/100435-the-third-winter-2100000771387.html#ae447-11">The Third Winter</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/100435-the-third-winter-2100000771387.html#ae447">The Third Winter</a></h4>
         <p><i>Descripción del juego en "Mejor wargame de la Segunda Guerra Mundial"</i></p>
     </div>
 </div>
@@ -1553,7 +1553,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="NATO: The Cold War Goes Hot – Designer Signature Edition">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/compass-games/100534-nato-the-cold-war-goes-hot-designers-edition-2100000772759.html#ae447-11">NATO: The Cold War Goes Hot – Designer Signature Edition</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/compass-games/100534-nato-the-cold-war-goes-hot-designers-edition-2100000772759.html#ae447">NATO: The Cold War Goes Hot – Designer Signature Edition</a></h4>
          <p><i>Descripción del juego en "Mejor wargame del periodo moderno"</i></p>
     </div>
 </div>
@@ -1566,7 +1566,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="Panzers Last Stand">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/106374-panzers-last-stand-2100000817351.html#ae447-11">Panzers Last Stand</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/106374-panzers-last-stand-2100000817351.html#ae447">Panzers Last Stand</a></h4>
         <p><i>Descripción del juego en "Mejor wargame de la Segunda Guerra Mundial"</i></p>
     </div>
 </div>
@@ -1580,7 +1580,7 @@ comentarios sobre los nominados y ganadores de cada categoría.
         class="img-thumbnail" alt="The Third Winter">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/100435-the-third-winter-2100000771387.html#ae447-11">The Third Winter</a></h4>
+        <h4><a href="https://www.philibertnet.com/en/multi-man-publishing/100435-the-third-winter-2100000771387.html#ae447">The Third Winter</a></h4>
         <p><i>Descripción del juego en "Mejor wargame de la Segunda Guerra Mundial"</i></p>
     </div>
 </div>

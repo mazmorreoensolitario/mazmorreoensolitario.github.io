@@ -39,7 +39,7 @@ actualización de las diferentes estadísticas que podemos sacar de este top:
         class="img-thumbnail" alt="Fleet: The Dice Game">
     </div>
     <div class="col-md-9">
-         <h4>100. <a href="https://www.philibertnet.com/en/eagle-gryphon-games/95481-fleet-the-dice-game-2100000794027.html#ae447-11">Fleet: The Dice Game</a></h4>
+         <h4>100. <a href="https://www.philibertnet.com/en/eagle-gryphon-games/95481-fleet-the-dice-game-2100000794027.html#ae447">Fleet: The Dice Game</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/245961/fleet-dice-game">Fleet: The Dice Game</a></strong>
          de Ben Pinchback y Matt Riddle, y publicado por <strong>Eagle-Gryphon Games</strong>.</p>
          <p><strong>Fleet: The Dice Game</strong> es un juego tipo roll & write
@@ -211,7 +211,7 @@ actualización de las diferentes estadísticas que podemos sacar de este top:
         class="img-thumbnail" alt="Leaving Earth">
     </div>
     <div class="col-md-9">
-         <h4>92. <a href="https://www.philibertnet.com/en/lumenaris/41981-leaving-earth-811872022515.html#ae447-11">Leaving Earth</a></h4>
+         <h4>92. <a href="https://www.philibertnet.com/en/lumenaris/41981-leaving-earth-811872022515.html#ae447">Leaving Earth</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/173064/leaving-earth">Leaving Earth</a></strong>
          de Joseph Fatula, y publicado por <strong>The Lumenaris Group</strong>.</p>
          <p><strong>Leaving Earth</strong> es un juego de planificación y
@@ -234,7 +234,7 @@ actualización de las diferentes estadísticas que podemos sacar de este top:
         class="img-thumbnail" alt="Saqueadores de Escitia">
     </div>
     <div class="col-md-9">
-         <h4>91. <a href="https://www.philibertnet.com/en/renegade-game-studios/90692-raiders-of-scythia-810011721395.html#ae447-11">Saqueadores de Escitia</a></h4>
+         <h4>91. <a href="https://www.philibertnet.com/en/renegade-game-studios/90692-raiders-of-scythia-810011721395.html#ae447">Saqueadores de Escitia</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/301880/raiders-scythia">Saqueadores de Escitia</a></strong>
          de Shem Phillips, y publicado por <strong>Garphill Games</strong>
     (<strong>Ediciones Primigenio</strong> en España).</p>
@@ -342,7 +342,7 @@ actualización de las diferentes estadísticas que podemos sacar de este top:
         class="img-thumbnail" alt="Apex Theropod Deck-Building Game">
     </div>
     <div class="col-md-9">
-         <h4>86. <a href="https://www.philibertnet.com/en/die-hard-games-llc/42414-apex-theropod-deck-building-game-2100000267934.html#ae447-11">Apex Theropod Deck-Building Game</a></h4>
+         <h4>86. <a href="https://www.philibertnet.com/en/die-hard-games-llc/42414-apex-theropod-deck-building-game-2100000267934.html#ae447">Apex Theropod Deck-Building Game</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/156266/apex-theropod-deck-building-game">Apex Theropod Deck-Building Game</a></strong>
          de Herschel Hoffmeyer, y publicado por <strong>Die-Hard Games</strong>.</p>
          <p><strong>Apex Theropod Deck-Building Game</strong> es un juego de
@@ -398,7 +398,7 @@ actualización de las diferentes estadísticas que podemos sacar de este top:
         class="img-thumbnail" alt="Space Empires: 4X">
     </div>
     <div class="col-md-9">
-         <h4>83. <a href="https://www.philibertnet.com/en/science-fiction/98699-space-empires-4x-4th-printing-817054010066.html#ae447-11">Space Empires: 4X</a></h4>
+         <h4>83. <a href="https://www.philibertnet.com/en/science-fiction/98699-space-empires-4x-4th-printing-817054010066.html#ae447">Space Empires: 4X</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/84419/space-empires-4x">Space Empires: 4X</a></strong>
          de Jim Krohn, y publicado por <strong>GMT Games</strong>.</p>
          <p><strong>Space Empires: 4X</strong> es un juego que encarna las
@@ -526,7 +526,7 @@ actualización de las diferentes estadísticas que podemos sacar de este top:
         class="img-thumbnail" alt="Bullet">
     </div>
     <div class="col-md-9">
-         <h4>77. <a href="https://www.philibertnet.com/en/level-99-games/99254-bullet-664918401788.html#ae447-11">Bullet</a></h4>
+         <h4>77. <a href="https://www.philibertnet.com/en/level-99-games/99254-bullet-664918401788.html#ae447">Bullet</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/307305/bullet">Bullet</a></strong>
          de Joshua Van Laningham, y publicado por <strong>Level 99
     Games</strong> (<strong>Melmac Games</strong> en España).</p>
@@ -597,7 +597,7 @@ actualización de las diferentes estadísticas que podemos sacar de este top:
         class="img-thumbnail" alt="Hallertau">
     </div>
     <div class="col-md-9">
-         <h4>74. <a href="https://www.philibertnet.com/en/lookout/90389-hallertau-4260402316208.html#ae447-11">Hallertau</a></h4>
+         <h4>74. <a href="https://www.philibertnet.com/en/lookout/90389-hallertau-4260402316208.html#ae447">Hallertau</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/300322/hallertau">Hallertau</a></strong>
          de Uwe Rosenberg, y publicado por <strong>Lookout Games</strong>
     (<strong>Maldito Games</strong> en España).</p>
@@ -662,7 +662,7 @@ actualización de las diferentes estadísticas que podemos sacar de este top:
         class="img-thumbnail" alt="Kanban EV">
     </div>
     <div class="col-md-9">
-         <h4>71. <a href="https://www.philibertnet.com/en/eagle-gryphon-games/85158-kanban-ev-2100000730155.html#ae447-11">Kanban EV</a></h4>
+         <h4>71. <a href="https://www.philibertnet.com/en/eagle-gryphon-games/85158-kanban-ev-2100000730155.html#ae447">Kanban EV</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/284378/kanban-ev">Kanban EV</a></strong>
          de Vital Lacerda, y publicado por <strong>Eagle-Gryphon Games</strong>
          (<strong>Maldito Games</strong> en España).</p>
@@ -747,7 +747,7 @@ actualización de las diferentes estadísticas que podemos sacar de este top:
         class="img-thumbnail" alt="Cthulhu: Death May Die">
     </div>
     <div class="col-md-9">
-         <h4>67. <a href="https://www.philibertnet.com/en/cool-mini-or-not/82666-cthulhu-death-may-die-889696009579.html#ae447-11">Cthulhu: Death May Die</a></h4>
+         <h4>67. <a href="https://www.philibertnet.com/en/cool-mini-or-not/82666-cthulhu-death-may-die-889696009579.html#ae447">Cthulhu: Death May Die</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/253344/cthulhu-death-may-die">Cthulhu: Death May Die</a></strong>
          de Rob Daviau y Eric M. Lang, y publicado por <strong>CMON</strong>
     (<strong>Edge Entertainment</strong> en España).</p>
@@ -878,7 +878,7 @@ actualización de las diferentes estadísticas que podemos sacar de este top:
         class="img-thumbnail" alt="Shadowrun Crossfire: Prime Runner Edition">
     </div>
     <div class="col-md-9">
-         <h4>61. <a href="https://www.philibertnet.com/en/catalyst-games-lab/72322-shadowrun-crossfire-prime-runner-edition-856232002677.html#ae447-11">Shadowrun Crossfire: Prime Runner Edition</a></h4>
+         <h4>61. <a href="https://www.philibertnet.com/en/catalyst-games-lab/72322-shadowrun-crossfire-prime-runner-edition-856232002677.html#ae447">Shadowrun Crossfire: Prime Runner Edition</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/254123/shadowrun-crossfire-prime-runner-edition">Shadowrun Crossfire: Prime Runner Edition</a></strong>
          de Mike Elliott, Rob Heinsoo y Gregory Marques, y publicado por
     <strong>Catalyst Game Labs</strong>.</p>
@@ -917,7 +917,7 @@ actualización de las diferentes estadísticas que podemos sacar de este top:
         class="img-thumbnail" alt="Gloom of Kilforth">
     </div>
     <div class="col-md-9">
-         <h4>59. <a href="https://www.philibertnet.com/en/hall-or-nothing/78517-gloom-of-kilforth-602573734605.html#ae447-11">Gloom of Kilforth</a></h4>
+         <h4>59. <a href="https://www.philibertnet.com/en/hall-or-nothing/78517-gloom-of-kilforth-602573734605.html#ae447">Gloom of Kilforth</a></h4>
          <p>En esta posición se encuentran <strong><a href="https://boardgamegeek.com/boardgame/98527/gloom-kilforth-fantasy-quest-game">Gloom of
     Kilforth</a></strong> y la siguiente entrega de la serie <a
     href="https://boardgamegeek.com/boardgame/238916/shadows-kilforth-fantasy-quest-game">Shadows
@@ -1027,7 +1027,7 @@ actualización de las diferentes estadísticas que podemos sacar de este top:
         class="img-thumbnail" alt="Sleeping Gods">
     </div>
     <div class="col-md-9">
-         <h4>54. <a href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447-11">Sleeping Gods</a></h4>
+         <h4>54. <a href="https://www.philibertnet.com/en/red-raven-games/99847-sleeping-gods-051497120917.html#ae447">Sleeping Gods</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/255984/sleeping-gods">Sleeping Gods</a></strong>
          de Ryan Laukat, y publicado por <strong>Red Raven Games</strong>
     (<strong>Maldito Games</strong> en España).</p>
@@ -1083,7 +1083,7 @@ actualización de las diferentes estadísticas que podemos sacar de este top:
         class="img-thumbnail" alt="Legendary Encounters: An Alien Deck Building Game">
     </div>
     <div class="col-md-9">
-         <h4>51. <a href="https://www.philibertnet.com/en/upper-deck/31295-legendary-encounters-an-alien-deck-building-game-053334824385.html#ae447-11">Legendary Encounters: An Alien Deck Building Game</a></h4>
+         <h4>51. <a href="https://www.philibertnet.com/en/upper-deck/31295-legendary-encounters-an-alien-deck-building-game-053334824385.html#ae447">Legendary Encounters: An Alien Deck Building Game</a></h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/146652/legendary-encounters-alien-deck-building-game">Legendary Encounters: An Alien Deck Building Game</a></strong>
          de Daniel Mandel y Ben Cichoski, y publicado por <strong>Upper Deck Entertainment</strong>.</p>
          <p><strong>Legendary Encounters: An Alien Deck Building Game</strong>

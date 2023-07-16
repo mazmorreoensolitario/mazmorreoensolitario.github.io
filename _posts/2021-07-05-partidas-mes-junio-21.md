@@ -203,7 +203,7 @@ la Catedral de Caterina o los Baños Celestiales como monumento.
 
 Durante julio van a hacer otro reto así que espero participar también.
 
-#### [World at War 85: Storming The Gap](https://www.philibertnet.com/en/world-at-war-85/98511-world-at-war-85-storming-the-gap-639302314241.html#ae447-11)
+#### [World at War 85: Storming The Gap](https://www.philibertnet.com/en/world-at-war-85/98511-world-at-war-85-storming-the-gap-639302314241.html#ae447)
 
 <p align="center">
 <img height=""
@@ -226,7 +226,7 @@ cartas en vez de chits por lo que es facilísimo de jugar en solitario, además
 de eso, yo juego con la expansión **[Solo
 Assistant](https://boardgamegeek.com/boardgame/279866/solo-assistant-nations-war-world-war-85)**
 (la puedes comprar
-[aquí](https://www.philibertnet.com/en/world-at-war-85/98509-nations-at-war-world-at-war-85-solo-assistant-639302314197.html#ae447-11))
+[aquí](https://www.philibertnet.com/en/world-at-war-85/98509-nations-at-war-world-at-war-85-solo-assistant-639302314197.html#ae447))
 que añade una baraja de cartas con órdenes de combate. Así cuando juegas, por
 un lado están las cartas-chit que te indican qué formación se activa, o qué
 tipo de evento sucede, y cuando se activa una formación enemiga, robas una
