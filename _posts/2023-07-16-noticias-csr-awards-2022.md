@@ -1266,7 +1266,7 @@ de Richard Cowen, Daniel Mersey, y publicado por <strong>Osprey Games</strong>,
     <ul>
       <li>Puedes ver un unboxing en el canal de <a
     href="https://www.youtube.com/watch?v=S_4UX1dJMiE">Grimdark City</a>.</li></ul>
-    <p><strong>En solitario...</strong> es de</p>
+    <p><strong>En solitario...</strong> es de 2 a 6 jugadores.</p>
     </div>
 </div>
 
@@ -1544,8 +1544,8 @@ idea de cómo será en solitario.
 
   Siguiendo con la Guerra de Secesión, también me gustaría probar alguna vez
   algún wargame del sistema GBACW, y por eso me interesa el
-  **[Into the Woods: The Battle of Shiloh, April 6-7, 1862
-  ](https://boardgamegeek.com/boardgame/300036/woods-battle-shiloh-april-6-7-1862)**,
+  **[Into the Woods: The Battle of Shiloh, April 6-7,
+  1862](https://boardgamegeek.com/boardgame/300036/woods-battle-shiloh-april-6-7-1862)**,
   ya que tiene escenarios pequeños además de una campaña más grande.
   
 * De la Gran Guerra está el **[1914: Nach
