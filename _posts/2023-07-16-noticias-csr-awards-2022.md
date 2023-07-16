@@ -139,7 +139,6 @@ de Richard H. Berg, Mark Herman, y publicado por <strong>GMT Games</strong>, es
     <p><strong>En solitario...</strong> GMT Games le da una idoneidad "alta"
     para el juego en solitario, aunque no hay un modo específico para ello,
     tienes que desdoblarte.</p>
-    <img src="">
     </div>
 </div>
 
@@ -444,7 +443,6 @@ de Cole Wehrle, y publicado por <strong>Wehrlegig Games</strong>
       <li>Puedes ver un unboxing en el canal de <a
     href="https://www.youtube.com/watch?v=q8K5J2XZFAo">The Players' Aid</a>.</li></ul>
     <p><strong>En solitario...</strong> tiene un modo en solitario.</p>
-    <img src="">
     </div>
 </div>
 
@@ -592,7 +590,6 @@ de Denis Sauvage, y publicado por <strong>Shakos</strong>, es un wargame de
       <li>Puedes ver un unboxing en el canal de <a
     href="https://www.youtube.com/watch?v=PImmKRrx2wI">The Players' Aid</a>.</li></ul>
     <p><strong>En solitario...</strong> es solo para 2 jugadores.</p>
-    <img src="">
     </div>
 </div>
 
@@ -714,7 +711,6 @@ de Hermann Luttmann, y publicado por <strong>Flying Pig Games</strong>, es un
       <li>Puedes ver un unboxing en el canal de <a
     href="https://www.youtube.com/watch?v=JDv2_os1MVA">Ardwulf's Lair</a>.</li></ul>
     <p><strong>En solitario...</strong> no hay información al respecto.</p>
-    <img src="">
     </div>
 </div>
 
@@ -761,7 +757,6 @@ de Kerry Anderson, y publicado por <strong>Revolution Games</strong>, es un
       <li>Puedes ver un unboxing en el canal de <a
     href="https://www.youtube.com/watch?v=ltfDqh8WiSs">ones upon a game</a>.</li></ul>
     <p><strong>En solitario...</strong> puedes jugar en solitario si te desdoblas.</p>
-    <img src="">
     </div>
 </div>
 
@@ -949,7 +944,6 @@ de Stuart Tonge, y publicado por <strong>Plague Island Games</strong>
       <li>Puedes ver un unboxing en el canal de <a
     href="https://www.youtube.com/watch?v=8LiNtCj5knA">The Lonely Yorkshire Wargamer</a>.</li></ul>
     <p><strong>En solitario...</strong> juegas contra un bot de un bando u otro.</p>
-    <img src="">
     </div>
 </div>
 
@@ -1153,7 +1147,6 @@ de Frank Chadwick, y publicado por <strong>Compass Games</strong>, es una
     href="https://www.youtube.com/watch?v=bLhxGr8JD88">Ardwulf's Lair</a>.</li></ul>
     <p><strong>En solitario...</strong> tiene una idoneidad "alta" para el
     juego en solitario según Compass Games, puedes jugar desdoblándote.</p>
-    <img src="">
     </div>
 </div>
 
@@ -1248,7 +1241,6 @@ de Tim Eisner, Ben Eisner, Ian Moss, y publicado por <strong>Druid City
       <li>Puedes ver un unboxing en el canal de <a
     href="https://www.youtube.com/watch?v=POzdnD_ouk8">El club del dado</a>.</li></ul>
     <p><strong>En solitario...</strong> es de 2 a 5 jugadores.</p>
-    <img src="">
     </div>
 </div>
 
@@ -1445,7 +1437,6 @@ de Lee Brimmicombe-Wood, y publicado por <strong>GMT Games</strong>, es una
       <li>Puedes ver un unboxing en el canal de <a
     href="https://www.youtube.com/watch?v=BI_qcHaoplI">Ardwulf's Lair</a>.</li></ul>
     <p><strong>En solitario...</strong> tiene escenarios para jugar en solitario.</p>
-    <img src="">
     </div>
 </div>
 
