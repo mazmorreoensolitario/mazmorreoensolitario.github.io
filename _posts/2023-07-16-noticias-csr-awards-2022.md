@@ -91,7 +91,7 @@ de Kris Van Beurden, y publicado por <strong>Compass Games</strong>, es un
       <li>Puedes ver un unboxing en el canal de <a
     href="https://www.youtube.com/watch?v=fq58xteNe5Q">The Players' Aid</a>.</li></ul>
     <p><strong>En solitario...</strong> tiene un motor de cartas, puedes
-    apañártelas ocultando las de tú rival y jugándolas al aar.</p>
+    apañártelas ocultando las de tú rival y jugándolas al azar.</p>
     </div>
 </div>
 
@@ -1140,7 +1140,7 @@ de Dean Brown, y publicado por <strong>Dan Verssen Games (DVG)</strong>, es un
     <ul>
       <li>Puedes ojear las <a href="">reglas aquí</a>.</li>
       <li>Puedes ver un unboxing en el canal de <a href="https://www.youtube.com/watch?v=8hBtUmr-LF8">KilroyWasHere</a>.</li></ul>
-    <p><strong>En solitario...</strong> es exclusivo para el juego en solitario,</p>
+    <p><strong>En solitario...</strong> es exclusivo para el juego en solitario.</p>
     <img src="https://cf.geekdo-images.com/SZB78w3PmJm3ZUqR-CnlSg__imagepage/img/nRfSThPzemwIwOLkWS2zn0ny_Y8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6606911.png">
     </div>
 </div>
@@ -1213,7 +1213,7 @@ de Mark H. Walker, y publicado por <strong>Flying Pig Games</strong>, es un
     <ul>
       <li>Puedes ojear las <a href="https://www.dropbox.com/s/gccu7hmuhfh0zhw/TLR.V_final.pdf?dl=0">reglas aquí</a>.</li>
       <li>Puedes ver un unboxing en el canal de <a
-    href="https://www.youtube.com/watch?v=4BfwyevsvYk">Flyung Pig Games</a>.</li></ul>
+    href="https://www.youtube.com/watch?v=4BfwyevsvYk">Flying Pig Games</a>.</li></ul>
     <p><strong>En solitario...</strong> tiene escenarios específicos para jugar
         en solitario, para el resto tienes que desdoblarte.</p>
     <img src="https://isteam.wsimg.com/ip/a507c203-a338-11e5-aa9a-00219ba60aa6/ols/900_original/:/rs=w:600,h:600">
