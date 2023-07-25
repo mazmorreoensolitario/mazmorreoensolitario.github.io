@@ -91,7 +91,7 @@ de Kris Van Beurden, y publicado por <strong>Compass Games</strong>, es un
       <li>Puedes ver un unboxing en el canal de <a
     href="https://www.youtube.com/watch?v=fq58xteNe5Q">The Players' Aid</a>.</li></ul>
     <p><strong>En solitario...</strong> tiene un motor de cartas, puedes
-    apañártelas ocultando las de tú rival y jugándolas al aar.</p>
+    apañártelas ocultando las de tú rival y jugándolas al azar.</p>
     </div>
 </div>
 
@@ -127,6 +127,8 @@ de Paolo Mori, y publicado por <strong>PSC Games</strong> (<strong>Maldito
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/great-battles-of-history/112745-great-battles-of-julius-caesar-deluxe-edition-817054012350.html#ae447">Great Battles of Julius Caesar: Deluxe Edition</a></h4>
+         <div class="alert alert-warning" role="alert">
+            <strong>¡Ganador de la categoría!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/323529">Great Battles of Julius Caesar: Deluxe Edition</a></strong>
 de Richard H. Berg, Mark Herman, y publicado por <strong>GMT Games</strong>, es
@@ -193,6 +195,8 @@ de Pablo Sanz, y publicado por <strong>Draco Ideas</strong>, es un wargame que
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/gmt/110548-almoravid-reconquista-and-riposte-in-spain-1085-1086-817054012220.html#ae447">Almoravid: Reconquista and Riposte in Spain 1085-1086</a></h4>
+         <div class="alert alert-warning" role="alert">
+            <strong>¡Ganador de la categoría!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/295103">Almoravid: Reconquista and Riposte in Spain 1085-1086</a></strong>
 de Volko Ruhnke, y publicado por <strong>GMT Games</strong>, es un wargame
@@ -346,15 +350,17 @@ de Philippe Hardy, y publicado por <strong>SERIOUS HISTORICAL GAMES</strong>
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/compass-games/114598-no-peace-without-honor-2100000888245.html#ae447">No Peace Without Honor!: The Dutch War 1672-1678</a></h4>
+         <div class="alert alert-warning" role="alert">
+            <strong>¡Ganador de la categoría!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/340279">No Peace Without Honor!: The Dutch War 1672-1678</a></strong>
 de David Meyler, y publicado por <strong>Compass Games</strong>, es un wargame
     sobre las guerras más tempranas de Luis XIV de Francia en Europa.</p>
     <ul>
       <li>Puedes ojear las <a href="https://issuu.com/consimworld/docs/cropped_npwh_rules_final?fr=sNjYyOTUzODgzMTU">reglas aquí</a>.</li>
+    </ul>
     <p><strong>En solitario...</strong> tiene una idoneidad "media" para jugar
     en solitario según Compass Games.</p>
-    </ul>
     </div>
 </div>
 
@@ -432,6 +438,8 @@ de Cole Wehrle, y publicado por <strong>Wehrlegig Games</strong>
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/19th-century/107539-plains-indian-war-817054012275.html#ae447">Plains Indian Wars</a></h4>
+         <div class="alert alert-warning" role="alert">
+            <strong>¡Ganador de la categoría!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/233958">Plains Indian Wars</a></strong>
     de John Poniske, y publicado por <strong>GMT Games</strong>, es un juego sobre
@@ -522,6 +530,8 @@ de Tristan Hall, y publicado por <strong>Hall or Nothing Productions</strong>
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/napoleonic-wars/109494-bonaparte-in-the-quadrilateral-2100000842360.html#ae447">Bonaparte in the Quadrilateral</a></h4>
+         <div class="alert alert-warning" role="alert">
+            <strong>¡Ganador de la categoría!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/358607">Bonaparte in the Quadrilateral</a></strong>
 de Kevin Zucker, y publicado por <strong>OSG (Operational Studies
@@ -702,6 +712,8 @@ de Richard H. Berg, Richard Whitaker, y publicado por <strong>GMT
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/american-civil-war/110724-a-most-fearful-sacrifice-700306665827.html#ae447">A Most Fearful Sacrifice: The Three Days of Gettysburg</a></h4>
+         <div class="alert alert-warning" role="alert">
+            <strong>¡Ganador de la categoría!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/329089">A Most Fearful Sacrifice: The Three Days of Gettysburg</a></strong>
 de Hermann Luttmann, y publicado por <strong>Flying Pig Games</strong>, es un
@@ -725,6 +737,8 @@ de Hermann Luttmann, y publicado por <strong>Flying Pig Games</strong>, es un
     </div>
     <div class="col-md-9">
         <h4><a href="https://vucasims.com/collections/available-games/products/1914-nach-paris-breakthrough-series-1?ref=mazmorreoensolitario">1914: Nach Paris</a></h4>
+         <div class="alert alert-warning" role="alert">
+            <strong>¡Ganador de la categoría!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/367031">1914: Nach Paris</a></strong>
 de Bertrand Munier, y publicado por <strong>VUCA Simulations</strong>, es un
@@ -885,6 +899,8 @@ de Tony Curtis, Vance von Borries, y publicado por <strong>GMT Games</strong>,
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/guerre-du-pacifique/107538-pacific-war-the-struggle-against-japan-1941-1945-817054012237.html#ae447">Pacific War: The Struggle Against Japan, 1941-1945 (Second Edition)</a></h4>
+         <div class="alert alert-warning" role="alert">
+            <strong>¡Ganador de la categoría!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/314577">Pacific War: The Struggle Against Japan, 1941-1945 (Second Edition)</a></strong>
 de Mark Herman, y publicado por <strong>GMT Games</strong>, es un wargame tipo
@@ -955,6 +971,8 @@ de Stuart Tonge, y publicado por <strong>Plague Island Games</strong>
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/gmt/112635-flashpoint-south-china-sea-817054012299.html#ae447">Flashpoint: South China Sea</a></h4>
+         <div class="alert alert-warning" role="alert">
+            <strong>¡Ganador de la categoría!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/247182">Flashpoint: South China Sea</a></strong>
 de Harold Buchanan, y publicado por <strong>GMT Games</strong>, es un wargame
@@ -1122,7 +1140,7 @@ de Dean Brown, y publicado por <strong>Dan Verssen Games (DVG)</strong>, es un
     <ul>
       <li>Puedes ojear las <a href="">reglas aquí</a>.</li>
       <li>Puedes ver un unboxing en el canal de <a href="https://www.youtube.com/watch?v=8hBtUmr-LF8">KilroyWasHere</a>.</li></ul>
-    <p><strong>En solitario...</strong> es exclusivo para el juego en solitario,</p>
+    <p><strong>En solitario...</strong> es exclusivo para el juego en solitario.</p>
     <img src="https://cf.geekdo-images.com/SZB78w3PmJm3ZUqR-CnlSg__imagepage/img/nRfSThPzemwIwOLkWS2zn0ny_Y8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6606911.png">
     </div>
 </div>
@@ -1136,6 +1154,8 @@ de Dean Brown, y publicado por <strong>Dan Verssen Games (DVG)</strong>, es un
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/compass-games/112413-the-third-world-war-designer-signature-edition-2100000861736.html#ae447">The Third World War: Designer Signature Edition</a></h4>
+         <div class="alert alert-warning" role="alert">
+            <strong>¡Ganador de la categoría!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/316410">The Third World War: Designer Signature Edition</a></strong>
 de Frank Chadwick, y publicado por <strong>Compass Games</strong>, es una
@@ -1183,6 +1203,8 @@ de Ryan Heilman y Dave Shaw, y publicado por <strong>Hollandspiele</strong>, es
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/flying-pig-games/115635-the-long-road-2100000902460.html#ae447">The Long Road</a></h4>
+         <div class="alert alert-warning" role="alert">
+            <strong>¡Ganador de la categoría!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/294456">The Long Road</a></strong>
 de Mark H. Walker, y publicado por <strong>Flying Pig Games</strong>, es un
@@ -1191,7 +1213,7 @@ de Mark H. Walker, y publicado por <strong>Flying Pig Games</strong>, es un
     <ul>
       <li>Puedes ojear las <a href="https://www.dropbox.com/s/gccu7hmuhfh0zhw/TLR.V_final.pdf?dl=0">reglas aquí</a>.</li>
       <li>Puedes ver un unboxing en el canal de <a
-    href="https://www.youtube.com/watch?v=4BfwyevsvYk">Flyung Pig Games</a>.</li></ul>
+    href="https://www.youtube.com/watch?v=4BfwyevsvYk">Flying Pig Games</a>.</li></ul>
     <p><strong>En solitario...</strong> tiene escenarios específicos para jugar
         en solitario, para el resto tienes que desdoblarte.</p>
     <img src="https://isteam.wsimg.com/ip/a507c203-a338-11e5-aa9a-00219ba60aa6/ols/900_original/:/rs=w:600,h:600">
@@ -1348,6 +1370,8 @@ de David Thompson, y publicado por <strong>Dan Verssen Games (DVG)</strong>, es
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/gmt/116464-skies-above-britain-817054012404.html#ae447">Skies Above Britain</a></h4>
+         <div class="alert alert-warning" role="alert">
+            <strong>¡Ganador de la categoría!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/325096">Skies Above Britain</a></strong>
     de Jeremy White, Gina Willis, y publicado por <strong>GMT Games</strong>, es un
@@ -1390,6 +1414,8 @@ de Ben Hull, y publicado por <strong>GMT Games</strong>, es una expansión para
     </div>
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/gmt/112640-fire-in-the-lake-fall-of-saigon-expansion-817054012206.html#ae447">Fire in the Lake: Fall of Saigon</a></h4>
+         <div class="alert alert-warning" role="alert">
+            <strong>¡Ganador de la categoría!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/286415">Fire in the Lake: Fall of Saigon</a></strong>
 de Mark Herman, Volko Ruhnke, y publicado por <strong>GMT Games</strong>, es
@@ -1478,6 +1504,8 @@ de Lee Brimmicombe-Wood, y publicado por <strong>GMT Games</strong>, es una
     <div class="col-md-9">
         <h4><a href="https://www.philibertnet.com/en/american-civil-war/110724-a-most-fearful-sacrifice-700306665827.html#ae447">A Most Fearful Sacrifice: The Three Days of
     Gettysburg</a></h4>
+    <div class="alert alert-warning" role="alert">
+            <strong>¡Wargame del año!</strong></div>
     <p>Información en la sección de <i>Mejor wargame de la guerra de Secesión</i>.</p>
     </div>
 </div>
