@@ -224,7 +224,7 @@ Esta nueva edición de **Caverna** tiene una fecha de salida prevista para el
 <img height=""
 src="https://cf.geekdo-images.com/GyKXtMrUUIaRkf5BZIsaPQ__imagepage/img/sWXTB2lW-YTm4LqbGjef8CVnMNg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6928119.jpg"></p>
 
-**—** **Rio Grande Games** anuncia en su newletter mensual su nuevo lanzamiento
+**—** **Rio Grande Games** anuncia en su newsletter mensual su nuevo lanzamiento
 para este año: **[Twisty
 Tracks](https://boardgamegeek.com/boardgame/365627/twisty-tracks)** de  Jeffrey
 D. Allers.
@@ -245,7 +245,7 @@ src="https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgH
 
 **—** **Stonemaier Games**
 [anuncia](https://stonemaiergames.com/games/wingspan/wingspan-asia/?mc_cid=72e4cbceb5&mc_eid=UNIQID)
-en su newletter que
+en su newsletter que
 **[Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan)** contará con
 una nueva expansión: **Wingspan Asia**, esta vez pudiendo jugar con las aves de
 dicho continente.

@@ -189,7 +189,7 @@ src="https://cf.geekdo-images.com/RBpk5SOT1lCqNW5faVMENA__imagepage/img/i1FpyIsa
 <img height="250"
 src="https://cf.geekdo-images.com/_Vx5OWO42mtBbY5ua2CVkg__imagepage/img/g9gahh-hL9bmpqt1BQiZNtSyWLI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7389053.png"></p>
 
-**—** **Ion Game Design** anuncia en su newletter mensual que sus dos novedades: **[Kartini: From
+**—** **Ion Game Design** anuncia en su newsletter mensual que sus dos novedades: **[Kartini: From
 Darkness to
 Light](https://boardgamegeek.com/boardgame/379935/kartini-darkness-light)** y
 **[Third Crusade](https://boardgamegeek.com/boardgame/379932/third-crusade)**,
@@ -232,7 +232,7 @@ para finales de 2023.
 <img height="250"
 src="https://cdn.shopify.com/s/files/1/2129/8201/products/DB_ENG_GB_mockup2.jpg?v=1681310981"></p>
 
-**—** **Free League Publishing** anuncia en su newletter que las preventas del
+**—** **Free League Publishing** anuncia en su newsletter que las preventas del
 core set del juego de rol
 **[Dragonbane](https://freeleaguepublishing.com/en/store/?product_id=8375606378819)** 
 ya están abiertas en su tienda online. Este core set incluye el suplemento 
@@ -242,7 +242,7 @@ ya están abiertas en su tienda online. Este core set incluye el suplemento
 <img height="250"
 src="https://cdn.shopify.com/s/files/1/0020/9806/9579/files/0200-FB-header-F_1024x1024.jpg?v=1641313051"></p>
 
-**—** **Grey For Now Games** anuncia en su newletter que ha sacado un
+**—** **Grey For Now Games** anuncia en su newsletter que ha sacado un
 [suplemento
 gratuito](https://greyfornow.com/products/02-hundred-hours-solo-play-rules?ref=mazmorreoensolitario)
 para poder jugar en solitario al wargame de escaramuzas **[02 Hundred
@@ -258,7 +258,7 @@ src="https://cf.geekdo-images.com/AzbAevS1luPIpQZgdqRJrA__imagepage/img/X47WsPHZ
 
 **—** **GMT Games**
 [anuncia](https://mailchi.mp/c93b392d88a0/april-18-update-from-gmt-new-p500s-production-update-art-samples-rules-posted-online-and-more) 
-en su newletter mensual que entran en el **P500** una nueva expansión para
+en su newsletter mensual que entran en el **P500** una nueva expansión para
 **Cuba Libre**: **[Resisting Revolution: A Cuba Libre
 Expansion](https://www.gmtgames.com/p-1038-resisting-revolution-a-cuba-libre-expansion.aspx)**,
 junto con una edición deluxe para **[Time of

@@ -25,7 +25,7 @@ enlace]({{site.baseurl}}/etiqueta/boletin-informativo-solitario/).
 ## Noticias
 
 Desde [Board Game Geek News](https://boardgamegeek.com/blog/1), Twitter,
-Instagram, y diferentes newletters nos llegan un montón de nuevos lanzamientos:
+Instagram, y diferentes newsletters nos llegan un montón de nuevos lanzamientos:
 
 <p align="center">
 <img height="250"

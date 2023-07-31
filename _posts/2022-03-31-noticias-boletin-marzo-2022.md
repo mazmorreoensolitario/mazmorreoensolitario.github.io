@@ -281,7 +281,7 @@ cuándo llegarán sus próximos juegos:
 src="https://cf.geekdo-images.com/Xyz7IQP9GLIEFQeShzpPTA__imagepage/img/HSoHAv2MISQ9FK7dyzg0PXVquYY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5824772.jpg"></p>
 
 
-**—** **Devir** anuncia en su newletter mensual que los siguientes juegos
+**—** **Devir** anuncia en su newsletter mensual que los siguientes juegos
 llegarán a **tiendas en abril:**
 
 * **[Bitoku](https://boardgamegeek.com/boardgame/323612/bitoku)**
