@@ -152,7 +152,7 @@ pasártelos.
 El objetivo es colocar máquinas en tu fábrica conectando sus entradas con los
 colores que piden, y las salidas con potencialmente otras entradas de máquinas
 para conseguir más puntos. Cada máquina te da una serie de puntos a los que
-tienes que restar 1 punto por cada tuberías o depósito de color que
+tienes que restar 1 punto por cada tubería o depósito de color que
 coloques. Además el quid del juego está en que una vez que coloques una
 máquina, no la puedes volver a mover en toda la partida, por lo que se montan
 unas redes y líos de tuberías bastante interesantes.
