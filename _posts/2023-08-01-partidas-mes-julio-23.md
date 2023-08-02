@@ -13,7 +13,7 @@ sacado a la mesa"
 
 <hr>
 
-Aquí está otra vez mas la entrada mensual de **[El mes en
+Aquí está otra vez más la entrada mensual de **[El mes en
 juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos)**, esta vez vamos a hablar
 de **julio**, mes que ha sido bastante ¿primaveral? por aquí en el norte. Todo
 eso que habéis estado leyendo de que julio ha sido el mes más caluroso de la
