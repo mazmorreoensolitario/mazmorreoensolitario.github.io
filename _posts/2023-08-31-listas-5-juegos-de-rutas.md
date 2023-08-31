@@ -5,8 +5,8 @@ date: 2023-08-31
 categories: [Listas]
 tags: [Tops, Curious Cargo, Trailblazers, Factory Funner, Wormholes, Tramways, Tranvías]
 imghtml: https://live.staticflickr.com/65535/53154841592_c87e5c4124_b.jpg
-post_desc: "Aquí tenemos más recomendaciones de juegos en solitario de un tema
-en concreto"
+post_desc: "Te recomiendo 5 juegos en solitario que presentan la mecánica de
+construcción de rutas"
 ---
 
 ![](https://live.staticflickr.com/65535/53154841592_c87e5c4124_b.jpg)
