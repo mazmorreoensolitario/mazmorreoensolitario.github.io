@@ -14,7 +14,8 @@ específico, esta vez tocan juegos 'de batallitas o guerras'"
 * **[5 Juegos en solitario de 'construir cosas']({{site.baseurl}}/2020/12/02/listas-5-juegos-de-construir-cosas/)**
 * **5 Juegos en solitario de 'batallitas o guerras'** (estás aquí)
 * **[5 Juegos en solitario 'del espacio']({{site.baseurl}}/2021/05/16/listas-5-juegos-del-espacio/)**
-
+* **[5 Juegos en solitario 'de hacer   rutas']({{site.baseurl}}/2023/08/31/listas-5-juegos-de-rutas/)**
+  
 <hr>
 
 Siguiendo con la serie de entradas sobre juegos de alguna temática específica

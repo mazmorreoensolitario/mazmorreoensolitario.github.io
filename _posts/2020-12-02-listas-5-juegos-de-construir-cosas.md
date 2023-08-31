@@ -15,6 +15,7 @@ cumplen ese criterio"
 * **5 Juegos en solitario de 'construir cosas'** (estás aquí)
 * **[5 Juegos en solitario de 'batallitas o guerras']({{site.baseurl}}/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/)**
 * **[5 Juegos en solitario 'del espacio']({{site.baseurl}}/2021/05/16/listas-5-juegos-del-espacio/)**
+* **[5 Juegos en solitario 'de hacer rutas']({{site.baseurl}}/2023/08/31/listas-5-juegos-de-rutas/)**
 
 <hr>
 

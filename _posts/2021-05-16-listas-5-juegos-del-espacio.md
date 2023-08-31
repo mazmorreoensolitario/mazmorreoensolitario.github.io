@@ -14,7 +14,7 @@ en concreto, esta vez tocan juegos que se puedan considerar como 'del espacio'"
 * **[5 Juegos en solitario de 'construir cosas']({{site.baseurl}}/2020/12/02/listas-5-juegos-de-construir-cosas/)**
 * **[5 Juegos en solitario de 'batallitas o guerras']({{site.baseurl}}/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/)**
 * **5 Juegos en solitario 'del espacio'**  (estás aquí)
-
+* **[5 Juegos en solitario 'de hacer rutas']({{site.baseurl}}/2023/08/31/listas-5-juegos-de-rutas/)**
 <hr>
 
 En entradas anteriores de esta serie un buen amigo me había pedido
