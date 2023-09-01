@@ -73,7 +73,7 @@ abajo.
 Tras colocar la pila de trabajadores tomas las acciones, que te permiten
 colocar calles, intersecciones, mover un tranvía, conseguir recursos, conseguir
 losetas de objetivo... muchas cosas que pueden desencadenar más cosas, y luego
-pasas a la fase de construcción, ahí te fijas en qué tiene al rededor tu pila
+pasas a la fase de construcción, ahí te fijas en qué tiene alrededor tu pila
 de trabajadores, la idea es tener otros trabajadores cerca (que se hayan puesto
 en un turno anterior), de forma que si llegan a delimitar una zona de
 construcción de manzana (hay trabajadores en al menos dos esquinas de un
@@ -84,10 +84,11 @@ El tipo de manzana depende de qué tipo de trabajadores tengas en las parte
 superior de las pilas, hay tres tipos de manzanas y necesitan diferentes
 combinaciones de trabajadores, cuando construyes la manzana te dan puntos,
 subes en un track o bajas en otro dependiendo del tipo de manzana que hayas
-construido. Retiras los trabajadores y los pones en otro track (este último
-track divide a los trabajadores por tipo y es lo que desencadena el final de
-las rondas del juego y la puntuación tras cada una de ellas), y después le toca
-jugar al bot.
+construido. Retiras los trabajadores que hayas usado para construir la
+manzana (si están en la pila, solo cuenta para todo esto el que vemos, que está
+arriba) y los pones en otro track —este último track divide a los trabajadores
+por tipo y es lo que desencadena el final de las rondas del juego y la
+puntuación tras cada una de ellas— y después le toca jugar al bot.
 
 Sobre el bot, está bien hecho, es muy sencillo de llevar, se roba una carta de
 su mazo, y nos dice qué hacer. Tiene la capacidad de ejecutar todas las mismas
@@ -110,8 +111,8 @@ por ahí, pero ya lo has visto todo y no va a haber grandes sorpresas, no es un
 juego que me haya apetecido jugar dos veces seguidas.
 
 Lo mejor es tratar de cuadrar las acciones que quieres tomar con dónde quieres
-construir, porque una cosa está ligada a la otra, y eso es un mecanismo muy muy
-guay del juego.
+construir, porque una cosa está ligada a la otra, y eso es un mecanismo muy,
+muy guay del juego.
 
 ### [Cascadia](https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447)
 
