@@ -114,6 +114,13 @@ Lo mejor es tratar de cuadrar las acciones que quieres tomar con dónde quieres
 construir, porque una cosa está ligada a la otra, y eso es un mecanismo muy,
 muy guay del juego.
 
+*Actualización, 2/09/23:* el autor del juego me [ha
+comentado](https://twitter.com/Woodys_3d/status/1697919322029453528) en Twitter
+de que se está actualizando la dificultad del bot en solitario con unas pautas
+que tenéis [en
+BGG](https://boardgamegeek.com/thread/3133651/article/42771112#42771112) y que
+se harán oficiales en una actualización que haga la editorial en el futuro.
+
 ### [Cascadia](https://www.philibertnet.com/en/alderac/103350-cascadia-729220070982.html#ae447)
 
 <p align="center">
@@ -184,7 +191,8 @@ Nada que destacar este mes.
 Y finalmente llegamos a la sección del los **Premios Juego del Mes**, para que
 dos juegos se lleven el codiciado galardón:
 
-* **En juegos de mesa...** el ganador es **Barcelona**,
+* **En juegos de mesa...** el ganador es **Barcelona**, porque ha sido el juego
+  de las vacaciones.
 * **En juegos de rol...** nos lo saltamos este mes también.
 
 ¡Felicidades a los premiados!
