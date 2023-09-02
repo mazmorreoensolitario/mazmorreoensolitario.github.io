@@ -207,7 +207,7 @@ juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos)**!
 
 <hr>
 
-<small>Nota: nota el fondo espacial de la cabecera de esta entrada es la <a
+<small>Nota: el fondo espacial de la cabecera de esta entrada es la <a
 href="https://esahubble.org/images/heic1011a/">sección N11 de la Gran Nube de
 Magallanes</a>. NASA, ESA y Jesús Maíz Apellániz (Instituto de Astrofísica de
 Andalucía)</small>
