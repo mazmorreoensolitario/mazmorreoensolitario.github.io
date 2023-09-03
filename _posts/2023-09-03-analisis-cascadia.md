@@ -289,7 +289,7 @@ juegos en los que podría decir que, sí, ahora mismo me pondría a jugarla otra
 vez tratando de mejorar tanto mis puntuaciones, como el número de intentos que
 me costó pasarme un escenario en concreto.
 
-vY ¿por qué gusta este juego tan simple? Pues, mi respuesta no es nada del otro
+Y, ¿por qué gusta este juego tan simple? Pues, mi respuesta no es nada del otro
 mundo, pero es la que tengo: porque tiene al menos una decisión interesante en
 cada turno, en todos los turnos. Antes de empezar el primer drafting ya tienes
 que pensar qué animales merecen más jugar que otros en base a las cartas de
