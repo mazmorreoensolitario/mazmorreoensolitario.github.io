@@ -69,6 +69,13 @@
       {% endfor %}
     </div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2023/09/03/analisis-cascadia/" %}
+       {% for post in target-posts %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2020/05/16/rol-en-solitario-como-empiezo/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -77,13 +84,6 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2023/09/01/partidas-mes-agosto-23/" %}
-       {% for post in target-posts %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/09/03/analisis-cascadia/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -159,6 +159,7 @@
       or tag[0] == "Cascadia"
       or tag[0] == "Dinosaur World"
       or tag[0] == "El Banquete de Odín"
+      or tag[0] == "Forbidden Lands"
       or tag[0] == "High Frontier 4 All"
       or tag[0] == "Las Ruinas Perdidas de Arnak"
       or tag[0] == "Mörk Borg"
@@ -174,9 +175,9 @@
       or tag[0] == "Etherfields"
       or tag[0] == "Factory Funner"
       or tag[0] == "Five Parsecs From Home"
-      or tag[0] == "Forbidden Lands"
       or tag[0] == "Iron Helm"
       or tag[0] == "Lacrimosa"
+      or tag[0] == "Mapping the Catacombs"
       or tag[0] == "Maracaibo"
       or tag[0] == "Mausritter"
       or tag[0] == "Mythic"
