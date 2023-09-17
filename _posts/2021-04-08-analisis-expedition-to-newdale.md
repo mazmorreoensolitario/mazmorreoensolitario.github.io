@@ -181,7 +181,7 @@ Y esto es lo que vas a tener que hacer en el número de rondas que te indique tu
 escenario, ahora te explico brevemente cada cosa con fotos que harán de
 ejemplos.
 
-**Programación de acciones.** Es cuando eliges donde poner tus cilindros con
+**Programación de acciones.** Es cuando eliges dónde poner tus cilindros con
 una pegatina y un número. El número indica el orden en el que se ejecutarán
 después, así que tienes que tenerlo en cuenta. 
 
@@ -350,7 +350,7 @@ en cadena "recurso súper guay que vale muchos puntos", el escenario te pide
 Si no hubiese campaña y fuera el típico euro de conseguir puntos de victoria y
 fuera, podrías ser más creativo con tus cartas y con las formas de conseguir
 puntos, pero de esta forma a mí me parece un chasco. Hay algunos escenarios que
-si que te piden crear productos más avanzados y tienes que hacer cadenas de
+sí que te piden crear productos más avanzados y tienes que hacer cadenas de
 producción, pero aún así siempre es un subconjunto de todo lo que puedes hacer
 en el juego.
 
