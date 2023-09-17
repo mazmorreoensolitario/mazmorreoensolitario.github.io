@@ -229,9 +229,9 @@ reglamentos (si los hay).
     <div class="col-md-9">
          <h4>5. Galactic Cruise</h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/391137">Galactic Cruise</a></strong>
-         de <strong>T.K. King, Dennis Northcott, Koltin Thompson</strong>, y
+         de <strong>T.K. King, Dennis Northcott</strong> y <strong>Koltin Thompson</strong>, y
          próximamente publicado por 
-         <strong>Kinson Key Games, Dranda Games</strong>, es un juego en el que
+         <strong>Kinson Key Games</strong>, es un juego en el que
          somos una compañía de viajes espaciales y tenemos que construir y
          lanzar naves para llevar a nuestros clientes en su crucero espacial.</p> 
          <img src="https://cf.geekdo-images.com/2P_nRJV1bcotmQD5j-fPDg__imagepage/img/aOMfY_CU1He425jVLJTp_wiM5TE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7618318.jpg">
@@ -281,7 +281,7 @@ reglamentos (si los hay).
     <div class="col-md-9">
          <h4>3. Sankoré: The Pride of Mansa Musa</h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/382518">Sankoré: The Pride of Mansa Musa</a></strong>
-         de <strong>Mandela Fernandez-Grandon, Fabio Lopiano</strong>, y
+         de <strong>Fabio Lopiano</strong> y <strong>Mandela Fernandez-Grandon</strong>, y
      próximamente publicado por <strong>Osprey Games</strong>, es un euro medio
     con mecánicas de colocación de trabajadores, contratos, puntos de acción,
     colas de recursos y árboles de tecnología (<i>tech trees</i>) en el que
@@ -372,8 +372,8 @@ más me interesan de la SPIEL** y en un principio, salvo que en la demo me salga
 rana el juego, tengo intención de comprarlos.
 
 En la parte de *"Un pequeño vistazo"* trato de haceros un pequeño resumen de
-las reglas para que os hagáis a la idea de cómo se juega, y luego tenéis el
-porqué me interesa el juego.
+las reglas para que os hagáis a la idea de cómo se juega, y luego tenéis porqué
+me interesa el juego.
 
 <div class="row">
     <div class="col-md-3">
@@ -500,7 +500,7 @@ porqué me interesa el juego.
          almacenar en tu tablero de jugador si tienes espacio.</p>
          <p>En los turnos de <i>trabajo</i> podrás conseguir tantos dados de
          piedra o de oración como trabajadores tengas en tu tablero de jugador,
-         después tirarás todos los dados para empezar a tomar acciones, si no te
+         después tirarás todos los dados para empezar a tomar acciones; si no te
          gustan los resultados de los dados, los <i>gatos</i> son un recurso
          que puedes gastar de tu tablero de jugador en cualquier momento para
          añadir o substraer 1 del valor de un dado.</p><p>Entre las acciones,
@@ -715,7 +715,7 @@ porqué me interesa el juego.
     losetas de acciones en un mercado.</p>
     <p>Esas dos formas de jugar las losetas de acción es lo que alimenta el
     juego, tenemos que conectar ciudades para que se formen redes y que la
-    energía que producen las centrales de Nucleum (o el carbón que tratamos de
+    energía que producen las centrales de Nucleum (o de carbón, que es lo que tratamos de
     sustituir) pueda llegar a lo que construimos en ellas, como residencias,
     fábricas o laboratorios, ya que estas cosas solamente puntuarán si les
     llega energía.</p>
@@ -799,7 +799,7 @@ porqué me interesa el juego.
          <p><strong>— ¿Por qué me interesa este juego?</strong> De la misma
          forma que creo que <strong>Nucleum</strong> va a ser el euro de peso
          duro de Essen, yo creo que este <strong>Evacuation</strong> va a ser
-         el euro de peso medio-duro de Essen, cuando salió la primera imagen
+         el euro de peso medio-duro de Essen; cuando salió la primera imagen
          del tablero y supimos de qué iba a ser el tema he estado esperando con
     muchas ganas a que subieran el reglamento, y tras leerlo,
     <strong>Evacuation</strong> tiene cierto engine building, gestión de mano
@@ -871,8 +871,8 @@ informada.
          embargo, tengo el <strong>Gaia Project</strong>, que es también una
     re-implementación mejorada del TM y parece que no hay demasiadas
     diferencias, así que no creo que merezca la pena. Dudo mucho que me la demo
-    que haga en la SPIEL me pueda cambiar de opinión, así que por eso es el
-    último de esta lista.</p>
+    que haga en la SPIEL me pueda cambiar de opinión, así que por eso es de los 
+    últimos de esta lista.</p>
      </div>
 </div>
 
