@@ -36,7 +36,7 @@ interés en bingos de años anteriores por aquí tenéis los enlaces:
 así que voy a ir con más ilusión todavía.
 
 Las listas están divididas en cuatro categorías que juntas crean **mis juegos
-tops de Esssen**:
+tops de Essen**:
 - [Las
 demos](#no-me-perdería-estas-demos)
 - [Los juegos más
