@@ -339,8 +339,7 @@ reglamentos (si los hay).
          de la OTAN contra las del Pacto de Varsovia.</p> <p>En <strong>Red
      Strike</strong> controlamos a ejércitos terrestres en escala de división,
         regimiento o brigada, fuerzas aéreas a nivel de regimiento o escuadrón
-        y a armadas en grupos de buques o individualmente buques en
-        capitales.</p>
+        y a armadas en grupos de buques o directamente buques capitales.</p>
         <p>Tiene 10 escenarios en solitario para aprender a jugar al juego,
         varios escenarios que utilizan partes del mapa y dos campañas a mapa completo.</p>
          <p>Si quieres ya puedes ojear el <a
