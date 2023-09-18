@@ -3,7 +3,7 @@ layout: post
 title: "Essen SPIEL 2023: mi bingo de juegos en solitario"
 date: 2023-09-17
 categories: [General]
-tags: [Ark Nova, "Ark Nova: Marine Worlds", Faiyum, "Faiyum: Privileges", Evacuation, Footprints, Nucleum, Pirates of Maracaibo, Planta Nubo, Pyramidice, "Zhanguo: The First Empire", Cascadia, "Cascadia: Landmarks", Essen Spiel, Essen Spiel 2023]
+tags: [Red Strike, Ark Nova, "Ark Nova: Marine Worlds", Faiyum, "Faiyum: Privileges", Evacuation, Footprints, Nucleum, Pirates of Maracaibo, Planta Nubo, Pyramidice, "Zhanguo: The First Empire", Cascadia, "Cascadia: Landmarks", Essen Spiel, Essen Spiel 2023]
 imghtml: https://live.staticflickr.com/65535/53159013491_0150aed6c6_o.png
 post_desc: "Aquí llega mi lista de top juegos y top demos para la Essen SPIEL
 de 2023."
@@ -751,7 +751,8 @@ me interesa el juego.
          <h4>1. Evacuation</h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/382843">Evacuation</a></strong>
          de <strong>Vladimír Suchý</strong> y publicado por
-         <strong>Delicious Games</strong> es un juego en el que el planeta en
+         <strong>Delicious Games</strong> (confirmado con <strong>Arrakis
+    Games</strong> para finales de 2023), es un juego en el que el planeta en
          el que vivimos va a dejar de ser habitable porque el sol cercano está
          a punto de achicharrarlo, así que tenemos que mover a toda su población
          y todas sus fábricas a otro planeta cercano que puede albergar vida.</p> 
@@ -969,7 +970,8 @@ informada.
          <h4>1. Shipyard (2nd edition)</h4>
          <p><strong><a href="https://boardgamegeek.com/boardgame/393179">Shipyard (2nd edition)</a></strong>
          de <strong>Vladimír Suchý</strong>, y publicado por
-         <strong>Delicious Games</strong>, es la segunda edición de este juego,
+         <strong>Delicious Games</strong> (confirmado con <strong>Arrakis
+    Games</strong> para finales de 2023), es la segunda edición de este juego,
     que el señor Suchý decidió revisar para ver si "aguantaba el paso de los
     años". Tras ver que para él seguía igual de bien, esta nueva edición
     conserva las reglas que el anterior, pero se añade un modo en solitario y

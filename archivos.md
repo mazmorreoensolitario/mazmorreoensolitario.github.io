@@ -156,6 +156,7 @@ categorías.
                 or tag[0] == "Essen Spiel 2019"
                 or tag[0] == "Essen Spiel 2021"
                 or tag[0] == "Essen Spiel 2022"
+                or tag[0] == "Essen Spiel 2023"
                 or tag[0] == "UKGE" or tag[0] == "UKGE 2021" %}
                     <span class="label label-info"><strong>#<a class="tag-color"
                     href="/etiqueta/{{tag[0] | slugify:
@@ -250,6 +251,7 @@ categorías.
                         tag[0] == "Red Dust Rebellion" or
                         tag[0] == "Red Flag Over Paris" or
                         tag[0] == "Red Storm: The Air War Over Central Germany" or
+                        tag[0] == "Red Strike" or
                         tag[0] == "Red Sun Blue Cross" or
                         tag[0] == "Salerno 43" or
                         tag[0] == "Santander 37" or
