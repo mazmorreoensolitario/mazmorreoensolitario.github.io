@@ -576,7 +576,7 @@ me interesa el juego.
         compramos una <i>residencia</i> tendremos una forma de puntuar adicional en
         base a lo que diga esa residencia y finalmente en las
         <i>localizaciones</i>, que son islas que vamos descubriendo podremos hacer
-        una gran cantidad de acciones depende del tipo de localización que sea,
+        una gran cantidad de acciones dependiendo del tipo de localización que sea,
         podremos hacer incursiones para ganar tesoros (para esto tiramos tres dados
         que representan: oro, esmeraldas y perlas; elegimos uno y ganaremos "poder
         de incursión" de ese valor, que podremos después canjear por puntos, dinero
@@ -869,8 +869,8 @@ informada.
          <strong>Terra Mystica</strong> (TM) que puede jugarse en solitario, sin
          embargo, tengo el <strong>Gaia Project</strong>, que es también una
     re-implementación mejorada del TM y parece que no hay demasiadas
-    diferencias, así que no creo que merezca la pena. Dudo mucho que me la demo
-    que haga en la SPIEL me pueda cambiar de opinión, así que por eso es de los 
+    diferencias, así que no creo que merezca la pena. Dudo mucho que la demo
+    que haga en la SPIEL me vaya a cambiar de opinión, así que por eso es de los 
     últimos de esta lista.</p>
      </div>
 </div>
