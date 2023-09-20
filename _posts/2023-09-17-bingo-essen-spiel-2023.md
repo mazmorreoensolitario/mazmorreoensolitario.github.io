@@ -2,8 +2,8 @@
 layout: post
 title: "Essen SPIEL 2023: mi bingo de juegos en solitario"
 date: 2023-09-17
-categories: [General]
-tags: [Red Strike, Ark Nova, "Ark Nova: Marine Worlds", Faiyum, "Faiyum: Privileges", Evacuation, Footprints, Nucleum, Pirates of Maracaibo, Planta Nubo, Pyramidice, "Zhanguo: The First Empire", Cascadia, "Cascadia: Landmarks", Essen Spiel, Essen Spiel 2023]
+categories: [Listas]
+tags: [Red Strike, Shipyard, The White Castle, World Wonders, Age of Innovation, Ark Nova, "Ark Nova: Marine Worlds", Faiyum, "Faiyum: Privileges", Evacuation, Footprints, Nucleum, Pirates of Maracaibo, Planta Nubo, Pyramidice, "Zhanguo: The First Empire", Cascadia, "Cascadia: Landmarks", Essen Spiel, Essen Spiel 2023]
 imghtml: https://live.staticflickr.com/65535/53159013491_0150aed6c6_o.png
 post_desc: "Aquí llega mi lista de top juegos y top demos para la Essen SPIEL
 de 2023."
@@ -541,6 +541,7 @@ me interesa el juego.
          <p>Creo que puede ser un juego no demasiado complicado con bastante
          chicha y que tiene bots de diferente dificultad, y el tema me ha
          ganado, así que hay que probarlo.</p>
+         <p>Tendrá un precio de venta de <strong>40€</strong>.</p>
      </div>
 </div>
 
@@ -737,8 +738,10 @@ me interesa el juego.
     acostumbra, por lo que tengo esperanza de que no sea un peñazo de
     llevar y en general muchas ganas por todo lo interesante que parece
     este <strong>Nucleum</strong>.</p>
-    <p>Tendrá un precio de venta de <strong>70€</strong>, 60€ en preventa (ya cerrada).</p>
-     </div>
+    <p>Tendrá un precio de venta de <strong>70€</strong>, 60€ en <a
+    href="https://boardanddice.com/product/nucleum/">preventa</a> (<s>ya
+    cerrada</s> corrección: sigue abierta, pero no para recoger en la feria).</p>
+     </div> 
 </div>
 
 <div class="row">

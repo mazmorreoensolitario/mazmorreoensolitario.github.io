@@ -2,7 +2,7 @@
 layout: post
 title: "Essen Spiel 2022: mi bingo de juegos en solitario"
 date: 2022-09-19
-categories: [General]
+categories: [Listas]
 tags: [Essen Spiel, Essen Spiel 2022, Paperback Adventures, Interstellar, Pampero, "Fateforge: Chronicles of Kaan", Pilgrim, Aleph Null, Spirit Island, Horizons of Spirit Island, Tiletum, Findorff, Wormholes, Ark Nova]
 imghtml: https://live.staticflickr.com/65535/52364067810_59d2a1f051_o.png
 post_desc: "Aquí llega mi lista de top juegos y top demos para la Essen Spiel
