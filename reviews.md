@@ -123,7 +123,7 @@ atención.</strong></p>
 <div class="col-md-12">
 <p><strong>Me lo paso bien jugando a este juego.</strong>  — El último escalón de los juegos que
 puedo decir que me gustan. Son los que menos saco a la mesa, también son 
-*estacionales* (mira qué es esto en la descripción de la categoría superior).</p>
+<i>estacionales</i> (mira qué es esto en la descripción de la categoría superior).</p>
 
 <div class="col-md-8">
 {% assign sorted-posts = site.posts | where: "categories","Análisis" %}
