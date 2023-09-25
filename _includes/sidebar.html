@@ -104,14 +104,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/11/14/noticias-csr-awards-2021/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/06/21/analisis-root/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/09/03/analisis-cascadia/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/11/14/noticias-csr-awards-2021/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -143,40 +143,44 @@
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
       {% for tag in site.tags %}
-      {% if tag[0] == "Tops"
-      or tag[0] == "Altar Quest"
+      {% if tag[0] == "Print & play"
+      or tag[0] == "Cascadia"
       or tag[0] == "Forbidden Lands"
       or tag[0] == "G.I. JOE Deck-Building Game"
-      or tag[0] == "Cascadia"
+      or tag[0] == "Tops"
+      or tag[0] == "Ark Nova"
+      or tag[0] == "Curious Cargo"
+      or tag[0] == "Faiyum"
       or tag[0] == "Five Leagues From The Borderlands"
-      or tag[0] == "Print & play"
+      or tag[0] == "Iron Helm"
+      or tag[0] == "Scarlet Heroes"
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Alone Among the Stars"
-      or tag[0] == "Ark Nova"
       or tag[0] == "Cthulhu: Death May Die"
-      or tag[0] == "Curious Cargo"
       or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
-      or tag[0] == "Eldritch Horror"
       or tag[0] == "Essen Spiel 2023"
       or tag[0] == "Essen Spiel"
-      or tag[0] == "Faiyum"
+      or tag[0] == "Evacuation"
       or tag[0] == "Final Girl"
-      or tag[0] == "Ironsworn"
+      or tag[0] == "Footprints"
+      or tag[0] == "Nucleum"
       or tag[0] == "One Page Dungeon"
       or tag[0] == "OSR"
       or tag[0] == "Pequeños Grandes Zombis"
-      or tag[0] == "Scarlet Heroes"
+      or tag[0] == "Pirates of Maracaibo"
+      or tag[0] == "Shipyard"
       or tag[0] == "Street Masters"
       or tag[0] == "Tin Helm"
       or tag[0] == "White Dog Games"
-      or tag[0] == "Wingspan Asia"
+      or tag[0] == "Zhanguo: The First Empire"
       or tag[0] == "7 Wonders Duel"
       or tag[0] == "A Thousand Year Old Vampire"
       or tag[0] == "Agricola"
       or tag[0] == "ALIEN RPG"
+      or tag[0] == "Ark Nova: Marine Worlds"
       or tag[0] == "Arkham Horror"
+      or tag[0] == "Blades in the Dark"
       or tag[0] == "Boletín Informativo Solitario"
-      or tag[0] == "Brazil: Imperial"
       or tag[0] == "Carnegie"
       or tag[0] == "Cascadia: Landmarks"
       or tag[0] == "Charles S. Roberts Awards"
@@ -184,32 +188,25 @@
       or tag[0] == "El mes en juegos"
       or tag[0] == "El Símbolo Arcano"
       or tag[0] == "Etherfields"
-      or tag[0] == "Evacuation"
-      or tag[0] == "Exploradores de las Profundidades Sombrías"
       or tag[0] == "Findorff"
       or tag[0] == "Five Parsecs From Home"
-      or tag[0] == "Footprints"
       or tag[0] == "Four Against Darkness"
-      or tag[0] == "Iron Helm"
       or tag[0] == "Ironsworn Worlds: Sundered Isles"
+      or tag[0] == "Ironsworn"
       or tag[0] == "Kingdom Death: Monster"
       or tag[0] == "Mapeando las catacumbas"
       or tag[0] == "Mausritter"
       or tag[0] == "Mazescape"
       or tag[0] == "Mörk Borg"
-      or tag[0] == "Nucleum"
-      or tag[0] == "Paleo"
-      or tag[0] == "Pirates of Maracaibo"
+      or tag[0] == "Old-School Essentials"
       or tag[0] == "Planta Nubo"
       or tag[0] == "Pyramidice"
       or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Sherlock Holmes Detective Asesor"
-      or tag[0] == "Shipyard"
       or tag[0] == "Solitaire Print & Play Design Contest"
-      or tag[0] == "Trickerion: Legends of Illusion"
+      or tag[0] == "TINYforming Mars"
       or tag[0] == "Twilight Imperium"
-      or tag[0] == "Wicked Ones"
-      or tag[0] == "Zhanguo: The First Empire"
+      or tag[0] == "Undaunted: Normandy"
       or tag[0] == "Zona Alfa" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
@@ -231,14 +228,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/09/03/analisis-cascadia/" %}
+      {% assign target-posts = site.posts | where: "url","/2021/06/21/analisis-root/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>2. {{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/06/21/analisis-root/" %}
+      {% assign target-posts = site.posts | where: "url","/2023/09/03/analisis-cascadia/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>3. {{post.title | truncate: 40}}</h5></div></a>
