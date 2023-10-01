@@ -2,7 +2,11 @@
 layout: default_container
 ---
 <meta name="twitter:card" content="summary_large_image"/>
+{% if post.alt_twitter %}
+<meta name="twitter:image" content="{{page.alt_twitter}}"/>
+{% else %}
 <meta name="twitter:image" content="{{page.imghtml}}"/>
+{% endif %}
 <meta name="twitter:title" content="{{page.title}}"/>
 <meta name="twitter:description" content="{{page.post_desc}}"/>
 <div class="row">
