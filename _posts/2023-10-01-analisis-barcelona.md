@@ -103,6 +103,10 @@ acción de "construir un servicio público" (loseta del edificio, en la parte de
 arriba), y la acción de "obtener un proyecto de modernismo" (la loseta que
 tiene un cuadrado con una flecha que sale de él, en la parte de la derecha).
 
+Si colocamos el montocito de ciudadanos en una intersección de la calle
+diagonal, podremos tomar también la acción que se encuentra en la calle
+diagonal (la podéis ver tres fotos más arriba), pero tendremos que pagar un
+coste extra en recursos (una moneda) por colocar los ciudadanos ahí.
 
 Después de esto podría construir, os comento como funciona con otro ejemplo.
 
@@ -191,9 +195,10 @@ Todos estos elementos vienen de nuestro tablero del jugador (ver foto arriba) y
 para colocarlos en el tablero tendremos que tomar la acción correspondiente. En
 general todas estos elementos nos permiten ganar puntos de victoria o recursos.
 
-Además de esto tenemos espacio en la parte superior para colocar las losetas de
-Sagrada Familia cuando avancemos en dicho medidor, que nos darán puntos de
-victoria o recursos.
+Además de esto tenemos espacio en la parte superior del tablero del jugador
+para colocar las losetas de Sagrada Familia. Estas losetas se consiguen cuando
+avanzamos hasta cierto punto en dicho medidor, y nos darán puntos de victoria o
+recursos.
 
 Las baldosas con el diseño tradicional de la ciudad de Barcelona bloquean
 espacios de almacenamiento de recursos, que podremos liberar si tomamos la

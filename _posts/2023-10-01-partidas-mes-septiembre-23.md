@@ -4,12 +4,12 @@ title: "Septiembre en juegos (2023)"
 date: 2023-10-01
 categories: [General]
 tags: [El mes en juegos, Horizons of Spirit Island, Ark Nova, Barcelona, Cascadia, Rebuilding Seattle, Roll Player, Terraforming Mars, Wingspan Asia]
-imghtml: http://localhost:4000/images/partidas-mes-septiembre-23.jpg
+imghtml: https://live.staticflickr.com/65535/53227186151_e78e7ebc6f_c.jpg
 post_desc: "¿Qué se ha jugado durante septiembre? Aquí te cuento qué juegos he
 sacado a la mesa"
 ---
 
-![](http://localhost:4000/images/partidas-mes-septiembre-23.jpg)
+![](https://live.staticflickr.com/65535/53227186151_e78e7ebc6f_c.jpg)
 
 <hr>
 
