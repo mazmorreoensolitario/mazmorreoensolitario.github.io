@@ -366,15 +366,15 @@ Elegimos las acciones en base a la intersección en la que pongamos a nuestra
 pila de trabajadores, para ello miramos en los dos puntos de los bordes del
 tablero a los que se llega en línea recta desde la intersección, como si fueran
 coordenadas X e Y de un mapa, y podremos tomar esas acciones. Las acciones
-derivan todas en ganar puntos de una forma u otra, o construyendo cosas que dan
-puntos (calles, o edificios públicos), o consiguiendo recursos para comprar
-cosas que dan puntos, u obteniendo losetas de modernismo, que son objetivos por
-los que ganarás puntos al final de la partida. Vamos, todo es puntos, recursos
-o subir en un marcador.
+derivan todas en ganar puntos de una forma u otra, o construyen cosas que dan
+puntos (calles, o edificios públicos), o consiguen recursos para comprar
+cosas que dan puntos, o te permiten comprar losetas de modernismo, que son
+objetivos por los que ganarás puntos al final de la partida. Vamos, todo es
+puntos, recursos o subir en el marcador de Cerdá.
 
-Por otro lado, el segundo objetivo de esos trabajadores que colocas, es que lo
+Por otro lado, el segundo objetivo de esos trabajadores que colocas, es que los
 que se encuentren en la parte de arriba de los montoncitos servirán para
-construir una manzana de cierto tipo en el mapa, que se representan con las
+construir una manzana de cierto tipo en el tablero, que se representa con las
 losetas de las típicas manzanas de Barcelona.
 
 Cada tipo de manzana necesita diferentes clases de ciudadanos en cierta
@@ -405,7 +405,7 @@ Así que, colocas tu pila de ciudadanos donde cuadre para tomar las acciones que
 quieres, pero también tienes que tener en cuenta que tus trabajadores van a
 poder usarse por el resto de jugadores (el bot en nuestro caso) para construir
 manzanas, y generalmente no quieres que el bot construya más que tú, ni que
-suba demasiado en el contador de Cerdá, así que ahí está la primera decisión
+suba demasiado en el marcador de Cerdá, así que ahí está la primera decisión
 interesante del juego, quieres poner los trabajadores de tal forma que te
 permita tomar X e Y acciones, pero tampoco quieres servirle al bot en bandeja
 la capacidad para que construya una manzana de nivel 3 por ejemplo, ya que le
