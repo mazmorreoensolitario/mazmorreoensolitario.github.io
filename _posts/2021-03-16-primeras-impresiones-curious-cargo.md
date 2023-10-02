@@ -79,7 +79,7 @@ haciendo conexiones con losetas de tuberías"
     </div>
 </div>
 
-> **Modo en solitario** (versión alpha) en esta [carpeta de
+> **Modo en solitario oficial** (versión alpha) en esta [carpeta de
 > Drive](https://drive.google.com/drive/folders/1D71vaqkDCoYwgnc1icIyu1V6vjpqhlEr).
 
 ### El juego en el punto de mira
