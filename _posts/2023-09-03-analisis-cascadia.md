@@ -5,7 +5,6 @@ date: 2023-09-03
 categories: [Análisis]
 tags: [Cascadia, Spiel des Jahres, Golden Geek]
 game: Cascadia
-crop: true
 score: 4
 imghtml: https://cf.geekdo-images.com/ZuE7D3sROzKPr1k6FCXB4g__imagepage/img/hAwpL3ER8nOCIUYMcDNCUQrP0zs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7438564.jpg
 post_desc: "Cascadia es un juego de abstracto de colocación de losetas en el
