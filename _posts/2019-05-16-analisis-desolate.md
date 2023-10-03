@@ -345,7 +345,7 @@ dan células de energía.
 Desolate es perder, pero disfrutar perdiendo, o ganar por los pelos. Esa es la
 asociación que hago y que hace que me guste el juego.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 4 de 5 monedas. **¡Este juego es genial!**
 
 **Opinión sobre las expansiones.** Creo que Dark Matters 1, la que añade las

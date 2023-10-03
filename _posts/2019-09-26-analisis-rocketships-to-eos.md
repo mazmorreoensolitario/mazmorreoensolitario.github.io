@@ -202,7 +202,7 @@ fácilmente.
   lo mastiquemos bien.
 
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 1.5 de 5 monedas. **Creo que prefiero hacer otra cosa.**
 
 ### Extra

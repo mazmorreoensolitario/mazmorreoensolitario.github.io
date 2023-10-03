@@ -405,7 +405,7 @@ en su justa medida, puede ser para ti.
 **En resumidas cuentas,** me gusta mucho la gestión de la producción, pero la
 campaña me mata.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 3 de 5 monedas. **Me lo paso bien jugando a este juego.**
 
 

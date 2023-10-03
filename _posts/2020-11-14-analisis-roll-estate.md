@@ -167,5 +167,5 @@ de chicha, si necesitas jugar a algo durante 10 minutos de tu vida, con esto
 vas a estar entretenido, pero si tienes buenas vistas y te dedicas a mirar al
 paisaje durante esos 10 minutos, posiblemente te lo pases igual de bien.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
  2.5 de 5 monedas. **Es entretenido, pero no me engancha.** 

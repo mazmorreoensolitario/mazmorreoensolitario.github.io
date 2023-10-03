@@ -318,7 +318,7 @@ sesudo que un *filler*.
 **En resumidas cuentas,** es el juego para calentar en una tarde jugona o el
 juego que puedes sacar entre semana cuando no tengas mucho tiempo.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 3 de 5 monedas. **Me lo paso bien jugando a este juego.**
 
 <hr>

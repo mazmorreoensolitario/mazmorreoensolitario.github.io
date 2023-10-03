@@ -191,7 +191,7 @@ espaciales y quieres partidas rápidas, este es de los tuyos.
 **En resumidas cuentas,** es un juego potencialmente interesante pero me parece
 limitado. Yo esperaría alguna variante en BGG.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
  2.5 de 5 monedas. **Es entretenido, pero no me engancha.**
 
 

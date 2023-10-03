@@ -252,7 +252,7 @@ tratar de mejorar vuestra puntuación partida a partida; pero, no es un juego
 para mí.
 
 
-<img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**  1.5 de 5
+<img width="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**  1.5 de 5
 monedas. **Creo que prefiero hacer otra cosa.**
 
 <hr>

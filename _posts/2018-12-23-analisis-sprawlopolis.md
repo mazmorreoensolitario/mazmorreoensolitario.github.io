@@ -243,6 +243,6 @@ partida porque sino vas a perder puntos por todos los lados.
 Me gusta mucho que sea tan pequeño, que tenga tantas combinaciones diferentes
 para puntuar y que no necesitemos ningún accesorio más para jugar.
 
-<img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 3 de 5
+<img width="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:** 3 de 5
 monedas. **Me lo paso bien jugando a este juego.**
 

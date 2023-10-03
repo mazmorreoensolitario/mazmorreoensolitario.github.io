@@ -217,7 +217,7 @@ puntuación, con lo que depende de si eres una persona que se pica o no con esto
 jugarás a este juego o no. En mi caso, aprecio que el juego está muy bien hecho
 para la franja de tiempo objetivo y nada más.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 2.5 de 5 monedas. **Es entretenido, pero no me engancha.**
 
 

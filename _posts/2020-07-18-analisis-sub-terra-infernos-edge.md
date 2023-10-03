@@ -342,5 +342,5 @@ parece que le falta una chispa de emoción, si a vosotros os parece emocionante
 lo que habéis leído y estáis en busca de un juego no demasiado complejo, puede
 ser una opción, sino no puedo recomendarlo para jugar en solitario.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 2.5 de 5 monedas. **Es entretenido, pero no me engancha.** 

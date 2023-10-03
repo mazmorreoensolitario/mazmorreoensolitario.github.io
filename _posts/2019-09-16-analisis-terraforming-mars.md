@@ -463,7 +463,7 @@ En resumen, Terraforming Mars es una fórmula divertida a la vez que
 gratificante, ganes o pierdas, y va a ser un reto para el novato así como para
 el veterano. 
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 4.5 de 5 monedas. **Fantástico.** 
 
 ### Extra

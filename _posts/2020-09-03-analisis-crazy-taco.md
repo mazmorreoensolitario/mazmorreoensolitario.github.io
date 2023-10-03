@@ -402,5 +402,5 @@ la partida del día y pasar un buen rato.
 
 En resumidas cuentas, Crazy Taco es un pequeño gran reto.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 3 de 5 monedas. **Me lo paso bien jugando a este juego.** 

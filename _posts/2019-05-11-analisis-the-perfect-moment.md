@@ -399,7 +399,7 @@ para que lo tengáis en cuenta en un futuro. Por menos de tres euros vais a
 tener un juego entretenido. 
 
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 2.5 de 5 monedas. **Es entretenido, pero no me engancha.**
 
 ### Extras

@@ -75,7 +75,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/07/23/analisis-orchard/" %}
+      {% assign target-posts = site.posts | where: "url","/2023/10/01/analisis-barcelona/" %}
+       {% for post in target-posts %}
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2023/10/01/partidas-mes-septiembre-23/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -96,14 +103,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/10/01/analisis-barcelona/" %}
-       {% for post in target-posts %}
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2018/11/05/analisis-mini-rogue/" %}
+      {% assign target-posts = site.posts | where: "url","/2019/07/23/analisis-orchard/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -117,7 +117,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/11/14/noticias-csr-awards-2021/" %}
+      {% assign target-posts = site.posts | where: "url","/2018/11/05/analisis-mini-rogue/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -131,21 +131,20 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Print & play"
       or tag[0] == "9 Card Game Print & Play Design Contest"
-      or tag[0] == "Oneironaut"
-      or tag[0] == "Atlantic Chase"
+      or tag[0] == "El mes en juegos"
       or tag[0] == "Kickstarter"
+      or tag[0] == "Oneironaut"
+      or tag[0] == "Tops"
+      or tag[0] == "Atlantic Chase"
+      or tag[0] == "Barcelona"
+      or tag[0] == "Eldritch Horror"
+      or tag[0] == "Scarlet Heroes"
       or tag[0] == "Terraforming Mars: Ares Expedition"
       or tag[0] == "1862: Railway Mania in the Eastern Counties"
       or tag[0] == "Across a Thousand Dead Worlds"
-      or tag[0] == "Barcelona"
-      or tag[0] == "El mes en juegos"
-      or tag[0] == "Eldritch Horror"
       or tag[0] == "Mapeando las catacumbas"
       or tag[0] == "OSR"
       or tag[0] == "Ruins of the Undercity"
-      or tag[0] == "Scarlet Heroes"
-      or tag[0] == "Tops"
-      or tag[0] == "Undaunted: Normandy"
       or tag[0] == "Zine Quest"
       or tag[0] == "Age of Innovation"
       or tag[0] == "ALIEN RPG"
@@ -153,27 +152,30 @@
       or tag[0] == "Bios: Origins 2"
       or tag[0] == "Boletín Informativo Solitario"
       or tag[0] == "Calico"
+      or tag[0] == "Coffee Roaster"
       or tag[0] == "Cosmonaves"
       or tag[0] == "D-Day at Omaha Beach"
       or tag[0] == "Disciples of Bone and Shadow: Conquered Sun Edition"
       or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "Do Not Let Us Die In The Dark Night Of This Cold Winter"
-      or tag[0] == "Earthborne Rangers"
+      or tag[0] == "Dungeon Degenerates"
       or tag[0] == "Essen Spiel 2019"
       or tag[0] == "Ex Novo"
-      or tag[0] == "Factory Funner"
-      or tag[0] == "Flamecraft"
+      or tag[0] == "Forbidden Lands"
       or tag[0] == "Four Against Darkness"
       or tag[0] == "Gloomhaven: Fauces del León"
       or tag[0] == "Golden Geek"
+      or tag[0] == "Horizons of Spirit Island"
       or tag[0] == "Imperium: Classics"
       or tag[0] == "Iron Helm"
       or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "Ironsworn"
       or tag[0] == "Labyrinth Lord"
       or tag[0] == "Legends Untold: The Great Sewers"
-      or tag[0] == "Mad Monks of Kwantoom"
       or tag[0] == "Maracaibo"
+      or tag[0] == "Mausritter"
       or tag[0] == "Messina 1347"
+      or tag[0] == "Mombasa"
       or tag[0] == "Mothership"
       or tag[0] == "Mythic"
       or tag[0] == "North Africa 41"
@@ -182,6 +184,7 @@
       or tag[0] == "Pico Pluma & Hueso"
       or tag[0] == "Reinos de Papel"
       or tag[0] == "Robinson Crusoe"
+      or tag[0] == "Root"
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Shadowrun Crossfire"
       or tag[0] == "Sleeping Gods"
@@ -192,6 +195,9 @@
       or tag[0] == "Tin Helm"
       or tag[0] == "Trickerion: Legends of Illusion"
       or tag[0] == "Twilight: 2000"
+      or tag[0] == "Undaunted: Normandy"
+      or tag[0] == "Undaunted: North Africa"
+      or tag[0] == "Vizcondes del Reino del Oeste"
       or tag[0] == "Zombicide" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 

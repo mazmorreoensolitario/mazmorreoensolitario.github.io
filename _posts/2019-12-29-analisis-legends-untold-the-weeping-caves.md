@@ -636,7 +636,7 @@ Creo que Legends Untold se va a convertir en una marca más conocida en los
 siguientes años y que va a ganar mucho más reconocimiento, ya estáis tardando
 en darle una oportunidad.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 4 de 5 monedas. **¡Este juego es genial!**
 
 ### Consejos para jugar

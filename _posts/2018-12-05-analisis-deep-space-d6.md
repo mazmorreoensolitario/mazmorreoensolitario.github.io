@@ -258,7 +258,7 @@ partida y en este momento se decidirá si ganamos o perdemos; finalmente, iremos
 tirando
 hasta el final del juego.
 
-<img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 3 de 5
+<img width="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:** 3 de 5
 monedas. **Me lo paso bien jugando a este juego.**
 
 

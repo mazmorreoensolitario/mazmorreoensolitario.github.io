@@ -272,7 +272,7 @@ posibilidades de combos, y que rompiese de alguna forma mi análisis de
 máximos/mínimos con algo más de azar, posiblemente el juego me hubiese gustado
 más de ser de esta forma.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 2 de 5 monedas. **Es algo entretenido, pero no me engancha.**
 
 

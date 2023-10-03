@@ -508,7 +508,7 @@ comparación con tu turno, puede ser tu juego.
 **En resumidas cuentas,** es un deckbuilder puro, con mucha gestión y poca
 chicha de pensar, pero es bonito y tienes muchos mazos para ir cambiando.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 3 de 5 monedas. **Me lo paso bien jugando a este juego**
 
 <hr>

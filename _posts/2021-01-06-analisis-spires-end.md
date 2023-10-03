@@ -357,7 +357,7 @@ ser para ti.
 **En resumidas cuentas,** la historia está muy bien, pero yo no tengo paciencia
 para los combates.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 2.5 de 5 monedas. **Es entretenido, pero no me engancha.**
 
 

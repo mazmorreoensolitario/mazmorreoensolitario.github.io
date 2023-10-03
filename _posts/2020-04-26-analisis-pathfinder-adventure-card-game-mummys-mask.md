@@ -415,7 +415,7 @@ nosecuantos, ui espera que puedo usar esta habilidad, calcular medias y el tema
 egipcio, creo que te va a gustar el juego, si buscas una juego de aventuras con
 historia, es mejor que busques en otro sitio. 
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 3.5 de 5 monedas. **Me lo paso muy bien jugando a este juego.** 
 
 **Un apunte sobre los precios.** Como he puesto en la Ficha Técnica, varían

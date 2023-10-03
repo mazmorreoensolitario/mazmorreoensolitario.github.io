@@ -211,7 +211,7 @@ cartas tienen más sentido en la variante multijugador.
 Echamos en falta un jugador artificial más avanzado que pueda hacer jugadas
 con algo más de sentido, pero, en resumidas cuentas, es un juego entretenido.
 
-<img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 2 de 5
+<img width="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:** 2 de 5
 monedas. **Es algo entretenido, pero no me engancha.**
 
 <hr>

@@ -352,6 +352,6 @@ Sigue siendo un juego jugable y divertido, pero depende de cómo juegues
 pasarías a manejar solamente a Control de Misión; aunque esto nos fastidie Good
 Little Martian sigue siendo un juego bueno.
 
-<img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 2.5 de 5
+<img width="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:** 2.5 de 5
 monedas. **Es entretenido, pero no me engancha.**
 

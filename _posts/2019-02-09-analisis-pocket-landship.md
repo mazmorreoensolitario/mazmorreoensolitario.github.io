@@ -249,7 +249,7 @@ ganan algún bono, o algo. Se me ocurren tantas cosas...
 
 En resumidas cuentas, como os he dicho, soso, pero con mucho potencial.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 2 de 5
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:** 2 de 5
 monedas. **Es algo entretenido, pero no me engancha.**
 
 ### Extras

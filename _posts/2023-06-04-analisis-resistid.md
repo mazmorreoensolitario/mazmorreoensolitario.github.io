@@ -380,7 +380,7 @@ reto, o si tus gustos se acercan al BDSM, **¡Resistid!** es tu juego.
 **En resumidas cuentas,** difícil por ser difícil, una de las portadas más
 bonitas de 2022 y mecánicas que seguro que serán imitadas en otros juegos.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
  2.5 de 5 monedas. **Es entretenido, pero no me engancha.**
 
 ### Extra

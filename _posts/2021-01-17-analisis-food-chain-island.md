@@ -269,5 +269,5 @@ premisa, puede ser tu juego.
 varias jugadas futuras para ver si todo cuadra y con reglas directas, es de los
 mios.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
  3.5 de 5 monedas. **Me lo paso muy bien jugando a este juego.** 

@@ -429,7 +429,7 @@ Maquis es un juego despiadado en el que si eres descuidado puede ganarte en el
 primer turno, y si superas en primer turno, estará siempre al acecho para
 tratar de ganarte. Es el rival perfecto para jugadores en solitario.
 
-<img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 4 de 5
+<img width="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:** 4 de 5
 monedas. **¡Este juego es genial!** 
 
 

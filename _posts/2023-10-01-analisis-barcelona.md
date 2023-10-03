@@ -455,7 +455,7 @@ gusta pescar puntos como si no hubiera un mañana, es tu juego.
 **En resumidas cuentas,** colocación de trabajadores por ejes cartesianos y
 puntos, muchos puntos de victoria por todos los lados.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 3 de 5 monedas. **Me lo paso bien jugando a este juego.**
 
 <hr>

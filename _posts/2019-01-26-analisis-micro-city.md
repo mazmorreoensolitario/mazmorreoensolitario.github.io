@@ -301,7 +301,7 @@ En resumidas cuentas, creo que necesita un par de pensadas más, porque aunque
 tiene varios niveles de dificultad y Modo Desafío, habiendo jugado a todos los
 niveles de dificultad sin el Modo Desafío, no es un juego que me enganche.
 
-<img width="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:** 2 de 5
+<img width="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:** 2 de 5
 monedas. **Es algo entretenido, pero no me engancha.**
 
 ### Extras

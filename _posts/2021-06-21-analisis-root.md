@@ -709,7 +709,7 @@ combinaciones de facciones y número de bots contra los que puedes jugar, Root
 no es un juego, sino muchos en uno, hay una base común, pero tú, dependiendo de
 cómo y contra quién quieras jugar deberás elegir a tu Root del día.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 4 de 5 monedas. **¡Este juego es genial!**
 
 

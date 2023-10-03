@@ -242,7 +242,7 @@ interesarme cuando "me lo he pasado" un par de veces.
 Para mí fue bonito mientras duró, y ha sido un juego interesante, como es muy
 fácil de hacer os recomiendo que le echéis un par de partidas.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 2.5 de 5 monedas. **Es entretenido, pero no me engancha.**
 
 ### Extra

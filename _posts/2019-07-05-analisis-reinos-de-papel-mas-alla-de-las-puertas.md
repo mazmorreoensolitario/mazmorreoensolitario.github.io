@@ -469,7 +469,7 @@ que da la sensación ha recibido tiempo y esfuerzo, y se integra sin ningún
 pero con el juego base.
 
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación:**
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 3.5 de 5 monedas. **Me lo paso muy bien jugando a este juego.**
 
  
