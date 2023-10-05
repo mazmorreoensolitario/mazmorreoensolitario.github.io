@@ -15,7 +15,8 @@ post_desc: "Resumen del primer día de la SPIEL 2023"
 <hr>
 
 Aquí tenéis el resumen de mi primer día en la SPIEL, con algunos de los juegos
-más interesantes que he podido probar.
+más interesantes que he podido probar y fotos para que podáis ver las
+relucientes novedades.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/53237493069_1e20dc8298_c.jpg"></p>
 <p align="center"><small>Pilas de juegos en Delicious Games</small></p>
@@ -58,7 +59,9 @@ juego de **Stefan Feld** que espera ver la luz en 2024.
 
 Las empresas que hacen mesas plegables de camping se van a forrar en 2024
 porque jamás he visto en mi vida tableros de jugador tan grandes. Si no jugáis
-en solitario, no sé muy bien cómo va a poder jugar la gente a este juego.
+en solitario, no sé muy bien cómo va a poder jugar la gente a este juego. La
+verdad es que por esto me echó bastante para atrás, aunque todavía es un
+prototipo sujeto a cambios.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/53237423978_5fa61d6c33_c.jpg"></p>
 <p align="center"><small>Marujeando una partida de Tangram City</small></p>
@@ -80,8 +83,8 @@ Del Hall 3 me moví al 2, donde esperaba poder probar uno de los nuevos juegos
 
 Todavía en el Hall 2, las mesas de **Garphill Games** estaban completas
 enseñando **Scholars of the South Tigris** y el último juego que han anunciado,
-**Ezra and Nehemiah**. Ambos diseñadores estaban a cargo de una mesa, y luego
-había más gente de la editorial haciendo demos.
+**Ezra and Nehemiah**. Ambos diseñadores estaban a cargo de una mesa cada uno,
+y luego había más gente de la editorial haciendo demos.
 
 De este último **Ezra and Nehemiah** solamente había una mesa de demo, por lo
 que estará complicado conseguir probarlo, pero lo intentaré otra día.
@@ -124,8 +127,8 @@ un error, pero tenían un prototipo y yo me apunté a una demo.
 Fue una demo a dos que duró menos de una hora porque forcé que la partida se
 acabase pronto para no perder, y efectivamente gané. Se han cumplido mis
 expectativas de que es un juego ligero bastante majo. No pudimos explorar mucho
-las opciones de las cartas por mi forma de jugar, pero me lo pasé muy bien. Lo
-tendré en cuenta para el año que viene.
+las opciones de las cartas de dios Egipcio por  mi forma de jugar, pero me lo
+pasé muy bien. Lo tendré en cuenta para el año que viene.
 
 <p align="center"><img src=""></p>
 <p align="center"><small></small></p>
@@ -133,11 +136,11 @@ tendré en cuenta para el año que viene.
 Después tocó descansar un poco antes de la demo larga del día, ya que el
 **Shipyard** me estaba destrozando el hombro. Coincidí en los únicos bancos que
 hay para sentarse dentro de la feria (casi en la salida del Hall 3) con un
-señor alemán bastante majo que había venido a la feria durante 40 años, los que
-lleva la SPIEL en funcionamiento. Me comentó que él se dedicaba a buscar juegos
-raros o viejos y alguna que otra batallita. Resulta que el buen hombre no
-conocía la subasta de BGG donde se pueden encontrar juegos de segunda manos
-relativamente viejos, por lo que le comenté cómo funcionaba.
+señor alemán bastante majo que había venido a la feria durante 40 años, los
+mismos que lleva la SPIEL en funcionamiento. Me comentó que él se dedicaba a
+buscar juegos raros o viejos y alguna que otra batallita. Resulta que el buen
+hombre no conocía la subasta de BGG donde se pueden encontrar juegos de segunda
+manos relativamente viejos, por lo que le comenté cómo funcionaba.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/53237615470_f65b0ef7e0_c.jpg"></p>
 <p align="center"><small>Final de mi partida a Zhanguo (yo soy rojo)</small></p>
