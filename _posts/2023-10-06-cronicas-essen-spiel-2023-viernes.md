@@ -36,7 +36,7 @@ acabaron y pude hacerme con un copia ¡victoria!).
 <p align="center"><small>Demo de Habitats</small></p>
 
 Del Hall 6 pasé al 5, donde estaba la editorial **Allplay**, en la que quería
-curiosear [Habitats](https://boardgamegeek.com/boardgame/200853/habitats,) un
+curiosear [Habitats](https://boardgamegeek.com/boardgame/200853/habitats), un
 juego de **Corné van Moorsel** (autor de mi reciente favorito [Factory
 Funner](https://boardgamegeek.com/boardgame/183284/factory-funner)) que tiene
 cierta historia. Por un lado, fue publicado originalmente por la editorial del
@@ -220,12 +220,13 @@ saqué el [jueves]({{site.baseurl}}2023/10/05/cronicas-essen-spiel-2023-jueves/)
 
 Finalmente a la noche estrené el
 [Evacuation](https://boardgamegeek.com/boardgame/382843/evacuation) en el
-hotel. Muy guay.
+hotel. Muy guay la dos horazas y media de partida de aprendizaje. Espero poder
+contaros más pronto.
 
 <br>
 
-Fue un día bastante matada, de diferente forma que el primer día, menos peso,
-pero me moví bastante más, pero igual de genial.
+Fue un día bastante matada, de diferente forma que el primer día, ya que cargué
+con menos peso, pero me moví bastante más, aunque me lo pasé igual de genial.
 
 Cambio y corto.
 
