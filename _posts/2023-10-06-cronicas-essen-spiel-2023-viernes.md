@@ -220,7 +220,7 @@ saqué el [jueves]({{site.baseurl}}2023/10/05/cronicas-essen-spiel-2023-jueves/)
 
 Finalmente a la noche estrené el
 [Evacuation](https://boardgamegeek.com/boardgame/382843/evacuation) en el
-hotel. Muy guay la dos horazas y media de partida de aprendizaje. Espero poder
+hotel. Muy guay las dos horazas y media de partida de aprendizaje. Espero poder
 contaros más pronto.
 
 <br>
