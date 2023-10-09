@@ -25,7 +25,7 @@ para que tengáis una experiencia más cercana a la feria.
 
 Quiero empezar a hablar un poco de los métodos más comunes para llegar a la
 feria, está el ir andando, que son unos 40 minutos si tienes el hotel en los
-alrededores de la estación central de Essen (*Essen Haupbanhof*), pero el
+alrededores de la estación central de Essen (*Essen Hauptbahnhof*), pero el
 método más popular es coger la línea U11 del metro-tranvía desde la estación
 central. Lo llamo metro-tranvía porque dependiendo de la línea hay tramos que
 son mayoritariamente por el exterior.
@@ -51,28 +51,28 @@ rápido.
 
 Y bueno, sábado en la SPIEL (ese día fui en metro-tranvía). El sábado es
 tradicionalmente el peor día para probar cosas porque es cuanta más gente hay
-en la feria, así que no es buen día para probar "lo hot" ni lo más popular si
+en la feria, así que no es buen día para probar "lo hot", ni lo más popular si
 no quieres hacer colas de horas para sentarte en una mesa.
 
-Así que empecé el día fisgando las "cosas inusuales" en el Hall 2, concretamente la
-zona de juegos japoneses donde estaban **Saashi & Saashi**, **Oink Games** e
-**itten**. Tenían una zona de exposición muy maja donde estaba cada uno de los
-juegos de las editoriales explicado, como el [Come Sail
-Away](https://boardgamegeek.com/boardgame/386405/come-sail-away), la novedad de
-**Saashi & Saashi**. No me llamó especialmente la atención ninguno, pero pude
-fisgarlos todos muy a gusto.
+Así que empecé el día fisgando las "cosas inusuales" en el Hall 2,
+concretamente la zona de juegos japoneses donde estaban las editoriales
+**Saashi & Saashi**, **Oink Games** e **itten**. Tenían una zona de exposición
+muy maja donde estaba cada uno de los juegos de las editoriales explicado, como
+el [Come Sail Away](https://boardgamegeek.com/boardgame/386405/come-sail-away),
+la novedad de **Saashi & Saashi**. No me llamó especialmente la atención
+ninguno, pero pude fisgarlos todos muy a gusto.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/53246830976_3895f1d50b_b.jpg"></p>
 <p align="center"><small>Stand de AstroNavigators</small></p>
 
 Después tocó armarse de valor e ir al Hall 3, en el que había un ajetreo
-tremendo para ir a ver algo también "inusual". Pude jugar una demo de [Astro
-Navigators](https://boardgamegeek.com/boardgame/305949/astronavigators), un
-juego con una temática y mecánicas tremendamente originales en el que tenemos
+tremendo para ir a ver algo también "inusual". Pude jugar una demo de
+[AstroNavigators](https://boardgamegeek.com/boardgame/305949/astronavigators),
+un juego con una temática y mecánicas tremendamente originales en el que tenemos
 una carrera espacial para llegar a la Luna, y el que tuve una de las personas
 más entusiastas a la hora de explicar cómo se juega al juego. 
 
-Tiene cinco tableros diferentes además de tu tablero de
+**AstroNavigators** tiene cinco tableros diferentes además de tu tablero de
 jugador. Hay bastantes elementos interconectados, pero al principio tienes que
 ganar "investigación" o algo así haciendo observaciones de cuerpos
 celestes o constelaciones para tratar de ganar suficiente antes de ir a la
@@ -80,19 +80,21 @@ Luna.
 
 Hay un tablero que gestiona si puedes ver cierta constelación o cuerpo celeste
 o no dependiendo de dónde te encuentres en el planeta y la posición relativa
-del Sol en esa época del año. Digamos que te mueves por el planeta para dar con
+del Sol en esa época del año. Digamos que te mueves por la Tierra en un mapa
+punto a punto (con diferentes medios de transporte) para dar con
 la localización que te permita ver ese astro. En cada turno se mueven los
-planetas simulando lo que pasa en realidad y así. Cuando ves una
+planetas simulando lo que pasa en realidad y así puedes tratar de preparar
+cuándo va a ser el mejor momento para ver cada cosa. Cuando ves una
 constelación/planeta ganas puntos y te dan ciertos símbolos que puedes usar
 como elementos de set collection. Tienes un par de objetivos que también te dan
 puntos y cuando viajas a un continente por primera vez también te dan
-puntos. Además también te dan puntos por usar medios de transporte diferentes
-(hay un mapa punto a punto de la Tierra donde se gestiona esto). 
+puntos. Además también te dan puntos por usar medios de transporte diferentes.
 
 Cuando hayas conseguido suficientes puntos de investigación tienes que ir a un
-sitio de despegue para hacer despegar tu nave espacial, y ahí entra en cuenta
+sitio de despegue para hacer despegar tu nave espacial, y ahí entra en juego
 un tablero donde vas moviéndote poco a poco hasta llegar a la Luna, esta última
-parte es un poco push your luck.
+parte es un poco push your luck ya que das la vuelta a unas fichas en tu camino
+a la Luna que hacen que pierdas propulsión, y si llegas a cero caput.
 
 La parte que más me gustó fue la de ir viajando por la Tierra para intentar ver
 diferentes constelaciones y planetas, era muy realista, una de las cosas que
@@ -108,8 +110,8 @@ en el stand de **CrowD Games**, que no tenía ni la más remota idea de lo que
 era, pero me recordaba a un juego de ordenador que jugué hace unos años, el
 [Chaos Reborn](https://store.steampowered.com/app/319050/Chaos_Reborn/). 
 
-La gente de **CrowD Games** me estuvieron explicando cómo funcionaba, en
-**Bestiary of Sigillum** tenemos una serie de personajes con habilidades, un
+La gente de **CrowD Games** me estuvieron explicando cómo funcionaba el juego;
+en **Bestiary of Sigillum** tenemos una serie de personajes con habilidades, un
 mapa con hexágonos (yo y los hexágonos) con diferentes efectos dependiendo del
 terreno, y nos enfrentamos a otro grupo de personajes. Tenemos que destruir la
 torre enemiga antes que nos destruyan la nuestra.
@@ -156,7 +158,8 @@ tomar nota de mis partidas.
 
 Después de todo esto me apetecía sentarme y descansar, así que caí en la
 tentación en el stand de **Archona Games** y me compré el [Light in the
-Dark](https://boardgamegeek.com/boardgame/395581/light-dark), ojee el
+Dark](https://boardgamegeek.com/boardgame/395581/light-dark), un dungeon
+crawler con un tema original, ojee el
 agotadísimo [Planta
 Nubo](https://boardgamegeek.com/boardgame/388339/planta-nubo), me compré un
 pretzel y un café que casi costaron más que el **Light in the Dark**, fui a mi
