@@ -4,7 +4,7 @@ title: "Crónicas de Essen SPIEL'23 - Sábado"
 date: 2023-10-07
 categories: [General]
 tags: [Essen Spiel, Essen Spiel 2023, AstroNavigators, Planta Nubo, Light in the Dark, Bestiary of Sigillum]
-imghtml: 
+imghtml: https://live.staticflickr.com/65535/53245957562_251ab72ff4_b.jpg
 post_desc: "Resumen del tercer día de la SPIEL 2023" 
 ---
 
