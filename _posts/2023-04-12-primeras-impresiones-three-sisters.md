@@ -203,7 +203,7 @@ sea y después de 8 rondas a contar puntos y a compararlos contra una tabla.
 
 > Antes de ponerme a dar mis subjetivas primeras impresiones quiero haceros el
 > *full disclaimer* de que he recibido una copia de **Three Sisters** de cortesía
-> de **Tranjis Games** ~~porque yo lo valgo~~, y aprovecho para dar las gracias a
+> de **Tranjis Games**, y aprovecho para dar las gracias a
 > la editorial por el juego, *eskerrik asko!*
 
 En cuanto a **re-jugabilidad**... **Three Sisters** un roll & write con mucho
