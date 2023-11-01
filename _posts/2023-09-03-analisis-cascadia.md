@@ -313,10 +313,10 @@ interesante, animales cuquis (¡viva el salmón!) y colorido, puede ser tu juego
 **En resumidas cuentas,** elegante y colorido con mecánicas simples pero bien
 puestas, y con el gran extra de una campaña muy gratificante.
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración
 (modo estándar):** 4 de 5 monedas. **¡Este juego es genial!** 
 
-<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Puntuación
+<img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración
 (modo campaña):** 4.5 de 5 monedas. **Fantástico.**
 
 

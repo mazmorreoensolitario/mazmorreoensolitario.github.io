@@ -48,6 +48,7 @@ tenemos que conseguir puntos de victoria urbanizando la ciudad en pleno siglo XI
              castellano y catalán.</li>
              <li>Fue parte de las novedades de Board & Dice para la <strong>Gen
              Con 2023</strong> en agosto.</li>
+             <li>Hecho en China.</li>
          </ul>
          </div>
     </div>
