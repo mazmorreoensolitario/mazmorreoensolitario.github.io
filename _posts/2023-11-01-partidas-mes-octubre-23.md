@@ -39,7 +39,7 @@ el siguiente enlace: **[El mes en juegos]({{site.baseurl}}/etiqueta/el-mes-en-ju
 
 Este año he vuelto a Essen para ir a la **SPIEL'23** (podéis leer más sobre qué
 tal fue la feria en estas
-[entradas]({{site.baseurl}}/etiqueta/essen-spiel-2023/), así que, para el
+[entradas]({{site.baseurl}}/etiqueta/essen-spiel-2023/)), así que, para el
 asombro de nadie, las novedades que he podido probar durante el mes son algunos
 de los juegos que he adquirido en la feria: **Evacuation**, **Pirates of
 Maracaibo**, **Footprints**, **Nucleum**, **Shipyard (2ª Edición)** y **Light
