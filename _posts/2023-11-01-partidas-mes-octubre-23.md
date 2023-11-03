@@ -329,8 +329,8 @@ de las dos acciones que tiene la loseta que fue colocada antes.
 
 Tenemos que crear redes para que las centrales de nucleum y carbón estén
 conectadas a las ciudades. En estas ciudades podremos construir edificios, y
-estos nos darán puntos si conseguimos "energuizarlos". Es decir, si tomamos la
-acción de "energuizar" y conseguimos generar la cantidad de electricidad que
+estos nos darán puntos si conseguimos energizarlos. Es decir, si tomamos la
+acción de energizar y conseguimos generar la cantidad de electricidad que
 nos pide, y además conseguimos llevarla al edificio. De esta forma los
 edificios deben de estar conectados por la red para que les llegue energía, y
 las centrales tienen que estar conectadas a las minas de uranio (el recurso
