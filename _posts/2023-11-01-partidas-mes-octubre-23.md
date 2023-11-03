@@ -106,7 +106,7 @@ Empezamos con uno de los platos fuertes del mes, durante octubre he podido
 jugar a cinco partidas en solitario a
 **[Evacuation](https://boardgamegeek.com/boardgame/382843/evacuation)**, y las
 cinco han sido absolutamente geniales. Hoy festivo, día de Todos los Santos,
-estoy escribiendo esta entrada, pero sino jugar a **Evacuation** iba a ser mi
+estoy escribiendo esta entrada, pero si no jugar a **Evacuation** iba a ser mi
 plan (lo será cuando termine esta entrada). Es *El Juego* que quiero jugar.
 
 <div align="center">
@@ -131,7 +131,7 @@ unas necesidades de alimento de la población. En la primera ronda necesitamos 5
 de alimentos en el planeta viejo, y nada en el nuevo, y a medida que los turnos
 avanzan se va reduciendo esa necesidad de comida en el planeta viejo, y
 aumentándose en el nuevo hasta necesitar 4 alimentos en el nuevo y solamente 1
-en el viejo. Tener la comida necesaria es importante porque sino el juego te
+en el viejo. Tener la comida necesaria es importante porque si no el juego te
 casca puntos negativos.
 
 Para conseguir comida en el planeta nuevo necesitamos que lleguen fábricas o
@@ -153,7 +153,7 @@ partidas es que **Evacuation** es absolutamente genial.
 
 El juego tiene varios modos de juego en multijugador, está el *modo carrera* y
 el *modo puntos*. El modo carrera se entiende como un modo para aprender a
-jugar en el que que potencialmente no juegas las cuatro rondas de juego, sino
+jugar en el que que potencialmente no juegas las cuatro rondas de juego, si no
 que quien evacue antes a la población y fábricas desencadena el fin de la
 partida, mientras que el *modo puntos* se entiende como el juego completo en el
 que se juegan las cuatro rondas. En solitario jugamos siempre con este *modo
@@ -275,7 +275,7 @@ del que dudo mucho que hayan hecho el playtesting que yo espero de un producto.
 En **Light in the Dark** eres un doctor de estos que curan la plaga, tienes
 tres atributos: movimiento, fuerza y vida; y tres misiones que cumplir que te
 dan una serie de puntos. En tu turno te mueves por el mapa en base a tu
-movimiento, puedes conseguir objetos en mercados, hiervas medicinales para
+movimiento, puedes conseguir objetos en mercados, hierbas medicinales para
 curar la plaga en bosquecitos y el resto de localizaciones son puntos donde
 salen enemigos o pueblos que están infectados y tienes que curar.
 
@@ -483,7 +483,7 @@ y he podido superar algunos de los escenarios.
 </div>
 
 Poco más os puedo contar, al principio algunos escenarios me suelen parecer
-imposibles, lo que te hace penar cómo puedes hacer para que cuadre, y luego
+imposibles, lo que te hace pensar cómo puedes hacer para que cuadre, y luego
 poco a poco se hacen más asequibles cuando pruebas diferentes estrategias. Creo
 que el elemento de la dificultad ha sido muy bien probado para este juego.
 
