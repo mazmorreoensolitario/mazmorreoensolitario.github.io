@@ -68,14 +68,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2023/11/01/partidas-mes-octubre-23/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/02/24/noticias-csr-awards-2021/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -89,7 +89,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/03/18/general-top-100-bgg-solitario-p3/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2023/02/24/noticias-csr-awards-2021/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -103,21 +103,21 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/06/21/analisis-root/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2019/09/16/analisis-terraforming-mars/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2018/11/05/analisis-mini-rogue/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/03/18/general-top-100-bgg-solitario-p3/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2022/12/04/partidas-mes-noviembre-22/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/12/23/general-top-200-1pg-solitario-p4/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -130,69 +130,68 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Print & play"
-      or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "Disciples of Bone and Shadow: Conquered Sun Edition"
-      or tag[0] == "Forbidden Lands"
-      or tag[0] == "A Thousand Year Old Vampire"
-      or tag[0] == "Five Parsecs From Home"
-      or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "Across a Thousand Dead Worlds"
+      or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "El mes en juegos"
-      or tag[0] == "Gloomhaven: Fauces del León"
-      or tag[0] == "Golem"
-      or tag[0] == "One Page Dungeon"
-      or tag[0] == "Oneironaut"
-      or tag[0] == "Ruins of the Undercity"
-      or tag[0] == "Star Wars: Rebellion"
-      or tag[0] == "Tops"
-      or tag[0] == "Zhanguo: The First Empire"
-      or tag[0] == "7 Wonders Duel"
-      or tag[0] == "9 Card Game Print & Play Design Contest"
-      or tag[0] == "A Cool and Lonely Courage"
-      or tag[0] == "A Rasp of Sand"
-      or tag[0] == "Arkham Noir"
-      or tag[0] == "Brazen Chariots: Battles for Tobruk"
-      or tag[0] == "Civolution"
-      or tag[0] == "Concordia Solitaria"
-      or tag[0] == "Concordia Venus"
-      or tag[0] == "Concordia"
-      or tag[0] == "Conflict of Heroes"
-      or tag[0] == "Cthulhu: Death May Die"
-      or tag[0] == "Cuentos de ánimas"
-      or tag[0] == "D-Day Dice"
-      or tag[0] == "Dune: Imperium"
-      or tag[0] == "Essen Spiel 2023"
-      or tag[0] == "Essen Spiel"
-      or tag[0] == "GMT Games"
-      or tag[0] == "Gran Austria Hotel"
-      or tag[0] == "Ironsworn: Starforged"
-      or tag[0] == "Lorenzo il Magnifico"
-      or tag[0] == "Maracaibo"
-      or tag[0] == "Mind MGMT"
-      or tag[0] == "Mythic"
-      or tag[0] == "NAC Wargames"
-      or tag[0] == "Nemesis"
-      or tag[0] == "Old-School Essentials"
-      or tag[0] == "OSR"
-      or tag[0] == "Resistid"
-      or tag[0] == "Riftforce"
-      or tag[0] == "Sabika"
       or tag[0] == "Scarlet Heroes"
-      or tag[0] == "SCRAWL"
-      or tag[0] == "Sherlock Holmes Consulting Detective"
-      or tag[0] == "Sherlock Holmes Detective Asesor"
-      or tag[0] == "Sniper Kill Confirmed"
-      or tag[0] == "Solo Game Master's Guide"
-      or tag[0] == "Spirit Island: Branch & Claw"
+      or tag[0] == "Tops"
+      or tag[0] == "Cascadia: Landmarks"
+      or tag[0] == "Four Against Darkness"
+      or tag[0] == "Nucleum"
       or tag[0] == "Spirit Island"
-      or tag[0] == "Tabletopia"
-      or tag[0] == "Tangram City"
-      or tag[0] == "Teotihuacán"
-      or tag[0] == "The Artemis Project"
-      or tag[0] == "Tiletum"
-      or tag[0] == "Undaunted: Reinforcements"
-      or tag[0] == "Whitehack"
-      or tag[0] == "Zombicide" %}
+      or tag[0] == "Too Many Bones"
+      or tag[0] == "A Thousand Year Old Vampire"
+      or tag[0] == "Boletín Informativo Solitario"
+      or tag[0] == "Dungeons Dice & Danger"
+      or tag[0] == "Five Leagues From The Borderlands"
+      or tag[0] == "Great Western Trail"
+      or tag[0] == "Kickstarter"
+      or tag[0] == "Mörk Borg"
+      or tag[0] == "Nusfjord"
+      or tag[0] == "Pocket Landship"
+      or tag[0] == "Resistid"
+      or tag[0] == "Ruins of the Undercity"
+      or tag[0] == "Sword & Sorcery"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Across a Thousand Dead Worlds"
+      or tag[0] == "Anachrony"
+      or tag[0] == "Bloodborne: The Board Game"
+      or tag[0] == "Brazen Chariots: Battles for Tobruk"
+      or tag[0] == "Charles S. Roberts Awards"
+      or tag[0] == "Conflict of Heroes"
+      or tag[0] == "Crazy Taco"
+      or tag[0] == "Cuentos de ánimas"
+      or tag[0] == "D30 Sandbox Companion"
+      or tag[0] == "Descent"
+      or tag[0] == "Destinies"
+      or tag[0] == "Dune: Imperium - Rise of Ix"
+      or tag[0] == "Earthborne Rangers"
+      or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
+      or tag[0] == "Escape the Dark Sector"
+      or tag[0] == "Etherfields"
+      or tag[0] == "Expeditions"
+      or tag[0] == "Exploradores de las Profundidades Sombrías"
+      or tag[0] == "Five Parsecs From Home"
+      or tag[0] == "Freshwater Fly"
+      or tag[0] == "Glass Road"
+      or tag[0] == "GMT Games"
+      or tag[0] == "High Frontier 4 All"
+      or tag[0] == "Horrified"
+      or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "It's a Wonderful Kingdom"
+      or tag[0] == "Las Mansiones de la Locura"
+      or tag[0] == "Mythic"
+      or tag[0] == "Race for the Galaxy"
+      or tag[0] == "Root: Los Cachivaches"
+      or tag[0] == "Runebound"
+      or tag[0] == "Sabika"
+      or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Spirit Island: Branch & Claw"
+      or tag[0] == "The Adventure Crafter"
+      or tag[0] == "The Siege of Runedar"
+      or tag[0] == "Trickerion: Legends of Illusion"
+      or tag[0] == "Twilight Imperium"
+      or tag[0] == "Zhanguo: The First Empire" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
