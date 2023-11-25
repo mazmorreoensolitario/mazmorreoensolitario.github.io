@@ -8,7 +8,7 @@ imghtml: https://cf.geekdo-images.com/MN0OvKejfrfwD6bupQHp4g__imagepage/img/_KBi
 score: 3
 crop: true
 game: "Imperium: Classics"
-post_desc: "Imperium: Classcis, un juego de construcción de mazos con
+post_desc: "Imperium: Classics, un juego de construcción de mazos con
 civilizaciones de la antigüedad en el que deberás competir por puntos contra
 otra civilización" 
 ---
