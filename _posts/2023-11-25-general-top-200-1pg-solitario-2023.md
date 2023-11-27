@@ -3,7 +3,7 @@ layout: post
 title: "Top 200 del 1 Player Guild: los mejores de 2023"
 date: 2023-11-25
 categories: [General]
-tags: [Tops, "Mage Knight", Spirit Island, Horizons of Spirit Island, "Marvel Champions: The Card Game", Arkham Horror, "El Señor de los Anillos: El Juego de Cartas", Terraforming Mars, Ark Nova, "Dune: Imperium", Too Many Bones, "Imperium: Classics", "Imperium: Legends", Final Girl, Gloomhaven, "Gloomhaven: Jaws of the Lion", "Gloomhaven: Fauces del León", Gaia Project, "Aeon's End", Robinson Crusoe, Cascadia, Under Falling Skies, Cielos de Metal, Lost Ruins of Arnak, Las Ruinas Perdidas de Arnak, Expansiópolis, Sprawlopolis, El Banquete de Odín, A Feast for Odin]
+tags: [Tops, Dorfromantik, Revive, Earthborne Rangers, Halls of Hegra, La Fortaleza de Hegra, Expeditions, "Darwin's Journey", "Mage Knight", Spirit Island, Horizons of Spirit Island, "Marvel Champions: The Card Game", Arkham Horror, "El Señor de los Anillos: El Juego de Cartas", Terraforming Mars, Ark Nova, "Dune: Imperium", Too Many Bones, "Imperium: Classics", "Imperium: Legends", Final Girl, Gloomhaven, "Gloomhaven: Jaws of the Lion", "Gloomhaven: Fauces del León", Gaia Project, "Aeon's End", Robinson Crusoe, Cascadia, Under Falling Skies, Cielos de Metal, Lost Ruins of Arnak, Las Ruinas Perdidas de Arnak, Expansiópolis, Sprawlopolis, El Banquete de Odín, A Feast for Odin]
 imghtml: https://live.staticflickr.com/65535/53355847115_acc9ac8e96_c.jpg
 post_desc: "En esta entrada os traigo las estadísticas de los juegos mejor
 valorados en 2023 por los integrantes del 1PG de Board Game Geek"
@@ -441,8 +441,9 @@ de Josh J. Carlson, Adam Carlson, y publicado por <strong>Chip Theory
     les hizo saltar a la fama. Yo aún no lo he probado, los juegos de
     <strong>Chip Theory Games</strong> tienen un precio de entrada alto (~150€
     en este caso), por lo que siempre me decanto por otros de mi lista de
-    deseos si me apetece probar algo bueno, aunque, como podéis ver está en la
-    posición #6 cosa que no se puede ignorar.</p>
+    deseos si me apetece probar algo nuevo, aunque, como podéis ver,
+    <strong>Too Many Bones</strong> está en la posición #6 cosa que no se puede
+    ignorar.</p>
     </div>
 </div>
 
@@ -545,7 +546,7 @@ de Vlaada Chvátil, Paul Grogan, Phil Pettifer, y publicado por
     </div>
     <div class="col-md-9">
         <h4>1. <a href="https://amzn.to/49Pt3hY">Spirit Island</a></h4>
-        <p>En esta posición también se engloba a <a href="">Horizons of Spirit Island</a>.</p>
+        <p>En esta posición también se engloba a <a href="https://amzn.to/3GjCPv4">Horizons of Spirit Island</a>.</p>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/162886">Spirit Island</a></strong>
 de R. Eric Reuss, y publicado por <strong>Greater Than Games</strong>
@@ -559,85 +560,397 @@ de R. Eric Reuss, y publicado por <strong>Greater Than Games</strong>
     (también con votos de <strong>Horizons of Spirit Island</strong>) vuelve a
     quedar en la primera posición del top de los solitarios. Yo también lo he
     votado, está muy alto, pero no ha sido mi número uno, aunque comparto que
-    ha logrado una posición muy merecida.También puedo decir que es uno de mis
+    ha logrado una posición muy merecida. También puedo decir que es uno de mis
     juegos favoritos, y además ahora lo juego más gracias al <strong>Horizons
     of Spirit Island</strong> que compré en 2022. Jugaba al <strong>Spirit
     Island</strong> original con dos espíritus, mi forma estándar de jugar al
     juego, pero esto con el juego original genera bastante análisis-parálisis,
     y jugar con un único espíritu no me convencía mucho, así que me pasé al
     Horizons que tiene las mismas reglas, pero con espíritus más sencillos, y
-    desde entonces lo juego más. También me gustan más los componentes del
+    desde entonces lo juego más. Además, me gustan más los componentes del
     Horizons, ya que no hay plástico. Es un juego súper recomendado para jugar
-    en solitario, y por el precio de entrada os recomenzaría también empezar
-    con <strong>Horizons of Spirit Island</strong>.</p>
+    en solitario, y por el <a href="https://amzn.to/3GjCPv4">precio de
+    entrada</a> os recomenzaría también empezar con <strong>Horizons of Spirit
+    Island</strong>.</p>
     </div>
 </div>
 
 
 ### Las novedades en el Top 200
 
-Entre los juegos publicados en 2023 han entrado directamente en el **top 200**
+Entre los juegos **publicados en 2023** han entrado directamente en el **top 200**
 los siguientes juegos:
 
-- [Darwin's
-  Journey](https://boardgamegeek.com/boardgame/322289/darwins-journey), el
-  nuevo euro de culo duro de Simone Luciani.
-- [Expeditions](https://boardgamegeek.com/boardgame/379078/expeditions), la
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/YYfgspTCAgBC0rqbD4U3pQ__original/img/vdnpP4PPsidTc7lBMnBBSujQMZc=/0x0/filters:format(jpeg)/pic7247536.jpg"
+        class="img-thumbnail" alt="Frostpunk: The Board Game">
+    </div>
+    <div class="col-md-9">
+        <h4>62. <a href="https://amzn.to/49XEcNR">Frostpunk: The Board Game</a></h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/311988">Frostpunk: The Board Game</a></strong>
+de Adam Kwapiński, y publicado por <strong>Glass Cannon Unplugged</strong>
+    (<strong>Maldito Games</strong> en castellano), es un juego temático basado
+    en el <a
+    href="https://store.steampowered.com/app/323190/Frostpunk/">videojuego</a>
+    del mismo nombre en el que tenemos que sobrevivir en un mundo
+    post-apocalíptico helado.</p>
+         <p><strong>Comentario.</strong> El Kickstarter de este juego acumuló
+    unos dos años de retraso pero las opiniones han sido generalmente muy
+    positivas del juego.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/0xqF_KyOb7V26Lu5YT3fxw__original/img/uqxMcj1QPt-U34drYdL6mmv2eos=/0x0/filters:format(jpeg)/pic6699821.jpg"
+        class="img-thumbnail" alt="Earth">
+    </div>
+    <div class="col-md-9">
+        <h4>101. Earth</h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/350184">Earth</a></strong>
+de Maxime Tardif, y publicado por <strong>Inside Up Games</strong>
+    (<strong>Maldito Games</strong> en castellano), es un juego de cartas de
+    hacer combos en el que tienes que hacer crecer tus ecosistemas con flora,
+    fauna y diferentes tipos de terreno. </p>
+         <p><strong>Comentario.</strong> Es el juego que más hype creo que ha
+    tenido de este 2023, tiene opiniones muy diversas, así que el tiempo dirá
+    si es mejor o peor que otros de su categoría, se suele comparar con
+    <strong>Wingspan</strong>.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/hItZjdDTNuaCZ7fEztwcUQ__original/img/gIhusTrYRr_2JQGEv0zuSgLtuUo=/0x0/filters:format(jpeg)/pic6153324.jpg"
+        class="img-thumbnail" alt="Voidfall">
+    </div>
+    <div class="col-md-9">
+        <h4>112. <a href="https://amzn.to/46AfOP8">Voidfall</a></h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/337627">Voidfall</a></strong>
+de Nigel Buckle y Dávid Turczi, y publicado por <strong>Mindclash
+    Games</strong> (<strong>Maldito Games</strong> en castellano), es un juego
+    con mecánicas 4X y temática espacial/ciencia-ficción con puntos de gestión
+    de recursos.</p>
+    <p><img src="https://live.staticflickr.com/65535/52418121460_64ece3b843_b.jpg"></p>
+         <p><strong>Comentario.</strong> Yo pude jugar parte de una partida a 4 en la
+         SPIEL'22 y me gustó mucho en multijugador, no sé cómo será en
+         solitario. Los componentes estaban muy bien, y las naves eran
+         chulísimas. Lo que no me gustó es que la iconografía era bastante 
+         pequeña en las cartas (y eso que veo bien de cerca), no sé si la
+         producción final del juego mantiene ese error.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/xneRUjohOxhdjMhLb6DUAg__original/img/DelJ9dJa4o6HSAG3lSLLH0ADGcY=/0x0/filters:format(jpeg)/pic6977091.jpg"
+        class="img-thumbnail" alt="Mr. President: The American Presidency, 2001-2020">
+    </div>
+    <div class="col-md-9">
+        <h4>115. Mr. President: The American Presidency, 2001-2020</h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/183685">Mr. President: The American Presidency, 2001-2020</a></strong>
+de Gene Billingsley, y publicado por <strong>GMT Games</strong>, es un juego
+    exclusivo en solitario en el que se simula la gestión que haría el
+    presidente de los Estados Unidos durante dos décadas.</p>
+         <p><strong>Comentario.</strong> <strong>Mr. President</strong> ha sido
+    el juego de GMT que más rápido ha necesitado una segunda edición por la gran
+    cantidad de erratas que contenía la primera edición. Con un juego de 110$
+    de PVP esto no es moco de pavo, por lo que si os interesa, es mejor esperar
+    a ver cómo sale la segunda edición.</p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/muJ3YmLTsyStKn60D9mcdw__original/img/2Kew2JZiGjIuwd87-5Xq8ylMCFQ=/0x0/filters:format(jpeg)/pic6158972.jpg"
+        class="img-thumbnail" alt="Halls of Hegra">
+    </div>
+    <div class="col-md-9">
+        <h4>121. La Fortaleza de Hegra (Halls of Hegra)</h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/336131">Halls of Hegra</a></strong>
+de Petter Schanke Olsen, y publicado por <strong>Tompet Games</strong>
+    (<strong>Melmac Games</strong> con <strong>Salt & Pepper Games</strong> en
+    castellano), es un wargame que simula el asedio a la fortaleza de Hegra
+    durante la ocupación alemana de Noruega en la Segunda Guerra Mundial.</p>
+         <p><strong>Comentario.</strong> Me ha llegado una copia de
+    <strong>Halls of Hegra</strong> este mismo mes de noviembre, así que ya os
+    iré contando qué tal, las primeras impresiones las tendréis en mi entrada
+    de <a href="{{site.baseurl}}/etiqueta/el-mes-en-juegos/">El mes en
+    juegos</a>.</p>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/jVHj2mDZsjXfEZtT50kSQg__original/img/BZNN6uXkiQiFl0AYUARb2JN7umA=/0x0/filters:format(jpeg)/pic6555779.jpg"
+        class="img-thumbnail" alt="Astro Knights">
+    </div>
+    <div class="col-md-9">
+        <h4>155. Astro Knights</h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/352179">Astro Knights</a></strong>
+de Nick Little y Will Sobel, y publicado por <strong>Indie Boards &
+    Cards</strong>, es una reimplementación de las mecánicas de <strong>Aeon's
+    End</strong> pero con temática espacial.</p>
+         <p><strong>Comentario.</strong> Si os da vértigo entrar en el universo
+    de <strong>Aeon's End</strong> por la cantidad masiva de cajas base que
+    hay, <strong>Astro Knights</strong> parece una opción más sencilla y sin
+    estrés. No he leído nada acerca de si es peor o mejor que la saga original.</p>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/nrUQztbbeNWfMIrf9ZQ8bQ__original/img/KBPrcmsBdvTHw0zEWWF6USLmhII=/0x0/filters:format(jpeg)/pic6428537.jpg"
+        class="img-thumbnail" alt="The Isofarian Guard">
+    </div>
+    <div class="col-md-9">
+        <h4>163. The Isofarian Guard</h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/281526">The Isofarian Guard</a></strong>
+de Eric Bittermann, Sean Craten y David Yanchick, y publicado por <strong>Sky
+    Kingdom Games</strong>, es un juego temático de aventuras con énfasis en la
+    parte narrativa en el que eres parte de la guardia de la región montañosa
+    que da nombre al juego y tratas de mantener a el imperio de Falmund a raya.</p>
+         <p><strong>Comentario.</strong> Los juegos de <strong>The Isofarian
+    Guard</strong> fueron entregados con un Kickstarter que acumuló tres años
+    de retraso.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/BxBWqnm98y1qgk9cEmStgQ__original/img/QK9ku5RxaXxttpT_zA4-l-rSIX4=/0x0/filters:format(jpeg)/pic5868255.jpg"
+        class="img-thumbnail" alt="Ashes Reborn: Rise of the Phoenixborn">
+    </div>
+    <div class="col-md-9">
+        <h4>165. <a href="https://amzn.to/3uySjZI">Ashes Reborn: Rise of the Phoenixborn</a></h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/167400">Ashes Reborn: Rise of the Phoenixborn</a></strong>
+de Isaac Vega, y publicado por <strong>Plaid Hat Games</strong> (<strong>Edge
+    Entertainment</strong> en castellano, aunque creo que está ya
+    descatalogado), es un juego de cartas en el que tienes que luchar por ser
+    el Phoenixborn más fuerte.</p>
+         <p><strong>Comentario.</strong> Este <strong>Ashes Reborn</strong> fue
+    publicado en 2015, pero lo meto dentro de esta categoría de "Novedades de
+    2023" ya que en este año han salido las dos expansiones (<a
+    href="https://boardgamegeek.com/boardgameexpansion/375374/ashes-reborn-red-rains-corpse-viros">esta</a> y <a
+    href="https://boardgamegeek.com/boardgameexpansion/383633/ashes-reborn-red-rains-frostwild-scourge">esta</a>)
+    que habilitan el juego en solitario.</p>
+    <p>Es bastante impresionante que un juego tan "viejo" haya llegado al top
+    200 gracias a estas nuevas expansiones que habilitan el juego en solitario,
+    por lo que igual merece la pena investigarlo, yo personalmente no sabía que
+    existiese hasta ahora.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/9eBww9iAi472T2goijVqwQ__original/img/uvxTECY9yY2ONOllPgv7xLZCrGU=/0x0/filters:format(jpeg)/pic7320023.jpg"
+        class="img-thumbnail" alt="Expeditions">
+    </div>
+    <div class="col-md-9">
+        <h4>166. <a href="https://amzn.to/49McqDI">Expediciones (Expeditions)</a></h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/379078">Expeditions</a></strong>
+de Jamey Stegmaier, y publicado por <strong>Stonemaier Games</strong>
+    (<strong>Maldito Games</strong> en castellano), es un juego de aventuras
+    dentro del universo de <strong>Scythe</strong> que utiliza mecánicas de
+    construcción de mazos y gestión de mano.</p>
+    <p><img
+    src="https://live.staticflickr.com/65535/53241451795_f3534f732c_b.jpg"></p>
+         <p><strong>Comentario.</strong> La foto que veis arriba es mía, de
+    cuando estuve ojeando el juego en la SPIEL'23. Desafortunadamente todas las
+    demos de las dos últimas novedades de Stonemaier,
+    <strong>Expeditions</strong> y <strong>Apiary</strong> estaban colapsadas,
+    así que solamente pude ojear los juegos.</p>
+    <p><strong>Expeditions</strong> ha sido
   penúltima apuesta de Stonemaier, salió a finales de septiembre y en menos de
   un mes la gente ya lo empezó a votar... mucho hype como todos los juegos de
-  Stonemaier (que no quita que el juego sea realmente bueno, el tiempo dirá).
-- [Ashes
-  Reborn](https://boardgamegeek.com/boardgame/167400/ashes-reborn-rise-phoenixborn),
-  un juego de 2015 para el que han sacado dos expansiones en 2023 que habilitan el
-  juego en solitario.
-- [The Isofarian
-  Guard](https://boardgamegeek.com/boardgame/281526/isofarian-guard) un juego
-  de aventuras que se publicó gracias a un Kickstarter que llegó con tres años
-  de retraso.
-- [Astro Nights](https://boardgamegeek.com/boardgame/352179/astro-knights), la
-  nueva reimplementación de las mecánicas de Aeon's End.
-- [Halls of Hegra](https://boardgamegeek.com/boardgame/336131/halls-hegra), un
-  wargame que simula un asedio a la fortaleza de Hegra.
-- [Mr. President](https://boardgamegeek.com/boardgame/183685/mr-president-american-presidency-2001-2020),
-  el juego de GMT que más rápido ha necesitado una segunda edición por la gran
-  cantidad de erratas que contenía la primera.
-- [Voidfall](https://boardgamegeek.com/boardgame/337627/voidfall), el 4X de
-  Turczi, yo lo probé en Essen de 2022, me gustó, pero la iconografía de las
-  cartas es minúscula.
-- [Earth](https://boardgamegeek.com/boardgame/350184/earth), un juego de cartas
-  que ha tenido mucho hype, pero que tiene opiniones muy diversas, el tiempo
-  dirá.
-- [Frostpunk](https://boardgamegeek.com/boardgame/311988/frostpunk-board-game),
-  un Kickstarter que acumuló dos años de retraso, basado en el
-  [videojuego](https://store.steampowered.com/app/323190/Frostpunk/) del mismo
-  nombre.
+  Stonemaier (que no quita que el juego sea realmente bueno, el tiempo dirá).</p>
+    </div>
+</div>
 
-Y como sabéis, el top se vota en octubre cada año, por lo que hay juegos que se
-han publicado a finales de 2022 que no han tenido oportunidad de entrar en el
-top hasta este año, entre esos han entrado:
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/-A_ABjMw4PdoAZrH-FjiiA__original/img/GuDlOog3eTRrkxCUzCEgRc17B-g=/0x0/filters:format(png)/pic5726930.png"
+        class="img-thumbnail" alt="Darwin's Journey">
+    </div>
+    <div class="col-md-9">
+        <h4>192. <a href="https://amzn.to/47w0kx8">Darwin's Journey</a></h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/322289">Darwin's Journey</a></strong>
+de Simone Luciani, Nestore Mangone, y publicado por <strong>ThunderGryph Games</strong>
+    (<strong>TCG Factory</strong> en castellano), es un juego tipo euro de
+    colocación de trabajadores en el que vivimos el viaje del científico
+    Charles Darwin por las Galápagos. Cada trabajador estudiará las distintas
+    disciplinas necesarias para ejecutar acciones en el juego, como
+    exploración, recolección, envío de espécimen a museos… todo con el objetivo
+    de contribuir al desarrollo del conocimiento humano (medido en puntos de
+    victoria).</p> 
+    <p><strong>Comentario.</strong> Este <strong>Darwin's Journey</strong>
+    es el nuevo euro de culo duro del señor Luciani, en solitario no he oído
+    muchas opiniones sobre él, ni he leído aún las reglas, así que no puedo
+    deciros nada. Por el panorama multijugador se comenta que es muy euro sin
+    alma, cosa buena o no tan buena, depende del gusto del consumidor.</p>
+    </div>
+</div>
 
-- [Revive](https://boardgamegeek.com/boardgame/332772/revive), mi espina
-  clavada de Essen 2022, se agotó y además no pude probarlo porque el stand de
-  Aporta estuvo colapsado de gente todos los días.
-- [Keep the Heroes
-  Out](https://boardgamegeek.com/boardgame/333255/keep-heroes-out), uno juego
-  temático que tiene uno de los pocos Kickstarters que se entrego a tiempo.
-- [Dorfromantik: The Board
-  Game](https://boardgamegeek.com/boardgame/370591/dorfromantik-board-game), el
-  juego no-juego basado en el videojuego del [mismo
-  nombre](https://store.steampowered.com/app/1455840/Dorfromantik/), Pegasus
-  Spiele lanzó una edición en inglés en tiempo récord después de todas las
-  peticiones que hubo de una edición en inglés.
-- [Skytear Horde](https://boardgamegeek.com/boardgame/344789/skytear-horde),
-  este juego ha pasado completamente bajo mi radar.
-- [Aeon's Trespass:
-  Odyssey](https://boardgamegeek.com/boardgame/242705/aeon-trespass-odyssey),
-  otro Kickstarter que acumuló retrasos, pero que está siendo uno de los
-  temáticos que más está gustando de los últimos años.
-- [Earthborne
-  Rangers](https://boardgamegeek.com/boardgame/342900/earthborne-rangers), otro
-  Kickstarter con retraso, esta vez de un año, 
 
+Y como sabéis, el top se vota en octubre/noviembre cada año, por lo que hay
+juegos que se han publicado a **finales de 2022** que no han tenido oportunidad
+de entrar en el top hasta este año, entre esos han entrado:
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/EVfMwPiHmxDUvY32BbghBg__original/img/5hdiPHjIRQIFtAJETm4biy3ZfrI=/0x0/filters:format(jpeg)/pic7378384.jpg"
+        class="img-thumbnail" alt="Earthborne Rangers">
+    </div>
+    <div class="col-md-9">
+        <h4>94. Earthborne Rangers</h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/342900">Earthborne Rangers</a></strong>
+de Andrew Fischer, Brooks Flugaur-Leavitt, Andrew Navaro, Adam Sadler y Brady
+    Sadler, y publicado por <strong>Earthborne Games</strong>, es un juego
+    cooperativo de construcción de mazos en el que eres un guardabosques
+    tratando de cumplir con una serie de misiones.</p>
+         <p><strong>Comentario.</strong> El Kickstarter de este juego también
+    sufrió retrasos, en parte porque la producción del juego debía ser local al
+    idioma al que se fuera a publicar el juego, lo que complica la gestión.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/l5vgu2EcX8qm7_p9zhROuQ__original/img/Ua9vz7SNNj175jUlBuA0t7To1FQ=/0x0/filters:format(jpeg)/pic4874391.jpg"
+        class="img-thumbnail" alt="Aeon Trespass: Odyssey">
+    </div>
+    <div class="col-md-9">
+        <h4>99. Aeon Trespass: Odyssey</h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/242705">Aeon Trespass: Odyssey</a></strong>
+de Marcin Wełnicki, y publicado por <strong>Into the Unknown</strong>, es un
+    juego temático de aventuras con campaña ambientado en una edad antigua
+    alternativa en el que tienes que amansar a los Titanes y derrotar a los
+        Primordiales.</p>
+         <p><strong>Comentario.</strong> Este juego se financió mediante otro
+    Kickstarter que acumuló también bastantes retrasos, pero es el temático del
+    que más bien he oído hablar de los últimos años.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/CqzGIceKP1nPybxDL2Z2sg__original/img/NbjYadSy2v37UGWU7W1k8g9XvkI=/0x0/filters:format(png)/pic7074834.png"
+        class="img-thumbnail" alt="Skytear Horde">
+    </div>
+    <div class="col-md-9">
+        <h4>146. <a href="https://amzn.to/3QYIYSf">Skytear Horde</a></h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/344789">Skytear Horde</a></strong>
+    de Giacomo Neri y Riccardo Neri, y publicado por <strong>Skytear Games</strong>,
+    es un juego de cartas con mecánicas de <i>tower defence</i> en el que
+    tienes que controlar a un grupo de héroes para que repelan las oleadas de
+    monstruos que quieren destruir el reino.</p>
+         <p><strong>Comentario.</strong> Este juego ha sido una completa
+    sorpresa para mí, ha pasado completamente bajo mi radar, habrá que investigarlo.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/Nqw3SzV4JDd64lcDgytPEg__original/img/CK6xh0d01jIC7WOIGALHZCDli34=/0x0/filters:format(jpeg)/pic7227691.jpg"
+        class="img-thumbnail" alt="Dorfromantik: The Board Game">
+    </div>
+    <div class="col-md-9">
+        <h4>137. Dorfromantik: The Board Game</h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/370591">Dorfromantik: The Board Game</a></strong>
+de Michael Palm, Lukas Zach, y publicado por <strong>Pegasus Spiele</strong>,
+    es un juego de colocación de losetas de corte relajado en el que tienes que
+    construir un paisaje cumpliendo con las peticiones de la población. Está
+    basado en el <a
+    href="https://store.steampowered.com/app/1455840/Dorfromantik/">videojuego</a>
+    del mismo nombre.</p>
+    <p><img src="https://live.staticflickr.com/65535/52417939609_0cc5167cc3_b.jpg"></p>
+         <p><strong>Comentario.</strong> Durante la SPIEL'22 el stand de
+    Pegasus Spiele estaba lleno de mesas para jugar a este
+    <strong>Dorfromantik</strong>, pero la explicaciones solamente eran en
+    alemán, sin embargo, Pegasus Spiele lanzó una edición en inglés en tiempo
+    récord después de todas las peticiones que hubo de una edición en
+    inglés.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/lfFKMNCzIJesp8IFHK8dEw__original/img/qtWs6Wg0a241k2D1TWWbesVwu-s=/0x0/filters:format(jpeg)/pic6985339.jpg"
+        class="img-thumbnail" alt="Keep the Heroes Out!">
+    </div>
+    <div class="col-md-9">
+        <h4>144. Keep the Heroes Out!</h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/333255">Keep the Heroes Out!</a></strong>
+        de Luís Brüeh, y publicado por <strong>Brueh Games</strong>, es un
+    juego temático que da la vuelta de tuerca típica a la temática de mazmorreo,
+    controlamos a un grupo de monstruos que tienen que defender su mazmorra de
+    los invasores, los héroes.</p>
+         <p><strong>Comentario.</strong> Este es uno de los pocos Kickstarters
+    que se entregó a tiempo, creo que tengo una colegui que se metió en el
+    Kickstarter, así que puede que lo pueda probar en el futuro, os comentaré
+    si es el caso.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <img width="500" height="500"
+            src="https://cf.geekdo-images.com/V0OZ9QR0pC9G5t5i9MoZTQ__original/img/NxxAoxVxMNkDGEkD3aoobPL14dI=/0x0/filters:format(jpeg)/pic6950224.jpg"
+        class="img-thumbnail" alt="Revive">
+    </div>
+    <div class="col-md-9">
+        <h4>179. <a href="https://amzn.to/3N35tEJ">Revive</a></h4>
+         <p><strong><a
+    href="https://boardgamegeek.com/boardgame/332772">Revive</a></strong>
+de Helge Meissner, Kristian Amundsen Østby, Eilif Svensson y Anna Wermlund, y
+    publicado por <strong>Aporta Games</strong> (<strong>Devir</strong> en
+    castellano), es un euro que mezcla mecánicas de construcción de mazos,
+    cartas de doble uso y árboles de tecnologías, entre otras mecánicas;
+    nuestro objetivo es descubrir ubicaciones de civilizaciones de la
+    antigüedad en un mapa y repoblarlas.</p>
+<p><img src="https://live.staticflickr.com/65535/52417939419_1a4742fd61_b.jpg"></p>
+         <p><strong>Comentario.</strong> <strong>Revive</strong> fue mi espina
+    clavada de Essen 2022, se agotó y además no pude probarlo porque el stand
+    de Aporta Games estuvo colapsado de gente todos los días. Creo que es un
+    juego que puede gustarme, por lo que está en mi lista de deseos, y que haya
+    llegado al top 200 de los solitarios es muy buena noticia. La versión en
+    castellano de Devir se puede conseguir con algo de descuento dependiendo en
+    qué tienda compréis (el PVP en inglés era de unos 80€), por lo que igual
+    caigo en un futuro.</p>
+    </div>
+</div>
 
 ## Estadísticas de 2023
 
