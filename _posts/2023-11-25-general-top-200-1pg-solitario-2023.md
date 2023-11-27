@@ -813,6 +813,7 @@ de Simone Luciani, Nestore Mangone, y publicado por <strong>ThunderGryph Games</
     </div>
 </div>
 
+<hr>
 
 Y como sabéis, el top se vota en octubre/noviembre cada año, por lo que hay
 juegos que se han publicado a **finales de 2022** que no han tenido oportunidad
