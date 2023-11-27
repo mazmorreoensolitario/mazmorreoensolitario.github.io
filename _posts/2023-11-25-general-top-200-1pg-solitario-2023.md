@@ -855,7 +855,7 @@ de Marcin Wełnicki, y publicado por <strong>Into the Unknown</strong>, es un
         Primordiales.</p>
          <p><strong>Comentario.</strong> Este juego se financió mediante otro
     Kickstarter que acumuló también bastantes retrasos, pero es el temático del
-    que más bien he oído hablar de los últimos años.</p>
+    que más bien he oído hablar en los últimos años.</p>
     </div>
 </div>
 
