@@ -58,7 +58,7 @@ Aquí tenéis **el Top 20 de 2023**:
     disposición de bloques residenciales, industriales y comerciales
     determinada, de forma que consigamos el mayor número de puntos según tres
     cartas de objetivo.</p> 
-    <p>Ánalisis de <strong>Expansiópolis</strong> en <a
+    <p>Análisis de <strong>Expansiópolis</strong> en <a
     href="{{site.baseurl}}/2018/12/23/analisis-sprawlopolis/">solitario
     aquí</a>.</p>
     <p><img
@@ -106,7 +106,7 @@ de Randy Flynn, y publicado por <strong>Flatout Games</strong>
     (<strong>Delirium Games</strong> en castellano), es un juego de abstracto
     de colocación de losetas en el que tenemos un doble puzle de construcción
     de patrones.</p>
-    <p>Ánalisis de <strong>Cascadia</strong> en <a
+    <p>Análisis de <strong>Cascadia</strong> en <a
     href="{{site.baseurl}}/2023/09/03/analisis-cascadia/">solitario
     aquí</a>.</p>
     <p><img src="https://live.staticflickr.com/65535/53161474559_23a191208f_b.jpg"></p>
@@ -322,7 +322,7 @@ de Nigel Buckle y Dávid Turczi, y publicado por <strong>Osprey Games</strong>
     (<strong>Devir</strong> en castellano), es  un juego de construcción de
     mazos con civilizaciones de la antigüedad en el que deberás competir por puntos contra
     otra civilización.</p>
-        <p>Ánalisis de <strong>Imperium: Classics</strong> en <a
+        <p>Análisis de <strong>Imperium: Classics</strong> en <a
     href="{{site.baseurl}}/2021/08/31/analisis-imperium-classics/">solitario
     aquí</a>.</p>
     <p><img src="https://live.staticflickr.com/65535/51414001848_5642590acc_b.jpg"></p>
@@ -353,7 +353,7 @@ de Jacob Fryxelius, y publicado por <strong>FryxGames</strong> (<strong>Maldito
     (<i>engine building</i>) en el que tienes que conseguir terraformar Marte
     durante una serie de generaciones tratando de que los niveles de
     temperatura, oxígeno y agua lleguen a niveles idóneos para albergar vida.</p>
-    <p>Ánalisis de <strong>Terraforming Mars</strong> en <a
+    <p>Análisis de <strong>Terraforming Mars</strong> en <a
     href="{{site.baseurl}}/2019/09/16/analisis-terraforming-mars/">solitario
     aquí</a>.</p>
     <p><img src="https://live.staticflickr.com/65535/48737504223_867e285fca_z.jpg"></p>
