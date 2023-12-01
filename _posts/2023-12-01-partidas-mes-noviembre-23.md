@@ -85,7 +85,7 @@ usando. De todas formas me han salido pocos animales acuáticos en las partidas
 que he jugado, por lo que aún me quedan muchas cartas nuevas que
 descubrir. Creo que una de las cosas que más me gusta es la nueva universidad,
 que te permite conseguir un animal de un tipo específico del mazo. Así, si
-por ejemplo estás buscando primates para un projecto de conservación que
+por ejemplo estás buscando primates para un proyecto de conservación que
 requiere primates, el azar te da menos por ahí cuando no salen primates
 suficientes, ya que puedes usar estas universidades para asegurarte al menos
 un animal de ese tipo.
@@ -115,7 +115,7 @@ adquisiciones de Essen.
 
 De momento sigo jugando con la variante normal del juego, **Evacuation** tiene
 también una variante avanzada que utiliza un mazo de cartas de acción en vez de
-las acciones estándar pintadas en el tamberlo, pero de momento no estoy a ello
+las acciones estándar del tablero, pero de momento no estoy a ello
 porque a veces se me olvida centrarme en los objetivos que he elegido para la
 partida y saco unas puntuaciones muy malas.
 
@@ -163,7 +163,7 @@ La expansión
 de las novedades del mes.
 
 Creo que la expansión de **Faiyum** ha sido una de las noticias que más
-ilusicón me hizo en relación a las novedades que ibamos a tener en Essen, en
+ilusión me hizo en relación a las novedades que íbamos a tener en Essen, en
 esta expansión se añaden las cartas de *privilegios*, que se añaden a 
 la baraja estándar y que puedes comprar del mercado como siembre, pero tienen
 una función diferente a las cartas de proyecto estándar de **Faiyum**.
