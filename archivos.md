@@ -30,6 +30,8 @@ categorías.
         tag[0] == "Death In Space" or
         tag[0] == "Desert Moon of Karth" or
         tag[0] == "Fronds of Benevolence" or
+        tag[0] == "GLIDE" or
+        tag[0] == "Warlord Ascendant" or
         tag[0] == "OSRIC" or tag[0] == "ALIEN RPG" or tag[0] == "Vaesen" or
         tag[0] == "The Dee Sanction" or
         tag[0] == "Jackals: Bronze Age Fantasy Roleplaying" or
