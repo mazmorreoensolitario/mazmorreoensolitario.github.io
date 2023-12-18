@@ -185,7 +185,7 @@ rápidas (en mi experiencia), una de las peticiones más repetidas entre los fan
 del juego, ya que **Faiyum** es un juego  de hora y media / dos
 horas. **Privileges** te añade más cartas en el mazo y el final de la partida
 se desencadena más tarde, pero a la vez te dan más colchón para tener tiempo y
-desarrollar la region de Faiyum más tranquilamente.
+desarrollar la región de Faiyum más tranquilamente.
 
 Así que, no es la expansión de **Faiyum** que pedían los fans, pero sí es una
 expansión que funciona muy bien y refresca el juego.
