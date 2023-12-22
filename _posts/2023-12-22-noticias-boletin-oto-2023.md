@@ -419,6 +419,8 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
   World](https://amzn.to/41P94ey)**: **16€**, Patrick Todoroff (2020).
 * **[Frostgrave: Perilous Dark](https://amzn.to/4409Wi7)**: **17€** (PVP: 20€),
   inglés, Osprey Games (2019). 
+* **[Next Station: London](https://amzn.to/4aA7Okr): 19€**, inglés, Blue Orange
+  (2023).
 * **[Frostgrave: Second Edition: Fantasy Wargames in the Frozen City](https://amzn.to/3H9lvtD)**:
   **23€** (PVP: 28€), inglés, Osprey Games (2020).
 * **[The Silver Bayonet: A Wargame of Napoleonic Gothic
@@ -430,18 +432,21 @@ Aquí tenéis las ofertas ordenadas por precio ascendente:
   inglés, Osprey Games (2020).
 * **[Arkham Horror: Hora Final](https://amzn.to/3w75ZpQ):** **32€** (PVP:
   39.95€), español, Fantasy Flight Games (2019).
-* **[Gloomhaven: Fauces del León](https://amzn.to/3VfV4bL)**: **50€** (PVP:
-  70€), español, Cephalofair Games (2022).
+* **[Akropolis](https://amzn.to/3GVJSuu): 32€** (PVP: 39.95€), inglés, GIGAMIC
+  (2023).
 * **[Agrícola (Edición revisada)](https://amzn.to/3H7o9jJ)**: **39€** (PVP:
   55€), Lookout Games (2021).
+* **[Gloomhaven: Fauces del León](https://amzn.to/3VfV4bL)**: **50€** (PVP:
+  70€), español, Cephalofair Games (2022).
 * **[Marvel Champions: El Juego de Cartas](https://amzn.to/40sXtAx)**: **60€**
   (PVP: 70€), español, Fantasy Flight Games (2019).
 * **[El Señor de los Anillos: Viajes por la Tierra Media](https://amzn.to/3L8S2kW)**: **93€** (PVP:
   110€), español, Fantasy Flight Games (2019).
-* **[Gloomhaven 2ª Edición](https://amzn.to/3H60os0)**: **114€** (PVP: 150€),
-  español, Cephalofair Games (2021).
 * **[Descent: Leyendas de Las tinieblas](https://amzn.to/3H7m8nw)**: **97€**
   (PVP: 175€), español, Fantasy Flight Games (2021).
+* **[Gloomhaven 2ª Edición](https://amzn.to/3H60os0)**: **114€** (PVP: 150€),
+  español, Cephalofair Games (2021).
+
 
 
 <hr>
