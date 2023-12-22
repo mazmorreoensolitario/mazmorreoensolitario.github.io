@@ -263,6 +263,19 @@ Se espera para **2024**.
 
 <p align="center">
 <img height="250"
+src="https://cf.geekdo-images.com/DyeDCJ5mt8NXJRWqKrPcfw__imagepage/img/SDxk8UOGnbhGjq0716pZU0QIfN8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7910147.png"></p>
+
+**—** En Board Game Geek podemos ver las primeras imágenes de la esperada
+expansión de *Gaia Project*, **[Gaia Project: The Lost
+Fleet](https://boardgamegeek.com/boardgameexpansion/396802/gaia-project-lost-fleet)**,
+que se espera para **2024**.
+
+Esta nueva expansión añade cuatro nuevas facciones, nuevas formas de generar el
+mapa de juego con agujeros donde aparecerán naves de la flota perdida (lo que
+da nombre a esta expansión), nuevas acciones y tecnologías etc.
+
+<p align="center">
+<img height="250"
 src="https://d1vzi28wh99zvq.cloudfront.net/images/11437/450355.png"></p>
 
 **—** **Free League** lanza unas **[reglas en solitario](https://preview.drivethrurpg.com/en/product/450355/vaesen-solo-rules?affiliate_id=1914894)**
@@ -271,6 +284,19 @@ oficiales a precio de 2.99$ para el juego de rol de horror nórdico
 
 Estas reglas en solitario solamente pueden conseguirse en PDF.
 
+<p align="center">
+<img height="250"
+src="https://images.squarespace-cdn.com/content/v1/5d1dac1a1a7a2400017eeff0/8d8b724c-99ba-4908-a2da-05e8d48fd337/Portada_Vampiro.jpg?format=750w"></p>
+
+**—** La editorial **El Refugio** ha lanzado la esperada edición en castellano
+de *A Thousand Year Old Vampire*, traducido como **[Un vampiro de mil
+años](https://www.elrefugioeditorial.com/un-vampiro-de-mil-anos?ref=mazmorreoensolitario)**,
+el juego de rol en solitario en el que escribimos las memorias de un vampiro a
+lo largo de sus siglos y siglos de vida con el fin de no perder sus recuerdos.
+
+**Un vampiro de mil años** puede conseguirse ya en PDF por 15€ desde la [tienda de El
+Refugio](https://www.elrefugioeditorial.com/un-vampiro-de-mil-anos?ref=mazmorreoensolitario),
+y por 39.9€ puedes pre-pedir la edición en físico, que llegará en **marzo de 2024**.
 
 <p align="center">
 <img height="250"
@@ -318,6 +344,19 @@ nueva campaña, *Bug Hunt*.
 
 Estos nuevos suplementos se esperan para **marzo de 2024**, y pueden prepedir
 ya desde la web de [Modiphiüs](https://www.modiphius.net/collections/adventure-wargame-winter-collection).
+
+<p align="center">
+<img height="250"
+src="https://i.shgcdn.com/ccc13144-41fc-4782-84f1-4c1147ace14b/-/format/auto/-/preview/3000x3000/-/quality/lighter/">
+</p>
+
+**—** Y no terminamos aún con **Modiphius**, la compañía también anuncia que
+sacará **[Full Spectrum Dominance](https://www.modiphius.net/pages/full-spectrum-dominance)**, un wargame de miniaturas de escala épica y
+temática de ciencia ficción. En esta nueva edición de **Modiphius** se añaden
+escenarios narrativos, un sistema de campaña, y las esperadas reglas para jugar
+en solitario.
+
+**Full Spectrum Dominance** se espera para **mediados de 2024**.
 
 <p align="center">
 <img height="250"
