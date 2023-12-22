@@ -137,7 +137,7 @@ Callisto](https://boardgamegeek.com/boardgame/401978/undaunted-2200-callisto)**,
 un juego que tiene la herencia de los anteriores *Undaunted*, pero con una
 ambientación futurista y modo solitario incluído.
 
-**Undaunted 2200: Callisto** se espera para **septiembre de 2014** (según la
+**Undaunted 2200: Callisto** se espera para **septiembre de 2024** (según la
 web de Osprey) y tendrá un precio de venta de 65£. La preventa ya [está abierta](https://ospreypublishing.com/uk/undaunted-2200-callisto-9781472862846/).
 
 <p align="center">
