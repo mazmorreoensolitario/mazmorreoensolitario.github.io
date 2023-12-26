@@ -3,7 +3,7 @@ layout: post
 title: "Juegos en solitario: Premios Spiel des Jahres de 2023"
 date: 2023-07-17
 categories: [Noticias]
-tags: [Spiel des Jahres, Dorfromantik, Planet Unknown]
+tags: [Spiel des Jahres, Dorfromantik, Planet Unknown, Next Station, Akropolis]
 general: ""
 imghtml: https://live.staticflickr.com/65535/51194829619_58b15b521f_b.jpg
 post_desc: "Este es un resumen de los juegos nominados a los Spiel des Jahres
@@ -68,7 +68,7 @@ de Michael Palm, Lukas Zach, y publicado por <strong>Pegasus Spiele</strong>,
         class="img-thumbnail" alt="Next Station: London">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/blue-orange/107043-next-station-london-3664824001505.html#ae447">Next Station: London</a></h4>
+        <h4><a href="https://amzn.to/41uWx0V">Next Station: London</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/353545">Next Station: London</a></strong>
 de Matthew Dunstan, y publicado por <strong>Blue Orange</strong> (también en
@@ -99,7 +99,7 @@ solitario.
         class="img-thumbnail" alt="Akropolis">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://www.philibertnet.com/en/gigamic/109749-akropolis-3421271360810.html#ae447">Akropolis</a></h4>
+        <h4><a href="https://amzn.to/47avx7V">Akropolis</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/357563">Akropolis</a></strong>
 de Jules Messaud, y publicado por <strong>Gigamic</strong> (<strong>MEBO
