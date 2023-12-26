@@ -99,7 +99,7 @@ desarrollar la región egipcia de Faiyum lo mejor que podamos.
 
 ### Cuéntame cómo se juega a un turno del juego
 
-Todas las partidas de Faiyum comienzan con el tablero de la misma forma, tenemos
+Todas las partidas de **Faiyum** comienzan con el tablero de la misma forma, tenemos
 un asentamiento ya colocado, una carretera, y todos los hexágonos de trigo y
 uvas están llenos de cocodrilos; lo que cambia es el mercado de cartas inicial
 y el orden en el que vas a ir descubriendo las cartas del mazo de robo (las
@@ -123,7 +123,7 @@ descarte (y el resto pagando linealmente, la primera carta cuesta 1, la
 dos 2, la tres 3, la cuatro 4 etc.), y recuperar si quieres hasta dos
 trabajadores.
 
-Lo que da jugo a este juego son las cartas. Empiezas la partida
+Lo que da jugo a **Faiyum** son las cartas. Empiezas la partida
 con cinco cartas básicas y luego tienes ~80 cartas con efectos diferentes que
 puedes comprar, que te van desbloqueando diferentes formas de conseguir
 recursos, construir cosas, comerciar o conseguir algún efecto especial. Estas
@@ -181,7 +181,7 @@ estrategia es la mejor", no vas a poder jugar así porque el juego te obliga a
 que tu estrategia se adapte a lo que te va saliendo en el mercado de
 cartas. Las tres cartas básicas las vas a tener siempre, pero para construir
 cosas más avanzadas dependes de la suerte para que salgan antes o después en la
-partida, va a terminar salindo la carta que necesitas, pero igual no cuando más
+partida, va a terminar saliendo la carta que necesitas, pero igual no cuando más
 la necesitas. 
 
 Sobre el **arte y componentes**, los componentes (cartas, tablero, fichas y
@@ -221,7 +221,7 @@ te den bono, qué hexágonos debes dejar libres para recolectar recursos y cuale
 no, si estás construyendo cerca del mar o del canal... hay mucho que tener en
 cuenta a medida que la partida progresa.
 
-También tienes que hacer compras de cartas inteligentes, ya que las cartas se
+También tienes que hacer compras inteligentes de cartas, ya que las cartas se
 ordenan por número en el mercado, ves 8 cartas y solo puedes comprar las 4
 primeras, y las de número más alto cuestan más dinero. Así que a lo mejor en un
 turno tienes que invertir más dinero en una carta cara, porque a lo mejor
