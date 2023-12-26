@@ -273,6 +273,7 @@ categorías.
                         tag[0] == "The Last Hundred Yards: The Russian Front" or
                         tag[0] == "The Last Hundred Yards: The Solomon Islands" or
                         tag[0] == "The Shores of Tripoli" or
+                        tag[0] == "Traces of War" or
                         tag[0] == "Triumvir" or
                         tag[0] == "Verdun 1916: Steel Inferno" or
                         tag[0] == "Versailles 1919" or
