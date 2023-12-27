@@ -2,7 +2,7 @@
 layout: post
 title: "Top 200 del 1 Player Guild: los mejores de 2023"
 date: 2023-11-25
-categories: [General]
+categories: [Listas]
 tags: [Tops, Dorfromantik, Revive, Earthborne Rangers, Halls of Hegra, La Fortaleza de Hegra, Expeditions, "Darwin's Journey", "Mage Knight", Spirit Island, Horizons of Spirit Island, "Marvel Champions: The Card Game", Arkham Horror, "El Señor de los Anillos: El Juego de Cartas", Terraforming Mars, Ark Nova, "Dune: Imperium", Too Many Bones, "Imperium: Classics", "Imperium: Legends", Final Girl, Gloomhaven, "Gloomhaven: Jaws of the Lion", "Gloomhaven: Fauces del León", Gaia Project, "Aeon's End", Robinson Crusoe, Cascadia, Under Falling Skies, Cielos de metal, Lost Ruins of Arnak, Las Ruinas Perdidas de Arnak, Expansiópolis, Sprawlopolis, El Banquete de Odín, A Feast for Odin]
 imghtml: https://live.staticflickr.com/65535/53355847115_acc9ac8e96_c.jpg
 post_desc: "En esta entrada os traigo las estadísticas de los juegos mejor
