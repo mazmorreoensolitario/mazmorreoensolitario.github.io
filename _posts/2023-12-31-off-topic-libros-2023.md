@@ -629,7 +629,7 @@ un pelín más rápido.
 
 *All Systems Red* no ha defraudado en ese aspecto, ni en ningún otro. Es una
 novela corta en la el/la/ello autodenominado *Murderbot* es el
-protagonista (me voy a decantar por el pronombre *el* y similares para que sea
+protagonista (me voy a decantar por el pronombre *él* y similares para que sea
 más fácil para mí, aunque en inglés utilizan el pronombre *it*, usado para
 objetos y cosas, para referirse a Murderbot). Muderbot es un robot de la gama
 *SecUnit* que se dedica a proveer seguridad para los clientes de la empresa que
