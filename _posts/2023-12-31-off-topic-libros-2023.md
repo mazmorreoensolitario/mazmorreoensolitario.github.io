@@ -802,7 +802,7 @@ planeta perdido antes que las corporaciones, para dar una oportunidad a las
 personas que potencialmente habitan allí de ejercer sus derechos y no terminar
 como esclavos modernos.
 
-Este has sido otro libro que ha explotado la gran fórmula de la saga de
+Este ha sido otro libro que ha explotado la gran fórmula de la saga de
 Murderbot: acción, personajes memorables y un protagonista muy carismático.
 
 
