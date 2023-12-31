@@ -234,7 +234,8 @@ la boca abierta.
 
 Me han gustado mucho los personajes de la trilogía, cada uno muy único y han
 ido ganando protagonismo todos poco a poco, el final ha sido épico, pero
-también ha habido momentos de humor en medido de toda la acción.
+también ha habido momentos de humor en medido de toda la acción. También creo
+una escena de sexo que tiene este libro sobra completamente, pero bueno.
 
 Me ha gustado mucho esta trilogía de *The Salvagers*, muy redonda, así que si
 buscáis una *space opera* diferente, esta podría ser.
