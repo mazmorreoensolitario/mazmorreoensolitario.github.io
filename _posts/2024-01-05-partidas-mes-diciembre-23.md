@@ -27,9 +27,9 @@ src="https://live.staticflickr.com/65535/53445040241_0d3c31244e_b.jpg">
 <small>Vista de Sierra Nevada y parte de Granada desde la Alhambra</small></p>
 
 En el panorama de juegos de mesa no ha habido novedades durante diciembre, pero
-sí que he tenido la oportunidad de pasear el **Trailblazers** (mi última
-elección por defecto como juego de viaje) por Málaga y Granada (foto arriba de
-esta última ciudad) en una escapada de tres días que hice antes de fin de
+sí que he tenido la oportunidad de pasear el **Trailblazers** —que se ha
+convertido en mi juego de viaje del momento—  por Málaga y Granada (foto arriba
+de esta última ciudad) en una escapada de tres días que hice antes de fin de
 año. Andé en ambos sitios más de lo esperado, así que nada de jugar al
 **Trailblazers** en el hotel después, sino manta y a dormir.
 
