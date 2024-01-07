@@ -30,7 +30,7 @@ En el panorama de juegos de mesa no ha habido novedades durante diciembre, pero
 sí que he tenido la oportunidad de pasear el **Trailblazers** —que se ha
 convertido en mi juego de viaje del momento—  por Málaga y Granada (foto arriba
 de esta última ciudad) en una escapada de tres días que hice antes de fin de
-año. Andé en ambos sitios más de lo esperado, así que nada de jugar al
+año. Anduve en ambos sitios más de lo esperado, así que nada de jugar al
 **Trailblazers** en el hotel después, sino manta y a dormir.
 
 Tanto Málaga como Granada me gustaron mucho, y aprecié mucho la media hora más
@@ -154,7 +154,7 @@ el otro del tipo rojo tiene algo parecido y no sientes que has malgastando
 turnos por haber hecho cosas que no te van a servir.
 
 Yo estoy jugando aún con estos contratos básicos y me parece que ha sido una
-buena forma de que el juego no te de hachazos al principio.
+buena forma de que el juego no te dé hachazos al principio.
 
 ### Zhanguo: The First Empire
 
@@ -175,7 +175,7 @@ me llegase todo, y ya con todo en diciembre lo he podido jugar.
 
 En **Zhanguo** algunas de las acciones se toman jugando cartas en el tablero
 del Emperador. Estas cartas tienen un número único cada una, y cuando las
-juegas tienes que mirar si tu carta jugada tienen un valor mayor o menor que la
+juegas tienes que mirar si tu carta jugada tiene un valor mayor o menor que la
 carta anterior para ver si se desencadenan acciones extra en tu tablero de
 jugador.
 
