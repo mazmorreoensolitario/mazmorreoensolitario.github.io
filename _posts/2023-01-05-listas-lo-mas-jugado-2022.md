@@ -106,7 +106,7 @@ quedado sin jugar en la balda de la vergüenza.
   vergüenza.
 
 
-## El top 10 de 2022: lo mas jugado
+## El top 10 de 2022: lo más jugado
 
 Pasamos a mi **top 10 de juegos más jugados**, en base al **número de horas** que
 he metido, no partidas.
