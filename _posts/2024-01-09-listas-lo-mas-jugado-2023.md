@@ -157,7 +157,9 @@ problemas para hacer los desempates.
     <strong>2F-Spiele</strong> (también en España).</p>
          <div>
          </div>
-         <p><strong>Faiyum</strong> es algo especial y aunque se juega menos
+         <p><strong>Faiyum</strong> (<a
+    href="{{site.baseurl}}/2021/02/13/primeras-impresiones-faiyum/">primeras
+    impresiones aquí</a>) es algo especial y aunque se juega menos 
     que en 2021, cuando lo compré, sigue saliendo, y cada vez que sale me lo
     paso genial con él. Este año ha habido únicamente dos partidas, una a mitad
     de año y otra con la expansión <strong>Priviledges</strong> que conseguí en
