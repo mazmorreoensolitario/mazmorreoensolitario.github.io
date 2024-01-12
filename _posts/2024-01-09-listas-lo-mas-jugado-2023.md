@@ -3,7 +3,7 @@ layout: post
 title: "Balance de 2023: lo más jugado"
 date: 2024-01-09
 categories: [Listas]
-tags: [Tops, Trailblazers, Ark Nova, Pirates of Maracaibo, Faiyum, Three Sisters, Wingspan Asia, Cascadia, Evacuation, Barcelona, Factory Funner]
+tags: [Tops, Trailblazers, "Faiyum: Privileges", Ark Nova, "Ark Nova: Marine Worlds", Pirates of Maracaibo, Faiyum, Three Sisters, Wingspan Asia, Cascadia, Evacuation, Barcelona, Factory Funner]
 imghtml: https://live.staticflickr.com/65535/53450825674_3e5ceed8db_b.jpg
 post_desc: "Damos un vistazo a 2023 para ver qué se ha comprado, qué se ha
 jugado y qué he dejado quedado sin jugar"
@@ -162,7 +162,7 @@ problemas para hacer los desempates.
     impresiones aquí</a>) es algo especial y aunque se juega menos 
     que en 2021, cuando lo compré, sigue saliendo, y cada vez que sale me lo
     paso genial con él. Este año ha habido únicamente dos partidas, una a mitad
-    de año y otra con la expansión <strong>Priviledges</strong> que conseguí en
+    de año y otra con la expansión <strong>Privileges</strong> que conseguí en
     Essen.</p>
     </div>
 </div>
