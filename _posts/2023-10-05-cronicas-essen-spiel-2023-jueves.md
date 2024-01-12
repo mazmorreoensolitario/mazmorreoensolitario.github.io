@@ -11,6 +11,9 @@ post_desc: "Resumen del primer día de la SPIEL 2023"
 ![](https://live.staticflickr.com/65535/53237428943_0df67c9ba7_c.jpg)
 
 * **Jueves 5/10** (estás aquí)
+* [Viernes
+  6/10]({{site.baseurl}}/2023/10/06/cronicas-essen-spiel-2023-viernes/)
+* [Sábado 6/10]({{site.baseurl}}/2023/10/07/cronicas-essen-spiel-2023-sabado/)
 
 <hr>
 
@@ -112,7 +115,8 @@ mapa del norte de África (no recuerdo cuál era el sentido temático de esa
 acción, creo que algo de navegar viendo las estrellas).
 
 Me gustó mucho este **Sankoré**. No voy a prometer nada porque sino la lío pero
-intentaré dejaros más fotos y una "historia de una demo" antes de fin de año.
+intentaré dejaros más fotos y una "historia de una demo" antes de fin de año si
+me cuadra.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/53236262292_8e665727d2_c.jpg"></p>
 <p align="center"><small>Prototipo de Pyramidice</small></p>

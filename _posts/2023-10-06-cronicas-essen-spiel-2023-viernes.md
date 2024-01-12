@@ -12,6 +12,7 @@ post_desc: "Resumen del segundo día de la SPIEL 2023"
 
 * [Jueves 5/10]({{site.baseurl}}/2023/10/05/cronicas-essen-spiel-2023-jueves/)
 * **Viernes 6/10** (estás aquí)
+* [Sábado 7/10]({{site.baseurl}}/2023/10/07/cronicas-essen-spiel-2023-sabado/)
 
 <hr>
 
