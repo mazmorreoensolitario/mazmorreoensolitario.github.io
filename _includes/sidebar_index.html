@@ -26,11 +26,6 @@
     <a href="https://www.philibertnet.com/en/#ae447"><img src="https://lb.affilae.com/imp/5bf52e77e2891d7d00f2e8af/5feb54c8888f143432e298a4/5cd976224b107f49ec5b7af2/https://s3-eu-west-1.amazonaws.com/aeup/uploads/programs/5bf52e77e2891d7d00f2e8af/elements/5cd976224b107f49ec5b7af0.png"/></a>
     <p align="center"><strong><small>¡Envío con Punto Pack a España por 2.95€!</small></strong></p>
     <a href="https://zacatrus.es#u97"><img src="https://cf.geekdo-images.com/iTLNi2G5neh548ulgp9L-w__imagepage/img/5KTkFxYAW8YOwMp9Zce_-Q_9O_k=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2239623.png"></a>
-    <p align="center">
-    <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ez&f=ifr&linkID=5ac6382008988ffc0812e38830f2df18&t=mazmorreo-21&tracking_id=mazmorreo-21"
-    width="120" height="90" scrolling="no" border="0" marginwidth="0"
-    style="border:none;" frameborder="0"></iframe>
-    </p>
   </div>
   <div class="mt10index">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -56,50 +51,49 @@
       or tag[0] == "Gloomhaven: Fauces del León"
       or tag[0] == "Mothership"
       or tag[0] == "Pathfinder Adventure Card Game"
+      or tag[0] == "Scarlet Heroes"
       or tag[0] == "Spirit Island"
       or tag[0] == "A Rasp of Sand"
       or tag[0] == "Bargain Basement Bathysphere"
       or tag[0] == "Bios: Megafauna"
-      or tag[0] == "Earthborne Rangers"
+      or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "El mes en juegos"
       or tag[0] == "Four Against Darkness"
-      or tag[0] == "Oath: Chronicles of Empire and Exile"
+      or tag[0] == "Kickstarter"
       or tag[0] == "One Page Dungeon"
       or tag[0] == "Pico Pluma & Hueso"
       or tag[0] == "Resistid"
       or tag[0] == "Rol"
       or tag[0] == "Ruins of the Undercity"
-      or tag[0] == "Scarlet Heroes"
+      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Solar Storm"
       or tag[0] == "Aeon's End"
       or tag[0] == "After The Virus"
-      or tag[0] == "Agricola"
       or tag[0] == "ALIEN RPG"
-      or tag[0] == "Alone Among the Stars"
       or tag[0] == "Altar Quest"
       or tag[0] == "Concordia Solitaria"
       or tag[0] == "Crossing the Line: Aachen 1944"
       or tag[0] == "Cryo"
       or tag[0] == "Cthulhu: Death May Die"
       or tag[0] == "Curious Cargo"
-      or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "Dungeon Degenerates"
+      or tag[0] == "Earthborne Rangers"
       or tag[0] == "El muro de Adriano"
       or tag[0] == "Essen Spiel 2022"
       or tag[0] == "Etherfields"
       or tag[0] == "Ex Novo"
       or tag[0] == "Forbidden Lands"
+      or tag[0] == "Halls of Hegra"
       or tag[0] == "Ironsworn"
-      or tag[0] == "Kickstarter"
       or tag[0] == "Labyrinth Lord"
+      or tag[0] == "NAC Wargames"
+      or tag[0] == "Oath: Chronicles of Empire and Exile"
       or tag[0] == "Reinos de Papel"
       or tag[0] == "Revive"
       or tag[0] == "Root: Los Cachivaches"
-      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Sherlock Holmes Detective Asesor"
-      or tag[0] == "Star Wars: Imperial Assault"
+      or tag[0] == "Star Wars: El Borde Exterior"
       or tag[0] == "Sword & Sorcery"
-      or tag[0] == "The 7th Citadel"
       or tag[0] == "Too Many Bones"
       or tag[0] == "Undaunted: Reinforcements" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
@@ -147,13 +141,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2018/11/05/analisis-mini-rogue/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/03/18/general-top-100-bgg-solitario-p3/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -169,6 +156,13 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2023/02/24/noticias-csr-awards-2021/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2018/11/05/analisis-mini-rogue/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
