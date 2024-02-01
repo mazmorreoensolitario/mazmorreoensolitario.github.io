@@ -65,7 +65,7 @@ en inglés (oficial), [cartas](https://boardgamegeek.com/filepage/138859/cartas-
 y [reglas](https://boardgamegeek.com/filepage/151276/reglas-de-mini-rogue-v121-en-espanol)
 en castellano (traducido por fans).
 
-> Puedes leer sobre la nueva **versión retail/Kickstarter
+> Puedes leer sobre la nueva **versión [retail](https://amzn.to/3w29sMc)/Kickstarter
 > [aquí]({{site.baseurl}}/2020/05/23/ojeando-mini-rogue/)**. 
 
 ### Información general
