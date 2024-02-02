@@ -16,17 +16,17 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
 
 # Sobre mí
 
-* Libros que estoy leyendo ahora: [Ardenas 1944](https://amzn.to/3fACxSx).
+* Libros que estoy leyendo ahora: *muchos*.
 * Posibles siguiente/s libro/s en mi lista para leer: *muchos*.
 * Libros que he leído:
+  - en 2023: [lista aqui]({{site.baseurl}}/2023/12/31/off-topic-libros-2023/)
   - en 2022: [lista aquí]({{site.baseurl}}/2022/12/30/off-topic-libros-de-2022/)
   - en 2021: [lista
     aquí]({{site.baseurl}}/2021/12/21/off-topic-libros-de-2021/)
-* Series que estoy viendo: [The Wheel Of
-  Time](https://www.primevideo.com/?tag=mazmorreo-21), [The
-  Expanse](https://www.primevideo.com/?tag=mazmorreo-21), The Book of Boba Fett.
-* Videojuegos que ocasionalmente juego durante estos meses: Deep Sky Derelicts,
-  Caves of Qud, [Star Wars Battlefront II](https://amzn.to/2TQNQz5), Atom RPG.
+* Series que estoy viendo: *For All Mankind*, *Yellowstone*.
+* Videojuegos que ocasionalmente juego durante estos meses: Wartales, Deep Sky
+  Derelicts, Caves of Qud, [Star Wars Battlefront II](https://amzn.to/2TQNQz5),
+  Atom RPG.
 
 
 # Sobre el blog
@@ -80,15 +80,14 @@ del tema [cards](https://github.com/sharu725/cards).
 * En algunas entradas podrás encontrar enlaces del [Programa de Afiliados de
   Amazon](https://afiliados.amazon.es/help/operating/schedule) y el [Programa
   de Afiliados de Philibert](https://www.philibertnet.com/fr/#ae447). Si compráis
-  algún juego siguiendo estos enlaces, la tienda en cuestión nos dará hasta un
-  5% de comisión por "hacerles publi" (el juego a ti no te cuesta más dinero).
+  algún juego siguiendo estos enlaces, nosotros recibimos una comisión.
   
   El dinero recaudado por este método se reinvierte para traer más
   contenido al blog.
   
 * En los libros de rol hay enlaces del [Programa de Afiliados de
   DrivethruRPG](https://www.drivethrurpg.com/?affiliate_id=1914894). Si compras
-  un libro de esta forma, DriveThruRPG nos dará un 3% de comisión.
+  un libro de esta forma, DriveThruRPG nos dará una comisión.
   
   El dinero recaudado de esta forma se invierte en más libros de rol en
   solitario.
