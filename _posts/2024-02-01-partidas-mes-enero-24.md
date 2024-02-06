@@ -280,7 +280,7 @@ imprimiré otra vez todo para jugar con la versión más actualizada.
 src="https://ksr-ugc.imgix.net/assets/042/862/744/017886e453138ed5c22103bf946f1df1_original.jpg?ixlib=rb-4.1.0&w=680&fit=max&v=1698488296&gif-q=50&q=92&s=53d6a39546703d5514c239b3b5e32eb9"></p>
 
 He estrenado finalmente el **[Ker
-Nethalas](https://blackoathgames.com/ker-nethalas-into-the-midnight-throne)**,
+Nethalas](https://preview.drivethrurpg.com/en/product/465235/Ker-Nethalas-Into-the-Midnight-Throne?affiliate_id=1914894)**,
 pero por temas del catarro/gripe/COVID que he pillado me he quedado solamente
 en la exploración del dominio introductorio, que es como una especie de
 tutorial antes de salir al juego completo.
