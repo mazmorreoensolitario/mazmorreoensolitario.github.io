@@ -252,7 +252,7 @@ grosor menor a lo que hoy en día se considera estándar, pero por un juego tan
 barato a mí me parece normal.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/53379317976_f0730c5d61_h.jpg"></p>
-<p align="center"><small>11 foto artistica personaje</small></p>
+<p align="center"><small>Foto artística del personaje</small></p>
 
 **El juego.** En **Light in the Dark** tenemos otra iteración más de la fórmula
 de juego de mazmorreo de tamaño reducido que trata de darte las experiencias
@@ -285,7 +285,7 @@ objeto o no en este combate porque solamente puedo conseguir objetos en
 mercados, y no siempre hay mercados disponibles porque el camino está
 bloqueado, porque hay muchos enemigos de por medio u otras cosas.
 
-Luego están las misiones... hay ya creo que el juego empieza a hacer aguas. No
+Luego están las misiones... ahí ya creo que el juego empieza a hacer aguas. No
 entiendo la decisión que llevó a decidir que las misiones solamente pueden
 superarse cuando están en juego, lleva a momentos muy absurdos y frustrantes en
 los que no puedes luchar contra enemigos porque pide derrotar a enemigos en la
