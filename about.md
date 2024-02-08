@@ -19,10 +19,9 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
 * Libros que estoy leyendo ahora: *muchos*.
 * Posibles siguiente/s libro/s en mi lista para leer: *muchos*.
 * Libros que he leído:
-  - en 2023: [lista aqui]({{site.baseurl}}/2023/12/31/off-topic-libros-2023/)
+  - en 2023: [lista aquí]({{site.baseurl}}/2023/12/31/off-topic-libros-2023/)
   - en 2022: [lista aquí]({{site.baseurl}}/2022/12/30/off-topic-libros-de-2022/)
-  - en 2021: [lista
-    aquí]({{site.baseurl}}/2021/12/21/off-topic-libros-de-2021/)
+  - en 2021: [lista aquí]({{site.baseurl}}/2021/12/21/off-topic-libros-de-2021/)
 * Series que estoy viendo: *For All Mankind*, *Yellowstone*.
 * Videojuegos que ocasionalmente juego durante estos meses: Wartales, Deep Sky
   Derelicts, Caves of Qud, [Star Wars Battlefront II](https://amzn.to/2TQNQz5),
