@@ -108,7 +108,7 @@ izquierda es un recordatorio de en qué orden se mueven los enemigos, qué vida
 tienen, cuánto se mueven y cuánto daño hacen, entre otras cosas.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/53379631229_8362185a30_b.jpg"></p>
-<p align="center"><small>4 encontar enemigo</small></p>
+<p align="center"><small>Encontramos a un enemigo</small></p>
 
 En el juego comenzaremos en una carta de mapa inicial, donde colocaremos
 marcadores de mercado (la bolsa), aldea infectada (la casita) y medicina (la
@@ -177,7 +177,7 @@ extra para objetos, por lo que solamente podrás tener una única carta de objet
 en cada momento.
 
 Los objetos tienen efectos que suelen permitirte manipular las tiradas de tu
-personaje o d e los enemigos, ganar fuerza de ataque o curarte; además,
+personaje o de los enemigos, ganar fuerza de ataque o curarte; además,
 dependiendo del objeto que sea tendrá un número determinado de usos.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/53379318111_daad8146b0_h.jpg"></p>
@@ -202,7 +202,7 @@ muestre los diferentes personajes con los que podemos jugar, que los tenéis en
 la foto de arriba.
 
 Las diferencias entre personajes son el punto inicial de cada atributo (vida,
-movimiento y fuerza de ataque) que está marcado con un cuadrado blando, la
+movimiento y fuerza de ataque) que está marcado con un cuadrado blanco, la
 habilidad especial que tienen, que les otorga un daño extra contra un tipo
 diferente de enemigo, y también sirven para medir el nivel de dificultad.
 
