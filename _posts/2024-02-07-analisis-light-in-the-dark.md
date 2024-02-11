@@ -6,7 +6,6 @@ categories: [Análisis]
 tags: [Light in the Dark, Essen Spiel 2023]
 game: Light in the Dark
 score: 2
-crop: true
 imghtml: https://live.staticflickr.com/65535/53379317986_53d9ddb7ca_h.jpg
 alt_twitter: 
 post_desc: "Light in the Dark te traslada a un mundo desolado por la plaga en
