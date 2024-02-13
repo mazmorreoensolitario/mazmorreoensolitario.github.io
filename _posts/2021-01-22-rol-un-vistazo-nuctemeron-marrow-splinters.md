@@ -15,7 +15,7 @@ de Blackoath Entertainment: Seekers Beyond The Shroud y Disciples of Bone & Shad
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
-            <img width="400" src="https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1610214513288-Y9ZYYO7EOB2AZBQUI67M/ke17ZwdGBToddI8pDm48kCAko5tOG0746ySLv80xFGMUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2Cx3-eKe4vTgPgOtU3zGt1AOsDGr8RO-cZ7VUtzu8EvmbtxPRH917Fz9Qv_NunPol/Nuctemeron+DTRPG.jpg?format=750w"
+            <img width="400" src="https://cf.geekdo-images.com/FpLPpFTjgxw-22aSUVN4Pw__imagepage/img/nDNGuexwQRdrTygSyirc-3lQcCc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5941744.jpg"
                 alt="Nuctemeron">
         </div>
         <div class="col-md-6">
@@ -55,7 +55,7 @@ de Blackoath Entertainment: Seekers Beyond The Shroud y Disciples of Bone & Shad
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
-            <img width="400" src="https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1610213231416-2J4TPV95MM1M5X86N2IR/ke17ZwdGBToddI8pDm48kCAko5tOG0746ySLv80xFGMUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2Cx3-eKe4vTgPgOtU3zGt1AOsDGr8RO-cZ7VUtzu8EvmbtxPRH917Fz9Qv_NunPol/Marrow+%26+Splinters+DTRPG.jpg?format=750w"
+            <img width="400" src="https://cf.geekdo-images.com/zq1xJH_MSErMD_t8xY152A__imagepage/img/ow88bZKZ23KOQkNLLP_Du-1-VuQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5941746.jpg"
                 alt="{{page.title}}">
         </div>
         <div class="col-md-6">
@@ -125,7 +125,7 @@ mi opinión sobre cada zine.
 
 ### Nuctemeron: Hour I
 
-<p align="center"><img height="450" src="https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1610214513288-Y9ZYYO7EOB2AZBQUI67M/ke17ZwdGBToddI8pDm48kCAko5tOG0746ySLv80xFGMUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2Cx3-eKe4vTgPgOtU3zGt1AOsDGr8RO-cZ7VUtzu8EvmbtxPRH917Fz9Qv_NunPol/Nuctemeron+DTRPG.jpg?format=750w"></p>
+<p align="center"><img height="450" src="https://cf.geekdo-images.com/FpLPpFTjgxw-22aSUVN4Pw__imagepage/img/nDNGuexwQRdrTygSyirc-3lQcCc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5941744.jpg"></p>
 
 Nuctemeron comienza con una portada que llama muchísimo la atención, de MossEye
 Design, y en la página interior de la portada ya tenemos una tabla que podemos
@@ -230,7 +230,7 @@ nuevos eventos, descubrimientos y encuentros.
 
 ### Marrow & Splinters #1
 
-<p align="center"><img height="450" src="https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1610213231416-2J4TPV95MM1M5X86N2IR/ke17ZwdGBToddI8pDm48kCAko5tOG0746ySLv80xFGMUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2Cx3-eKe4vTgPgOtU3zGt1AOsDGr8RO-cZ7VUtzu8EvmbtxPRH917Fz9Qv_NunPol/Marrow+%26+Splinters+DTRPG.jpg?format=750w"></p>
+<p align="center"><img height="450" src="https://cf.geekdo-images.com/zq1xJH_MSErMD_t8xY152A__imagepage/img/ow88bZKZ23KOQkNLLP_Du-1-VuQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5941746.jpg"></p>
 
 Esta zine comienza con la portada que podéis ver arriba, muy death metal, luego
 pasamos a una página interior que tiene una mini historia para meternos en

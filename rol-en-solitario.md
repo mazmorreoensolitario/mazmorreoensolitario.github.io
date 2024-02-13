@@ -52,8 +52,20 @@ Guía introductoria sobre qué es el rol en solitario y cómo empezar a jugar:
 
 ### Un pequeño vistazo...
 
-* 22 de Enero, 2021. [Nuctemeron y Marrow &
-  Splinters]({{site.baseurl}}/2021/01/22/rol-un-vistazo-nuctemeron-marrow-splinters/).
+<div class="col-md-12">
+    <div class="col-md-8">
+        <div class="image-container">
+            <a
+    href="{{site.baseurl}}/2021/01/22/rol-un-vistazo-nuctemeron-marrow-splinters/">
+        <img class="crop-sidebar" src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210114-marrow-nuctemeron/nuctemeron-marrowsplinters.jpg">
+        <div class="text-block"><h5>Nuctemeron y Marrow & Splinters</h5></div>
+            </a>
+        </div>
+    </div>
+</div>
+
+
+
 
 ### Noticias
 
