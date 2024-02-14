@@ -59,24 +59,23 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Print & play"
-      or tag[0] == "Resistid"
       or tag[0] == "Tin Helm"
       or tag[0] == "El mes en juegos"
-      or tag[0] == "Boletín Informativo Solitario"
-      or tag[0] == "Iron Helm"
+      or tag[0] == "Resistid"
       or tag[0] == "Ker Nethalas"
       or tag[0] == "Scarlet Heroes"
+      or tag[0] == "Boletín Informativo Solitario"
+      or tag[0] == "Iron Helm"
+      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Tops"
+      or tag[0] == "Bios: Mesofauna"
       or tag[0] == "Dice Hospital"
       or tag[0] == "Etherfields"
-      or tag[0] == "Gaia Project"
       or tag[0] == "Gloomhaven: Fauces del León"
-      or tag[0] == "Ironsworn Worlds: Sundered Isles"
       or tag[0] == "Ironsworn"
       or tag[0] == "Mini Rogue"
       or tag[0] == "Oh My Goods!"
       or tag[0] == "OSR"
-      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Too Many Bones"
       or tag[0] == "A Thousand Year Old Vampire"
       or tag[0] == "Advanced Squad Leader: Starter Kit"
@@ -88,18 +87,18 @@
       or tag[0] == "Imperium: Classics"
       or tag[0] == "Imperium: Legends"
       or tag[0] == "Ironsworn: Starforged"
+      or tag[0] == "Ironsworn Worlds: Sundered Isles"
       or tag[0] == "Kickstarter"
-      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Las Mansiones de la Locura"
-      or tag[0] == "Oath: Chronicles of Empire and Exile"
       or tag[0] == "Old-School Essentials"
+      or tag[0] == "One Deck Dungeon"
       or tag[0] == "Oneironaut"
       or tag[0] == "Palm Island"
       or tag[0] == "Patchwork"
       or tag[0] == "Pocket Mars"
       or tag[0] == "Pyramidice"
+      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Star Wars: Rebellion"
-      or tag[0] == "Tabannusi: Builders of Ur"
       or tag[0] == "Terraforming Mars"
       or tag[0] == "Tiletum"
       or tag[0] == "Trickerion: Legends of Illusion"
@@ -123,13 +122,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2020/05/16/rol-en-solitario-como-empiezo/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -137,7 +129,28 @@
       {% endfor %}
     </div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2020/05/23/ojeando-mini-rogue/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2021/03/27/general-top-100-bgg-solitario-p4/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -152,20 +165,6 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2024/02/01/partidas-mes-enero-24/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/03/27/general-top-100-bgg-solitario-p4/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
