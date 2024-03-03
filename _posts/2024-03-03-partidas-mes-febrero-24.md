@@ -225,7 +225,7 @@ primera mano cómo gestionaban el tema de las aduanas.
 
 También me metí en el Kickstarter de la segunda edición de
 [Courier](https://www.kickstarter.com/projects/sleepysasquatch/courier-repacked/description),
-un juego de rol en solitario en el que somos un repartidor en páramo de un
+un juego de rol en solitario en el que somos un repartidor en un páramo de un
 futuro post apocalíptico, que debería entregarse en agosto de este mismo
 año. Si os interesa echarle un vistazo, está la versión de playtesting
 [abierta](https://drive.google.com/drive/folders/1RijRv6_BAhtr64x0I7JLmj_9K0zqPxU-)
