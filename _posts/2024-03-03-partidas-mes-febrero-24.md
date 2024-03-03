@@ -70,7 +70,7 @@ Ahora os hablo de mi modesto número de partidas durante el mes.
 ### Dungeons of Doria
 
 <p align="center">
-<img height="450"
+<img height=""
 src="https://cf.geekdo-images.com/f5An4vmRJAeTzcwUI4vV8Q__imagepagezoom/img/DK2HFR2H8qIzvoCMqn-6iaVRRTY=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic7382488.jpg"></p>
 
 En febrero pude estrenar el **[Dungeons of
