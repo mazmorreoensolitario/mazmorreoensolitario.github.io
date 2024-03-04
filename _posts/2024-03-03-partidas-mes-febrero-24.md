@@ -15,7 +15,7 @@ sacado a la mesa"
 
 Seguimos con la segunda entrega del año de la serie de **[El mes en
 juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos)**, en la que os comento qué
-he estado jugando cada mes. Si enero fue un mal año en cuanto a partidas,
+he estado jugando cada mes. Si enero fue un mal mes en cuanto a partidas,
 desafortunadamente febrero lo ha superado, ya que ha sido peor, he echado 
 solamente 6 partidas. Ha sido un mes en el que he tenido que meter muchas
 horas extras, y luego después de trabajar no quería pensar, así que poco he
