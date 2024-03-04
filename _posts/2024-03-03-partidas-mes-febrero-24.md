@@ -260,7 +260,8 @@ cara a marzo empezaré con otro nuevo personaje, y trataré de escapar antes y
 más de los combates.
 
 Sobre **Ker Nethalas**, me gusta mucho el combate, es dinámico y variado, cada
-enemigo tiene una tabla de ataques que decide qué hace, lo que hace que el
+enemigo tiene una tabla de ataques en la que tiras un dado para ver cómo se
+comporta en cada turno, lo que hace que el
 combate no se haga repetitivo; a la hora de la exploración, sin haber usado las
 mecánicas de exploración completas porque ~~estoy~~ estaba en el dominio
 inicial, que es como un área de inicio con el mapa hecho, tienes que buscar
