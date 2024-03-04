@@ -15,7 +15,7 @@ sacado a la mesa"
 
 Seguimos con la segunda entrega del año de la serie de **[El mes en
 juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos)**, en la que os comento qué
-he estado jugando cada mes. Si enero fue un mal año en cuanto a partidas,
+he estado jugando cada mes. Si enero fue un mal mes en cuanto a partidas,
 desafortunadamente febrero lo ha superado, ya que ha sido peor, he echado 
 solamente 6 partidas. Ha sido un mes en el que he tenido que meter muchas
 horas extras, y luego después de trabajar no quería pensar, así que poco he
@@ -260,7 +260,8 @@ cara a marzo empezaré con otro nuevo personaje, y trataré de escapar antes y
 más de los combates.
 
 Sobre **Ker Nethalas**, me gusta mucho el combate, es dinámico y variado, cada
-enemigo tiene una tabla de ataques que decide qué hace, lo que hace que el
+enemigo tiene una tabla de ataques en la que tiras un dado para ver cómo se
+comporta en cada turno, lo que hace que el
 combate no se haga repetitivo; a la hora de la exploración, sin haber usado las
 mecánicas de exploración completas porque ~~estoy~~ estaba en el dominio
 inicial, que es como un área de inicio con el mapa hecho, tienes que buscar
