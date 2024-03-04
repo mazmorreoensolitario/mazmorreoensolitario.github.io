@@ -271,6 +271,11 @@ habitación a habitación.
 
 Deseadme suerte para mi siguiente personaje.
 
+**Actualización (4/03/24):** hablando con el autor, Alex, en Twitter, resulta
+que he hecho una cosa mal: el daño de los combates va primero al atributo de
+*toughness* antes de pasar a la vida. Así que mi personaje aún sigue vivo
+¡viva!
+
 ## El juego del mes
 
 <p align="center">
