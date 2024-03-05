@@ -61,43 +61,41 @@
       {% if tag[0] == "Print & play"
       or tag[0] == "El mes en juegos"
       or tag[0] == "Disciples of Bone and Shadow"
-      or tag[0] == "Old-School Essentials"
       or tag[0] == "OSR"
       or tag[0] == "Footprints"
       or tag[0] == "Ker Nethalas"
-      or tag[0] == "Cthulhu: Death May Die"
+      or tag[0] == "Oneironaut"
       or tag[0] == "Ironsworn Worlds: Sundered Isles"
       or tag[0] == "Mythic"
-      or tag[0] == "Resistid"
+      or tag[0] == "Old-School Essentials"
       or tag[0] == "Salerno 43"
       or tag[0] == "Scarlet Heroes"
       or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "Undaunted: Reinforcements"
       or tag[0] == "9 Card Game Print & Play Design Contest"
-      or tag[0] == "Across a Thousand Dead Worlds"
       or tag[0] == "Aeon's End: Legacy"
       or tag[0] == "Aleph Null"
       or tag[0] == "ALIEN RPG"
       or tag[0] == "Colonos del Imperio: Imperios del Norte"
+      or tag[0] == "Cthulhu: Death May Die"
       or tag[0] == "D-Day at Omaha Beach"
       or tag[0] == "D-Day Dice"
       or tag[0] == "Dorfromantik"
       or tag[0] == "Earthborne Rangers"
       or tag[0] == "El muro de Adriano"
       or tag[0] == "Eldritch Horror"
-      or tag[0] == "Five Leagues From The Borderlands"
+      or tag[0] == "Fields of Fire"
+      or tag[0] == "Four Against Darkness"
       or tag[0] == "Gloomhaven: Fauces del León"
       or tag[0] == "High Frontier 4 All"
       or tag[0] == "Imperium: Legends"
       or tag[0] == "Iron Helm"
-      or tag[0] == "Kickstarter"
       or tag[0] == "NAC Wargames"
-      or tag[0] == "Oath: Chronicles of Empire and Exile"
-      or tag[0] == "Oneironaut"
       or tag[0] == "Pico Pluma & Hueso"
+      or tag[0] == "Resistid"
       or tag[0] == "Rogueland"
       or tag[0] == "Roll Player"
       or tag[0] == "Shadowrun Crossfire"
+      or tag[0] == "Spirit Island: Jagged Earth"
       or tag[0] == "Stilicho: Last of the Romans"
       or tag[0] == "Street Masters"
       or tag[0] == "The Colonists"
@@ -105,6 +103,7 @@
       or tag[0] == "Tin Helm"
       or tag[0] == "Trickerion: Legends of Illusion"
       or tag[0] == "Undaunted: Normandy"
+      or tag[0] == "Undaunted: Reinforcements"
       or tag[0] == "Undaunted"
       or tag[0] == "Whitehack" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
@@ -125,6 +124,13 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2020/05/16/rol-en-solitario-como-empiezo/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2024/03/03/partidas-mes-febrero-24/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -152,6 +158,13 @@
       {% endfor %}
     </div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2019/01/26/analisis-micro-city/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/03/27/general-top-100-bgg-solitario-p4/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -166,21 +179,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/01/26/analisis-micro-city/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/03/01/analisis-farmers-finances/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2023/02/24/noticias-csr-awards-2021/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
