@@ -63,7 +63,10 @@ falta terraformar un planeta terriblemente frío, seco y casi sin atmósfera."
              <li>El juego está inspirado en la <a
              href="https://es.wikipedia.org/wiki/Trilog%C3%ADa_marciana">trilogía 
              marciana</a> de libros de Kim Stanley Robinson.</li>
-             <li>Está hecho dentro de la Unión Europea (Alemania), así que genial.</li>
+             <li>Si quieres mejorar los tableros de jugador te recomiendo los
+             <a href="https://amzn.to/498FzaS">tableros oficiales de doble capa</a>.</li>
+             <li>Está hecho dentro de la Unión Europea (Alemania), así que
+    genial.</li>
          </ul>
          </div>
     </div>
