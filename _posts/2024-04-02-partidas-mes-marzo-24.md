@@ -42,7 +42,7 @@ facturar otra maleta por ahorrar tiempo de viaje, ya que la vuelta tenía dos
 conexiones y en total fueron más de 22 horas de viaje. Quisieron facturarme la
 maleta de mano en la conexión de San Diego a San Francisco por tener poco
 espacio en cabina pero mis habilidades de Tetris salieron a relucir y evité que
-me facturaran la maleta, que fijo que se hubiera perdido de otra forma.
+me facturaran la maleta, que fijo que se hubiera perdido de la otra forma.
 
 El otro juego que estrené durante marzo fue **Fertility**, que si estáis
 enterados no tiene un modo en solitario, pero aún así lo compré de segunda mano
@@ -96,7 +96,7 @@ Es un duelo muy delicado, y tengo que encontrar otra vez el ritmo.
 ### Dungeons of Doria
 
 <p align="center">
-<img height="450"
+<img height=""
 src="https://cf.geekdo-images.com/f5An4vmRJAeTzcwUI4vV8Q__imagepagezoom/img/DK2HFR2H8qIzvoCMqn-6iaVRRTY=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic7382488.jpg"></p>
 
 **[Dungeons of
@@ -235,7 +235,7 @@ puntuación más alta. En cada ronda eliges una estación inicial de salida, y e
 cada turno de dicha ronda se desvela una carta de estación con un icono, lo que
 tienes que hacer es continuar uno de los extremos de la línea del metro de
 forma que conecte con una estación que tenga el icono que se ha
-robado. Y Dependiendo de cómo pintes estas líneas de metro ganaras puntos.
+robado. Y dependiendo de cómo pintes estas líneas de metro ganaras puntos.
 
 Así contado rápido parece sencillo, pero hay bastantes restricciones en cuanto
 a cómo se pueden construir las líneas de metro, y gracias a que hay algunas
@@ -251,7 +251,7 @@ seguridad que haya jugado bien, sin cometer errores de reglas.
 ### [Nucleum](https://amzn.to/4cA133j)
 
 <p align="center">
-<img height="450"
+<img height=""
 src="https://cf.geekdo-images.com/fIVUaMvbfy6GCOgfxt7xaw__imagepage/img/pGB5F9H0ZHo_i027V2XSdx1r8og=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7647168.jpg"></p> 
 
 El último euro en la mesa durante marzo fue

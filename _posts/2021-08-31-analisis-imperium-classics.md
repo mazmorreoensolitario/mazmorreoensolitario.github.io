@@ -31,7 +31,7 @@ otra civilización"
         <table class="table table-striped table-hover">
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2021</td></tr>
             <tr><td class="text-left"><strong>Precio:</strong></td><td
-                class="text-left"><a href="https://amzn.to/3vnuyyE">35€</a>/<a href="https://amzn.to/3nuIggu">35€</a></td></tr> 
+                class="text-left"><a href="https://amzn.to/3xcZYxZ">35€</a>/<a href="https://amzn.to/43Id7v7">35€</a></td></tr> 
             <tr><td class="text-left"><strong>Número de jugadores:</strong></td><td class="text-left">1-4</td></tr>
         <tr><td class="text-left">En solitario juegas contra bots</td><td class="text-left"></td></tr>
             <tr><td class="text-left"><strong>Tiempo de juego:</strong></td><td class="text-left">60-90 mins</td></tr>
