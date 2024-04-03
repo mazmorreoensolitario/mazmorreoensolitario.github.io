@@ -235,7 +235,7 @@ puntuación más alta. En cada ronda eliges una estación inicial de salida, y e
 cada turno de dicha ronda se desvela una carta de estación con un icono, lo que
 tienes que hacer es continuar uno de los extremos de la línea del metro de
 forma que conecte con una estación que tenga el icono que se ha
-robado. Y dependiendo de cómo pintes estas líneas de metro ganaras puntos.
+robado. Y dependiendo de cómo pintes estas líneas de metro ganarás puntos.
 
 Así contado rápido parece sencillo, pero hay bastantes restricciones en cuanto
 a cómo se pueden construir las líneas de metro, y gracias a que hay algunas
