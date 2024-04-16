@@ -4,12 +4,12 @@ title: "Boletín Informativo Solitario: abril 2022"
 date: 2022-05-08
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario", GMT Games, Tiletum, Mini Rogue, Woodcraft, White Dog Games, Imperial Steam, Terraforming Mars, Agricola, Viticulture]
-imghtml: https://live.staticflickr.com/65535/52060166429_51635d5243_o.png
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "Boletín Informativo Solitario de abril que trae un resumen de las
 noticias más destacadas de juegos en solitario que no te puedes perder"
 ---
 
-![](https://live.staticflickr.com/65535/52060166429_51635d5243_o.png)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
 <hr>
 

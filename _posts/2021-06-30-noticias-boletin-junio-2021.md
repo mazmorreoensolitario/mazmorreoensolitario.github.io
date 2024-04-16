@@ -4,12 +4,12 @@ title: "Boletín Informativo Solitario: junio 2021"
 date: 2021-06-30
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario", Black Orchestra, Orquesta Negra, Las Ruinas Perdidas de Arnak, "Across the Bug River: Volodymyr-Volynskyi 1941", VUCA Simulations, "Legends Untold: Illumination of Deepsorrow", Legends Untold, Essen Spiel 2021, Shinkansen, Orquesta Negra, NAC Wargames, GMT Games, Compass Games, "Caesar!", "Lost Ruins of Arnak: Expedition Leaders", "Lost Ruins of Arnak", "Dune: House of Secrets", Mythic, Free Ride, "Gloomhaven: Fauces del León", "Gloomhaven: Jaws of the Lion", Ironsworn, Rangers of Shadow Deep, Exploradores de las Profundidades Sombrías, Charles S. Roberts Awards, Lands of Galzyr, Lost in the Deep, Mazescape, Earthborne Rangers, PARKS, It's a Wonderful Kingdom, Messina 1347, Arkham Horror]
-imghtml: https://live.staticflickr.com/65535/51234041179_cd5a10d55f_b.jpg
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "Boletín Informativo Solitario de junio, con todas las novedades,
 lanzamientos, crowdfunding y mucho más"
 ---
 
-![](https://live.staticflickr.com/65535/51234041179_cd5a10d55f_b.jpg)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
  Bienvenid@s al sexto **Boletín Informativo Solitario (BIS)** del año,
  que trae puntualmente cada final de mes las noticias más destacadas de los

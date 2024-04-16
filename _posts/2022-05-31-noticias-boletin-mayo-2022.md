@@ -4,12 +4,12 @@ title: "Boletín Informativo Solitario: mayo 2022"
 date: 2022-05-31
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario", "Ironsworn: Starforged", Mythic, Spiel des Jahres, GMT Games, "Old-School Essentials", Dolmenwood, Oniverso, Hollandspiele, GATE, "Pico Pluma & Hueso", "Beak Feather & Bone"]
-imghtml: https://live.staticflickr.com/65535/52109624962_b720f8281d_b.jpg
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "Boletín Informativo Solitario de mayo, con un resumen de todas las novedades, próximos lanzamientos,
 crowdfunding y mucho más"
 ---
 
-![](https://live.staticflickr.com/65535/52109624962_b720f8281d_b.jpg)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
 <hr>
 

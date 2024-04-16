@@ -4,12 +4,12 @@ title: "Boletín Informativo Solitario: julio 2021"
 date: 2021-08-05
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario", UKGE Awards, Mythic, GMT Games, Compass Games, Tiny Battle Publishing, "G.I. JOE Deck-Building Game", Cosmonaves, SpaceShipped, Tussie Mussie, Paleo, Across a Thousand Dead Worlds, "Disciples of Bone and Shadow: Conquered Sun Edition", Seekers Beyond The Shroud, "The Lord of the Rings: Journeys in Middle-Earth", "El Señor de los Anillos: Viajes por la Tierra Media", "Dune: Imperium - Rise of Ix","Dune: Imperium", Rolling Realms, Res Arcana, Cascadia, Mini Rogue, Apothecaria]
-imghtml: https://live.staticflickr.com/65535/51309291210_15cfe2f405_b.jpg
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "Boletín Informativo Solitario de julio, con todas las novedades,
 lanzamientos, crowdfunding y mucho más"
 ---
 
-![](https://live.staticflickr.com/65535/51309291210_15cfe2f405_b.jpg)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
  Bienvenid@s al séptimo **Boletín Informativo Solitario (BIS)** del año,
  y **¡¡primer aniversario de este boletín!!**, que lleva ya un año trayéndo

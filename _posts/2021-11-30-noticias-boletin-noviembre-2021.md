@@ -4,12 +4,12 @@ title: "Boletín Informativo Solitario: noviembre 2021"
 date: 2021-11-30
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario", Tiletum, Flamecraft, Solar Storm, Legion Wargames, Compass Games, GMT Games, Mythic, Mapeando las catacumbas, Mapping the Catacombs,  Familiar Tales, Paper Tales, Reinos de Papel, Hegemony, Exploradores de las Profundidades Sombrías, Rangers of Shadow Deep,  RISE, "Caesar: Rome vs. Gaul", "Stardew Valley: The Board Game", Bismarck Solitaire, Battlespace, Wormholes, Count of Nine, Count of the Nine Estates, Iron Helm, Terracotta Army]
-imghtml: https://live.staticflickr.com/65535/51714791306_252945e1be_b.jpg
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "Boletín Informativo Solitario de noviembre, con un resumen de todas
 las novedades, próximos lanzamientos, crowdfunding y mucho más"
 ---
 
-![](https://live.staticflickr.com/65535/51714791306_252945e1be_b.jpg)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
 <hr>
 

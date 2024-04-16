@@ -4,12 +4,12 @@ title: "Boletín Informativo Solitario: resumen julio 2023"
 date: 2023-07-31
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario"]
-imghtml: https://live.staticflickr.com/65535/53084354235_200c4c6f2c_o.jpg
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "¿No te has enterado de lo que ha pasado en el mundillo durante julio? No te
 preocupes, el BIS es tu resumen."
 ---
 
-![](https://live.staticflickr.com/65535/53084354235_200c4c6f2c_o.jpg)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
 <hr>
 

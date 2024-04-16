@@ -4,12 +4,12 @@ title: "Boletín Informativo Solitario: agosto 2022"
 date: 2022-09-06
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario", Red Sun Blue Cross, Mythic, GMT Games, Findorff, "Legion Wargames", "Nuts! Publishing", "Imperium: Classics", "Imperium: Legends", Ark Nova, "Ark Nova: Aquarius"]
-imghtml: https://live.staticflickr.com/65535/52338344608_206f80e439_o.jpg
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "Boletín Informativo Solitario de agosto, con un resumen de todas las
 novedades, próximos lanzamientos y mucho más"
 ---
 
-![](https://live.staticflickr.com/65535/52338344608_206f80e439_o.jpg)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
 <hr>
 

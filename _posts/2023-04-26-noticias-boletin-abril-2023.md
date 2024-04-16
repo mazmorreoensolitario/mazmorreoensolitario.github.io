@@ -4,12 +4,12 @@ title: "Boletín Informativo Solitario: abril 2023"
 date: 2023-04-26
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario"]
-imghtml: https://live.staticflickr.com/65535/52836814671_c6595e7b45_b.jpg
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "¿No te has enterado de lo que ha pasado en el mundillo durante abril? No te
 preocupes, el BIS es tu resumen."
 ---
 
-![](https://live.staticflickr.com/65535/52836814671_c6595e7b45_b.jpg)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
 <hr>
 

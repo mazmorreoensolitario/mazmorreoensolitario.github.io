@@ -4,12 +4,12 @@ title: "Boletín Informativo Solitario: octubre 2021"
 date: 2021-11-01
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario", Undaunted, SNAFU Design, Atlantic Chase, Mr. President, "The Last Hundred Yards: The Russian Front", The Last Hundred Yards, "Bear Trap: The Soviet-Afghan War", Disciples of Bone and Shadow, Seekers Beyond The Shroud, "El Señor de los Anillos: El Juego de Cartas", Ark Nova, "Arkwright: The Card Game", "Arkwright: El Juego de Cartas", The Red Cathedral, "Anunnaki: Dawn of the Gods", Old-School Essentials, Dolmenwood, Purple Haze, "Dungeons Dice & Danger", Santander 37, Boonlake, "Undaunted: North Africa", "Undaunted: Normandy", "Undaunted: Reinforcements", "Imperium: Legends", "Imperium: Classics", "The Manhattan Project: Energy Empire", Inventors of the South Tigris, Scholars of the South Tigris, Wayfarers of the South Tigris, Mothership, Concordia, Concordia Solitaria]
-imghtml: https://live.staticflickr.com/65535/51647222975_362fe695f7_b.jpg
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "Boletín Informativo Solitario de octubre, con un resumen de todas
 las novedades, próximos lanzamientos, crowdfunding y mucho más"
 ---
 
-![](https://live.staticflickr.com/65535/51647222975_362fe695f7_b.jpg)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
 <hr>
 

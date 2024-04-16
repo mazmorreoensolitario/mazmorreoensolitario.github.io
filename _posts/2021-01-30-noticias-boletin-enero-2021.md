@@ -4,13 +4,13 @@ title: "Boletín Informativo Solitario: enero 2021"
 date: 2021-01-30
 categories: [Noticias]
 tags: ["Spire's End", Russian Railroads, GMT Games, "Rome & Roll", Nuctemeron, "Marrow & Splinters", Seekers Beyond The Shroud, Disciples of Bone and Shadow, Maquis, Ultimate Railroads, Robinson Crusoe, "So You've Been Eaten", Orchard, Grove, Juicy Fruits, Root, "Root: Los Cachivaches", "Root: The Clockwork", "Spire's End", "Slay the Spire: The Board Game", Solar Storm, Terraforming Mars, "Terraforming Mars: Ares Expedition", "Boletín Informativo Solitario", Zine Quest, Zine Quest 3]
-imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210131-bis/boletin-informativo.png
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "Boletín Informativo Solitario de enero, nuevos juegos basados en
 Terraforming Mars, Slay the Spire, Solar Sphere, Ultimate Railroads, Root, y
 rol en solitario con Zine Quest 3"
 ---
 
-![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210131-bis/boletin-informativo.png)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
  Bienvenid@s al primer **Boletín Informativo Solitario (BIS)** del año,
  que trae puntualmente cada final de mes las **noticias más destacadas de los

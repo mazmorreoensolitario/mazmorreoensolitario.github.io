@@ -4,12 +4,12 @@ title: "Boletín Informativo Solitario: julio 2022"
 date: 2022-08-03
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario", Horizons of Spirit Island, "Nuts! Publishing", GMT Games, Fields of Fire, Zine Quest, "Dune: Imperium", Spirit Island, Reinos de Papel, Paper Tales]
-imghtml: https://live.staticflickr.com/65535/52257292020_37e0a1747b_b.jpg
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "Boletín Informativo Solitario de julio, con un resumen de todas las
 novedades, próximos lanzamientos y mucho más"
 ---
 
-![](https://live.staticflickr.com/65535/52257292020_37e0a1747b_b.jpg)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
 <hr>
 

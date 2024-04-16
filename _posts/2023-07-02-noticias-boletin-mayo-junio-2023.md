@@ -4,12 +4,12 @@ title: "Boletín Informativo Solitario: resumen mayo-junio 2023"
 date: 2023-07-02
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario"]
-imghtml: https://live.staticflickr.com/65535/53016678811_69abc2f0c6_b.jpg
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "¿No te has enterado de lo que ha pasado en el mundillo de mayo a junio? No te
 preocupes, el BIS es tu resumen."
 ---
 
-![](https://live.staticflickr.com/65535/53016678811_69abc2f0c6_b.jpg)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
 <hr>
 

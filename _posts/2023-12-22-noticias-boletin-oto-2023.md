@@ -4,12 +4,12 @@ title: "Boletín Informativo Solitario: otoño 2023"
 date: 2023-12-22
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario"]
-imghtml: https://live.staticflickr.com/65535/53414166745_82d58db41a_b.jpg
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "¿No te has enterado de lo que ha pasado en el mundillo durante la
 última estación? No te preocupes, el BIS es tu resumen."
 ---
 
-![](https://live.staticflickr.com/65535/53414166745_82d58db41a_b.jpg)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
 <hr>
 

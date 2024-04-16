@@ -4,12 +4,12 @@ title: "Boletín Informativo Solitario: febrero 2022"
 date: 2022-02-28
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario", GMT Games, Conquest of Paradise, Curious Cargo, Thorgal, "Colonos del Imperio: Imperios del Norte", "Imperial Settlers: Empires of the North", Hollandspiele, That Others May Live, Terraforming Mars, Maglev Metro, Mythic, Zine Month, VUCA Simulations, "Operation Theseus: Gazala 1942", "Resist!", "Resistid", "Libertalia: Winds of Galecrest", Oranienburger Kanal]
-imghtml: https://live.staticflickr.com/65535/51909113397_58d56a5733_b.jpg
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "Segundo Boletín Informativo Solitario de 2022, con un resumen de todas
 las novedades, próximos lanzamientos, crowdfunding y mucho más"
 ---
 
-![](https://live.staticflickr.com/65535/51909113397_58d56a5733_b.jpg)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
 <hr>
 

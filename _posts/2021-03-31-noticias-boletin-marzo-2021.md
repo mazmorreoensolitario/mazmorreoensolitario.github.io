@@ -4,12 +4,12 @@ title: "Boletín Informativo Solitario: marzo 2021"
 date: 2021-03-31
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario", SNAFU Design, GMT Games, "Caesar: Rome vs. Gaul", "Aeon's End", Great Western Trail, Santander 37, "Ambon: Burning Sun & Little Seagulls", Five Parsecs From Home, Villagers, GATE, "Commands & Colors: Samurai Battles", "It's a Wonderful Kingdom", Founders of Teotihuacan, Keyside, "Keydom's Dragons", Keyper, Keyper at Sea, Arkham Noir, Unsurmountable, Mythic]
-imghtml: https://live.staticflickr.com/65535/51058986021_ed62255b3d_o.png
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "Boletín Informativo Solitario de marzo, novedades, lanzamientos,
 kickstarters y mucho más"
 ---
 
-![](https://live.staticflickr.com/65535/51058986021_ed62255b3d_o.png)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
  Bienvenid@s al tercer **Boletín Informativo Solitario (BIS)** del año,
  que trae puntualmente cada final de mes las **noticias más destacadas de los

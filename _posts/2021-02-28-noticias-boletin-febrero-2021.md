@@ -4,13 +4,13 @@ title: "Boletín Informativo Solitario: febrero 2021"
 date: 2021-02-28
 categories: [Noticias]
 tags: [Unbroken, SNAFU Design, Fields of Fire, "Hannibal's Revenge", GMT Games, Robinson Crusoe, "So, You've Been Eaten", Village Builder, Seekers Beyond The Shroud, "Stardew Valley: The Board Game", On Mars, Mythic, Starforged, "Ironsworn: Starforged", Chai, Food Chain Island, "Ambon: Burning Sun & Little Seagulls", Village Green, "Boletín Informativo Solitario"]
-imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210228-bis/boletin-informativo.png
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "Boletín Informativo Solitario de fefrero, lanzamientos de Delirium
 Games, Salt & Pepper Games, Draco Ideas, Arrakis Games, Side Room Games, nuevos
 wargames, juegos de rol en solitario y mucho más"
 ---
 
-![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210228-bis/boletin-informativo.png)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
  Bienvenid@s al segundo **Boletín Informativo Solitario (BIS)** del año,
  que trae puntualmente cada final de mes las **noticias más destacadas de los
