@@ -4,12 +4,12 @@ title: "Boletín Informativo Solitario: septiembre 2020"
 date: 2020-09-30
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario", White Dog Games, Iron Helm, Ex Novo, Ex Umbra, Dark Venture, GMT Games, Ironsworn, Mapping the Catacombs, Under Ashen Skies, Seekers Beyond The Shroud, Spirit Island, "Spirit Island: Branch & Claw", "Spirit Island: Jagged Earth", Revolution Games]
-imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200930-bis/boletin-informativo.png
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "Boletín Informativo Solitario de septiembre, donde tendréis un
 resumen de las noticias del mundillo y lo que ha acontecido durante este mes"
 ---
 
-![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200930-bis/boletin-informativo.png)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
  Bienvenid@s a la tercera entrega del **Boletín Informativo Solitario (BIS)**
  que trae puntualmente cada final de mes las noticias más destacadas de los

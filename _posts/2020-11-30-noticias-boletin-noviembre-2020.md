@@ -4,12 +4,12 @@ title: "Boletín Informativo Solitario: noviembre 2020"
 date: 2020-11-30
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario", "Space Empires 4X", RISE, DELVE, UMBRA, WASTE, GMT Games, "Mörk Borg", "T-DEF", "Circadians: Primera Luz", "Hadrian's Wall", Fábulas de Peluche, Legends Untold, "Legends Untold: Illumination of Deepsorrow", Iron Helm, Ironsworn, Mythic, Descent Into The Abyss, Maquis, "Star Scrappers: Orbital", Disciples of Bone and Shadow, "Disciples of Bone and Shadow: Conquered Sun Edition"]
-imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20201130-bis/boletin-informativo.png
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "Boletín Informativo Solitario de noviembre, donde tendréis un
 resumen de las noticias del mundillo y lo que ha acontecido durante este mes"
 ---
 
-![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20201130-bis/boletin-informativo.png)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
  Bienvenid@s a la quinta entrega del **Boletín Informativo Solitario (BIS)**
  que trae puntualmente cada final de mes las noticias más destacadas de los

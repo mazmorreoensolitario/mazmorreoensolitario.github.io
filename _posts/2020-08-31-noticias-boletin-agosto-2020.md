@@ -4,13 +4,13 @@ title: "Boletín Informativo Solitario: agosto 2020"
 date: 2020-08-31
 categories: [Noticias]
 tags: ["Boletín Informativo Solitario", "Tabannusi: Builders of Ur", The 7th Citadel, Undaunted, GMT Games, Set A Watch, Crazy Taco, Teotihuacán, Agropolis, Expansiópolis, Sprawlopolis, GenCon, Disciples of Bone and Shadow, "Darkest Dungeon: The Board Game", "Bios: Megafauna", "Bios: Mesofauna", "Marvel Champions: The Card Game", "Undaunted: North Africa", Cuentos de ánimas, English Eerie, The Wretched, A Thousand Year Old Vampire, "Ironsworn: Delve"]
-imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200831-bis/boletin-informativo.png
+imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "Boletín Informativo Solitario de agosto, donde tendréis un
 resumen de las noticias del mundillo de los juegos de mesa y rol en solitairo
 además de un resumen de lo que nos espera en septiembre y octubre"
 ---
 
-![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20200831-bis/boletin-informativo.png)
+![](https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg)
 
 <small><strong>Actualizado 1/09:</strong> se añade información sobre The 7th Citadel.</small>
 
