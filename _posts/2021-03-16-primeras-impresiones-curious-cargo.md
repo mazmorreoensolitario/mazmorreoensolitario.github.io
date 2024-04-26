@@ -30,7 +30,7 @@ haciendo conexiones con losetas de tuberías"
             <tr><td class="text-left"><strong>Fecha de salida:</strong></td><td class="text-left">2020</td></tr>
             <tr><td class="text-left"><strong>Precio:</strong></td><td
         class="text-left"><a
-    href="https://amzn.to/3aLUZ9m">~34.95€</a></td></tr>
+    href="https://amzn.to/49HwTIH">~34.95€</a></td></tr>
             <tr><td class="text-left"><strong>Número de
     jugadores:</strong></td><td class="text-left">1-2*</td></tr>
            <tr><td>Modo en solitario con bot</td><td></td></tr>
