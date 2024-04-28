@@ -115,7 +115,7 @@ Aquí los tenéis:
         class="img-thumbnail" alt="Factory Funner">
     </div>
     <div class="col-md-9">
-         <h4>2. <a href="https://www.philibertnet.com/en/boardgametables/107284-factory-funner-618149322640.html#ae447">Factory Funner</a></h4>
+         <h4>2. <a href="https://amzn.to/3R8Gf9a">Factory Funner</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/183284">Factory
     Funner</a></strong>, de Corné van Moorsel y publicado por
