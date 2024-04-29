@@ -109,9 +109,9 @@ rápida, ya que el manual solamente tiene 4 páginas (y la mayoría son ejemplos
 El juego empieza en el estado que veis en la foto de arriba, hemos robado 8
 losetas de máquina al azar y formamos una pila con ellas boca abajo (losetas
 hexagonales con el logo del juego). En nuestro registro de dinero empezamos con
-10$. Tenemos cuatro depósitos de salida de cuatro colores: verde, azul,
+10$. Tenemos cuatro depósitos de entrada de cuatro colores: verde, azul,
 amarillo y rosa, tres depósitos de salida blancos, y un número ilimitado de
-depósitos de salida negros, en la foto he puesto un par de ellos.
+depósitos de salida negros; en la foto salen un par de ellos.
 Además tenemos todos los conectores (las tuberías blancas) a mano para no
 liarnos. 
 
@@ -177,7 +177,7 @@ amarillo. Además nos daría 8$ de ingresos.
 
 Recordamos que las máquinas que hemos colocado en rondas anteriores no se
 pueden mover, por lo que tenemos que hacer cuadrar esta segunda máquina y
-suplir todas las entradas a la vez que recoger la salida.
+suplir todas las entradas a la vez que recogemos la salida.
 
 Lo que sí podemos hacer es quitar todas las cosas que no sean máquinas
 (conectores y depósitos) para organizarlos otra vez como queramos, pero, volver
@@ -337,11 +337,12 @@ Aún así, en muchos casos aunque planifiques no se puede hacer nada porque las
 combinaciones de máquinas que te tocan casualmente necesitan el depósito que
 tienes puesto en la otra punta de la fábrica, y no se puede quitar y poner en
 otro sito para descongestionar. Pasan tres rondas y tu fábrica ya tiene más
-conexiones y lío que la M-30. **Factory Funner** tiene ese toque de azar, en el
-que si te han tocado las ocho máquinas que mejor se pueden interconectar, tu
-fábrica tendrá algo de orden sin demasiado esfuerzo, pero generalmente a lo que
-mejor puedes aspirar es a que tu fábrica no tenga demasiado lío de tuberías
-para que puedas maniobrar para que —*por favor*— entre una máquina más. 
+conexiones y lío que la M-30. Pero eso es lo que lo hace tan
+divertido. **Factory Funner** tiene ese toque de azar, en el que si te han
+tocado las ocho máquinas que mejor se pueden interconectar, tu fábrica tendrá
+algo de orden sin demasiado esfuerzo, pero generalmente a lo que mejor puedes
+aspirar es a que tu fábrica no tenga demasiado lío de tuberías para que puedas
+maniobrar para que —*por favor*— entre una máquina más.
 
 A medida que vas acumulando partidas a tus espaldas vas aprendiendo ciertos
 trucos para tratar de optimizar el espacio al máximo, por lo que la experiencia
@@ -382,7 +383,7 @@ mecánicas de construcción de rutas, pensamiento espacial, fácil de entender y
 con complejidad escalable, es tu juego.
 
 **En resumidas cuentas,** es el puzle espacial de tuberías que tu cabeza
-comprende, pero que luego no lo sabe procesar y del que el análisis-parálisis
+comprende, pero que luego no sabe procesar, y del que el análisis-parálisis
 se ríe a tus espaldas.
 
 <img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
