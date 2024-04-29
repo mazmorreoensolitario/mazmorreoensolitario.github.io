@@ -394,6 +394,6 @@ se ríe a tus espaldas.
 **Notas**
 
 [^1]: Las 377.348.994 combinaciones diferentes son el resultado de aplicar la
-    fórmula de las [Cominaciones sin
+    fórmula de las [Combinaciones sin
     repetición](https://es.wikipedia.org/wiki/Combinatoria) con *n: 48* y *r:
     8*.
