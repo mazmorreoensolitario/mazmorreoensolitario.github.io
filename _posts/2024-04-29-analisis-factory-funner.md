@@ -75,7 +75,7 @@ el que tienes que organizar las máquinas de tu fábrica"
 <p align="center"><img src="https://live.staticflickr.com/65535/53671772473_1fc6952105_b.jpg"></p>
 <p align="center"><small>La planta de la fábrica de Factory Funner a rebosar</small></p>
 
-**[La Factory
+**[Factory
 Funner](https://boardgamegeek.com/boardgame/183284/factory-funner)** es un
 puzle espacial con mecánicas de construcción de rutas en el que tienes que
 conseguir organizar hasta ocho máquinas de producción en la planta de tu
@@ -181,7 +181,7 @@ suplir todas las entradas a la vez que recogemos la salida.
 
 Lo que sí podemos hacer es quitar todas las cosas que no sean máquinas
 (conectores y depósitos) para organizarlos otra vez como queramos, pero, volver
-a colocarlos cuesta 1$ por elemento.
+a colocarlas cuesta 1$ por elemento.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/53685716045_cfbb4ac98e_b.jpg"></p>
 <p align="center"><small>Depósito de salida de la segunda ronda</small></p>
@@ -261,7 +261,7 @@ máquinas y he tenido que pasar en 2 rondas porque no podía o quería colocar l
 máquinas de esas rondas —si al colocar una máquina veis que os generaría gastos
 en vez de ingresos podéis decidir pasar esa ronda.
 
-Se suman los puntos obtenidos por las losetas transparentes de encadenar
+Se suman los puntos obtenidos por las fichas transparentes de encadenar
 máquinas, y si el resultado final llega a 50$ habremos ganado. En este ejemplo
 he perdido con 47$.
 
