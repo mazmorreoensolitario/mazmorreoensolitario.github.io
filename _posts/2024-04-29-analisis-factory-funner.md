@@ -380,7 +380,7 @@ iguales.
 
 **¿Cómo sé si me puede gustar a mí este juego?** Si buscas un juego con
 mecánicas de construcción de rutas, pensamiento espacial, fácil de entender y
-con complejidad escalable, es tu juego.
+con dificultad escalable, es tu juego.
 
 **En resumidas cuentas,** es el puzle espacial de tuberías que tu cabeza
 comprende, pero que luego no sabe procesar, y del que el análisis-parálisis
