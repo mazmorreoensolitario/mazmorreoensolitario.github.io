@@ -93,7 +93,8 @@ juego sin estrenar de lo bien que cierra.
 <p align="center"><small></small></p>
 
 Tras pasarnos el modo difícil (organizar Next War: Korea), ya todo parece
-fácil, y más porque en la propia web de **Cube4Me** tienen packs ya diseñados
+fácil, y más porque en la propia web de **Cube4Me** tienen [packs ya
+preparados](https://cube4me.com/product-category/wargames-sets/?ref=mazmorreoensolitario) 
 para que veas cómo puedes organizar un wargame en concreto. En estos packs te
 dicen qué bandejas tienes que comprar para que te quede todo organizado según
 unos ejemplos que ponen. Los packs no cuestan más dinero que comprar las
@@ -174,7 +175,8 @@ se nota que son de peor calidad ya que la tapa no encaja con la base, los
 tamaños son diferentes. Para empeorar las cosas, os aviso de que NO ENTRAN por
 ancho en las cajas de **GMT Games**, por lo que si por desesperación las tenéis
 que usar (como ha sido mi caso en muchos wargames) vais a tener que recortarlas
-por un lateral (es una chapuza).
+por un lateral (es una chapuza) y luego quemar el plástico con un mechero o
+algo para no cortarnos.
 
 Si tenéis wargames con cajas muy grandes, por ejemplo cajas de tamaño **World
 At War 85: Storming the Gap**, entonces las bandejas de **MasQueOca** entran
@@ -228,15 +230,16 @@ razonable.
 
 Animaría sin embargo a que la gente maja de **Cube4Me** se ponga a hacer packs
 ahorro de 20 bandejas o así, aunque como tienen tanta variedad de bandejas en
-su web, lo que gusta es elegir tú cómo quieres las bandejas en base a cómo te
-gustan organizar las cosas.
+su web, lo que gusta es elegir tú cómo quieres las bandejas en base a cómo
+quieres organizar las cosas para ese juego en concreto.
 
 **Calidad.** En esto no tiene comparación con ninguna otra marca de bandejas
 que posea o que haya visto que alguien tiene. Es como comparar la calidad de
 los componentes de **VUCA Simulations** con cualquier otra editorial,
 **Cube4Me** está marcando un nuevo nivel de cómo hay que hacer las cosas. 
 
-En un acto de locura momentánea, tras organizar las fichas del NW:K hice la
+En un acto de locura momentánea (porque no se me ocurrió usar una bandeja
+*vacía* en vez de llena), tras organizar las fichas del NW:K hice la
 prueba del zarandeo cogiendo la bandeja únicamente desde una de las solapas de
 una esquina, y no hubo desastre. Las bandejas cierran perfectamente y se oye un
 *\*click\** audible cuando se cierra la bandeja. Además, para abrir la bandeja
