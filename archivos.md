@@ -147,7 +147,8 @@ categorías.
             tag[0] == "BackerKit" or
             tag[0] == "Traducciones" or
             tag[0] == "Boletín Informativo Solitario" or
-              tag[0] == "El mes en juegos" %}
+            tag[0] == "El mes en juegos" or
+            tag[0] == "Accesorios" %}
                 <span class="label label-warning"><strong>#<a class="tag-color"
                 href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
             {% else %}
