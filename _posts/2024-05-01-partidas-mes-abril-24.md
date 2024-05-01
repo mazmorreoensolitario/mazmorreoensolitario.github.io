@@ -26,6 +26,7 @@ src="https://live.staticflickr.com/65535/53691669590_7a87edaca2_b.jpg">
 <small>Caos en la ciudad</small>
 </p>
 
+
 Abril ha sido un mes de muchas locuras, la primera ha sido la del tiempo, ya
 que llegamos a los 30º a principios del mes. Luego bajó bastante y hubo hasta
 6º a las mañanas. La segunda locura más destacada del mes fue cómo estuvo
