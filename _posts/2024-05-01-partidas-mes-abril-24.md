@@ -29,8 +29,8 @@ src="https://live.staticflickr.com/65535/53691669590_7a87edaca2_b.jpg">
 Abril ha sido un mes de muchas locuras, la primera ha sido la del tiempo, ya
 que llegamos a los 30º a principios del mes. Luego bajó bastante y hubo hasta
 6º a las mañanas. La segunda locura más destacada del mes fue cómo estuvo
-Bilbao el día que llego la gabarra por la televisión, yo no he visto jamás a
-tanta gente por la ciudad.
+Bilbao el día que llego la gabarra, yo no he visto jamás a tanta gente por la
+ciudad.
 
 Volviendo a los juegos de mesa, en el mes de abril hubo dos estrenos, primero
 el la expansión **Cascadia Hitos** de la que os hablo seguidamente abajo, y la
@@ -81,9 +81,9 @@ siempre.
 
 La expansión **Hitos** es algo cara, yo he pagado ~29€ frente a los ~34€ que me
 costó el juego base, así que comprendo perfectamente que sea una expansión no
-demasiado golosa desde el punto de vista económico. En mi caso a mí me encantó
+demasiado golosa desde el punto de vista económico. En mi caso, a mí me encantó
 absolutamente la campaña en solitario del juego base, y ya que la expansión
-**Hitos** venía con otra campaña y más contenido, para mí sí que mere el
+**Hitos** venía con otra campaña y más contenido, para mí sí que merecía el
 precio. Cuando hice el
 [análisis]({{site.baseurl}}/2023/09/03/analisis-cascadia/) de **Cascadia**
 tenía 87 partidas ya al juego base entre campaña y partidas sueltas, por lo que
@@ -91,15 +91,16 @@ para mí añadir más cosas a un juego que he jugado tanto sí merece la pena.
 
 Sobre la expansión **Hitos**, añade nuevas mecánicas al juego base, que son los
 Hitos *\*badum tsss\**. Los Hitos se componen de cartas de puntuación de hito
-que se ponen en juego en la partida, en solitario se ponen dos cartas de
-puntuación de hito por hábitat; también tenéis una ficha de hito por cada
-hábitat, que son las fichas esas nuevas de madera. La idea es que cuando
-colocáis la quinta o más loseta con una hábitat determinado en juego, podéis
-elegir una carta de puntuación de hito asociada a ese hábitat (solo una por
-partida), y esa carta de puntuación de hito os dará puntos extra al final de la
-partida en base a cómo se puntúe. Te dan algo bueno, pero la compensación es
-que tendréis que poner la ficha de hito en un hábitat de su tipo y eso lo
-bloquea, de forma que luego no se puede poner una ficha de fauna ahí.
+que se ponen en juego a la vez que las cartas de puntuación de fauna, en
+solitario se ponen dos cartas de puntuación de hito por hábitat; también tenéis
+una ficha de hito por cada hábitat, que son las fichas esas nuevas de
+madera. La idea es que cuando colocáis la quinta o más loseta con una hábitat
+determinado en juego, podéis elegir una carta de puntuación de hito asociada a
+ese hábitat (solo una por partida), y esa carta de puntuación de hito os dará
+puntos extra al final de la partida en base a cómo se puntúe. Te dan algo
+bueno, pero la compensación es que tendréis que poner la ficha de hito en un
+hábitat de su tipo y eso lo bloquea, de forma que luego no se puede poner una
+ficha de fauna ahí.
 
 
 <div align="center">
@@ -150,7 +151,7 @@ muy peliaguda. Se mantiene en el top otro mes mas.
 ### [Messina 1347](https://amzn.to/3Q8m1g0)
 
 <p align="center">
-<img height="350"
+<img height=""
 src="https://cf.geekdo-images.com/Pw9TGohEb7PITFJnuq48bQ__imagepage/img/s8iXTTL-SAMwyy8Ovw6Q8XzkonY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6397342.jpg"></p>
 
 El segundo estreno del mes ha sido este **[Messina
@@ -179,19 +180,21 @@ partida una puntuación de 130 en el modo normal y de 140 en el avanzado se
 considera como un buen resultado.
 
 En **Messina 1347** tienes que mover a tus trabajadores por la ciudad, formada
-por una serie de losetas hexagonales, ir hacia un hexágono adyacente sobre el
+por una serie de losetas hexagonales; ir hacia un hexágono adyacente sobre el
 que te encuentras es gratis, pero por cada hexágono extra por el que viajes
 hasta llegar a tu destino deberás pagar 1 de oro. Los hexágonos tienen una
 acción, que es la que ejecutas, y pueden estar contaminados por plaga o no, si
-hay plaga y el hexágono tienen ciudadanos, los moverás a la zona de cuarentena
-de tu tablero de jugador, donde se irán curando a lo lardo de dos rondas, si no
-hay plaga directamente se mueven a tu distrito, donde los podrás usar para
+hay plaga y el hexágono tiene ciudadanos, los moverás a la zona de cuarentena
+de tu tablero de jugador, donde se irán curando a lo lardo de dos rondas, y
+también te servirán para producir si has construido talleres; si no
+hay plaga, los ciudadanos se mueven a su distrito en base a su tipo (monjas,
+nobles y trabajadores creo que se llamaban), donde los podrás usar para
 tomar acciones extra.
 
 El modo en solitario de este **Messina 1347** me ha parecido muy directo en las
-5 partidas que le he echado al juego, pero también bastante complicado, mi
+5 partidas que le he echado al juego, pero también es complicado de ganar, mi
 puntuación máxima hasta la fecha han sido 95 puntos, todavía lejos de los 130
-que piden del modo estándar, aún no he jugado al avanzado. 
+que piden del modo estándar, aún no he jugado al avanzado.
 
 En general mi primera impresión es que es un euro medio muy majo, con partidas
 de una hora y mucha variabilidad de una partida a otra, me gusta especialmente
@@ -201,11 +204,11 @@ muevan al distrito y luego podamos tener combos de acciones extra.
 
 Lo que no me gusta del **Messina 1347** es que el bot toma las acciones en base
 a unas losetas que hay que barajar en cada ronda, cosa bastante incómoda porque
-las losetas son pequeñas. Bajo mi punto de vista deberían haber impreso esas
-losetas en unas cartas para que fuera más cómodo. Resulta que en BGG la propia
+las losetas son pequeñas. Bajo mi punto de vista deberían haber usado un mazo
+de cartas en vez de losetas para esto. Resulta que en BGG la propia
 editorial [ha subido](https://boardgamegeek.com/filepage/240738/solo-cards) un
-archivo para hacerse las cartas del bot en formato print & play. Así que lo
-haré en un futuro próximo.
+archivo para hacerse las cartas del bot en formato print & play, así que lo
+haré en un futuro próximo para sustituir las losetas.
 
 Si seguís encontrando por 22€ en [Jugamos
 Una](https://jugamosuna.es/tienda/16576/comprar-messina-1347-barato.html) este
@@ -248,13 +251,13 @@ al que de momento no he conseguido sacar nunca más de 64 puntos.
 **Shipyard** es un juego en el que tenemos que construir y botar barcos para
 ganar puntos, las mecánicas se basan en seleccionar acciones de una fila, en la
 que no podemos elegir la acción que usamos en la ronda anterior, y en la que
-tenemos dos bots (que no puntúan, sino que quitan espacios mueven los rondeles)
-que también están bloqueando dos acciones. La acción generalmente implica mover
-marcadores en unos rondeles, que te indican que puedes conseguir, por lo que
-tienes que cuadrar bien que la acción que quieres seleccionar esté disponible,
-y que te de lo que necesites. Puedes avanzar los marcadores de los rondeles,
-pero te cuesta 1 moneda cada paso, y las monedas es algo que quieres guardar
-porque si tienes seis puedes gastarlas para tomar un turno extra.
+tenemos dos bots (que no puntúan, sino que quitan espacios y mueven los
+rondeles) que también están bloqueando dos acciones. La acción generalmente
+implica mover marcadores en unos rondeles, que te indican que puedes conseguir,
+por lo que tienes que cuadrar bien que la acción que quieres seleccionar esté
+disponible, y que te de lo que necesites. Puedes avanzar los marcadores de los
+rondeles, pero te cuesta 1 moneda cada paso, y las monedas es algo que quieres
+guardar porque si tienes seis puedes gastarlas para tomar un turno extra.
 
 A mí la temática de este juego me gusta mucho, por lo que disfruto mucho con
 todas las acciones relacionadas con la construcción de barcos y que luego
@@ -310,7 +313,7 @@ Y finalmente llegamos a la sección del los **Premios Juego del Mes**, para que
 dos juegos se lleven el codiciado galardón:
 
 * **En juegos de mesa...** hay un empate entre **Cascadia: Hitos** y **Messina
-  1347** el primero porque me encanta tener otra campaña en solitario y el
+  1347**, el primero porque me encanta tener otra campaña en solitario y el
   segundo porque me ha sorprendido mucho.
 
 * **En juegos de rol...** nos lo saltamos este mes porque no he jugado a nada.
