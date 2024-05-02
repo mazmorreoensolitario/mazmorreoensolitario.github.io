@@ -14,7 +14,7 @@ sacado a la mesa"
 <hr>
 
 Bienvenid@s otro mes más a la entrada resumen de **[El mes en
-juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos)**, dónde os comento que he
+juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos)**, dónde os comento qué he
 hecho en el panorama lúdico del último mes, y al final de la entrada elijo a un
 juego de mesa y a un juego de rol para darles el **Premio juego del mes**.
 
@@ -138,7 +138,7 @@ Cargo](https://boardgamegeek.com/boardgame/312251/curious-cargo)** (primeras
 impresiones
 **[aquí]({{site.baseurl}}/2021/03/16/primeras-impresiones-curious-cargo/)**)
 era conseguir ganar al bot más veces de las que él me gana a mí, de momento la
-balanza de se inclina a su favor, peor este mes he conseguido empatarle en una
+balanza de se inclina a su favor, pero este mes he conseguido empatarle en una
 partida, y ha sido muy satisfactorio.
 
 **Curious Cargo** es uno de mis favoritos, y en solitario es un duelo / carrera
@@ -295,7 +295,9 @@ Mucho he hablado ya de **Terraforming Mars**, otro favorito.
 <p align="center">
 <img height=""
 src="https://i.kickstarter.com/assets/042/993/484/ebb44ce0d4edc9791a967542a114c495_original.png?fit=scale-down&origin=ugc&width=680&sig=%2FpQODRVMU1mju5xoA0uSx%2BknZMJa8gvCTnLlnW6xDV8%3D">
-<small>Una de las ilustraciones de Ave Nox</small>
+</p>
+<p align="center">
+<small align="left">Una de las ilustraciones de Ave Nox</small>
 </p>
 
 Durante abril no he jugado a ningún juego de rol, lo más destacado en ese
