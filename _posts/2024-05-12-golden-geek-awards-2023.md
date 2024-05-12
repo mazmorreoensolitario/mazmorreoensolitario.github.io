@@ -776,13 +776,12 @@ excluidos por no tener un modo en solitario.
 de Martin Wallace, y publicado por <strong>Wallace Designs</strong>, es un
     wargame de temática de fantasía en el que tendrás que hacer incursiones
     contra las aldeas de tus rivales para conseguir puntos de victoria.</p>
-         <p><strong>Comentario.</strong> </p>
     </div>
 </div>
 
 
 <div class="row">
-    <div class="col-md-3">0
+    <div class="col-md-3">
         <img width="500" height="500"
             src="https://cf.geekdo-images.com/muJ3YmLTsyStKn60D9mcdw__original/img/2Kew2JZiGjIuwd87-5Xq8ylMCFQ=/0x0/filters:format(jpeg)/pic6158972.jpg"
         class="img-thumbnail" alt="Halls of Hegra">
