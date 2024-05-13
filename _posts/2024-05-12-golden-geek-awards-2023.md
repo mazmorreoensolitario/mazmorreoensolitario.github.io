@@ -3,7 +3,7 @@ layout: post
 title: "Juegos en solitario: Premios Golden Geek de 2023"
 date: 2024-05-12
 categories: [Noticias]
-tags: ["Darwin's Journey", Evacuation, Great Western Trail, Age of Innovation, Nucleum, Oranienburger Kanal, Scholars of the South Tigris, Great Western Trail, "Dune: Imperium", "Darwin's Journey", Expeditions, Earth, Apiary, Age of Innovation, The White Castle, Trailblazers, World Wonders, Golden Geek]
+tags: ["Darwin's Journey", Evacuation, Nucleum, Oranienburger Kanal, Scholars of the South Tigris, Great Western Trail, "Dune: Imperium", Expeditions, Earth, Apiary, Age of Innovation, The White Castle, Trailblazers, World Wonders, Golden Geek]
 general: ""
 imghtml: https://cf.geekdo-images.com/Ul9Esa3sOZa561STf5pAgFQVtkc=/825x450/filters:strip_icc()/https%3A%2F%2Fcf.geekdo-static.com%2Fcms%2F2024%2F04%2F08175413%2FGolden-Geek-2023-%25E2%2580%2593-Homepage-Hero.jpg
 post_desc: "Damos un repaso a los juegos que pueden jugarse en solitario entre
