@@ -649,7 +649,7 @@ de Petter Schanke Olsen, y publicado por <strong>Tompet Games</strong>
          juego, ya que recibí una copia de la editorial. Las mecánicas me han
          gustado, aunque no perdona y hay que ir a fuego desde el primer
          momento, aunque a mí personalmente se me hizo un poco largo, yo le
-         quitaría varios rondas de juego.</p>
+         quitaría varias rondas de juego.</p>
     </div>
 </div>
 
@@ -1204,7 +1204,7 @@ de Steven Aramini, y publicado por <strong>Button Shy</strong>, es un juego de
         <h4>Battle Card: Series 1</h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/398947">Battle Card: Series 1</a></strong>
-    de Nils Johansson, David Thompson (I), y publicado por <strong>Postmark
+    de Nils Johansson, David Thompson, y publicado por <strong>Postmark
     Games</strong>, es una colección de wargames en solitario en la que se
     incluyen batallas icónicas de la Segunda Guerra Mundial.</p>
     </div>
@@ -1264,7 +1264,7 @@ de Steven Aramini, Danny Devine, Paul Kluka, y publicado por <strong>Button
     <p><small>Foto de la editorial</small></p>
          <p><strong>Comentario.</strong> Le dejé el Expansiópolis (análisis <a
     href="{{site.baseurl}}/2018/12/23/analisis-sprawlopolis/">aquí</a>) a un
-    amigo hace un par de años, y lo esto echando de menos para llevar algo
+    amigo hace un par de años, y lo estoy echando de menos para llevar algo
     súper compacto en los viajes, para eso creo que cualquier reimplementación de
     Expansiópolis es de lo mejor para esas situaciones. De comprarme otro, sin
     embargo, me decantaría antes por <strong>Agrópolis</strong> antes que por
