@@ -33,6 +33,9 @@ completos en su primera nominación.
 Cuando sepamos los ganadores de cada categoría actualizaré mi entrada y
 tendréis también mis comentarios al final.
 
+**Actualizado:** [aquí tenéis](#tras-los-resultados-opinión) mi opinión tras
+conocer los resultados de cada categoría.
+
 Eso es todo, ¡al lío!
 
 ### Juego de mesa de peso ligero del año
@@ -40,7 +43,6 @@ Eso es todo, ¡al lío!
 En esta categoría también han sido nominados: *Art Society*, *Knarr*,
 *Nimalia*, *Rebel Princess*, *That's Not a Hat* y *Thunder Road: Vendetta*, pero
 han sido excluidos por no poder jugarse en solitario.
-
 
 <div class="row">
     <div class="col-md-3">
@@ -121,6 +123,11 @@ de Rosaria Battiato, Massimo Borzì y Martino Chiacchiera, y publicado por
     </div>
 </div>
 
+El ganador de esta categoría ha sido [Thunder Road: Vendetta](https://boardgamegeek.com/boardgame/342070/thunder-road-vendetta), pero no puede
+jugarse en solitario. Los subcampeones de esta categoría han sido [Knarr](https://boardgamegeek.com/boardgame/379629/knarr) y
+[Faraway](https://boardgamegeek.com/boardgame/385761/faraway), pero no pueden jugarse en solitario.
+
+
 ### Mejor juego de mesa de peso medio del año
 
 En esta categoría también han sido nominados: *Forest Shuffle*, *Sky Team* y
@@ -162,7 +169,10 @@ poder jugarse en solitario.
         class="img-thumbnail" alt="The Castles of Burgundy: Special Edition">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://amzn.to/49OWaAR">The Castles of Burgundy: Special Edition</a></h4>
+        <h4><a href="https://amzn.to/49OWaAR">The Castles of Burgundy: Special
+    Edition</a></h4>
+    <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/363622">The Castles of Burgundy: Special Edition</a></strong>
 de Stefan Feld, y publicado por <strong>alea y Awaken Realms</strong> (también
@@ -218,6 +228,8 @@ de Stefan Feld, y publicado por <strong>alea y Awaken Realms</strong> (también
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3QkFzOj">Earth</a></h4>
+                <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego de mesa de peso medio del año!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/350184">Earth</a></strong>
 de Maxime Tardif, y publicado por <strong>Inside Up Games</strong>
@@ -264,6 +276,8 @@ de Maxime Tardif, y publicado por <strong>Inside Up Games</strong>
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/4bepXUK">The White Castle</a></h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/371942">The White Castle</a></strong>
     de Isra C., Shei S., y publicado por <strong>Devir</strong>, es es un juego
@@ -347,6 +361,8 @@ de Helge Ostertag, y publicado por <strong>Feuerland Spiele</strong>
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/4bbyesj">Darwin's Journey</a></h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/322289">Darwin's Journey</a></strong>
 de Simone Luciani, Nestore Mangone, y publicado por <strong>ThunderGryph
@@ -401,7 +417,10 @@ de Vladimír Suchý, y publicado por <strong>Delicious Games</strong>
         class="img-thumbnail" alt="Dune: Imperium – Uprising">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://amzn.to/3Qj81jp">Dune: Imperium – Uprising</a></h4>
+        <h4><a href="https://amzn.to/3Qj81jp">Dune: Imperium –
+    Uprising</a></h4>
+    <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/397598">Dune: Imperium – Uprising</a></strong>
 de Paul Dennen, y publicado por <strong>Dire Wolf</strong>, es un spin-off
@@ -444,7 +463,10 @@ de Paul Dennen, y publicado por <strong>Dire Wolf</strong>, es un spin-off
         class="img-thumbnail" alt="Hegemony: Lead Your Class to Victory">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://amzn.to/4dcz61P">Hegemony: Lead Your Class to Victory</a></h4>
+        <h4><a href="https://amzn.to/4dcz61P">Hegemony: Lead Your Class to
+    Victory</a></h4>
+    <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego de mesa de peso duro del año!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/321608">Hegemony: Lead Your Class to Victory</a></strong>
 de Vangelis Bagiartakis, Varnavas Timotheou, y publicado por <strong>Hegemonic
@@ -600,6 +622,8 @@ de Nigel Buckle, Dávid Turczi, y publicado por <strong>Mindclash Games</strong>
     </div>
     <div class="col-md-9">
         <h4>Earth</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><i>Este juego ha sido nominado primero en una sección anterior, la
          información se encuentra ahí.</i> </p>
     </div>
@@ -614,6 +638,8 @@ de Nigel Buckle, Dávid Turczi, y publicado por <strong>Mindclash Games</strong>
     </div>
     <div class="col-md-9">
         <h4>Earthborne Rangers</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/342900">Earthborne Rangers</a></strong>
     de Andrew Fischer, Brooks Flugaur-Leavitt, Andrew Navaro, Adam Sadler, Brady
@@ -681,6 +707,8 @@ de Josh J. Carlson, Adam Carlson, Logan Giannini, y publicado por <strong>Chip
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3UOqHdQ">Legacy of Yu</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego solitario del año!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/354934">Legacy of Yu</a></strong>
     de Shem Phillips, y publicado por <strong>Garphill Games</strong>, es un
@@ -788,6 +816,8 @@ de Martin Wallace, y publicado por <strong>Wallace Designs</strong>, es un
     </div>
     <div class="col-md-9">
         <h4>Halls of Hegra</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
         <p><i>Este juego ha sido nominado primero en una sección anterior, la
          información se encuentra ahí.</i> </p>
     </div>
@@ -832,12 +862,18 @@ de Kenneth Tee, y publicado por <strong>GMT Games</strong>, es el undécimo
 </div>
 
 
+El ganador de esta categoría ha sido [Undaunted: Battle of
+Britain](https://boardgamegeek.com/boardgame/366495/undaunted-battle-of-britain),
+pero no puede jugarse en solitario. [The British Way:
+Counterinsurgency at the End of
+Empire](https://boardgamegeek.com/boardgame/342921/the-british-way-counterinsurgency-at-the-end-of-em)
+ha sido el otro subcampeón.
+
 
 ### Mejor juego cooperativo del año
 
 En esta categoría también han sido nominados *Sail* y *Sky Team*,
 pero han sido excluidos por no tener un modo en solitario.
-
 
 <div class="row">
     <div class="col-md-3">
@@ -904,6 +940,8 @@ de Matt Leacock, Matteo Menapace, y publicado por <strong>CMYK</strong>, es un
     </div>
     <div class="col-md-9">
         <h4>Earthborne Rangers</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
                  <p><i>Este juego ha sido nominado primero en una sección anterior, la
          información se encuentra ahí.</i> </p>
     </div>
@@ -959,6 +997,8 @@ de Kevin Wilson, Darrell Hardy, Adela Kapuścińska, Brandon Perdue, y publicado
     </div>
     <div class="col-md-9">
         <h4>Sleeping Gods: Distant Skies</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/358320">Sleeping Gods: Distant Skies</a></strong>
     de Ryan Laukat, y publicado por <strong>Red Raven Games</strong>, es un juego
@@ -988,11 +1028,14 @@ de Jason Hager, Darren Reckner, y publicado por <strong>Restoration
     </div>
 </div>
 
+El ganador de esta categoría ha sido [Sky Team](https://boardgamegeek.com/boardgame/373106/sky-team), pero no puede jugarse en
+solitario.
+
+
 ### Mejor juego temático del año
 
 En esta categoría también han sido nominados *Sky Team* y *Thunder Road:
 Vendetta*, pero han sido excluidos por no tener un modo en solitario.
-
 
 <div class="row">
     <div class="col-md-3">
@@ -1030,6 +1073,8 @@ Vendetta*, pero han sido excluidos por no tener un modo en solitario.
     </div>
     <div class="col-md-9">
         <h4>Dune: Imperium – Uprising</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
                  <p><i>Este juego ha sido nominado primero en una sección anterior, la
          información se encuentra ahí.</i> </p>
     </div>
@@ -1058,6 +1103,8 @@ Vendetta*, pero han sido excluidos por no tener un modo en solitario.
     </div>
     <div class="col-md-9">
         <h4>Hegemony: Lead Your Class to Victory</h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego temático del año!</strong></div>
                  <p><i>Este juego ha sido nominado primero en una sección anterior, la
          información se encuentra ahí.</i> </p>
     </div>
@@ -1140,6 +1187,9 @@ de Łukasz Woźniak, y publicado por <strong>CD Projekt RED</strong> (<strong>Ge
     </div>
 </div>
 
+Uno de los subcampeones de esta categoría ha sido [Sky Team](https://boardgamegeek.com/boardgame/373106/sky-team), pero no puede
+jugarse en solitario.
+
 ### Mejor juego de dos jugadores del año
 
 En esta categoría también han sido nominados: *BOOoop.*, *The British Way:
@@ -1171,8 +1221,13 @@ solitario.
     </div>
 </div>
 
-### Mejor juego print & play del año
+El ganador de esta categoría ha sido: [Sky Team](https://boardgamegeek.com/boardgame/373106/sky-team), pero no tiene un modo en
+solitario, los subcampeones han sido [Star Wars: The Deckbuilding
+Game](https://boardgamegeek.com/boardgame/374173/star-wars-the-deckbuilding-game)
+y [Undaunted: Battle of Britain](https://boardgamegeek.com/boardgame/366495/undaunted-battle-of-britain). 
 
+
+### Mejor juego print & play del año
 
 <div class="row">
     <div class="col-md-3">
@@ -1236,6 +1291,8 @@ de Jason Greeno, Jason Tagmire, y publicado por <strong>PNP Arcade
     </div>
     <div class="col-md-9">
         <h4>Fliptown</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/352418">Fliptown</a></strong>
 de Steven Aramini, y publicado por <strong>Write Stuff Games</strong>
@@ -1254,6 +1311,8 @@ de Steven Aramini, y publicado por <strong>Write Stuff Games</strong>
     </div>
     <div class="col-md-9">
         <h4>Naturopolis</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/352606">Naturopolis</a></strong>
 de Steven Aramini, Danny Devine, Paul Kluka, y publicado por <strong>Button
@@ -1337,6 +1396,8 @@ de Steven Aramini, Danny Devine, Paul Kluka, y publicado por <strong>Button
     </div>
     <div class="col-md-9">
         <h4>Waypoints</h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor juego print & play del año!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/388329">Waypoints</a></strong>
     de Matthew Dunstan, Rory Muldoon, y publicado por <strong>Postmark
@@ -1364,6 +1425,8 @@ ha sido excluido por no poder jugarse en solitario.
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/44uLJBj">Ark Nova: Marine Worlds</a></h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Mejor expansión del año!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/368966">Ark Nova: Marine Worlds</a></strong>
     de Mathias Wigge, y publicado por <strong>Feuerland Spiele</strong>
@@ -1388,6 +1451,8 @@ ha sido excluido por no poder jugarse en solitario.
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/4dyumUc">Cascadia: Landmarks</a></h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/385318">Cascadia:
     Landmarks / Cascadia: Hitos</a></strong>
@@ -1472,7 +1537,10 @@ de Simone Luciani, Nestore Mangone, y publicado por <strong>ThunderGryph
         class="img-thumbnail" alt="Lost Ruins of Arnak: The Missing Expedition">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://amzn.to/4bjPUlI">Lost Ruins of Arnak: The Missing Expedition</a></h4>
+        <h4><a href="https://amzn.to/4bjPUlI">Lost Ruins of Arnak: The Missing
+    Expedition</a></h4>
+    <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/382350">Lost Ruins of
     Arnak: The Missing Expedition / La expedición perdida</a></strong>
@@ -1568,6 +1636,8 @@ excluido por no poder jugarse en solitario.
     </div>
     <div class="col-md-9">
         <h4>The Castles of Burgundy: Special Edition</h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Juego con mejor arte/presentación del año!</strong></div>
                  <p><i>Este juego ha sido nominado primero en una sección anterior, la
          información se encuentra ahí.</i> </p>
     </div>
@@ -1624,6 +1694,8 @@ excluido por no poder jugarse en solitario.
     </div>
     <div class="col-md-9">
         <h4>Earth</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
                  <p><i>Este juego ha sido nominado primero en una sección anterior, la
          información se encuentra ahí.</i> </p>
     </div>
@@ -1695,6 +1767,8 @@ excluido por no poder jugarse en solitario.
     </div>
     <div class="col-md-9">
         <h4>Voidfall</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
                  <p><i>Este juego ha sido nominado primero en una sección anterior, la
          información se encuentra ahí.</i> </p>
     </div>
@@ -1702,10 +1776,10 @@ excluido por no poder jugarse en solitario.
 
 ### Juego más innovador
 
+
 En esta categoría también han sido nominados: *Faraway*, *Kutná Hora: The City
 of Silver*, *Sky Team* y *Ticket to Ride Legacy: Legends of the West*, pero han
 sido excluidos por no poder jugarse en solitario.
-
 
 <div class="row">
     <div class="col-md-3">
@@ -1757,6 +1831,8 @@ sido excluidos por no poder jugarse en solitario.
     </div>
     <div class="col-md-9">
         <h4>Earthborne Rangers</h4>
+        <div class="alert alert-info" role="alert">
+            <strong>Subcampeón</strong></div>
                  <p><i>Este juego ha sido nominado primero en una sección anterior, la
          información se encuentra ahí.</i> </p>
     </div>
@@ -1771,6 +1847,8 @@ sido excluidos por no poder jugarse en solitario.
     </div>
     <div class="col-md-9">
         <h4>Hegemony: Lead Your Class to Victory</h4>
+        <div class="alert alert-warning" role="alert">
+            <strong>¡Juego más innovador del año!</strong></div>
                  <p><i>Este juego ha sido nominado primero en una sección anterior, la
          información se encuentra ahí.</i> </p>
     </div>
@@ -1803,6 +1881,122 @@ sido excluidos por no poder jugarse en solitario.
          información se encuentra ahí.</i> </p>
     </div>
 </div>
+
+El otro subcampeón de esta categoría ha sido [Sky
+Team](https://boardgamegeek.com/boardgame/373106/sky-team), pero no puede
+jugarse en solitario.
+
+### Tras los resultados: opinión
+
+**Juego de mesa ligero del año.** Como os comentaba, de esta categoría me
+hubiese gustado que [Trailblazers](https://boardgamegeek.com/boardgame/352454)
+saliese premiado, pero no ha podido ser. En esta categoría no podemos jugar a
+ningún premiado en solitario, pero los otros nominados de la categoría también
+pueden ser interesantes. Yo personalmente me apunto el [Ciudad de
+Puntos](https://boardgamegeek.com/boardgame/368017).
+
+**Juego de mesa de peso medio del año.** En esta categoría ha ganado
+[Earth](https://boardgamegeek.com/boardgame/350184), mientras que los otros dos
+subcampeones han sido [Los Castillos de
+Borgoña](https://boardgamegeek.com/boardgame/363622) y [The White
+Castle](https://boardgamegeek.com/boardgame/371942). De estos tres el que más
+ganas tengo de probar es el **The White Castle**, ya que a **Earth** creo que
+lo puede pisar **Wingspan Asia**, que me gusta mucho y ya tengo.
+
+**Juego de mesa de peso duro del año.** Aquí me ha dolido no ver a
+[Evacuation](https://boardgamegeek.com/boardgame/382843/evacuation) llevándose
+ningún premio, y me ha sorprendido muchísimo que
+[Nucleum](https://boardgamegeek.com/boardgame/396790/nucleum) tampoco se
+llevase nada. Eso último no me lo esperaba para nada. Yo 
+no he votado a **Nucleum** en esta categoría, pero el juego hizo mucho
+ruido. En esta categoría también estaba nominado [Great Western Trail:
+Nueva
+Zelanda](https://boardgamegeek.com/boardgame/380607/great-western-trail-new-zealand),
+otro que quiero probar. El ganador ha sido
+[Hegemony](https://boardgamegeek.com/boardgame/321608/hegemony-lead-your-class-to-victory)
+y los  subcampeones [Darwin's
+Journey](https://boardgamegeek.com/boardgame/322289/darwins-journey), y [Dune:
+Imperium -
+Uprising](https://boardgamegeek.com/boardgame/397598/dune-imperium-uprising);
+entre esos tres el que más ganas tengo de probar es el **Darwin's Journey**, ya
+que también quedo bien en los premios del **1 Player Guild** del año pasado.
+
+**Juego en solitario del año.** De buenas a primeras algunos de los nominados
+en esta categoría yo creo que no pinta mucho, pero bueno, creo que la gente
+tiende a nominar solamente a los juegos que tienen modo en solitario exclusivo,
+por eso hay otros juegos con muy buen solo que ni han aparecido en la
+categoría. El ganador ha sido [The Legacy of
+Yu](https://boardgamegeek.com/boardgame/354934/legacy-of-yu), y
+[Earth](https://boardgamegeek.com/boardgame/350184/earth) junto con [Earthborne
+Rangers](https://boardgamegeek.com/boardgame/342900/earthborne-rangers) como
+finalistas. La verdad es que a mí no me tira demasiado ninguno, en Essen del
+año pasado pude ver una buena oferta del **The Legacy of Yu**; a medida que
+pasan los días en la feria, y la editorial va viendo cuántas copias van
+quedando, a veces tienden a bajar bastante los precios para no tener que
+traerse las copias de vuelta. Yo vi el Legacy of Yu a unos 40€ nuevo, en el
+domingo, pero aún así tampoco terminó seduciéndome. Si alguien tiene otra
+opinión estaré encantada de añadirlo a mi lista de deseos si me habláis bien
+del juego.
+
+**Wargame del año.** Esta categoría me suele dar dolor de cabeza por los juegos
+que terminan nominados, hasta que mentalmente puse algunos juegos que se
+nominaban como wargames en mi categoría de "Wargame Temático", y así
+mejor. Esto es porque en mi cabeza espero algunas mecánicas determinadas de los
+wargames, y no veo eso en muchos de los nominados a los Golden Geek, pero sí
+que entiendo que puedan ser "wargames temáticos". Creo que es un debate
+interesante que tener. En fin, ha ganado el [Undaunted: Battle of
+Britain](https://boardgamegeek.com/boardgame/366495/undaunted-battle-of-britain),
+y como subcampeones tenemos a el [Halls of
+Hegra](https://boardgamegeek.com/boardgame/336131/halls-of-hegra), y el COIN
+[The British
+Way](https://boardgamegeek.com/boardgame/342921/the-british-way-counterinsurgency-at-the-end-of-em)
+que si no me equivoco no tiene bots como el resto de COINs. De esta categoría 
+he jugado al **Halls of Hegra**, que me parece que está bien, pero no es un
+favorito.
+
+**Juego cooperativo del año.** De esta categoría el que más me llama la
+atención es el [Daybreak](https://boardgamegeek.com/boardgame/334986) de Matt
+Leacock, puede que sea una especie de Teraforming Mars, pero al revés. Tenemos
+al **Earthborne Rangers** como subcampeón junto con [Sleeping Gods: Distant
+Skies](https://boardgamegeek.com/boardgame/358320), entre esos me quedaría con
+el Rangers, aunque da respeto entrar a cualquier living-card-game por el
+agujero que puede causar en la cartera si tienes "la mala suerte" de que te
+termina gustando. 
+
+**Juego temático del año.** Aquí poco que comentar, me gustaría probar el
+**[The Witcher: Old World](https://boardgamegeek.com/boardgame/331106)**. Ha
+sido curioso ver que **Hegemony** ha ganado  también en esta categoría (había
+ganado en la de juego de peso duro), por lo que pude que se un juego complejo
+pero a la vez amable de entender si resulta que es tan temático como da a
+entender. En solitario se necesita una expansión para poder jugar al
+**Hegemony**, así que no sé si monetariamente sea un juego que valga la pena.
+
+**Juego de dos jugadores del año.** Este año he añadido esta categoría por 
+el **[Oranienburger Kanal](https://boardgamegeek.com/boardgame/352695)**, ya
+que es de 1 a 2 jugadores. Otros años esta categoría ha tenido más juegos
+nominados que pudieran jugarse en solitario, pero este año ha sido una
+categoría escasa.
+
+**Juego print & play del año.** Os comentaba en esta categoría que me había
+llamado el **[Waypoints](https://boardgamegeek.com/boardgame/388329)**, que
+además ha resultado ser el ganador de la categoría, así que más razón para
+intentar probarlo. 
+
+**Expansión del año.** Aquí había dos expansiones que yo creo que se merecían
+mucho ser las ganadoras, esas eran la expansión **Marine Worlds** para **Ark
+Nova** y la expansión **Hitos** para **Cascadia**. Ganara quién ganara me iba a
+parecer bien igualmente, y han quedado la Marine Worlds como campeona y la
+expansión Hitos como subcampeona. Dos expansiones muy recomendadas.
+
+**Mejor arte/presentación del año.** Aquí ha ganado la edición especial de
+**Los Castillos de Borgoña**, cosa que también me ha sorprendido mucho, ya que
+lo único bonito que tiene (en mi opinión) es la portada, pero entiendo que los
+componentes también cuentan para esta categoría.
+
+Finalmente, en la categoría de **juego más innovador del año** ha ganado otra
+vez **Hegemony**, por lo que parece ser que **Hegemony** se ha coronado como
+juego del año de 2023 y yo creo que a lo mejor, después de tantas señales,
+debería meterlo ya en mi lista de deseos. 
 
 <hr>
 
