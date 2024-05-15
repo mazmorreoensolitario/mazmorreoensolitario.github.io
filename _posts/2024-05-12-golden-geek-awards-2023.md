@@ -1922,14 +1922,14 @@ entre esos tres el que más ganas tengo de probar es el **Darwin's Journey**, ya
 que también quedo bien en los premios del **1 Player Guild** del año pasado.
 
 **Juego en solitario del año.** De buenas a primeras algunos de los nominados
-en esta categoría yo creo que no pinta mucho, pero bueno, creo que la gente
+en esta categoría yo creo que no pintan mucho, pero bueno, creo que la gente
 tiende a nominar solamente a los juegos que tienen modo en solitario exclusivo,
 por eso hay otros juegos con muy buen solo que ni han aparecido en la
 categoría. El ganador ha sido [The Legacy of
 Yu](https://boardgamegeek.com/boardgame/354934/legacy-of-yu), y
 [Earth](https://boardgamegeek.com/boardgame/350184/earth) junto con [Earthborne
-Rangers](https://boardgamegeek.com/boardgame/342900/earthborne-rangers) como
-finalistas. La verdad es que a mí no me tira demasiado ninguno, en Essen del
+Rangers](https://boardgamegeek.com/boardgame/342900/earthborne-rangers) han
+quedado como finalistas. La verdad es que a mí no me tira demasiado ninguno, en Essen del
 año pasado pude ver una buena oferta del **The Legacy of Yu**; a medida que
 pasan los días en la feria, y la editorial va viendo cuántas copias van
 quedando, a veces tienden a bajar bastante los precios para no tener que
@@ -1949,7 +1949,7 @@ Britain](https://boardgamegeek.com/boardgame/366495/undaunted-battle-of-britain)
 y como subcampeones tenemos a el [Halls of
 Hegra](https://boardgamegeek.com/boardgame/336131/halls-of-hegra), y el COIN
 [The British
-Way](https://boardgamegeek.com/boardgame/342921/the-british-way-counterinsurgency-at-the-end-of-em)
+Way](https://boardgamegeek.com/boardgame/342921/the-british-way-counterinsurgency-at-the-end-of-em),
 que si no me equivoco no tiene bots como el resto de COINs. De esta categoría 
 he jugado al **Halls of Hegra**, que me parece que está bien, pero no es un
 favorito.
@@ -1966,7 +1966,7 @@ termina gustando.
 **Juego temático del año.** Aquí poco que comentar, me gustaría probar el
 **[The Witcher: Old World](https://boardgamegeek.com/boardgame/331106)**. Ha
 sido curioso ver que **Hegemony** ha ganado  también en esta categoría (había
-ganado en la de juego de peso duro), por lo que pude que se un juego complejo
+ganado en la de juego de peso duro), por lo que puede que sea un juego complejo
 pero a la vez amable de entender si resulta que es tan temático como da a
 entender. En solitario se necesita una expansión para poder jugar al
 **Hegemony**, así que no sé si monetariamente sea un juego que valga la pena.
