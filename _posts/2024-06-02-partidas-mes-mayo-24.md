@@ -3,7 +3,7 @@ layout: post
 title: "Mayo en juegos (2024)"
 date: 2024-06-02
 categories: [General]
-tags: [El mes en juegos, Gaia Project, Evacuation, Messina 1347, Tiny Towns, Cascadia, "Cascadia: Hitos", "Cascadia: Landmarks"]
+tags: [El mes en juegos, Ark Nova, "Ark Nova: Marine Worlds", Gaia Project, Evacuation, Messina 1347, Tiny Towns, Cascadia, "Cascadia: Hitos", "Cascadia: Landmarks"]
 imghtml: https://live.staticflickr.com/65535/53762841562_0d09183f5d_b.jpg
 post_desc: "¿Qué se ha jugado durante mayo? Aquí te cuento qué juegos he
 sacado a la mesa"
