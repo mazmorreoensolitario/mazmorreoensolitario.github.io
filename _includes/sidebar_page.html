@@ -63,13 +63,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/08/31/analisis-imperium-classics/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -78,6 +71,13 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/03/27/general-top-100-bgg-solitario-p4/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2021/08/31/analisis-imperium-classics/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -105,14 +105,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/09/13/rol-old-school-essentials-advanced-fantasy/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/02/24/noticias-csr-awards-2021/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/09/13/rol-old-school-essentials-advanced-fantasy/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -127,32 +127,33 @@
       {% if tag[0] == "Print & play"
       or tag[0] == "High Frontier 4 All"
       or tag[0] == "OSR"
+      or tag[0] == "Las Ruinas Perdidas de Arnak"
+      or tag[0] == "Tops"
       or tag[0] == "Battlestar Galactica: The Board Game"
-      or tag[0] == "Evacuation"
+      or tag[0] == "El Símbolo Arcano"
       or tag[0] == "Forbidden Psalm: The Last War"
       or tag[0] == "Four Against Darkness"
-      or tag[0] == "Tops"
       or tag[0] == "Wicked Ones"
       or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Caesar: Rome vs. Gaul"
+      or tag[0] == "Disciples of Bone and Shadow: Conquered Sun Edition"
       or tag[0] == "Dune: Imperium"
-      or tag[0] == "Escape the Dark Sector"
       or tag[0] == "Expansiópolis"
+      or tag[0] == "Gloomhaven: Fauces del León"
       or tag[0] == "Golden Geek"
       or tag[0] == "Iron Helm"
       or tag[0] == "Ironsworn: Delve"
       or tag[0] == "Ironsworn"
       or tag[0] == "Mini Rogue"
       or tag[0] == "Mythic"
+      or tag[0] == "Naturopolis"
       or tag[0] == "Resistid"
       or tag[0] == "Root: Los Cachivaches"
       or tag[0] == "Root: The Underworld"
       or tag[0] == "Ruins of the Undercity"
+      or tag[0] == "Scarlet Heroes"
       or tag[0] == "Solitaire Print & Play Design Contest"
-      or tag[0] == "Street Masters"
-      or tag[0] == "The 7th Citadel"
-      or tag[0] == "The Metamorphica Revised"
-      or tag[0] == "Tin Helm" %}
+      or tag[0] == "The 7th Citadel" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
