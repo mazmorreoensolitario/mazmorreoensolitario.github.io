@@ -54,7 +54,7 @@ En el panorama no solitario pude probar el **Sushi Go!**, **Love Letter** y un
 juego de **HABA**, **Bella Blümchen** (traducido como Bellaflor en español) que
 un amigo (mayor de edad y ya con barba y asomando canas, por si acaso) le dio
 la venada de comprar. Pero esto no ha sido lo más raro del mes en el tema los
-multis, sino que los jugué en sitios variopintos: un
+multis, si no que los jugué en sitios variopintos: un
 [batzoki](https://es.wikipedia.org/wiki/Batzoki), una coctelería y en un
 disco-bar de reggaetón.
 

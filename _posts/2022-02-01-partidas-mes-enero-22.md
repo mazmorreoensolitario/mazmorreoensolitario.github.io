@@ -220,7 +220,7 @@ siempre utilizo el mismo color para jugar yo y lo único que varía es el color
 del automa, 2) junto todas las fichas que no sean de setup en la misma
 bolsita y las "tiro" dentro del cuenco que utilizo durante la partida, y
 finalmente 3) tengo otra bolsita con todos los otros elementos del setup. Así
-que no tengo cienmil bolsitas que abrir y cerrar, sino que tengo unas cuatro y
+que no tengo cienmil bolsitas que abrir y cerrar, si no que tengo unas cuatro y
 listo.
 
 <div align="center">

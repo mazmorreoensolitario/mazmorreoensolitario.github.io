@@ -340,7 +340,7 @@ parece algo engorroso, pero el juego se mueve más rápido.
 En resumidas cuentas, es un juego que cumple con la premisa, pero a mí me
 parece que le falta una chispa de emoción, si a vosotros os parece emocionante
 lo que habéis leído y estáis en busca de un juego no demasiado complejo, puede
-ser una opción, sino no puedo recomendarlo para jugar en solitario.
+ser una opción, si no no puedo recomendarlo para jugar en solitario.
 
 <img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**
 2.5 de 5 monedas. **Es entretenido, pero no me engancha.** 

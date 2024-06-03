@@ -434,9 +434,9 @@ mala práctica.
 Como todas las zines (de pago) que he comprado durante estos años asumía que no
 iba a haber anuncios, es que ni se me pasaba por la cabeza ¿cómo va a tener
 anuncios una zine indie del mundillo OSR que encima es de pago?
-Además, no hablamos de anuncios discretos, sino de anuncios que
+Además, no hablamos de anuncios discretos, si no de anuncios que
 ocupan toda la página impar en medio de la zine, no en una sección más
-discreta, sino en medio de la aventura tienes un anuncio de algo que no viene a
+discreta, si no en medio de la aventura tienes un anuncio de algo que no viene a
 cuento, y encima, en muchos casos con un diseño tan cantoso que rompe con el
 estilo de la zine, vamos, que queda como el culo.
 

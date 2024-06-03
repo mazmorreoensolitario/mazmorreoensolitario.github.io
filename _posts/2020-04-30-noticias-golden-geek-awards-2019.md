@@ -1055,7 +1055,7 @@ por la comunidad.
         <p>En <strong><a
     href="https://boardgamegeek.com/boardgame/282524/horrified">Horrified</a></strong>
          imagina vivir en un sitio plagado de
-        monstruos, no uno, ni dos, ni tres, sino siete de las criaturas más
+        monstruos, no uno, ni dos, ni tres, si no siete de las criaturas más
         terribles que hayas visto nunca. En este juego te encontrarás con estas
         criaturas en tu objetivo de deshacerte de ellas o tratar de hacerlas
         entrar en razón... antes de que sea demasiado tarde.</p>
@@ -2015,7 +2015,7 @@ Me indigna un poco que el juego ese roll & write que yo ni lo quiero ni oler
 ¡já!
 
 Otro punto interesante ha sido la categoría de *Mejor Wargame*, que justamente
-ha ganado un juego  que yo no consideraría wargame, sino una especie de
+ha ganado un juego  que yo no consideraría wargame, si no una especie de
 euro/temático con temática de guerra, **Undaunted: Normandy**, pero bueno.
 Los dos subcampeones de esta categoría también
 han sido los que menos pintan aquí. Os redirijo a un [hilo

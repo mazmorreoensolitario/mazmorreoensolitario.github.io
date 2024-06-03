@@ -187,7 +187,7 @@ después a las unidades enemigas. En este momento es en el que se han dado la
 vuelta a las unidades enemigas, y cabe destacar que cuando una unidad enemiga
 pierde un paso y sustituimos la ficha por su ficha con un paso menos, esta
 empieza en el lado oculto, y solamente la daremos la vuelta si nos queda algún
-impacto por distribuir, sino seguirá oculta.
+impacto por distribuir, si no seguirá oculta.
 
 Cuando las unidades republicanas llegan a tener un único paso, *se retiran* de
 la posición siguiendo las flechas impresas en el mapa, y es entonces cuando

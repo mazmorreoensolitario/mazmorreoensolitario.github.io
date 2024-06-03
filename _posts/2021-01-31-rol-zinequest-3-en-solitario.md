@@ -720,7 +720,7 @@ Y sin más dilación, aquí están las listas de zines:
         <p>Deambula por el páramo post-apocalíptico como un extraño curandero.</p>
         <p><strong>Lay On Hands</strong> es una zine de contar historias para
         un jugador en la que juegas como un curandero con gran talento. En esta
-        zine no tiras dados para ver si superas pruebas, sino que tirarás una
+        zine no tiras dados para ver si superas pruebas, si no que tirarás una
         moneda y completarás secciones de un mini-juego de pintar.</p>
         <ul>
             <li>PDF: 5£</li>
@@ -1577,7 +1577,7 @@ estén pensadas para ello:
     que detalla veinte NPCs diferentes, con su historia, tablas para generar
     equipamiento, deseos, peculiaridades...</p>
         <p>Como bien dice la página de la campaña, puede usarse para añadir
-    encuentros interesantes con NPCs. Además no todo es fijo, sino que hay
+    encuentros interesantes con NPCs. Además no todo es fijo, si no que hay
     tablas para generar alguna cosa de forma aleatoria.</p>
         <ul>
             <li>PDF: 2$</li>

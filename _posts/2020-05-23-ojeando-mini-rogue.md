@@ -225,7 +225,7 @@ original]({{site.baseurl}}/2018/11/05/analisis-mini-rogue/)
 presentada al concurso de 9 Card Game Print & Play Contest hay unas ligeras
 diferencias ya que el juego ha sido aumentado:
 
-* **Ya no tenemos solo 9 cartas**, sino que hay 18, y hasta 30 si se
+* **Ya no tenemos solo 9 cartas**, si no que hay 18, y hasta 30 si se
   desbloquean stretch goals.
   
 * **Tenemos personajes.** Para empezar a jugar elegiremos a un personaje que
@@ -288,7 +288,7 @@ Con esta versión retail/KS tenemos al Mini Rogue de siempre, pero con muchas
 más opciones, un diseño gráfico más pulido, que  ya era muy bueno
 originalmente, y algo más de profundidad en forma de nuevas mecánicas y 
 decisiones que tomar. No han convertido al Mini Rogue en algo que no es, ni 
-tampoco se ha convertido en nuestro nuevo dios, sino que han hecho una versión
+tampoco se ha convertido en nuestro nuevo dios, si no que han hecho una versión
 retail que creo que no va a decepcionar ni a antiguos fans ni a nuevos
 jugadores, y que a la vez es fiel al diseño original. 
 

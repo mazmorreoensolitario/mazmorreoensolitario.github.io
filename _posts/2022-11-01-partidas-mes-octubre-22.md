@@ -112,7 +112,7 @@ intensivo para intentar superar el escenario.
 (**Delirium Games** en España) no tuvo una reimpresión hasta finales de
 marzo/abril de 2022, así que si os interesa el juego enteraros de cuándo se
 vuelve a esperar una reimpresión e intentad reservar una copia en vuestra
-tienda habitual, porque sino lo vais a tener difícil.
+tienda habitual, porque si no lo vais a tener difícil.
 
 <div align="center">
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Trucos para un setup rápido en <a href="https://twitter.com/hashtag/solitario?src=hash&amp;ref_src=twsrc%5Etfw">#solitario</a> a <a href="https://twitter.com/hashtag/Cascadia?src=hash&amp;ref_src=twsrc%5Etfw">#Cascadia</a>: poned la tapa boca abajo, si hacéis una pila de losetas y la dejáis al ras de las siglas de AEG (sin tocar las letras) tenéis 20 losetas, con otra pila igual y 3 losetas extra ya tenemos las 43 para jugar! <a href="https://twitter.com/games_delirium?ref_src=twsrc%5Etfw">@games_delirium</a> <a href="https://t.co/gYukQetdEz">pic.twitter.com/gYukQetdEz</a></p>&mdash; Mazmorreo en solitario (@mazmorreo) <a href="https://twitter.com/mazmorreo/status/1586734342482628610?ref_src=twsrc%5Etfw">October 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

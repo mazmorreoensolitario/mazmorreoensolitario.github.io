@@ -81,7 +81,7 @@ Me han gustado mucho las partidas de este mes igualmente, al final **The
 Colonists** es un juego con mucho espacio de decisiones y para jugar como te
 apetezca, este mes he tratado de variar un poco mi estrategia y no centrarme
 solamente en construir pubs y teatros (son dos edificios que generan monedas
-(PV) al final de cada año), sino en construir un poco de todo y hacer uso de
+(PV) al final de cada año), si no en construir un poco de todo y hacer uso de
 las cartas con efectos, que generalmente peco de no usar.
 
 Aunque no haya ganado creo que tengo que explorar esta estrategia con más

@@ -115,7 +115,7 @@ vista desde fuera; y **Bone**, cómo es la localización desde dentro.
 
 Cuando se roba una carta J, Q ó K, el jugador deberá describir adicionalmente
 un rival de una facción de otro jugador (por esto mismo en solitario es mejor
-jugar con al menos tres facciones, sino la historia puede quedar muy
+jugar con al menos tres facciones, si no la historia puede quedar muy
 típicamente antagónica).
 
 Así iremos señalando edificios en el mapa y creando poco a poco la historia del
@@ -191,7 +191,7 @@ esto es un poco irrelevante.
 <strong style="font-size: 23px;">-</strong> Necesitáis usar un mapa
 evocativo. La zine viene con un mapa muy diferente a lo típico en juegos de
 rol, pero si queréis cambiar de mapa vais a necesitar otro que esté a la altura
-o sino *igual* no se os ocurren ideas.
+o si no *igual* no se os ocurren ideas.
 
 ## Opinión
 

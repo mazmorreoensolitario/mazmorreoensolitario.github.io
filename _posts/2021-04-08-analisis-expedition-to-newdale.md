@@ -149,7 +149,7 @@ arriba).
   Como punto interesante, puedes por ejemplo programar la acción 1 como
   construir un edificio y la acción 2 como producir en un espacio vacío, en el
   que vas a construir en la acción 1. No hace falta que las acciones sean
-  "legales" en el momento de programarlas, sino en el momento de *ejecutarlas*.
+  "legales" en el momento de programarlas, si no en el momento de *ejecutarlas*.
   
   Al principio de la partida solamente puedes programar 2 acciones porque solo
   tienes dos marcadores, pero luego puedes comprar otros dos adicionales.
@@ -299,7 +299,7 @@ hechas por **Klemens Franz**, por lo que el juego debería tener ese toque de
 euro alemán clásico aunque sea un juego relativamente nuevo.
 
 El diseño de las cartas me gusta mucho y creo que la iconografía es bastante
-clara. No es un diseño novedoso, sino un diseño más clásico, pero a mí me gusta
+clara. No es un diseño novedoso, si no un diseño más clásico, pero a mí me gusta
 mucho. Lo que me gusta menos son los tableros, aunque siguen teniendo el mismo
 estilo que las cartas, como que la forma de pintar me parece más difuminada y
 con mucho menos detalle, el trazo es diferente. Podéis ver esto por ejemplo
@@ -335,7 +335,7 @@ a repetir que no hace falta haber jugado a Oh My Goods! para enterarse de este
 juego, al final es un euro con campaña, que se traduce a "voy a hacer varios
 escenarios y les pongo un algo narrativo para que cuadre y pista", pero no es
 un juego que deberíais comprar si estáis buscando una campaña en el sentido
-narrativo. Si queréis variabilidad bien, pero sino meh.
+narrativo. Si queréis variabilidad bien, pero si no meh.
 
 En general creo que es un juego que luce menos por la campaña, los mecanismos
 de producción, producción en cadena y todo eso me encantan, como que sientes
@@ -365,7 +365,7 @@ nada. Diréis: "pues tENíaSSs quE hAber mIiRAdo laShs cARtaS de evento para ver
 que te pideeeen <3" (lo he capitalizado así adrede, leerlo con voz de
 maruja). ¡Pues no porque es un juego de campaña! Cuando pierdo el escenario ya
 sé que me van a pedir (o no, porque no utilizas siempre las mismas cartas),
-pero sino no me voy a hacer spoilers ni darme ningún tipo de ventaja por saber
+pero si no no me voy a hacer spoilers ni darme ningún tipo de ventaja por saber
 qué cartas voy a tener disponibles.
 
 Dejando la campaña a un lado, el mapa donde colocar diferentes casitas cuando

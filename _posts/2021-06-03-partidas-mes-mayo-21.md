@@ -382,7 +382,7 @@ rol en solitario, y más con un sistema ya preparado para el rol en
 solitario. Es decir, por un lado tenemos los oráculos del rol en solitario de
 toda la vida, que Ironsworn también tiene, y luego encima están los
 movimientos, así que cuando quiero que mi personaje haga algo no tengo que
-hacer de DM y pensar si un chequeo es necesario o no, sino que tengo que mirar
+hacer de DM y pensar si un chequeo es necesario o no, si no que tengo que mirar
 si existe un movimiento para eso que quiero hacer y luego ya si eso a lo mejor
 preguntar a un oráculo algo.
 

@@ -201,7 +201,7 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
   está desarrollando un **nuevo juego dentro de la saga**: **Spire's End:
   Hildegard**.
   
-  Este juego **no se trata de una expansión**, sino que es un nuevo juego
+  Este juego **no se trata de una expansión**, si no que es un nuevo juego
   independiente, solo que comparte mundo y uno de los personajes que podíamos
   jugar en el primer Spire's End. A diferencia de Spire's End, este juego será
   exclusivo para el juego en solitario.

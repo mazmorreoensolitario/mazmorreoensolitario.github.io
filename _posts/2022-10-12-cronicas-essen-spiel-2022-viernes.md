@@ -129,7 +129,7 @@ Me gustó mucho la pinta que tenía el juego, toda la iconografía es de Ian
 O'Toole, y sobre todo ese tablero económico donde jugamos por conseguir bonos
 colocando transformadores en el mapa. Cada columna está relacionada con algún
 tipo de contrato (esto no me enteré bien al 100%), de forma que no puedes
-colocar los transformadores que te interesan para desbloquear todo, sino que
+colocar los transformadores que te interesan para desbloquear todo, si no que
 hay unas restricciones.
 
 **Pampero** va a buscar financiación en **Kickstarter** el 20 de octubre, y yo

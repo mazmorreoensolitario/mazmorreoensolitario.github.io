@@ -364,7 +364,7 @@ en el podio de este año?
     tácticos. En todos los juegos de la serie tenemos un sistema de juego algo
     diferente a lo que podemos estar acostumbrados en muchos wargames; en este
     juego no tenemos turnos iguales en los que primero va un bando y después
-    otro, sino que quien gana la iniciativa juega el <i>turno activo</i>
+    otro, si no que quien gana la iniciativa juega el <i>turno activo</i>
     mientras que el otro bando solo puede reaccionar; las acciones disponibles
     dependen de si hemos ganado esa ronda de iniciativa o no.</p>
          <img src="https://cf.geekdo-images.com/zOvKMgFSXuEd_wfJLWfktw__imagepage/img/e9UeU0M3r5EQ_RTsbk6xKWdHVz4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5364666.jpg">
@@ -489,7 +489,7 @@ En primera posición, mi juego más deseado de este año es...
     que tenga el hexágono, construir un poblado, conseguir dinero, construir
     carreteras... en general las cartas tienen una acción, el coste de dicha
     acción y el beneficio de la carta cuando la jugamos. No perdemos las cartas
-    cuando las jugamos, sino que se quedan en nuestro descarte, y el orden de
+    cuando las jugamos, si no que se quedan en nuestro descarte, y el orden de
     cómo queda todo ahí es súper importante.</p>
     <p>En cada turno podemos hacer solamente una acción de las
     siguientes: jugar carta, comprar cartas o robar las 3 cartas de la parte de

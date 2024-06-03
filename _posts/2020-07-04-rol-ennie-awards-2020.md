@@ -159,7 +159,7 @@ comentaré en la primera.
         RPG</a> (os hablé de este juego
         <a href="{{site.baseurl}}/2019/04/25/rol-mothership/">aquí</a>).
         A Pound of Flesh está ambientado en la estación espacial 
-        <i>Prospero's Dream</i>, no es una aventura lineal, sino que cuando
+        <i>Prospero's Dream</i>, no es una aventura lineal, si no que cuando
         nuestros personajes lleguen allí sucederán eventos, cada vez más
         oscuros y peligrosos, y será responsabilidad de los personajes decidir
         hasta que punto quieren involucrarse.</p>

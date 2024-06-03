@@ -267,7 +267,7 @@ src="https://images.gencon.com/2020.gencon.logo.black.png">
   
 * Debido a la pandemia, este año la **[Gen Con 2020](https://www.gencon.com/)**
   es online, podéis seguir los diferentes streams si habéis comprado una
-  entrada, sino aquí está la [cobertura de
+  entrada, si no aquí está la [cobertura de
   noticias](https://boardgamegeek.com/live) que está haciendo Board Game Geek.
 
 #### Lo que el futuro nos depara en el crowdfunding de juegos de mesa 

@@ -68,7 +68,7 @@ juegos de rol, zines, aventuras, settings... pero todo para probar en 2021.
     <a href="https://blackoathgames.com/">Blackoath Entertainment</a> (ahora
     agotado). La edición Conquered Sun de Disciples of Bone & Shadow contiene
     ambos libros (básico y Narrative Playbook) integrados en un solo libro. No
-    es un libro y luego plof, seguido el otro, sino que es una re-escritura
+    es un libro y luego plof, seguido el otro, si no que es una re-escritura
     integrando ambos para que la referencia y búsqueda de cosas sea más
         sencilla. El Narrative Playbook añadía al <a
     href="https://blackoathgames.com/store/disciples-of-bone-amp-shadow-basic-edition">juego
@@ -144,7 +144,7 @@ juegos de rol, zines, aventuras, settings... pero todo para probar en 2021.
     principal, en muchos casos también con sus tablas.</p>
     <p>En la sección dedicada
     al DM también tenemos tablas muy interesantes porque no son completamente
-    "directas" sino que tienden a lo abstracto y eso en solitario funciona muy
+    "directas" si no que tienden a lo abstracto y eso en solitario funciona muy
     bien. Por ejemplo, las tablas de encuentro general nos hablan de
     distancia, eficacia (daño que puede hacer la criatura) y actitud (si es
     hostil o no), por lo que si concatenamos esa tabla con la de monstruos en
@@ -185,7 +185,7 @@ juegos de rol, zines, aventuras, settings... pero todo para probar en 2021.
     para que entendamos las relaciones de los unos con los otros y cuáles son
     sus objetivos. Además, afortunadamente el autor a sabido dar una toque 
     moderno a algunos aspectos claramente racistas que tenía el libro de Peter
-    Pan (1902), ya no tenemos "indios" en la isla (Los Picaninny), sino que el
+    Pan (1902), ya no tenemos "indios" en la isla (Los Picaninny), si no que el
     autor ha trasformado a dichos habitantes nativos en dríadas con el fin de
     que, en sus palabras, <i>"[esta ambientación] no sea ofensiva ni que los
     jugadores tengan la posibilidad de recrear la violencia histórica contra

@@ -381,7 +381,7 @@ impresiones <strong><a
     las reglas estándar las partidas son largas y más si tenéis que estar
     consultando reglas, pero gusta jugar a juegos de este estilo de vez en
     cuando. Lo que más me gusta de este juego es la agilidad y dinamismo del
-    turno, no es un "primero tal bando y luego el otro" sino que es menos
+    turno, no es un "primero tal bando y luego el otro" si no que es menos
     "académico" e intenta ser más realista. Si pudiera pedir una mesa y espacio
     extra para dejar un juego montado sería este.</p>
     </div>
@@ -401,7 +401,7 @@ impresiones <strong><a
     href="{{site.baseurl}}/2022/06/07/primeras-impresiones-ark-nova/">aquí</a></strong>)
     gracias a la comilona que me he metido con él en los últimos dos
     meses. Gran juego, mucha re-jugabilidad y de momento me sigue pareciendo
-    complicado de ganar, hay que jugar mirando bien los turnos porque sino no
+    complicado de ganar, hay que jugar mirando bien los turnos porque si no no
     llegas a puntos de conservación. </p>
     </div>
 </div>

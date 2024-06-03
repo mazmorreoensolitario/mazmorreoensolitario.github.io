@@ -484,7 +484,7 @@ de Nick Bentley, Dominic Crapuchettes, Ben Goldman y Brian O'Neill y publicado
     las granjas está muy hecho, pero es un tema alegre. Otro punto interesante
     es que además de contar con Klemens Franz para las ilustraciones, el arte
     también ha sido hecho por Lukas Siegmon, por lo que ya no parece el típico
-    euro de Lookout, sino que tiene un toque algo más moderno.</p>
+    euro de Lookout, si no que tiene un toque algo más moderno.</p>
     </div>
 </div>
 
@@ -625,7 +625,7 @@ de Nick Bentley, Dominic Crapuchettes, Ben Goldman y Brian O'Neill y publicado
     tierras.</p>
          <p><strong>Comentario.</strong> Con este juego se cierra la trilogía
     del Reino del Oeste, y la verdad es que este juego es el que menos ha
-    estado en mi radar, no porque no me interese, que sí, sino porque ha habido
+    estado en mi radar, no porque no me interese, que sí, si no porque ha habido
     muchos otros juegos y como que se la ha dado menos publicidad a
     este. Habiendo probado Arquitectos, me gustaría probar Paladines o
     Vizcondes, aún no lo tengo decidido.</p>

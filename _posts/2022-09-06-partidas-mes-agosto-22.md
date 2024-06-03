@@ -53,7 +53,7 @@ fotos porque no he tenido la cabeza para acordarme de sacar fotos.
 
 El juego mas "complejo" que he jugado durante agosto ha sido **[Bios:
 Megafauna](https://boardgamegeek.com/boardgame/221769/bios-megafauna-second-edition)**,
-no complejo porque te funda la cabeza, sino porque los manuales de Eklund son
+no complejo porque te funda la cabeza, si no porque los manuales de Eklund son
 bastante obtusos. En mi caso utilizo el [Holistic
 Summary](https://boardgamegeek.com/filepage/177225/bios-megafauna-holistic-summary-includes-achterbah)
 que podéis encontrar en la sección de archivos de BGG para tratar de lidiar con

@@ -104,7 +104,7 @@ Pero no todo es tan sencillo en Orchard, los dados, que marcan los árboles en
 los que podemos cosechar, están limitados a cinco unidades por árbol, por lo
 que tendremos que pensar bien en qué sitios merece la pena cosechar, y en
 cuales no. Además, cuando colocamos una carta encima de otra, los tipos de
-árbol tienen que coincidir, sino no podremos colocar la carta. Dos veces por
+árbol tienen que coincidir, si no no podremos colocar la carta. Dos veces por
 partida podremos colocar un marcador negro de fruta podrida cuando coloquemos
 una carta sobre un árbol que no sea del mismo tipo, pero cuidado, cada fruta
 podrida nos quitará tres puntos de la puntuación final. 

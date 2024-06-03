@@ -174,7 +174,7 @@ la siguiente forma:
    malas, que las decidirá una tirada de 1d6, después lanzaremos otro dado
    para hacer un Chequeo de Habilidad, que si es satisfactorio nos permitirá
    eludir la trampa. Al principio del juego, cuando estemos en Rango 1 eludir
-   las trampas será extremadamente complicado, y no solo eso, sino que entre
+   las trampas será extremadamente complicado, y no solo eso, si no que entre
    las cosas malas que nos pueden pasar en la trampa, ¡podremos perder hasta
    experiencia!
    

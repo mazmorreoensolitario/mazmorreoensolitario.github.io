@@ -114,7 +114,7 @@ gusto tomar las acciones, sobre todo la de astronomía donde te movías por el
 mapa del norte de África (no recuerdo cuál era el sentido temático de esa
 acción, creo que algo de navegar viendo las estrellas).
 
-Me gustó mucho este **Sankoré**. No voy a prometer nada porque sino la lío pero
+Me gustó mucho este **Sankoré**. No voy a prometer nada porque si no la lío pero
 intentaré dejaros más fotos y una "historia de una demo" antes de fin de año si
 me cuadra.
 

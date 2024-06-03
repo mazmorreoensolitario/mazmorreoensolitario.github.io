@@ -232,7 +232,7 @@ perfectamente dentro del formato bolsillo que nos quiere vender Button Shy.
 El jueguito también ha sido una buena sorpresa, parece una tontería, puedes
 comer una carta si tiene un número hasta 3 puntos más bajo, y luego activas la
 habilidad del depredador. Pero joe, hay estrategia en eso. Ya no es ver el grid
-de 4x4 encontrando solamente números, sino que te interesa y mucho cuadrar el
+de 4x4 encontrando solamente números, si no que te interesa y mucho cuadrar el
 orden en el que vas a activar los depredadores para comer a las presas y así
 llegar a cartas que de otra forma estarían fuera "del rango de caza" del
 depredador (es decir, no adyacentes). 
@@ -240,7 +240,7 @@ depredador (es decir, no adyacentes).
 La regla de hasta 3 puntos más bajo para comer a otra carta también está muy
 bien puesta porque, generalmente no te sale el grid ideal para ir comiendo todo
 seguido, así que tienes que ir creando montoncitos pero teniendo cuidado de no
-salirse de ese tope de 3 puntos porque sino te van a quedar cartas que no vas a
+salirse de ese tope de 3 puntos porque si no te van a quedar cartas que no vas a
 poder comer.
 
 Me gusta mucho, muy bien hecho, tengo el formato print & play y me gustaría

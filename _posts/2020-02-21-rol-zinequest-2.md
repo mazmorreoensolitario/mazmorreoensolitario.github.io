@@ -106,7 +106,7 @@ juego en solitario:
         <p>Procession es un juego sobre monstruos y milagros. Es un juego sobre
         imaginar un pueblo, y después hacerlo mejorar por medios no
         convencionales. Es un juego sobre empatizar con seres extraños. No
-        juegas como un único personaje sino que personificas el pueblo del
+        juegas como un único personaje si no que personificas el pueblo del
         valle de Edmund como un todo, y las extrañas criaturas que pasan por
         él.</p>
         <p><ul><li><strong>Diseño específico para el juego en solitario.</strong></li></ul></p>

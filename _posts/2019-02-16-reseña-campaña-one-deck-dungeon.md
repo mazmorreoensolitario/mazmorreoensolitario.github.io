@@ -55,7 +55,7 @@ personaje por simple preferencia personal, pero unas mazmorras son imposibles o
 te hacen llevar el personaje hacia unas características que lo desvirtúan para
 esa clase en concreto y entonces te deja de gustar. Hasta cierto punto puedes
 controlar las habilidades y dados que quieres colocar en el personaje, pero
-llegado a un punto tienes que añadir más dados, sino perderás seguro.
+llegado a un punto tienes que añadir más dados, si no perderás seguro.
 
 El *modo campaña* de One Deck Dungeon: Forest of Shadows sirve
 para hacer exactamente este contrapunto entre el personaje que quieres llevar y
@@ -110,7 +110,7 @@ típico momento de "farmeo" en el que tenemos que dedicarnos a matar enemigos de
 nivel bajo o medio antes de enfrentarnos a un monstruo final porque vamos
 justos de nivel; solo que en vez de ser repetitivo y tener que dedicar horas
 sin ninguna emoción, en este "farmeo" seguimos jugando al juego de mesa, si
-conseguimos pasarnos el monstruo final bien, sino volveremos más fuertes para
+conseguimos pasarnos el monstruo final bien, si no volveremos más fuertes para
 el siguiente intento.
 
 Los "tics" se consiguen de diferentes formas:

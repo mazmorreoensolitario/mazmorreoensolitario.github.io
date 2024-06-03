@@ -713,7 +713,7 @@ Es impresionante que la calidad se mantenga de libro a libro sin ningún punto
 flaco hasta ahora. Es otro libro muy recomendado, pero esta novela corta tiene
 sentido que la leáis de seguido con la anterior porque la trama está muy
 conectada, me refiero no solo al sentido de que tenéis que leer los libros de
-la serie en orden (doy esto por hecho), sino que veáis este cuarto libro como
+la serie en orden (doy esto por hecho), si no que veáis este cuarto libro como
 algo que tenéis que leer de seguido una vez que terminéis con el tercero. 
 
 A medida que avanza la serie se va viendo cómo Murderbot gestiona sus

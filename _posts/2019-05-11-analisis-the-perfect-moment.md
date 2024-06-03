@@ -188,7 +188,7 @@ combinación de otras dos cartas. Si es así, Borraremos la carta objetivo
 retirándola permanentemente del juego.
 
 Si hemos borrado satisfactoriamente una carta pasamos a la fase de
-recuperación, sino seguimos en la siguiente fase.
+recuperación, si no seguimos en la siguiente fase.
 
 Siguiendo la partida de la imagen de la fase de revelar Planes, Echo no podría
 borrar ninguna carta, por lo que pasaríamos a la siguiente fase.

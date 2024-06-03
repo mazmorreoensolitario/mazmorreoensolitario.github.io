@@ -80,7 +80,7 @@ quedado sin jugar en la balda de la vergüenza.
   la relación entre espacio de almacenamiento de un juego en relación con sus
   componentes, y las condiciones que tiene que cumplir para quedarse en mi
   colección (en resumen: a caja más llena de aire o caja grande en general,
-  tiene que gustarme más de lo normal para que se quede, sino no merece la pena
+  tiene que gustarme más de lo normal para que se quede, si no no merece la pena
   por el ratio de espacio/lo-que-me-gusta-el-juego).
   
   Durante 2022 también he vendido más juegos, pero me voy a quedar solamente

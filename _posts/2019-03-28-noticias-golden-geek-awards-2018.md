@@ -24,7 +24,7 @@ interesantes.
 Otra consecuencia interesante de estas nominaciones es que si 
 estamos indecisos sobre si un juego nos puede gustar o no una nominación puede
 ayudarnos a salir de dudas, no por la nominación en sí (¡informaros más y no os
-dejéis llevar por el hype!), sino porque generalmente suelen aflorar los
+dejéis llevar por el hype!), si no porque generalmente suelen aflorar los
 análisis o reseñas de juegos que han sido nominados.
 
 Las nominaciones son de una serie de categorías, las cuales las voy a incluir
@@ -875,7 +875,7 @@ entender, no permite el juego en solitario.</div>
         <p>Este sí que me parece un roll & write interesante, aunque parte de
             la culpa lo tienen los dados, que me parecen curiosos. Creo que es
             un juego en el que posiblemente invierta dinero, pero igual no para
-            jugar en solitario, sino para jugar en viajes de grupos de amigos.
+            jugar en solitario, si no para jugar en viajes de grupos de amigos.
         </p>
     </div>
 </div>
@@ -1369,7 +1369,7 @@ jugarse en solitario.</div>
          conseguirlo</a> en inglés.</p>
          <p>En <strong>Hitler's Reich</strong> vivimos la Segunda Guerra
          Mundial a escala global, y a diferencia de muchos otros juegos de
-         guerra no tenemos los típicos <i>counters</i>, sino fichas de madera
+         guerra no tenemos los típicos <i>counters</i>, si no fichas de madera
          que representan el control que tienen nuestras fuerzas en diferentes
          puntos del mapa, en la escala de ejércitos en tierra, flotas en el mar
          y fortificaciones construidas. En Hitler's Reich tendremos que
@@ -1417,7 +1417,7 @@ jugarse en solitario.</div>
          originalidad del tema, las reglas tan sencillas (el manual tiene tan
          solo 7 páginas) y creo que puede ser un pequeño juego de guerra rápido
          que incluso se puede llevar de viaje. Me hubiese gustado ver el mapa
-         montado, ya que sino me parece algo caro el juego.</p>
+         montado, ya que si no me parece algo caro el juego.</p>
     </div>
 </div>
 <br>

@@ -316,7 +316,7 @@ enseñando un juego cuyo manual habrán masticado a conciencia. Tras jugar a
 juegos de la serie de Bios hay conceptos que me parecen algo obtusos por no
 tener formación en el área (ni haber tenido antes interés en el tema de la
 evolución), sin embargo, las palabras técnicas de High Frontier me llegan mucho
-más cerca, no por formación, sino porque creo que el espacio es un tema que
+más cerca, no por formación, si no porque creo que el espacio es un tema que
 está mucho más democratizado (seguro que habéis oído el término de
 *aero-frenado* y similares en alguna película), y porque consumo mucho libro de
 ciencia ficción espacial como ocio; por tanto para mí la barrera de entrada es

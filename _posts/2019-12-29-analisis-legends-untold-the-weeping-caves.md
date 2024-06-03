@@ -471,7 +471,7 @@ genialmente con las mecánicas del juego relacionadas con salidas de
 oscuridad/luz/luz de ambiente. Las cartas de descubrimiento, barreras y
 obstáculos también son muy conscientes de este concepto y están perfectamente
 en sintonía. Este no es un juego en el que cada componente es de su padre y de
-su madre, sino que han sabido coordinar la luz de los distintos elementos para
+su madre, si no que han sabido coordinar la luz de los distintos elementos para
 que todo pueda imaginarse dentro de una cueva y no romper el tema.
 
 Los enemigos, por su parte, tienden a tener colores planos, pero esto tiene
@@ -514,7 +514,7 @@ todas las personas tienen las mismas características raciales.
 **El juego.** La primera recomendación que os puedo hacer en base a mi
 experiencia personal es que os quitéis de la cabeza el concepto de "como la
 caja es pequeña seguro que es sencillo". Gran error. Legends Untold es un juego
-complejo mentalmente, no por que tenga reglas complicadas, sino porque hay que
+complejo mentalmente, no por que tenga reglas complicadas, si no porque hay que
 recordar muchas. Y esto para mí es un gran punto positivo, ya que, hablando de
 dinero, hacía mucho tiempo que no encontraba un juego tan complejo (en el buen
 sentido), tan denso y con partidas relativamente largas, por tan poco dinero,
@@ -523,7 +523,7 @@ en ese sentido Legends Untold vale cada euro que pagáis por el.
 Siguiendo con el hilo de que es un "juego denso", Legends Untold sabe simular
 muy bien la exploración y lo hila genialmente con el resto de mecánicas del
 juego para que no tengamos una sensación de "fases" con ciertos momentos de
-inactividad entre ellas, sino una sensación de "aventura" completa.
+inactividad entre ellas, si no una sensación de "aventura" completa.
 
 Una consecuencia directa de esto es que tenemos que tener en cuenta muchas
 cosas desde el primer momento que entramos en las cuevas. Cuando estamos 

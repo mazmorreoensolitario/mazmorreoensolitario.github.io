@@ -203,7 +203,7 @@ de la imagen no vienen con el juego)</small></p>
 **Otra forma de luchar es utilizar hechizos**, para ello tenemos a otro
 personaje, Alahazra luchando contra una Hidra de Fuego, que requiere un test de
 combate con dificultad 7. Esta vez leemos la carta del enemigo entera, y nos
-dice que tenemos que hacer un test de destreza o acrobacias a 8 o sino nos hace
+dice que tenemos que hacer un test de destreza o acrobacias a 8 o si no nos hace
 daño de fuego. Después de que hayamos hecho esto sucedería el combate, pero,
 siguiendo con las habilidades de la Hidra, leemos que a no ser que usemos alguna carta
 con alguno de los siguientes rasgos (Ácido, Frío, Electricidad, Fuego o Veneno)
@@ -221,7 +221,7 @@ tirando 1d10 + 3 + 2d4 + 1d8, con una media de 18. Bastante holgado contra una
 dificultad de 7.
 
 
-Pero en este juego no todo lo malo es combate, sino que también tendremos
+Pero en este juego no todo lo malo es combate, si no que también tendremos
 trampas u alguna otra carta que al añadirse a nuestro equipo es buena, pero que
 adquirirla nos puede poner alguna dificultad.
 
@@ -282,7 +282,7 @@ al juego. Bueno, estrictamente sí, pero cuando tengáis que hacer una tirada de
 3d12 + 2d4 por ejemplo, solo vais a tener un dado d4 y otro d12, por lo que
 tendréis que sumar poco a poco. No es un impedimento para jugar al juego pero
 sí que hace que jugar sea más incómodo. Si sois jugadores de rol tendréis más
-dados poliédricos por ahí muy posiblemente, sino os recomendaría que os
+dados poliédricos por ahí muy posiblemente, si no os recomendaría que os
 hiciérais con dos o tres sets adicionales.
 
 **Apartado gráfico.** El arte es consistente de carta a carta con una pequeña

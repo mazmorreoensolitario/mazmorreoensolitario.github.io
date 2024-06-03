@@ -268,7 +268,7 @@ Tengo una impresión más positiva esta vez que la que tuve en octubre, la
 principal razón es que tengo ya algo más digerido el bot de **Nucleum**, ya que
 al ser un bot de la escuela del señor Turczi, tienes que administrar muchos
 elementos para saber qué hace el bot en su turno, y luego su turno no es
-simplificado, sino que toma las mismas acciones que un jugador humano, por lo
+simplificado, si no que toma las mismas acciones que un jugador humano, por lo
 que es tedioso.
 
 Tratando de olvidar a el bot, como en esta partida ya sabía por dónde iban los

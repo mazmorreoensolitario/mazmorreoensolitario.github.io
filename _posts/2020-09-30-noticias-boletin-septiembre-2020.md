@@ -69,7 +69,7 @@ src="https://cf.geekdo-images.com/imagepage/img/jrqiRbyu0rCWhMRCD2mML0xQExc=/fit
   que colaborará con **White Dog Games** para traer wargames de esta última
   editorial en español a España. 
   Los títulos que llegarán en español no se tratarán solamente de traducciones,
-  sino de **versiones deluxe** imprimidas en España.
+  si no de **versiones deluxe** imprimidas en España.
   
   Inicialmente, los juegos que podrán pedirse en la preventa son:
   
@@ -213,7 +213,7 @@ src="https://cf.geekdo-images.com/imagepage/img/p97o1Ot3LYCpLcNq5YS7y2MCup8=/fit
 * **[Cartographers
   Heroes](https://boardgamegeek.com/boardgame/315767/cartographers-heroes)** es
   la secuela al juego de pintar mapas Cartógrafos, no se trata de una
-  expansión, sino de un juego que puede jugarse de forma independiente, y
+  expansión, si no de un juego que puede jugarse de forma independiente, y
   también se puede mezclar con Cartógrafos.
   
   Campaña de Kickstarter el **6 de octubre**.
@@ -263,7 +263,7 @@ src="https://cf.geekdo-images.com/imagepage/img/z21GgCqmuShSc0K_zvu4V0GJFuY=/fit
   **Bios: Mesofauna** es un juego basado en la evolución de los insectos y
   otros artrópodos, tiene un paralelismo a Bios: Megafauna, manteniendo el uso
   del mercado de mutaciones y también tiene placas tectónicas, pero no es tan
-  pesado. No es una expansión, sino un juego base. Mesofauna es una versión
+  pesado. No es una expansión, si no un juego base. Mesofauna es una versión
   alternativa de Megafauna, en palabras de Ion Game Design, y que permite la
   integración de ambos juegos, pudiendo jugar una partida con roles de jugador
   de ambos juegos. 

@@ -226,7 +226,7 @@ cada uno de ellos que a veces cambia partida a partida.
 En cuanto a diseño gráfico la gran pega que tiene es que las fichas de agujero
 de gusano no están doblemente codificadas con color más icono, así que si
 tenéis algún problema de visión vais a tener que escoger dos colores que podáis
-distinguir bien (entre azul, amarillo, verde, rojo y morado), o sino no vais a
+distinguir bien (entre azul, amarillo, verde, rojo y morado), o si no no vais a
 poder jugar bien sin hacer apaños.
 
 Así como los planetas sí que se distinguen por forma, con los agujeros de
@@ -255,12 +255,12 @@ con estas dos mecánicas principales (construcción de rutas y *pick-up and
 deliver*) es lo que buscaba, pero se me queda un pelín corto. ¿En qué?
 
 No sabría deciros en qué, necesita Algo© que lo haga o más complejo
-mecánicamente o sino un punto disruptivo en la forma en la que se desarrolla la
+mecánicamente o si no un punto disruptivo en la forma en la que se desarrolla la
 partida. Creo que como parte del diseño se decantaron por añadir ese punto
 disruptivo y por eso el juego tiene todos esos elementos galácticos extra en el 
 tablero (agujeros negros, asteroides etc), pero aún así, para mí no es
 totalmente suficiente; es más, tiendo a elegir siempre el lado de las losetas
-que tienen estos elementos extra para formar el tablero porque sino el juego
+que tienen estos elementos extra para formar el tablero porque si no el juego
 sería bastante menos. Así que, parece que lo que le falta es alguna que otra
 mecánica más para añadir algo más de complejidad al asunto.
 

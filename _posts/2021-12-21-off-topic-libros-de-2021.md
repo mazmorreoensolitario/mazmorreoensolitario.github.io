@@ -259,7 +259,7 @@ src="https://m.media-amazon.com/images/I/415VNTffkbL.jpg"></p>
   La protagonista de este libro ve, siendo una niña, como la isla de su gente,
   Taranoke, es colonizada por la Mascarada (*Masquerade*), un imperio conocido
   por sus avances en todas las ramas del conocimiento y que no suele conquistar
-  a las poblaciones mediante la guerra, sino con medios más sutiles,
+  a las poblaciones mediante la guerra, si no con medios más sutiles,
   controlando el comercio, el acceso a la educación, a la sanidad etc. La 
   Mascarada crea una escuela en Taranoke donde Baru destaca por sus
   habilidades matemáticas. Baru sueña con un futuro dentro de este imperio
@@ -448,7 +448,7 @@ src="https://m.media-amazon.com/images/I/51a+RE0zywS.jpg"></p>
   muy sorprendentes que me han hecho reír gracias a ese humor.
 
   Finalmente me ha gustado mucho como está escrito, no es un libro
-  completamente centrado en la acción, sino que hay bastantes descripciones,
+  completamente centrado en la acción, si no que hay bastantes descripciones,
   pero no es tremendamente literario, el balance ideal. El worldbuilding
   también me parece súper interesante, no tiene elementos que en primera
   instancia parezcan muy originales, al final lo de las puertas
@@ -549,7 +549,7 @@ src="https://i2.wp.com/www.hachette.co.uk/wp-content/uploads/2020/03/Machine-cov
   principal como también tenía el libro anterior de esta "saga
   independiente". En este caso se habla de la fe en ciertas cosas, personas o
   ideas, pero el ritmo se mantiene y los personajes no se quedan filosofando,
-  sino que estamos en la acción en todo momento.
+  si no que estamos en la acción en todo momento.
   No os había comentado antes, pero en el
   universo de estas novelas los seres humanos conviven otras especies y en
   general la convivencia se divide en el tipo de respiración que tienen, todos
@@ -905,7 +905,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/15804
   pintores son necesarios en ese departamento ya que los autómatas cobran vida
   cuando se les coloca unas máscaras especiales pintadas de una determinada
   forma con unos pigmentos especiales. Así pues, Jebi termina trabajando para
-  "el bando malo", no porque quiera, sino porque su hermana es parte de la
+  "el bando malo", no porque quiera, si no porque su hermana es parte de la
   resistencia y le extorsionan para que trabaje con *Armor* para que ella no
   sea detenida.
   
@@ -948,7 +948,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/15236
   desde que empezó a ser consciente de lo que era, de su poder y desde que
   llegó a la tierra como un meteorito y ahora es una roca en medio de una
   colina, se le conoce como *"The Strength and Patience of the Hill"*
-  (dios-Piedra de ahora en adelante porque sino es muy largo). En este
+  (dios-Piedra de ahora en adelante porque si no es muy largo). En este
   mundo hay diversos dioses y cada uno interactúa con los humanos de diferente
   forma, algunos pueden hablar con los humanos porque han aprendido su lengua,
   mientras que otros como nuestro protagonista, utilizan piedras con símbolos

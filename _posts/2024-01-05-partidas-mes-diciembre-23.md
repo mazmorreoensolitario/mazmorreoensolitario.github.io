@@ -31,7 +31,7 @@ sí que he tenido la oportunidad de pasear el **Trailblazers** —que se ha
 convertido en mi juego de viaje del momento—  por Málaga y Granada (foto arriba
 de esta última ciudad) en una escapada de tres días que hice antes de fin de
 año. Anduve en ambos sitios más de lo esperado, así que nada de jugar al
-**Trailblazers** en el hotel después, sino manta y a dormir.
+**Trailblazers** en el hotel después, si no manta y a dormir.
 
 Tanto Málaga como Granada me gustaron mucho, y aprecié mucho la media hora más
 de luz a la tarde que tienen en comparación con lo que tengo yo aquí en

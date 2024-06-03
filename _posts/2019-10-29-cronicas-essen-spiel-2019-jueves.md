@@ -278,7 +278,7 @@ jugar a [**Maestros del
 Renacimiento**](https://boardgamegeek.com/boardgame/280453/masters-renaissance-lorenzo-il-magnifico-card-game),
  (este juego estaba en la lista de mi [bingo de
  Essen]({{site.baseurl}}/2019/10/05/bingo-essen-spiel-2019/)) y supongo que
- adivinaréis, estaba lleno, pero  no por ese juego, sino por la
+ adivinaréis, estaba lleno, pero  no por ese juego, si no por la
 gente que se había parado a contemplar las ruedas de
 [**Barrage**](https://boardgamegeek.com/boardgame/251247/barrage), que contra
 todo pronóstico, ¡eran lisas! (espero que a los que os ha llegado el juego mal

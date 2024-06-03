@@ -453,7 +453,7 @@ src="https://cf.geekdo-images.com/rfrmVMcyjLwu7bLS4ZKa8Q__imagepage/img/i5hdMlGX
 * **[Ravage: Swamps of
   Delgor](https://boardgamegeek.com/boardgame/294785/ravage-swamps-delgor)** es
   un juego de mazmorreo de 1 a 5 jugadores. En este juego no juegas como los
-  héroes, sino que juegas como orcos, goblins, gnolls y kobolds del clan
+  héroes, si no que juegas como orcos, goblins, gnolls y kobolds del clan
   Blackroot. Tu objetivo es buscar la gloria aplastando las cabezas de tus
   enemigos.
 

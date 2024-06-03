@@ -20,7 +20,7 @@ Os voy a comentar cuáles han sido los cinco **juegos de mesa y rol que más he
 jugado en solitario en este año**.
 
 Para los juegos de mesa he ordenado los juegos por "horas jugadas" (no
-partidas, sino horas totales) según la app de BG Stats, mientras que para los
+partidas, si no horas totales) según la app de BG Stats, mientras que para los
 juegos de rol, el ranking es un poco más a ojo, ya que no apunto las partidas
 de rol en ninguna app (¿igual debería?), sin embargo, sí que tengo para cada
 juego de rol un cuaderno diferente por lo que puedo hacer una pequeña
@@ -185,7 +185,7 @@ año, mientras que otros ya formaban parte de mi colección, vamos a ello:
     europeos, pero por fin en septiembre pude hacerme con este juego (perfecto
     para mis vacaciones) y desde entonces hasta ahora lo he jugado mucho.</p>
         <p>Me alegro muchísimo de que hayan sacado esta versión "de bolsillo"
-    de Gloomhaven porque sino había unas posibilidades muy remotas de que me
+    de Gloomhaven porque si no había unas posibilidades muy remotas de que me
     lanzara a comprar la caja-ataúd que es el Gloomhaven a secas.</p>
         <p>Es un juego que he cogido sin tener casi o ninguna expectativa,
     aunque sí que tenía la idea preconcebida de que iba a ser muy RPG, y para
@@ -247,7 +247,7 @@ año, mientras que otros ya formaban parte de mi colección, vamos a ello:
     facción, por lo que tienes como muchos juegos diferentes en uno según
     elijas jugar con tal facción y otras tales como rivales; también me gusta
     que tengamos varias formas de ganar puntos para llegar a la victoria, no es
-    solo hacer lo que te pide la facción, sino que tiene que ser una mezcla de
+    solo hacer lo que te pide la facción, si no que tiene que ser una mezcla de
     eso, la creación de objetos y posiblemente las batallitas.</p>
     <p>Es un juego con mucha rejugabilidad, muy flexible y divertido. Me llevé
     una grata sorpresa cuando me di cuenta  que las partidas a tres facciones
@@ -298,7 +298,7 @@ año, mientras que otros ya formaban parte de mi colección, vamos a ello:
         cuatros. Haces tus tiradas. Impactas. Ahora el rival intenta salvar las
         tiradas. Como has usado munición explosiva tienes que mirar si te quedas
         recargando o no y así con todo. Tiene muchas reglas "pequeñas", no
-        excepciones, sino reglas pequeñas que tienes que ir sabiendo a medida
+        excepciones, si no reglas pequeñas que tienes que ir sabiendo a medida
         que te encuentras con determinada unidad.</p>
         <p>Este juego ganó el premio a <i>Mejor wargame post-Segunda Guerra
     Mundial, de la Guerra Fría o de un periodo hipotético</i> y fue nominado a
@@ -735,7 +735,7 @@ comento en cada caso cómo va la cosa.
          ganas de que salga la expansión que lo convierte en una experiencia
          menos guiada, digamos que seria el equivalente del "Narrative
          Playbook" de Disciples of Bone & Shadow, no porque lo necesite, porque
-         me lo paso pipa con el juego así, sino porque tengo muchísimas ganas de
+         me lo paso pipa con el juego así, si no porque tengo muchísimas ganas de
          averiguar si este juego que a mí ya me parece genial, puede convertirse
          todavía en algo más genial.</p>
          <p>Ha sido el juego con el que más momentos épicos y más risas me ha

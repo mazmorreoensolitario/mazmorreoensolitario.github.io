@@ -1673,7 +1673,7 @@ Summer](https://boardgamegeek.com/boardgame/249582/dark-summer-normandy-1944))
 aunque no tenga el adjetivo "dark" en el título, ya que todos los juegos son
 del mismo autor, tienen el mismo sistema de chip-pull (muy bueno para jugar en
 solitario), pero este **The Deadly Woods** no ha sido publicado por **GMT
-Games**, como sí han sido el resto, sino que ha venido de la mano de
+Games**, como sí han sido el resto, si no que ha venido de la mano de
 **Revolution Games**, ni idea de cuál fue la razón de esta decisión. Yo quiero
 probar algún juego de esta serie, y el que mejor pinta tenía para mí era este
 **The Deadly Woods**, pero resulta que es el peor valorado de la serie.

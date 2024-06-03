@@ -281,7 +281,7 @@ punto repercuten en el resto de la partida.
 <img src="https://live.staticflickr.com/65535/48986254698_97db7061f1_z.jpg"
 alt="foto-zaar"></p>
 <p align="center"><small>Zaar. El tablero/mantel de zaar. El dibujo de la parte
-inferior no es decorativo, sino que es parte de una mecánica del
+inferior no es decorativo, si no que es parte de una mecánica del
 juego</small></p>
 
 Otra de las curiosidades del día, ya casi a la hora de cerrar, fue

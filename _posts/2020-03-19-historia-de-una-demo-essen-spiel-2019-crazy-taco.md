@@ -158,7 +158,7 @@ directamente.
 <p align="center"><small>Aquí ya hemos cobrado a un cliente y servido una
 bebida a otro. Además, tenemos una tarea de sacar la basura por completar, que
 nos está bloqueando la entrada del almacén. Es necesario que completemos las
-tareas lo antes posible porque sino sufriremos una penalización, en la tarea de
+tareas lo antes posible porque si no sufriremos una penalización, en la tarea de
 la foto, perderíamos 1 punto de prestigio de no completarla a
 tiempo.</small></p>
 
@@ -207,7 +207,7 @@ demás, tenía muchas ganas de jugar a mi ritmo.
 Durante la partida todo empezó muy bien, iba completando los pedidos o mandando
 a los empleados a hacer tareas secundarias poco a poco, pero llegó un momento
 tenso en el que se te acumulan los clientes. En mi caso no por malas tiradas,
-aquí poca mala tirada puede haber, sino porque no salen los dados que necesitas
+aquí poca mala tirada puede haber, si no porque no salen los dados que necesitas
 en cada momento y las tareas que no te importaba hacer al principio, en uno de
 los momentos de overbooking fastidian mucho. Perdí algo de prestigio, pero pude
 comprar más gracias a que había acumulado beneficios, y tras pasar varios

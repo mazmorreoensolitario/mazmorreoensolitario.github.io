@@ -367,11 +367,11 @@ autómata por separado:
 ### Sobre el autómata del juego
 
 Este autómata es algo especial ya que no se comporta siempre igual
-independientemente de cómo estemos jugando, sino que nuestras acciones
+independientemente de cómo estemos jugando, si no que nuestras acciones
 repercuten en el autómata, y hasta cierto punto podemos *controlarlo*.
 
 Pongo ese controlar en cursiva, porque no me estoy refiriendo a que tengamos
-que jugar controlando a dos jugadores en bandos opuestos, sino que dentro de
+que jugar controlando a dos jugadores en bandos opuestos, si no que dentro de
 nuestra estrategia de juego tenemos que tener en cuenta también qué va a
 suceder con el autómata de jugar nuestro turno de cierta manera.
 A mí esto es algo que me gusta, ya que a  diferencia de otros autómatas, por
@@ -395,7 +395,7 @@ agotando el mazo de cartas de Proyecto y forzar que el juego termine y así
 ganar. El autómata irá colocando colonos en ese Edificio, pero podemos calcular 
 hasta qué punto nos interesa seguir esta estrategia.
 
-Esta figura de un autómata que no es estático, sino que repercute activamente 
+Esta figura de un autómata que no es estático, si no que repercute activamente 
 en nuestra estrategia de juego es algo que añade complejidad al juego y que yo
 recibo de forma muy positiva.
 
@@ -428,7 +428,7 @@ hace bastante justicia "It's a heavy weight filler!". Un filler con bastante
 peso, y creo que en solitario funciona mejor (no he jugado con más gente, pero 
 he leído reseñas no en solitario de otras personas). Es un juego que
 tiene bastantes decisiones, lo considero un juego con profundidad estratégica,
-y en el que el autómata no solo empieza fuerte, sino que por como han sido
+y en el que el autómata no solo empieza fuerte, si no que por como han sido
 ponderadas los PVs va a tener siempre ventaja.
 En cada partida, según toquen las cartas vas a poder usar una forma diferente 
 de ganar, ya que hay combinaciones de efectos de cartas bastante variados.

@@ -58,7 +58,7 @@ Y sin más dilación, ¡al lío!
     la lista porque yo tengo el juego <strong><a
     href="https://boardgamegeek.com/boardgame/228412/dark-venture">Dark
     Venture</a></strong>, del mismo autor y dentro del mismo universo (pero no
-    es táctico, sino un juego de aventuras de exploración tipo dungeon
+    es táctico, si no un juego de aventuras de exploración tipo dungeon
     crawler), y me gusta, es tremendamente original, así que me gustaría
     conocer qué tal es esta nueva iteración creativa del autor.
     </p>

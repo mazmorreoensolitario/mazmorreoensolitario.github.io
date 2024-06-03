@@ -52,7 +52,7 @@ No habéis visto este **Dungeons of Doria** en mi lista de [top juegos de 2023
 que me quedé sin
 jugar]({{site.baseurl}}/2023/12/27/tops-juegos-no-jugados-en-2023/) ya que no
 he recibido noticias de que estuviera llegando a los mecenas hasta este mismo
-enero, sino posiblemente hubiese llegado al podio. Ya os hablaré entonces más
+enero, si no posiblemente hubiese llegado al podio. Ya os hablaré entonces más
 del **Dungeons of Doria** cuando me llegue y lo pueda probar.
 
 Pasamos a dar un repaso a lo que he jugado durante el mes.
@@ -158,7 +158,7 @@ aeródromo de Vaernes, pero lo básico son los muros y el suministro.
 
 Esto es algo que me ha sorprendido ya que el elemento gráfico más impactante
 del juego es el mapa, pero la acción del juego no sucede en esa parte del
-tablero, sino en el tablero de los muros, que visualmente es mucho más modesto.
+tablero, si no en el tablero de los muros, que visualmente es mucho más modesto.
 
 Me está gustando mucho ahora que ya controlo dónde está cada cosa, aunque en
 cierto momento puede parecer algo repetitivo ya que como os he dicho intento

@@ -244,7 +244,7 @@ entre semana que no fulmine la cabeza este juego es un buen plan.
 
 El jueguito tiene más chicha de lo que esperaba, no en el sentido de
 complejidad de pararse a pensar las tres siguientes jugadas para maximizar los
-turnos, sino más en el sentido analítico de tratar de elegir el mal menor para
+turnos, si no más en el sentido analítico de tratar de elegir el mal menor para
 que la bot no la líe parda y te robe una zona que necesitas, y también porque
 hay que acordarse de muchas cosas ya que los combos se van sumando. Estos
 combos se acumulan y te dan diferentes posibilidades o formas extra de ganar
@@ -261,7 +261,7 @@ acción de regar en todas las secciones del jardín) para no desperdiciar esa
 acción.
 
 En general **Three Sisters** no es un roll & write en el que vas como pollo sin
-cabeza a lo que te dicen los dados, sino que algo de planificación hay que
+cabeza a lo que te dicen los dados, si no que algo de planificación hay que
 tener y *tienes* que utilizar las mitigaciones que te da el juego (por ejemplo el
 *compost* para hacer el +/-1 en el resultado del dado) si quieres conseguir una
 puntuación digna.

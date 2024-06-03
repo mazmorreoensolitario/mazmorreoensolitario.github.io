@@ -232,7 +232,7 @@ en un determinado turno la iniciativa puede ser de un bando u otro, lo que le
 hace comenzar a mover antes, pero luego el otro bando tiene pequeñas
 mini-secuencias de reacción donde puede hacer movimiento, o incluso atacar, lo
 que te obliga a pensar más allá, no solo en si te conviene atacar y
-posiblemente avanzar, sino cómo va a reaccionar el enemigo y qué debes hacer tú
+posiblemente avanzar, si no cómo va a reaccionar el enemigo y qué debes hacer tú
 antes para proteger tus posiciones. Es más dinámico, se asemeja más a lo que yo
 pienso que sería un combate real, y está muy bien hecho.
 
@@ -328,7 +328,7 @@ terriblemente grande.
 
 En juegos de rol estoy viendo la saturación de tener muchas cosas por probar y
 poco tiempo y eso me agobia y al final no hago ni una cosa ni otra. Por eso no
-está bien lanzarse a las novedades sino comprar responsablemente poco a poco
+está bien lanzarse a las novedades si no comprar responsablemente poco a poco
 según vas jugando (*note to self*).
 
 Pero, ¡eh! en septiembre ha llegado **Dirt RPG**, una zine de Zine Quest

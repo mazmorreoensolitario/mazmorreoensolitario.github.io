@@ -261,7 +261,7 @@ saquear al jugador virtual, de las siguientes formas:
    variadas y eligiéndolas bien podremos suplir las lacras de producción o de
    mantenimiento de nuestro imperio.
 
-4. **Trueque.** (Esto no es una acción en sí, sino una regla sobre el uso de
+4. **Trueque.** (Esto no es una acción en sí, si no una regla sobre el uso de
    recursos, Trabajadores y Oro, pero queda bien en esta sección.) Se pueden
    intercambiar dos Trabajadores por un recurso (Comida, Madera o Piedra), y se
    puede comprar un recurso (Comida, Madera o Piedra) a cambio de un Oro.
@@ -334,7 +334,7 @@ los siguientes pasos:
    último recurso objetivo de la carta de ataque más reciente (en este caso
    PV). Si no tenemos ninguna carta, este ataque es frustrado (si es el primer
    ataque tendremos que seguir con el segundo, empezando otra vez por el paso
-   1, sino la fase de ataque ha terminado).
+   1, si no la fase de ataque ha terminado).
    
    <p align="center"><img src="https://farm8.staticflickr.com/7885/39802352083_8d76156e49_c.jpg"></p>
    <p align="center"><small>Ejemplo del inicio de la Fase de ataque. El rival
@@ -377,7 +377,7 @@ los siguientes pasos:
 
 4. Las dos cartas que se han usado para efectuar el ataque se colocan en la
    parte baja de la pila. Si este es el primer ataque se vuelve a empezar desde
-   el paso 1, sino el la Fase de ataque del rival virtual termina.  
+   el paso 1, si no el la Fase de ataque del rival virtual termina.  
    
 
 <p align="center"><img src="https://farm8.staticflickr.com/7856/31826151127_d68d8e9c9e_c.jpg"></p>

@@ -238,7 +238,7 @@ imprimir a una cara en seis hojas A4 y no necesitamos nada más para jugar.
 
 Sprawlopolis es un juego muy majo que parece que no tiene nada pero es difícil
 de ganar, hay que tener siempre en mente las formas en las que se puntúa en la
-partida porque sino vas a perder puntos por todos los lados.
+partida porque si no vas a perder puntos por todos los lados.
 
 Me gusta mucho que sea tan pequeño, que tenga tantas combinaciones diferentes
 para puntuar y que no necesitemos ningún accesorio más para jugar.

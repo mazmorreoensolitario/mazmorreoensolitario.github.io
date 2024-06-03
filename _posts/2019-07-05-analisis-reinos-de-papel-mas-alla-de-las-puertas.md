@@ -430,7 +430,7 @@ los roles, los edificios son menos y el motor del juego pasa a las unidades;
 el juego nos presenta pequeños "flashes de gestión" que se producen en cada
 ronda, y nosotros tratamos de gestionar el reino lo mejor que podemos durante
 este flash. Además, resulta que el mayor peso para crear el "motor" de nuestro
-reino, no está en los edificios, sino en las unidades. Las unidades son
+reino, no está en los edificios, si no en las unidades. Las unidades son
 mortales, por lo que no duran tanto y consecuentemente, nuestro "motor" está
 igualmente condenado. 
 
@@ -443,7 +443,7 @@ duraderas para tener esa sensación de compromiso con la partida.
 
 Por otro lado, el juego tiene un poco de todo y la estructura de la ronda me
 gusta mucho, no es un juego que esté centrado en las guerras, esto no es
-"Guerras de papel", sino que todo el ecosistema de la ronda gira en torno a el
+"Guerras de papel", si no que todo el ecosistema de la ronda gira en torno a el
 concepto de "gestión de tu reino" (como bien dice el título del juego) (creo que
 es la primera "licencia" de traducción Inglés - Español que me parece
 un completo acierto, recordemos que en inglés el juego es *Paper Tales*, algo

@@ -114,7 +114,7 @@ se han puesto a la venta copias tanto en físico como en PDF.
 
 Estas zines **tienen previsto tener más entregas** en las que el autor irá
 sacando a la venta el contenido que vaya produciendo para su Patreon; así pues,
-la periodicidad no será constante, sino que dependerá del contenido que el
+la periodicidad no será constante, si no que dependerá del contenido que el
 autor haya producido para su Patreon.
 
 ## En detalle
@@ -245,7 +245,7 @@ contexto, luego pasamos a los créditos y ¡comienza el contenido!
   del trasfondo que le rodea haciendo tiradas en tablas.
   
   Con esta nueva forma de crear personajes no distribuyes los puntos en los
-  atributos tú, sino que vas tirando en cuatro tablas d10 ó d20 que van
+  atributos tú, si no que vas tirando en cuatro tablas d10 ó d20 que van
   definiendo quién es tu personaje y porqué es así. Tienen tanto los "datos
   numéricos" que necesitas para rellenar tu ficha de personaje, como un pequeño
   parrafito en cada entrada de las tablas sobre la historia que tendrías si te
@@ -295,7 +295,7 @@ contexto, luego pasamos a los créditos y ¡comienza el contenido!
   podremos adquirir si cumplimos con los requisitos de cada uno.
   
   Si os habéis fijado, se dedican 12 caras a la descripción de esos arquetipos,
-  porque no son solamente la descripción del arquetipo y ya está, sino no se
+  porque no son solamente la descripción del arquetipo y ya está, si no no se
   necesitaría tanto espacio; es que hay algunas condiciones especiales que
   debemos cumplir para poder desbloquear el arquetipo. En el caso de *Hallowed*
   necesitamos *Taints* (punto 2 de esta zine); el *Vindicator* necesita haberse

@@ -265,7 +265,7 @@ cosas que nos pueden suceder en Mothership**, porque como los fallemos
 algo medio bueno, malo, muy malo o malísimo va a pasarnos. Este checkeo
 tiene dos partes, primero hacemos un checkeo de estrés haciendo una tirada
 de 2d10. Si el resultado es mayor que nuestro nivel de estrés, habremos
-superado el  checkeo de pánico, sino pasamos a la segunda parte. En la
+superado el  checkeo de pánico, si no pasamos a la segunda parte. En la
 segunda parte es cuando se empiezan a acumular las cosas malas, haremos
 una tirada de 2d10 y sumamos nuestro nivel de estrés, que nos dará un
 valor de 2 a +30, y comprobamos qué nos pasa en la **tabla de Efectos de
@@ -510,7 +510,7 @@ si la fallamos perderemos este turno y los enemigos actuarán.
 Si no hemos sido sorprendidos o hemos superado la salvada de Miedo en caso de
 sorpresa, tendremos que averiguar el **orden de actuación**, cada miembro del
 equipo hace un **checkeo de velocidad**, si lo supera actúa antes que los
-enemigos, sino actuará después. En este checkeo ciertas habilidades de los
+enemigos, si no actuará después. En este checkeo ciertas habilidades de los
 personajes, como la habilidad de Tácticas y Mando dan bonos de velocidad.
 
 Una vez determinado el orden de actuación los personajes pueden efectuar **dos
@@ -671,7 +671,7 @@ lo mejor merece un puntito de experiencia por haber conseguido hacerse con la
 
 Sobre las naves. Crear naves me resulta extremadamente aburrido y es por ello
 que siempre recurro a la tabla de naves pregeneradas, la aprecio mucho. En esta
-tabla no hay naves completas ya hechas, sino que te lista el número de módulos y
+tabla no hay naves completas ya hechas, si no que te lista el número de módulos y
 casco mínimo-máximo que puede tener, teniendo eso me resulta muy sencillo
 calcular las estadísticas de la nave y elegir armas al azar en base a la tabla
 de armas. 

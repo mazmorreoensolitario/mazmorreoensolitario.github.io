@@ -294,7 +294,7 @@ exploración, te da muchas horas de juego ya que hay muchos caminos que recorrer
 y no todos están disponibles en cada partida. Algunas elecciones  dependen del
 azar, mientras que otras son cosa tuya. Cuando has hecho varias partidas que
 llegan a un final determinado vas aprendiendo ciertas cosas del mundo, es mejor
-hacer esto aquí, necesito pillar tal cosa porque sino si llego aquí lo llevo
+hacer esto aquí, necesito pillar tal cosa porque si no si llego aquí lo llevo
 crudo, o voy a probar esto en vez de esto otro para ver si consigo saltarme
 esto, o no voy a elegir esta opción porque es un final malo... hay muchos
 caminos y decisiones que tomar.
@@ -308,7 +308,7 @@ elijáis lo que vosotros creéis que es "el camino bueno" en las opciones libres
 queda mucho de la mano del azar, y consecuentemente el juego os llevará por
 sitios que no os esperáis. En este sentido, el juego utiliza unos mecanismos
 muy buenos para que no tengáis todas las opciones disponibles en todas vuestras
-partidas, sino que el árbol de decisiones muta en cada partida y tendréis
+partidas, si no que el árbol de decisiones muta en cada partida y tendréis
 solamente un subconjunto del total disponible. Así cuesta un poco más exprimir
 el contenido del juego.
 
@@ -319,7 +319,7 @@ intentar llegar al final del juego y que la salud se recupere al final de cada
 combate debería daros alguna pista sobre la letalidad de los combates. En
 alguna partida se me han muerto 2 ó 3 personajes contra el primer enemigo, así
 felizmente. No es que los combates sean difíciles, al final todo depende del
-azar, sino que tenemos una mini gestión de recursos super mega ultra importante
+azar, si no que tenemos una mini gestión de recursos super mega ultra importante
 en los combates. En la sección de mecánicas os lo he explicado un poco, para
 hacer acciones tenéis que gastar *puntos de vida*, y claro, los puntos de vida
 son eso, HP, puntos de vida. Si te quedas sin puntos de vida tu personaje

@@ -231,7 +231,7 @@ reino te quedes ya fuera de la colocación de fichas porque estás pidiendo algo
 lógicamente imposible.
 
 Esto me lleva a que es un juego al que, obviamente podéis ganar con suerte,
-pero sino requiere dedicarle algo de tiempo, obtener cierto conocimiento de las
+pero si no requiere dedicarle algo de tiempo, obtener cierto conocimiento de las
 cartas y pensar en varias estrategias para que no te quedes fuera en el primer
 puzle. Y esto es interesante.
 

@@ -350,7 +350,7 @@ tiempo o compras muy seguras que haré en 2020:
          Marquise 2.0 (versión mejorada del bot que viene en los Ribereños),
          Electric Eyrie, Automatic Alliance y el Vagabot. Así podremos
          aprovechar todas las facciones de la caja base y no estamos limitados
-         a jugar una partida de 2 jugadores en modo solitario, sino que
+         a jugar una partida de 2 jugadores en modo solitario, si no que
          podremos hacer partidas en solitario más largas añadiendo más
          facciones.</p> 
          <p>The Clockwork Expansion nace de un fan de Root, que queriendo jugar
@@ -435,7 +435,7 @@ Y el juego **más deseado de 2019 que me queda por jugar es:**
 <br>
 
 Y aquí termina mi top, no voy a hacer accésits porque entonces esto ya no sería
-un top 10 sino mi lista del vicio de 2019.
+un top 10 si no mi lista del vicio de 2019.
 
 ¡Os deseo unas felices fiestas y un buen año 2020!
 

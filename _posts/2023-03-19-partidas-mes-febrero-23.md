@@ -265,7 +265,7 @@ aquí]({{site.baseurl}}/2020/12/23/general-lo-mas-jugado-2020/)) y
 no me fue muy bien; pero sí quiero aprovechar las tablas de encuentros y las
 "cosas" que hay dentro de la mazmorra, pero tratando de hacerlo mas
 aleatorio. Estoy conservando el layout de la mazmorra, pero las habitaciones no
-van a tener exáctamente lo que tenga la zine, sino que los oráculos utilizan el
+van a tener exáctamente lo que tenga la zine, si no que los oráculos utilizan el
 contenido de la zine como tablas aleatorias. Ya lo veréis en el play-report.
 
 ## El juego del mes

@@ -466,7 +466,7 @@ solitario.**
             <strong>¡Medalla de oro!</strong></div>
          <p><strong>Forbidden Lands</strong> es un juego de rol de mundo abierto
     centrado en la supervivencia. No juegas como héroes o aventureros mandados
-    a hacer misiones por otras gentes, sino que juegas como pícaros y
+    a hacer misiones por otras gentes, si no que juegas como pícaros y
     saqueadores tratando de marcar la diferencia en un mundo
     maldito. Descubrirás tumbas perdidas, lucharás contra monstruos terribles y
     deambularás por las tierras salvajes. Si vives lo suficiente podrás

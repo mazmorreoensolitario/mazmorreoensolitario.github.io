@@ -315,7 +315,7 @@ el icono de estrella)</small></p>
 * En las localizaciones de estación de *radio* podemos conseguir o un recurso de
   información o bien pedir suministros por entrega de paracaídas, a elegir
   entre 1 de dinero, 3 de comida ó 1 arma. En la entrega por paracaídas, no
-  conseguimos los recursos directamente, sino que aparecen en un *campo* (field)
+  conseguimos los recursos directamente, si no que aparecen en un *campo* (field)
   cualquiera libre y tendremos que mover a un maqui a esa localización **en un
   turno posterior** para que recoja los recursos.
   
@@ -372,7 +372,7 @@ En este juego tenemos que construir bastantes elementos antes de poder jugar:
 Aunque no necesitamos añadir material adicional, esta edición el print & play
 es algo compleja ya que tiene muchos elementos de diversos tamaños y formas que
 hay que preparar para jugar. No es un juego que vayáis a poder imprimir y jugar
-directamente, sino que igual necesitáis una tarde, o algo menos de tiempo, 
+directamente, si no que igual necesitáis una tarde, o algo menos de tiempo, 
 depende de cómo de bien queráis hacer la edición print & play, para poder
 jugar. 
 

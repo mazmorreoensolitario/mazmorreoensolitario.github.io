@@ -320,7 +320,7 @@ que también tienen sus razones para buscar los fragmentos y la novela nos narra
 lo que pasa.
 
 Como os he dicho, es el libro que tiene la premisa más épica: "busca y destruye
-los trozos porque sino el sistema solar to da shit", pero a la vez la forma de
+los trozos porque si no el sistema solar to da shit", pero a la vez la forma de
 presentar el problema es muy graciosa de lo absurdo que es, y la trama, hasta
 donde os puedo contar para evitar spoilers, no tiene unas magnitudes súper
 épicas, pero la forma de narrar la acción hace que se convierta en algo épico y
@@ -489,7 +489,7 @@ en septiembre de 2022.
 (Pasé de escribir el resumen de este libro cuando lo terminé porque quería
 quitármelo de la cabeza y ahora en diciembre hago lo que puedo con el
 resumen. Nota mental: aunque no te guste el libro es mejor escribir el
-mini-resumen antes que sino sufres más.)
+mini-resumen antes que si no sufres más.)
 
 Voy a empezar diciendo que este libro me pareció un peñazo, parece que va bien
 la cosa, hay un par de hermanas que llegan a la ciudad de no-sé-donde que se
@@ -544,7 +544,7 @@ Crown 2020. Terminado en diciembre de 2022.
 *The Space Between Worlds* parecía que iba a ser un libro de aventuras en el
 multiverso, y eso ha sido, con complicaciones entre medias que ha hecho que la
 lectura se hiciera un poco densa hasta casi la mitad, no porque haya mucho lío
-técnico entre los viajes entre Tierras del multiverso, sino porque se centra en
+técnico entre los viajes entre Tierras del multiverso, si no porque se centra en
 muy pocos personajes que cada uno es bastante diferente en cada una de las
 Tierras del multiverso, y juega con eso, así que si no lo pillas desde el
 principio mal. Pero luego cuando lo pillas bien, sin sorpresas para nadie.

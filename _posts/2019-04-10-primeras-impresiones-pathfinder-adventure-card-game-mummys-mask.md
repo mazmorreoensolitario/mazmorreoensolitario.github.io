@@ -191,7 +191,7 @@ comparables en todo entre sí**, es decir, no deberíais extrapolar la opinión 
 se ha dado al Auge de los Señores de las Runas, Skull & Shackles ni a Wrath
 of the Righteous a Mummy's Mask, porque si hay algo en lo que Mummy's Mask
 destaca, es que hay muy pocos escenarios *estándar* en los que hay que cerrar
-localizaciones y ya está, sino que generalmente hay varias reglas extra que no
+localizaciones y ya está, si no que generalmente hay varias reglas extra que no
 hacen esto tan directo. Además, se introducen maldiciones, mercaderes y una
 nueva mecánica de *trigger* (desencadenar) en las cartas, que como su nombre
 indica hace que se desencadenen efectos que provocan una bola de nieve. Pero

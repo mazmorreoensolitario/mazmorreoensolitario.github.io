@@ -200,7 +200,7 @@ vendan, por ejemplo), sin embargo él dice que aún así también paga a sus
 ilustradores y (cito) *"hemos pagado cientos de miles de dólares para que las
 ilustraciones se hagan por una persona* [las ilustraciones de su próximo juego
 de temática Vikinga],<i> y encima no han sido hechas por un mero ilustrador
-de Europa del este o asiático, sino realmente por un ilustrador occidental, una
+de Europa del este o asiático, si no realmente por un ilustrador occidental, una
 persona viviendo en el mundo occidental haciendo todas esas ilustraciones, eso
 es locamente caro"</i>.
 

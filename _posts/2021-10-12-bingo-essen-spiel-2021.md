@@ -202,7 +202,7 @@ probarlos:
     atractivo del producto.</p>
          <p><strong>¿Por qué me interesa este juego?</strong> Tiene más cosas,
     pero como os he comentado, lo he mirado por encima. Me interesa mucho
-    porque es compacto, tiene mucha complejidad (no de reglas, sino sobre el
+    porque es compacto, tiene mucha complejidad (no de reglas, si no sobre el
     número de decisiones a tomar) y tiene un precio bastante reducido.</p>
          <p>¿Por qué no está en tu top entonces? Porque es un juego que salió
     mediante Kickstarter y casualmente llega en época de la Spiel, pero no
@@ -357,7 +357,7 @@ probarlos:
     ciudad, podremos tomar la acción que muestra o repoblar esa zona de la
     ciudad si tenemos el precio en recursos requerido. En estos hexágonos
     también puede haber ciudadanos, que directamente rescatamos. Si había plaga
-    en el hexágono, deberemos llevarlo a la cuarentena, y sino podremos
+    en el hexágono, deberemos llevarlo a la cuarentena, y si no podremos
     añadirlo en nuestro tablero de jugador, que tiene una especie de árbol con
     diferentes ramas de acciones donde colocar al ciudadano en base a su tipo
     (monja, aristócrata y artesano). Este tablero de jugador nos permite tomar
@@ -430,7 +430,7 @@ quedaría sin probar (y posiblemente comprar) de este año:
     muchos elementos tipo sandbox y que para cambiar no tiene un tema espacial
     (aunque ya sabéis que <a
     href="{{site.baseurl}}/2021/05/16/listas-5-juegos-del-espacio/">me gustan
-    mucho</a>), sino más histórico.</p>
+    mucho</a>), si no más histórico.</p>
     <p>Tiene muchos tipos de edificios, formas de crear palacios y capitales,
     tenemos producción y gestión de recursos y podemos conquistar edificios de
     otros jugadores, la descripción de todo eso ya hace que me interese

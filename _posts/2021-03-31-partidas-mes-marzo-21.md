@@ -126,7 +126,7 @@ que jugar partidas sin ton ni son, así que win-win.
 
 Expansiópolis es un juego fantástico, pero para mí requiere ese impulso de
 "tener un reto" para jugarlo, en este caso pasarse una serie de combinaciones,
-porque sino no lo jugaría tanto, o no lo jugaría. 
+porque si no no lo jugaría tanto, o no lo jugaría. 
 
 #### Faiyum
 
@@ -216,7 +216,7 @@ Las partidas de este mes a
 convencerme que definitivamente no aguanto al bot **Electric Eyrie** de [The
 Clockwork](https://boardgamegeek.com/boardgame/287220/root-clockwork-expansion).
 Y no por una cosa buena, que sería que el bot molesta y cumple con su cometido
-y no lo aguanto porque es buen jugador virtual, sino porque gestionar a ese bot
+y no lo aguanto porque es buen jugador virtual, si no porque gestionar a ese bot
 en concreto es un muermazo. Tienes que repetir lo mismo tantas veces como
 diferentes tipos de palos de cartas en el decreto, y si encima te va ganando,
 como que lo llevas peor.
@@ -391,7 +391,7 @@ llegue la copia en físico, y la verdad es que no sé muy bien que sistema
 utilizar para jugarla. Recomiendan DCC, Knave, OSE, White Hack, Pathfinder ó
 Black Hack, y la verdad es que si es ligera, cualquier cosa pegaría bastante
 bien. Para juegos con un sistema más tostón, estilo Pathfinder, yo solo jugaría
-a The Vast in The Dark si ya tuviera una campaña en marcha, sino ya me está
+a The Vast in The Dark si ya tuviera una campaña en marcha, si no ya me está
 dando pereza solo de pensar en hacer las fichas de personajes....
 
 La zine en si tiene muy buena pinta, está llena de contenido, sabe describir el
@@ -436,7 +436,7 @@ que los aventureros entren en nuestra mazmorra  para intentar masacrarnos.
 
 Así contado parece fácil, pero como es un juego basado en el sistema **Forged in
 the Dark** hay bastantes reglas que se interconectan para tejer la totalidad del
-sistema; no es que sea complicado, sino que (hasta donde yo he leído) hay
+sistema; no es que sea complicado, si no que (hasta donde yo he leído) hay
 mucho. Por eso hay que ir tomando notas, cosa que aprendí leyendo [Blades in the
 Dark]({{site.baseurl}}/etiqueta/blades-in-the-dark/).
 

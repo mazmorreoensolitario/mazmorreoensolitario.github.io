@@ -295,7 +295,7 @@ entrada.
     cartas con las que puedes conseguir diferentes combos.</p>
         <p><strong>Comentario.</strong> Llevo jugando mucho a este juego
     últimamente, se cumple lo que os había comentado en Excavation Earth,
-    cuando Turczi no es el autor principal, sino el desarrollador del modo en
+    cuando Turczi no es el autor principal, si no el desarrollador del modo en
     solitario no tengo problemas con el juego. Espero traeros las primeras
     impresiones de este juego durante este mes, me quedan un par de
     civilizaciones que probar.</p>

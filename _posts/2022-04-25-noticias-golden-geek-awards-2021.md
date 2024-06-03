@@ -725,7 +725,7 @@ de David Thompson, y publicado por <strong>Dan Versen Games</strong>, es un warg
     href="https://boardgamegeek.com/boardgamefamily/64803/series-valiant-defense-dvg">Valiant
     Defense</a> de DVG, a mí me gustaría más probar el primero de la serie <a
     href="https://boardgamegeek.com/boardgame/219101/pavlovs-house">Pavlov's
-    House</a> o ya sino el siguiente, <a
+    House</a> o ya si no el siguiente, <a
     href="https://boardgamegeek.com/boardgame/352483/lanzerath-ridge">Lanzerath
     Ridge</a>, que saldrá este año y es parte de la batalla de las Ardenas.</p>
     </div>
@@ -893,7 +893,7 @@ de David Thompson y Trevor Nemjamin, y publicado por <strong>Osprey
     (que estuvo de saldo por veintipocos euros, y la expansión esta del
     solitario llega a 40€). Sigo con la espina clavada. Si veo el juego base y
     la expansión a buen precio o de segunda mano me 
-    lanzaría, sino no creo que lo juegue.</p>
+    lanzaría, si no no creo que lo juegue.</p>
     </div>
 </div>
 
@@ -1759,7 +1759,7 @@ porque son medios bajo mi punto de vista.
 Que el modo en solitario de **Imperial Steam** esté en desarrollo ha sido una
 grata sorpresa, ya que este año tenía en la cabeza probar algún juego económico
 de trenes, tenía en la cabeza el **Mini Express** que va traducir Delirium
-Games próximamente, o sino iba a pasarme directamente al único 18XX con modo
+Games próximamente, o si no iba a pasarme directamente al único 18XX con modo
 solitario que tiene GMT Games: **1862: Railway Mania in the Eastern Counties**,
 así que me alegra ver que **Imperial Steam** es la tercera alternativa. Que
 nadie se lleve las manos en la cabeza si estoy mezclando mucho las mecánicas o

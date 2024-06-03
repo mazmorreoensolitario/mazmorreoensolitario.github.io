@@ -198,7 +198,7 @@ Finalmente, el juego tiene una forma muy interesante de gestionar el tiempo
 los personajes** y a medida que vayamos consumiendo turnos **la exploración se
 hará mucho más difícil** ya que el número de enemigos que tengamos en caso de
 encuentro aumentará, por tanto, en este juego no vale con probar todos los
-caminos posibles y ya está, sino que tendremos que pensar bien nuestras
+caminos posibles y ya está, si no que tendremos que pensar bien nuestras
 acciones, tratar de encontrar pistas en las ilustraciones o en la trama y así
 conseguir superar la misión antes de que sea demasiado tarde. Además, creo
 recordar que el número de cartas que puedes tener en mano también varía en base
@@ -290,7 +290,7 @@ bien hecho, el juego estaría roto, pero no es el caso.
 Pasé verdaderos apuros en los combates, ya que no creo que ese fuera el punto
 fuerte de mi personaje y estaba empezando a preocuparme cuando robé la carta de
 invisibilidad, y ahí ya encajó todo; mi personaje, como sospechaba, no era de
-fuerza y de romper todo a base de un espadazo, sino que premiaba el
+fuerza y de romper todo a base de un espadazo, si no que premiaba el
 sigilo. Esto me dio verdaderas ganas de probar el resto de personajes para
 saber que estilo de juego tenían, ya que aunque con Itziar pude explorar
 relativamente bastante evitando algunos combates, con otros personajes podría

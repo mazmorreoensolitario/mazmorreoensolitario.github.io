@@ -218,7 +218,7 @@ ya que no he podido actualizarlo todo.
 Estoy llegando a un punto en la campaña en la que tengo muchas misiones
 secundarias y cosas extra que investigar, y menos mal que estoy apuntando todas
 esas cosas de forma más o menos ordenada (para eso también ayuda pasar los
-play-reports a ordenador para el otro blog), porque sino sería mucho lío.
+play-reports a ordenador para el otro blog), porque si no sería mucho lío.
 
 Diciples of Bone & Shadow me gusta mucho, tiene un mundo fantástico y aunque en
 general prefiero ambientaciones más futuristas con este juego estoy muy agusto
@@ -244,7 +244,7 @@ fecha, y me ha encantado especialmente cómo gestiona la magia
 ambientación, así que la magia tiene que ser lo suficientemente versátil para
 que puedas utilizarla en cualquier cosa, siempre que pegue. Así que tiene un
 sistema igual de original; no tiene una lista de hechizos por nivel con su
-descripción de qué hace cada hechizo detalladamente, sino que tiene un sistema
+descripción de qué hace cada hechizo detalladamente, si no que tiene un sistema
 para *crear magia*.
 
 Los efectos de cada tipo de magia dependen de cómo llames a

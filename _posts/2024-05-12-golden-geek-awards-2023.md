@@ -1144,7 +1144,7 @@ de Matt Eklund, y publicado por <strong>Ion Game Design</strong>
     que todos podemos entender independiente de nuestra ideología ya que
     formamos parte del mismo hobby de los juegos de mesa, es que una editorial
     <i>traductora</i> no trate de traducir el juego lo más fielmente posible a
-    la obra original, sino que lo haga como mejor les parezca. Como consumidora
+    la obra original, si no que lo haga como mejor les parezca. Como consumidora
     de juegos de mesa, espero que se traduzca <i>todo</i> el contenido de los
     juegos que compro ¡faltaría más!, y que se respete la obra original. Es una
     desfachatez exigir menos de cualquier trabajo de <i>traducción</i>. Por eso

@@ -133,7 +133,7 @@ yo también tengo ganas de probar.
 luego vas a ver siempre todas las cartas en la partida, lo que me gusta del
 juego es el desarrollo tipo *sandbox* que parece darte y el comprobar qué tal
 lo he ido haciendo partida a partida, no es un juego en el que "resuelvas" la
-partida y ganes o pierdas, sino que se centra más en el proceso y la gestión.
+partida y ganes o pierdas, si no que se centra más en el proceso y la gestión.
 
 ### [Gaia Project](https://zacatrus.es/gaia-project.html#u97)
 
@@ -153,9 +153,9 @@ src="https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__imagepage/img/l0fffSKu
 
 Últimamente los únicos juegos "largos" que juego son wargames, y me he dado
 cuenta de que he dejado los euros de más de dos horas un poco apartados, no
-porque no me gusten, sino porque mi tendencia se ha acercado a los juegos de 1h
+porque no me gusten, si no porque mi tendencia se ha acercado a los juegos de 1h
 como máximo últimamente. Tras jugar a **Gaia Project** otra vez, que resulta
-que no es un juego de dos horas para mí, sino de hora y media, creo que puedo
+que no es un juego de dos horas para mí, si no de hora y media, creo que puedo
 romper esa tendencia y volver a jugar a un poco de todo otra vez, ya veremos.
 
 Recomendadísimo el **Gaia Project**, peco de no jugarlo mucho pero creo que es

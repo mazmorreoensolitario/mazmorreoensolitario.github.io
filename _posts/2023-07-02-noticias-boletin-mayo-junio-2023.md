@@ -179,7 +179,7 @@ src="https://cf.geekdo-images.com/BHDzfGC4Mbsb3yUoWzl9ww__imagepage/img/DuxEeMUh
 **[Challengers!](https://boardgamegeek.com/boardgame/359970/challengers)**, se
 trata de **[Challengers!
 2](https://boardgamegeek.com/boardgame/390340/challengers-2)**, que no es una
-expansión, sino otro juego autojugable que puede mezclarse con el contenido del
+expansión, si no otro juego autojugable que puede mezclarse con el contenido del
 primer Challengers.
 
 **Challengers! 2** se espera para la **SPIEL '23**.

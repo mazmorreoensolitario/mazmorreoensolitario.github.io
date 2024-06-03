@@ -113,7 +113,7 @@ bien pagar en titanio.
 El punto principal de Terraforming Mars es crear un motor de cartas, que
 alimentado ingeniosamente a cada turno y con los efectos únicos de vuestra
 corporación podrá despegar para conseguir terraformar Marte en menos de 14
-turnos... o sino os tocará intentarlo otra vez en la siguiente partida.
+turnos... o si no os tocará intentarlo otra vez en la siguiente partida.
 
 **¡Vamos a prepararnos para un juego de Mazmorreo en solitario!**
 
@@ -215,7 +215,7 @@ lecturas, los aclaro aquí:
   
   Para saber a qué se refiere cada cubo solo tenemos que mirar en qué parte del
   tablero del jugador se encuentra colocado. Si se encuentra en el espacio de
-  megacréditos, representará megacréditos, sino unidades de un recurso.
+  megacréditos, representará megacréditos, si no unidades de un recurso.
   
 * **Valor de terraformación / contador de generación (ronda).** El tablero de
   Terraforming Mars está rodeado de números que van del 1 al 100 y sirven para
@@ -415,7 +415,7 @@ concuerda con el tema científico que emana el juego.
 Las fotos y las imágenes digitales creadas para las cartas a mí, en contra de
 la mayoría de las corrientes populares, me gustan. Creo que Terraforming Mars
 trata sobre un tema muy práctico, que es hacer Marte habitable, y para que nos
-metamos en el juego no necesitamos ilustraciones fantasiosas, sino algo que lo
+metamos en el juego no necesitamos ilustraciones fantasiosas, si no algo que lo
 haga lo más creíble posible; creo que utilizar fotos reales es la mejor opción
 ya que ayuda a vernos a nosotros mismos como parte de la humanidad futura en
 este esfuerzo colosal que sería terraformar un planeta. Si usamos imágenes de
@@ -443,7 +443,7 @@ inicio de esta sección es un ejemplo de una sorpresa que tuve en una partida
 reciente, una carta que nunca antes me había tocado y que era buenísima.
 
 Hay incluso cartas que no están relacionadas con conseguir los objetivos que te
-dan la victoria, sino con conseguir más puntos y hacer que tu motor de cartas
+dan la victoria, si no con conseguir más puntos y hacer que tu motor de cartas
 produzca puntos de terraformación. Esto implica que vas a tener mucho juego en
 Terraforming Mars, una vez que ganes de forma habitual, que no es tarea fácil,
 hay que estar al loro y jugar de forma eficiente, podrás subir tu nivel de

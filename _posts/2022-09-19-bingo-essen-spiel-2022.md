@@ -312,7 +312,7 @@ Jaws of the Lion</a> en 2020), pero luego <a
          <p><strong>Un pequeño vistazo.</strong> En <strong>Aleph Null</strong>
     tratamos de deshacernos de las cartas de nuestro mazo para tratar de
     quedarnos con las tres cartas clave que nos permiten invocar a
-    Baphomet. Las cartas del mazo no pueden usarse directamente, sino que hay
+    Baphomet. Las cartas del mazo no pueden usarse directamente, si no que hay
     que invocarlas pagando un coste de Poder Mágico para ponerlas en juego. Una
     vez que han sido invocadas podemos usar los diferentes efectos que esta 
     nos diga cuando apliquemos la mecánica que nos diga la carta (la

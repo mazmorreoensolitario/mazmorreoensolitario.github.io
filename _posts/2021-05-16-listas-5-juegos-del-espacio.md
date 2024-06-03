@@ -69,7 +69,7 @@ Aquí está mi selección:
     <i>reactors</i> y <i>radiators</i> son elementos secundarios que pueden ser
     necesarios para que un thruster, robonaut o refinery funcione.</p>
     <p>Una vez hayamos creado nuestro cohete, que posiblemente llevará algún
-    robonaut o refinery para hacer algo en el mapa, sino sería un cohete sin
+    robonaut o refinery para hacer algo en el mapa, si no sería un cohete sin
     sentido, calcularemos su peso (solamente es sumar los números de las cartas
     que lo formen) y lo llenaremos de tanques de combustible. Cada tipo de
     cohete consumirá combustible de diferente forma y esto es algo que
@@ -102,7 +102,7 @@ Aquí está mi selección:
     gestionar un peligro (por ejemplo una rotación muy rápida), o ver si
     tenemos suficiente aislamiento contra la radiación. Esos son los símbolos
     principales. Fácil y sencillo.</p>
-    <p>Lo "duro" de High Frontier no son las reglas en sí, sino que hay que
+    <p>Lo "duro" de High Frontier no son las reglas en sí, si no que hay que
     hacer algo de planificación antes de salir al espacio, tenemos que pensar
     de antemano qué ruta vamos a tomar para llegar a tal sitio, cuánto
     combustible vamos a necesitar, en cuántos turnos vamos a llegar, si podemos
@@ -162,7 +162,7 @@ Aquí está mi selección:
     las personas que hayan estudiado aeronáutica y/o astrofísica). A mí me
     encanta y es un juego en el que a veces no haces las mejores elecciones
     desde el punto de vista de que es un juego y hay puntos, y puedes perder,
-    sino que en tal partida te apetece ir a Júpiter, porque nunca has estado y
+    si no que en tal partida te apetece ir a Júpiter, porque nunca has estado y
     quieres ir ahí porque mola y punto. En mi primera partida cuando llegó el
     juego por KS me obcequé con ir a Marte, que es algo extremadamente poco
     interesante en relación puntos/coste de combustible, pero oye, yo quería ir
@@ -199,7 +199,7 @@ Aquí está mi selección:
     gestión del combustible, cómo hay que moverse por el mapa, luego cómo llego
     a los sitios y después qué necesito para hacer las diferentes acciones que
     dan puntos (prospect, poner fábricas y colonias), no creo que vayáis a
-    tener problema, pero sino ahí está el juego introductorio. </p>
+    tener problema, pero si no ahí está el juego introductorio. </p>
     <p><strong>¿Dónde lo consigo?</strong> Este es el juego más caro de la
     lista, puedes conseguirlo en tiendas online por ~70$ o desde
     la propia <a
@@ -245,7 +245,7 @@ Aquí está mi selección:
     mapa, y que estos generen oxígeno. También necesitas producir calor (con un
     recurso abstracto que representa el calor) para subir la temperatura, y
     necesitas también colocar océanos para conseguir agua en Marte, aunque
-    vale, para esto último no necesita recursos, sino megacréditos, que es la
+    vale, para esto último no necesita recursos, si no megacréditos, que es la
     moneda del juego.</p>
     <p>Terraforming Mars es la perfecta representación del <i>"yo me lo guiso,
     yo me lo como"</i>, tienes que cumplir con los objetivos de terraformación,
@@ -426,7 +426,7 @@ preparar:
     cuatro cartas y tienes que tomar decisiones muy difíciles, puede que la
     acción de una carta te parezca súper potente, como por ejemplo añadirle un
     +1 a un dado, pero igual no puedes jugarla como acción porque si eliges tal
-    evento un sistema sufriría demasiado daño, o porque sino tienes que elegir
+    evento un sistema sufriría demasiado daño, o porque si no tienes que elegir
     una carta cuya gestión de velocidad te acerca demasiado al agujero negro.</p>
     <p><strong>¿Cómo gano?</strong> Para ganar tenemos que haber consumido todo
     el mazo de cartas antes de que se acabe el tiempo, que nuestros sistemas se

@@ -337,13 +337,13 @@ que pensar y hay contenido en el juego, pero ahora vienen los peros.
 
 Se necesitan
 más cartas de Marte, había un momento en el que en alguna partida nos quedaban
-tres en mano y no queríamos usar ninguna, porque sino habría que descartar
+tres en mano y no queríamos usar ninguna, porque si no habría que descartar
 equipamiento arreglado y saldría una nueva cosa que arreglar. Así que el juego
 se puede "romper" un poco evitando que salgan nuevas cartas. Lo que implica que
 llegado un momento solo juegas con las Cartas de Control de Misión, las
 habilidades que tienen tus cartas de equipamiento reparadas y poco más.
 
-No es un problema de variabilidad, sino de cantidad. El juego tiene 27 cartas,
+No es un problema de variabilidad, si no de cantidad. El juego tiene 27 cartas,
 de las cuales unas diez pertenecen a la baraja de Marte, y simplemente no se 
 pueden jugar los 27 turnos máximo que tarda la nave en llegar a Marte robando
 un nuevo equipamiento a arreglar por turno, como mínimo.

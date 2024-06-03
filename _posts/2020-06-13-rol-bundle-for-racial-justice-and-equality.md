@@ -384,7 +384,7 @@ src="https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master
   descripciones, además viene un mini-bestiario muy acorde a la
   ambientación, nuestros enemigos pueden ser gatos, hadas, ratas,
   arañas... Un punto interesante de este bestiario es que no se enfoca como
-  un juego en el que vamos a tener siempre combate, sino que en relación a
+  un juego en el que vamos a tener siempre combate, si no que en relación a
   nuestro grado de relación con la especie, seremos más o menos capaces de
   entendernos y no ser violentos. También os podéis encontrar muchísimas tablas
   con semillas de aventura, generación de sitios, nombres... es muy compacto y
@@ -570,7 +570,7 @@ desarrollo:
   oldschool y mecánicas roguelike.
 * **Depth of Extinction** un juego militar táctico por turnos con temática
   espacial. No me lo he comprado porque las reviews en Steam solo de dan un
-  *Mixed*, sino ya lo tenía.
+  *Mixed*, si no ya lo tenía.
 * **Anodyne** otro juego tipo Zelda con gráficos tipo NES. 
 * **Nuclear Throne** roguelike, algo bullet hell, muy divertido, aunque ya
   tiene sus años.

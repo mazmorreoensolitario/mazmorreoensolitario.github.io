@@ -116,7 +116,7 @@ En la página de [Board Game Geek del Áncora de
   caso) conoceremos un poco mejor a los enemigos... aunque no sabemos si eso
   nos dará alguna ventaja.
   
-* **Diferentes finales.** En este juego no buscamos ganar, sino vivir una
+* **Diferentes finales.** En este juego no buscamos ganar, si no vivir una
   aventura, por lo que si cambiamos nuestras decisiones podremos acceder a unos
   finales diferentes. 
 

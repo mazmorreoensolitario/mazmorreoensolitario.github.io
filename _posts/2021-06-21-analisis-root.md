@@ -444,7 +444,7 @@ decreto debes pensarlo muy bien ya que eso va a mover a tu facción.
   
   
   El bot puede fallar el decreto, sin embargo, una vez que lo ha resuelto debe
-  sí-o-sí tener un claro donde construir un nido, sino le pasa como al jugador
+  sí-o-sí tener un claro donde construir un nido, si no le pasa como al jugador
   humano, descarta el decreto, pierde puntos y vuelta a empezar.
 
 ##### Woodland Alliance y Automated Alliance
@@ -461,7 +461,7 @@ La Alianza del Bosque busca la simpatía de las diferentes criaturas del bosque
 y juega a la guerra de guerrillas. La fichas de simpatía son las fichas
 redondas con un guante, y cada vez que se coloque una en un claro la Alianza
 gana puntos. Las fichas de simpatía no se colocan en los espacios reservados
-para edificios (los cuadrados del mapa), sino en cualquier sitio del claro, la
+para edificios (los cuadrados del mapa), si no en cualquier sitio del claro, la
 única limitación es que cada claro solo puede tener una de estas fichas como
 máximo.
 
@@ -548,7 +548,7 @@ descartan) para mejorar nuestra relación con ellas. Cuando les damos cartas
 podemos coger un objeto de su tablero y ganaremos puntos de victoria.
 
 Esta facción solamente tiene un meeple, y cuando reciba daño tras entrar en
-batalla no se descartará del juego, sino que deberás *romper* objetos. Estos
+batalla no se descartará del juego, si no que deberás *romper* objetos. Estos
 objetos no podrán usarse hasta que los repares.
 
 Además de los objetos el Vagabundo utiliza unas cartas especiales de Misión (en
@@ -687,7 +687,7 @@ Una de las mayores sorpresas que me dio este juego es que las partidas a tres
 —que es mi número favorito para jugar por eso de que pueden convertirse en un 
 dos contra uno a tu contra, y así tenemos más salseo— es que estas duran unos
 50 minutos, máximo una hora. Así que no es un juego que requiera 
-que tengas muchísimo tiempo para él y te deja baldado, sino que te permite
+que tengas muchísimo tiempo para él y te deja baldado, si no que te permite
 jugar dos partidas seguidas y sigues estando bien. Yo diría que es un peso
 medio, aunque BGG se decanta por un peso medio-alto.
 
@@ -706,7 +706,7 @@ sea tu juego.
 
 **En resumidas cuentas,** gracias al toque asimétrico y las diferentes
 combinaciones de facciones y número de bots contra los que puedes jugar, Root
-no es un juego, sino muchos en uno, hay una base común, pero tú, dependiendo de
+no es un juego, si no muchos en uno, hay una base común, pero tú, dependiendo de
 cómo y contra quién quieras jugar deberás elegir a tu Root del día.
 
 <img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**

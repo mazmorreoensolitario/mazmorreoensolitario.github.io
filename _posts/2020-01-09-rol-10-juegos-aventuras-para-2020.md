@@ -477,7 +477,7 @@ pero bueno, tampoco me importa.
          <p>Dejando a un lado la ambientación, se nota pero mucho mucho mucho
          que esta aventura fue nominada a los Ennies, porque primero, no es de
          esas aventuras que tienes que leer una novela para luego intentar
-         llevarlas  a la mesa, sino que se nota que está hecho para ser
+         llevarlas  a la mesa, si no que se nota que está hecho para ser
          jugado. Todo el 
          diseño de cómo se te presenta la información como GM es increíblemente
          directa, fácil de digerir y para los GM con algo más de experiencia yo
@@ -491,7 +491,7 @@ pero bueno, tampoco me importa.
          interesante y nada genérica, bien vestida y tanto enemigos como NPCs
          que tienen cada uno su toque especial e interesante.
          Además, <strong>como se enmarca dentro del marco de OSR,
-         no es un mata-mata sino que hay que pensar cómo hacer las cosas y usar
+         no es un mata-mata si no que hay que pensar cómo hacer las cosas y usar
          el pensamiento lateral para superar las situaciones
          <i>exóticas</i></strong>.</p> 
          <p>Lo malo que veo a Winter's Daughter es que ya a partir de ahora voy

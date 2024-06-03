@@ -393,7 +393,7 @@ den esos dos de madera, entonces los usas; y no se gastan, si luego necesitas
     puntos que el Rey Exánime (esqueleto malo maloso) has ganado.</p>
     <p>En solitario el Rey Exánime mostrará una carta en cada turno durante el
     combate, y te dará dos números de fuerza de sus ejércitos, tu objetivo es
-    superar este número o al menos empatar, sino no ganarás puntos. Además, el
+    superar este número o al menos empatar, si no no ganarás puntos. Además, el
     Rey Esqueleto ganará puntos adicionales en base a las cartas que tú hayas
     desechado durante el drafting de unidades, según ciertas condiciones. Por
     ejemplo, el Rey Esqueleto este turno puntúa por todas las unidades con

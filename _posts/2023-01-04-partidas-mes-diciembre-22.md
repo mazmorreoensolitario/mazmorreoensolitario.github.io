@@ -95,7 +95,7 @@ energía mágica (lo que pagamos para usar cartas) no se guarda de turno a turno
 (cuando no tenemos más cartas del mazo y tenemos que usar el descarte para
 crear otro), y es más, nos hace daño si nos sobra. Además de esto para ganar de
 forma "limpia" tenemos que haber retirado del juego todas las cartas menos las
-tres que necesitamos para invocar a Baphonet, sino cada carta que nos quede en
+tres que necesitamos para invocar a Baphonet, si no cada carta que nos quede en
 juego, mano, en el mazo o en el descarte será un punto menos.
 
 **Aleph Null** es el segundo juego de la serie de juegos exclusivos para el
@@ -249,7 +249,7 @@ cogiendo con muchas ganas. En este juego una de las claves son los bonos que te
 dan por ser el primer jugador en poner un agujero negro en un planeta y luego
 también hay que tener en cuenta de que hay ocho planetas diferentes y solamente
 tienes cinco pares de agujeros negros, por lo que tienes que intentar crear
-rutas que sean útiles y no demasiado específicas, porque sino se te van a
+rutas que sean útiles y no demasiado específicas, porque si no se te van a
 quedar planetas fuera del alcance.
 
 Y esto es todo para terminar las partidas del año.
@@ -282,7 +282,7 @@ En enero quiero poner un poco más el turbo a la hora de pintar minis, ya que
 tengo muchas ganas de seguir con **Exploradores de las Profundidades Sombrías**
 y empezar con **Nightwatch**.
 
-También tengo que ponerme con un par de manuales de wargames... que sino se me
+También tengo que ponerme con un par de manuales de wargames... que si no se me
 acumulan. 
 
 Y así termino, ¡os espero en la siguiente entrada de **[El mes en

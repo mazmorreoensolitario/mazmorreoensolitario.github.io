@@ -117,7 +117,7 @@ necesitamos un folio A4.
 ### Opinión
 
 Es un juego curioso en el que tenemos que pensar, no vale poner trampas en
-todos los sitios y ya está, sino que tenemos que calcular bien la localización,
+todos los sitios y ya está, si no que tenemos que calcular bien la localización,
 como se encadenan los efectos y la duración de las trampas para hacerlo bien.
 Asimismo, como el juego depende enteramente del azar nos vemos forzados a estar
 en situaciones complicadas que hagamos lo que hagamos nos harán siempre perder

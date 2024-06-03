@@ -319,7 +319,7 @@ Primero debo comentar (otra vez) que el reglamento tiene solamente 4 páginas,
 pero merece que lo repita porque es un verdadero logro que el juego se pueda
 explicar tan bien, y con tantos ejemplos, en tan poco espacio. **Factory
 Funner** no es un juego en el que la complejidad esté dada por la cantidad de
-acciones que puedas tomar, sino por el reducido espacio que tienes para tomar
+acciones que puedas tomar, si no por el reducido espacio que tienes para tomar
 las decisiones, y porque el resultado de esas buenas o malas decisiones se va a
 arrastrar durante el resto de la partida.
 

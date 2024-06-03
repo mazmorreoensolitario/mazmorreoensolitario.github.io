@@ -593,7 +593,7 @@ un setting post-apocalíptico para **[Lay On Hands](https://www.drivethrurpg.com
 
 **Lay On Hands** es una zine de contar historias en solitario en la que juegas
 como un curandero con gran talento. En esta zine no tiras dados para ver si
-superas pruebas, sino que tirarás una moneda y completarás secciones de un
+superas pruebas, si no que tirarás una moneda y completarás secciones de un
 mini-juego de pintar.
 
 <p align="center">

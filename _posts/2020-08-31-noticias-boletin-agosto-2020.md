@@ -98,7 +98,7 @@ además de un resumen de lo que nos espera en septiembre y octubre"
   otros artrópodos, tiene un paralelismo a [Bios:
   Megafauna](https://boardgamegeek.com/boardgame/221769/bios-megafauna-second-edition),
   manteniendo el uso del mercado de mutaciones y también tiene placas
-  tectónicas, pero no es tan pesado. No es una expansión, sino un juego
+  tectónicas, pero no es tan pesado. No es una expansión, si no un juego
   base. Mesofauna es una versión alternativa de Megafauna, en palabras de Ion
   Game Design, y que permite la integración de ambos juegos, pudiendo jugar una
   partida con roles de jugador de ambos juegos. 

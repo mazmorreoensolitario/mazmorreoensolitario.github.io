@@ -480,7 +480,7 @@ enlace](https://www.youtube.com/watch?v=L96CAcXDJgk&feature=youtu.be).
     nos pone que es de 1 a 4 jugadores</strong> (otro título de la serie, <a
     href="https://boardgamegeek.com/boardgame/207568/baptism-fire-battle-kasserine">Baptism
     By Fire</a> también aparece como de 1 a X jugadores) así quién sabe, a lo
-    mejor viene con un sistema en solitario (lo dudo, sino lo hubiesen
+    mejor viene con un sistema en solitario (lo dudo, si no lo hubiesen
     publicitado más). En cualquier caso, no parece que tenga ninguna
     información oculta, así que podremos jugar controlando a ambos bandos.</p>
     <img src="https://www.multimanpublishing.com/LinkClick.aspx?fileticket=sR0TATER6FQ%3d&tabid=59">

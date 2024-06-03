@@ -234,7 +234,7 @@ juegos más mecánicos:
   
   Finalmente, también hay magia, solo que según la ambientación, está mal vista
   y es peligrosa. Tras lanzar un hechizo tendremos que pasar una tirada de
-  corrupción o sino nos corromperemos un poco más, si superamos nuestro Grado
+  corrupción o si no nos corromperemos un poco más, si superamos nuestro Grado
   Máximo de Corrupción estaremos perdidos para siempre y a efectos prácticos
   nuestro personaje habrá muerto. ¡Ficha nueva y una nueva aventura!
   
@@ -258,7 +258,7 @@ juegos más mecánicos:
   *"rulings, no rules"* desde el punto de vista del DM (que se podría traducir
   con un poco de manga ancha como "juzga, no hagas reglas"), para el juego en
   solitario tenemos que tener unas reglas antes de que comience el juego,
-  porque sino podríamos poner en entredicho la separación mental entre
+  porque si no podríamos poner en entredicho la separación mental entre
   jugador/DM que tenemos que tener. El que Disciples utilice una amplia gama de
   habilidades en vez de que tengamos que recurrir a salvadas o chequeos de
   atributos contribuye a que las reglas nos den integridad en la partida, para
@@ -423,7 +423,7 @@ Así pues, a medio camino entre lo mecánico y lo narrativo se encuentran:
   todos los encuentros están balanceados según el nivel de vuestra party y si
   no lo están, mágicamente no podéis pasar a la zona peligrosa o cosas del
   estilo, vuestros personajes de Seekers van a  morir. No porque el juego no
-  esté balanceado, que lo está, y muy bien, sino porque es de cajón de madera
+  esté balanceado, que lo está, y muy bien, si no porque es de cajón de madera
   de pino que si sois un mago con d4 hit points de nivel 1 en D&D y os aparece
   un dragón, tenéis que salir corriendo. En Seekers, si estáis a "Nivel de
   ritual 1" y os aparece una Quimera, un Gólem, o un Mago anciano, también
@@ -630,7 +630,7 @@ Además de estos tipos de juegos, hay una categoría especial dedicada a los
 **juegos en solitario de escritura narrativa**, que se centran en que cuentes
 historias. La diferencia fundamental con los juegos anteriores es que en muchos
 casos no tienen las típicas reglas para el combate, salvadas u otras
-mecanismos, sino que el objetivo del juego es narrar una historia. Voy a ser 
+mecanismos, si no que el objetivo del juego es narrar una historia. Voy a ser 
 breve con estos juegos porque no suelen ser lo mío, aquí tenéis a los que sí
 que creo que les vaya a dar una oportunidad en el futuro:
 
@@ -1168,7 +1168,7 @@ de rol por temática son los siguientes:
   conocido originalmente como **[The Perilous
   Wilds](https://www.drivethrurpg.com/product/156979/The-Perilous-Wilds?affiliate_id=1914894)**, que
   es uno de los pocos libros de este estilo que tenemos en castellano, no
-  es exactamente un generador, sino un libro que te ayuda a crear
+  es exactamente un generador, si no un libro que te ayuda a crear
   ambientaciones y utiliza el sistema de Dungeon World, aunque podéis
   utilizarlo fácilmente para cualquier sistema.
 
@@ -1192,15 +1192,15 @@ esto.
 
 Yo diría que casi todos pueden jugarse en solitario con un mayor o menor grado
 de recursos/ayuditas para jugar en solitario; es decir, no es esencialmente una 
-pregunta de si se puede o no, sino de **cuánto cuesta hacer que sea jugable en
+pregunta de si se puede o no, si no de **cuánto cuesta hacer que sea jugable en
 solitario**.
 
 Os explico esto con un par de ejemplos de lo que me ha pasado a mí en estos
 años. En general con los oráculos no vais a tener ningún problema en ningún
 tipo de juego, el problema viene con los generadores. A mí más que los juegos
 de fantasía medieval, me gusta más la temática de ciencia ficción, pero una
-ciencia ficción realista, no a lo Star Trek, sino algo más cercano a The
-Expanse, sino también algo postapocalíptico, o en general algo oscuro.
+ciencia ficción realista, no a lo Star Trek, si no algo más cercano a The
+Expanse, si no también algo postapocalíptico, o en general algo oscuro.
 Además me identifico más con la forma de diseño y de jugar de los
 juegos de la corriente OSR, lo que puede acarrear algún problema si estáis
 jugando a los juegos más novedosos y de diseño indie que tiendan a ser
@@ -1248,7 +1248,7 @@ Así que, más que yo os ponga una lista de juegos de rol "estándar" que sean
 amigables para el juego en solitario os voy a dar una pequeña **pauta: tablas
 y/o estructura.**
 
-Si tiene tablas de cosas va a ser fácil jugarlo, sino no. Si no lo es, intenta
+Si tiene tablas de cosas va a ser fácil jugarlo, si no no. Si no lo es, intenta
 buscar tablas en internet, si las hay, será también igual de fácil. Lo de
 estructura viene por los juegos que hemos visto justo a principio de esta
 entrada, esos que eran más mecánicos. Hay algunos juegos de rol que no se

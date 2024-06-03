@@ -259,7 +259,7 @@ muy bien, pero el juego luce muchísimo gracias a toda la gestión de camiones
 que tenemos que hacer. El juego hace que te fijes en el rival para ver dónde y
 qué vas a construir, tienes que ir adaptando tu estrategia durante todo el
 juego, no vale quedarse a gusto cuando has hecho una conexión y ¡olé! por fin
-puedes enviar, sino que si el bot se pone a recibir justo lo que tu estabas
+puedes enviar, si no que si el bot se pone a recibir justo lo que tu estabas
 enviando te toca cambiar las tuberías lo más rápido que puedas (de hecho hay
 varias cartas de la IA del bot que dicen: *"bot, haz una conexión de recepción
 del mismo color y en la misma dársena que el rival"*). Los camiones es lo que

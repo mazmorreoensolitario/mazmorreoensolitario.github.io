@@ -558,7 +558,7 @@ producciones de ahora que parecen más preorders con hype.
 
 Este margen de financiación es un poco relativo, ya que hemos hablado justo al
 inicio de la entrada (en *Datos generales*), con el caso de Catacombs Cubes,
-que **el objetivo de financiación no se trata de algo objetivo, sino que forma
+que **el objetivo de financiación no se trata de algo objetivo, si no que forma
 parte del marketing de la campaña** y por tanto muchas veces no es el objetivo
 de financiación real.
 

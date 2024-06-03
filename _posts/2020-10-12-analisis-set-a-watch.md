@@ -235,7 +235,7 @@ cuando son derrotados, habilidades permanentes, cuando el monstruo se releva,
 efectos especiales o simplemente sin habilidades.
 
 Estas habilidades son muy variadas y versátiles y hacen que los enemigos no
-sean simples monstruos estáticos en la fila, sino que se mueven, nos hacen
+sean simples monstruos estáticos en la fila, si no que se mueven, nos hacen
 daño, se hacen más fuertes o incluso puede que vuelvan a la vida una vez que
 sean derrotados.
 
@@ -384,7 +384,7 @@ cada monstruo de la fila como si os fuera la vida en ello. Os hace tratar de
 aprovechar las cartas lo mejor que podáis y también os hace pensar para tratar
 de descubrir todas las diferentes opciones que sean posibles para enfrentaros a
 los bichos de la fila. Además, hace que os esforcéis, no solo salir bien
-parados del combate actual, sino para tratar de prepararos lo mejor posible
+parados del combate actual, si no para tratar de prepararos lo mejor posible
 para el futuro.
 
 Tiene un montonazo de contenido también, tanto en variedad de monstruos, como

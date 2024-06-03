@@ -150,7 +150,7 @@ o suministros.
 La edición print & play de este juego consta de 2 páginas (4 si imprimimos las
 traseras de las cartas) y es igual de cómoda
 de recortar como muchas otras que han aparecido por el blog; sin embargo,
-tenemos la obligación de imprimir en color porque sino no sabremos qué recurso
+tenemos la obligación de imprimir en color porque si no no sabremos qué recurso
 tenemos que pagar en cada sector para poder avanzar al siguiente; ya que se usa
 únicamente un código de colores.
 

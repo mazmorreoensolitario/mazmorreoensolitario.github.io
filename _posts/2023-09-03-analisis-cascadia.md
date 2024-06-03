@@ -112,7 +112,7 @@ losetas de hábitat en uno.
 En nuestro turno simplemente elegimos una columna de loseta-ficha y colocamos
 primero la loseta en nuestra zona de juego, de forma que algún lado de la
 loseta se toque con las losetas que ya tengamos. Después, deberemos colocar la
-ficha de animal en alguna loseta que muestre el icono del mismo animal, sino no
+ficha de animal en alguna loseta que muestre el icono del mismo animal, si no no
 está permitido colocar ese animal en la loseta.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/53161691870_e0ce542aee_b.jpg"></p>

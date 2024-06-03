@@ -249,7 +249,7 @@ nuestra jugada. Y creo que esto es algo genial para jugar en solitario.
 4X](https://boardgamegeek.com/boardgame/84419/space-empires-4x)** fue la
 novedad de febrero, y en marzo se ha llevado también una partida. Me está
 gustando mucho y se merece que le dedique más tiempo, sin embargo, una de las
-pegas que le veo, no al juego, sino a la producción, es que el tablero no se
+pegas que le veo, no al juego, si no a la producción, es que el tablero no se
 mantiene plano, lo que es un impedimento a la hora de jugar, y hace que tengas
 que planificar con antelación que vas a jugar a **Space Empires**, ya que
 tienes que sacar el tablero antes y ponerle un par de pesos encima.

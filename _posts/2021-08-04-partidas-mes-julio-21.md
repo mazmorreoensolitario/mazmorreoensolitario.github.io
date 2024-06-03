@@ -285,13 +285,13 @@ Karth**, que es un setting para
 luego he tenido LA ODISEA con la implementación de las nuevas aduanas en la
 Unión Europea, que ha hecho que **The Scourge of the Scorn Lords**, un setting
 para [Old-School Essentials](https://necroticgnome.com/), cayese en 
-las zarpas de la burocracia mal hecha... en resumidas cuentas porque sino me
+las zarpas de la burocracia mal hecha... en resumidas cuentas porque si no me
 vuelve el cabreo: pagué el IVA de antemano en la Agencia Tributaria vía
 autodespacho (que manda narices porque aunque sea un libro te aplican
 igualmente un 21% de IVA porque les salé de ahí en vez del 4%), tras pagar el
 IVA los agentes aduaneros de Correos se pasaron por el forro que había pagado y
 me exigían otra vez pagar el IVA más gastos de gestión, cosa que he tenido que
-hacer porque sino volvía el libro a EEUU, y bueno, he puesto reclamaciones a
+hacer porque si no volvía el libro a EEUU, y bueno, he puesto reclamaciones a
 todo ser viviente.
 
 Después de esta *incidencia* (léase como un eufemismo) con las aduanas

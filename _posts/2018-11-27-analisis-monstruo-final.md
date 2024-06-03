@@ -222,7 +222,7 @@ monedas. **Es algo entretenido, pero no me engancha.**
 [^2]: En las reglas no queda claro si los Hechizos de la Zona de Hechizos son
     para uso exclusivo de Héroes o nosotros como monstruo podemos utilizarlos
     también. En nuestra versión, tras probar con ambas variantes creemos que la
-    Zona de Hechizos es común porque sino la dificultad es demasiado
+    Zona de Hechizos es común porque si no la dificultad es demasiado
     elevada. De todas formas, si buscáis un reto, hacer que la Zona de Hechizos
     sea exclusiva para los Héroes.
 

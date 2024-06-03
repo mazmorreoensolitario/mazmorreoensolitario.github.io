@@ -236,7 +236,7 @@ href="https://coinsandscrolls.blogspot.com/2018/05/osr-veinscrawl.html" target="
         </p>
          <p>En este libro de 444 páginas tenéis un hexcrawl muy variado, con
          más o menos detalle, que va a sorprenderos mucho. Yo personalmente no
-         lo he usado como hexcrawl sino que he sacado regiones de hexágonos a
+         lo he usado como hexcrawl si no que he sacado regiones de hexágonos a
          mi conveniencia.</p>
      </div>
 </div>

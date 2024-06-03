@@ -193,7 +193,7 @@ de Johannes Sich y publicado por <strong>Edition Spielwiese</strong> (SD Games
     ejemplo quería probarlo pero visto el precio no lo compraré y me pasaré a
     una edición inglesa de un juego más moderno de la saga. Si sabes fijo que
     te va a gustar el juego pues a lo mejor es bueno tener todo ya junto, pero
-    sino quita bastante las ganas de probarlo porque te tienes que dejar 90€,
+    si no quita bastante las ganas de probarlo porque te tienes que dejar 90€,
     en vez de 50€, es una subida de precio bastante potente para entrar con
     algo. Pero son cosas de marketing...</p>
      </div>
@@ -241,7 +241,7 @@ de Johannes Sich y publicado por <strong>Edition Spielwiese</strong> (SD Games
     de este juego, espero traeros un análisis pronto, cuando la termine. Hasta
     entonces os puedo decir que es un juego con unas decisiones tácticas súper
     interesantes, y que te fuerza a hacer las cosas de una manera determinada
-    en cada escenario para ganar, sino no llevas claro. Se nota que ha sido muy
+    en cada escenario para ganar, si no no llevas claro. Se nota que ha sido muy
     bien testeado.</p>
      </div>
 </div>

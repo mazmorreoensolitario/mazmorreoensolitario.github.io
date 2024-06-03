@@ -257,5 +257,5 @@ monedas. **Creo que prefiero hacer otra cosa.**
 
 <hr>
 
-[^1]: Juraría que debería escribirse como Farmer's Finances si quieren decir "Las finanzas de los granjeros", sino debería ser "(The) finances of the farmers".
+[^1]: Juraría que debería escribirse como Farmer's Finances si quieren decir "Las finanzas de los granjeros", si no debería ser "(The) finances of the farmers".
 [^2]: Con la tontería llegué a buscar una lista de [quesos alemanes en la wikipedia](https://en.wikipedia.org/wiki/List_of_German_cheeses), y resulta que no he probado ninguno que sea de vaca.

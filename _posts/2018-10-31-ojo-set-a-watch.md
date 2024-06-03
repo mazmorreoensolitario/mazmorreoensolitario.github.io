@@ -122,7 +122,7 @@ de campamento.
 de personas y eso implica que en el proceso de diseño del juego se ha invertido
 el mismo tiempo en el diseño del modo solitario que en el resto de modos, lo
 que creemos que aumenta la calidad del juego. Este no es un juego en el que el
-modo solitario es solamente un añadido, sino que es parte del corazón del
+modo solitario es solamente un añadido, si no que es parte del corazón del
 juego.
 
 * No depende excesivamente del azar. Podemos balancear malas tiradas de dados

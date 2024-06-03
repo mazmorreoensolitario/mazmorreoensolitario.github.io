@@ -252,7 +252,7 @@ al que de momento no he conseguido sacar nunca más de 64 puntos.
 **Shipyard** es un juego en el que tenemos que construir y botar barcos para
 ganar puntos, las mecánicas se basan en seleccionar acciones de una fila, en la
 que no podemos elegir la acción que usamos en la ronda anterior, y en la que
-tenemos dos bots (que no puntúan, sino que quitan espacios y mueven los
+tenemos dos bots (que no puntúan, si no que quitan espacios y mueven los
 rondeles) que también están bloqueando dos acciones. La acción generalmente
 implica mover marcadores en unos rondeles, que te indican que puedes conseguir,
 por lo que tienes que cuadrar bien que la acción que quieres seleccionar esté
