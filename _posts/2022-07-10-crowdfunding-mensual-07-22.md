@@ -4,11 +4,11 @@ title: "Noticias - Crowdfunding: julio 2022"
 date: 2022-07-10
 categories: [Crowdfunding]
 tags: [BackerKit, Verkami, Kickstarter, Gamefound]
-imghtml: https://live.staticflickr.com/65535/52176859727_0e55f5a12a_b.jpg
+imghtml: https://live.staticflickr.com/65535/53793210753_e94ccc0eae_o.png
 post_desc: "Todo el crowdfunding de julio en una única entrada"
 ---
 
-![](https://live.staticflickr.com/65535/52176859727_0e55f5a12a_b.jpg)
+![](https://live.staticflickr.com/65535/53793210753_e94ccc0eae_o.png)
 
 <hr>
 

@@ -5,7 +5,7 @@ date:   2018-11-01
 categories: [Crowdfunding]
 tags: Kickstarter
 img: crowdfunding.png
-imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/crowdfunding/crowdfunding-18-1025-1101.jpg
+imghtml: https://live.staticflickr.com/65535/53793210753_e94ccc0eae_o.png
 ---
 
 Os dejamos los juegos de mesa con modo solitario que nos ha traído Kickstarter
