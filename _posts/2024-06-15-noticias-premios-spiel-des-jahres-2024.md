@@ -85,7 +85,7 @@ solitario.
     <strong>Harmonies</strong> aparezca nominado en los Spiel des Jahres de
     este año, ya que el juego se publicó en abril de 2024 y yo tenía entendido
     que los juegos tenían que haberse publicado el año anterior para poder ser
-    nominados, aunque igual entra porque para estos premios en año anterior no
+    nominados, aunque igual entra porque para estos premios el año anterior no
     termina en diciembre, si no en mayo, por ejemplo, ya que de otra forma
     algunos estrenos quedarían en el limbo.</p>
     <p>Aparte de esto, el <strong>Harmonies</strong> está en la primera
