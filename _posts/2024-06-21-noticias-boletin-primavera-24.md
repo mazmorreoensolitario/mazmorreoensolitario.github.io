@@ -31,7 +31,7 @@ enlace]({{site.baseurl}}/etiqueta/boletin-informativo-solitario/).
 ## Noticias, primavera 2024
 
 Desde el blog de noticias de [Board Game
-Geek](https://boardgamegeek.com/blog/1), Twitter (ahora X...), Instagram, y los
+Geek](https://boardgamegeek.com/blog/1), Twitter (ahora X...), Instagram y los
 incontables newsletters de las editoriales nos llegan un montón de nuevas
 noticias, aquí tienes filtrado lo más importante de la última estación:
 
@@ -43,9 +43,9 @@ src="https://live.staticflickr.com/65535/51194829619_58b15b521f_b.jpg"></p>
 
 
 **—** Durante esta primavera de 2024 hemos podido conocer los juegos nominados
-a los **premios Golden Geek**, y a los premios **Spiel des Jahres**, [aquí
+a los **premios Golden Geek** y a los premios **Spiel des Jahres**, [aquí
 tienes el resumen de los premios Golden
-Geek]({{site.baseurl}}/2024/05/12/golden-geek-awards-2023/), y en esta entrada
+Geek]({{site.baseurl}}/2024/05/12/golden-geek-awards-2023/) y en esta entrada
 [el resumen de los Spiel des
 Jahres]({{site.baseurl}}/2024/06/15/noticias-premios-spiel-des-jahres-2024/). 
 
@@ -105,7 +105,7 @@ con una fecha de salida prevista para este 2024.
 src="https://cf.geekdo-images.com/RUVs6YVGqjSnYtURlWe6MQ__imagepage/img/EOJ1MGhdQhguSvnG3m28G05SH4E=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7695101.jpg"></p>
 
 **—** Los fans de **[Karvi](https://boardgamegeek.com/boardgame/399806/karvi)**
-están de suerte, y los jugadores en solitario más dedicados también, ya que la
+están de suerte y los jugadores en solitario más dedicados también, ya que la
 editorial alemana **Hans im Glück** ha
 [desarrollado](https://www.instagram.com/p/C7EuTvIsYPp/) un **modo en solitario
 para Karvi** que podéis descargar de forma gratuita [desde su
@@ -168,7 +168,7 @@ src="https://cf.geekdo-images.com/BTLIJvNhaROMzo6cqP0aNw__imagepage/img/ySXM7mRS
 [anuncia](https://www.instagram.com/p/C6azIR6Nle3/) que tiene las licencias de
 **[Evenfall](https://boardgamegeek.com/boardgame/396989/evenfall)**, un juego
 de cartas de construcción de motores que fue una de las novedades de **dlp
-games** en la SPIEL'23, en  y **[Kronologic: Paris
+games** en la SPIEL'23  y de **[Kronologic: Paris
 1920](https://boardgamegeek.com/boardgame/402111/kronologic-paris-1920)**, un
 juego con mecánicas de deducción en el que tienes que resolver un misterio.
 
@@ -188,7 +188,7 @@ sus hordas, junto con la expansión
 
 La preventa del juego se encuentra abierta en [Kick &
 Go!](https://www.kickandgo.net/massive-darkness-2/late_pledge.php) hasta
-**septiembre de 2024** (todo el mes), 
+**septiembre de 2024** (todo el mes).
 
 <p align="center">
 <img height="250"
@@ -204,7 +204,7 @@ un juego cooperativo de Corey Konieczka y Josh Beppler que se espera para
 En **The Mandalorian: Adventures** podrás jugar como uno de ocho posibles
 personajes de la primera temporada de la serie en una serie de misiones.
 
-**The Mandalorian: Aventures** tendrá un precio de **49.99$** en EEUU, y saldrá
+**The Mandalorian: Aventures** tendrá un precio de **49.99$** en EEUU y saldrá
 también **en castellano en España a principios de Agosto**. 
 
 
@@ -219,9 +219,9 @@ Project](https://boardgamegeek.com/boardgame/419199/reef-project)** de Martino
 Chiacchiera y Federico Pierlorenzi. **Reef Project** es un juego
 de movimiento punto a punto, conexiones, mayorías y gestión de colecciones en
 el que tienes que convertirte en el héroe de la restauración de la barrera de
-coral, y salvar a los océanos.
+coral y salvar a los océanos.
 
-**Reef Project** se espera para la **Gen Con 2024** (principios de agosto), y
+**Reef Project** se espera para la **Gen Con 2024** (principios de agosto) y
 **Maldito Games** ya ha confirmado la localización de este juego a nuestro
 idioma, se llamará **Proyecto Arrecife**.
 
@@ -266,7 +266,7 @@ src="https://cf.geekdo-images.com/s8BMwzkbJLKHLc_y0tgpAw__imagepage/img/FYw2Y1gj
 **—** **Hollandspiele** anuncia **[City of Six
 Moons](https://boardgamegeek.com/boardgame/421304/city-of-six-moons)**, un juego
 exclusivo en solitario de civilizaciones que es algo más que un juego, ya que
-el libro de reglas está escrito en símbolos alienígenas, y parte del juego es
+el libro de reglas está escrito en símbolos alienígenas y parte del juego es
 tratar de descubrir cómo se juega al juego. 
 
 
@@ -310,7 +310,7 @@ Este **Black Forest** es una evolución de Glass Road y Campos de Arle.
 
 **Maldito Games** ha
 [confirmado](https://www.malditogames.com/juegos/selva-negra-juego/) que tiene
-la licencia del juego, y que se 
+la licencia del juego y que se 
 publicará durante 2024 con el nombre de **Selva Negra**.
 
 <p align="center">
@@ -370,7 +370,7 @@ Friedemann Friese,
 **[Free Ride USA](https://boardgamegeek.com/boardgame/419192/free-ride-usa)**,
 una reimplementación de [Free
 Ride](https://boardgamegeek.com/boardgame/341048/free-ride), pero con el mapa
-de Estados Unidos, y un pequeño cambio en las reglas.
+de Estados Unidos y un pequeño cambio en las reglas.
 
 <p align="center">
 <img height="250"
@@ -419,7 +419,7 @@ bien *fjord*.
 src="https://cf.geekdo-images.com/SScMT92rIP3K0NTK43z9IA__imagepage/img/lzJLesbdYg-HXBcl3qr39axrWKU=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8265896.jpg">
 </p>
 
-**—** **Board & Dice** no podía quedarse tampoco sin una novedad para la SPIEL,
+**—** **Board & Dice** no podía quedarse tampoco sin una novedad para la SPIEL
 y ha anunciado que esta será **[Minos: Dawn of the Bronze Age](https://boardgamegeek.com/boardgame/423401/minos-dawn-of-the-bronze-age)** de Stanislav
 Kordonskiy. **Minos** es un juego con mecánicas de mayorías y gestión de dados
 en el que trataremos de convertirnos en el líder del reino de la antigua Creta.
@@ -544,11 +544,11 @@ también se pueden descubrir.
 Las partidas de **Vantage** comienzan en una nave intergaláctica rumbo a un
 planeta inexplorado, después de que te estrelles en el planeta lejos de tus
 compañeros, tienes libertad completa para explorar, descubrir e interactuar con
-el planeta. Tú ves tu localización desde una perspectiva de primera persona, y
+el planeta. Tú ves tu localización desde una perspectiva de primera persona y
 puedes comunicarte y apoyar a otros jugadores, pero estás separado por grandes
 distancias, así que solamente puedes ver tu localización actual.
 
-**Vantage** no es un juego de campaña, y es completamente independiente (no hay
+**Vantage** no es un juego de campaña y es completamente independiente (no hay
 expansiones).
 
 
