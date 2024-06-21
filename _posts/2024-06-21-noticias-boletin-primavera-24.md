@@ -91,7 +91,7 @@ src="https://cf.geekdo-images.com/q2tXbqBEORy4019-rX5HPQ__imagepage/img/1pteyRhP
 
 **—** El multi-galardonado juego de construcción de ciudades
 griegas, **[Akropolis](https://boardgamegeek.com/boardgame/357563/akropolis)**,
-espera una expansión en el futuro, como se filtró originalmente [el diseñador
+espera una expansión en el futuro, como filtró originalmente [el diseñador
 ](https://boardgamegeek.com/blogpost/161201/welcome-more-spicy-clanky-sentinels-to-the-akropol)
 en su Facebook, noticia que después fue confirmada por medios
 [franceses](https://www.campustech.fr/athena-une-extension-divine-pour-akropolis/). 
