@@ -323,7 +323,7 @@ algunas hacen preventas de juegos para que podáis recogerlos durante cualquiera
 de los cuatro días de la feria y otras no. La mayoría no hacen preventas y
 tienes que comprar los juegos en los puestos de cada editorial, pero esto
 también tiene su peculiaridad. Algunas editoriales ponen *todo* el stock a la
-venta el propio jueves, por lo que si por ejemplo: tienen 500 juegos y se
+venta el propio jueves, por lo que si por ejemplo: tienen 500 copias y se
 venden 499 el jueves, solamente quedará 1 copia para vender el viernes. Si se
 venden todas las copias el jueves, no habrá nada de stock para el resto de días
 de la feria. Otras editoriales ponen cierta cantidad de copias a la venta cada
@@ -344,10 +344,13 @@ Otra de las razones para ir a la **SPIEL** es que se pueden probar todas las
 novedades antes de decidir si comprarlas o no y muchas veces también tienen
 prototipos de sus próximas novedades para que las puedas probar también. 
 
-Algunas editoriales organizan partidas completas a juegos, mientras que otras
-veces solamente juegas un par de turnos, pero en ambos casos siempre tienes una
-explicación con una persona de la editorial y puedes hacer todas las preguntas
-que quieras durante la partida/demo.
+Algunas editoriales organizan partidas completas a juegos, mientras que para
+algunos juegos solamente juegas un par de turnos, pero en ambos casos siempre
+tienes una explicación con una persona de la editorial y puedes hacer todas las
+preguntas que quieras durante la partida/demo. Muchas veces los propios
+**autores del juego** también están por la feria, o son los que están haciendo
+las demos de los juegos, por lo que acuérdate de llevar el reglamento de tu
+juego favorito si quieres un autógrafo.
 
 Dependiendo de la editorial las partidas/demos serán en alemán o en inglés,
 pero por regla general, si el juego va a estar disponible en inglés o ya se
