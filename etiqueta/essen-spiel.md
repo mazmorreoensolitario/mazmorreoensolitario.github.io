@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: Essen Spiel"
-tag: "Essen Spiel"
+title: "Etiqueta: Essen SPIEL"
+tag: "Essen SPIEL"
 ---

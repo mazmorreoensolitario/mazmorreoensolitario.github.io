@@ -3,7 +3,7 @@ layout: post
 title: "Historia de una demo: Crazy Taco"
 date: 2020-03-19
 categories: [Demos]
-tags: [Crazy Taco, Essen Spiel, Essen Spiel 2019]
+tags: [Crazy Taco, Essen SPIEL, Essen SPIEL 2019]
 game: Crazy Taco
 imghtml: https://cf.geekdo-images.com/imagepage/img/cayF2V4u7mezm1pOddIFSFRpajc=/fit-in/900x600/filters:no_upscale()/pic4958637.png
 post_desc: "Crazy Taco es un juego frenético en el que tenemos que gestionar 

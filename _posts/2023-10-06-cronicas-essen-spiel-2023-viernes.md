@@ -3,7 +3,7 @@ layout: post
 title: "Crónicas de Essen SPIEL'23 - Viernes"
 date: 2023-10-06
 categories: [General]
-tags: [Essen Spiel, Essen Spiel 2023, "The Fog: Escape from Paradise", Nucleum, Evacuation, Red Strike, Apiary, Expeditions, Materia Prima, "Fateforge: Chronicles of Kaan", Habitats, Rats of Winstar]
+tags: [Essen SPIEL, Essen SPIEL 2023, "The Fog: Escape from Paradise", Nucleum, Evacuation, Red Strike, Apiary, Expeditions, Materia Prima, "Fateforge: Chronicles of Kaan", Habitats, Rats of Winstar]
 imghtml: https://live.staticflickr.com/65535/53240969456_0faa69330b_c.jpg
 post_desc: "Resumen del segundo día de la SPIEL 2023" 
 ---

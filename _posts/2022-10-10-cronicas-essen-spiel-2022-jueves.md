@@ -3,7 +3,7 @@ layout: post
 title: "Crónicas de Essen SPIEL'22 - Jueves"
 date: 2022-10-10
 categories: [General]
-tags: [Essen Spiel, Essen Spiel 2022, "Wingspan Asia", Wingspan, Ark Nova, Horizons of Spirit Island, Dorfromantik, Lacrimosa, Findorff, Wormholes, Shake that City, Revive, Tiletum, Atiwa, Voidfall, Sabika]
+tags: [Essen SPIEL, Essen SPIEL 2022, "Wingspan Asia", Wingspan, Ark Nova, Horizons of Spirit Island, Dorfromantik, Lacrimosa, Findorff, Wormholes, Shake that City, Revive, Tiletum, Atiwa, Voidfall, Sabika]
 imghtml: https://live.staticflickr.com/65535/52417117657_fa97f61ecf_b.jpg
 post_desc: "Tras dos años de parón (uno por la pandemia y otro por mi parte)
  vuelvo a la SPIEL y te lo cuento en esta entrada" 

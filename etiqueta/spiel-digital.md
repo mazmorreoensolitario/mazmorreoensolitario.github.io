@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: Spiel Digital"
-tag: "Spiel Digital"
+title: "Etiqueta: SPIEL Digital"
+tag: "SPIEL Digital"
 ---

@@ -154,12 +154,13 @@ categorías.
             {% else %}
                 {% if tag[0] == "Cinturón de Hierro"
                 or tag[0] == "GenCon"
-                or tag[0] == "Spiel Digital"
-                or tag[0] == "Essen Spiel"
-                or tag[0] == "Essen Spiel 2019"
-                or tag[0] == "Essen Spiel 2021"
-                or tag[0] == "Essen Spiel 2022"
-                or tag[0] == "Essen Spiel 2023"
+                or tag[0] == "SPIEL Digital"
+                or tag[0] == "Essen SPIEL"
+                or tag[0] == "Essen SPIEL 2019"
+                or tag[0] == "Essen SPIEL 2021"
+                or tag[0] == "Essen SPIEL 2022"
+                or tag[0] == "Essen SPIEL 2023"
+                or tag[0] == "Essen SPIEL 2024"
                 or tag[0] == "UKGE" or tag[0] == "UKGE 2021" %}
                     <span class="label label-info"><strong>#<a class="tag-color"
                     href="/etiqueta/{{tag[0] | slugify:

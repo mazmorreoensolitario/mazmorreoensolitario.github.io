@@ -3,7 +3,7 @@ layout: post
 title: "Essen SPIEL 2023: mi bingo de juegos en solitario"
 date: 2023-09-17
 categories: [Listas]
-tags: ["Cascadia: Hitos", Scholars of the South Tigris, "The Fog: Escape from Paradise", AstroNavigators, Light in the Dark, Red Strike, Shipyard, The White Castle, World Wonders, Age of Innovation, Ark Nova, "Ark Nova: Marine Worlds", Faiyum, "Faiyum: Privileges", Evacuation, Footprints, Nucleum, Pirates of Maracaibo, Planta Nubo, Pyramidice, "Zhanguo: The First Empire", Cascadia, "Cascadia: Landmarks", Essen Spiel, Essen Spiel 2023]
+tags: ["Cascadia: Hitos", Scholars of the South Tigris, "The Fog: Escape from Paradise", AstroNavigators, Light in the Dark, Red Strike, Shipyard, The White Castle, World Wonders, Age of Innovation, Ark Nova, "Ark Nova: Marine Worlds", Faiyum, "Faiyum: Privileges", Evacuation, Footprints, Nucleum, Pirates of Maracaibo, Planta Nubo, Pyramidice, "Zhanguo: The First Empire", Cascadia, "Cascadia: Landmarks", Essen SPIEL, Essen SPIEL 2023]
 imghtml: https://live.staticflickr.com/65535/53159013491_0150aed6c6_o.png
 post_desc: "Aquí llega mi lista de top juegos y top demos para la Essen SPIEL
 de 2023."

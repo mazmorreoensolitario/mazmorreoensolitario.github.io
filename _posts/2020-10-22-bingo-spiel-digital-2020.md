@@ -3,7 +3,7 @@ layout: post
 title: "Spiel Digital 2020: mi bingo de juegos en solitario"
 date: 2020-10-22
 categories: [Listas]
-tags: [Essen Spiel, Spiel Digital, Faiyum, Fayún, "Merv: The Heart of the Silk Road", CloudAge, Curious Cargo, Hallertau, Under Falling Skies, Soul Raiders]
+tags: [Essen SPIEL, SPIEL Digital, Faiyum, Fayún, "Merv: The Heart of the Silk Road", CloudAge, Curious Cargo, Hallertau, Under Falling Skies, Soul Raiders]
 imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20201022-spiel-digital/spieldigital.png
 post_desc: "Os traigo mi lista de juegos en solitario más deseados de entre los 
 lanzamientos de Spiel Digital y los que salen por estas fechas fuera del marco 

@@ -3,7 +3,7 @@ layout: post
 title: "Crónicas de Essen SPIEL'23 - Jueves"
 date: 2023-10-05
 categories: [General]
-tags: [Pyramidice, Pirates of Maracaibo, Faiyum, "Faiyum: Privileges", Footprints, "Zhanguo: The First Empire", Ark Nova, "Ark Nova: Marine Worlds", Civolution, Tangram City, Essen Spiel, Essen Spiel 2023, Evacuation, Shipyard]
+tags: [Pyramidice, Pirates of Maracaibo, Faiyum, "Faiyum: Privileges", Footprints, "Zhanguo: The First Empire", Ark Nova, "Ark Nova: Marine Worlds", Civolution, Tangram City, Essen SPIEL, Essen SPIEL 2023, Evacuation, Shipyard]
 imghtml: https://live.staticflickr.com/65535/53237428943_0df67c9ba7_c.jpg
 post_desc: "Resumen del primer día de la SPIEL 2023" 
 ---

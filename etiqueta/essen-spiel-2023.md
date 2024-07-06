@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: Essen Spiel 2023"
-tag: "Essen Spiel 2023"
+title: "Etiqueta: Essen SPIEL 2023"
+tag: "Essen SPIEL 2023"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Essen Spiel 2021: mi bingo de juegos en solitario"
 date: 2021-10-12
 categories: [Listas]
-tags: [Essen Spiel, Essen Spiel 2021, Messina 1347, Bitoku, "Arkwright: El Juego de Cartas", "Arkwright: The Card Game", "Tabannusi: Constructores de Ur", "Tabannusi: Builders of Ur", "Boonlake", "Brazil: Imperial", Corrosion, Settlement, Ark Nova]
+tags: [Essen SPIEL, Essen SPIEL 2021, Messina 1347, Bitoku, "Arkwright: El Juego de Cartas", "Arkwright: The Card Game", "Tabannusi: Constructores de Ur", "Tabannusi: Builders of Ur", "Boonlake", "Brazil: Imperial", Corrosion, Settlement, Ark Nova]
 imghtml: https://live.staticflickr.com/65535/51579971086_1b0deac12d_o.png
 post_desc: "Aquí llega mi lista de juegos deseados para la vuelta a la
 presencialidad de Essen Spiel en 2021."

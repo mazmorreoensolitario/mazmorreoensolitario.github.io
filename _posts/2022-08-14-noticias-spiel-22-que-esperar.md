@@ -3,7 +3,7 @@ layout: post
 title: "SPIEL '22: ¿Qué se espera?"
 date: 2022-08-14
 categories: [General]
-tags: [Essen Spiel, Essen Spiel 2022]
+tags: [Essen SPIEL, Essen SPIEL 2022]
 imghtml: https://live.staticflickr.com/65535/52281349460_e7bb81729c_o.png
 post_desc: "En esta entrada damos un repaso a lo que esperamos para la edición
 del año 2022 de la SPIEL"

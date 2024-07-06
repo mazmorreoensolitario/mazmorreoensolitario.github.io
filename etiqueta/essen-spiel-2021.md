@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: Essen Spiel 2021"
-tag: "Essen Spiel 2021"
+title: "Etiqueta: Essen SPIEL 2021"
+tag: "Essen SPIEL 2021"
 ---

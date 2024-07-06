@@ -3,7 +3,7 @@ layout: post
 title: "Crónicas de Essen Spiel 2019 - Viernes"
 date: 2019-10-30
 categories: [General]
-tags: [Essen Spiel, Essen Spiel 2019, Crazy Taco, "Teotihuacán", "Teotihuacán: Preclásico Tardío", "Trismegistus: La Fórmula Definitiva", "Dados y Colonos","Dice Settlers: Western Sea", On Mars, Expedition to Newdale, "Oh My Goods!", Maracaibo, Escape Plan, Dadaocheng, "Bios: Origins 2", GMT Games, Decision Games, "Blitzkrieg!", "Rome & Roll", Soul Raiders, "Running Quest: Soul Raiders", Zaar, "Alubari: A Nice Cup of Tea", Lux Aeterna, Excavation Earth]
+tags: [Essen SPIEL, Essen SPIEL 2019, Crazy Taco, "Teotihuacán", "Teotihuacán: Preclásico Tardío", "Trismegistus: La Fórmula Definitiva", "Dados y Colonos","Dice Settlers: Western Sea", On Mars, Expedition to Newdale, "Oh My Goods!", Maracaibo, Escape Plan, Dadaocheng, "Bios: Origins 2", GMT Games, Decision Games, "Blitzkrieg!", "Rome & Roll", Soul Raiders, "Running Quest: Soul Raiders", Zaar, "Alubari: A Nice Cup of Tea", Lux Aeterna, Excavation Earth]
 imghtml: https://live.staticflickr.com/65535/48987705053_c8d4668e46_b.jpg
 post_desc: "El viernes, segundo día de Essen Spiel 2019, se me acumuló el
 cansancio por muchos factores: el día anterior tuve la genial idea de volver de

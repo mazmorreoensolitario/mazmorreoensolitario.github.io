@@ -3,7 +3,7 @@ layout: post
 title: "Historia de una demo: Atiwa"
 date: 2022-10-16
 categories: [Demos]
-tags: [Atiwa, Essen Spiel, Essen Spiel 2022]
+tags: [Atiwa, Essen SPIEL, Essen SPIEL 2022]
 game: "Atiwa"
 crop: true
 imghtml: https://cf.geekdo-images.com/TUGMKDbhnRsPHzXEmBiITw__imagepage/img/JdKD8X-YgSKMeu06WCBKCdztP-c=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6895244.jpg

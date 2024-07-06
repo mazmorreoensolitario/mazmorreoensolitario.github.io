@@ -383,7 +383,7 @@ mecánicas de construcción de rutas, pensamiento espacial, fácil de entender y
 con dificultad escalable, es tu juego.
 
 **En resumidas cuentas,** es el puzle espacial de tuberías que tu cabeza
-comprende, pero que luego no sabe procesar, y del que el análisis-parálisis
+comprende, pero que luego no sabe procesar y del que el análisis-parálisis
 se ríe a tus espaldas.
 
 <img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración:**

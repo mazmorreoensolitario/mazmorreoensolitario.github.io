@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: Essen Spiel 2022"
-tag: "Essen Spiel 2022"
+title: "Etiqueta: Essen SPIEL 2022"
+tag: "Essen SPIEL 2022"
 ---
