@@ -34,7 +34,7 @@ domingo) en octubre, en los últimos años
 a principios del mes, en la ciudad alemana de
 [Essen](https://es.wikipedia.org/wiki/Essen) en el estado de Renania del
 Norte-Westfalia; por tanto, el destino de vuestro viaje será en Essen-Alemania y
-no en la [Essen de
+no la [Essen de
 Bélgica](https://es.wikipedia.org/wiki/Essen_(B%C3%A9lgica)) (para los
 despistados).
 
@@ -74,7 +74,7 @@ confianza en el viajero y si no te plantan una multa del copón cuando pase el
 revisor. 
 Los billetes se pueden validar automáticamente si los compráis en la app, si
 los compráis en máquinas también existe esa opción; si no, suele haber una
-maquina antes de llegar a los andenes o al lado de las propias máquinas de
+máquina antes de llegar a los andenes o al lado de las propias máquinas de
 venta de billetes. Buscar una máquina que ponga *"Fahrscheine"* o alguna
 derivación del verbo *"Entwert"*, también suele haber indicaciones en
 inglés. En esta búsqueda de Google imágenes tenéis [algunos
@@ -85,7 +85,7 @@ la palabra *"Entwerter"* impresa.
 
 Si decidís coger un taxi, el precio rondará sobre los 70€.
 
-Si decidís ir el coche a Alemania, el hotel en el que os hospedéis deberá tener
+Si decidís ir en coche a Alemania, el hotel en el que os hospedéis deberá tener
 parking, el parking de la Messe Essen no es de 24 horas. Dentro de la feria el
 parking abre todos los días a las 8 de la mañana (y hay bastante cola) y cuesta
 unos 8€ el día.
@@ -148,10 +148,11 @@ de 2023.
 
 Idealmente, recomiendo que os quedéis en la propia ciudad de Essen, ya que el
 transporte público es caro en Alemania y como vais a estar poco tiempo no vais
-a poder beneficiaros de los bonos, pero si no es posible por disponibilidad y
-os sale mejor coger un hotel fuera de Essen, las ciudades más cercanas con
-conexiones más rápidas de trenes son Mülheim (10 minutos en tren) y Bochum (15
-minutos en tren).
+a poder beneficiaros de los bonos, además así podéis aprovechar más el tiempo
+después en el hotel para poder jugar a juegos. Pero si no es posible por
+disponibilidad y os sale mejor coger un hotel fuera de Essen, las ciudades más
+cercanas con conexiones más rápidas de metro/tren son Mülheim (10 minutos en
+metro) y Bochum (15 minutos en metro).
 
 ## En la feria
 
@@ -260,8 +261,8 @@ En resumen, esto es lo que tenéis que llevar:
   defecto podéis usar la consigna, pero habrá cola.
 - Calzado cómodo.
 - Pro tip: si vais a usar el servicio de envío de juegos (sobre esto más
-  abajo), acuérdate te llevar cajas de cartón para tus juegos o amablemente
-  pide una a las editoriales, que tienen de sobra, para evitar pagar dinero por
+  abajo), acuérdate de llevar cajas de cartón para tus juegos o amablemente
+  pide una a las editoriales —que tienen de sobra— para evitar pagar dinero por
   una caja de cartón.
 
 Durante el sábado y el domingo hay bastante gente, por lo que podéis salir
