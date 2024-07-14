@@ -310,7 +310,7 @@ avisándonos de que el KS va con retraso.
 
 <p align="center">
 <img height="350"
-src="https://ksr-ugc.imgix.net/assets/042/862/744/017886e453138ed5c22103bf946f1df1_original.jpg?ixlib=rb-4.1.0&w=680&fit=max&v=1698488296&gif-q=50&q=92&s=53d6a39546703d5514c239b3b5e32eb9"></p>
+src="https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1707215545587-QCWNHL6K6U1B4XYJ1USY/Ker+Nethalas+cover.jpg?format=2500w"></p>
 
 Aunque habéis podido leer en la entradilla de la sección de rol que poco he
 podido jugar, si que eché una sesión a **[Ker

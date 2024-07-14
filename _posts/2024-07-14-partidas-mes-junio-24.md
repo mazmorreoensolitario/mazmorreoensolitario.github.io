@@ -15,7 +15,7 @@ sacado a la mesa"
 <hr>
 
 Con un poco de tardanza aquí llega la la entrada de **[El mes en
-juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos)**, dónde os comento qué he
+juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos)**, donde os comento qué he
 hecho en el panorama lúdico en el último mes de junio, y al final de la entrada
 elijo a un juego de mesa y a un juego de rol para darles el **Premio juego del mes**.
 
@@ -29,7 +29,7 @@ Diocleciano.</small>
 </p>
 
 Como os adelanté en la entrada de mayo, durante junio he tenido un par de
-viajes, el más complicando de cara a transporte fue mi viaje a Croacia, a la
+viajes, el más complicando de cara a el transporte fue mi viaje a Croacia, a la
 región de Dalmacia, en la que la capital regional es Split (foto arriba). Ya
 pude prever que no iba a poder jugar mucho a juegos de mesa por los viajes y
 que llevarme algo conmigo iba a ser complicado, pero sí que me armé con una
@@ -71,7 +71,7 @@ darle más dificultad al juego.
 Ese pequeño cambio viene dado por los bloques de ganado (los rectángulos
 marrones que tienen animales dentro), que además de ser un bloque de tipo
 "Ganado", tienen como otro subtipo, ya que se diferencian en base al tipo de
-animales que tengan dento (cerdos, vacas o gallinas) y que pueden ser "dobles",
+animales que tengan dentro (cerdos, vacas o gallinas) y que pueden ser "dobles",
 ya que se ve que en un mismo bloque hay, por ejemplo, dos corrales para
 gallinas. Esta pequeña diferencia hace que las condiciones de puntuación de
 algunas cartas sean un poco más complicadas y así se añade más dificultad al
