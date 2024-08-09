@@ -14,8 +14,8 @@ sacado a la mesa"
 
 <hr>
 
-Esta entrada de partidas mensuales de la serie **[El mes en
-juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos)**, en la que os cuento qué
+En esta entrada de partidas mensuales de la serie **[El mes en
+juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos)** os cuento qué
 he hecho durante el panorama lúdico durante julio, también llega con un
 pelín de retraso, pero llega. Al final de la entrada elijo a un juego de mesa y
 a un juego de rol para darles el **Premio juego del mes**.
