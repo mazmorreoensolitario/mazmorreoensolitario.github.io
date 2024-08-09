@@ -169,6 +169,7 @@ categorías.
                     {% if
                         tag[0] == "Compass Games" or 
                         tag[0] == "DVG" or
+                        tag[0] == "Burning Banners" or
                         tag[0] == "Decision Games" or
                         tag[0] == "Fellowship of Simulations" or
                         tag[0] == "Fort Circle Games" or
