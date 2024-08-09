@@ -304,8 +304,8 @@ a publicar en inglés, te podrán atender en inglés y las demos serán en ingl�
 
 Como os he comentado, la feria dura un total de cuatro días para el público
 general, de jueves a domingo, siendo el fin de semana, especialmente el sábado,
-el día más ajetreado. La SPIEL abre de 10 a 19 de jueves a sábado y el domingo
-cierra una hora antes, a las 18. El miércoles se abre también la feria para la
+el día más ajetreado. La SPIEL abre de 10:00 a 19:00 de jueves a sábado y el domingo
+cierra una hora antes, a las 18:00. El miércoles se abre también la feria para la
 prensa, hay varias conferencias y se ven las principales novedades desplegadas
 en mesas para que quede todo muy fotogénico.
 
