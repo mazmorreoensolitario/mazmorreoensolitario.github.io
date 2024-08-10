@@ -151,7 +151,7 @@ menos septiembre/octubre.
 Si cuando salió el Gloomhaven: Jaws of the Lion llamábamos a ese Gloomhaven el
 "hermano pequeño", este debería llamarse el "Gloomhaven bebé" o algo del estilo
 porque la caja es realmente minúscula. Las miniaturas de los personajes que
-vienen incluidas denotan el verdadero significado de la palabra "mini, son muy
+vienen incluidas denotan el verdadero significado de la palabra "mini", son muy
 pequeñas, pero a la vez se diferencia qué personaje es cúal.
 
 El juego en sí está basado en un juego print & play,
@@ -192,7 +192,7 @@ escenario).
 También está el punto de que solamente juegas con un único personaje, yo
 en el **Jaws of the Lion** jugaba con dos, por lo que podías pensar algo más
 qué podías hacer en tu turno, pensar en combos y tal, pero aquí todo se
-simplifica mucho y parece más un mata-mata sin pensar, por lo que si noto mucho
+simplifica mucho y parece más un mata-mata sin pensar, por lo que sí, noto mucho
 que no tiene demasiada profundidad.
 
 Lo que sí que me parece un despropósito es el reglamento, ya que no es ni un
@@ -289,6 +289,13 @@ dos juegos se lleven el codiciado galardón:
 ¡Felicidades a los premiados!
 
 ## Planes para agosto
+
+Espero no achicharrarme aquí en Bilbo, que no tengo aire acondicionado y el
+próximo lunes (a fecha de publicación de esta entrada) Aemet dice que vamos a
+tener 44º.
+
+En el panorama de juegos de mesa y rol, pues a jugar y seguir disfrutando del
+hobbie.
 
 Esto es todo, ¡os espero en la siguiente entrada de **[El mes en
 juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos)**!
