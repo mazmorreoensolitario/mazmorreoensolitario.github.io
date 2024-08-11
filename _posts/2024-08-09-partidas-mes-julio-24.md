@@ -111,7 +111,7 @@ a mí me está gustando mucho.
 
 El juego ha subido algo de precio en comparación con lo que he pagado yo en
 preventa, pero no es algo excesivo para la calidad de los componentes y todos
-los escenarios que trae, e incluso si no os van los wargames, pero si os gustan
+los escenarios que trae, e incluso si no os van los wargames, pero sí os gustan
 las cosas de peleas y así esto puede estar bien, pero recordad que tenéis que
 desdoblaros si queréis jugar en solitario.
 

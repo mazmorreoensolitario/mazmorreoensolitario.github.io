@@ -175,7 +175,8 @@ de puestos de editoriales y demás tiendas y el 7 es una explanada vacía donde 
 hacen los Mathtrades, compra/venta de BGG y donde también se hacen algunas de
 las colas para entrar. Los controles de acceso se encuentran en el Hall 8, y en las
 entradas/salidas de los Halls 1 y 3. Vais a poder entrar y salir todas las
-veces que queráis, dependiendo de vuestra entrada os darán una pulserita.
+veces que queráis y dependiendo de vuestra entrada os darán una pulserita, si
+no siplemente os escanearan otra vez el código QR de vuestra entrada.
 
 En el mapa de arriba también podéis ver dos iconos en los que pone **U11**,
 esas son las dos paradas del metro-tranvía que os comentaba antes. La primera
@@ -185,7 +186,7 @@ West/Süd"* os deja más cerca del los Halls 1 y 3.
 
 La entrada más grande es la que empieza en el Hall 8, por lo que yo os
 recomiendo que entréis por allí; además, si llueve, es la única en la que vais
-a esperar cubierto, ya que entráis por el Hall 8 y tenéis todo el Hall 7 para
+a esperar a cubierto, ya que entráis por el Hall 8 y tenéis todo el Hall 7 para
 hacer la cola. Sin embargo, para poder llegar antes a la editorial de la que
 queréis probar o comprar tal juego, a lo mejor tenéis que elegir otra entrada.
 
@@ -202,9 +203,10 @@ su público objetivo:
 * Halls 3 y 4: juegos de expertos
 * Hall 3: otras cosas del hobby.
 
-En el plano podéis ver que hay una sección alargada llamada **Galleria** (en el
-primero de esta sección), ahí es donde se encuentran la mayoría de los puestos
-de comida, por lo que es el mejor sitio donde encontrar la mayor variedad.
+En el plano podéis ver que hay una sección alargada llamada **Galleria**
+(primera foto de esta sección), ahí es donde se encuentran la mayoría de los
+puestos de comida, por lo que es el mejor sitio donde encontrar la mayor
+variedad.
 
 Además de esto, en **Board Game Geek** suelen sacar una **Geek Preview**
  donde aparecen todos los juegos que se van a poder probar o comprar en

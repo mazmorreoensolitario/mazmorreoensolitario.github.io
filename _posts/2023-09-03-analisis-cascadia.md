@@ -70,11 +70,11 @@ abstracto de colocación de losetas en el que tienes dos puzles interconectados.
 
 Por un lado tendrás que colocar unas losetas hexagonales, llamadas *losetas de
 hábitat*, de forma que consigas construir los hábitat más extensos de cada
-tipo, y por otro lado, fijándote en qué animales permite colocar las losetas,
+tipo y por otro lado, fijándote en qué animales permite colocar las losetas,
 deberás colocar fichas de animales formando ciertos patrones, en base a lo que
 te digan las cartas de puntuación.
 
-Los osos querrán estar colocados en parejas o en pequeños grupos, y cuantos más
+Los osos querrán estar colocados en parejas o en pequeños grupos y cuantos más
 tengas más puntos tendrás, a los salmones les gusta hacer cadenas, los halcones
 son bastante solitarios y querrán estar lejos del resto de los halcones, los
 alces son también de puntuar por grupos, mientras que los zorros son más de
@@ -93,7 +93,7 @@ la forma de jugar que te voy a explicar aquí se aplica también para la campañ
 Para jugar a **Cascadia** tienes que seleccionar antes que nada 5 *cartas de
 puntuación*, una de cada animal, que te dicen cómo puntúan los patrones de
 animales. Por cada animal, las cartas tienen una letra que va de la A a la D
-para identificarlas, y generalmente se ordenan por Oso, Alce, Halcón, Salmón y
+para identificarlas y generalmente se ordenan por Oso, Alce, Halcón, Salmón y
 Zorro, que es el orden en el que aparecen en las hojas para contar la
 puntuación. En el ejemplo de arriba jugamos con A-A-A-A-A.
 
@@ -175,7 +175,7 @@ cada una.
 
 **Cascadia** tiene una campaña de 15 escenarios en los que se nos dice qué
 cartas de puntuación tenemos que utilizar, cuál es la puntuación mínima que
-tenemos que obtener, y cuando la dificultad de la campaña avanza, nos dan una
+tenemos que obtener y cuando la dificultad de la campaña avanza, nos dan una
 serie de objetivos extra extra que hay que cumplir de forma adicional para
 poder superar el escenario. 
 
@@ -250,7 +250,7 @@ de Delirium lee esto, que le de un repaso a esa parte).
 de losetas en el que tenemos un doble puzle de construcción de patrones, por un
 lado están las losetas hexagonales de hábitat, en la que premia conseguir las
 mayores superficies posibles de cada hábitat, pero también tenemos que colocar
-las fichas de fauna en estas losetas, y para ello nos tenemos que fijar en qué
+las fichas de fauna en estas losetas y para ello nos tenemos que fijar en qué
 animales nos permiten colocar las losetas y cómo puntúa el animalito en
 cuestión según la carta de puntuación de esta partida en concreto. 
 
@@ -265,7 +265,7 @@ Y eso es realmente todo lo que tienes que hacer en **Cascadia**, ¿será este
 juego la definición de "bueno, bonito y barato"? Que sea *barato* o no es
 bastante subjetivo, así que lo dejo como ejercicio para el lector, en la parte
 de *bonito* creo que al menos nos podemos poner de acuerdo en que el juego es
-bastante vistoso e instagram-able si os va eso, y en la parte de *bueno*, aquí
+bastante vistoso e instagram-able si os va eso y en la parte de *bueno*, aquí
 es donde entro yo. Yo creo que es bastante bueno lo que ha hecho el señor Flynn
 con un par de mecánicas bien puestas, el tema nos da igual, podríamos haber
 tenido que hacer patrones con tipos de tornillos, pero hubiese funcionado igual
@@ -276,14 +276,14 @@ reglas o re-aprenderlas si lo dejas apartado una temporada, pero creo que no lo
 vas a dejar apartado mucho si te enganchas con la campaña como hice yo, el
 puzle básico ya es muy bueno, pero lo de la campaña ya es otro nivel más, ya
 que se añade más complejidad a esos dos puzles que os comentaba que tiene el
-juego (conseguir el mayor área con las losetas, y cuadrar patrones con las
+juego (conseguir el mayor área con las losetas y cuadrar patrones con las
 fichas de animalitos), en los escenarios más complicados tienes que lidiar con
 temas de adyacencia porque un hábitat no puede estar al lado de otro, te piden
 puntuaciones mínimas para algún tipo de animal... y así hasta cuatro
 condiciones de victoria diferentes. Para mí el juego básico está muy bien, pero
 la campaña le da un extra de dificultad y hace que el juego esté en otro nivel.
 
-Hago este análisis después de haber terminado la campaña, y es de los pocos
+Hago este análisis después de haber terminado la campaña y es de los pocos
 juegos en los que podría decir que, sí, ahora mismo me pondría a jugarla otra
 vez tratando de mejorar tanto mis puntuaciones, como el número de intentos que
 me costó pasarme un escenario en concreto.
@@ -292,8 +292,8 @@ Y, ¿por qué gusta este juego tan simple? Pues, mi respuesta no es nada del otr
 mundo, pero es la que tengo: porque tiene al menos una decisión interesante en
 cada turno, en todos los turnos. Antes de empezar el primer drafting ya tienes
 que pensar qué animales merecen más jugar que otros en base a las cartas de
-puntuación que estén en juego, y ya cuando empiezas a jugar tienes que tratar
-de balancear los hábitat con los patrones de los animalitos, y se mantiene esa
+puntuación que estén en juego y ya cuando empiezas a jugar tienes que tratar
+de balancear los hábitat con los patrones de los animalitos y se mantiene esa
 tensión de decidir en todos los turnos. Se siente menos "estresante" en el modo
 estándar ya que **Cascadia** es un juego de mejorar tu puntuación, tienes una
 tabla con la que comparar tus puntuaciones y en teoría puedes perder si sacas
@@ -311,7 +311,7 @@ construcción de patrones elegante y con mucha re-jugabilidad, campaña
 interesante, animales cuquis (¡viva el salmón!) y colorido, puede ser tu juego.
 
 **En resumidas cuentas,** elegante y colorido con mecánicas simples pero bien
-puestas, y con el gran extra de una campaña muy gratificante.
+puestas y con el gran extra de una campaña muy gratificante.
 
 <img width="50" height="50" src="{{site.baseurl}}/favicon.ico"> **Valoración
 (modo estándar):** 4 de 5 monedas. **¡Este juego es genial!** 
