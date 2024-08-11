@@ -290,9 +290,9 @@ dos juegos se lleven el codiciado galardón:
 
 ## Planes para agosto
 
-Espero no achicharrarme aquí en Bilbo, que no tengo aire acondicionado y el
-próximo lunes (a fecha de publicación de esta entrada) Aemet dice que vamos a
-tener 44º.
+Espero no achicharrarme aquí en Bilbo, que no tengo aire acondicionado y este
+~~lunes~~ domingo (a fecha de publicación de esta entrada) Aemet dice que vamos
+a tener 44C.
 
 En el panorama de juegos de mesa y rol, pues a jugar y seguir disfrutando del
 hobbie.
