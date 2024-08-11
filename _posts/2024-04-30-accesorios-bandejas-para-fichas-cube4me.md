@@ -19,7 +19,7 @@ de mis wargames.
 
 Posiblemente todos los lectores a los que les gusten los wargames usarán o una
 miríada de bolsitas, o bandejas para fichas (*counter trays*) o una mezcla de
-ambas cosas para organizar los juegos. Yo formo parte del segundo grupo, y si
+ambas cosas para organizar los juegos. Yo formo parte del segundo grupo y si
 las cosas se ponen feas también uso bolsitas, pero prefiero las bandejas para
 encontrar las cosas más rápidamente.
 
@@ -30,9 +30,9 @@ número de bahías y profundidad de estas, además todas las bandejas eran
 completamente transparentes (a mí me parece que así son más limpias a la vista)
 y parecían aprovechar mucho mejor el espacio.
 
-A principios de abril (2024) hice un pedido de varios tipos de bandejas, y aquí
+A principios de abril (2024) hice un pedido de varios tipos de bandejas y aquí
 os cuento qué tal me ha ido organizando algunos de los juegos para los que he
-comprado bandejas. Hago también una comparativa con bandejas de otras marcas, y
+comprado bandejas. Hago también una comparativa con bandejas de otras marcas y
 al final del todo os doy mi opinión.
 
 ### Organizando Next War: Korea
@@ -68,7 +68,7 @@ En la bandeja con una bahía única grande tengo todos los marcadores de control
 de Corea del Norte / Corea del Sur, que son bastantes, hay media plancha de
 fichas solamente en estos marcadores de control. Para estos he utilizado la
 *"Standard Cards Tray: 10 mm height 28 cards"* (1.24€ la unidad), que es 2mm
-más alta que el resto de las bandejas, y que como podéis deducir por el nombre,
+más alta que el resto de las bandejas y que como podéis deducir por el nombre,
 está pensada originalmente para guardar cartas, pero viene de lujo también para
 fichas. 
 
@@ -93,7 +93,7 @@ juego sin estrenar de lo bien que cierra.
 <p align="center"><small></small></p>
 
 Tras pasarnos el modo difícil (organizar Next War: Korea), ya todo parece
-fácil, y más porque en la propia web de **Cube4Me** tienen [packs ya
+fácil y más porque en la propia web de **Cube4Me** tienen [packs ya
 preparados](https://cube4me.com/product-category/wargames-sets/?ref=mazmorreoensolitario) 
 para que veas cómo puedes organizar un wargame en concreto. En estos packs te
 dicen qué bandejas tienes que comprar para que te quede todo organizado según
@@ -131,7 +131,7 @@ bandeja de 8mm, que es lo importante.
 <p align="center"><small></small></p>
 
 Y como podéis ver en la foto de arriba, las bandejas de 8mm son lo
-suficientemente estrechas para que entrasen en la bolsa, y sin apretar para
+suficientemente estrechas para que entrasen en la bolsa y sin apretar para
 nada el resto de componentes. También pude poner la bolsa con los marcadores
 extra dentro de la bolsa del juego.
 
@@ -143,7 +143,7 @@ bandeja de Cube4Me a la derecha</small></p>
 
 En la foto de arriba podéis ver a la izquierda una bandeja profunda de **Lock
 'n' Load Publishing** que uso para organizar todas las fichas de mi **Ardennes
-'44**, y a la derecha una bandeja tamaño estándar y profundidad de 8mm de
+'44** y a la derecha una bandeja tamaño estándar y profundidad de 8mm de
 **Cube4Me**. 
 
 Lo primero que llama la atención es que las bandejas de **Cube4Me** tienen
@@ -191,7 +191,7 @@ Otro punto a considerar es cómo cierran las bandejas. En el caso de la de
 **Cube4Me**, por lo que puede molestar si es la bandeja que tenéis arriba del
 todo y queréis aprovechar el lateral para guardar una bolsita de fichas a lo
 churro, o un par de dados. Como el cierre no está "en el suelo", vais a perder
-profundidad, y por tanto, espacio para meter más cosas en la caja.
+profundidad y por tanto, espacio para meter más cosas en la caja.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/53690282171_116b7fec8d_b.jpg"></p>
 <p align="center"><small>Bandeja de Lock 'n' Load Publishing a la izquierda y bandeja de
@@ -215,13 +215,13 @@ Realmente creía que las bandejas de **Cube4Me** me iban a hacer la vida de
 organizar wargames más fácil, así que me animé e hice un pedido principalmente
 para organizar mejor el **Next War: Korea**, que es uno de los que más juego,
 pero lo tenía muy mal organizado con dos bandejas de MasQueOca 
-(tres no entran), y muchas, *muchas* bolsitas. La caja no cerraba. Al quedarme
+(tres no entran) y muchas, *muchas* bolsitas. La caja no cerraba. Al quedarme
 con la boca abierta (completamente en serio) al ver que la caja del **Next War:
 Korea** cerraba, ya que ha sido mi mayor cruz de organización hasta ahora, he
-querido compartir mi experiencia con vosotros, y de ahí esta entrada.
+querido compartir mi experiencia con vosotros y de ahí esta entrada.
 
 **Precio.** Las bandejas de **Cube4Me** son generalmente las más caras en
-cuanto al precio unitario, aunque como es una empresa polaca, y los envíos se
+cuanto al precio unitario, aunque como es una empresa polaca y los envíos se
 hacen desde dentro de la UE con VAT pagado y tal, añadiendo todos los gastos
 extra, estas puede que sean más baratas que importar otras marcas desde
 EEUU. También hay que tener en perspectiva que son 4€ frente a los más de 50€
@@ -241,11 +241,11 @@ los componentes de **VUCA Simulations** con cualquier otra editorial,
 En un acto de locura momentánea (porque no se me ocurrió usar una bandeja
 *vacía* en vez de llena), tras organizar las fichas del NW:K hice la
 prueba del zarandeo cogiendo la bandeja únicamente desde una de las solapas de
-una esquina, y no hubo desastre. Las bandejas cierran perfectamente y se oye un
+una esquina y no hubo desastre. Las bandejas cierran perfectamente y se oye un
 *\*click\** audible cuando se cierra la bandeja. Además, para abrir la bandeja
 hay que localizar la única esquina por la que se puede abrir, que tiene algo
-más de solapa en comparación con el resto de esquinas, y que está marcada con
-una pegatina amarilla que pone *"Open here"*, y hay que hacer un pelín de
+más de solapa en comparación con el resto de esquinas y que está marcada con
+una pegatina amarilla que pone *"Open here"* y hay que hacer un pelín de
 fuerza, porque cierra muy bien.
 
 Así que en cuanto a la relación de calidad-precio yo creo que lo vale.
@@ -258,5 +258,5 @@ espacio.
 
 **Conclusiones.** Las bandejas de fichas de
 **[Cube4Me](https://cube4me.com/?ref=mazmorreoensolitario)** me han parecido
-una genialidad, y se han convertido en mi marca de referencia para organizar
+una genialidad y se han convertido en mi marca de referencia para organizar
 wargames. Absolutamente recomendadas.
