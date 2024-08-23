@@ -118,7 +118,9 @@ Aquí los tenéis:
          <h4>2. <a href="https://amzn.to/3R8Gf9a">Factory Funner</a></h4>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/183284">Factory
-    Funner</a></strong>, de Corné van Moorsel y publicado por
+    Funner</a></strong> (<a
+    href="{{site.baseurl}}/2024/04/29/analisis-factory-funner/">análisis
+    aquí</a>), de Corné van Moorsel y publicado por
     <strong>BoardGameTables</strong> es otro juego de construcción de rutas de
     los más puros; en <strong>Factory Funner</strong> tienes que conectar
     mediante tuberías las máquinas de una fábrica a los colores del producto
