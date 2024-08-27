@@ -59,39 +59,42 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Print & play"
-      or tag[0] == "Disciples of Bone and Shadow"
-      or tag[0] == "ALIEN RPG"
-      or tag[0] == "El mes en juegos"
-      or tag[0] == "Ironsworn"
-      or tag[0] == "Ker Nethalas"
-      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "9 Card Game Print & Play Design Contest"
-      or tag[0] == "Cartaventura"
-      or tag[0] == "Food Chain Magnate"
-      or tag[0] == "Four Against Darkness"
-      or tag[0] == "One Deck Dungeon"
-      or tag[0] == "Santander 37"
-      or tag[0] == "Tops"
-      or tag[0] == "54 Card Game Design Contest"
-      or tag[0] == "A Torch in the Dark"
-      or tag[0] == "Accesorios"
-      or tag[0] == "Cartaventura: Lhassa"
-      or tag[0] == "Cthulhu: Death May Die"
-      or tag[0] == "D-Day at Omaha Beach"
-      or tag[0] == "Etherfields"
-      or tag[0] == "Five Parsecs From Home"
-      or tag[0] == "Gloomhaven: Fauces del León"
-      or tag[0] == "Iron Helm"
-      or tag[0] == "Ironsworn: Delve"
-      or tag[0] == "Ironsworn Worlds: Sundered Isles"
-      or tag[0] == "Los Castillos de Borgoña"
-      or tag[0] == "OSR"
+      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Scarlet Heroes"
-      or tag[0] == "Shipyard"
-      or tag[0] == "The Wretched"
-      or tag[0] == "Tin Helm"
-      or tag[0] == "Troyes"
-      or tag[0] == "Undaunted: Normandy" %}
+      or tag[0] == "Four Against Darkness"
+      or tag[0] == "Old-School Essentials"
+      or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "One Page Dungeon"
+      or tag[0] == "Resistid"
+      or tag[0] == "Aeon's End"
+      or tag[0] == "After The Virus"
+      or tag[0] == "Altar Quest"
+      or tag[0] == "Arquitectos del Reino del Oeste"
+      or tag[0] == "D-Day at Omaha Beach"
+      or tag[0] == "Dawn of the Zeds"
+      or tag[0] == "Disciples of Bone and Shadow"
+      or tag[0] == "Dorfromantik"
+      or tag[0] == "Essen SPIEL"
+      or tag[0] == "Fire in the Lake"
+      or tag[0] == "Five Leagues From The Borderlands"
+      or tag[0] == "Gloomhaven: Buttons & Bugs"
+      or tag[0] == "Gloomhaven"
+      or tag[0] == "Horizons of Spirit Island"
+      or tag[0] == "Ironsworn: Starforged"
+      or tag[0] == "Ironsworn"
+      or tag[0] == "It's a Wonderful Kingdom"
+      or tag[0] == "Ker Nethalas"
+      or tag[0] == "Legends of Dsyx"
+      or tag[0] == "Marvel Champions: The Card Game"
+      or tag[0] == "Mechs vs. Minions"
+      or tag[0] == "Mini Rogue"
+      or tag[0] == "Mythic"
+      or tag[0] == "Naturopolis"
+      or tag[0] == "Star Wars: Rebellion"
+      or tag[0] == "Stargrave"
+      or tag[0] == "Teotihuacán"
+      or tag[0] == "Tin Helm" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
                                                    href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
@@ -109,13 +112,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2024/08/09/partidas-mes-julio-24/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2020/05/16/rol-en-solitario-como-empiezo/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -123,14 +119,28 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2024/07/14/partidas-mes-junio-24/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/03/27/general-top-100-bgg-solitario-p4/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2020/05/23/ojeando-mini-rogue/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2022/05/08/noticias-boletin-abril-2022/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2023/06/04/analisis-resistid/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2019/04/25/rol-mothership/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -144,28 +154,21 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2019/03/09/analisis-maquis/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2018/12/23/analisis-sprawlopolis/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2023/02/24/noticias-csr-awards-2021/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/09/13/rol-old-school-essentials-advanced-fantasy/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/03/27/general-top-100-bgg-solitario-p4/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2020/09/07/root-en-solitario/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
