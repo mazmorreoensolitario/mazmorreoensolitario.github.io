@@ -223,6 +223,7 @@ categorías.
                         tag[0] == "Five Parsecs From Home" or
                         tag[0] == "Five Leagues From The Borderlands" or
                         tag[0] == "Forbidden Psalm: The Last War" or
+                        tag[0] == "France 40" or
                         tag[0] == "Freeman's Farm 1777" or
                         tag[0] == "Gandhi: The Decolonization of British India" or
                         tag[0] == "Gettysburg" or

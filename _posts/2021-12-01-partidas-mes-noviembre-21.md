@@ -199,8 +199,8 @@ PDF de **Death In Space**, del que os hablaré más abajo.
 ### Death In Space
 
 <p align="center">
-<img height=""
-src="https://ksr-ugc.imgix.net/assets/032/814/392/6f53d1c6766a0aea3ed5e5b5ff749190_original.png?ixlib=rb-4.0.2&w=680&fit=max&v=1616266099&auto=format&gif-q=50&lossless=true&s=8e12518a76f86525752e4b89a8a578d9"></p>
+<img height="400"
+src="https://d1vzi28wh99zvq.cloudfront.net/images/11437/377188.webp"></p>
 
 **[Death In Space](https://www.drivethrurpg.com/product/377188/Death-in-Space-Core-Rules??affiliate_id=1914894)** es un juego de rol de temática espacial ambientado en el
 sistema Tenebris, un sistema recóndito que fue una pieza central en la guerra
