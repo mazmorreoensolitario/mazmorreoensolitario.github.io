@@ -3,7 +3,7 @@ layout: post
 title: "Primeras impresiones - Ark Nova"
 date: 2022-06-07
 categories: [Primeras impresiones]
-tags: [Ark Nova, Golden Geek, Essen Spiel 2021]
+tags: [Ark Nova, Golden Geek, Essen SPIEL 2021]
 game: Ark Nova
 crop: true
 imghtml: https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepage/img/qR1EvTSNPjDa-pNPGxU9HY2oKfs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6293412.jpg
