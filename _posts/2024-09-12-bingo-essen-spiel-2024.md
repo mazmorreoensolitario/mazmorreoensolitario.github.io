@@ -4,20 +4,21 @@ title: "SPIEL Essen 2024: mi bingo de juegos en solitario"
 date: 2024-09-12
 categories: [Listas]
 tags: [Undaunted, Saltfjord, Pirates of Maracaibo, Resafa, Shackleton Base, Steam Power, SETI, YRO, Witchdom, Flatiron, Civolution, Essen SPIEL, Essen SPIEL 2024]
-imghtml: http://localhost:4000/images/spiel-24.png
+imghtml: https://live.staticflickr.com/65535/53990765903_e36357721c_o.png
 post_desc: "Aquí llega mi lista de top juegos y top demos para la Essen SPIEL
 de 2024."
 ---
 
-<p align="center"> <img src="http://localhost:4000/images/spiel-24.png"> </p>
+<p align="center"> <img src="https://live.staticflickr.com/65535/53990765903_e36357721c_o.png"> </p>
 
 <hr>
+
 
 Con el otoño llegan los colores más bonitos de los árboles (en mi opinión) y
 también uno de mis eventos más esperados del año, la
 [feria](https://www.spiel-essen.de/en/) más grande de juegos de mesa, la
 **SPIEL Essen** (3 a 6 de octubre de 2024). Si no sabéis qué es esto de la
-SPIEL en [aquí tienes una
+SPIEL, [aquí tienes una
 guía]({{site.baseurl}}/2024/07/06/noticias-spiel-essen-guia-de-viaje/) dónde te
 lo cuento todo.
 
@@ -106,7 +107,8 @@ juegos *no me he leído el reglamento* (si lo hubiera).
     Peace</a></strong> de <strong>Fabio Lopiano, Nestore Mangone</strong> y
     próximamente publicado por <strong>Alley Cat Games</strong>, es un juego
     ambientado en la edad dorada de Baghdad (siglos IX y X), durante la
-    construcción de la misma. </p> <p><strong>¿Por qué me interesa la demo de
+    construcción de la misma. </p>
+    <p><strong>— ¿Por qué me interesa la demo de
     este juego?</strong> Lo único que sé del juego es la pequeña descripción
     que tenemos en BGG y las lista de sus mecánicas, que incluyen rondeles. Los
     autores han hecho cosas chulas, así que voy a la aventura total con esta
@@ -123,7 +125,7 @@ juegos *no me he leído el reglamento* (si lo hubiera).
     Guild</strong>, es un juego de colocación de losetas en el que buscamos
     crear rutas de ferrocarril y autopistas </p> <img
     src="https://cf.geekdo-images.com/ZVIWmjge34cgYh3lSq2gEQ__imagepage/img/s2uTnVHCg9jw1ZHq7n6hQ-KH2W0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8128889.jpg">
-    <p><small></small></p> <p><strong>¿Por qué me interesa la demo de este
+    <p><small></small></p> <p><strong>— ¿Por qué me interesa la demo de este
     juego?</strong> El roll & write original (<a
     href="https://boardgamegeek.com/boardgame/245654/railroad-ink-deep-blue-edition">Railroad
     Ink</a>) me gustó, así que tengo interés por saber qué van a hacer con esta
@@ -171,7 +173,7 @@ juegos *no me he leído el reglamento* (si lo hubiera).
     Onoda, que al final de la Segunda Guerra Mundial no dejó su puesto pensando
     que los avisos de que Japón había perdido eran propaganda del enemigo, por
     lo que estuvo treinta años sobreviviendo en la isla de Lubang.</p>
-    <p><strong>¿Por qué me interesa la demo de este juego?</strong> La premisa
+    <p><strong>— ¿Por qué me interesa la demo de este juego?</strong> La premisa
     de este juego me llamó mucho la atención cuando anunciaron este juego, que
     espera tener una campaña de Gamefound en <a
     href="https://gamefound.com/es/projects/saltandpepper/onoda?ref=mazmorreoensolitario">noviembre</a>. Otros
@@ -266,7 +268,7 @@ me quiten de dudas.
     y publicado por <strong>Osprey Games</strong>, es la última instancia de la
     saga <i>Undaunted</i>, que en vez de instalarse en el Pacífico de la
     Segunda Guerra Mundial (como muchos fans pensaban), ha dado un salto al
-    futuro y nos lleva a una ambientación de ciencia ficción.</p> <p><strong>Un
+    futuro y nos lleva a una ambientación de ciencia ficción.</p> <p><strong>— Un
     pequeño vistazo.</strong> La serie <strong>Undaunted</strong> comparte
     mecánicas que son comunes en todos los juegos, tenemos una baraja de cartas
     que representa las unidades que tenemos en el mapa del escenario en
@@ -335,7 +337,7 @@ me quiten de dudas.
     atención del juego. Aparte de que me gusta también que se desencadene un
     final inmediato de la partida cuando se termina la construcción del
     edificio.</p> <p>La duda que tengo con este juego es simplemente logística,
-    va a llegar antes a tiendas que a la <strong>SPIEL</strong>, por lo que
+    ya que ya se encuentra en tiendas, por lo que
     estrictamente hablando no es una novedad de la feria y no tendría ni que
     aparecer en esta entrada, pero ya que va a estar espero poder probarlo
     porque tiene muy buena pinta. Me gusta mucho la mecánica de las acciones,
@@ -435,7 +437,8 @@ me quiten de dudas.
     agote, pero bueno, voy sin FOMO y con mucha tranquilidad ya que lo traerá
     también <strong>Maldito Games</strong> en un futuro.</p> <p>Por otro lado,
     me atrae mucho y el reglamento está bastante bien organizado y explicado
-    para el monstruo que parece. Así que por todo esto es Mi Gran Duda de esta
+    para el monstruo que parece. Así que por todo esto
+    <strong>Civolution</strong> es Mi Gran Duda de esta
     SPIEL'24.</p> </div> </div>
 
 
@@ -446,10 +449,6 @@ El nombre de esta sección lo dice todo, estos son los **juegos en solitario que
 más me interesan de la SPIEL** y en un principio, salvo que en la demo me salga
 rana el juego, tengo intención de comprarlos (o algunos ya los he pre-pedido).
  
-En la parte de *"— Un pequeño vistazo"* trato de haceros un pequeño resumen de
-las reglas para que os hagáis a la idea de cómo se juega, y luego tenéis porqué
-me interesa el juego.
-
 <div class="row"> <div class="col-md-3"> <img width="500" height="500"
     src="https://cf.geekdo-images.com/zyWcsLTCgwC_O9kD2qS1YQ__original/img/14DYXYovEQbQo_C29mo9Z_iQZ3o=/0x0/filters:format(png)/pic8316143.png"
     class="img-thumbnail" alt="YRO"> </div> <div class="col-md-9">
