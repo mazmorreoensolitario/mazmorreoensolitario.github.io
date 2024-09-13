@@ -273,7 +273,7 @@ me quiten de dudas.
     mecánicas que son comunes en todos los juegos, tenemos una baraja de cartas
     que representa las unidades que tenemos en el mapa del escenario en
     cuestión, cada carta tiene las acciones disponibles de cada unidad, su
-    iniciativa y un una identificativo. En cada turno robamos cuatro cartas de
+    iniciativa y un un identificativo. En cada turno robamos cuatro cartas de
     nuestro mazo y elegimos cómo jugarlas, activando las acciones de la unidad
     que hayamos elegido. Bastante sencillo todo.</p> <p>Las reglas ya están
     disponibles <a
