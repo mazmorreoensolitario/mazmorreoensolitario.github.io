@@ -64,6 +64,13 @@
     <h4>Lo más leído</h4>
     <div id="most-read"></div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2024/09/12/bingo-essen-spiel-2024/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2020/01/09/rol-10-juegos-aventuras-para-2020/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -72,20 +79,6 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2020/05/16/rol-en-solitario-como-empiezo/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2024/09/02/partidas-mes-agosto-24/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/02/24/noticias-csr-awards-2021/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -106,20 +99,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2022/05/08/noticias-boletin-abril-2022/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2024/09/12/bingo-essen-spiel-2024/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -127,7 +106,28 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/06/21/analisis-root/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2022/05/08/noticias-boletin-abril-2022/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2023/02/24/noticias-csr-awards-2021/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2024/09/02/partidas-mes-agosto-24/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2024/01/09/listas-lo-mas-jugado-2023/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -153,31 +153,30 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Print & play"
-      or tag[0] == "Root: Los Cachivaches"
       or tag[0] == "El mes en juegos"
       or tag[0] == "Etherfields"
-      or tag[0] == "Four Against Darkness"
-      or tag[0] == "OSR"
-      or tag[0] == "Zhanguo: The First Empire"
-      or tag[0] == "Essen SPIEL 2021"
-      or tag[0] == "Ironsworn: Delve"
-      or tag[0] == "Messina 1347"
-      or tag[0] == "Wicked Ones"
-      or tag[0] == "D30 Sandbox Companion"
-      or tag[0] == "Darkest Dungeon: The Board Game"
-      or tag[0] == "Dune: Imperium"
-      or tag[0] == "Five Parsecs From Home"
-      or tag[0] == "Golden Geek"
-      or tag[0] == "High Frontier 4 All"
       or tag[0] == "Horizons of Spirit Island"
-      or tag[0] == "Labyrinth Lord"
-      or tag[0] == "One Deck Dungeon"
-      or tag[0] == "Patchwork"
-      or tag[0] == "Res Arcana"
-      or tag[0] == "Resistid"
-      or tag[0] == "Santa Maria"
-      or tag[0] == "Stargrave"
+      or tag[0] == "OSR"
+      or tag[0] == "Root: Los Cachivaches"
+      or tag[0] == "Five Parsecs From Home"
+      or tag[0] == "Four Against Darkness"
       or tag[0] == "Through the Ages: A New Story of Civilization"
+      or tag[0] == "Tops"
+      or tag[0] == "Wicked Ones"
+      or tag[0] == "Zhanguo: The First Empire"
+      or tag[0] == "Apothecaria"
+      or tag[0] == "Darkest Dungeon: The Board Game"
+      or tag[0] == "Disciples of Bone and Shadow"
+      or tag[0] == "Dune: Imperium"
+      or tag[0] == "High Frontier 4 All"
+      or tag[0] == "Labyrinth Lord"
+      or tag[0] == "Messina 1347"
+      or tag[0] == "One Deck Dungeon"
+      or tag[0] == "Reinos de Papel: Más allá de las puertas"
+      or tag[0] == "Scarlet Heroes"
+      or tag[0] == "Stargrave"
+      or tag[0] == "The Perilous Wilds"
+      or tag[0] == "Trickerion: Legends of Illusion"
       or tag[0] == "Verdun 1916: Steel Inferno" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
@@ -203,14 +202,14 @@
     <h4>Análisis más leídos</h4>
     <div id="top-analisis"></div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/06/21/analisis-root/" %}
+      {% assign target-posts = site.posts | where: "url","/2023/06/04/analisis-resistid/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>1. {{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/06/04/analisis-resistid/" %}
+      {% assign target-posts = site.posts | where: "url","/2018/12/23/analisis-sprawlopolis/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>2. {{post.title | truncate: 40}}</h5></div></a>
@@ -231,7 +230,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/01/17/analisis-food-chain-island/" %}
+      {% assign target-posts = site.posts | where: "url","/2019/05/02/analisis-count-of-nine/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>5. {{post.title | truncate: 40}}</h5></div></a>

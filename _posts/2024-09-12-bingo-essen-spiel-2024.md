@@ -300,7 +300,12 @@ me quiten de dudas.
     juego sale oficialmente el 12 de septiembre, casi un mes antes de la SPIEL,
     así que ya habrá ofertas antes de que llegue a la feria. El tema de precios
     dinámicos pasó también con los primeros Undaunted, Merv y Sankoré, que son
-    los juegos de la editorial que más he seguido por interés.</p> </div>
+    los juegos de la editorial que más he seguido por interés.</p>
+    <p><strong>Actualización:</strong> el tema de los precios dinámicos de los
+    lanzamientos de <strong>Osprey Games</strong> se ha vuelto a cumplir,
+    tenemos ya el juego por <a href="https://amzn.to/3Zmr7L7">64€ en
+    Amazon</a> (un 20% más barato) tan solo un día después de su fecha de
+    salida.</p></div>
     </div>
 
 <div class="row"> <div class="col-md-3"> <img width="500" height="500"
