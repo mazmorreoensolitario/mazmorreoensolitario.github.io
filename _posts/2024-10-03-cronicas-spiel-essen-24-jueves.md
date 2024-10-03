@@ -5,7 +5,7 @@ date: 2024-10-03
 categories: [General]
 tags: [Essen SPIEL, Essen SPIEL 2024, Reef Project, Saltfjord, Steam Power, SETI, Resafa, Shackleton Base]
 imghtml: https://live.staticflickr.com/65535/54041132983_8aa50c8ee0_b.jpg
-post_desc: "Resumen del tercer día de la SPIEL 2023" 
+post_desc: "Resumen del primer día de la SPIEL 2024" 
 ---
 
 ![](https://live.staticflickr.com/65535/54041132983_8aa50c8ee0_b.jpg)
