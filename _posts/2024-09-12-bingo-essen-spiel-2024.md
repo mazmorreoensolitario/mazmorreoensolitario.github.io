@@ -3,7 +3,7 @@ layout: post
 title: "SPIEL Essen 2024: mi bingo de juegos en solitario"
 date: 2024-09-12
 categories: [Listas]
-tags: [Undaunted, Saltfjord, Pirates of Maracaibo, Resafa, Shackleton Base, Steam Power, SETI, YRO, Witchdom, Flatiron, Civolution, Essen SPIEL, Essen SPIEL 2024]
+tags: [Dungeon Exit, Undaunted, Saltfjord, Pirates of Maracaibo, Resafa, Shackleton Base, Steam Power, SETI, YRO, Witchdom, Flatiron, Civolution, Essen SPIEL, Essen SPIEL 2024]
 imghtml: https://live.staticflickr.com/65535/53990765903_e36357721c_o.png
 post_desc: "Aquí llega mi lista de top juegos y top demos para la Essen SPIEL
 de 2024."
