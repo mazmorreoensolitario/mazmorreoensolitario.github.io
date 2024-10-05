@@ -10,9 +10,9 @@ post_desc: "Resumen del segundo día de la SPIEL 2024"
 
 ![](https://live.staticflickr.com/65535/54042170422_52bb6b1c16_b.jpg)
 
-* **Jueves 3/10** [entrada]({{site.baseurl}}/2024/10/03/cronicas-spiel-essen-24-jueves/)
+* **Jueves 3/10** ([entrada]({{site.baseurl}}/2024/10/03/cronicas-spiel-essen-24-jueves/))
 * **Viernes 4/10** (estás aquí)
-* **Sábado 5/10** *próximamente*.
+* **Sábado 5/10** ([entrada]({{site.baseurl}}/2024/10/05/cronicas-spiel-essen-24-sabado/))
 
 <hr>
 
@@ -147,7 +147,7 @@ Del otro juego del que quería tener buena suerte para hacer una demo era el
 positiva con **Cascadia** dos personas diferentes, así que tengo ganas de poder
 probarlo algún otro día.
 
-Y bueno, también pude ver muchos otros juegos, pero lo dejo aquí
+Y bueno, también pude ver muchos otros juegos, pero lo dejo aquí.
 
 <br>
 

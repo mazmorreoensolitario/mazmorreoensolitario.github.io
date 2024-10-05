@@ -11,8 +11,8 @@ post_desc: "Resumen del primer día de la SPIEL 2024"
 ![](https://live.staticflickr.com/65535/54041132983_8aa50c8ee0_b.jpg)
 
 * **Jueves 3/10** (estás aquí)
-* **Viernes 4/10** *próximamente*
-* **Sábado 5/10** *próximamente*.
+* **Viernes 4/10** ([entrada]({{site.baseurl}}/2024/10/04/cronicas-spiel-essen-24-viernes/))
+* **Sábado 5/10** ([entrada]({{site.baseurl}}/2024/10/05/cronicas-spiel-essen-24-sabado/))
 
 <hr>
 
@@ -70,7 +70,8 @@ pude oír del juego.
 <p align="center"><small>Civolution</small></p>
 
 La tercera compra crítica del día fue el **[segundo pack de mapas de Ark
-Nova]()**, que casi pensaba que no llegaba a por él porque en un momento de la
+Nova](https://boardgamegeek.com/boardgame/426978/ark-nova-zoo-map-pack-2)**,
+que casi pensaba que no llegaba a por él porque en un momento de la 
 mañana la cola para comprar el
 **[Civolution](https://boardgamegeek.com/boardgame/400602/civolution)** de
 Stefan Feld y la cola de **Feuerland Spiele**, principalmente por el **[Black
