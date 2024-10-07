@@ -40,7 +40,7 @@ hice.
 <p align="center"><img src="https://live.staticflickr.com/65535/54042955526_eebaf1e88a_b.jpg"></p>
 <p align="center"><small>Witchdom expuesto</small></p>
 
-Cumplidos mis compromisos familiares del Hall 1 fueron debidamente cumplidos me
+Tras dar por cumplidos mis compromisos familiares en Hall 1 me
 dirigí al Hall 2, donde esperaba poder probar el
 **[Witchdom](https://boardgamegeek.com/boardgame/422045)** de **Albi**. Las
 otras novedades de **Albi** no permiten el juego en solitario, así que no estoy

@@ -57,14 +57,14 @@ las cosas que os pueden interesar si os van los eurogames.
 Uno de los stands más concurridos fue el de **Czech Games Edition** gracias a
 su novedad para la **SPIEL** de este año: **[SETI: Search for Extraterrestrial
 Intelligence](https://boardgamegeek.com/boardgame/418059)**. El juego tenía una
-pinta en tablero genial y el despliegue no era tan grande como en un principio
+pinta en mesa genial y el despliegue no era tan grande como en un principio
 parecía, así que genial. Aquí llegue tarde a la primera ronda de demos así que
 espero poder probarlo otro día, no me quedé a esperar a la segunda ronda porque
 la mañana del jueves es crítica para hacerse con lo que va a agotarse. Sin
 embargo, sí que me hice con una copia se **SETI** sin hacer demo antes ya que
 el miércoles a la noche hubo un corrillo de gente en varias mesas jugando al
-juego (ya que habían conseguido copias de prensa o algo) y me gustó lo que vi y
-pude oír del juego.
+juego en mi hotel (ya que habían conseguido copias de prensa o algo) y me gustó
+lo que vi y pude ver y oír del juego.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/54040008362_c71e012edd_b.jpg"></p>
 <p align="center"><small>Civolution</small></p>

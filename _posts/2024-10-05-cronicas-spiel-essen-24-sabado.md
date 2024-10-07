@@ -109,11 +109,11 @@ precios para que se vean bien y porque siempre tienen más de una mesa de cada
 juego para poder probarlos.
 
 La demo de **Terminus** fue a cinco personas, dos alemanes de Stuttgart, dos
-italianos y yo. Me pareció algo más complicado de la idea preconcebida que
-llevaba, pero me gustó mucho, la selección de acciones en la rueda esa de forma
-que no puedes tomar una acción "posterior" sin pasarte a la siguiente vuelta
-está muy bien, el dinero es muy importante y a mí ya sabéis que me gusta lo de
-hacer rutas, así que me pareció muy chulo. 
+italianos y yo. Me pareció algo más complicado que la idea preconcebida que
+llevaba yo del juego, pero me gustó mucho, la selección de acciones en la rueda
+esa de forma que no puedes tomar una acción "posterior" sin pasarte a la
+siguiente vuelta está muy bien, el dinero es muy importante y a mí ya sabéis
+que me gusta lo de hacer rutas, así que me pareció muy chulo.
 
 Después de esto me pasee otra vez por los Halls de minis y juegos de rol e hice
 mi mejor esfuerzo por no picar nada en el stand de **Free League**, cosa que
