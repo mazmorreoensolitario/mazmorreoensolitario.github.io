@@ -59,26 +59,31 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Print & play"
+      or tag[0] == "Tops"
       or tag[0] == "7 Wonders Duel"
       or tag[0] == "Disciples of Bone and Shadow"
+      or tag[0] == "Essen SPIEL"
       or tag[0] == "La Fortaleza de Hegra"
-      or tag[0] == "Root: Los Cachivaches"
       or tag[0] == "Scarlet Heroes"
-      or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "Tops"
       or tag[0] == "Zhanguo: The First Empire"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "A las Puertas de Loyang"
       or tag[0] == "Advanced Squad Leader"
       or tag[0] == "Aeon's End"
+      or tag[0] == "Darwin's Journey"
       or tag[0] == "Four Against Darkness"
       or tag[0] == "Gloomhaven: Fauces del León"
       or tag[0] == "Goblivion"
+      or tag[0] == "Ironsworn: Starforged"
       or tag[0] == "Labyrinth Lord"
       or tag[0] == "One Page Dungeon"
       or tag[0] == "OSR"
       or tag[0] == "Pequeños Grandes Zombis"
       or tag[0] == "Pico Pluma & Hueso"
+      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "The 7th Citadel"
+      or tag[0] == "Too Many Bones"
+      or tag[0] == "Trickerion: Legends of Illusion"
       or tag[0] == "Undaunted: Reinforcements" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
                                                    href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
@@ -104,7 +109,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2024/07/06/noticias-spiel-essen-guia-de-viaje/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2024/10/05/cronicas-spiel-essen-24-sabado/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -118,14 +123,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2024/10/05/cronicas-spiel-essen-24-sabado/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2024/10/04/cronicas-spiel-essen-24-viernes/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2024/10/04/cronicas-spiel-essen-24-viernes/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2024/07/06/noticias-spiel-essen-guia-de-viaje/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -146,14 +151,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/02/02/analisis-gladiator-gauntlet/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2023/07/16/noticias-csr-awards-2022/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/01/26/analisis-micro-city/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2019/02/02/analisis-gladiator-gauntlet/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
