@@ -190,7 +190,7 @@ sorprender a más de un listo que piense que va a ser todo muy fácil. A mí me
 está encantando. Y tiene el bonus que puedes jugarlo en el sofá (¡sin mesa!) en
 plan apalanque total en una postura nada buena para tu espalda cuando terminas
 de trabajar porque el juego tiene componentes magnéticos. Qué gran tecnología,
-me 
+me atrae mucho (\**ba dum tss*\*).
 
 No sé qué más deciros si el tema sofá y juego sencillo de preparar pero con
 miga no os llama. La construcción de rutas está bien, se ve que los escenarios
