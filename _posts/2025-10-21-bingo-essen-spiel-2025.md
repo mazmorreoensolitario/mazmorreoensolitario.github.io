@@ -5,7 +5,7 @@ date: 2025-10-21
 categories: [Listas]
 tags: [Essen SPIEL, Essen SPIEL 2025, Recall, Kingdom Crossing, Wispwood, Epona, Forestry, Sanctuary, Dungeons of Doria]
 imghtml: https://live.staticflickr.com/65535/53990765903_e36357721c_o.png
-post_desc: "Aquí llega mi lista de top juegos y top demos para la Essen SPIEL
+post_desc: "Aquí llega mi lista de top juegos en solitario de la Essen SPIEL
 de 2025."
 ---
 
@@ -138,8 +138,8 @@ de estos ya los he pedido, te comento en cada juego.
         French</strong> y tras dejarme engañar por la monísima portada, pensé:
         "qué pena que no nos traigan algo durete este año 
         también y se hayan pasado a los familiares", ya que en los dos 
-        años anteriores nos habían traido dos euros duros que me han gustado: Shackleton Base
-        (2024) y Zhanguo: The First Empire (2023); yo no me esperaba que esto
+        años anteriores nos habían traido dos euros duros que me han gustado: <strong>Shackleton Base</strong>
+        (2024) y <strong>Zhanguo: The First Empire</strong> (2023); yo no me esperaba que esto
         fuera un euro duro con estos gráficos. Pero tras ver que el tablero es el mapa del
         problema de Königsberg, y tras leer el manual... ¡já! Menos mal que leo
         los reglamentos, creo que este juego tiene potencialmente más
@@ -270,7 +270,7 @@ probabilidades de que me gusten son altas.
          <p><small>Foto de la editorial</small></p>
          <p><strong>¿Por qué me interesa este juego?</strong> Este es un juego
              que me ha parecido interesante por el tema, pero que tras leer el
-    reglamento no creo que haya terminado de entender como se interconectan
+    reglamento no creo que haya terminado de entender cómo se interconectan
     todas las acciones posibles. Es un reglamento que explica todas las
     acciones al principio, sin explicarnos para qué las queremos, y luego al
     final del reglamento te habla de los contratos y ya en teoría lo hilas
