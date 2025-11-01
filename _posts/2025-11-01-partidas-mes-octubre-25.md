@@ -5,7 +5,7 @@ date: 2025-11-1
 categories: [General]
 tags: [El mes en juegos, Resafa, Saltfjord, Kingdom Crossing]
 imghtml: https://live.staticflickr.com/65535/54894828874_319fbd498c_w.jpg
-post_desc: "Este es el resumen de mis partidas de juegos de mesa en octubre"
+    post_desc: "Este es el resumen de mis partidas de juegos de mesa en octubre"
 ---
 
 ![](https://live.staticflickr.com/65535/54894828874_319fbd498c_c.jpg)
@@ -184,7 +184,7 @@ interesantes en cada turno.
 
 En **Saltfjord** utilizamos el color y valor de dados de acción para activar
 todos los edificios que se encuentren en filas o columnas de nuestro tablero de
-jugador. Las acciones de estos edificios producen recursos, nos permiten
+jugador asociadas a dicho dado. Las acciones de estos edificios producen recursos, nos permiten
 construir más edificios en nuestro tablero, nos permiten avanzar en un track de
 desarrollo, conseguir bonos o ir a pescar entre otras cosas. Es un juego muy
 combero.
@@ -205,7 +205,7 @@ en cada partida tienes una guía que te indica a qué tienes que ir para
 ganar. No hay bot, eres solamente tú contra los objetivos, y si lo consigues
 puntúas. 
 
-## El favorito del mes
+## El juego del mes
 
 <p align="center">
 <img height="" src="https://live.staticflickr.com/65535/51017482330_95d9f724e1_o.png"></p>
