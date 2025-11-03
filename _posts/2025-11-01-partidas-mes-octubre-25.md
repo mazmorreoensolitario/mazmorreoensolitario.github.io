@@ -210,7 +210,7 @@ puntúas.
 <p align="center">
 <img height="" src="https://live.staticflickr.com/65535/51017482330_95d9f724e1_o.png"></p>
 
-El favorito del mes ha sido sin duda **Salfjord**, del que además me acordé de
+El favorito del mes ha sido sin duda **Saltfjord**, del que además me acordé de
 la mayoría de las reglas aunque haya estado tanto tiempo sin jugar a juegos de
 mesa. 
 
