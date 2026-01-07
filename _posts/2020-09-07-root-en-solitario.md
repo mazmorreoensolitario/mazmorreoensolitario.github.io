@@ -10,7 +10,7 @@ post_desc: "¿Se puede jugar a Root en solitario? ¿Cómo juego? ¿De dónde has
 ---
 
 <small><strong>Actualizado 31/10/20</strong>. Se añade link al BIS -
-Octubre. <strong>Actualizado 25/01/21</strong>. Información sobre la traducción
+Octubre.<br><strong>Actualizado 25/01/21</strong>. Información sobre la traducción
 de 2Tomatoes Games.</small>
 <hr>
 
@@ -19,9 +19,9 @@ de 2Tomatoes Games.</small>
 <p align="center"><small>Una de mis primeras partidas a Root, Marquise de Cat
    (yo) contra Electric Eyrie (bot)</small></p>
  
-> **[Aquí]({{site.baseurl}}/2021/06/21/analisis-root/) tienes un análisis**
+> **[Aquí tienes una reseña
 > sobre Root y la expansión Clockwork (Los Cachivaches) para jugar en
-> solitario. 
+> solitario.]({{site.baseurl}}/2021/06/21/analisis-root/)**
 
 Una de las preguntas que más recibo cuando subo alguna imagen de mis partidas
 de **Root** a [Twitter](https://twitter.com/mazmorreo) o
@@ -171,9 +171,10 @@ Hay varias formas de jugar a
 Y esto es todo, espero que esta pequeña entrada os solucione las dudas y sino
 os puedo **contestar a las preguntas en los comentarios de abajo**.
 
-> **[Aquí]({{site.baseurl}}/2021/06/21/analisis-root/) tienes un análisis**
+> **[Aquí tienes una reseña
 > sobre Root y la expansión Clockwork (Los Cachivaches) para jugar en
-> solitario. 
+> solitario.]({{site.baseurl}}/2021/06/21/analisis-root/)**
+
 
 <hr>
 

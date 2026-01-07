@@ -11,6 +11,7 @@ Si quieres ponerte en contacto manda un email a:
 O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
  redes sociales:
 
+ * BlueSky: **[@mazmorreo](https://bsky.app/profile/mazmorreo.bsky.social)**
  * Twitter: **[@mazmorreo](https://twitter.com/mazmorreo)**
  * Instagram: **[@mazmorreo](https://www.instagram.com/mazmorreo/?hl=es)**
 
@@ -19,13 +20,14 @@ O si lo prefieres, tengo los mensajes directos abiertos en las siguientes
 * Libros que estoy leyendo ahora: *muchos*.
 * Posibles siguiente/s libro/s en mi lista para leer: *muchos*.
 * Libros que he leído:
+  - en 2025: [lista aquí]({{site.baseurl}}/2026/01/06/off-topic-libros-2025/)
+  - en 2024: [lista aquí]({{site.baseurl}}/2025/01/02/off-topic-libros-2024/)
   - en 2023: [lista aquí]({{site.baseurl}}/2023/12/31/off-topic-libros-2023/)
   - en 2022: [lista aquí]({{site.baseurl}}/2022/12/30/off-topic-libros-de-2022/)
   - en 2021: [lista aquí]({{site.baseurl}}/2021/12/21/off-topic-libros-de-2021/)
-* Series que estoy viendo: *For All Mankind*, *Yellowstone*.
-* Videojuegos que ocasionalmente juego durante estos meses: Wartales, Deep Sky
-  Derelicts, Caves of Qud, [Star Wars Battlefront II](https://amzn.to/2TQNQz5),
-  Atom RPG.
+* Series que estoy viendo: *Pluribus*, *For All Mankind*.
+* Videojuegos que ocasionalmente juego durante estos meses: Wartales, 
+  Divinity Original Sin 2,  Caves of Qud.
 
 
 # Sobre el blog
