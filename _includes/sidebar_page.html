@@ -74,7 +74,21 @@
       {% endfor %}
     </div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2018/12/05/analisis-deep-space-d6/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/03/27/general-top-100-bgg-solitario-p4/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2026/01/06/off-topic-libros-2025/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -88,21 +102,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2018/12/05/analisis-deep-space-d6/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -130,76 +130,102 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Print & play"
       or tag[0] == "9 Card Game Print & Play Design Contest"
-      or tag[0] == "Mad Monks of Kwantoom"
-      or tag[0] == "Scarlet Heroes"
-      or tag[0] == "Tops"
+      or tag[0] == "Four Against Darkness"
       or tag[0] == "High Frontier 4 All"
-      or tag[0] == "Labyrinth Lord"
-      or tag[0] == "Las Mansiones de la Locura"
-      or tag[0] == "OSR"
+      or tag[0] == "AstroNavigators"
+      or tag[0] == "Compass Games"
+      or tag[0] == "Disciples of Bone and Shadow: Conquered Sun Edition"
+      or tag[0] == "Kingdom Crossing"
+      or tag[0] == "One Deck Dungeon"
       or tag[0] == "Root: Los Cachivaches"
-      or tag[0] == "Solitaire Print & Play Design Contest"
+      or tag[0] == "Sherlock Holmes Detective Asesor"
+      or tag[0] == "Tops"
       or tag[0] == "Arkham Horror"
       or tag[0] == "Arkham Noir"
-      or tag[0] == "Compass Games"
       or tag[0] == "Dungeons of Doria"
-      or tag[0] == "Forbidden Lands"
-      or tag[0] == "Four Against Darkness"
-      or tag[0] == "Kingdom Crossing"
+      or tag[0] == "Fleet: The Dice Game"
+      or tag[0] == "Ironsworn"
+      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Labyrinth: The War on Terror"
-      or tag[0] == "One Deck Dungeon"
-      or tag[0] == "Ruins of the Undercity"
+      or tag[0] == "Las Mansiones de la Locura"
+      or tag[0] == "Maracaibo"
+      or tag[0] == "New Bedford"
+      or tag[0] == "Newton"
       or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "Sherlock Holmes Detective Asesor"
+      or tag[0] == "Sniper Kill Confirmed"
+      or tag[0] == "Solitaire Print & Play Design Contest"
+      or tag[0] == "The 7th Continent"
+      or tag[0] == "Tin Helm"
+      or tag[0] == "Trickerion: Legends of Illusion"
       or tag[0] == "A Feast for Odin"
-      or tag[0] == "AstroNavigators"
       or tag[0] == "Baseball Highlights: 2045"
+      or tag[0] == "Bestiary of Sigillum"
+      or tag[0] == "Bios: Megafauna"
+      or tag[0] == "Bismarck Solitaire"
       or tag[0] == "Boletín Informativo Solitario"
+      or tag[0] == "Bomber Boys"
+      or tag[0] == "Burning Banners"
       or tag[0] == "Cartographers: A Roll Player Tale"
+      or tag[0] == "Cascadia"
       or tag[0] == "Charles S. Roberts Awards"
-      or tag[0] == "Disciples of Bone and Shadow: Conquered Sun Edition"
+      or tag[0] == "Dawn of the Zeds"
+      or tag[0] == "DELVE"
+      or tag[0] == "Descent"
+      or tag[0] == "Dice Hospital"
       or tag[0] == "Dorfromantik"
       or tag[0] == "Dune: House of Secrets"
       or tag[0] == "El mes en juegos"
       or tag[0] == "Endarth: Covenant"
       or tag[0] == "Escape the Dark Sector"
+      or tag[0] == "Essen SPIEL"
+      or tag[0] == "Ex Novo"
+      or tag[0] == "Ex Umbra"
+      or tag[0] == "Exploradores de las Profundidades Sombrías"
       or tag[0] == "Faiyum: Privileges"
-      or tag[0] == "Fleet: The Dice Game"
+      or tag[0] == "Forbidden Lands"
       or tag[0] == "Forgotten Waters"
-      or tag[0] == "HEXplore It"
-      or tag[0] == "Maracaibo"
+      or tag[0] == "Founders of Teotihuacan"
+      or tag[0] == "Glass Road"
+      or tag[0] == "Infernal Machine"
+      or tag[0] == "Kickstarter"
       or tag[0] == "Marvel Champions: The Card Game"
       or tag[0] == "Micro Cosmos"
       or tag[0] == "Mind MGMT"
+      or tag[0] == "Mini Express"
       or tag[0] == "Mistfall"
+      or tag[0] == "Monster Pit: Overworld"
+      or tag[0] == "Mr. President"
       or tag[0] == "Navajo Wars"
-      or tag[0] == "New Bedford"
       or tag[0] == "New England Simulations"
-      or tag[0] == "Newton"
       or tag[0] == "Next War: Poland"
+      or tag[0] == "Nightwatch"
       or tag[0] == "Oath: Chronicles of Empire and Exile"
+      or tag[0] == "Onirim"
+      or tag[0] == "Operation Theseus: Gazala 1942"
       or tag[0] == "Orchard"
       or tag[0] == "Pavlov's House"
       or tag[0] == "Peloponnesian War"
+      or tag[0] == "Race for the Galaxy: The Gathering Storm"
       or tag[0] == "Red Flag Over Paris"
+      or tag[0] == "Red Strike"
       or tag[0] == "Reinos de Papel: Más allá de las puertas"
       or tag[0] == "Root: Los Ribereños"
       or tag[0] == "Russian Railroads: German Railroads"
-      or tag[0] == "Sniper Kill Confirmed"
+      or tag[0] == "Sabana Park"
       or tag[0] == "Space Empires 4X"
       or tag[0] == "Stalingrad 42"
       or tag[0] == "Star Wars: Rebellion"
+      or tag[0] == "Switch & Signal"
+      or tag[0] == "Sword & Sorcery"
       or tag[0] == "The 7th Citadel"
-      or tag[0] == "The 7th Continent"
       or tag[0] == "The Last Hundred Yards"
       or tag[0] == "The Lord of the Rings: Journeys in Middle-Earth"
-      or tag[0] == "Tin Helm"
       or tag[0] == "TINYforming Mars"
-      or tag[0] == "Trickerion: Legends of Illusion"
-      or tag[0] == "Undaunted: North Africa"
-      or tag[0] == "Undaunted: Reinforcements"
+      or tag[0] == "Trismegistus: La Fórmula Definitiva"
+      or tag[0] == "Twilight Imperium"
+      or tag[0] == "Ultimate Railroads"
       or tag[0] == "Verdun 1916: Steel Inferno"
-      or tag[0] == "Waterloo Solitaire"
+      or tag[0] == "Verkami"
       or tag[0] == "Wingspan" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
