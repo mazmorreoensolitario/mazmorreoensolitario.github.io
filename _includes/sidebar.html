@@ -117,13 +117,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2020/09/07/root-en-solitario/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -131,7 +124,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/07/16/noticias-csr-awards-2022/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2019/05/02/analisis-count-of-nine/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -159,32 +159,33 @@
       {% if tag[0] == "Print & play"
       or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Four Against Darkness"
-      or tag[0] == "High Frontier 4 All"
+      or tag[0] == "Tops"
       or tag[0] == "AstroNavigators"
       or tag[0] == "Compass Games"
       or tag[0] == "Disciples of Bone and Shadow: Conquered Sun Edition"
+      or tag[0] == "Dungeons of Doria"
       or tag[0] == "Kingdom Crossing"
       or tag[0] == "One Deck Dungeon"
-      or tag[0] == "Root: Los Cachivaches"
       or tag[0] == "Sherlock Holmes Detective Asesor"
-      or tag[0] == "Tops"
       or tag[0] == "Arkham Horror"
       or tag[0] == "Arkham Noir"
-      or tag[0] == "Dungeons of Doria"
       or tag[0] == "Fleet: The Dice Game"
+      or tag[0] == "High Frontier 4 All"
       or tag[0] == "Ironsworn"
       or tag[0] == "Labyrinth Lord"
       or tag[0] == "Labyrinth: The War on Terror"
       or tag[0] == "Las Mansiones de la Locura"
-      or tag[0] == "Maracaibo"
       or tag[0] == "New Bedford"
       or tag[0] == "Newton"
+      or tag[0] == "Root: Los Cachivaches"
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Sniper Kill Confirmed"
       or tag[0] == "Solitaire Print & Play Design Contest"
       or tag[0] == "The 7th Continent"
       or tag[0] == "Tin Helm"
       or tag[0] == "Trickerion: Legends of Illusion"
+      or tag[0] == "Unsurmountable"
+      or tag[0] == "12 Patrols"
       or tag[0] == "A Feast for Odin"
       or tag[0] == "Baseball Highlights: 2045"
       or tag[0] == "Bestiary of Sigillum"
@@ -197,6 +198,7 @@
       or tag[0] == "Cascadia"
       or tag[0] == "Charles S. Roberts Awards"
       or tag[0] == "Dawn of the Zeds"
+      or tag[0] == "Deep Space D-6"
       or tag[0] == "DELVE"
       or tag[0] == "Descent"
       or tag[0] == "Dice Hospital"
@@ -215,7 +217,9 @@
       or tag[0] == "Founders of Teotihuacan"
       or tag[0] == "Glass Road"
       or tag[0] == "Infernal Machine"
+      or tag[0] == "Inventors of the South Tigris"
       or tag[0] == "Kickstarter"
+      or tag[0] == "Maracaibo"
       or tag[0] == "Marvel Champions: The Card Game"
       or tag[0] == "Micro Cosmos"
       or tag[0] == "Mind MGMT"
@@ -307,7 +311,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/09/13/rol-old-school-essentials-advanced-fantasy/" %}
+      {% assign target-posts = site.posts | where: "url","/2021/06/21/analisis-root/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>5. {{post.title | truncate: 40}}</h5></div></a>
