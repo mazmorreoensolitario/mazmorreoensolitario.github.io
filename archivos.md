@@ -161,6 +161,7 @@ categorías.
                 or tag[0] == "Essen SPIEL 2022"
                 or tag[0] == "Essen SPIEL 2023"
                 or tag[0] == "Essen SPIEL 2024"
+                or tag[0] == "Essen SPIEL 2025"
                 or tag[0] == "UKGE" or tag[0] == "UKGE 2021" %}
                     <span class="label label-info"><strong>#<a class="tag-color"
                     href="/etiqueta/{{tag[0] | slugify:
