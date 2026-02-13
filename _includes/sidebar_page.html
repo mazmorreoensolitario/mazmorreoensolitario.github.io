@@ -81,6 +81,13 @@
       {% endfor %}
     </div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2020/09/07/root-en-solitario/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -88,14 +95,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2020/02/15/analisis-12-patrols/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -109,14 +109,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/03/09/analisis-maquis/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2020/02/15/analisis-12-patrols/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2019/03/09/analisis-maquis/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -130,13 +130,12 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Print & play"
       or tag[0] == "9 Card Game Print & Play Design Contest"
+      or tag[0] == "Tops"
       or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "Four Against Darkness"
-      or tag[0] == "Tops"
       or tag[0] == "One Page Dungeon"
       or tag[0] == "Alone Among the Stars"
-      or tag[0] == "Cascadia"
-      or tag[0] == "Dawn of the Zeds"
+      or tag[0] == "Dungeons of Doria"
       or tag[0] == "Five Parsecs From Home"
       or tag[0] == "Friday"
       or tag[0] == "Glory: A Game of Knights"
@@ -150,27 +149,33 @@
       or tag[0] == "Unsurmountable"
       or tag[0] == "A Feast for Odin"
       or tag[0] == "Aleph Null"
-      or tag[0] == "Bismarck Solitaire"
+      or tag[0] == "Ambon: Burning Sun & Little Seagulls"
       or tag[0] == "Carnegie"
+      or tag[0] == "Cascadia"
       or tag[0] == "Clans of Caledonia"
       or tag[0] == "Cosmonaves"
+      or tag[0] == "D-Day at Omaha Beach"
       or tag[0] == "D-Day Dice"
+      or tag[0] == "Dawn of the Zeds"
       or tag[0] == "Deep Space D-6"
       or tag[0] == "Dominion: Intrigue"
-      or tag[0] == "Dungeons of Doria"
+      or tag[0] == "El bosque de los espiritus"
       or tag[0] == "El Imperio del Sol"
       or tag[0] == "El muro de Adriano"
       or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
+      or tag[0] == "Emberleaf"
       or tag[0] == "Essen SPIEL 2019"
       or tag[0] == "Essen SPIEL 2021"
       or tag[0] == "Expansiópolis"
       or tag[0] == "Expeditions"
       or tag[0] == "Fields of Arle"
+      or tag[0] == "Formidable Farm"
       or tag[0] == "Gladiator Gauntlet"
       or tag[0] == "Glasgow"
       or tag[0] == "Gloomhaven: Buttons & Bugs"
       or tag[0] == "Good Little Martian"
       or tag[0] == "Grove"
+      or tag[0] == "Imperium: Classics"
       or tag[0] == "Inventors of the South Tigris"
       or tag[0] == "Lands of Galzyr"
       or tag[0] == "Le Havre"
@@ -183,15 +188,13 @@
       or tag[0] == "Shadows of Brimstone"
       or tag[0] == "Sniper Kill Confirmed"
       or tag[0] == "Space Hulk: Death Angel The Card Game"
-      or tag[0] == "Star Wars: El Borde Exterior"
-      or tag[0] == "Super-Skill Pinball: 4-Cade"
-      or tag[0] == "Switch & Signal"
-      or tag[0] == "Teotihuacán: Preclásico Tardío"
-      or tag[0] == "The Dark Valley"
-      or tag[0] == "Imperium: Classics"
+      or tag[0] == "Legends Untold"
       or tag[0] == "Ark Nova"
       or tag[0] == "Terraforming Mars"
-      or tag[0] == "Reinos de Papel" %}
+      or tag[0] == "Reinos de Papel"
+      or tag[0] == "Curious Cargo"
+      or tag[0] == "Lux Aeterna"
+      or tag[0] == "Dungeon Exit" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
