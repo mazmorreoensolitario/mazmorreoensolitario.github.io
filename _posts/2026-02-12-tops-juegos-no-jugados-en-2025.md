@@ -102,9 +102,9 @@ otras novedades de 2025 que me hubiera gustado probar:
          </p>
          <p><strong>¿Qué me llama la atención de este juego?</strong>
          Mecánicamente es sencillo, pero creo que igualmente puede ser
-         entretenido. Tengo también la espina clavada de que en este juego se
-         modela un tipo de problemas matemáticos que no recuerdo cómo se
-         llaman, así que estoy dándole vueltas.</p>
+         entretenido. Tengo también la espina clavada de que la "solución" de
+         este juego se podría modelar con un tipo de problemas matemáticos que
+         no recuerdo cómo se llaman, así que estoy dándole vueltas.</p>
     </div>
 </div>
 
@@ -126,7 +126,7 @@ otras novedades de 2025 que me hubiera gustado probar:
          <p><small>TwinStar Valley desplegado, foto de la editorial</small></p>
          <p><strong>¿Por qué entra este juego a mi top?</strong> Este es un
          juego que encontré por casualidad excavando la lista de novedades de
-         2025 en BGG, no sé de dónde a salido ni si está disponible. Es un
+         2025 en BGG, no sé de dónde ha salido ni si está disponible. Es un
          juego que me ha entrado por los ojos. Por el mapa hexagonal y cómo se
          repiten algunos meeples de camiones por el mapa me hacía pensar que
          algo de construcción de rutas iba a tener, y en la descripción del juego
@@ -134,7 +134,7 @@ otras novedades de 2025 que me hubiera gustado probar:
          </p>
          <p>Tras leer el reglamento parece ser que mis ideas iban bien
          encaminadas, tenemos que conseguir que nuestra empresa de agricultura
-         prospere, para ello creamos mercados en el mapa hexagonal y tratamos
+         prospere, para ello construimos mercados en el mapa hexagonal y tratamos
          de transportar la fruta al mercado que nos de el mejor precio. También
          hay unas acciones de investigación para potenciar otras acciones. El
          juego tiene también un modo avanzado donde entren en juego diferentes
@@ -143,7 +143,7 @@ otras novedades de 2025 que me hubiera gustado probar:
          sensación de que <strong>TwinStar Valley</strong> es una mezcla de
          otros juegos que ya he jugado y que me gustan (Agricola, The
          Colonists, Tramways), por lo que tiene todo mi interés, aunque no sé
-         si se pisaran demasiado.</p>
+         si se pisará demasiado con alguno.</p>
     </div>
 </div>
 
@@ -171,7 +171,8 @@ otras novedades de 2025 que me hubiera gustado probar:
     href="https://www.kickstarter.com/projects/tcokgame/emberleaf">Kickstarter</a>.
         Yo me entero cuando sale en tiendas sin tener que sufrir la
     incertidumbre y el posible drama  que muchas campañas de crowdfunding
-    acarrean. Este <strong>Emberleaf</strong> es un ejemplo de manual de esa situación.
+    acarrean. Este <strong>Emberleaf</strong> es un ejemplo de manual de esa
+    situación, no sabía que existía hasta que lo he visto listado en tiendas.
          </p>
          <p><strong>¿Qué me llama la atención de este juego?</strong> Para mí, 
          el autor principal del juego es conocido por <a href="https://boardgamegeek.com/boardgame/207243/city-kings">The City of Kings</a>,
@@ -222,8 +223,9 @@ otras novedades de 2025 que me hubiera gustado probar:
          <p><strong>¿Por qué entra este juego a mi top?</strong>
          Wispwood hubiese sido la tercera compra de la SPIEL en 2025 si no fuera porque
     se me pasó el tiempo de hacer la pre-compra/reserva para que me mandaran el
-    juego cuando terminase la feria. Ya os hablé de él en mi lista de favoritos
-    de la SPIEL'25.</p>
+    juego cuando terminase la feria. Ya os hablé de él en mi <a
+    href="{{site.baseurl}}/2025/10/21/bingo-essen-spiel-2025/">lista de
+    favoritos</a> de la SPIEL'25.</p>
     <p>Ahora, con algo más de perspectiva sobre mis otras compras de
     lanzamientos de la SPIEL (Recall y
     Kingdom Crossing), creo que este juego hubiera visto más mesa por ser de
