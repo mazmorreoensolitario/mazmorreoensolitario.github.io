@@ -3,7 +3,7 @@ layout: post
 title: "SPIEL Essen 2025: mi bingo de juegos en solitario"
 date: 2025-10-21
 categories: [Listas]
-tags: [Essen SPIEL, Essen SPIEL 2025, El bosque de los espiritus, Recall, Kingdom Crossing, Wispwood, Epona, Forestry, Sanctuary, Dungeons of Doria]
+tags: [Essen SPIEL, Essen SPIEL 2025, El bosque de los espíritus, Recall, Kingdom Crossing, Wispwood, Epona, Forestry, Sanctuary, Dungeons of Doria]
 imghtml: https://live.staticflickr.com/65535/53990765903_e36357721c_o.png
 post_desc: "Aquí llega mi lista de top juegos en solitario de la Essen SPIEL
 de 2025."

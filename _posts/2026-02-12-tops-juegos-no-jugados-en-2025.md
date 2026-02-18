@@ -3,7 +3,7 @@ layout: post
 title: "Top 1̶0̶ 5 de juegos del 2025 que no he podido jugar"
 date: 2026-02-12
 categories: [Listas]
-tags: [Tops, Wispwood, VUCA Simulations, El bosque de los espiritus, Formidable Farm, Emberleaf]
+tags: [Tops, Wispwood, VUCA Simulations, El bosque de los espíritus, Formidable Farm, Emberleaf]
 imghtml: https://live.staticflickr.com/65535/55092443831_a2f007994e_b.jpg
 post_desc: "Me sumerjo en las profundidades de todas las novedades del 2025
 para comentaros cuáles han sido las que me he quedado con ganas de probar"
