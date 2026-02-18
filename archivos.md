@@ -17,6 +17,7 @@ categorías.
 <span class="label label-warning"><strong>general</strong></span>,
 <span class="label label-black"><strong>off topic</strong></span>.
 
+
 <p class="text-left">
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}

@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Lux Aeterna"
 date:   2022-09-29
 categories: [Análisis]
-tags: [Lux Aeterna, Golden Geek, Essen Spiel 2019]
+tags: [Lux Aeterna, Golden Geek, Essen SPIEL 2019]
 imghtml: https://cf.geekdo-images.com/VpYduL29qLwCNEGMs7soGg__imagepage/img/cq-sEPgiwdIHHJQo_8hD8em5dUk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4945956.jpg
 score: 3
 crop: true

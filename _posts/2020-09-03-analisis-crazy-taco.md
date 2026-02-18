@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Crazy Taco"
 date:   2020-09-03
 categories: [Análisis]
-tags: [Crazy Taco, Essen Spiel 2019]
+tags: [Crazy Taco, Essen SPIEL 2019]
 imghtml: https://cf.geekdo-images.com/imagepage/img/uFixopltQHr_z2n4vrHZEhg1_7k=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4958637.png
 score: 3
 game: "Crazy Taco"

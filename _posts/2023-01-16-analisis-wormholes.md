@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Wormholes"
 date: 2023-01-16
 categories: [Análisis]
-tags: [Wormholes, Essen Spiel 2022]
+tags: [Wormholes, Essen SPIEL 2022]
 game: Wormholes
 crop: true
 score: 3

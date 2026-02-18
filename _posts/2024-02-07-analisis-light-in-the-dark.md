@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Light in the Dark"
 date: 2024-02-07
 categories: [Análisis]
-tags: [Light in the Dark, Essen Spiel 2023]
+tags: [Light in the Dark, Essen SPIEL 2023]
 game: Light in the Dark
 score: 2
 imghtml: https://live.staticflickr.com/65535/53379317986_53d9ddb7ca_h.jpg

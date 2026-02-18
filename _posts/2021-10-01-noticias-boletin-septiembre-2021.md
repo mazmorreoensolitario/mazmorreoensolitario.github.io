@@ -3,7 +3,7 @@ layout: post
 title: "Boletín Informativo Solitario: septiembre 2021"
 date: 2021-10-01
 categories: [Noticias]
-tags: ["Boletín Informativo Solitario", Essen Spiel 2021, DVG, Old-School Essentials, Ronin, Terra Mystica, Reinos de Papel, Paper Tales, Lanzerath Ridge, Savannah Park, Goblivion, Mothership, DELVE, High Frontier 4 All, Interestellar, GMT Games, Fields of Fire, Cross Bronx Expressway, Inferno, Tin Helm, "The Manhattan Project: Energy Empire", "Cartaventura: Vinland", "Cartaventura: Lhassa", Cartaventura, Air Raid Pearl Harbor, Legion Wargames]
+tags: ["Boletín Informativo Solitario", Essen SPIEL 2021, DVG, Old-School Essentials, Ronin, Terra Mystica, Reinos de Papel, Paper Tales, Lanzerath Ridge, Savannah Park, Goblivion, Mothership, DELVE, High Frontier 4 All, Interestellar, GMT Games, Fields of Fire, Cross Bronx Expressway, Inferno, Tin Helm, "The Manhattan Project: Energy Empire", "Cartaventura: Vinland", "Cartaventura: Lhassa", Cartaventura, Air Raid Pearl Harbor, Legion Wargames]
 imghtml: https://live.staticflickr.com/65535/53601038585_11d07bc810_b.jpg
 post_desc: "Boletín Informativo Solitario de septiembre, con un resumen de todas
 las novedades, próximos lanzamientos, crowdfunding y mucho más"

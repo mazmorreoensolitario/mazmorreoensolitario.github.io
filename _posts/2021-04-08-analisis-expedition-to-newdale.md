@@ -3,7 +3,7 @@ layout: post
 title: "Análisis - Expedition to Newdale"
 date: 2021-04-08
 categories: [Análisis]
-tags: ["Expedition to Newdale", Essen Spiel 2019]
+tags: ["Expedition to Newdale", Essen SPIEL 2019]
 imghtml: https://cf.geekdo-images.com/qpGBNV1z2RR8Ed0913Rwlg__imagepage/img/eS4m2sUAL6SEDssIVN7C15Oi0QU=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4956399.jpg
 score: 3
 game: "Expedition to Newdale"
