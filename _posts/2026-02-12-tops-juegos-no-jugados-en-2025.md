@@ -141,8 +141,10 @@ otras novedades de 2025 que me hubiera gustado probar:
          tipos de cartas de contratos.</p>
          <p><strong>¿Qué me llama la atención de este juego?</strong> Me da la
          sensación de que <strong>TwinStar Valley</strong> es una mezcla de
-         otros juegos que ya he jugado y que me gustan (Agricola, The
-         Colonists, Tramways), por lo que tiene todo mi interés, aunque no sé
+         otros juegos que ya he jugado y que me gustan (<a
+    href="{{site.baseurl}}/etiqueta/agricola/">Agricola</a>, <a
+    href="{{site.baseurl}}/etiqueta/the-colonists/">The Colonists</a>,
+    <a href="{{site.baseurl}}/etiqueta/tramways/">Tramways</a>), por lo que tiene todo mi interés, aunque no sé
          si se pisará demasiado con alguno.</p>
     </div>
 </div>

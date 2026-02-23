@@ -64,67 +64,68 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Print & play"
       or tag[0] == "Tops"
-      or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "One Page Dungeon"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Alone Among the Stars"
       or tag[0] == "Disciples of Bone and Shadow"
-      or tag[0] == "Root: Los Cachivaches"
       or tag[0] == "Dungeons of Doria"
-      or tag[0] == "El bosque de los espiritus"
-      or tag[0] == "Friday"
-      or tag[0] == "Glory: A Game of Knights"
-      or tag[0] == "Ironsworn"
+      or tag[0] == "El bosque de los espíritus"
+      or tag[0] == "Essen SPIEL 2019"
+      or tag[0] == "Light in the Dark"
       or tag[0] == "Navajo Wars"
-      or tag[0] == "Reinos de Papel"
-      or tag[0] == "Sniper Kill Confirmed"
+      or tag[0] == "A Torch in the Dark"
       or tag[0] == "Aleph Null"
       or tag[0] == "Ambon: Burning Sun & Little Seagulls"
       or tag[0] == "Carnegie"
-      or tag[0] == "Cascadia"
       or tag[0] == "Concordia"
-      or tag[0] == "Cosmonaves"
-      or tag[0] == "D-Day at Omaha Beach"
-      or tag[0] == "D-Day Dice"
       or tag[0] == "Dawn of the Zeds"
       or tag[0] == "Dominion: Intrigue"
       or tag[0] == "El Imperio del Sol"
       or tag[0] == "Emberleaf"
-      or tag[0] == "Essen SPIEL 2019"
       or tag[0] == "Essen SPIEL 2021"
       or tag[0] == "Everdell"
       or tag[0] == "Faiyum"
-      or tag[0] == "Fields of Arle"
       or tag[0] == "Five Parsecs From Home"
       or tag[0] == "Formidable Farm"
-      or tag[0] == "Gladiator Gauntlet"
+      or tag[0] == "Friday"
       or tag[0] == "Glasgow"
-      or tag[0] == "Gloomhaven: Buttons & Bugs"
+      or tag[0] == "Glory: A Game of Knights"
       or tag[0] == "Horizons of Spirit Island"
-      or tag[0] == "Light in the Dark"
+      or tag[0] == "Ironsworn"
+      or tag[0] == "Lands of Galzyr"
       or tag[0] == "Nevsky: Teutons and Rus in Collision"
-      or tag[0] == "Pathfinder Adventure Card Game"
       or tag[0] == "Pavlov's House"
+      or tag[0] == "Reinos de Papel"
+      or tag[0] == "Root: Los Cachivaches"
+      or tag[0] == "Saltfjord"
       or tag[0] == "Shadows of Brimstone"
-      or tag[0] == "Star Wars: El Borde Exterior"
-      or tag[0] == "Star Wars: Imperial Assault"
+      or tag[0] == "Sniper Kill Confirmed"
       or tag[0] == "Super-Skill Pinball: 4-Cade"
-      or tag[0] == "Teotihuacán: Preclásico Tardío"
-      or tag[0] == "The Dark Valley"
       or tag[0] == "The Last Hundred Yards"
-      or tag[0] == "The Siege of Runedar"
-      or tag[0] == "Tiletum"
-      or tag[0] == "Traces of War"
       or tag[0] == "Trickerion: Legends of Illusion"
       or tag[0] == "VUCA Simulations"
+      or tag[0] == "White Dog Games"
       or tag[0] == "Witchdom"
-      or tag[0] == "Zombicide"
       or tag[0] == "54 Card Game Design Contest"
-      or tag[0] == "7 Wonders Duel"
-      or tag[0] == "A Feast for Odin"
       or tag[0] == "Accesorios"
+      or tag[0] == "Aeon's End: Legacy"
+      or tag[0] == "Aeon's End"
+      or tag[0] == "All Bridges Burning"
+      or tag[0] == "Ardennes 44"
+      or tag[0] == "Arkham Noir"
+      or tag[0] == "Barrage"
+      or tag[0] == "Battlespace"
+      or tag[0] == "Battlestar Galactica: The Board Game"
+      or tag[0] == "Bestiary of Sigillum"
+      or tag[0] == "Beyond the Sun"
+      or tag[0] == "Blackout: Hong Kong"
+      or tag[0] == "Bonfire"
+      or tag[0] == "Brazil: Imperial"
+      or tag[0] == "Burning Banners"
       or tag[0] == "Legends Untold"
       or tag[0] == "Imperium: Classics"
       or tag[0] == "Ark Nova"
+      or tag[0] == "Cascadia"
       or tag[0] == "Terraforming Mars"
       or tag[0] == "Curious Cargo"
       or tag[0] == "Lux Aeterna"
@@ -188,6 +189,13 @@
       {% endfor %}
     </div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2021/09/13/rol-old-school-essentials-advanced-fantasy/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -195,14 +203,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/01/26/analisis-micro-city/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2020/02/15/analisis-12-patrols/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2024/04/30/accesorios-bandejas-para-fichas-cube4me/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>

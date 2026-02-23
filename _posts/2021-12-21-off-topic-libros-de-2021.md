@@ -750,7 +750,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/15041
 
 <p align="center">
 <img height="500"
-src="https://www.foggypinebooks.com/uploads/6/2/3/9/62392781/s238613979156165194_p3972_i1_w1613.jpeg"></p>
+src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1600715136i/52504334.jpg"></p>
 
 * **[A Master of Djinn](https://amzn.to/3zz01AM)**
   ([Kindle](https://amzn.to/2YcfaKx)) de **P. Djèlí Clark**, Tor 2021.
