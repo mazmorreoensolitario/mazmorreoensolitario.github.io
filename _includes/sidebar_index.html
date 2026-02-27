@@ -75,52 +75,52 @@
       or tag[0] == "Light in the Dark"
       or tag[0] == "Navajo Wars"
       or tag[0] == "Root: Los Cachivaches"
+      or tag[0] == "The Last Hundred Yards"
       or tag[0] == "Witchdom"
-      or tag[0] == "A Torch in the Dark"
+      or tag[0] == "Aeon's End"
       or tag[0] == "Ambon: Burning Sun & Little Seagulls"
       or tag[0] == "Brazil: Imperial"
-      or tag[0] == "Carnegie"
       or tag[0] == "Concordia"
       or tag[0] == "Dawn of the Zeds"
+      or tag[0] == "Desolate: Dark Matters"
       or tag[0] == "El Imperio del Sol"
       or tag[0] == "Emberleaf"
       or tag[0] == "Essen SPIEL 2021"
       or tag[0] == "Everdell"
       or tag[0] == "Faiyum"
-      or tag[0] == "Five Parsecs From Home"
+      or tag[0] == "Findorff"
       or tag[0] == "Formidable Farm"
       or tag[0] == "Friday"
       or tag[0] == "Glasgow"
       or tag[0] == "Glory: A Game of Knights"
       or tag[0] == "Horizons of Spirit Island"
       or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "Ironsworn"
       or tag[0] == "Lands of Galzyr"
-      or tag[0] == "Nevsky: Teutons and Rus in Collision"
       or tag[0] == "Pavlov's House"
       or tag[0] == "Reinos de Papel"
       or tag[0] == "Saltfjord"
       or tag[0] == "Shadows of Brimstone"
       or tag[0] == "Super-Skill Pinball: 4-Cade"
-      or tag[0] == "The Last Hundred Yards"
+      or tag[0] == "Tin Helm"
+      or tag[0] == "Traces of War"
       or tag[0] == "Trickerion: Legends of Illusion"
       or tag[0] == "VUCA Simulations"
       or tag[0] == "White Dog Games"
       or tag[0] == "54 Card Game Design Contest"
-      or tag[0] == "Accesorios"
-      or tag[0] == "Aeon's End: Legacy"
-      or tag[0] == "Aeon's End"
       or tag[0] == "Aleph Null"
       or tag[0] == "Ardennes 44"
       or tag[0] == "Arkham Noir"
       or tag[0] == "Barrage"
-      or tag[0] == "Battlespace"
       or tag[0] == "Battlestar Galactica: The Board Game"
+      or tag[0] == "Bear Trap: The Soviet-Afghan War"
       or tag[0] == "Bestiary of Sigillum"
       or tag[0] == "Beyond the Sun"
       or tag[0] == "Blackout: Hong Kong"
       or tag[0] == "Bonfire"
       or tag[0] == "Burning Banners"
       or tag[0] == "Calico"
+      or tag[0] == "Carnegie"
       or tag[0] == "Cartaventura: Vinland"
       or tag[0] == "Legends Untold"
       or tag[0] == "Imperium: Classics"
@@ -154,14 +154,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/02/12/tops-juegos-no-jugados-en-2025/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/02/12/tops-juegos-no-jugados-en-2025/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -175,20 +175,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/03/09/analisis-maquis/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2024/04/30/accesorios-bandejas-para-fichas-cube4me/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -196,7 +182,21 @@
       {% endfor %}
     </div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/09/13/rol-old-school-essentials-advanced-fantasy/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2023/07/16/noticias-csr-awards-2022/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
