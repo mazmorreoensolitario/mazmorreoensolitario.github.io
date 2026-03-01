@@ -46,7 +46,7 @@ estación."
         <div class="col-md-12">
             <ul>
                 <br>
-                <li>Diseño y arte por Jason Glover de <a href=""
+                <li>Diseño y arte por Jason Glover de <a href="https://greygnome.com/"
                 target="blank_">Grey Gnome Games</a>.</li>
                 <li>La versión estándar (no print & play) solo puede
                 conseguirse por <a href="https://www.thegamecrafter.com/"
