@@ -5,7 +5,7 @@ date: 2026-03-01
 categories: [General]
 tags: [El mes en juegos, Shipyard, Akropolis, Project L, Cascadia, Desolate, Kingdom Crossing, Wingspan, Wingspan Asia]
 imghtml: https://live.staticflickr.com/65535/55122314426_cb344e60aa_b.jpg
-post_desc: "Este es el resumen de mis partidas de juegos de mesa en enero"
+post_desc: "¿Qué ha visto mesa durante enero y febrero? Aquí te lo cuento!"
 ---
 
 ![](https://live.staticflickr.com/65535/55122314426_cb344e60aa_b.jpg)
@@ -56,7 +56,7 @@ juegos de colocación de losetas con construcción de patrones me he centrado
 bastante en
 [Cascadia]({{site.baseurl}}/2023/09/03/analisis-cascadia/). **Akropolis** me
 gustó mucho, era todo lo que esperaba de él y además las reglas multijugador se
-mantienen en el modo en solitario, solamente añadimos a un automa contra el que
+mantienen en el modo en solitario, solamente se añade un automa contra el que
 jugar, por lo que si me gustó en multijugador, creo que también me gustará en
 solitario. Creo que es especialmente interesante la parte en la que las losetas del
 tipo que sea no puntúan a no ser que coloques losetas de multiplicador (losetas
@@ -100,7 +100,7 @@ Me quedé en el escenario 9 de la campaña en solitario allá por [agosto de
 superar. Tras pasar al escenario 10 pensaba que lo había superado tras un solo
 intento (requiere consequir al menos 100 puntos, de los cuales tienes que
 conseguir más de 60 puntos en fauna y más de 10 puntos en praderas; además los
-zorros no se pueden colocar en bosques), pero he tenido que inpugnar la
+zorros no se pueden colocar en bosques), pero he tenido que impugnar la
 partida porque había colocado sin darme cuenta un zorro en bosque, posición
 ilegal según las reglas especiales del escenario 10. Primera vez
 en mi historia con **Cascadia** que cometo semejante error de principiante. En
@@ -199,11 +199,11 @@ interconectadas, pero a la vez que no tienen un camino directo a ellas, hay que
 pensar. Tampoco me parece un juego que sea demasiado ensalada de puntos y que
 al final de igual que hacer, no es eso, las dos mecánicas clave que tiene
 (colecciones y programación de acciones/selección limitada de acciones) están
-bien hechas. Tener las acciones limitadas por las losetas de acción y decidir
-qué tipo de acción es conveniente en cada situación es una decisión que gusta
-tomar. Además, a la hora de puntuar podéis tener cero para un tipo de
-colección si no habéis conseguido los multiplicadores asociados, por lo que se
-añade un punto interesante extra.
+bien puestas par que tengas que pensar y utilizarlas. Tener las acciones
+limitadas por las losetas de acción y decidir qué tipo de acción es conveniente
+en cada situación es una decisión que gusta tomar. Además, a la hora de puntuar
+podéis tener cero para un tipo de colección si no habéis conseguido los
+multiplicadores asociados, por lo que se añade un punto interesante extra.
 
 En solitario creo que ya tengo el modo *principiante* del bot más que superado,
 por lo que la siguiente vez que juegue a **Kingdom Crossing** será con más
@@ -237,7 +237,7 @@ que ha sido un buen candidato para sacarlo estos últimos meses. Las reglas de
 no es un juego que necesite demasiado esfuerzo de aprendizaje si se os han
 olvidado las reglas, como fue mi caso.
 
-El factor de puzle espacial de **Project L** no me parece nada compilado, por
+El factor de puzle espacial de **Project L** no me parece nada complicado, por
 lo que si buscáis un puzle espacial complicado, este juego no creo que os
 satisfaga mentalmente. En mi caso, el juego funciona porque en solitario tiene
 un bot que ha sido diseñado para construir puzles muy rápido y 
@@ -246,7 +246,7 @@ reto es el duelo y no el puzle espacial. Para mí sería un juego mucho más
 redondo si el puzle espacial fuera más complicado, por lo que cada vez que
 recuerdo de qué iba el **Project L** tras pasar una temporada sin jugarlo me
 llevo una pequeña desilusión, ya que todos los puzles son fáciles, pero luego
-mejora ya que ganar a el bot no es trivial.
+mejora mi impresión ya que ganar a el bot no es trivial.
 
 ### Shipyard (segunda edición)
 <p><i>1 partida</i></p>
@@ -296,9 +296,9 @@ perder el menos tiempo posible tomando acciones que vayas a necesitar a futuro.
 
 En mis partidas anteriores de **Shipyard** creo que nunca he conseguido botar
 más de cuatro barcos, por lo que mis puntuaciones siempre se quedan algo justas
-(nunca más de 65), siendo 60 en la escala de solitario el mínimo de "ganar". El
-siguiente tramo empieza en 80 y más de 95 puntos ya es una muy buena
-puntuación. Por lo que hay bastante camino para mejorar.
+(nunca más de 65), siendo 60 en la escala de solitario el mínimo de puntos para
+"ganar". El siguiente tramo empieza en 80 y más de 95 puntos ya es una muy
+buena puntuación. Por lo que tengo bastante camino por delante para mejorar.
 
 
 ### [Wingspan Asia](https://amzn.to/40Y8oDK)
@@ -314,7 +314,7 @@ Asia](https://boardgamegeek.com/boardgame/366161/wingspan-asia)**, un juego de
 cartas con temática de aves en el que tenemos que construir nuestro tablero
 jugando cartas de ave, que nos desbloquearán acciones más potentes y aumentarán
 nuestro potencial de combos. Ganaremos puntos por los objetivos personales, por
-las aves jugadas y por los hueves que hayan puesto dichas aves.
+las aves jugadas y por los huevos que hayan puesto dichas aves.
 
 **Wingspan Asia** es a la vez una expansión para
 [Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan) y un juego
@@ -322,7 +322,7 @@ autónomo para 1 ó 2 jugadores (yo lo juego sin el **Wingspan** original) que
 añade más complejidad al original gracias a las nuevas mecánicas del tablero
 dúo. En estas nuevas mecánicas colocamos fichas en el tablero dúo cada vez que
 jugamos un ave, la colocación de la ficha está limitada por el hábitat del ave
-y otras características, muchos objetivos de ronda tienen en cuenta la
+y otras características del ave; muchos objetivos de ronda tienen en cuenta la
 colocación de estas fichas para ganar el objetivo y al final de la partida
 también puntuamos por el grupo de fichas adyacentes más grande que tengamos en
 el tablero dúo.
