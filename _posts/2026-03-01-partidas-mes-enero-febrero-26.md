@@ -5,7 +5,7 @@ date: 2026-03-01
 categories: [General]
 tags: [El mes en juegos, Shipyard, Akropolis, Project L, Cascadia, Desolate, Kingdom Crossing, Wingspan, Wingspan Asia]
 imghtml: https://live.staticflickr.com/65535/55122314426_cb344e60aa_b.jpg
-post_desc: "¿Qué ha visto mesa durante enero y febrero? Aquí te lo cuento!"
+post_desc: "¿Qué juegos han visto mesa durante enero y febrero? ¡Aquí te lo cuento!"
 ---
 
 ![](https://live.staticflickr.com/65535/55122314426_cb344e60aa_b.jpg)
@@ -141,8 +141,8 @@ jugarlo, siendo las partidas de 10 minutos. En cada turno se muestra una carta
 de exploración, que podéis elegir resolver, en caso contrario se muestra otra
 carta que estaba boca abajo y estáis obligados a resolverla. En el turno de
 exploración podéis encontraros objetos, eventos u alienígenas. El combate con
-aliens es muy sencillo, en el que se usan tantos dados como munición para ir
-quitando vida al alien. 
+aliens es muy sencillo, se tiran tantos dados d6 como recursos de munición que
+decidáis usar para ir quitando vida al alien. 
 
 En los últimos años mi modus operandi con **Desolate** es jugar un máximo de
 3-5 partidas seguidas hasta que gane. Esta vez he tenido mucha suerte y he
@@ -158,7 +158,7 @@ Game Crafter](https://www.thegamecrafter.com/games/desolate) en USA.
 Sigo eternamente esperando también a que [Iron
 Helm](https://boardgamegeek.com/boardgame/273264/iron-helm), del mismo autor y
 con mecánicas similares a **Desolate**
-salga a la venta en el mercado Europeo; allá por 2019 se anunció que la gente
+salga a la venta en el mercado europeo; allá por 2019 se anunció que la gente
 maja de [Melmac Games](https://melmacgames.com/) iba a publicarlo, y sigue
 apareciendo como *próximamente* en su web, pero... estamos ya en 2026. *Se me
 cae la lágrima.*
@@ -173,7 +173,7 @@ src="https://cf.geekdo-images.com/QQikkHAYbLyf2IGC5tz0Fg__imagepage@2x/img/9A15h
 **[Kingdom
 Crossing](https://boardgamegeek.com/boardgame/437245/kingdom-crossing)** es un
 juego en el que tenemos que conseguir recursos y contratar a diferentes
-gremios para construir un puente. Para ello tenemos utilizamos losetas de
+gremios para construir un puente. Para ello utilizamos losetas de
 acción que determinan el movimiento programado que haremos durante el turno,
 dicho movimiento tiene la restricción de que nuestro peón solamente puede pasar
 una vez como máximo por ronda por cada uno de los puentes que conectan las
@@ -195,19 +195,19 @@ estas dos partidas que le he dado confirman la buena impresión.
 
 En **Kingdom Crossing** hay un gran potencial para desencadenar combos muy
 rentables en cada turno y muchas formas de conseguir puntos que están
-interconectadas, pero a la vez que no tienen un camino directo a ellas, hay que
+interconectadas, pero que a la vez que no tienen un camino directo a ellas, hay que
 pensar. Tampoco me parece un juego que sea demasiado ensalada de puntos y que
-al final de igual que hacer, no es eso, las dos mecánicas clave que tiene
+al final de lo mismo qué hacer, no es eso, las dos mecánicas clave que tiene el juego
 (colecciones y programación de acciones/selección limitada de acciones) están
-bien puestas par que tengas que pensar y utilizarlas. Tener las acciones
+bien puestas para que tengas que pensar y utilizarlas. Tener las acciones
 limitadas por las losetas de acción y decidir qué tipo de acción es conveniente
-en cada situación es una decisión que gusta tomar. Además, a la hora de puntuar
+en cada situación es una decisión que me gusta tomar. Además, a la hora de puntuar
 podéis tener cero para un tipo de colección si no habéis conseguido los
 multiplicadores asociados, por lo que se añade un punto interesante extra.
 
 En solitario creo que ya tengo el modo *principiante* del bot más que superado,
 por lo que la siguiente vez que juegue a **Kingdom Crossing** será con más
-dificultad. Por ese aspecto el juego también tiene potencial de escalar a medida
+dificultad. De cara a ese aspecto el juego también tiene potencial de escalar a medida
 que tu habilidad mejora, por lo que también es un diseño muy correcto.
 
 Recientemente me he enterado que [Tranjis Games](https://tranjisgames.com/) va
@@ -262,8 +262,8 @@ bloqueada por uno de los dos bots y no la hayamos tomado el turno anterior, y
 después ejecutar la acción. Conseguimos un bono de una moneda por cada bot que
 se encuentre más adelantado que nosotros en el track. Las acciones están
 relacionadas con contratar personal para el barco, construir el barco,
-seleccionar equipamiento para el barco, ampliar el canal dónde se botan los
-barcos, conseguir empleados, etc. Algunas de estas acciones están asociadas a
+seleccionar equipamiento para el barco, ampliar el canal desde donde se botan los
+barcos, conseguir empleados para el astillero, etc. Algunas de estas acciones están asociadas a
 un rondel, que nos permite elegir el tipo de elemento que adquirimos, para
 avanzar algo más en el  rondel tendremos que pagar con dinero. En **Shipyard**
 el dinero es crítico ya que permite tomar una acción adicional en cada
@@ -288,7 +288,7 @@ En solitario, **Shipyard** es un juego de pura optimización en la que tienes un
 número determinado de turnos para conseguir sacar la mayor puntuación posible,
 te dan puntos por los contratos, por botar barcos y por contratar ciertos tipos
 de empleados, así que en cada partida te tienes que centrar en ir a por lo que
-los contratos te digan en cada momento. Los bots pueden fastidiarte bastante si
+los contratos te digan desde el primer momento. Los bots pueden fastidiarte bastante si
 ambos te bloquean cierta acción que necesites tomar, por lo que muchas veces la
 ronda está vendida hasta que te desbloqueen eso y deberás tomar la siguiente
 ruta de acciones más beneficiosa, alejándote de la ruta óptima y tratando de
@@ -332,7 +332,7 @@ el tablero dúo.
 </div>
 
 En el modo en solitario jugamos contra un automa que para mí está en el límite
-que aguanto de la engorrosidad de los bots, pero que funciona muy bien y del
+que aguanto de nivel de  engorrosidad de bots, pero que funciona muy bien y del
 que constantemente tengo que ajustar la dificultad ya que si llevas un tiempo
 sin jugar te barre. Como ha sido el caso en esta partida a **Wingspan Asia**.
 
@@ -356,8 +356,9 @@ aumentando la dificultad del bot.
 En marzo se supone que sale [El Bosque de los
 Espíritus](https://boardgamegeek.com/boardgame/445044), un
 [juego]({{site.baseurl}}/2026/02/12/tops-juegos-no-jugados-en-2025/) que os
-comentaba que fue con el que más ganas me quedé sin jugar en 2025, por lo que
-espero que salga pronto para poder probarlo finalmente.
+comentaba que fue uno de los juegos que no pude probar en 2025 y me quedé con
+ganas, por lo que espero que salga pronto este mes para finalmente poder
+probarlo.
 
 ¡Os espero en la siguiente entrada de **[El mes en
 juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos)**!
