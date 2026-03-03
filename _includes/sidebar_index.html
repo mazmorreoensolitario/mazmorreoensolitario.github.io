@@ -64,24 +64,26 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Print & play"
       or tag[0] == "Tops"
+      or tag[0] == "El mes en juegos"
       or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Sniper Kill Confirmed"
-      or tag[0] == "One Page Dungeon"
       or tag[0] == "Alone Among the Stars"
-      or tag[0] == "El mes en juegos"
+      or tag[0] == "One Page Dungeon"
       or tag[0] == "Cosmic Colonies"
       or tag[0] == "Desolate: Dark Matters"
-      or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "Dungeons of Doria"
       or tag[0] == "El bosque de los espíritus"
       or tag[0] == "Essen SPIEL 2019"
       or tag[0] == "Formidable Farm"
       or tag[0] == "Navajo Wars"
+      or tag[0] == "OSR"
       or tag[0] == "Pathfinder"
       or tag[0] == "Root: Los Cachivaches"
+      or tag[0] == "Scythe: El Auge de Fenris"
       or tag[0] == "The Last Hundred Yards"
       or tag[0] == "VUCA Simulations"
       or tag[0] == "Witchdom"
+      or tag[0] == "Advanced Squad Leader"
       or tag[0] == "Aeon's End"
       or tag[0] == "Concordia"
       or tag[0] == "Cryo"
@@ -92,12 +94,12 @@
       or tag[0] == "Findorff"
       or tag[0] == "Glory: A Game of Knights"
       or tag[0] == "High Frontier 4 All"
-      or tag[0] == "Horizons of Spirit Island"
       or tag[0] == "Light in the Dark"
+      or tag[0] == "Pathfinder Adventure Card Game"
       or tag[0] == "Reinos de Papel"
-      or tag[0] == "Scythe: El Auge de Fenris"
       or tag[0] == "Shadows of Brimstone"
       or tag[0] == "Spire's End"
+      or tag[0] == "Stellar Horizons"
       or tag[0] == "Super-Skill Pinball: 4-Cade"
       or tag[0] == "Tin Helm"
       or tag[0] == "Traces of War"
@@ -119,9 +121,7 @@
       or tag[0] == "Brazil: Imperial"
       or tag[0] == "Burning Banners"
       or tag[0] == "Carnegie"
-      or tag[0] == "Cartaventura: Vinland"
       or tag[0] == "Chai"
-      or tag[0] == "Cinturón de Hierro"
       or tag[0] == "Ark Nova"
       or tag[0] == "Cascadia"
       or tag[0] == "Curious Cargo"
@@ -173,6 +173,13 @@
       {% endfor %}
     </div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2026/03/01/partidas-mes-enero-febrero-26/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/03/27/general-top-100-bgg-solitario-p4/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -201,14 +208,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/03/01/partidas-mes-enero-febrero-26/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/07/16/noticias-csr-awards-2022/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/02/13/primeras-impresiones-faiyum/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
