@@ -67,13 +67,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2020/05/16/rol-en-solitario-como-empiezo/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -81,7 +74,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/02/12/tops-juegos-no-jugados-en-2025/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2020/05/16/rol-en-solitario-como-empiezo/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -89,6 +82,13 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2026/02/12/tops-juegos-no-jugados-en-2025/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -116,7 +116,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2022/03/23/analisis-infranqueable/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2023/07/16/noticias-csr-awards-2022/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -138,30 +138,28 @@
       or tag[0] == "Light in the Dark"
       or tag[0] == "Pathfinder"
       or tag[0] == "Scythe: El Auge de Fenris"
+      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Tin Helm"
       or tag[0] == "Advanced Squad Leader"
       or tag[0] == "Burning Banners"
       or tag[0] == "Desolate: Dark Matters"
-      or tag[0] == "Essen SPIEL 2019"
-      or tag[0] == "Findorff"
       or tag[0] == "Four Against Darkness"
       or tag[0] == "Hill of Doves"
       or tag[0] == "Horizons of Spirit Island"
       or tag[0] == "Ironsworn: Delve"
       or tag[0] == "Neverland: A Fantasy Role-Playing Setting"
-      or tag[0] == "OSR"
       or tag[0] == "Pathfinder Adventure Card Game"
       or tag[0] == "Root: Los Cachivaches"
+      or tag[0] == "Saqueadores del Mar del Norte"
       or tag[0] == "Spire's End"
       or tag[0] == "The Last Hundred Yards"
       or tag[0] == "Traces of War"
-      or tag[0] == "White Dog Games"
+      or tag[0] == "Zombicide"
       or tag[0] == "Accesorios"
       or tag[0] == "Advanced Squad Leader: Starter Kit"
       or tag[0] == "Aeon's End"
       or tag[0] == "Ambon: Burning Sun & Little Seagulls"
       or tag[0] == "Ardennes 44"
-      or tag[0] == "Arkham Noir"
       or tag[0] == "Barcelona"
       or tag[0] == "Bear Trap: The Soviet-Afghan War"
       or tag[0] == "Bios: Mesofauna"
@@ -183,11 +181,13 @@
       or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
       or tag[0] == "Endarth: Covenant"
       or tag[0] == "Epona"
+      or tag[0] == "Essen SPIEL 2019"
       or tag[0] == "Essen SPIEL 2025"
       or tag[0] == "Everdell: Spirecrest"
       or tag[0] == "Expeditions"
       or tag[0] == "Fellowship of Simulations"
       or tag[0] == "Fields of Fire"
+      or tag[0] == "Findorff"
       or tag[0] == "Ark Nova"
       or tag[0] == "Cascadia"
       or tag[0] == "Curious Cargo"
