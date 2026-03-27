@@ -102,14 +102,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2024/04/30/accesorios-bandejas-para-fichas-cube4me/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2023/07/16/noticias-csr-awards-2022/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/07/16/noticias-csr-awards-2022/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2024/04/30/accesorios-bandejas-para-fichas-cube4me/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -139,21 +139,26 @@
       or tag[0] == "Pathfinder"
       or tag[0] == "Scythe: El Auge de Fenris"
       or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Space Hulk: Death Angel The Card Game"
       or tag[0] == "Tin Helm"
+      or tag[0] == "Traces of War"
       or tag[0] == "Advanced Squad Leader"
+      or tag[0] == "Bear Trap: The Soviet-Afghan War"
       or tag[0] == "Burning Banners"
       or tag[0] == "Cosmic Colonies"
       or tag[0] == "Desolate: Dark Matters"
+      or tag[0] == "Fellowship of Simulations"
       or tag[0] == "Hill of Doves"
       or tag[0] == "Horizons of Spirit Island"
+      or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "Legends Untold: The Great Sewers"
       or tag[0] == "Light in the Dark"
-      or tag[0] == "Mythic"
       or tag[0] == "Pathfinder Adventure Card Game"
       or tag[0] == "Saqueadores del Mar del Norte"
       or tag[0] == "Spire's End"
       or tag[0] == "Spirit Island"
       or tag[0] == "The Last Hundred Yards"
-      or tag[0] == "Traces of War"
+      or tag[0] == "Wingspan Asia"
       or tag[0] == "Zombicide"
       or tag[0] == "Accesorios"
       or tag[0] == "Advanced Squad Leader: Starter Kit"
@@ -163,7 +168,6 @@
       or tag[0] == "Ardennes 44"
       or tag[0] == "Ark Nova"
       or tag[0] == "Barcelona"
-      or tag[0] == "Bear Trap: The Soviet-Afghan War"
       or tag[0] == "Bios: Mesofauna"
       or tag[0] == "Burgle Bros"
       or tag[0] == "Chai"
@@ -176,18 +180,14 @@
       or tag[0] == "Decision Games"
       or tag[0] == "Desolate"
       or tag[0] == "Dice Hospital"
+      or tag[0] == "Dune: House of Secrets"
       or tag[0] == "Dungeon Alliance"
       or tag[0] == "Dungeon Exit"
       or tag[0] == "Dungeons of Doria"
       or tag[0] == "El Señor de los Anillos: El Juego de Cartas"
       or tag[0] == "El Señor de los Anillos: Viajes por la Tierra Media"
+      or tag[0] == "Emberleaf"
       or tag[0] == "Endarth: Covenant"
-      or tag[0] == "Epona"
-      or tag[0] == "Escape Plan"
-      or tag[0] == "Essen SPIEL 2019"
-      or tag[0] == "Essen SPIEL 2025"
-      or tag[0] == "Essen SPIEL"
-      or tag[0] == "Everdell: Spirecrest"
       or tag[0] == "Cascadia"
       or tag[0] == "Curious Cargo"
       or tag[0] == "Imperium: Classics"
@@ -197,7 +197,6 @@
       or tag[0] == "Reinos de Papel"
       or tag[0] == "Shipyard"
       or tag[0] == "Terraforming Mars"
-      or tag[0] == "Wingspan Asia"
       or tag[0] == "Legends Untold" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
