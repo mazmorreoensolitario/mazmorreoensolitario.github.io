@@ -11,20 +11,13 @@ layout: default
          class="index-anchor">
         <div class="panel panel-default">
           {% if post.imghtml %}
-          <!---width="100%" --->
-          <img
-            {% if post.crop %}
-            class="try-to-crop" 
-            {% else %}
-            width="100%" 
-            {% endif %}
-             src="{{post.imghtml}}" alt="{{post.title}}">
+          <img class="try-to-crop" src="{{post.imghtml}}" alt="{{post.title}}">
           {% else %}
           {% if post.img %}
-          <img width="100%" src="{{site.baseurl}}/images/{{post.img}}"
+          <img class="try-to-crop" src="{{site.baseurl}}/images/{{post.img}}"
                alt="{{post.title}}">
           {% else %}
-          <img width="100%" src="{{site.baseurl}}/images/logo.png"
+          <img class="try-to-crop" src="{{site.baseurl}}/images/logo.png"
                alt="{{site.title}}">
           {% endif %}
           {% endif %}
