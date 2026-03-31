@@ -4,12 +4,12 @@ title: "Zine Quest 3: las zines en solitario"
 date: 2021-01-31
 categories: [Rol]
 tags: [Rol, Zine Quest, Zine Quest 3, The Vast in the Dark]
-imghtml: https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210131-bis/zq3.png
+imghtml: https://img.itch.zone/aW1hZ2UyL2phbS8yOTY5NjQvNTAyMDY2Ny5wbmc=/original/pDnFqy.png
 post_desc: "Guía de todas las zines de Zine Quest 3 que podéis conseguir para
 jugar en solitario durante este mes de febrero"
 ---
 
-![](https://raw.githubusercontent.com/mazmorreoensolitario/public-images/master/posts/20210131-bis/zq3.png)
+![](https://img.itch.zone/aW1hZ2UyL2phbS8yOTY5NjQvNTAyMDY2Ny5wbmc=/original/pDnFqy.png)
 
 
 **[Zine Quest](https://www.kickstarter.com/zinequest)** es una
