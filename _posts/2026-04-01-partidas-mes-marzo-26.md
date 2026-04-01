@@ -270,8 +270,8 @@ Se mantiene bien este **Kingdom Crossing**, espero jugarlo más en abril.
 <p align="center">
 <img height="" src="https://live.staticflickr.com/65535/51017482330_95d9f724e1_o.png"></p>
 
-El juego del mes ha **Forest Shuffle**, me ha sorprendido muchísimo todo lo que
-me ha enganchado; y se ha ganado un sitio entre mis favoritos.
+El juego del mes ha sido **Forest Shuffle**, me ha sorprendido muchísimo todo
+lo que me ha enganchado; y se ha ganado un sitio entre mis favoritos.
 
 ## Planes para abril
 
