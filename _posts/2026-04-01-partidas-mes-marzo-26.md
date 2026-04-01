@@ -105,7 +105,7 @@ esas elige la que más puntos valga para él, y en caso de empate elige la más
 cercana. No es un incordio para nada de llevar y aún así molesta en la partida,
 está bien hecho. La dificultad escala porque dependiendo del nivel del bot que
 elijas (creo recordar que hay 4 dificultades), las losetas que el bot
-elije empiezan valiendo más o menos (se elije de forma aleatoria al comenzar la
+elige empiezan valiendo más o menos (se elige de forma aleatoria al comenzar la
 partida qué losetas valen más o menos para el bot). Así que aunque en todos los
 niveles de dificultad el bot robe la misma cantidad de losetas, el valor de
 estas será más alto según la dificultad.
