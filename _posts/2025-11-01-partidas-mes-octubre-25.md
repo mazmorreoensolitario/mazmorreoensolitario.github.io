@@ -42,7 +42,7 @@ entrada]({{site.baseurl}}/2025/10/21/bingo-essen-spiel-2025/), a fecha de
 publicación de esta entrada me falta que me lleguen los juegos de las
 editoriales noruegas.
 
-### Kingdom Crossing
+### [Kingdom Crossing](https://amzn.to/4umjReb)
 <p><i>1 partida</i></p>
 <p align="center">
 <img height="350"

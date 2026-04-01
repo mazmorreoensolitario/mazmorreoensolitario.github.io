@@ -237,7 +237,7 @@ que te dan es mostrar más contratos de tu mazo, pero en muchos casos no ayudan.
 absurdamente grande que tiene para los componentes que lleva. Creo que esto de
 las cajas grandes porque sí se está convirtiendo en una epidemia.
 
-### Kingdom Crossing
+### [Kingdom Crossing](https://amzn.to/4umjReb)
 <p><i>2 partidas</i></p>
 
 <p align="center"> <img height="350"

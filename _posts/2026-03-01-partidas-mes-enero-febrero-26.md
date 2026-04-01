@@ -163,7 +163,7 @@ maja de [Melmac Games](https://melmacgames.com/) iba a publicarlo, y sigue
 apareciendo como *próximamente* en su web, pero... estamos ya en 2026. *Se me
 cae la lágrima.*
 
-### Kingdom Crossing
+### [Kingdom Crossing](https://amzn.to/4umjReb)
 <p><i>2 partidas</i></p>
 
 <p align="center">
