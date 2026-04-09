@@ -10,7 +10,6 @@ podido disfrutar durante este año"
 ---
 
 ![](https://live.staticflickr.com/65535/51761521286_f4a30cb8e6_b.jpg)
-![](https://live.staticflickr.com/65535/51761521301_32e787d106_b.jpg)
 
 <hr>
 

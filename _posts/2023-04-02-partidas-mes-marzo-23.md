@@ -4,12 +4,12 @@ title: "Marzo en juegos (2023)"
 date: 2023-04-02
 categories: [General]
 tags: [El mes en juegos, Old-School Essentials, Three Sisters, Ark Nova, Cascadia, Factory Funner, Roll Player, The Last Hundred Yards, "The Last Hundred Yards: The Solomon Islands", Wingspan Asia, Wingspan]
-imghtml: https://live.staticflickr.com/65535/52781725354_cb39947576_o.jpg
+imghtml: https://live.staticflickr.com/65535/55196485373_b7c03c0f5f_b.jpg
 post_desc: "¿Qué se ha jugado en el cambiante marzo? Aquí te cuento qué juegos he
 sacado a la mesa durante el comienzo de la primavera"
 ---
 
-![](https://live.staticflickr.com/65535/52781725354_cb39947576_o.jpg)
+![](https://live.staticflickr.com/65535/55196485373_b7c03c0f5f_b.jpg)
 
 <hr>
 

@@ -4,12 +4,12 @@ title: "Noviembre en juegos (2022)"
 date: 2022-12-04
 categories: [General]
 tags: [El mes en juegos, Zona Alfa, Nightwatch, Agricola, Ark Nova, Cascadia, Wormholes]
-imghtml: https://live.staticflickr.com/65535/52542156864_defe8d9fc2_c.jpg
+imghtml: https://live.staticflickr.com/65535/55195455102_80faee74cc_b.jpg
 post_desc: "¿Qué se ha jugado durante noviembre? Aquí te cuento qué juegos de
 mesa, rol y wargames han visto mesa durante noviembre"
 ---
 
-![](https://live.staticflickr.com/65535/52542156864_defe8d9fc2_c.jpg)
+![](https://live.staticflickr.com/65535/55195455102_80faee74cc_b.jpg)
 
 <hr>
 

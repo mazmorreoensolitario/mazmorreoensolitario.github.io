@@ -4,13 +4,13 @@ title: "Libros de 2022"
 date: 2022-12-30
 categories: [Off topic]
 tags: [Libros]
-imghtml: https://live.staticflickr.com/65535/52596263963_73880a0970_b.jpg
+imghtml: https://live.staticflickr.com/65535/55195452107_1da46c439e_b.jpg
 post_desc: "En la entrada off topic del año os quiero hablar de los libros que
 he leído durante este último año"
 ---
 
-![](https://live.staticflickr.com/65535/52596263963_73880a0970_b.jpg)
-![](https://live.staticflickr.com/65535/52596003799_a497394708_b.jpg)
+![](https://live.staticflickr.com/65535/55195452107_1da46c439e_b.jpg)
+
 <hr>
 
 En 2021 empecé a hacer un resumen de cada libro leído justo después de

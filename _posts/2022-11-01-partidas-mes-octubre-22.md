@@ -4,12 +4,12 @@ title: "Octubre en juegos (2022)"
 date: 2022-11-01
 categories: [General]
 tags: [El mes en juegos, Cascadia, Turing Machine, Ark Nova, The City of Kings, Curious Cargo, Desolate, Horizons of Spirit Island, Mini Rogue, Resistid, "Resist!", Sprawlopolis, Expansiópolis, Wormholes]
-imghtml: https://live.staticflickr.com/65535/52469769409_9c68a8ea69_b.jpg
+imghtml: https://live.staticflickr.com/65535/55196598714_6829c4ede1_b.jpg
 post_desc: "¿Qué se ha jugado durante octubre? Aquí te cuento qué juegos de
 mesa, rol y wargames han visto mesa durante octubre"
 ---
 
-![](https://live.staticflickr.com/65535/52469769409_9c68a8ea69_b.jpg)
+![](https://live.staticflickr.com/65535/55196598714_6829c4ede1_b.jpg)
 
 <hr>
 
