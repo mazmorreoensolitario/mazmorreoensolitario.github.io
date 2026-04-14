@@ -196,8 +196,8 @@ la feria pero que quiero probar por una cosa y otra:
          para construir los caminos de peregrinaje, y añadiremos edificios a
          los caminos para obtener recursos y beneficios. Además los movientos
          seguirán un patrón tipo mandala.</p>
-         <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/sde0b16cbef51efc3/image/ib9ecfb6ecd627842/version/1648027531/image.jpg">
-         <p><small>Partida de Pilgrim, foto de Spielworxx</small></p>
+         <img src="https://cf.geekdo-images.com/jD37n8-V63nwZeabY8Mm3g__imagepage@2x/img/VKOAmWTDbRTvhkPr0oLJ2RvTZks=/fit-in/1800x1200/filters:strip_icc()/pic7573758.jpg">
+         <p><small>Partida de Pilgrim, foto de @The Innocent</small></p>
          <p><strong>¿Por qué me interesa este juego?</strong> Cuando terminéis
          de leer esta entrada posiblemente pensaréis que este es el juego que
          peor os he explicado,  y tendréis toda la razón, he leído el manual
@@ -371,8 +371,8 @@ Jaws of the Lion</a> en 2020), pero luego <a
     acción que haya tocado en el rondel ese turno (entre <i>Architect</i>,
     <i>Merchant</i>, <i>Character</i>, <i>Contract</i>, <i>King</i> y
     <i>Joker</i>), pero nos asignará 1 acción de ese tipo.</p>
-    <img src="https://secureservercdn.net/198.71.233.168/wkz.953.myftpupload.com/wp-content/uploads/2022/09/Tiletum-Rozgrywka-1-1200x800.jpg">
-    <p><small>Tiletum preparado para jugar, foto de Board & Dice</small></p>
+    <img src="https://boardanddice.com/wp-content/uploads/2022/08/tiletum_setup_all-2048x1536.png">
+    <p><small>Tiletum preparado para jugar, render de Board & Dice</small></p>
     <p>Así por encima os comento que los diferentes tipos de acciones nos
     permiten interactuar con las diferentes zonas del tablero principal y de
     nuestro tablero de jugador; también sirven para conseguir bonos de recursos
@@ -394,8 +394,6 @@ Jaws of the Lion</a> en 2020), pero luego <a
     que se leen muy bien (el modo en solitario tiene un <a
     href="https://www.dropbox.com/s/u7ezcpmaff2848v/tiletum_solo_rulebook_final.pdf?dl=0">libro
     de reglas</a> separado).</p>
-    <img src="https://secureservercdn.net/198.71.233.168/wkz.953.myftpupload.com/wp-content/uploads/2022/08/Tiletum-Komponenty-1-scaled.jpg">
-    <p><small>Contenido de la caja de Tiletum, foto de Board & Dice</small></p>
     <p><strong>¿Por qué me interesa este juego?</strong> Comencé a
     interesarme en los juegos de la "Serie T" con el lanzamiento de <a
     href="https://boardgamegeek.com/boardgame/316786/tabannusi-builders-ur">Tabannusi</a>
