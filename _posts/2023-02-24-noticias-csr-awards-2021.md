@@ -4,14 +4,14 @@ title: "Guía de wargames en solitario: Premios Charles S. Roberts de 2021"
 date: 2023-02-24
 categories: [Noticias]
 tags: ["Charles S. Roberts Awards", "Lock 'n Load Publishing", Worthington Publishing, Red Flag Over Paris, Operational Studies Group, NAC Wargames, Legion Wargames, Hollandspiele, Five Parsecs From Home, Decision Games, "Soldiers in Postmen's Uniforms", Compass Games, Thin Red Line Games, DVG, "Multi-Man Publishing", GMT Games, Atlantic Chase]
-imghtml: https://live.staticflickr.com/65535/52640657358_49b73c4d3a_o.jpg
+imghtml: https://live.staticflickr.com/65535/55206988730_07ba96ee59_z.jpg
 general: ""
 post_desc: "Guía de wargames en solitario de entre todas las nominaciones a los
 premios Charles S. Roberts Awards de wargames de 2021"
 ---
 
 <p align="center">
-<img src="https://live.staticflickr.com/65535/52640657358_49b73c4d3a_o.jpg">
+<img src="https://live.staticflickr.com/65535/55206988730_07ba96ee59_z.jpg">
 </p>
 
 <hr>

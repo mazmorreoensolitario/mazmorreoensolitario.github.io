@@ -9,7 +9,7 @@ post_desc: "En esta entrada os traigo las estadísticas de los juegos mejor
 valorados por los integrantes del 1PG de Board Game Geek"
 ---
 
-![](https://live.staticflickr.com/65535/52520674432_7de7f1f208_c.jpg)
+![](https://live.staticflickr.com/65535/55206850349_bc6f4633a8_b.jpg)
 
 <hr>
 
@@ -31,7 +31,7 @@ diferencias y después nos meteremos en **las estadísticas**
 ## El top 200 de 2022
 
 <div align="center">
-<img src="https://live.staticflickr.com/65535/52524793214_052e38698f_c.jpg">
+<img src="https://live.staticflickr.com/65535/55206850359_b8d9785563_b.jpg">
 <small>Top 20 de 2022 de 1PG</small>
 </div>
 

@@ -4,12 +4,12 @@ title: "Balance de 2022: lo más jugado"
 date: 2023-01-05
 categories: [Listas]
 tags: [Tops, Wormholes, GMT Games, Next War Series, Terraforming Mars, Tranvías, Tramways, Salerno 43, "Next War: Korea", Ark Nova, Cascadia, Curious Cargo, Space Empires 4X, Gaia Project]
-imghtml: https://live.staticflickr.com/65535/52607723735_e65a716fff_b.jpg
+imghtml: https://live.staticflickr.com/65535/55205699497_f43559a61e_b.jpg
 post_desc: "Damos un vistazo a 2022 para ver qué se ha comprado, qué se ha
 jugado y qué se ha quedado sin jugar"
 ---
 
-![](https://live.staticflickr.com/65535/52607723735_e65a716fff_b.jpg)
+![](https://live.staticflickr.com/65535/55205699497_f43559a61e_b.jpg)
 
 <hr>
 
