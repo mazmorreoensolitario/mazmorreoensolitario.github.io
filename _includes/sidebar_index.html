@@ -68,11 +68,11 @@
       or tag[0] == "Libros"
       or tag[0] == "Messina 1347"
       or tag[0] == "Scarlet Heroes"
-      or tag[0] == "Seekers Beyond The Shroud"
-      or tag[0] == "9 Card Game Print & Play Design Contest"
-      or tag[0] == "Four Against Darkness"
       or tag[0] == "Light in the Dark"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Boletín Informativo Solitario"
+      or tag[0] == "Four Against Darkness"
+      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "After The Virus"
       or tag[0] == "Concordia"
       or tag[0] == "Count of the Nine Estates"
@@ -87,6 +87,7 @@
       or tag[0] == "Blackout: Hong Kong"
       or tag[0] == "El bosque de los espíritus"
       or tag[0] == "Epona"
+      or tag[0] == "Forbidden Lands"
       or tag[0] == "Gloomhaven: Fauces del León"
       or tag[0] == "Horizons of Spirit Island"
       or tag[0] == "Legends Untold: The Great Sewers"
@@ -99,7 +100,6 @@
       or tag[0] == "This War of Mine: The Board Game"
       or tag[0] == "Wingspan Asia"
       or tag[0] == "12 Patrols"
-      or tag[0] == "Alone Among the Stars"
       or tag[0] == "Ambon: Burning Sun & Little Seagulls"
       or tag[0] == "Atiwa"
       or tag[0] == "Cascadia"
@@ -180,14 +180,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/07/16/noticias-csr-awards-2022/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2019/03/09/analisis-maquis/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/03/09/analisis-maquis/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2023/07/16/noticias-csr-awards-2022/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
