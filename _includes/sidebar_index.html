@@ -69,10 +69,10 @@
       or tag[0] == "Messina 1347"
       or tag[0] == "Scarlet Heroes"
       or tag[0] == "Light in the Dark"
-      or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Boletín Informativo Solitario"
       or tag[0] == "Four Against Darkness"
       or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "After The Virus"
       or tag[0] == "Concordia"
       or tag[0] == "Count of the Nine Estates"
@@ -96,12 +96,12 @@
       or tag[0] == "Space Hulk: Death Angel The Card Game"
       or tag[0] == "Sub Terra II: Inferno's Edge"
       or tag[0] == "Terraforming Mars: Ares Expedition"
-      or tag[0] == "The Last Hundred Yards"
       or tag[0] == "This War of Mine: The Board Game"
       or tag[0] == "Wingspan Asia"
       or tag[0] == "12 Patrols"
       or tag[0] == "Ambon: Burning Sun & Little Seagulls"
       or tag[0] == "Atiwa"
+      or tag[0] == "Bear Trap: The Soviet-Afghan War"
       or tag[0] == "Cascadia"
       or tag[0] == "Curious Cargo"
       or tag[0] == "Desolate"
@@ -166,13 +166,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2024/04/30/accesorios-bandejas-para-fichas-cube4me/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -180,7 +173,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/03/09/analisis-maquis/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -188,6 +181,13 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2023/07/16/noticias-csr-awards-2022/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2019/03/09/analisis-maquis/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
