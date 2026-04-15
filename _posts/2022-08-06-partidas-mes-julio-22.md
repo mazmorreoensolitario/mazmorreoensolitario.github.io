@@ -4,12 +4,12 @@ title: "Julio en juegos (2022)"
 date: 2022-08-06
 categories: [General]
 tags: [El mes en juegos, Vaults of Vaarn, Tramways, Tranvías, Exploradores de las Profundidades Sombrías, Rangers of Shadow Deep, Ark Nova, Curious Cargo]
-imghtml: https://live.staticflickr.com/65535/52266870303_c65debe0de_b.jpg
+imghtml: https://live.staticflickr.com/65535/55208824648_6e537f0173_b.jpg
 post_desc: "¿Qué se ha jugado durante julio? Aquí te cuento qué juegos de
 mesa, rol y wargames han visto mesa durante el mes"
 ---
 
-![](https://live.staticflickr.com/65535/52266870303_c65debe0de_b.jpg)
+![](https://live.staticflickr.com/65535/55208824648_6e537f0173_b.jpg)
 
 <hr>
 

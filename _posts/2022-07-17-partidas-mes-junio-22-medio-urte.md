@@ -4,11 +4,11 @@ title: "Junio y medio año en juegos (2022)"
 date: 2022-07-17
 categories: [General]
 tags: [Tops, El mes en juegos, Exploradores de las Profundidades Sombrías, Rangers of Shadow Deep, Cascadia, Terraforming Mars, Ark Nova, "Next War: Korea", Corrosion, Gaia Project, Faiyum, "Fayún", Space Empires 4X, Curious Cargo, Salerno 43, Legends Untold, "Legends Untold: The Great Sewers"]
-imghtml: https://live.staticflickr.com/65535/52216582785_1ff8d367f7_b.jpg
+imghtml: https://live.staticflickr.com/65535/55209075115_9764ceb52d_c.jpg
 post_desc: "¿Qué se ha jugado durante junio? ¿Y durante estos seis primeros meses del año? Aquí te lo cuento"
 ---
 
-![](https://live.staticflickr.com/65535/52216582785_1ff8d367f7_b.jpg)
+![](https://live.staticflickr.com/65535/55209075115_9764ceb52d_c.jpg)
 
 <hr>
 
@@ -26,7 +26,7 @@ Os dejo primero con junio y después pasamos al resumen de medio año.
 
 ## Juegos de mesa de junio
 
-![](https://live.staticflickr.com/65535/52205735657_08f2b144d2_b.jpg)
+![](https://live.staticflickr.com/65535/55207779847_ca0de545f5_c.jpg)
 
 <hr>
 
@@ -163,7 +163,7 @@ dos juegos se lleven el codiciado galardón:
 
 ## Medio año en juegos
 
-![](https://live.staticflickr.com/65535/52216582880_ef386d3a29_b.jpg)
+![](https://live.staticflickr.com/65535/55209071895_2dbe0a4d2c_c.jpg)
 
 <hr>
 

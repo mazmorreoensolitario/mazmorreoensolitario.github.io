@@ -4,12 +4,12 @@ title: "Zine Quest 4: las zines en solitario"
 date: 2022-08-06
 categories: [Rol]
 tags: [Rol, Zine Quest, Zine Quest 4]
-imghtml: https://live.staticflickr.com/65535/52266565462_8486dd2684_b.jpg
+imghtml: https://live.staticflickr.com/65535/55208914139_6f0b3d7ee9_b.jpg
 post_desc: "Guía de todas las zines de Zine Quest 4 que podéis usar para jugar
 en solitario"
 ---
 
-![](https://live.staticflickr.com/65535/52266565462_8486dd2684_b.jpg)
+![](https://live.staticflickr.com/65535/55208914139_6f0b3d7ee9_b.jpg)
 
 <hr>
 
