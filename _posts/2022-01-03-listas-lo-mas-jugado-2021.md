@@ -4,12 +4,12 @@ title: "Balance de 2021: lo más jugado"
 date: 2022-01-03
 categories: [Listas]
 tags: [Tops, Fayún, "Lock 'n Load Publishing", GMT Games, Root, "Root: The Clockwork", "Root: Los Cachivaches", Curious Cargo, Faiyum, "Imperium: Classics", Terraforming Mars, "Next War: Korea", Tramways, Tranvías, Gaia Project, Spirit Island, "World at War 85: Storming the Gap"]
-imghtml: https://live.staticflickr.com/65535/51796993825_68f9f967eb_b.jpg
+imghtml: https://live.staticflickr.com/65535/55212763453_816b398684_c.jpg
 post_desc: "2021 ya se ha terminado, y en esta entrada doy un último viztazo al
 año para ver qué es lo que más he jugado"
 ---
 
-![](https://live.staticflickr.com/65535/51796993825_68f9f967eb_b.jpg)
+![](https://live.staticflickr.com/65535/55212763453_816b398684_c.jpg)
 
 <hr>
 

@@ -4,12 +4,12 @@ title: "Abril en juegos (2022)"
 date: 2022-05-01
 categories: [General]
 tags: [El mes en juegos, Old-School Essentials, "The Last Hundred Yards: The Solomon Islands", The Last Hundred Yards, Corrosion, Rangers of Shadow Deep, Exploradores de las Profundidades Sombrías, Salerno 43, Cascadia]
-imghtml: https://live.staticflickr.com/65535/52042403178_32f428857f_o.jpg
+imghtml: https://live.staticflickr.com/65535/55212753843_90b098003b_c.jpg
 post_desc: "¿Qué se ha jugado durante abril? Aquí te cuento qué juegos de
 mesa, rol y wargames han visto mesa durante abril"
 ---
 
-![](https://live.staticflickr.com/65535/52042403178_32f428857f_o.jpg)
+![](https://live.staticflickr.com/65535/55212753843_90b098003b_c.jpg)
 
 <hr>
 

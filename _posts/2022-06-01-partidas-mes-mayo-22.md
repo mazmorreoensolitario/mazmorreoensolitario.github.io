@@ -4,12 +4,12 @@ title: "Mayo en juegos (2022)"
 date: 2022-06-01
 categories: [General]
 tags: [El mes en juegos, Exploradores de las Profundidades Sombrías, Rangers of Shadow Deep, "Ironsworn: Starforged", Ark Nova, Cascadia, Terraforming Mars, Curious Cargo]
-imghtml: https://live.staticflickr.com/65535/52112124112_d0e1d7e1b4_b.jpg 
+imghtml: https://live.staticflickr.com/65535/55212752083_2c0d880b92_c.jpg
 post_desc: "¿Qué se ha jugado durante mayo? Aquí te cuento qué juegos de
 mesa, rol y wargames han visto mesa durante el mes"
 ---
 
-![](https://live.staticflickr.com/65535/52112124112_d0e1d7e1b4_b.jpg)
+![](https://live.staticflickr.com/65535/55212752083_2c0d880b92_c.jpg)
 
 <hr>
 
