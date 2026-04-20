@@ -4,12 +4,12 @@ title: "Top 200 del 1 Player Guild: los juegos en solitario definitivos (Parte 3
 date: 2021-12-13
 categories: [General]
 tags: [Tops, "Space Hulk: Death Angel The Card Game", Kingdom Death Monster, Sleeping Gods, Nemesis, Arquitectos del Reino del Oeste, It's a Wonderful World, Sentinels of the Multiverse, Gloom of Kilforth, Shadows of Kilforth, Las Mansiones de la Locura, Shadowrun Crossfire, Tapestry, "Middara: Unintentional Malum", "El Señor de los Anillos: Viajes por la Tierra Media", Orchard, GMT Games, Vizcondes del Reino del Oeste, "Cthulhu: Death May Die", Descent, "Terraforming Mars: Ares Expedition", "Xia: Leyendas de un Sistema a la Deriva", Kanban EV, Root, Black Sonata, Hallertau, Agricola, La Isla de los Gatos, Bullet, Street Masters, "Colonos del Imperio: Imperios del Norte", "Deep Space D-6", Horrified, "Hoplomachus", "Space Empires 4X", El Símbolo Arcano, "Baseball Highlights: 2045", Coffee Roaster, Marvel United, Dungeon Alliance, Saqueadores de Escitia, Leaving Earth, "Star Wars: Imperial Assault", Glass Road, Hostage Negociator, Runebound, Palm Island, Welcome Hacia el Perfecto Hogar, Cascadia, "Fleet: The Dice Game"]
-imghtml: https://live.staticflickr.com/65535/51661769070_53fc838f58_b.jpg
+imghtml: https://live.staticflickr.com/65535/55220112600_d52c2305e6_c.jpg
 post_desc: "Tercera parte del Top 200 de 1 Player Guild, donde hablamos del top
 de juegos de los usuarios de este gremio en Board Game Geek"
 ---
 
-![](https://live.staticflickr.com/65535/51661769070_53fc838f58_b.jpg)
+![](https://live.staticflickr.com/65535/55220112600_d52c2305e6_c.jpg)
 
 * [Parte 1: 200-151]({{site.baseurl}}/2021/11/06/general-top-200-1pg-solitario-p1/)
 * [Parte 2: 150-101]({{site.baseurl}}/2021/11/29/general-top-200-1pg-solitario-p2/) 

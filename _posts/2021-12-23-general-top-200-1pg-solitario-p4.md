@@ -4,12 +4,12 @@ title: "Top 200 del 1 Player Guild: los juegos en solitario definitivos (Parte 4
 date: 2021-12-23
 categories: [General]
 tags: [Tops, Spirit Island, Mage Knight, "Marvel Champions: The Card Game", "Gloomhaven: Fauces del León", Gloomhaven, "Gloomhaven: Jaws of the Lion", Arkham Horror, Terraforming Mars, Too Many Bones, "El Señor de los Anillos: El Juego de Cartas", "Aeon's End", Robinson Crusoe, Gaia Project, El Banquete de Odín, Scythe, Cielos de metal, Under Falling Skies, "Imperium: Classics", "Imperium: Legends", Wingspan, Nusfjord, "Expansiópolis", Sprawlopolis, "Nemo's War", The 7th Continent, Eldritch Horror, Anachrony, "Dune: Imperium", Viticulture, Las Ruinas Perdidas de Arnak, Underwater Cities, Cloudspire, Paladines del Reino del Oeste, Obsession, "This War of Mine: The Board Game", Viernes, Friday, Dawn of the Zeds, Cartographers, Maracaibo, Roll Player, Pandemic, Pax Pamir, A las Puertas de Loyang, Campos de Arle, Race for the Galaxy, "Teotihuacán", Everdell, Tainted Grail, Onirim, Renegade, One Deck Dungeon, "Warp's Edge", "Hadrian's Wall", El muro de Adriano]
-imghtml: https://live.staticflickr.com/65535/51661122798_e3067beb48_b.jpg
+imghtml: https://live.staticflickr.com/65535/55219711666_ae7f2fb9f8_c.jpg
 post_desc: "Cuarta y última parte del Top 200 de 1 Player Guild, donde hablamos del top
 de juegos de los usuarios de este gremio en Board Game Geek"
 ---
 
-![](https://live.staticflickr.com/65535/51661122798_e3067beb48_b.jpg)
+![](https://live.staticflickr.com/65535/55219711666_ae7f2fb9f8_c.jpg)
 
 * [Parte 1: 200-151]({{site.baseurl}}/2021/11/06/general-top-200-1pg-solitario-p1/)
 * [Parte 2: 150-101]({{site.baseurl}}/2021/11/29/general-top-200-1pg-solitario-p2/) 

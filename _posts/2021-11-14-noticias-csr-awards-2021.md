@@ -4,13 +4,13 @@ title: "Guía de wargames en solitario: Premios Charles S. Roberts de 2020"
 date: 2021-11-14
 categories: [Noticias]
 tags: ["Charles S. Roberts Awards", Red Sun Blue Cross, "Iron Curtain: Central Europe", The Jaws of Victory, "Verdun 1916: Steel Inferno", "1985: Deadly Northern Lights", By Stealth and Sea, "Dune: Imperium", Stellar Horizons, Thin Red Line Games, Worthington Publishing, Multi-Man Publishing, Operational Studies Group, One Small Step, Fellowship of Simulations, New England Simulations, Fort Circle Games, "Nuts! Publishing", VUCA Simulations, GMT Games, Compass Games, Hollandspiele, White Dog Games, "Stilicho: Last of the Romans", "Men of Iron Battles Tri-pack", "Caesar: Rome vs. Gaul", The Shores of Tripoli, Advanced Squad Leader, Fire in the Lake, "Labyrinth: The War on Terror", "Root", "Root: The Underworld", Chancellorsville 1863, "Next War: Vietnam", Next War Series, Hungarian Rhapsody, All Bridges Burning, Versailles 1919]
-imghtml: https://live.staticflickr.com/65535/51675250735_c42ef9b3e9_o.png
+imghtml: https://live.staticflickr.com/65535/55220099905_40b467c839_z.jpg
 general: ""
 post_desc: "Guía de wargames en solitario de entre todas las nominaciones a los
 premios Charles S. Roberts Awards de wargames de 2020"
 ---
 
-<p align="center"><img src="https://live.staticflickr.com/65535/51675250735_c42ef9b3e9_o.png">
+<p align="center"><img src="https://live.staticflickr.com/65535/55220099905_40b467c839_z.jpg">
 </p>
 
 <hr>

@@ -4,13 +4,13 @@ title: "Guía de wargames en solitario: Premios Charles S. Roberts de 2019"
 date: 2020-11-07
 categories: [Noticias]
 tags: ["Charles S. Roberts Awards", Operational Studies Group, "Less than 60 Miles", Stalingrad 42, The Last Hundred Yards, "Brazen Chariots: Battles for Tobruk", "Freeman's Farm 1777", "Red Storm: The Air War Over Central Germany", Thin Red Line Games, "Crossing the Line: Aachen 1944", Fields of Fire, "World at War 85: Storming the Gap", "Multi-Man Publishing", White Dog Games, VUCA Simulations, Compass Games, Peloponnesian War, "UBOOT: The Board Game", "Nevsky: Teutons and Rus in Collision", GMT Games, Worthington Publishing, Decision Games, Hollandspiele, "Lock 'n Load Publishing"]
-imghtml: https://live.staticflickr.com/65535/51269501081_39f914f9c7_c.jpg
+imghtml: https://live.staticflickr.com/65535/55220154515_86bfcbd3d2_c.jpg
 general: ""
 post_desc: "Guía de wargames en solitario de entre todas las nominaciones a los
 premios Charles S. Roberts Awards de wargames de 2019"
 ---
 
-![](https://live.staticflickr.com/65535/51269501081_39f914f9c7_c.jpg)
+![](https://live.staticflickr.com/65535/55220154515_86bfcbd3d2_c.jpg)
 
 Los **[Premios Charles
 S. Roberts](https://charlieawards.wordpress.com/2019-charles-s-roberts-nominees-and-awards/)**

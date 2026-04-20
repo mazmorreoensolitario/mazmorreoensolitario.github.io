@@ -4,12 +4,12 @@ title: "Top 200 del 1 Player Guild: los juegos en solitario definitivos (Parte 2
 date: 2021-11-29
 categories: [General]
 tags: [Tops, 7 Wonders Duel, Newton, Clans of Caledonia, DVG, GMT Games, Decision Games, Railroad Ink, Colonos del Imperio, Saqueadores del Mar del Norte, Barrage, Pathfinder Adventure Card Game, Lisboa, "Star Wars: El Borde Exterior", The Search for Planet X, Dwellings of Eldervale, Tiny Epic, "Sword & Sorcery", "Trickerion: Legends of Illusion", Unbroken, Calico, "Burgle Bros 2: The Casino Capers", Burgle Bros, "SpaceCorp: 2025-2300AD", Flame Rouge, D-Day at Omaha Beach, Navajo Wars, Sherlock Holmes Consulting Detective, Sherlock Holmes Detective Asesor, Maquis, La Expedición Perdida, After The Virus, Snowdonia, Zombicide, Clanes de Caledonia, "1862: Railway Mania in the Eastern Counties", "Blackout: Hong Kong", "Circadians: Primera Luz", Sylvion, "Pavlov's House", Los Castillos de Borgoña, Fantastic Factories, PARKS, Le Havre, Set A Watch, Pax Renaissance]
-imghtml: https://live.staticflickr.com/65535/51661769085_62a9c9967a_b.jpg
+imghtml: https://live.staticflickr.com/65535/55218815607_6ef4de8618_c.jpg
 post_desc: "Segunda parte del Top 200 de 1 Player Guild, donde hablamos del top
 de juegos de los usuarios de este gremio en Board Game Geek"
 ---
 
-![](https://live.staticflickr.com/65535/51661769085_62a9c9967a_b.jpg)
+![](https://live.staticflickr.com/65535/55218815607_6ef4de8618_c.jpg)
 
 * [Parte 1: 200-151]({{site.baseurl}}/2021/11/06/general-top-200-1pg-solitario-p1/)
 * **Parte 2: 150-101** (estás aquí)

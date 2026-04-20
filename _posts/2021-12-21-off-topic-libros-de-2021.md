@@ -4,12 +4,12 @@ title: "Libros de 2021"
 date: 2021-12-21
 categories: [Off topic]
 tags: [Libros]
-imghtml: https://live.staticflickr.com/65535/51761521286_f4a30cb8e6_b.jpg
+imghtml: https://live.staticflickr.com/65535/55218791392_9c9afa222d_c.jpg
 post_desc: "En esta inusual entrada me gustaría hablaros de los libros que he 
 podido disfrutar durante este año"
 ---
 
-![](https://live.staticflickr.com/65535/51761521286_f4a30cb8e6_b.jpg)
+![](https://live.staticflickr.com/65535/55218791392_9c9afa222d_c.jpg)
 
 <hr>
 

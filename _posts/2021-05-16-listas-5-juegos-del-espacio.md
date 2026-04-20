@@ -4,12 +4,12 @@ title: "5 Juegos en solitario 'del espacio'"
 date: 2021-05-16
 categories: [Listas]
 tags: [Tops, Golden Geek, "Solitaire Print & Play Design Contest", Lux Aeterna, Terraforming Mars, High Frontier 4 All, "Deep Space D-6", Desolate]
-imghtml: https://live.staticflickr.com/65535/51183093598_98bd4920f7_b.jpg
+imghtml: https://live.staticflickr.com/65535/55220023129_30a447c569_c.jpg
 post_desc: "Aquí tenemos más recomendaciones de juegos en solitario de un tema
 en concreto, esta vez tocan juegos que se puedan considerar como 'del espacio'"
 ---
 
-![](https://live.staticflickr.com/65535/51183093598_98bd4920f7_b.jpg)
+![](https://live.staticflickr.com/65535/55220023129_30a447c569_c.jpg)
 
 * **[5 Juegos en solitario de 'construir cosas']({{site.baseurl}}/2020/12/02/listas-5-juegos-de-construir-cosas/)**
 * **[5 Juegos en solitario de 'batallitas o guerras']({{site.baseurl}}/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/)**

@@ -4,12 +4,12 @@ title: "Diciembre en juegos (2021)"
 date: 2022-01-04
 categories: [General]
 tags: [El mes en juegos, The Colonists, "Bios: Megafauna", Colonos del Imperio, Spirit Island, Curious Cargo, Tramways, Tranvías, "The Manhattan Project: Energy Empire", Paper Tales, "Paper Tales: Beyond the Gates", Reinos de Papel, "Reinos de Papel: Más allá de las puertas", Ardennes 44, Gaia Project, Palm Island, Root, "Root: The Clockwork", "Root: Los Cachivaches"]
-imghtml: https://live.staticflickr.com/65535/51796330433_c61d935df0_b.jpg
+imghtml: https://live.staticflickr.com/65535/55220081565_063d57530e_c.jpg
 post_desc: "¿Qué se ha jugado durante el último mes del año? Aquí te hablo de
 los juegos de mesa y rol que han visto mesa durante diciembre"
 ---
 
-![](https://live.staticflickr.com/65535/51796330433_c61d935df0_b.jpg)
+![](https://live.staticflickr.com/65535/55220081565_063d57530e_c.jpg)
 
 <hr>
 

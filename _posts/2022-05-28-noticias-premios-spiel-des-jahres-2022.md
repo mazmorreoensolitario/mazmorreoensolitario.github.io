@@ -5,12 +5,12 @@ date: 2022-05-28
 categories: [Noticias]
 tags: [Spiel des Jahres, Ark Nova, "Dune: Imperium", Cascadia]
 general: ""
-imghtml: https://live.staticflickr.com/65535/51194829619_58b15b521f_b.jpg
+imghtml: https://live.staticflickr.com/65535/55220017144_d377249325_c.jpg
 post_desc: "Esta es una entrada resumen de los juegos nominados a las
 diferentes categorías de los Spiel des Jahres de 2022 que pueden jugarse en solitario"
 ---
 
-![](https://live.staticflickr.com/65535/51194829619_58b15b521f_b.jpg)
+![](https://live.staticflickr.com/65535/55220017144_d377249325_c.jpg)
 
 <hr>
 

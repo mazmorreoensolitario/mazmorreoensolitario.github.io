@@ -5,12 +5,12 @@ date: 2024-06-15
 categories: [Noticias]
 tags: [Spiel des Jahres, The Guild of Merchant Explorers, Harmonies]
 general: ""
-imghtml: https://live.staticflickr.com/65535/51194829619_58b15b521f_b.jpg
+imghtml: https://live.staticflickr.com/65535/55220017144_d377249325_c.jpg
 post_desc: "Este es un resumen de los juegos nominados a los Spiel des Jahres
 de 2024 que pueden jugarse en solitario"
 ---
 
-![](https://live.staticflickr.com/65535/51194829619_58b15b521f_b.jpg)
+![](https://live.staticflickr.com/65535/55220017144_d377249325_c.jpg)
 
 <hr>
 

@@ -4,12 +4,12 @@ title: "Noviembre en juegos (2021)"
 date: 2021-12-01
 categories: [General]
 tags: [El mes en juegos, "Bios: Megafauna", Curious Cargo, Fayún, Faiyum, "Reinos de Papel: Más allá de las puertas", Reinos de Papel, Verdant, "Twilight: 2000", Death In Space]
-imghtml: https://live.staticflickr.com/65535/51716452912_56d4a60cb6_b.jpg
+imghtml: https://live.staticflickr.com/65535/55219694986_0806aaa60d_c.jpg
 post_desc: "¿Qué se ha jugado durante noviembre? Aquí te hablo de los juegos de mesa
 y rol que han visto mesa durante este último mes"
 ---
 
-![](https://live.staticflickr.com/65535/51716452912_56d4a60cb6_b.jpg)
+![](https://live.staticflickr.com/65535/55219694986_0806aaa60d_c.jpg)
 
 <hr>
 

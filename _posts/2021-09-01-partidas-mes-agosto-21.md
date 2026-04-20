@@ -4,12 +4,12 @@ title: "Agosto en juegos (2021)"
 date: 2021-09-01
 categories: [General]
 tags: [El mes en juegos, Muspelhell, Mini Rogue, All Must Bow, "Terraforming Mars: Preludio", Terraforming Mars, Roll Estate, The Colonists, "Gloomhaven: Fauces del León", "Gloomhaven: Jaws of the Lion", Cascadia, Curious Cargo, "Next War: Korea", "World at War 85: Storming the Gap", Old-School Essentials, "The Manhattan Project: Energy Empire", "Imperium: Classics"]
-imghtml: https://live.staticflickr.com/65535/51418422690_199f0eba8f_b.jpg
+imghtml: https://live.staticflickr.com/65535/55218839072_a8fb637ff2_c.jpg
 post_desc: "¿Qué se ha jugado durante agosto? Aquí te hablo de los juegos de mesa
 y rol que han visto mesa durante este último mes"
 ---
 
-![](https://live.staticflickr.com/65535/51418422690_199f0eba8f_b.jpg)
+![](https://live.staticflickr.com/65535/55218839072_a8fb637ff2_c.jpg)
 
 <hr>
 

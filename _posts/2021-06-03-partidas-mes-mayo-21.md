@@ -4,12 +4,12 @@ title: "Mayo en juegos (2021)"
 date: 2021-06-03
 categories: [General]
 tags: [El mes en juegos, "Gloomhaven: Fauces del León", Fayún, "Advanced Squad Leader: Starter Kit", Dungeoneering, Ironsworn, Vaults of Vaarn, Seekers Beyond The Shroud, The Colonists, Curious Cargo, Faiyum, High Frontier 4 All, "Gloomhaven: Jaws of the Lion", Terraforming Mars, Tiny Towns]
-imghtml: https://live.staticflickr.com/65535/51223734175_b99516f362_b.jpg
+imghtml: https://live.staticflickr.com/65535/55220158365_120186479b_c.jpg
 post_desc: "¿Qué se ha jugado durante mayo? Aquí te hablo de los juegos de mesa
 y rol que han visto mesa durante este último mes"
 ---
 
-![](https://live.staticflickr.com/65535/51223734175_b99516f362_b.jpg)
+![](https://live.staticflickr.com/65535/55220158365_120186479b_c.jpg)
 
 Mayo se ha terminado, y ha sido un mes muy raro, por el norte hemos tenido
 muchísimos días en los que podías vivir el refrán de *"Hasta el cuarenta de

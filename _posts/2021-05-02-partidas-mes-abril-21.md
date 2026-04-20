@@ -4,12 +4,12 @@ title: "Abril en juegos (2021)"
 date: 2021-05-02
 categories: [General]
 tags: [El mes en juegos, Whitehack, "Disciples of Bone and Shadow: Conquered Sun Edition", New Bedford, Terraforming Mars, "The Manhattan Project: Energy Empire", Curious Cargo, Expansiópolis, Sprawlopolis, Crazy Taco]
-imghtml: https://live.staticflickr.com/65535/51152599033_3c6c4ce7a6_b.jpg
+imghtml: https://live.staticflickr.com/65535/55219774541_5061c7523c_c.jpg
 post_desc: "¿Qué se ha jugado durante abril? Aquí te hablo de los juegos de mesa
 y rol que han visto mesa durante este último mes"
 ---
 
-![](https://live.staticflickr.com/65535/51152599033_3c6c4ce7a6_b.jpg)
+![](https://live.staticflickr.com/65535/55219774541_5061c7523c_c.jpg)
 
 En esta nueva entrega de **[El mes en
 juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos/)** os voy a comentar cómo

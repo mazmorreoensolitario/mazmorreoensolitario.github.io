@@ -5,12 +5,12 @@ date: 2021-05-21
 categories: [Noticias]
 tags: [Spiel des Jahres, Barrage, Riftforce, "Gloomhaven: Fauces del León", "Gloomhaven: Jaws of the Lion", "Aeon's End", Paleo, Las Ruinas Perdidas de Arnak, Switch & Signal, "MicroMacro: Crime City", The Adventures of Robin Hood]
 general: ""
-imghtml: https://live.staticflickr.com/65535/51194829619_58b15b521f_b.jpg
+imghtml: https://live.staticflickr.com/65535/55220017144_d377249325_c.jpg
 post_desc: "Vamos a dar un repaso a los juegos que pueden jugarse en solitario 
 entre los nominados a los premios Spiel des Jahres de este 2021"
 ---
 
-![](https://live.staticflickr.com/65535/51194829619_58b15b521f_b.jpg)
+![](https://live.staticflickr.com/65535/55220017144_d377249325_c.jpg)
 
 Los premios **Spiel des Jahres** son unos
 [galardones](https://www.spiel-des-jahres.de/en/) que se entregan anualmente a

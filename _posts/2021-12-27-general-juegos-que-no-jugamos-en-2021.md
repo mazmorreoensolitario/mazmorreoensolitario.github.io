@@ -4,13 +4,13 @@ title: "Top 10 de juegos del 2021 que no he podido jugar"
 date: 2021-12-27
 categories: [Listas]
 tags: [Tops, Thin Red Line Games, GMT Games, Cascadia, Mini Express, "Brazil: Imperial", Messina 1347, The Dogs of War, "SpaceCorp: 2025-2300AD", "Stardew Valley: The Board Game", The Last Hundred Yards, "The Last Hundred Yards: Airborne Over Europe", Corrosion, Ark Nova]
-imghtml: https://live.staticflickr.com/65535/51779876354_d6dd17d62f_b.jpg
+imghtml: https://live.staticflickr.com/65535/55218791392_9c9afa222d_c.jpg
 post_desc: "Aquí llega la tradicional lista de juegos que han salido este año y 
 que me he quedado sin poder jugar, espero jugar a muchos de ellos en el próximo
 2022"
 ---
 
-![](https://live.staticflickr.com/65535/51779876354_d6dd17d62f_b.jpg)
+![](https://live.staticflickr.com/65535/55218791392_9c9afa222d_c.jpg)
 
 <hr>
 
