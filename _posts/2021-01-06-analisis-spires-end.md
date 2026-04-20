@@ -4,7 +4,7 @@ title: "Análisis - Spire's End"
 date:   2021-01-06
 categories: [Análisis]
 tags: ["Spire's End", Kickstarter]
-imghtml: https://cf.geekdo-images.com/1Jt8vjeVfdK9nRFm0n7SGg__imagepage/img/1QlVllvpxkMJFMwT8gXtwwlv0rc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4589358.jpg
+imghtml: https://live.staticflickr.com/65535/50807131141_0d3b597e08_b.jpg
 score: 2.5
 game: "Spire's End"
 post_desc: "Spire's End es un misterioso juego de aventuras en el que
@@ -18,13 +18,8 @@ pueblo."
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
-	    {% if page.imghtml %}
-            <img width="400" src="{{page.imghtml}}"
+            <img width="400" src="https://cf.geekdo-images.com/1Jt8vjeVfdK9nRFm0n7SGg__imagepage/img/1QlVllvpxkMJFMwT8gXtwwlv0rc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4589358.jpg"
                 alt="{{page.title}}">
-            {% else %}
-            <img width="400" src="{{site.baseurl}}/images/{{page.img}}"
-                alt="{{page.title}}">
-            {% endif %}
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">
