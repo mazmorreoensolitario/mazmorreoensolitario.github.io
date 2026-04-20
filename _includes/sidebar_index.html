@@ -68,15 +68,14 @@
       or tag[0] == "Libros"
       or tag[0] == "Messina 1347"
       or tag[0] == "Scarlet Heroes"
-      or tag[0] == "Light in the Dark"
       or tag[0] == "Boletín Informativo Solitario"
-      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "After The Virus"
       or tag[0] == "Concordia"
-      or tag[0] == "Count of the Nine Estates"
+      or tag[0] == "Darkest Dungeon: The Board Game"
       or tag[0] == "Four Against Darkness"
-      or tag[0] == "OSR"
+      or tag[0] == "Light in the Dark"
+      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Solitaire Print & Play Design Contest"
       or tag[0] == "The 7th Citadel"
       or tag[0] == "Zombicide"
@@ -85,6 +84,8 @@
       or tag[0] == "Barcelona"
       or tag[0] == "Blackout: Hong Kong"
       or tag[0] == "Bloodborne: The Board Game"
+      or tag[0] == "Charles S. Roberts Awards"
+      or tag[0] == "Count of the Nine Estates"
       or tag[0] == "El bosque de los espíritus"
       or tag[0] == "Epona"
       or tag[0] == "Forbidden Lands"
@@ -92,16 +93,15 @@
       or tag[0] == "Horizons of Spirit Island"
       or tag[0] == "Legends Untold: The Great Sewers"
       or tag[0] == "Nautilion"
+      or tag[0] == "OSR"
       or tag[0] == "Pathfinder Adventure Card Game"
-      or tag[0] == "Saqueadores del Mar del Norte"
+      or tag[0] == "Roll for the Galaxy"
       or tag[0] == "Space Hulk: Death Angel The Card Game"
       or tag[0] == "Sub Terra II: Inferno's Edge"
       or tag[0] == "Terraforming Mars: Ares Expedition"
       or tag[0] == "This War of Mine: The Board Game"
       or tag[0] == "Traces of War"
-      or tag[0] == "Wingspan Asia"
       or tag[0] == "12 Patrols"
-      or tag[0] == "Ambon: Burning Sun & Little Seagulls"
       or tag[0] == "Cascadia"
       or tag[0] == "Curious Cargo"
       or tag[0] == "Desolate"
@@ -113,6 +113,7 @@
       or tag[0] == "Reinos de Papel"
       or tag[0] == "Shipyard"
       or tag[0] == "Terraforming Mars"
+      or tag[0] == "Wingspan Asia"
       or tag[0] == "Legends Untold" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
                                                    href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
@@ -166,13 +167,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -180,7 +174,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2023/07/16/noticias-csr-awards-2022/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -188,6 +182,13 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
