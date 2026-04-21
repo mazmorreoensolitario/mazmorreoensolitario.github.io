@@ -4,7 +4,7 @@ title: "Top 200 del 1 Player Guild: los mejores de 2022"
 date: 2022-11-26
 categories: [General]
 tags: [Tops, Three Sisters, "El Señor de los Anillos: El Juego de Cartas", El Banquete de Odín, A Feast for Odin, "Gloomhaven: Fauces del León", "Gloomhaven: Jaws of the Lion", Robinson Crusoe, Scythe, Obsession, Wingspan, Sprawlopolis, Expansiópolis, "Imperium: Classics", "Dune: Imperium", Under Falling Skies, Spirit Island, Mage Knight, "Marvel Champions: The Card Game", Arkham Horror, Too Many Bones, Gloomhaven, Terraforming Mars, "Aeon's End", Ark Nova, Gaia Project]
-imghtml: https://live.staticflickr.com/65535/52520674432_7de7f1f208_c.jpg
+imghtml: https://live.staticflickr.com/65535/55206850349_bc6f4633a8_b.jpg
 post_desc: "En esta entrada os traigo las estadísticas de los juegos mejor
 valorados por los integrantes del 1PG de Board Game Geek"
 ---

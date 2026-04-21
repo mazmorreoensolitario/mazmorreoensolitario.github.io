@@ -7,7 +7,7 @@ tags: [Dungeon Exit, Essen SPIEL 2024]
 game: Dungeon Exit
 score: 3.5
 crop: true
-imghtml: https://cf.geekdo-images.com/ikvmhY7_a9-7EPxO3V21CA__imagepage/img/J8h97B3C91gft7Ee8mgp_uCZrqY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8229804.png
+imghtml: https://live.staticflickr.com/65535/54121962400_f36d2b2aae_b.jpg
 alt_twitter: 
 post_desc: "Reseña de Dungeon Exit, un juego en el que tratas de crear un
 camino para superar cada nivel de la mazmorra"
@@ -19,7 +19,7 @@ camino para superar cada nivel de la mazmorra"
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
-            <img width="400" src="{{page.imghtml}}"
+            <img width="400" src="https://cf.geekdo-images.com/ikvmhY7_a9-7EPxO3V21CA__imagepage/img/J8h97B3C91gft7Ee8mgp_uCZrqY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8229804.png"
                 alt="{{page.title}}">
         </div>
         <div class="col-md-6">

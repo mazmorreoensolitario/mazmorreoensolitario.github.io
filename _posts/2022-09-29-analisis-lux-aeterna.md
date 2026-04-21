@@ -4,7 +4,7 @@ title: "Análisis - Lux Aeterna"
 date:   2022-09-29
 categories: [Análisis]
 tags: [Lux Aeterna, Golden Geek, Essen SPIEL 2019]
-imghtml: https://cf.geekdo-images.com/VpYduL29qLwCNEGMs7soGg__imagepage/img/cq-sEPgiwdIHHJQo_8hD8em5dUk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4945956.jpg
+imghtml: https://live.staticflickr.com/65535/52389256059_143b2cb113_o.jpg
 score: 3
 crop: true
 game: "Lux Aeterna"
@@ -18,13 +18,8 @@ nuestra nave a la vez que huimos de un agujero negro"
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
-	    {% if page.imghtml %}
-            <img width="400" src="{{page.imghtml}}"
+            <img width="400" src="https://cf.geekdo-images.com/VpYduL29qLwCNEGMs7soGg__imagepage/img/cq-sEPgiwdIHHJQo_8hD8em5dUk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4945956.jpg"
                 alt="{{page.title}}">
-            {% else %}
-            <img width="400" src="{{site.baseurl}}/images/{{page.img}}"
-                alt="{{page.title}}">
-            {% endif %}
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">

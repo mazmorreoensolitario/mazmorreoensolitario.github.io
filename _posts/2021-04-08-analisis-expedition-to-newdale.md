@@ -4,7 +4,7 @@ title: "Análisis - Expedition to Newdale"
 date: 2021-04-08
 categories: [Análisis]
 tags: ["Expedition to Newdale", Essen SPIEL 2019]
-imghtml: https://cf.geekdo-images.com/qpGBNV1z2RR8Ed0913Rwlg__imagepage/img/eS4m2sUAL6SEDssIVN7C15Oi0QU=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4956399.jpg
+imghtml: https://live.staticflickr.com/65535/51102375231_869a3e57e9_b.jpg
 score: 3
 game: "Expedition to Newdale"
 crop: true
@@ -18,13 +18,8 @@ que tratamos de construir cadenas de producción en edificios"
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
-	    {% if page.imghtml %}
-            <img width="400" src="{{page.imghtml}}"
+            <img width="400" src="https://cf.geekdo-images.com/qpGBNV1z2RR8Ed0913Rwlg__imagepage/img/eS4m2sUAL6SEDssIVN7C15Oi0QU=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4956399.jpg"
                 alt="{{page.title}}">
-            {% else %}
-            <img width="400" src="{{site.baseurl}}/images/{{page.img}}"
-                alt="{{page.title}}">
-            {% endif %}
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">

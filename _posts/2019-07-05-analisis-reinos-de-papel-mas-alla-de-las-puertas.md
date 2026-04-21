@@ -4,7 +4,7 @@ title: "Análisis - Reinos de Papel: Más allá de las puertas"
 date:   2019-07-05
 categories: [Análisis]
 tags: [Reinos de Papel, "Reinos de Papel: Más allá de las puertas", Paper Tales, Expansión]
-imghtml: https://cf.geekdo-images.com/imagepage/img/vwjFdNh9aOYYbPXkezZSaJoZKu0=/fit-in/900x600/filters:no_upscale()/pic4261957.jpg
+imghtml: https://live.staticflickr.com/65535/48207260281_bb02f89ba4_z.jpg
 crop: true
 score: 3.5
 game: "Reinos de Papel: Más allá de las puertas"
@@ -19,13 +19,7 @@ magia oculta de los Reinos Humanos."
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
-            {% if page.imghtml %}
-            <img width="400" src="{{page.imghtml}}"
-                alt="{{page.title}}">
-            {% else %}
-            <img width="400" src="{{site.baseurl}}/images/{{page.img}}"
-                alt="{{page.title}}">
-            {% endif %}
+            <img width="400" src="https://cf.geekdo-images.com/imagepage/img/vwjFdNh9aOYYbPXkezZSaJoZKu0=/fit-in/900x600/filters:no_upscale()/pic4261957.jpg"
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">

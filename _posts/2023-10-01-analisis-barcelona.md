@@ -6,8 +6,7 @@ categories: [Análisis]
 tags: [Barcelona, GenCon]
 game: Barcelona
 score: 3
-imghtml: https://cf.geekdo-images.com/clBx1kfB-8OpO86B2-vsgg__imagepage/img/AMPb4zc7U3NmEsN5-gwPsk4ndZQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7442376.jpg
-alt_twitter: https://live.staticflickr.com/65535/53212587517_d5f401a434_b.jpg
+imghtml: https://live.staticflickr.com/65535/53212587517_d5f401a434_b.jpg
 post_desc: "Barcelona es un juego de colocación de trabajadores en el que
 tenemos que conseguir puntos de victoria urbanizando la ciudad en pleno siglo XIX." 
 ---
@@ -18,7 +17,7 @@ tenemos que conseguir puntos de victoria urbanizando la ciudad en pleno siglo XI
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
-            <img width="400" src="{{page.imghtml}}"
+            <img width="400" src="https://cf.geekdo-images.com/clBx1kfB-8OpO86B2-vsgg__imagepage/img/AMPb4zc7U3NmEsN5-gwPsk4ndZQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7442376.jpg"
                 alt="{{page.title}}">
         </div>
         <div class="col-md-6">
