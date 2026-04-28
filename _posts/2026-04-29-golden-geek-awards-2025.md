@@ -127,7 +127,7 @@ pero han sido excluidos de esta entrada por no poder jugarse en solitario.
     aventuras de Bilbo en el que tienes que conseguir completar un objetivo en
     una serie de mapas. En cada turno se hace una tirada de dados, los
     resultados te dan símbolos con diferentes efectos y también te permiten
-    dibujar tu camnino en el mapa.</p>
+    dibujar tu camino en el mapa.</p>
     <img src="https://cf.geekdo-images.com/fQ4269j3AGKZk6b4IbjCxQ__imagepage@2x/img/Mi9N9mfAuuocGxAqthY2vjug2rA=/fit-in/1800x1200/filters:strip_icc()/pic9234662.jpg">
     <p><small>Foto de  @Jon Snow</small></p>
     </div>
@@ -156,7 +156,7 @@ de Hjalmar Hach, Lorenzo Silva y publicado por <strong>Horrible Guild</strong>
          <p><strong>Comentario.</strong> La saga "Railroad" es curiosa porque
     consiguió éxito primero por su versión roll & write, <a
     href="https://boardgamegeek.com/boardgame/245654/railroad-ink-deep-blue-edition">Railroad 
-        Ink</a>, y años más adelante es cuando se ha lanzado esta versión de
+        Ink</a>, y años más tarde es cuando se ha lanzado esta versión de
     losetas, generalmente suele pasar lo contrario. A mí la versión roll &
     write oginal me pareció un juego majo y me gustaría probar qué tal va esta
     de losetas. Además, el modo en solitario tiene una serie de 15 misiones con
@@ -288,7 +288,8 @@ de Matt Leacock y publicado por <strong>Z-Man Games</strong> (también en
     castellano como <strong>El Señor de los Anillos: El Destino de la
     Comunidad</strong>), es un juego cooperativo ambientado en el archiconocido
     mundo del Señor de los Anillos en el que tenemos que tratar de proteger a
-    Frodo para que llegue a destruir el Anillo único.</p>
+    Frodo para que llegue a destruir el Anillo único. Es una reimplementación
+    de <a href="https://boardgamegeek.com/boardgame/30549/pandemic">Pandemic</a>.</p>
     <img src="https://cf.geekdo-images.com/8nha4BbewLeALgnbNk6IBQ__imagepage@2x/img/C0lZd4cP8H9fpFv-yAmKA-f1GWM=/fit-in/1800x1200/filters:strip_icc()/pic9080096.jpg">
     <p><small>Foto de @Daverman</small></p>
          <p><strong>Comentario.</strong> Este juego ha sido nominado en un
@@ -384,7 +385,7 @@ de Shem Phillips y publicado por <strong>Garphill Games</strong>, es un juego
          de recursos diferentes, creo que es un récord, a mí solamente se me
          viene <a href="{{site.baseurl}}/etiqueta/the-colonists/">The Colonists</a>
          a la cabeza como uno de los juegos que yo haya jugado (y recuerde) que
-         tiene tantos tipos de recursos, nueve, y son la mitad de los que tiene
+         tiene tantos tipos de recursos, nueve, y son solamente algo más de la mitad de los que tiene
          este juego.</p>
     </div>
 </div>
@@ -435,7 +436,7 @@ de Shem Phillips y publicado por <strong>Garphill Games</strong>, es un juego
 de Toni López y publicado por <strong>Alley Cat Games</strong>, es un juego en
     el que tenemos que trabajar con Ada Lovelace para construir la primera
     computadora universal. Utiliza mecánicas de drafting de dados y
-    consturcción de patrones para crear computaciones en tu tablero personal.</p>
+    construcción de patrones para crear computaciones en tu tablero personal.</p>
     <img src="https://static.wixstatic.com/media/aa325b_b6fc4c8b044342c698328e4d8ea1c6ec~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aa325b_b6fc4c8b044342c698328e4d8ea1c6ec~mv2.jpg">
     <p><small>Foto de la editorial</small></p>
          <p><strong>Comentario.</strong> Por deformación profesional suelo
@@ -719,9 +720,9 @@ de Jay Cormier, Sen-Foong Lim y publicado por <strong>Off the Page
     América. Cada escenario tiene tres objetivos que debes cumplir para avanzar
     al siguiente mapa. El juego utiliza una serie de mapas que se insertan en
     la ranura del tablero, y que muestran diferentes elementos (recursos, tipos
-    de terreno et.c). Estos elementos empiezan todos tapados por fichas, y
-    tendrás que ir moviendóte por el mapa y descubriendo fichas que quieras
-    relevar mediante reglas de deducción.</p>
+    de terreno etc). Estos elementos empiezan todos tapados por fichas, y
+    tendrás que ir moviéndote por el mapa y descubriendo fichas que quieras
+    revelar mediante reglas de deducción.</p>
     <img src="https://cf.geekdo-images.com/ZLXBF8Xm3i1_cc5fWQg9NQ__imagepage@2x/img/0hvVF_udID0Y-DvJ1BIbERXNfvc=/fit-in/1800x1200/filters:strip_icc()/pic9073464.jpg">
     <p><small>Foto de @The Innocent</small></p>
          <p><strong>Comentario.</strong> Este juego es la segunda sorpresa que
@@ -1360,6 +1361,7 @@ de James A. Wilson, Clarissa A. Wilson y publicado por <strong>Starling
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/4mLTLia">Flamecraft Duals</a></h4>
+        <p><i>Información del juego en una categoría anterior.</i></p>
     </div>
 </div>
 
@@ -1515,6 +1517,11 @@ de Leonardo Alese, James Ernest, Tom Jolly, Emanuele Santellani y publicado por
         <p><i>Información del juego en una categoría anterior.</i></p>
     </div>
 </div>
+
+### Tras los resultados...
+
+Me reservo esta sección para actualizarla cuando sepamos los ganadores de cada
+categoría. 
 
 <hr>
 
