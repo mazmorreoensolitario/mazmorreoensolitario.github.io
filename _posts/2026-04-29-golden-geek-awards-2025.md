@@ -17,8 +17,8 @@ Los premios **Golden Geek** son unos premios otorgados por [Board Game
 Geek](https://boardgamegeek.com/), una página web de foros especializada en
 juegos de mesa. Los ganadores se eligen [mediante la votación
 popular](https://boardgamegeek.com/thread/3696572/20th-annual-golden-geek-awards-nominees-announced)
-de los usuarios de la página, que votan para elegir a los mejores juegos del
-pasado año (2025) clasificándolos en unas categorías determinadas.
+de los usuarios de la página, que votan para elegir los mejores juegos del
+pasado año (2025), clasificándolos en unas categorías determinadas.
 
 En esta entrada os hago una recopilación de los nominados y ganadores de cada
 categoría (para esto último la entrada se actualizará a principios de mayo)
@@ -194,7 +194,7 @@ de Hiroken y publicado por <strong>Tricktakers Games</strong> (próximamente por
     expectación ha creado de 2025, en parte porque ha tenido una distribución
     limitada, lo que ha hecho que aumente su hype y el miedo que tiene mucha
     gente a perderse la última gran novedad. A mí en un principio no me llamó
-    demasiado la atención porque no sé que parte es hype y qué parte es
+    demasiado la atención porque no sé qué parte es hype y qué parte es
     realmente gente que disfruta jugando el juego. Dentro de poco lo saca
     <strong>Salt & Pepper Games</strong> en España, por lo que saldrán más
     reseñas que me ayuden a aclarar dudas.</p>
