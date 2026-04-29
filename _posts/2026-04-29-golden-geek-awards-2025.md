@@ -75,7 +75,7 @@ pero han sido excluidos de esta entrada por no poder jugarse en solitario.
         class="img-thumbnail" alt="FlipToons">
     </div>
     <div class="col-md-9">
-        <h4><a href="">FlipToons</a></h4>
+        <h4>FlipToons</h4>
         <!--div class="alert alert-warning" role="alert">
         <strong>Mejor juego en solitario del año</strong></div-->
          <p><strong><a
