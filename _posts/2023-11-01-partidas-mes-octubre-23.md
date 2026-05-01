@@ -3,7 +3,7 @@ layout: post
 title: "Octubre en juegos (2023)"
 date: 2023-11-01
 categories: [General]
-tags: [El mes en juegos, Nucleum, Light in the Dark, Shipyard, Footprints, Pirates of Maracaibo, Trailblazers, Curious Cargo, Evacuation, Factory Funner, Palm Island]
+tags: [El mes en juegos, Piratas de Maracaibo, Nucleum, Light in the Dark, Shipyard, Footprints, Pirates of Maracaibo, Trailblazers, Curious Cargo, Evacuation, Factory Funner, Palm Island]
 imghtml: https://live.staticflickr.com/65535/53302526290_c42434d287_c.jpg
 post_desc: "¿Qué se ha jugado durante octubre? Aquí te cuento qué juegos he
 sacado a la mesa"

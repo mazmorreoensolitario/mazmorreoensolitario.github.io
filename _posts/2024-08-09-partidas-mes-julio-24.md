@@ -3,7 +3,7 @@ layout: post
 title: "Julio en juegos (2024)"
 date: 2024-08-09
 categories: [General]
-tags: [El mes en juegos, Cascadia, "Cascadia: Hitos", "Cascadia: Landmarks", Burning Banners, Shipyard, Pirates of Maracaibo, Gloomhaven, "Gloomhaven: Buttons & Bugs"]
+tags: [El mes en juegos, Piratas de Maracaibo, Cascadia, "Cascadia: Hitos", "Cascadia: Landmarks", Burning Banners, Shipyard, Pirates of Maracaibo, Gloomhaven, "Gloomhaven: Buttons & Bugs"]
 imghtml: https://live.staticflickr.com/65535/53911217333_2c20444bc8_b.jpg
 post_desc: "¿Qué se ha jugado durante julio? Aquí te cuento qué juegos he
 sacado a la mesa"

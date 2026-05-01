@@ -3,7 +3,7 @@ layout: post
 title: "Noviembre en juegos (2023)"
 date: 2023-12-01
 categories: [General]
-tags: [El mes en juegos, GLIDE, Factory Funner, Evacuation, Halls of Hegra, "La Fortaleza de Hegra", Faiyum, "Faiyum: Privileges", Pirates of Maracaibo, Ark Nova, "Ark Nova: Marine Worlds"]
+tags: [El mes en juegos, Piratas de Maracaibo, GLIDE, Factory Funner, Evacuation, Halls of Hegra, "La Fortaleza de Hegra", Faiyum, "Faiyum: Privileges", Pirates of Maracaibo, Ark Nova, "Ark Nova: Marine Worlds"]
 imghtml: https://live.staticflickr.com/65535/53368733589_e0f6347410_c.jpg
 post_desc: "¿Qué se ha jugado durante noviembre? Aquí te cuento qué juegos he
 sacado a la mesa"

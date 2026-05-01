@@ -3,7 +3,7 @@ layout: post
 title: "Febrero en juegos (2024)"
 date: 2024-03-03
 categories: [General]
-tags: [El mes en juegos, Ker Nethalas, Pirates of Maracaibo, Dungeons of Doria]
+tags: [El mes en juegos, Piratas de Maracaibo, Ker Nethalas, Pirates of Maracaibo, Dungeons of Doria]
 imghtml: https://live.staticflickr.com/65535/53561584121_6c7b53a86a_b.jpg
 post_desc: "¿Qué se ha jugado durante febrero? Aquí te cuento qué juegos he
 sacado a la mesa"
