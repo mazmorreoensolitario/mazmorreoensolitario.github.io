@@ -116,7 +116,7 @@ carta. Adicionalmente, muchas cartas tienen un efecto cuando las juegas
 (inmediato o permanente).
 
 <p align="center" >
-<img height="800" src="https://imgur.com/GnXINt0.jpeg"></p>
+<img src="https://imgur.com/GnXINt0.jpeg"></p>
 <p align="center"><small>Forest Shuffle</small></p>
 
 El número de partidas a **Forest Shuffle** este mes (3) se ha desinflado
@@ -180,7 +180,7 @@ cumplir me sirve para pagar este otro contrato y así. Cuando conseguís cadenas
 de tres o más cartas hay una sensación de satisfacción enorme, pero, hay veces
 que la estrategia es quitarte los contratos molestos lo más pronto posible. Un
 contrato molesto puede ser uno que te pide que le des *ocho* (¡OCHO!) *o más*
-recursos de cualquier tipo o de un tipo de terminado para que te den cualquier
+recursos de cualquier tipo o de un tipo determinado para que te den cualquier
 otra cosa. Esos contratos dan bastante por la zona baja de la espalda. Así que,
 si os toca alguno de esos puede que cueste más ganar la partida, pero nunca se
 sabe. En **Formidable Farm** está el mercado principal de cartas, que siempre
@@ -261,8 +261,8 @@ ningún momento ha prometido nada más de lo que es. Por lo que soy consciente d
 que tengo que manejar mis expectativas.
 
 <p align="center" >
-<img height="800" src="https://imgur.com/tJa5kx1.jpeg"></p>
-<p align="center"><small>Saltfjord</small></p>
+<img src="https://imgur.com/tJa5kx1.jpeg"></p>
+<p align="center"><small>Partida a Revive</small></p>
 
 En **Revive** hay dos acciones que me dejan mosca y no termino de entender el
 porqué están separadas y no son una única acción como más potente y entonces
@@ -274,17 +274,18 @@ original); osea, en poblar pones un meeple de personita en el mapa, que hace
 que aumente tu rango porque puedes contar entonces a partir de él, y en el caso
 de que hagas un *populate* sobre las losetas grandes, pues desbloqueas dicha
 condición de puntuación al final de la partida, vale, sin pegas. En la acción
-de *build*, pasa lo mismo, aumentas rango y luego además cuando construyes
-miras los hexágonos adyacentes para ver qué cosas extra te dan, como avanzar en
-alguno de los medidores de tecnología de tu tablero de jugador, conseguir
-energía o *"slot modules"*... así que, ¿por qué debería usar el *populate*
-cuando el *build* es superior? No entiendo. Puedes crear tu mazo de tal forma
-que aparezcan siempre los recursos que necesitas para hacer el *build* frente
-al *polulate*, porque puedes controlar hasta cierto punto cómo construyes tu
-mazo (hay mecánica de construcción de mazos) así que no sé. Sí que es cierto
-que cuando haces *populate* tienes luego puntos de victoria al final de la
-partida, y desbloqueas cosas en tu tablero, pero no sé, me ha chocado que sean
-dos acciones tan iguales.
+de *build*, pasa lo mismo, pero con un meeple de fábrica, aumentas rango y
+luego además cuando construyes miras los hexágonos adyacentes para ver qué
+cosas extra te dan, como avanzar en alguno de los medidores de tecnología de tu
+tablero de jugador, conseguir energía, *"slot modules"*, cristales... así que,
+¿por qué debería usar el *populate* cuando el *build* es superior? No
+entiendo. Puedes crear tu mazo de tal forma que aparezcan siempre los recursos
+que necesitas para hacer el *build* frente al *polulate*, porque puedes
+controlar hasta cierto punto cómo construyes tu mazo (hay mecánica de
+construcción de mazos) así que no sé. Sí que es cierto que cuando haces
+*populate* tienes luego puntos de victoria al final de la partida, y
+desbloqueas cosas en tu tablero, pero no sé, me ha chocado que sean dos
+acciones tan iguales.
 
 Pero bueno, no es que este **Revive** me haya dejado malas sensaciones tras las
 dos partidas de iniciación, para nada, es que tiene algo que conceptualmente no
@@ -295,8 +296,8 @@ Por otro lado, he pasado olímpicamente de el "modo campaña" en el que tienes
 que ir añadiendo reglas al juego poco a poco, esas cosas a mí no me gustan. Lo
 que sí que creo que está mal de este **Revive** es que no ponen las reglas que
 vas desbloqueando por la campaña en el reglamento, tienes que tener la carta de
-referencia al lado, lo que para mí me parece mala organización y "ergononomía
-del manual".
+referencia al lado, lo que para mí me parece mala organización y mala
+"ergonomía del manual".
 
 En resumen, curiosa forma de gestionar algunas acciones en **Revive**, lo
 seguiré jugando para ver qué tal evolucionan mis sensaciones, y también me ha
@@ -329,7 +330,7 @@ umbral, hemos ganado y podemos puntuar (pero sin contar los puntos de esas
 losetas) para ver qué tal lo hemos hecho.
 
 <p align="center" >
-<img height="800" src="https://i.imgur.com/AGLEkKF.jpeg"></p>
+<img src="https://i.imgur.com/AGLEkKF.jpeg"></p>
 <p align="center"><small>Partida a Saltfjord</small></p>
 
 En abril he echado una única partida a este **Saltfjord**, que he perdido
