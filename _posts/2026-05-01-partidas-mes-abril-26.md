@@ -224,14 +224,14 @@ fecha me solía fundir con victorias en las que tenía una ventaja de ~20 puntos
 todo por probar algo diferente que pensaba que no iba a funcionar. 
 
 Hasta la fecha solía ir a por los objetivos de puente que pensaba que podía
-quedar el primera posición e iba a fuego a por ellos, sacrificando el resto, en
+quedar en primera posición e iba a fuego a por ellos, sacrificando el resto, en
 esta partida he ido a mi ritmo consiguiendo los objetivos de puente, aunque me
 dieran menos puntos de victoria porque el bot ya los había conseguido antes que
-yo, simplemente he teniendo el objetivo de conseguir losetas objetivo de
+yo; simplemente tenía el objetivo de conseguir losetas objetivo de
 puntuación (losetas que te dan puntos al final de la partida si cumples
-objetivos), así que he ignorado todo y he basado mi estrategia en ver si
-pescaba puntos al final de la partida de esa forma, y aunque he perdido me ha
-ido bien.
+objetivos) por conseguir dos objetivos de puente en línea, así que he ignorado
+todo y he basado mi estrategia en ver si pescaba puntos al final de la partida
+de esa forma, y aunque he perdido me ha ido bien.
 
 Sigue muy bien este **Kingdom Crossing**.
 
