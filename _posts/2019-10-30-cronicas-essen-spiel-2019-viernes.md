@@ -13,6 +13,8 @@ Citadel, y después por supuesto, tocó el momento de ponerse a leer los manuale
 de las recientes adquisiciones. " 
 ---
 
+![](https://live.staticflickr.com/65535/48987705053_c8d4668e46_b.jpg)
+
 Esta es la crónica del viernes por Essen Spiel 2019, puedes leer la [**crónica del
 día anterior aquí**]({{site.baseurl}}/2019/10/29/cronicas-essen-spiel-2019-jueves/).
 

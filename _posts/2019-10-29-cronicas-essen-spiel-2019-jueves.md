@@ -14,6 +14,8 @@ a salir en tiendas en España en poco tiempo (y a mejores precios), no es
 demasiado complicado." 
 ---
 
+![](https://live.staticflickr.com/65535/48982353797_2bb803d3ee_b.jpg)
+
 **¡Essen Spiel 2019!** Una gran oportunidad para poder probar muchos juegos que 
 acaban de salir o que van a buscar financiación en Kickstarter en un futuro,
 poder ver la producción de juegos que están a la venta, y además, es un sitio
