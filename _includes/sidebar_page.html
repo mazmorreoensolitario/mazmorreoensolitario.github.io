@@ -81,13 +81,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/03/29/analisis-forest-shuffle/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -102,6 +95,20 @@
       {% endfor %}
     </div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2026/03/29/analisis-forest-shuffle/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2026/05/01/partidas-mes-abril-26/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -110,13 +117,6 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2024/04/30/accesorios-bandejas-para-fichas-cube4me/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -138,6 +138,7 @@
       or tag[0] == "Scarlet Heroes"
       or tag[0] == "Charles S. Roberts Awards"
       or tag[0] == "Concordia"
+      or tag[0] == "Essen SPIEL 2019"
       or tag[0] == "Golden Geek"
       or tag[0] == "Burning Banners"
       or tag[0] == "Formidable Farm"
@@ -152,10 +153,8 @@
       or tag[0] == "Desolate"
       or tag[0] == "El bosque de los espíritus"
       or tag[0] == "Ennie"
-      or tag[0] == "Essen SPIEL 2019"
       or tag[0] == "Forbidden Lands"
       or tag[0] == "Forgotten Waters"
-      or tag[0] == "Four Against Darkness"
       or tag[0] == "High Frontier 4 All"
       or tag[0] == "Kingdom Crossing"
       or tag[0] == "Light in the Dark"
@@ -166,7 +165,6 @@
       or tag[0] == "Roll for the Galaxy"
       or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Saltfjord"
-      or tag[0] == "Sub Terra II: Inferno's Edge"
       or tag[0] == "Ark Nova"
       or tag[0] == "Cascadia"
       or tag[0] == "Curious Cargo"
