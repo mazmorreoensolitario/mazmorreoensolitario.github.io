@@ -95,14 +95,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/03/29/analisis-forest-shuffle/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/05/01/partidas-mes-abril-26/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/05/01/partidas-mes-abril-26/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/03/29/analisis-forest-shuffle/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -133,9 +133,9 @@
       or tag[0] == "El mes en juegos"
       or tag[0] == "Messina 1347"
       or tag[0] == "Libros"
-      or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Essen SPIEL 2019"
       or tag[0] == "Scarlet Heroes"
+      or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Boletín Informativo Solitario"
       or tag[0] == "Charles S. Roberts Awards"
       or tag[0] == "Concordia"
@@ -165,6 +165,7 @@
       or tag[0] == "Roll for the Galaxy"
       or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Saltfjord"
+      or tag[0] == "Zine Quest"
       or tag[0] == "Ark Nova"
       or tag[0] == "Cascadia"
       or tag[0] == "Curious Cargo"
