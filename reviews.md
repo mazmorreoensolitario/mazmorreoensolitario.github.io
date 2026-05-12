@@ -4,35 +4,41 @@ title: Análisis y reseñas
 permalink: /analisis/
 ---
 
-En las **reseñas** (*narración sucinta (breve)* según la RAE) os vais a
-encontrar con información específica acerca de algún aspecto de un juego.
+En nuestros **análisis** de juegos vais a encontrar una puntuación dada en
+**Monedas de Mazmorreo**. Estas monedas representa la inversión de
+tiempo frente a la satisfacción que aporta un juego. 
 
-En los **análisis** vais a poder encontrar información objetiva del juego: de
-qué va, cómo se prepara una partida, cuáles son las reglas, ejemplos
-de juego, además de nuestra opinión subjetiva y una pequeña puntuación en
- **Monedas de Mazmorreo**.
+* **1 moneda** - no me gusta, definitivamente no quiero volver a jugarlo
+* **1.5 monedas** - no me gusta, prefiero hacer otra cosa que jugarlo
+* **2 monedas** - juego *algo* entretenido, pero no me engancha
+* **2.5 monedas** - juego entretenido, pero no me engancha 
+* **3 monedas** - juego bueno, me lo paso bien jugando
+* **3.5 monedas** - juego *muy* bueno, me lo paso muy bien jugando
+* **4 monedas** - juego genial
+* **4.5 monedas** - juego fantástico
+* **5 monedas** - JUEGO IDEAL
 
-Las **Monedas de Mazmorreo** son un recurso que representa la inversión de
-tiempo VS ganas-de-jugar/satisfacción/buen-rollismo que me aporta un
-juego. Básicamente, indica si el tiempo que invertimos en un juego merece la
-pena, porque nos hace vivir una experiencia buena o no.
-La escala es la siguiente:
+<blockquote class="rpg-comment">Si queréis convertir la escala de puntuaciones
+a una sobre 10 puntos, multiplicad las puntuación en monedas por dos, la
+puntuación se encontrará entre esa cifra y el siguiente entero (no
+incluido). Por ejemplo, un juego de 3.5/5 monedas sería un juego de 7 a 7.99 en 
+escala de 10 puntos.</blockquote>
 
-* 1 moneda  - creo que prefiero hacer otra cosa
-* 2 monedas - es algo entretenido, pero no me engancha
-* 3 monedas - me lo paso bien jugando a este juego
-* 4 monedas - ¡este juego es genial!
-* 5 monedas - ES IDEAL
+Salta al **[Índice por puntuaciones](#índice-por-puntuaciones)**.
 
-El indicador **dependencia del idioma** de un juego (únicamente
-en los juegos en inglés) explica cómo de importante es que tengáis soltura en
-el idioma para poder jugar al juego y entenderlo. **NO significa** que un juego
-tenga un "nivel de inglés alto" o "nivel de inglés bajo", eso es una
-desfachatez y no es una métrica objetiva. Con esta métrica trato de explicar
-cuántos elementos dependen de que entendáis el idioma; por ejemplo, si el juego
-solamente tiene el manual en inglés y el resto es independiente del idioma,
-entonces tendrá una dependencia *baja*, si por otro lado, además del manual el
-juego requiere que estéis leyendo cartas y estas no están doblemente
+A las [Primeras impresiones](#primeras-impresiones), o a las [Demos y
+protos](#demos-y-protos).
+
+Nota: El indicador **dependencia del idioma** de un juego (únicamente en los
+juegos en inglés) explica cómo de importante es que tengáis soltura en el
+idioma para poder jugar al juego y entenderlo. Esto **no significa** que un
+juego tenga un "nivel de inglés alto" o "nivel de inglés bajo", eso no es una
+métrica objetiva y por tanto, no es útil.  Con la dependencia del idioma trato
+de explicar cuántos elementos dependen de que entendáis el idioma para poder
+jugar al juego. Por ejemplo, si el juego solamente tiene el reglamento en
+inglés y el resto es independiente del idioma, entonces tendrá una dependencia
+*baja*, ya que un único elemento hace de "barrera de idioma". Si por otro lado,
+además del reglamento el juego requiere leer cartas y estas no están doblemente
 codificadas con iconos, entonces la dependencia será *alta*.
 
 ## Índice por puntuaciones
@@ -74,9 +80,8 @@ Mayor. También <strong>te los recomiendo sin dudas.</strong></p>
 
 <h3> 4 monedas</h3>
 <div class="col-md-12">
-<p><strong>¡Este juego es genial!</strong> Voy a jugar otra vez ya mismo.  — 
-Juegos muy muy buenos, también quiero jugar otra vez según he terminado la
-partida, pero a lo mejor no en el mismo día. <strong>Recomendados.</strong></p>
+<p><strong>¡Este juego es genial!</strong> Quiero jugar otra vez ya mismo.  — 
+Juegos geniales, de volver a jugar una y otra vez. <strong>Muy recomendados.</strong></p>
 
 <div class="col-md-8">
 {% assign sorted-posts = site.posts | where: "categories","Análisis" %}
@@ -96,12 +101,10 @@ partida, pero a lo mejor no en el mismo día. <strong>Recomendados.</strong></p>
 
 <h3> 3.5 monedas</h3>
 <div class="col-md-12">
-<p><strong>Me lo paso muy bien jugando a este juego.</strong>  — Estos juegos me gustan, son
-buenos, pero no los saco a la mesa tan a menudo porque tengo otros que me
-tiran más. Yo los llamo <i>juegos estacionales</i>, a veces me dan rachas en los que
-los juego mucho y otras veces pasan temporadas muy largas sin
-jugarlos. <strong>Solamente los recomiendo si algún aspecto del juego te llama la
-atención.</strong></p>
+<p><strong>Me lo paso muy bien jugando a este juego.</strong>  — Estos juegos
+me gustan muchos, son muy buenos, pero igual no ven tanto mesa o son <i>juegos
+estacionales</i>, a los que vas a jugar poco o mucho por
+rachas. <strong>Recomendados.</strong></p>
 
 <div class="col-md-8">
 {% assign sorted-posts = site.posts | where: "categories","Análisis" %}
@@ -121,9 +124,11 @@ atención.</strong></p>
 
 <h3> 3 monedas</h3>
 <div class="col-md-12">
-<p><strong>Me lo paso bien jugando a este juego.</strong>  — El último escalón de los juegos que
-puedo decir que me gustan. Son los que menos saco a la mesa, también son 
-<i>estacionales</i> (mira qué es esto en la descripción de la categoría superior).</p>
+<p><strong>Me lo paso bien jugando a este juego.</strong>  — El último escalón
+de los juegos que me gustan. Son los que menos saco a la mesa, también son 
+<i>estacionales</i> (mira qué es esto en la descripción de la categoría
+superior). <strong>Solamente los recomiendo si algún aspecto del juego te llama
+la atención.</strong></p>
 
 <div class="col-md-8">
 {% assign sorted-posts = site.posts | where: "categories","Análisis" %}
@@ -143,9 +148,9 @@ puedo decir que me gustan. Son los que menos saco a la mesa, también son
 
 <h3> 2.5 monedas</h3>
 <div class="col-md-12">
-<p><strong>Es entretenido, pero no me engancha.</strong> — En estos juegos empiezo a ver algunas
-pegas, y como dice el título, son entretenidos, pero no me enganchan y salvo
-que se cambie algo en el juego, dudo que repita.</p>
+<p><strong>Es entretenido, pero no me engancha.</strong> — En estos juegos
+empiezo a ver algunas pegas, y como dice el título, son entretenidos, pero no
+me enganchan y salvo que se cambie algo en el juego, dudo que repita.</p>
 
 <div class="col-md-8">
 {% assign sorted-posts = site.posts | where: "categories","Análisis" %}
@@ -165,9 +170,9 @@ que se cambie algo en el juego, dudo que repita.</p>
 
 <h3>2 monedas</h3>
 <div class="col-md-12">
-<p><strong>Es algo entretenido, pero no me engancha.</strong>  — A estos juegos les veo pegas
-mayores que a los de la categoría anterior y hasta me pueden llegar a parecer
-aburridos.</p>
+<p><strong>Es algo entretenido, pero no me engancha.</strong>  — A estos juegos
+les veo pegas mayores que a los de la categoría anterior y hasta me pueden
+llegar a parecer aburridos.</p>
 
 <div class="col-md-8">
 {% assign sorted-posts = site.posts | where: "categories","Análisis" %}
