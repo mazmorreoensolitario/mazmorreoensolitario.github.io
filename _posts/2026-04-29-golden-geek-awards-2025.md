@@ -35,11 +35,16 @@ avatar o donar a la página.
 
 ¡Empezamos!
 
+*Actualizado 12/05/16:* Salta a la sección de [Tras los
+resultados](#tras-los-resultados) para mis comentarios tras conocer los
+ganadores de cada categoría.
+
 ### Juego de mesa de peso ligero del año
 
-En esta categoría también han sido nominados *Duel for Cadia*, *Hot Streak*,
-*Magical Athlete*, *Star Wars: Battle of Hoth*, *Take Time* y *Toy Battle*,
-pero han sido excluidos de esta entrada por no poder jugarse en solitario.
+En esta categoría también han sido nominados *Duel for Cadia*, *Hot Streak*
+(ganador de la categoría), *Magical Athlete* (subcampeón), *Star Wars: Battle
+of Hoth*, *Take Time* y *Toy Battle* (subcampeón), pero han sido excluidos de
+esta entrada por no poder jugarse en solitario.
 
 
 <div class="row">
@@ -167,7 +172,6 @@ de Hjalmar Hach, Lorenzo Silva y publicado por <strong>Horrible Guild</strong>
 
 ### Mejor juego de mesa de peso medio del año
 
-
 En esta categoría también han sido nominados *The Druids of Edora* y *Zenith*, 
 pero han sido excluidos de esta entrada por no poder jugarse en solitario.
 
@@ -280,8 +284,8 @@ de David Gordon, Michael O'Connell y publicado por <strong>Stonemaier
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/4cHqrVA">The Lord of the Rings: Fate of the Fellowship</a></h4>
-        <!--div class="alert alert-warning" role="alert">
-        <strong>Mejor juego en solitario del año</strong></div-->
+        <div class="alert alert-warning" role="alert">
+        <strong>¡Mejor juego de mesa de peso medio del año!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/436217">The Lord of the Rings: Fate of the Fellowship</a></strong>
 de Matt Leacock y publicado por <strong>Z-Man Games</strong> (también en
@@ -310,8 +314,8 @@ de Matt Leacock y publicado por <strong>Z-Man Games</strong> (también en
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/42rBJsd">Moon Colony Bloodbath</a></h4>
-        <!--div class="alert alert-warning" role="alert">
-        <strong>Mejor juego en solitario del año</strong></div-->
+        <div class="alert alert-info" role="alert">
+        <strong>¡Subcampeón!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/425549">Moon Colony Bloodbath</a></strong>
     de Donald X. Vaccarino y publicado por <strong>Rio Grande Games</strong>, es un
@@ -399,8 +403,8 @@ de Shem Phillips y publicado por <strong>Garphill Games</strong>, es un juego
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/4e21fLQ">Vantage</a></h4>
-        <!--div class="alert alert-warning" role="alert">
-        <strong>Mejor juego en solitario del año</strong></div-->
+        <div class="alert alert-info" role="alert">
+        <strong>¡Subcampeón!</strong></div>
          <p><strong><a
      href="https://boardgamegeek.com/boardgame/420033">Vantage</a></strong>
     de Jamey Stegmaier y publicado por <strong>Stonemaier Games</strong>
@@ -496,8 +500,8 @@ de Josh J. Carlson, Michael Gernes, Logan Giannini, Ryan Howard, Salem Scott,
     </div>
     <div class="col-md-9">
         <h4>Galactic Cruise</h4>
-        <!--div class="alert alert-warning" role="alert">
-        <strong>Mejor juego en solitario del año</strong></div-->
+        <div class="alert alert-warning" role="alert">
+        <strong>¡Mejor juego de peso duro del año!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/391137">Galactic Cruise</a></strong>
 de T.K. King, Dennis Northcott, Koltin Thompson y publicado por <strong>Kinson
@@ -519,8 +523,8 @@ de T.K. King, Dennis Northcott, Koltin Thompson y publicado por <strong>Kinson
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/4sRVUdG">Luthier</a></h4>
-        <!--div class="alert alert-warning" role="alert">
-        <strong>Mejor juego en solitario del año</strong></div-->
+        <div class="alert alert-info" role="alert">
+        <strong>¡Subcampeón!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/371330">Luthier</a></strong>
 de Dave Beck, Abe Burson y publicado por <strong>Paverson Games</strong>
@@ -599,8 +603,8 @@ de Jo Kelly, Cole Wehrle y publicado por <strong>Wehrlegig Games</strong>, es
     </div>
     <div class="col-md-9">
         <h4>Speakeasy</h4>
-        <!--div class="alert alert-warning" role="alert">
-        <strong>Mejor juego en solitario del año</strong></div-->
+        <div class="alert alert-info" role="alert">
+        <strong>¡Subcampeón!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/375459">Speakeasy</a></strong>
 de Vital Lacerda y publicado por <strong>Eagle-Gryphon Games</strong>
@@ -784,7 +788,10 @@ de Richard Wilkins y publicado por <strong>Deep Print Games</strong>, es una
         class="img-thumbnail" alt="The Lord of the Rings: Fate of the Fellowship">
     </div>
     <div class="col-md-9">
-        <h4><a href="https://amzn.to/4cHqrVA">The Lord of the Rings: Fate of the Fellowship</a></h4>
+        <h4><a href="https://amzn.to/4cHqrVA">The Lord of the Rings: Fate of
+            the Fellowship</a></h4>
+        <div class="alert alert-info" role="alert">
+        <strong>¡Subcampeón!</strong></div>
         <!--div class="alert alert-warning" role="alert">
         <strong>Mejor juego en solitario del año</strong></div-->
         <p><i>Información del juego en una categoría anterior.</i></p>
@@ -815,6 +822,8 @@ de Richard Wilkins y publicado por <strong>Deep Print Games</strong>, es una
     </div>
     <div class="col-md-9">
         <h4>Star Trek: Captain's Chair</h4>
+        <div class="alert alert-info" role="alert">
+        <strong>¡Subcampeón!</strong></div>
         <!--div class="alert alert-warning" role="alert">
         <strong>Mejor juego en solitario del año</strong></div-->
         <p><i>Información del juego en una categoría anterior.</i></p>
@@ -851,8 +860,8 @@ de John D. Clair y publicado por <strong>Renegade Game Studios</strong>
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/4e21fLQ">Vantage</a></h4>
-        <!--div class="alert alert-warning" role="alert">
-        <strong>Mejor juego en solitario del año</strong></div-->
+        <div class="alert alert-warning" role="alert">
+        <strong>¡Mejor juego en solitario del año!</strong></div>
         <p><i>Información del juego en una categoría anterior.</i></p>
     </div>
 </div>
@@ -860,7 +869,7 @@ de John D. Clair y publicado por <strong>Renegade Game Studios</strong>
 ### Mejor wargame del año
 
 En esta categoría también han sido nominados *General Orders: Sengoku Jidai*,
-*Star Wars: Battle of Hoth*, *Toy Battle* y *A Very Civil Whist*, pero 
+*Star Wars: Battle of Hoth* (campeón), *Toy Battle* (subcampeón) y *A Very Civil Whist*, pero 
 han sido excluidos de esta entrada por no poder jugarse en solitario.
 
 Muchos wargames pueden jugarse a dos manos y son también divertidos, por lo que
@@ -948,8 +957,8 @@ de Frank Esparrago y publicado por <strong>GMT Games</strong>, es un juego de
     </div>
     <div class="col-md-9">
         <h4>Cross Bronx Expressway</h4>
-        <!--div class="alert alert-warning" role="alert">
-        <strong>Mejor juego en solitario del año</strong></div-->
+        <div class="alert alert-info" role="alert">
+        <strong>¡Subcampeón!</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/347601">Cross Bronx Expressway</a></strong>
 de Non-Breaking Space y publicado por <strong>GMT Games</strong>, es el tercer
@@ -1013,10 +1022,8 @@ de Justin Fassino y publicado por <strong>GMT Games</strong>, es el quinto
 
 ### Mejor juego cooperativo del año
 
-
 En esta categoría también ha sido nominado *Take Time*,
 pero ha sido excluido de esta entrada por no poder jugarse en solitario.
-
 
 <div class="row">
     <div class="col-md-3">
@@ -1071,8 +1078,8 @@ pero ha sido excluido de esta entrada por no poder jugarse en solitario.
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/3OA478p">Eternal Decks</a></h4>
-        <!--div class="alert alert-warning" role="alert">
-        <strong>Mejor juego en solitario del año</strong></div-->
+        <div class="alert alert-info" role="alert">
+        <strong>¡Subcampeón!</strong></div>
         <p><i>Información del juego en una categoría anterior.</i></p>
     </div>
 </div>
@@ -1086,8 +1093,8 @@ pero ha sido excluido de esta entrada por no poder jugarse en solitario.
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/4cHqrVA">The Lord of the Rings: Fate of the Fellowship</a></h4>
-        <!--div class="alert alert-warning" role="alert">
-        <strong>Mejor juego en solitario del año</strong></div-->
+        <div class="alert alert-warning" role="alert">
+        <strong>¡Mejor juego cooperativo del año!</strong></div>
         <p><i>Información del juego en una categoría anterior.</i></p>
     </div>
 </div>
@@ -1162,8 +1169,8 @@ de Adam Kwapiński y publicado por <strong>Awaken Realms</strong> (también en
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/4e21fLQ">Vantage</a></h4>
-        <!--div class="alert alert-warning" role="alert">
-        <strong>Mejor juego en solitario del año</strong></div-->
+        <div class="alert alert-info" role="alert">
+        <strong>¡Subcampeón!</strong></div>
         <p><i>Información del juego en una categoría anterior.</i></p>
     </div>
 </div>
@@ -1196,6 +1203,8 @@ categorías anteriores, por lo que tenéis la versión abreviada.
     </div>
     <div class="col-md-9">
         <h4>Galactic Cruise</h4>
+        <div class="alert alert-info" role="alert">
+        <strong>¡Subcampeón!</strong></div>
         <!--div class="alert alert-warning" role="alert">
         <strong>Mejor juego en solitario del año</strong></div-->
         <p><i>Información del juego en una categoría anterior.</i></p>
@@ -1211,8 +1220,8 @@ categorías anteriores, por lo que tenéis la versión abreviada.
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/4cHqrVA">The Lord of the Rings: Fate of the Fellowship</a></h4>
-        <!--div class="alert alert-warning" role="alert">
-        <strong>Mejor juego en solitario del año</strong></div-->
+        <div class="alert alert-warning" role="alert">
+        <strong>¡Mejor juego temático del año!</strong></div>
         <p><i>Información del juego en una categoría anterior.</i></p>
     </div>
 </div>
@@ -1316,6 +1325,8 @@ categorías anteriores, por lo que tenéis la versión abreviada.
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/4e21fLQ">Vantage</a></h4>
+        <div class="alert alert-info" role="alert">
+        <strong>¡Subcampeón!</strong></div>
         <!--div class="alert alert-warning" role="alert">
         <strong>Mejor juego en solitario del año</strong></div-->
         <p><i>Información del juego en una categoría anterior.</i></p>
@@ -1326,7 +1337,7 @@ categorías anteriores, por lo que tenéis la versión abreviada.
 
 En esta categoría también han sido nominados 
 *Azul Duel*, *Duel for Cardia*, *Iliad*, *Star Wars: Battle of Hoth*, *Tag
-Team*, *Toy Battle* y *Zenith*, pero
+Team* (subcampeón), *Toy Battle* (campeón) y *Zenith*, pero
 han sido excluidos de esta entrada por no poder jugarse en solitario.
 
 
@@ -1374,6 +1385,8 @@ de James A. Wilson, Clarissa A. Wilson y publicado por <strong>Starling
     </div>
     <div class="col-md-9">
         <h4>Star Trek: Captain's Chair</h4>
+        <div class="alert alert-info" role="alert">
+        <strong>¡Subcampeón!</strong></div>
         <!--div class="alert alert-warning" role="alert">
         <strong>Mejor juego en solitario del año</strong></div-->
         <p><i>Información del juego en una categoría anterior.</i></p>
@@ -1383,8 +1396,9 @@ de James A. Wilson, Clarissa A. Wilson y publicado por <strong>Starling
 
 ### Juego más innovador
 
-En esta categoría también han sido nominados *Hot Streak* y *Tag Team*, pero
-han sido excluidos de esta entrada por no poder jugarse en solitario.
+En esta categoría también han sido nominados *Hot Streak* (subcampeón) y *Tag
+Team*, pero han sido excluidos de esta entrada por no poder jugarse en
+solitario.
 
 <div class="row">
     <div class="col-md-3">
@@ -1482,6 +1496,8 @@ de Leonardo Alese, James Ernest, Tom Jolly, Emanuele Santellani y publicado por
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/42rBJsd">Moon Colony Bloodbath</a></h4>
+        <div class="alert alert-info" role="alert">
+        <strong>¡Subcampeón!</strong></div>
         <!--div class="alert alert-warning" role="alert">
         <strong>Mejor juego en solitario del año</strong></div-->
         <p><i>Información del juego en una categoría anterior.</i></p>
@@ -1512,16 +1528,43 @@ de Leonardo Alese, James Ernest, Tom Jolly, Emanuele Santellani y publicado por
     </div>
     <div class="col-md-9">
         <h4><a href="https://amzn.to/4e21fLQ">Vantage</a></h4>
-        <!--div class="alert alert-warning" role="alert">
-        <strong>Mejor juego en solitario del año</strong></div-->
+        <div class="alert alert-warning" role="alert">
+        <strong>¡Juego más innovador del año!</strong></div>
         <p><i>Información del juego en una categoría anterior.</i></p>
     </div>
 </div>
 
-### Tras los resultados...
+### Tras los resultados
 
-Me reservo esta sección para actualizarla cuando sepamos los ganadores de cada
-categoría. 
+Como bien predecían algunos lectores del blog y gente del mundillo de los
+juegos de mesa, **The Lord of the Rings: Fate of the Fellowship** ha sido uno
+de los juegos más galardonados: mejor temático, mejor cooperativo, mejor peso
+medio y subcampeón en mejor solitario del año. 
+
+Ha sido seguido de cerca por **Vantage**, que ha ganado en juego más innovador
+ del año, y mejor juego solitario del año, siendo subcampeón en mejor juego
+ temático, cooperativo, y subcampeón también en juegos de peso
+ medio. Básicamente todo lo que no ha ganado **The Lord of the Rings** ha
+ ganado este *Vantage*.
+
+En cuanto a sorpresas, **Eternal Decks** solamente ha quedado como subcampeón
+en mejor juego cooperativo del año, yo esperaba también que quedase subcampeón
+en juego más innovador del año. Y cuidado porque **Galactic Cruise** ha quedado
+como subcampeón en juego temático del año y gana el galardón al mejor peso duro
+del año. Está bien que uno de los juegos más complejos del año no sea un euro
+sin alma. Habrá que probarlo. Aquí yo creo que el **Speakereasy** de Vital
+Lacerda ha sido el gran perdedor, últimamente sus juegos no ganan tanto como
+recuerdo que sí hacían antes.
+
+Finalmente, **Moon Colony Bloodbath** (subcampeón innovador, subcampeón peso
+medio) y **Star Trek: Captain's Chair** (subcampeón a mejor juego de dos
+jugadores, subcampeón solitario) ambos tienen varias entradas como subcampeones
+en varias categorías, lo que son unos resultados también buenos.
+
+Creo que salvo el incluir a **Galactic Cruise** en mi lista de juegos para
+ojear con más interés no hay más cambios en mis listas de deseos.
+
+¡Nos vemos en la siguiente entrada!
 
 <hr>
 
