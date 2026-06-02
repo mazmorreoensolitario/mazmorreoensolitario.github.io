@@ -65,35 +65,31 @@
       {% if tag[0] == "Tops"
       or tag[0] == "El mes en juegos"
       or tag[0] == "Print & play"
-      or tag[0] == "New England Simulations"
-      or tag[0] == "Newton"
       or tag[0] == "Forgotten Waters"
       or tag[0] == "Messina 1347"
+      or tag[0] == "New England Simulations"
+      or tag[0] == "Newton"
       or tag[0] == "OSR"
       or tag[0] == "Space Empires 4X"
-      or tag[0] == "Burning Banners"
       or tag[0] == "Essen SPIEL 2019"
       or tag[0] == "New Bedford"
       or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Burning Banners"
+      or tag[0] == "Cascadia"
       or tag[0] == "Disciples of Bone and Shadow"
       or tag[0] == "Four Against Darkness"
       or tag[0] == "High Frontier 4 All"
       or tag[0] == "Ker Nethalas"
+      or tag[0] == "Adventure Tactics"
       or tag[0] == "Altar Quest"
-      or tag[0] == "Boletín Informativo Solitario"
+      or tag[0] == "Cascadia: Hitos"
+      or tag[0] == "Curious Cargo"
       or tag[0] == "Earthborne Rangers"
       or tag[0] == "Essen SPIEL 2024"
       or tag[0] == "Forest Shuffle: Exploración"
-      or tag[0] == "Forest Shuffle"
-      or tag[0] == "Galactic Cruise"
-      or tag[0] == "Golden Geek"
       or tag[0] == "Kingdom Crossing"
       or tag[0] == "Legends Untold"
-      or tag[0] == "Roll for the Galaxy"
-      or tag[0] == "Saltfjord"
       or tag[0] == "Ark Nova"
-      or tag[0] == "Cascadia"
-      or tag[0] == "Curious Cargo"
       or tag[0] == "Desolate"
       or tag[0] == "Dungeon Exit"
       or tag[0] == "Dungeons of Doria"
@@ -143,14 +139,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/05/21/noticias-premios-spiel-des-jahres-2026/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/05/21/noticias-premios-spiel-des-jahres-2026/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -164,14 +160,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>

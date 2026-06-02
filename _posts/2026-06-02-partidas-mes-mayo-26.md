@@ -33,7 +33,7 @@ llegaba de forma abrupta y después nos dejaba temperaturas fresquitas. Para
 añadir más variedad primaveral al mes, lo terminamos con la primera ola de
 calor del año, con máximas de 37C. A mí uno de los fines de semana de calor
 infernal me pilló en la parte asturiana de [Picos de
-Europa](https://es.wikipedia.org/wiki/Picos_de_Europa (foto arriba), en la que
+Europa](https://es.wikipedia.org/wiki/Picos_de_Europa) (foto arriba), en la que
 desafortunadamente tampoco se pudo escapar del calor.
 
 Metiéndonos ya de lleno en juegos de mesa, durante mayo he tenido la suerte de
@@ -505,7 +505,7 @@ la editorial de *Garphill Games*.
 
 El juego del mes ha sido **Recall**, la primera partida me dejó una sonrisa en
 la cara y la última vez que pasó eso fue con Ark Nova. ¿Durará la sensación? Lo
-averiguaré en los siguientes meses.
+averiguaré en los próximos meses.
 
 ## Planes para junio
 
