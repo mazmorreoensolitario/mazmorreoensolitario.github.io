@@ -32,8 +32,9 @@ desarrollándose con tormentas y truenos, e incluso algún granizo ocasional que
 llegaba de forma abrupta y después nos dejaba temperaturas fresquitas. Para
 añadir más variedad primaveral al mes, lo terminamos con la primera ola de
 calor del año, con máximas de 37C. A mí uno de los fines de semana de calor
-infernal me pilló en la parte asturiana de Picos de Europa (foto arriba), en la
-que desafortunadamente tampoco se pudo escapar del calor.
+infernal me pilló en la parte asturiana de [Picos de
+Europa](https://es.wikipedia.org/wiki/Picos_de_Europa (foto arriba), en la que
+desafortunadamente tampoco se pudo escapar del calor.
 
 Metiéndonos ya de lleno en juegos de mesa, durante mayo he tenido la suerte de
 poder acabar con mi balda de la vergüenza (sin contar wargames...). Estrené
@@ -74,20 +75,28 @@ src="https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepage/img/qR1EvTSN
 **[Ark
 Nova](https://boardgamegeek.com/boardgame/342942/ark-nova)** (primeras
 impresiones
-[aquí]({{site.baseurl}}/2022/06/07/primeras-impresiones-ark-nova/)) y la
-expansión **[Marine Worlds / Mundo
-Marino](https://boardgamegeek.com/boardgame/368966/ark-nova-marine-worlds)** es
+[aquí]({{site.baseurl}}/2022/06/07/primeras-impresiones-ark-nova/))  es
 un juego en el que tenemos que construir un zoo y gestionarlo de forma
 científica apoyando programas de conservación de animales. El juego se
-desarrolla en 27 turnos en el que tienes que tomar una acción en cada uno: 1)
-jugar animales, 2) robar cartas, 3) tomar acciones en en tablero de asociación,
-4) construir recintos para los animales ó 5) jugar cartas de
-patrocinadores. Estas acciones están afectadas por el nivel de "fuerza" de la
-acción (de 1 a 5) según esté colocada en vuestro tablero de jugador. Cuando una
-acción se toma, pasa a la izquierda del tablero (menos potente) y empujar el
-resto de cartas de acción a la derecha, haciéndolas más fuertes. **Ark Nova**
-utiliza cartas que representan a animales y patrocinadores, que tienen una
-serie de iconos y efectos en relación con el zoo. 
+desarrolla en 27 turnos en el que tienes que tomar una acción en cada uno
+entre las siguientes: 1) jugar animales, 2) robar cartas, 3) tomar acciones en
+en tablero de asociación, 4) construir recintos para los animales ó 5) jugar
+cartas de patrocinadores. Estas acciones están afectadas por el nivel de
+"fuerza" de la acción (de 1 a 5) según esté colocada en vuestro tablero de
+jugador. Cuando una acción se toma, pasa a la izquierda del tablero (menos
+potente) y empujar el resto de cartas de acción a la derecha, haciéndolas más
+fuertes. **Ark Nova** utiliza cartas que representan a animales y
+patrocinadores, que tienen una serie de iconos y efectos en relación con el
+zoo.
+
+En la expansión y la expansión **[Marine Worlds / Mundo
+Marino](https://boardgamegeek.com/boardgame/368966/ark-nova-marine-worlds)** se
+añaden nuevos tipos de animales con sus nuevos recintos (animales marinos y
+acuarios), además de cartas de acción asimétricas.
+
+Para ganar la partida, tienes que conseguir que la diferencia entre los
+puntos de conservación y reclamo (*appeal*) del zoo (en los dos tracks que vas
+sumando puntos) sea positiva.
 
 <p align="center">
 <img src="https://i.imgur.com/8XMPS1l.jpeg">
@@ -147,10 +156,10 @@ Otro de los grandes éxitos ha vuelto a la mesa, y me enorgullece informaros que
 por fin he conseguido pasarme el escenario 10 de la campaña de la expansión
 **Hitos**. Las dos partidas del mes al juego han sido a dicho escenario, la
 primera partida la perdí jugando en uno de esos días de 37C y confirmo que con
-cabeza frita no me da para para cumplir con las normas básicas de los
-escenarios de **Cascadia**, puse un zorro en una posición ilegal para dicho
-escenario, error de principiante. La segunda ya otro día con temperaturas más
-frescas y menos cansancio conseguí superar el escenario.
+cabeza frita no me da ni para para cumplir con las normas de los escenarios de
+**Cascadia**, puse un zorro en una posición ilegal para dicho escenario, error
+de principiante. La segunda ya otro día con temperaturas más frescas y menos
+cansancio conseguí superar el escenario.
 
 Esas dos partidas han hecho que mi copia de **Cascadia** ya lleve 140
 partidas. En junio seguiré con la campaña, ya jugando con los elementos de la
@@ -265,10 +274,10 @@ arriba, ó 2) excavación en los hexágonos del mapa que tengan piedras de
 habilidad (piezas de plástico hexagonales en gris, blanco o negro). También hay
 unos cubos grandes de madera (en gris, blanco, negro y marrón) llamados
 *relicubes* y la primera vez que pasas por un hexágono con uno de estos
-relicubos tienes que gastar un número determinado de seguidores de tu tribu
-para poder adquirirlo, después se colocará en tu tablero de jugador y te dará
-un beneficio en base el número de relicubos del mismo color que ya
-tengas. También puntúan al final de la partida.
+relicubos tienes que gastar de manera obligada un número determinado de
+seguidores de tu tribu para poder adquirirlo, después se colocará en tu tablero
+de jugador y te dará un beneficio en base el número de relicubos del mismo
+color que ya tengas. También puntúan al final de la partida.
 
 Las acciones se toman con unas losetas de "llaves" que activan las acciones
 impresas en tu tablero de jugador (movimiento, revelar losetas en el mapa,
@@ -285,7 +294,8 @@ tomando una acción tras otra, un turno es una acción, y hay 13 turnos con tres
 turnos "parciales" en los que tienes que ir decidiendo entre una forma de
 puntuar u otra de cara al final de la partida. Si no cumples con las dos cartas
 de objetivo que tienes, habrás perdido la partida. El resto es un BYOS
-(*"beat-your-own-score"*, es decir, mejora tu puntuación).
+(*"beat-your-own-score"*, es decir, mejora tu puntuación) en el que
+prácticamente todo lo que hayas conseguido puntúa.
 
 <p align="center">
 <img src="https://i.imgur.com/bDVSncj.jpeg">
@@ -301,9 +311,9 @@ que unos exploren, otros estén minando etc. Me ha parecido hasta temático.
 
 El resumen ejecutivo es que las tres partidas que he echado a **Recall** me han
 encantado, he perdido una en la que me tocó un objetivo que requería explorar
-mucho el mapa para encontrar y después construir algo al lado de unas losetas
+mucho el mapa para encontrar y después construir algo al lado de unos hexágonos
 especiales (los campamentos), y eso puede llegar a ser complejo en solitario
-porque tienes que encontrar esas losetas primero. Pero bueno, tengo solo tres
+porque tienes que encontrarlos primero. Pero bueno, tengo solo tres
 partidas al juego, así que ya veremos cómo de difícil termina siendo ese
 objetivo si me toca en el futuro. 
 
@@ -322,9 +332,9 @@ src="https://cf.geekdo-images.com/OjT3ffGRwXN7PLFEt_QK1g__imagepage/img/dO-klKdq
 de cartas en el que tienes que crear el ecosistema más saludable en tu
 bosque. En tu turno puedes robar dos cartas del mercado (vivero) o jugar una de
 tu mano en tu bosque. Las cartas que juegues tienen restricciones de
-colocación, como en base a la "elevación" en la que puedes colocarla, tienes que
-formar una pirámide de tres filas, con una base de tres cartas, dos cartas en
-el medio y coronada con una única carta.
+colocación, por ejemplo, en base a la "elevación" en la que puedes colocarla,
+tienes que formar una pirámide de tres filas, con una base de tres cartas, dos
+cartas en el medio y coronada con una única carta.
 
 Para jugar cartas deberás pagar su coste, ya bien sea descartando cartas de tu
 mano, o usando la energía acumulada de otras cartas. Se acumula energía cuando
@@ -337,9 +347,9 @@ son pequeños, pero es el texto de ambientación. Posiblemente también haya
 jugado mal.</small></p>
 
 Otro de los estrenos del mes ha sido **Reforest**, del que solo he jugado una
-partida pero me he quedado con ganas de más porque tiene más chicha de la que
-me esperaba. Me ha parecido muy táctico con diferentes capas de decisiones a
-considerar antes de jugar una carta u otra. 
+partida pero me he quedado con ganas de más porque tiene bastante más chicha de
+la que me esperaba. Me ha parecido muy táctico con diferentes capas de
+decisiones a considerar antes de jugar una carta u otra. 
 
 En solitario tienes que superar una puntuación para poder decir que has ganado
 la partida, pero esto es un poco confuso porque tienes que sacar más puntos que
@@ -351,8 +361,9 @@ esto último te de una visión clara (si te acuerdas) de las cartas que componen
 el mazo de juego.
 
 Puede que no me haya enterado bien, solo he jugado una partida, pero preguntaré
-a la comunidad si sigo con dudas. Ganas de volver a jugar a este **Reforest**,
-y me encanta que sea tan compacto, las cartas tienen además muy buena calidad.
+a la comunidad si sigo con dudas. Tengo ganas de volver a jugar a este
+**Reforest**, y me encanta que sea tan compacto, las cartas tienen además muy
+buena calidad.
 
 ### [Shackleton Base](https://amzn.to/4w0EPB3)
 
@@ -394,7 +405,7 @@ la partida.
 
 El juego más tedioso de re-aprender ha sido este **Shackleton Base**, que como
 os adelantada en la entradilla he conseguido sacar de la balda de la vergüenza
-desde que lo probé y compré en Essen'24.
+en la que estaba desde que lo probé y compré en Essen'24.
 
 La partida ha sido muy larga, de dos horas y media. El juego se juega en tres
 rondas, las dos primeras rondas han sido sobre una hora y la tercera ha ido
@@ -485,7 +496,7 @@ ejecutar algunas acciones, esto es especialmente aparente con el bot para jugar
 en solitario, esa sección me parece especialmente mala.
 
 Muy, muy bien este **Viajeros**, me ha vuelto a poner en el mapa los juegos de
-**Garphill**.
+la editorial de *Garphill Games*.
 
 ## El juego del mes
 
@@ -498,13 +509,15 @@ averiguaré en los siguientes meses.
 
 ## Planes para junio
 
-Tengo mucho entusiasmo con mi nueva mesa de juegos y por poder jugar a juegos
-con campaña, aún no he decidido por cuál empezar, pero un candidato muy fuerte
-es el **Dungeons of Doria**. Os iré contando.
+Tengo mucho entusiasmo por mi nueva mesa de juegos y por poder jugar a
+campañas, aún no he decidido por cuál empezar, pero un candidato muy fuerte es
+retomar el **Dungeons of Doria**. Os iré contando.
 
 ¡Os espero en la siguiente entrada de **[El mes en
 juegos]({{site.baseurl}}/etiqueta/el-mes-en-juegos)**!
 <hr>
 
 <small>Nota: el fondo espacial de la cabecera de esta entrada es <i><a
-href="https://esahubble.org/images/heic2607b/">"Crab Nebula"</a>.</i> De NASA, ESA, STScI, W. Blair (JHU). Image Processing: J. DePasquale (STScI).</small>
+href="https://esahubble.org/images/heic2607b/">"Crab Nebula"</a>.</i> De NASA,
+ESA, STScI, W. Blair (JHU). Image Processing: J. DePasquale (STScI).</small>
+
