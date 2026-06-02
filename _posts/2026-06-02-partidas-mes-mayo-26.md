@@ -89,7 +89,7 @@ fuertes. **Ark Nova** utiliza cartas que representan a animales y
 patrocinadores, que tienen una serie de iconos y efectos en relación con el
 zoo.
 
-En la expansión y la expansión **[Marine Worlds / Mundo
+En la expansión  **[Marine Worlds / Mundo
 Marino](https://boardgamegeek.com/boardgame/368966/ark-nova-marine-worlds)** se
 añaden nuevos tipos de animales con sus nuevos recintos (animales marinos y
 acuarios), además de cartas de acción asimétricas.
@@ -430,7 +430,7 @@ poco rara, no puntúa todo, cosa que choca.
 En fin, le tengo que dar más partidas a este **Shackleton Base** ya que quiero
 mantener algún juego de colocación de trabajadores en mi colección.
 
-### [Viajeros de las tierras del sur](https://amzn.to/4f16OKU)
+### [Viajeros de las tierras del sur](https://amzn.to/4f16OKU) / Wayfarers of the South Tigris
 <p><i>1 partida</i></p>
 
 <p align="center">
