@@ -82,14 +82,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2020/05/16/rol-en-solitario-como-empiezo/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/05/01/partidas-mes-abril-26/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/05/01/partidas-mes-abril-26/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2020/05/16/rol-en-solitario-como-empiezo/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -103,7 +103,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/06/02/partidas-mes-mayo-26/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -111,6 +111,13 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -125,13 +132,6 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/01/06/analisis-spires-end/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -158,26 +158,25 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Tops"
       or tag[0] == "El mes en juegos"
-      or tag[0] == "Print & play"
       or tag[0] == "Forgotten Waters"
       or tag[0] == "Messina 1347"
       or tag[0] == "New England Simulations"
       or tag[0] == "Newton"
+      or tag[0] == "Print & play"
       or tag[0] == "OSR"
       or tag[0] == "Space Empires 4X"
-      or tag[0] == "Essen SPIEL 2019"
       or tag[0] == "New Bedford"
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Burning Banners"
       or tag[0] == "Cascadia"
       or tag[0] == "Disciples of Bone and Shadow"
+      or tag[0] == "Essen SPIEL 2019"
       or tag[0] == "Four Against Darkness"
       or tag[0] == "High Frontier 4 All"
       or tag[0] == "Ker Nethalas"
-      or tag[0] == "Adventure Tactics"
       or tag[0] == "Altar Quest"
       or tag[0] == "Cartographers: Heroes"
-      or tag[0] == "Curious Cargo"
+      or tag[0] == "Dungeons of Doria"
       or tag[0] == "Earthborne Rangers"
       or tag[0] == "Essen SPIEL 2024"
       or tag[0] == "Forest Shuffle: Exploración"
@@ -186,17 +185,17 @@
       or tag[0] == "9 Card Game Print & Play Design Contest"
       or tag[0] == "Accesorios"
       or tag[0] == "Advanced Squad Leader: Starter Kit"
+      or tag[0] == "Adventure Tactics"
       or tag[0] == "Aerion"
       or tag[0] == "After The Virus"
       or tag[0] == "Black Orchestra"
       or tag[0] == "Boletín Informativo Solitario"
-      or tag[0] == "Burgle Bros"
       or tag[0] == "Cascadia: Hitos"
       or tag[0] == "Cascadia: Landmarks"
       or tag[0] == "Cities: Skylines The Board Game"
       or tag[0] == "Concordia Venus"
+      or tag[0] == "Curious Cargo"
       or tag[0] == "Dice Hospital"
-      or tag[0] == "Dungeons of Doria"
       or tag[0] == "Ennie"
       or tag[0] == "Faiyum: Privileges"
       or tag[0] == "Fertility"
@@ -204,7 +203,6 @@
       or tag[0] == "Forest Shuffle"
       or tag[0] == "Galactic Cruise"
       or tag[0] == "Gloomhaven: Jaws of the Lion"
-      or tag[0] == "GMT Games"
       or tag[0] == "Golden Geek"
       or tag[0] == "Inventors of the South Tigris"
       or tag[0] == "Le Havre"
@@ -216,6 +214,8 @@
       or tag[0] == "Paper Tales"
       or tag[0] == "Pirates of Maracaibo"
       or tag[0] == "Posthuman Saga"
+      or tag[0] == "Roll for the Galaxy"
+      or tag[0] == "Saltfjord"
       or tag[0] == "Ark Nova"
       or tag[0] == "Desolate"
       or tag[0] == "Dungeon Exit"
