@@ -3,7 +3,7 @@ layout: post
 title: "Partidas de mayo (2026)"
 date: 2026-06-02
 categories: [General]
-tags: [El mes en juegos, Cascadia, Reforest, Wayfarers of the South Tigris, Viajeros de las tierras del sur, Shackleton Base, Recall, Ark Nova, "Ark Nova: Marine Worlds", Piratas de Maracaibo, Pirates of Maracaibo]
+tags: [El mes en juegos, Forest Shuffle, "Forest Shuffle: Exploración", Cascadia, Reforest, Wayfarers of the South Tigris, Viajeros de las tierras del sur, Shackleton Base, Recall, Ark Nova, "Ark Nova: Marine Worlds", Piratas de Maracaibo, Pirates of Maracaibo]
 imghtml: https://live.staticflickr.com/65535/55306806091_f9f9f1a73c_b.jpg
 post_desc: "¿Qué juegos en solitario he jugado durante mayo? En esta entrada te
 cuento cuáles han sido y qué tal han ido las partidas"
