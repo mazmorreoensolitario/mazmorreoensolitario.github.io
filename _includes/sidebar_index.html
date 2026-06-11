@@ -87,6 +87,7 @@
       or tag[0] == "High Frontier 4 All"
       or tag[0] == "Kingdom Crossing"
       or tag[0] == "Legends Untold"
+      or tag[0] == "Pirates of Maracaibo"
       or tag[0] == "Accesorios"
       or tag[0] == "Advanced Squad Leader: Starter Kit"
       or tag[0] == "Adventure Tactics"
@@ -101,7 +102,6 @@
       or tag[0] == "Concordia Venus"
       or tag[0] == "Curious Cargo"
       or tag[0] == "Dice Hospital"
-      or tag[0] == "Ennie"
       or tag[0] == "Ark Nova"
       or tag[0] == "Desolate"
       or tag[0] == "Dungeon Exit"
@@ -135,14 +135,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/06/02/partidas-mes-mayo-26/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/05/21/noticias-premios-spiel-des-jahres-2026/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/05/21/noticias-premios-spiel-des-jahres-2026/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/06/02/partidas-mes-mayo-26/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -170,14 +170,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2024/04/30/accesorios-bandejas-para-fichas-cube4me/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2024/04/30/accesorios-bandejas-para-fichas-cube4me/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
