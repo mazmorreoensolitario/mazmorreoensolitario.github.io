@@ -69,11 +69,12 @@
       or tag[0] == "New England Simulations"
       or tag[0] == "Newton"
       or tag[0] == "Print & play"
+      or tag[0] == "Five Leagues From The Borderlands"
+      or tag[0] == "Mothership: Dead Planet"
       or tag[0] == "New Bedford"
       or tag[0] == "Tin Helm"
       or tag[0] == "Burning Banners"
       or tag[0] == "Cascadia"
-      or tag[0] == "Five Leagues From The Borderlands"
       or tag[0] == "Four Against Darkness"
       or tag[0] == "OSR"
       or tag[0] == "Air Raid Pearl Harbor"
@@ -88,9 +89,9 @@
       or tag[0] == "Pirates of Maracaibo"
       or tag[0] == "Recall"
       or tag[0] == "Star Wars: Imperial Assault"
+      or tag[0] == "Under Falling Skies"
       or tag[0] == "Viajeros de las tierras del sur"
       or tag[0] == "Wingspan Asia"
-      or tag[0] == "A Cool and Lonely Courage"
       or tag[0] == "Accesorios"
       or tag[0] == "Advanced Squad Leader: Starter Kit"
       or tag[0] == "Adventure Tactics"
@@ -101,7 +102,6 @@
       or tag[0] == "Cartographers: Heroes"
       or tag[0] == "Cascadia: Hitos"
       or tag[0] == "Cascadia: Landmarks"
-      or tag[0] == "Charles S. Roberts Awards"
       or tag[0] == "Ark Nova"
       or tag[0] == "Desolate"
       or tag[0] == "Dungeon Exit"
@@ -163,13 +163,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/02/16/rese%C3%B1a-campa%C3%B1a-one-deck-dungeon/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -178,6 +171,13 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2024/04/30/accesorios-bandejas-para-fichas-cube4me/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2019/02/16/rese%C3%B1a-campa%C3%B1a-one-deck-dungeon/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
