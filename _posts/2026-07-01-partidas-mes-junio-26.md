@@ -195,7 +195,7 @@ Buscador explorando un pozo hasta potencialmente llegar al fondo y derrotar al
 Amo del pozo. El pozo está representado por un mazo de cartas de desafíos y
 eventos, de los cuales tendremos cuatro cartas reveladas en juego. Los eventos
 se leen y ejecutan sus efectos cuando los eliges, mientras que los desafíos
-representan eventos, combates, obstáculos, acertijos y trampas que nos vamos
+representan combates, obstáculos, acertijos y trampas que nos vamos
 encontrando. Cada desafío tiene un nivel de dificultad numérico que deberemos
 superar, y un color asociado. Nuestro buscador tiene un mazo de cartas de
 habilidad de
@@ -208,10 +208,10 @@ adicional. Si el resultado de progreso total es igual o superior a la carta del
 pozo, la habremos superado y nos dará una recompensa, por ejemplo, nos
 permitirá descartar cartas del pozo; en caso contrario lo habremos fallado y
 aplicaremos la penalización, pero mantendremos el progreso que hayamos
-conseguido. Cuando se acaban las cartas de habilidad del buscador (ya que la
-mano no se recupera al final de cada turno) robas una carta de agotamiento, que
-generalmente tiene algún efecto negativo, y ya entonces puedes robar hasta
-completar tu mano.
+conseguido. Cuando se acaban las cartas de habilidad del buscador (ya que no se
+roba hasta completar la  mano al final de cada turno) robas una carta de
+agotamiento, que generalmente tiene algún efecto negativo, y ya entonces puedes
+robar hasta completar tu mano.
 
 Cuando hayamos visto todo el mazo del pozo, habremos llegado al fondo y nos
 enfrentaremos a su amo, en el caso de la caja que tengo yo, el *Vainglory*.
@@ -246,7 +246,7 @@ algún desafío se puede crear un efecto *negativísimo* si sale "oscuridad" en 
 tirada, por lo que quieres evitar la tirada de dados a toda costa y te centras
 en superar el desafío solo con el valor numérico de tus cartas de habilidad.
 
-Este **Kinfire Delve** me ha parecido con un juego con más profundidad de lo
+Este **Kinfire Delve** me ha parecido un juego con más profundidad de lo
 que puede aparentar, hay decisiones interesantes, y el mazo del pozo es
 bastante variado, además, ya que muchas recompensas de desafíos hacen que
 descartes cartas del mazo del pozo, no ves todo el mazo en cada partida, lo que
