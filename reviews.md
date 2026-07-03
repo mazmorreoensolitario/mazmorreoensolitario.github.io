@@ -102,7 +102,7 @@ Juegos geniales, de volver a jugar una y otra vez. <strong>Muy recomendados.</st
 <h3> 3.5 monedas</h3>
 <div class="col-md-12">
 <p><strong>Me lo paso muy bien jugando a este juego.</strong>  — Estos juegos
-me gustan muchos, son muy buenos, pero igual no ven tanto mesa o son <i>juegos
+me gustan mucho, son muy buenos, pero igual no ven tanto mesa o son <i>juegos
 estacionales</i>, a los que vas a jugar poco o mucho por
 rachas. <strong>Recomendados.</strong></p>
 

@@ -9,12 +9,16 @@ categorías.
 
 ### Nube de etiquetas
 
-<span class="label label-primary"><strong>Juegos de mesa</strong></span>,
-<span class="label label-grey"><strong>wargames</strong></span>,
-<span class="label label-danger"><strong>rol</strong></span>,
-<span class="label label-success"><strong>concursos y premios</strong></span>,
-<span class="label label-info"><strong>eventos y ferias</strong></span>,
-<span class="label label-warning"><strong>general</strong></span>,
+Las etiquetas que se utilizan para clasificar las entradas del blog, tienen un
+código de colores:
+
+Azul para <span class="label label-primary"><strong>Juegos de mesa</strong></span>,
+gris para <span class="label label-grey"><strong>wargames</strong></span>,
+rojo para <span class="label label-danger"><strong>rol</strong></span>,
+verde para <span class="label label-success"><strong>concursos y premios</strong></span>,
+azul claro para <span class="label label-info"><strong>eventos y ferias</strong></span>,
+naranja de carácter <span class="label
+label-warning"><strong>general</strong></span> y negro para 
 <span class="label label-black"><strong>off topic</strong></span>.
 
 

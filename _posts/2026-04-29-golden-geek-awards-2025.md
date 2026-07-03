@@ -3,7 +3,7 @@ layout: post
 title: "Juegos en solitario: Premios Golden Geek de 2025"
 date: 2026-04-29
 categories: [Noticias]
-tags: [Golden Geek, Sanctuary, Galactic Cruise, Fields of Fire, Everdell, Nemesis]
+tags: [Golden Geek, Sanctuary, Santuario, Galactic Cruise, Fields of Fire, Everdell, Nemesis]
 general: ""
 imghtml: https://cf.geekdo-images.com/5k7BvfRj1xKgqCRiD7yH4VcL-9c=/825x450/filters:strip_icc()/https%3A%2F%2Fcf.geekdo-static.com%2Fcms%2F2026%2F04%2F07134928%2FGolden-Geek-Homepage-Hero.jpg
 post_desc: "Estos son los mejores juegos de 2025 según los usuarios de BGG, te cuento cuáles pueden jugarse en solitario"
