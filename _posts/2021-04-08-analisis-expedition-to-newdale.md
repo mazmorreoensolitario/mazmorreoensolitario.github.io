@@ -312,7 +312,7 @@ cuando los desdobláis y la anchura del cartón está bien.
 
 **Accesibilidad.** Uno de los mecanismos clave del juego consiste en robar
 meeples de colores azul, verde, rojo y amarillos de una bolsa. Los meeples no
-tienen una diferencia física ni ningún gravado que los diferencie, por lo que
+tienen una diferencia física ni ningún grabado que los diferencie, por lo que
 si no podéis distinguir estos colores no vais a poder jugar (o necesitaréis
 asistencia o que os marquen los meeples). Por otro lado, aunque en las cartas
 también aparecen los meeples por colores, estos tienen un icono que los
