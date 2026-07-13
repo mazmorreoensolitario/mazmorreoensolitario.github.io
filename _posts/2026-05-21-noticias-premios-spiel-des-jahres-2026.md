@@ -202,7 +202,7 @@ Team**, pero no pueden jugarse en solitario.
     <p><strong><a href="https://boardgamegeek.com/boardgame/449853">Frosted
     Blooms</a></strong> de Bruno Cathala, Ludovic Maublanc y publicado por
     <strong>Synapses Games</strong> (próximamente en castellano como <strong>Flores
-    escarchadas</strong> por <strong>Asmodee</strong>, es un juego de colocación de losetas de
+    escarchadas</strong> por <strong>Asmodee</strong>), es un juego de colocación de losetas de
     formas de polinomios en el que somos jardineros holandeses y tenemos que
     crear el jardín de tulipanes más valioso. En cada turno 1) se juega una loseta
     en nuestro jardín y una carta de puntuación, que se puntúa inmediatamente y
