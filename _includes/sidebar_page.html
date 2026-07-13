@@ -67,7 +67,21 @@
       {% endfor %}
     </div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2026/07/01/partidas-mes-junio-26/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2026/06/02/partidas-mes-mayo-26/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2021/01/06/analisis-spires-end/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -81,14 +95,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/07/01/partidas-mes-junio-26/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2018/12/23/analisis-sprawlopolis/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -102,21 +109,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2018/12/23/analisis-sprawlopolis/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2023/07/16/noticias-csr-awards-2022/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2024/04/30/accesorios-bandejas-para-fichas-cube4me/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -129,50 +129,54 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Tops"
+      or tag[0] == "Charles S. Roberts Awards"
+      or tag[0] == "Four Against Darkness"
       or tag[0] == "Print & play"
       or tag[0] == "El mes en juegos"
-      or tag[0] == "Mothership: Dead Planet"
-      or tag[0] == "Tin Helm"
-      or tag[0] == "Five Leagues From The Borderlands"
-      or tag[0] == "Four Against Darkness"
-      or tag[0] == "Reforest"
-      or tag[0] == "Air Raid Pearl Harbor"
-      or tag[0] == "Dinosaur World"
-      or tag[0] == "Fantastic Factories"
-      or tag[0] == "Forgotten Waters"
-      or tag[0] == "Ironsworn: Delve"
       or tag[0] == "Ironsworn: Starforged"
-      or tag[0] == "Kingdom Death: Monster"
-      or tag[0] == "Labyrinth Lord"
       or tag[0] == "Messina 1347"
+      or tag[0] == "Mothership: Dead Planet"
       or tag[0] == "New Bedford"
       or tag[0] == "New England Simulations"
       or tag[0] == "Newton"
+      or tag[0] == "Tin Helm"
+      or tag[0] == "Dinosaur World"
+      or tag[0] == "Five Leagues From The Borderlands"
+      or tag[0] == "Forgotten Waters"
+      or tag[0] == "Reforest"
+      or tag[0] == "Air Raid Pearl Harbor"
+      or tag[0] == "Dungeons of Doria"
+      or tag[0] == "Fantastic Factories"
+      or tag[0] == "Imperial Steam"
+      or tag[0] == "Ironsworn: Delve"
+      or tag[0] == "Kingdom Death: Monster"
       or tag[0] == "Next Station"
+      or tag[0] == "Next War: Vietnam"
       or tag[0] == "The 7th Citadel"
+      or tag[0] == "The 7th Continent"
       or tag[0] == "Trek 12"
       or tag[0] == "Under Falling Skies"
       or tag[0] == "Viajeros de las tierras del sur"
+      or tag[0] == "1862: Railway Mania in the Eastern Counties"
+      or tag[0] == "A Cool and Lonely Courage"
       or tag[0] == "Accesorios"
       or tag[0] == "Ancient Realm"
       or tag[0] == "Arkwright: El Juego de Cartas"
+      or tag[0] == "Austerity"
       or tag[0] == "Between Two Castles of Mad King Ludwig"
       or tag[0] == "Black Orchestra"
-      or tag[0] == "Black Sonata"
       or tag[0] == "Bloodborne: The Board Game"
       or tag[0] == "Burning Banners"
       or tag[0] == "By Stealth and Sea"
+      or tag[0] == "Caesar: Rome vs. Gaul"
       or tag[0] == "Canvas"
-      or tag[0] == "Charles S. Roberts Awards"
       or tag[0] == "Curious Cargo"
-      or tag[0] == "Dungeons of Doria"
+      or tag[0] == "Descent"
       or tag[0] == "Essen SPIEL 2025"
       or tag[0] == "Fateforge: Chronicles of Kaan"
+      or tag[0] == "Five Parsecs From Home"
       or tag[0] == "Flatiron"
       or tag[0] == "Forbidden Psalm: The Last War"
-      or tag[0] == "Forest Shuffle: Exploración"
-      or tag[0] == "Forest Shuffle"
-      or tag[0] == "Freshwater Fly"
       or tag[0] == "GATE"
       or tag[0] == "Gift Craft"
       or tag[0] == "Goblivion"
@@ -182,17 +186,14 @@
       or tag[0] == "Héroes de Terrinoth"
       or tag[0] == "Imperium: Classics"
       or tag[0] == "La Tripulación: En busca del noveno planeta"
-      or tag[0] == "Legends Untold"
       or tag[0] == "Lost Ruins of Arnak: Expedition Leaders"
-      or tag[0] == "Micro City"
       or tag[0] == "Nemo's War"
-      or tag[0] == "North Africa 41"
-      or tag[0] == "Paper Tales"
       or tag[0] == "Ark Nova"
       or tag[0] == "Cascadia"
       or tag[0] == "Desolate"
       or tag[0] == "Dungeon Exit"
       or tag[0] == "Kingdom Crossing"
+      or tag[0] == "Legends Untold"
       or tag[0] == "Lux Aeterna"
       or tag[0] == "Wingspan Asia"
       or tag[0] == "Trailblazers" %}

@@ -37,8 +37,13 @@ En esta entrada os recojo **todos los juegos que puedan jugarse en solitario**
 de cada una de las categorías, pero no voy a hacer mención a los *Kinderspiel*
 ya que los más pequeños no son el público objetivo de esta página.
 
-Los resultados finales **se conocerán el 12 de julio**, entonces os actualizaré
-la entrada.
+Los [resultados
+finales](https://www.spiel-des-jahres.de/das-spiel-des-jahres-heisst-dito/)
+**se han dado a conocer el pasado 12 de julio**, el ganador a **juego del año**
+ha sido [Dito!](https://boardgamegeek.com/boardgame/400495/jinxo) y el ganador
+a **juego de expertos del año** ha sido
+[Rebirth](https://boardgamegeek.com/boardgame/417197/rebirth).
+
 
 ## Nominados a Spiel des Jahres (juego del año)
 
@@ -196,7 +201,8 @@ Team**, pero no pueden jugarse en solitario.
     role="alert"> <strong>¡Premio Spiel des Jahres!</strong></div-->
     <p><strong><a href="https://boardgamegeek.com/boardgame/449853">Frosted
     Blooms</a></strong> de Bruno Cathala, Ludovic Maublanc y publicado por
-    <strong>Synapses Games</strong>, es un juego de colocación de losetas de
+    <strong>Synapses Games</strong> (próximamente en castellano como <strong>Flores
+    escarchadas</strong> por <strong>Asmodee</strong>, es un juego de colocación de losetas de
     formas de polinomios en el que somos jardineros holandeses y tenemos que
     crear el jardín de tulipanes más valioso. En cada turno 1) se juega una loseta
     en nuestro jardín y una carta de puntuación, que se puntúa inmediatamente y
@@ -212,9 +218,14 @@ Team**, pero no pueden jugarse en solitario.
     cartas, no losetas, que se van solapando tipo Expansiópolis.</p></div>
     </div>
 
-## Tras los resultados...
+## Tras los resultados
 
-Me reservo esta sección para cuando sepamos los ganadores de cada categoría.
+Tanto [Dito!](https://boardgamegeek.com/boardgame/400495/jinxo) como 
+[Rebirth](https://boardgamegeek.com/boardgame/417197/rebirth)
+no pueden jugarse en solitario, pero para **Rebirth** ya
+tenemos un [modo en solitario no
+oficial](https://boardgamegeek.com/filepage/313421/solo-mode-fan-made-solo-mode),
+por lo que si queréis probar el juego en solitario, es posible.
 
 <hr>
 
