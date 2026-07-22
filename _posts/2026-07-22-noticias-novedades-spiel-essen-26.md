@@ -4,12 +4,12 @@ title: "SPIEL Essen 2026: las novedades"
 date: 2026-07-22
 categories: [General]
 tags: [Essen SPIEL, Essen SPIEL 2026]
-imghtml: https://live.staticflickr.com/65535/55411190178_1d62cc2d17_c.jpg
+imghtml: https://live.staticflickr.com/65535/55411413799_542eeec389_c.jpg
 post_desc: "En esta entrada informo de los cambios que se esperan para la
 SPIEL Essen 2026"
 ---
 
-![](https://live.staticflickr.com/65535/55411190178_1d62cc2d17_b.jpg)
+![](https://live.staticflickr.com/65535/55411413799_542eeec389_c.jpg)
 
 <hr>
 
