@@ -53,8 +53,8 @@ Si decidís viajar en avión, vuestro destino será el aeropuerto internacional 
 **Düsseldorf**, los precios de los aviones varían más que el tiempo en
 primavera, por lo que solo os puedo dejar como indicación que volar con
 Eurowings desde Bilbao a Düsseldorf (y vuelta) con maleta de mano, maleta
-facturada de 23kg y bulto de debajo del asiento me ha salido este año por unos
-280€.
+facturada de 23kg y bulto de debajo del asiento me ha salido este año (2024)
+por unos 280€.
 
 Desde el aeropuerto de Düsseldorf deberéis coger un tren desde la propia
 estación del aeropuerto a la estación central de Essen (*"Essen Hauptbahnhof"*,
@@ -258,7 +258,7 @@ En resumen, esto es lo que tenéis que llevar:
   compras. Ya bien sea para dejarla en consigna e ir rellenando o para llevarla
   todo el día con vosotros.
 - Botella de agua. El agua de Essen es potable, podéis llevar una botella y
-  rellenarla en los baños.
+  rellenarla en los aseos.
 - Una chaqueta que sea aplastable para meterla en vuestra mochila, en su
   defecto podéis usar la consigna, pero habrá cola.
 - Calzado cómodo.
