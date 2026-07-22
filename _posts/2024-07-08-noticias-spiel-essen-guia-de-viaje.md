@@ -27,7 +27,7 @@ parecido relevante y los precios aproximados del viaje.
 
 <p align="center">
 <img height="350"
-src="https://spiel-essen.de/templates/yootheme/cache/0c/Alea_Gesicht_der_SPIEL_Essen_2024-0cdc495c.webp"></p>
+src="https://www.spiel-essen.de/media/yootheme/cache/7b/RZ01_SPIEL_Website_2026%201-7ba76e80.webp"></p>
 
 La feria **SPIEL Essen** se celebra anualmente durante cuatro días (jueves a
 domingo) en octubre, en los últimos años
