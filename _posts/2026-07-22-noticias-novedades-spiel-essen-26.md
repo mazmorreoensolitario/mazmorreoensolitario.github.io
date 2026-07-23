@@ -20,7 +20,7 @@ ciudad alemana Essen.
 
 ### Venta de entradas
 
-A fecha de publicación de esta entrada ya podéis conseguir los las tickets de día
+A fecha de publicación de esta entrada ya podéis conseguir los tickets de día
 en [este
 enlace](https://www.messe-ticket.de/SWM_SHOP/Spiel2026?ref=mazmorreoensolitario). Los
 precios orientativos de las entradas más comunes son 24€ para la entrada de día
