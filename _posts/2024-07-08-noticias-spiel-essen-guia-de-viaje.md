@@ -161,7 +161,7 @@ feria.
 
 ### Logística
 
-![](https://www.messe-essen.de/media/neue-medien/dreiklang/anreise-parkplaetze-downloads/gelaendeplaene/messe_essen_gelaendeplan.jpg)
+![](https://www.messe-essen.de/fileadmin/_processed_/e/6/csm_Gelaendeplan_437707d471.webp)
 
 La **Messe Essen** es una feria de exhibiciones con una superficie de 110.000
 metros cuadrados, a la que se le suman otros 20.000 metros cuadraros al aire

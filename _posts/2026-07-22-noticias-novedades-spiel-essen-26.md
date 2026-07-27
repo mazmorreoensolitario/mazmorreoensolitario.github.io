@@ -29,7 +29,7 @@ para adultos y 15€ para la de los niños (4-12 años).
 ### Las novedades de la feria
 
 <p align="center">
-<img src="https://www.messe-essen.de/media/neue-medien/dreiklang/anreise-parkplaetze-downloads/gelaendeplaene/messe_essen_gelaendeplan.jpg">
+<img src="https://www.messe-essen.de/fileadmin/_processed_/e/6/csm_Gelaendeplan_437707d471.webp">
 <small>Plano de Messe Essen</small>
 </p>
 
