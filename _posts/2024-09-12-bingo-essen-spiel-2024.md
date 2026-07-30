@@ -32,7 +32,7 @@ cotillear lo que pensé que me iba a gustar en otros años:
 [2022]({{site.baseurl}}/2022/09/19/bingo-essen-spiel-2022/),
 [2021]({{site.baseurl}}/2021/10/12/bingo-essen-spiel-2021/),
 [2020]({{site.baseurl}}/2020/10/22/bingo-spiel-digital-2020/),
-[2019]({{site.baseurl}}http://localhost:4000/2019/10/05/bingo-essen-spiel-2019/).
+[2019]({{site.baseurl}}/2019/10/05/bingo-essen-spiel-2019/).
 
 Pero volviendo a 2024, mi **lista de top de juegos de la SPIEL'24** está
 dividida en varias categorías, pero en general, **siempre os voy a hablar de un

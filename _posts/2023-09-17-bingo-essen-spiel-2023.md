@@ -32,7 +32,7 @@ interés en bingos de años anteriores por aquí tenéis los enlaces:
 [2022]({{site.baseurl}}/2022/09/19/bingo-essen-spiel-2022/), 
 [2021]({{site.baseurl}}/2021/10/12/bingo-essen-spiel-2021/),
 [2020]({{site.baseurl}}/2020/10/22/bingo-spiel-digital-2020/),
-[2019]({{site.baseurl}}http://localhost:4000/2019/10/05/bingo-essen-spiel-2019/)—,
+[2019]({{site.baseurl}}/2019/10/05/bingo-essen-spiel-2019/)—,
 así que voy a ir con más ilusión todavía.
 
 Las listas están divididas en cuatro categorías que juntas crean **mis juegos

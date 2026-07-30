@@ -18,7 +18,7 @@ de 2022."
 Llegan las fechas de hacer mi **tradicional lista**
 ([2021]({{site.baseurl}}/2021/10/12/bingo-essen-spiel-2021/),
 [2020]({{site.baseurl}}/2020/10/22/bingo-spiel-digital-2020/),
-[2019]({{site.baseurl}}http://localhost:4000/2019/10/05/bingo-essen-spiel-2019/))
+[2019]({{site.baseurl}}/2019/10/05/bingo-essen-spiel-2019/))
 de los juegos más codiciados de las 
 novedades que se presentan en la **[Spiel
 2022](https://www.spiel-messe.com/en/)**, la feria de juegos de mesa por
