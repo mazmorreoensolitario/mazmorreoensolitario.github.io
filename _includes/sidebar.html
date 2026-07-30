@@ -89,13 +89,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/05/21/noticias-premios-spiel-des-jahres-2026/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/01/06/analisis-spires-end/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -103,14 +96,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/06/02/partidas-mes-mayo-26/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/05/21/noticias-premios-spiel-des-jahres-2026/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/05/02/analisis-count-of-nine/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -124,7 +117,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/07/22/noticias-novedades-spiel-essen-26/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2019/05/02/analisis-count-of-nine/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -157,34 +157,34 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Tops"
-      or tag[0] == "Charles S. Roberts Awards"
-      or tag[0] == "Print & play"
-      or tag[0] == "El mes en juegos"
-      or tag[0] == "Essen SPIEL"
-      or tag[0] == "Four Against Darkness"
+      or tag[0] == "Newton"
+      or tag[0] == "Forgotten Waters"
       or tag[0] == "Messina 1347"
       or tag[0] == "New Bedford"
       or tag[0] == "New England Simulations"
-      or tag[0] == "Newton"
+      or tag[0] == "Charles S. Roberts Awards"
+      or tag[0] == "Essen SPIEL"
+      or tag[0] == "Four Against Darkness"
+      or tag[0] == "Print & play"
       or tag[0] == "Dinosaur World"
-      or tag[0] == "Forgotten Waters"
-      or tag[0] == "Mothership: Dead Planet"
-      or tag[0] == "Ironsworn: Starforged"
+      or tag[0] == "El mes en juegos"
       or tag[0] == "Reforest"
+      or tag[0] == "Kingdom Death: Monster"
       or tag[0] == "The 7th Citadel"
       or tag[0] == "Austerity"
       or tag[0] == "Black Orchestra"
       or tag[0] == "Dungeons of Doria"
       or tag[0] == "Essen SPIEL 2026"
-      or tag[0] == "Fantastic Factories"
       or tag[0] == "Five Parsecs From Home"
       or tag[0] == "Harmonies"
       or tag[0] == "Imperial Steam"
-      or tag[0] == "Ironsworn: Delve"
-      or tag[0] == "Kingdom Death: Monster"
+      or tag[0] == "Ironsworn: Starforged"
       or tag[0] == "Legends Untold"
+      or tag[0] == "Libros"
       or tag[0] == "Next War: Vietnam"
+      or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "The 7th Continent"
+      or tag[0] == "Tin Helm"
       or tag[0] == "Ark Nova"
       or tag[0] == "Cascadia"
       or tag[0] == "Curious Cargo"
@@ -232,7 +232,7 @@
       {% endfor %}
     </div>
         <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2018/12/23/analisis-sprawlopolis/" %}
+      {% assign target-posts = site.posts | where: "url","/2022/03/23/analisis-infranqueable/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>3. {{post.title | truncate: 40}}</h5></div></a>
@@ -246,7 +246,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/04/25/rol-mothership/" %}
+      {% assign target-posts = site.posts | where: "url","/2019/03/09/analisis-maquis/" %}
        {% for post in target-posts %}
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>5. {{post.title | truncate: 40}}</h5></div></a>
