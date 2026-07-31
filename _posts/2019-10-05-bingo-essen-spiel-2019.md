@@ -5,12 +5,15 @@ date: 2019-10-05
 categories: [Listas]
 tags: [Essen SPIEL, Essen SPIEL 2019, Lorenzo il Magnifico, Maestros del Renacimiento, "Europa Universalis: The Price of Power", Freshwater Fly, Crazy Taco, Coffee Roaster, On Mars, Nova Luna, Lux Aeterna, "Terraforming Mars: Turmoil", "Terraforming Mars: Conflictos", Terraforming Mars, "Bios: Origins 2", High Frontier 4 All, "Cities: Skylines The Board Game", Expedition to Newdale, "Oh My Goods!", "So You've Been Eaten", Troyes Dice, Troyes, "Rome & Roll", Zaar, "Alubari: A Nice Cup of Tea", Snowdonia]
 imghtml: https://live.staticflickr.com/65535/53990765903_e36357721c_o.png
+post_desc: Esta es mi particular selección de juegos en solitario que me interesan de la feria este año
 ---
 
 <p align="center">
 <img
 src="https://live.staticflickr.com/65535/53990765903_e36357721c_o.png">
 </p>
+
+<hr>
 
 Como acabamos de entrar en octubre, llega la tradicional colección de entradas 
 de blogs que hablan sobre los lanzamientos (o no tan lanzamientos) de juegos de

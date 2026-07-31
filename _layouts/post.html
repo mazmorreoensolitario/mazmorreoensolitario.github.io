@@ -40,8 +40,28 @@ layout: default_container
               <span itemprop="author" itemscope
                     itemtype="http://schema.org/Person">
                 <span itemprop="name">{{ page.author }}</span>
-              </span>{% endif %}
-
+              </span>
+              {% endif %}
+              • 
+              {% assign sorted_cats = page.categories | sort %}
+              {% for cat in sorted_cats %}
+              <span class="label label-default">
+                {% case cat %}
+                {% when 'Noticias' %}<a href="/noticias">
+                {% when 'Partidas' %}<a href="/partidas-mensuales">
+                {% when 'General' %}<a href="/articulos-generales">
+                {% when 'Print & play' %}<a href="/rincon-print-and-play">
+                {% when 'Off topic' %}<a href="/off-topic">
+                {% when 'Análisis' %}<a href="/analisis">
+                {% when 'Primeras impresiones' %}<a href="/analisis">
+                {% when 'Rol' %}<a href="/rol-en-solitario">
+                {% when 'Listas' %}<a href="/listas-y-tops">
+                {% when 'Off topic' %}<a href="/off-topic">
+                {% else %}
+                  <a href="#">
+                {% endcase %} 
+                  {{cat}}</a></span>
+              {% endfor %}
             </p>
             <hr>
           </header>
