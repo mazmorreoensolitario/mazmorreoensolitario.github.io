@@ -2,7 +2,7 @@
 layout: post
 title: "Septiembre en juegos (2022)"
 date: 2022-10-03
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Corrosion, Ark Nova, Lux Aeterna, Resistid, "Resist!"]
 imghtml: https://live.staticflickr.com/65535/55195458887_8706ef7a3f_b.jpg
 post_desc: "¿Qué se ha jugado durante septiembre? Aquí te cuento qué juegos de

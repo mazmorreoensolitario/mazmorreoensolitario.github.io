@@ -2,7 +2,7 @@
 layout: post
 title: "Diciembre en juegos (2023)"
 date: 2024-01-05
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Shipyard, Evacuation, Factory Funner, Light in the Dark, "Zhanguo: The First Empire"]
 imghtml: https://live.staticflickr.com/65535/53445425504_5085469385_b.jpg
 post_desc: "¿Qué se ha jugado durante diciembre? Aquí te cuento qué juegos he

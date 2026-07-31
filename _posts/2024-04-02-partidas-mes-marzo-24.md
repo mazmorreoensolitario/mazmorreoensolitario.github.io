@@ -2,7 +2,7 @@
 layout: post
 title: "Marzo en juegos (2024)"
 date: 2024-04-02
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Nucleum, Factory Funner, Curious Cargo, Dungeons of Doria, Evacuation, Fertility, Ker Nethalas, Next Station]
 imghtml: https://live.staticflickr.com/65535/53625146405_b3780a98aa_b.jpg
 post_desc: "¿Qué se ha jugado durante marzo? Aquí te cuento qué juegos he

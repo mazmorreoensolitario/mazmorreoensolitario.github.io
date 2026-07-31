@@ -2,7 +2,7 @@
 layout: post
 title: "Julio en juegos (2023)"
 date: 2023-08-01
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Factory Funner, Curious Cargo, Wingspan Asia, Trailblazers, Cascadia]
 imghtml: https://live.staticflickr.com/65535/53086967355_e07ac221ca_o.jpg
 post_desc: "¿Qué se ha jugado durante julio? Aquí te cuento qué juegos he

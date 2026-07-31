@@ -2,7 +2,7 @@
 layout: post
 title: "Partidas de octubre (2025)"
 date: 2025-11-1
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Resafa, Saltfjord, Kingdom Crossing]
 imghtml: https://live.staticflickr.com/65535/54894828874_319fbd498c_w.jpg
 post_desc: "Este es el resumen de mis partidas de juegos de mesa en octubre"

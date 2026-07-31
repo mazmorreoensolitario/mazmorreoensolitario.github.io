@@ -2,7 +2,7 @@
 layout: post
 title: "Agosto en juegos (2024)"
 date: 2024-09-02
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, France 40, Cascadia, "Cascadia: Hitos", "Cascadia: Landmarks", Project L]
 imghtml: https://live.staticflickr.com/65535/53964607675_d192205aa9_b.jpg
 post_desc: "¿Qué se ha jugado durante agosto? Aquí te cuento qué juegos he

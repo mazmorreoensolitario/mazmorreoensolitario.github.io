@@ -2,7 +2,7 @@
 layout: post
 title: "Febrero en juegos (2023)"
 date: 2023-03-19
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Old-School Essentials, Cascadia, Mini Rogue, "Next War: Poland", Curious Cargo, Space Empires 4X, Three Sisters, Wingspan Asia, Wingspan]
 imghtml: https://live.staticflickr.com/65535/55196742515_fc55e144dc_b.jpg
 post_desc: "¿Qué se ha jugado el frío febrero? Aquí te cuento qué juegos he

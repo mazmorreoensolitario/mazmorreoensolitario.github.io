@@ -2,7 +2,7 @@
 layout: post
 title: "Mayo en juegos (2023)"
 date: 2023-06-03
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Cascadia, Wingspan Asia, Wingspan, Stargard Solstice, "Clinic: Deluxe Edition"]
 imghtml: https://live.staticflickr.com/65535/52947403546_8dc53eb763_b.jpg
 post_desc: "¿Qué se ha jugado durante mayo? Aquí te cuento qué juegos he

@@ -2,7 +2,7 @@
 layout: post
 title: "Febrero en juegos (2022)"
 date: 2022-03-01
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, "Advanced Squad Leader: Starter Kit", Death In Space, Tiny Towns, "Space Empires 4X", "Terraforming Mars: Preludio", Terraforming Mars, Small Islands, Paper Tales, "Paper Tales: Beyond the Gates", Reinos de Papel, "Reinos de Papel: Más allá de las puertas", Gaia Project, Curious Cargo, "Next War: Korea"]
 imghtml: https://live.staticflickr.com/65535/55211703847_a5cb620691_c.jpg
 post_desc: "¿Qué se ha jugado durante febrero? Aquí te cuento qué juegos de

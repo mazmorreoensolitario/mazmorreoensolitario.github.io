@@ -2,7 +2,7 @@
 layout: post
 title: "Enero en juegos (2022)"
 date: 2022-02-01
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Curious Cargo, Tramways, Tranvías, Tiny Towns, "Old-School Essentials", Advanced Squad Leader, "Advanced Squad Leader: Starter Kit", Faiyum, "Fayún", "Pathfinder Adventure Card Game: Mummy's Mask", Pathfinder Adventure Card Game, Dungeon Degenerates, Gaia Project]
 imghtml: https://live.staticflickr.com/65535/55212851239_713c9aa59c_c.jpg
 post_desc: "¿Qué se ha jugado durante el primer mes del año? Aquí te hablo de

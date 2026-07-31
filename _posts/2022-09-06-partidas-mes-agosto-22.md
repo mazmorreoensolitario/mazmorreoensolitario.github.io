@@ -2,7 +2,7 @@
 layout: post
 title: "Agosto en juegos (2022)"
 date: 2022-09-06
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Curious Cargo, "Bios: Megafauna", Cascadia, Tiny Towns]
 imghtml: https://live.staticflickr.com/65535/55208665971_d7624d06ae_c.jpg
 post_desc: "¿Qué se ha jugado durante agosto? Aquí te cuento qué juegos de

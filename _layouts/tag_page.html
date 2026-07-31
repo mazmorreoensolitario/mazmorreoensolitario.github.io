@@ -15,18 +15,14 @@ layout: default_container
           <div class="panel panel-default">
             {% if post.imghtml %}
             <img
-              {% if post.crop %}
               class="try-to-crop" 
-              {% else %}
-              width="100%" 
-              {% endif %}
               src="{{post.imghtml}}" alt="{{post.title}}">
             {% else %}
             {% if post.img %}
-            <img width="100%" src="{{site.baseurl}}/images/{{post.img}}"
+            <img class="try-to-crop"  src="{{site.baseurl}}/images/{{post.img}}"
                  alt="{{post.title}}">
             {% else %}
-            <img width="100%" src="{{site.baseurl}}/images/logo.png"
+            <img class="try-to-crop" src="{{site.baseurl}}/images/logo.png"
                  alt="{{site.title}}">
             {% endif %}
             {% endif %}
@@ -96,18 +92,14 @@ layout: default_container
           <div class="panel panel-default">
             {% if post.imghtml %}
             <img
-              {% if post.crop %}
               class="try-to-crop" 
-              {% else %}
-              width="100%" 
-              {% endif %}
               src="{{post.imghtml}}" alt="{{post.title}}">
             {% else %}
             {% if post.img %}
-            <img width="100%" src="{{site.baseurl}}/images/{{post.img}}"
+            <img class="try-to-crop" src="{{site.baseurl}}/images/{{post.img}}"
                  alt="{{post.title}}">
             {% else %}
-            <img width="100%" src="{{site.baseurl}}/images/logo.png"
+            <img class="try-to-crop" src="{{site.baseurl}}/images/logo.png"
                  alt="{{site.title}}">
             {% endif %}
             {% endif %}
@@ -180,19 +172,14 @@ layout: default_container
         <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
           <div class="panel panel-default">
             {% if post.imghtml %}
-            <img
-              {% if post.crop %}
-              class="try-to-crop" 
-              {% else %}
-              width="100%" 
-              {% endif %}
+            <img class="try-to-crop"
               src="{{post.imghtml}}" alt="{{post.title}}">
             {% else %}
             {% if post.img %}
-            <img width="100%" src="{{site.baseurl}}/images/{{post.img}}"
+            <img class="try-to-crop" src="{{site.baseurl}}/images/{{post.img}}"
                  alt="{{post.title}}">
             {% else %}
-            <img width="100%" src="{{site.baseurl}}/images/logo.png"
+            <img class="try-to-crop" src="{{site.baseurl}}/images/logo.png"
                  alt="{{site.title}}">
             {% endif %}
             {% endif %}

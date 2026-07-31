@@ -2,7 +2,7 @@
 layout: post
 title: "Septiembre y octubre en juegos (2024)"
 date: 2024-11-11
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, SETI, Steam Power, "Undaunted 2200: Callisto", Verdant, Dungeon Exit, Gift Craft, Project L, Resafa, Saltfjord]
 imghtml: https://live.staticflickr.com/65535/54123794398_bbd8b302b4_b.jpg
 post_desc: "¿Qué he jugado durante septiembre y octubre? Aquí te lo cuento"

@@ -2,7 +2,7 @@
 layout: post
 title: "Partidas de marzo (2026)"
 date: 2026-04-01
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Forest Shuffle, "Forest Shuffle: Exploración", Cascadia, Kingdom Crossing, Formidable Farm, El bosque de los espíritus]
 imghtml: https://live.staticflickr.com/65535/55179174656_60d26ea6ea_b.jpg
 post_desc: "¿Qué juegos he sacado a la mesa durante marzo? En esta entrada te

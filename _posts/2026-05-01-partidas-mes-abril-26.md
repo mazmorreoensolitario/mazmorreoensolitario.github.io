@@ -2,7 +2,7 @@
 layout: post
 title: "Partidas de abril (2026)"
 date: 2026-05-01
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Kingdom Crossing, "Twilight: 2000", Formidable Farm, Saltfjord, Revive, "El bosque de los espíritus", Forest Shuffle, "Forest Shuffle: Exploración"]
 imghtml: https://live.staticflickr.com/65535/55240020219_703642d5e7_c.jpg
 post_desc: "¿Qué juegos en solitario he jugado durante abril? En esta entrada te

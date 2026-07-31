@@ -2,7 +2,7 @@
 layout: post
 title: "Octubre en juegos (2021)"
 date: 2021-11-08
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Curious Cargo, "Twilight: 2000", Paper Tales, Reinos de Papel, "Reinos de Papel: Más allá de las puertas", The Colonists, Dark Venture, Tramways, Tranvías, "The Manhattan Project: Energy Empire", "Next War: Korea", "Terraforming Mars: Preludio", Terraforming Mars]
 imghtml: https://live.staticflickr.com/65535/55219703696_130b3e5fd6_z.jpg
 post_desc: "¿Qué se ha jugado durante octubre? Aquí te hablo de los juegos de mesa

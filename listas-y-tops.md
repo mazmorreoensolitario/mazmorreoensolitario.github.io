@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Artículos generales
-permalink: /articulos-generales/
+title: Listas y tops
+permalink: /listas-y-tops/
 ---
 
-Si no sé cómo categorizar una entrada, se viene a esta sección de artículos
-generales.
+¿Se pueden organizar juegos de mesa, rol o wargames en una lista ordenada? ¿Son
+los tops de algún evento? Aquí recojo todas los artículos de **listas y tops**.
 
 <div class="pack">
-    {% assign sorted-posts = site.posts | where: "categories", "General" %}
+    {% assign sorted-posts = site.posts | where: "categories", "Listas" %}
     {% assign sorted = sorted-posts | sort: 'date' | reverse %}
     {% for post in sorted %}
     <div class="col-md-4 card">

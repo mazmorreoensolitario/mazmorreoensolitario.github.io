@@ -2,7 +2,7 @@
 layout: post
 title: "Junio en juegos (2021)"
 date: 2021-07-05
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, The Vast in the Dark, Mothership, The Drain, Seekers Beyond The Shroud, "World at War 85: Storming the Gap", Terraforming Mars, Root, "Root: The Clockwork", "Root: Los Cachivaches", Curious Cargo, Desolate, Legends Untold, "Legends Untold: The Great Sewers" ]
 imghtml: https://live.staticflickr.com/65535/55219907128_b8e6cd9598_c.jpg
 post_desc: "¿Qué se ha jugado durante junio? Aquí te hablo de los juegos de mesa

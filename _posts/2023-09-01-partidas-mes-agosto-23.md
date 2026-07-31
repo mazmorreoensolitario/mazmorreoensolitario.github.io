@@ -2,7 +2,7 @@
 layout: post
 title: "Agosto en juegos (2023)"
 date: 2023-09-01
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Factory Funner, Barcelona, Trailblazers, Cascadia]
 imghtml: https://live.staticflickr.com/65535/53158057753_07ac503a9b_b.jpg
 post_desc: "¿Qué se ha jugado durante agosto? Aquí te cuento qué juegos he

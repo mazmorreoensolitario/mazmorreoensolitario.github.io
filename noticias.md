@@ -4,45 +4,82 @@ title: Noticias
 permalink: /noticias/
 ---
 
-Aquí tienes los **artículos de la sección de noticias**, y como sabes, solo nos
-interesan las **noticias relacionadas con los juegos jugables en solitario**:
+¿Hay algo nuevo que informar? Aquí tienes todos los artículos de noticias de
+juegos de mesa, rol y wargames.
 
-
-<div class="col-md-12">
-<div class="col-md-10">
-{% assign sorted-posts = site.posts | where: "categories", "Noticias" %}
-{% assign sorted = sorted-posts | sort: 'date' | reverse %}
+<div class="pack">
+    {% assign sorted-posts = site.posts | where: "categories", "Noticias" %}
+    {% assign sorted = sorted-posts | sort: 'date' | reverse %}
     {% for post in sorted %}
-    {% if post.general %}
-        <div class="image-container">
-          <a href="{{site.url}}{{post.url}}">
-            <img class="crop-sidebar" src="{{post.imghtml}}">
-            <div class="text-block"><h5>{{post.title | truncate: 60}}</h5></div></a>
+    <div class="col-md-4 card">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
+            <div class="panel panel-default">
+                {% if post.imghtml %}
+                <img
+                    class="try-to-crop" 
+                    src="{{post.imghtml}}" alt="{{post.title}}">
+                {% else %}
+                {% if post.img %}
+                <img class="try-to-crop"
+                    src="{{site.baseurl}}/images/{{post.img}}"
+                    alt="{{post.title}}">
+                {% else %}
+            <img class="try-to-crop"
+                src="{{site.baseurl}}/images/logo.png"
+                 alt="{{site.title}}">
+            {% endif %}
+            {% endif %}
+            <div class="panel-body">
+            <h3 class="panel-title pull-left">
+              {{ post.title | truncate: 70 }}
+            </h3>
+            <br>
+            <div clas="pull-left">
+              {% assign categ_sorted = post.categories | sort %}
+              <span class="label label-default">
+                {{categ_sorted[0]}}
+              </span>
+              <span class="post-meta pull-right"><small>
+                {% assign m = post.date | date: "%-m" %}
+                {{ post.date | date: "%-d" }}
+                {% case m %}
+                {% when '1' %}Enero
+                {% when '2' %}Febrero
+                {% when '3' %}Marzo
+                {% when '4' %}Abril
+                {% when '5' %}Mayo
+                {% when '6' %}Junio
+                {% when '7' %}Julio
+                {% when '8' %}Agosto
+                {% when '9' %}Septiembre
+                {% when '10' %}Octubre
+                {% when '11' %}Noviembre
+                {% when '12' %}Diciembre
+                {% endcase %}
+                {{ post.date | date: "%Y" }}
+                </small>
+              </span>
+              <div class="pull-right">
+                <span>
+                  <small>
+                    <a href="{{post.url | prepend: site.baseurl}}#disqus_thread">
+                    </a> <i class="fa fa-comment">&nbsp;&nbsp;</i>
+                  </small>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="panel-body"><small>
+              {% if post.post_desc %}
+              {{ post.post_desc | strip_html | strip_newlines | truncate: 180}}
+              {% else %}
+              {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}
+              {% endif %}
+            </small>
+          </div>
         </div>
-    {% endif %}
-    {% endfor %}
-</div>
-</div>
+        </a>
+      </div>
+      {% endfor %} <!-- sorted posts -->
+  </div> <!-- pack -->
 
-<div class="col-md-12"></div>
-<div class="col-md-12"></div>
-<div class="col-md-12"></div>
-
-Y no te olvides de visitar el **Boletín Informativo Solitario**, un boletín
-mensual donde agrupamos todas las noticias sobre **juegos de mesa, wargames y rol
-en solitario del mes:**
-
-<div class="col-md-12">
-<div class="col-md-10">
-{% assign sorted-posts = site.posts | where: "categories", "Noticias" %}
-{% assign sorted = sorted-posts | sort: 'date' | reverse %}
-{% assign posts = sorted | where: "tags", "Boletín Informativo Solitario" %}
-{% for post in posts %}
-    <div class="image-container">
-          <a href="{{site.url}}{{post.url}}">
-            <img class="crop-sidebar" src="{{post.imghtml}}">
-            <div class="text-block"><h5>{{post.title | truncate: 60}}</h5></div></a>
-        </div>
-{% endfor %}
-</div>
-</div>

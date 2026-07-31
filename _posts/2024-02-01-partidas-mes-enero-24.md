@@ -2,7 +2,7 @@
 layout: post
 title: "Enero en juegos (2024)"
 date: 2024-02-01
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Mini Rogue, Agricola, La Fortaleza de Hegra, Halls of Hegra, Terminado, Reinos de Papel, "Reinos de Papel: Más allá de las puertas", Ker Nethalas, Curious Cargo, Wingspan Asia, Ark Nova, "Ark Nova: Marine Worlds"]
 imghtml: https://live.staticflickr.com/65535/53496629827_1390b136e2_b.jpg
 post_desc: "¿Qué se ha jugado durante enero? Aquí te cuento qué juegos he

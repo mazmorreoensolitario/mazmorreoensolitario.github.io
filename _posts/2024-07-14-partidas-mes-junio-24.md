@@ -2,7 +2,7 @@
 layout: post
 title: "Junio en juegos (2024)"
 date: 2024-07-14
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Horizons of Spirit Island, Ker Nethalas, "The Manhattan Project: Energy Empire", Agropolis, Evacuation, Footprints, Messina 1347, Reinos de Papel, Cascadia, "Cascadia: Hitos", "Cascadia: Landmarks"]
 imghtml: https://live.staticflickr.com/65535/53846331384_9f6fd211e3_b.jpg
 post_desc: "¿Qué se ha jugado durante junio? Aquí te cuento qué juegos he

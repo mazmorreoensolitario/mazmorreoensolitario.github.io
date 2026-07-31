@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Artículos generales
-permalink: /articulos-generales/
+title: Partidas mensuales
+permalink: /partidas-mensuales/
 ---
 
-Si no sé cómo categorizar una entrada, se viene a esta sección de artículos
-generales.
+Cada mes suelo hacer un resumen de lo jugado, en estas entradas podéis leer
+algunas primerísimas sensaciones sobre juegos que acabo de estrenar y comprobar
+qué juegos aguantan mejor el paso del tiempo.
 
 <div class="pack">
-    {% assign sorted-posts = site.posts | where: "categories", "General" %}
+    {% assign sorted-posts = site.posts | where: "categories", "Partidas" %}
     {% assign sorted = sorted-posts | sort: 'date' | reverse %}
     {% for post in sorted %}
     <div class="col-md-4 card">

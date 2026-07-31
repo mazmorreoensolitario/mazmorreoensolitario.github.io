@@ -2,7 +2,7 @@
 layout: post
 title: "Junio en juegos (2023)"
 date: 2023-07-02
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Ark Nova, Factory Funner, Faiyum, Gaia Project, Rebuilding Seattle, Resistid, "Resist!", Wingspan Asia]
 imghtml: https://live.staticflickr.com/65535/53016679601_d25ea1a8ae_b.jpg
 post_desc: "¿Qué se ha jugado durante junio? Aquí te cuento qué juegos he

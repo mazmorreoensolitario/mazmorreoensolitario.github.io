@@ -2,7 +2,7 @@
 layout: post
 title: "Diciembre en juegos (2022)"
 date: 2023-01-04
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Agricola, Arracourt, Aleph Null, Ark Nova, Cascadia, Horizons of Spirit Island, Terraforming Mars, Tramways, Tranvías, Wormholes]
 imghtml: https://live.staticflickr.com/65535/55195449522_cf3e59c73b_b.jpg
 post_desc: "¿Qué se ha jugado durante el último mes del año? Aquí te cuento qué juegos de

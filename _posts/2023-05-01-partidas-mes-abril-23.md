@@ -2,7 +2,7 @@
 layout: post
 title: "Abril en juegos (2023)"
 date: 2023-05-01
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Reinos de Papel, "Reinos de Papel: Más allá de las puertas", Tranvías, Tramways, Five Leagues From The Borderlands, Agricola, Cascadia, Factory Funner, Wingspan Asia, Wingspan]
 imghtml: https://live.staticflickr.com/65535/52861290910_63f86df6bd_b.jpg
 post_desc: "¿Qué se ha jugado durante el primer mes de buen tiempo del año? Aquí te cuento qué juegos he

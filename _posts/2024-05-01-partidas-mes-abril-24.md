@@ -2,7 +2,7 @@
 layout: post
 title: "Abril en juegos (2024)"
 date: 2024-05-01
-categories: [General]
+categories: [Partidas]
 tags: [El mes en juegos, Curious Cargo, Shipyard, Messina 1347, Salerno 43, Terraforming Mars, "Terraforming Mars: Preludio", Cascadia, "Cascadia: Landmarks", "Cascadia: Hitos"]
 imghtml: https://live.staticflickr.com/65535/53691173101_e1ba070dca_o.jpg
 post_desc: "¿Qué se ha jugado durante abril? Aquí te cuento qué juegos he
