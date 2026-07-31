@@ -4,7 +4,7 @@ title: Off topic
 permalink: /off-topic/
 ---
 
-Este página es sobre juegos de mesa, rol y wargames en solitario, pero a veces
+Esta página es sobre juegos de mesa, rol y wargames en solitario, pero a veces
 me salgo de la temática principal en artículos muy concretos. Aquí los tenéis.
 
 <div class="pack">
