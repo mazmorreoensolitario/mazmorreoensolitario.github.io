@@ -52,9 +52,9 @@ es para la aviación comercial.
 Si decidís viajar en avión, vuestro destino será el aeropuerto internacional de
 **Düsseldorf**, los precios de los aviones varían más que el tiempo en
 primavera, por lo que solo os puedo dejar como indicación que volar con
-Eurowings desde Bilbao a Düsseldorf (y vuelta) con maleta de mano, maleta
-facturada de 23kg y bulto de debajo del asiento me ha salido este año (2024)
-por unos 280€.
+Eurowings desde Bilbao a Düsseldorf en vuelo directo (y vuelta) con maleta de
+mano, maleta facturada de 23kg y bulto de debajo del asiento me ha salido este
+año (2024) por unos 280€.
 
 Desde el aeropuerto de Düsseldorf deberéis coger un tren desde la propia
 estación del aeropuerto a la estación central de Essen (*"Essen Hauptbahnhof"*,
