@@ -81,13 +81,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/01/06/analisis-spires-end/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -102,7 +95,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/05/02/analisis-count-of-nine/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/01/06/analisis-spires-end/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -110,6 +103,13 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2024/07/06/noticias-spiel-essen-guia-de-viaje/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2019/05/02/analisis-count-of-nine/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -143,7 +143,6 @@
       or tag[0] == "The 7th Citadel"
       or tag[0] == "Austerity"
       or tag[0] == "Curious Cargo"
-      or tag[0] == "Dinosaur World"
       or tag[0] == "Essen SPIEL 2026"
       or tag[0] == "Expedition to Newdale"
       or tag[0] == "Five Parsecs From Home"
@@ -153,6 +152,7 @@
       or tag[0] == "Legends Untold"
       or tag[0] == "Libros"
       or tag[0] == "Next War: Vietnam"
+      or tag[0] == "Ruins of the Undercity"
       or tag[0] == "The 7th Continent"
       or tag[0] == "Tin Helm"
       or tag[0] == "Ark Nova"
