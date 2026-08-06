@@ -70,9 +70,10 @@
       or tag[0] == "New Bedford"
       or tag[0] == "New England Simulations"
       or tag[0] == "Charles S. Roberts Awards"
+      or tag[0] == "Print & play"
       or tag[0] == "El mes en juegos"
       or tag[0] == "Four Against Darkness"
-      or tag[0] == "Print & play"
+      or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Reforest"
       or tag[0] == "The 7th Citadel"
       or tag[0] == "Austerity"
@@ -86,7 +87,6 @@
       or tag[0] == "Legends Untold"
       or tag[0] == "Libros"
       or tag[0] == "Next War: Vietnam"
-      or tag[0] == "Ruins of the Undercity"
       or tag[0] == "The 7th Continent"
       or tag[0] == "Tin Helm"
       or tag[0] == "Ark Nova"
@@ -164,14 +164,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2019/05/02/analisis-count-of-nine/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2019/05/02/analisis-count-of-nine/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
