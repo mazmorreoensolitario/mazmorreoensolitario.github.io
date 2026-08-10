@@ -74,13 +74,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/07/01/partidas-mes-junio-26/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2026/05/21/noticias-premios-spiel-des-jahres-2026/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -88,14 +81,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/07/01/partidas-mes-junio-26/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/01/06/analisis-spires-end/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -116,6 +109,13 @@
       {% endfor %}
     </div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2021/01/06/analisis-spires-end/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -130,16 +130,16 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Tops"
       or tag[0] == "Essen SPIEL"
-      or tag[0] == "Newton"
       or tag[0] == "Forgotten Waters"
+      or tag[0] == "Newton"
       or tag[0] == "Messina 1347"
       or tag[0] == "New Bedford"
       or tag[0] == "New England Simulations"
       or tag[0] == "Print & play"
-      or tag[0] == "Charles S. Roberts Awards"
-      or tag[0] == "Four Against Darkness"
       or tag[0] == "Ruins of the Undercity"
+      or tag[0] == "Four Against Darkness"
       or tag[0] == "El mes en juegos"
+      or tag[0] == "Charles S. Roberts Awards"
       or tag[0] == "Reforest"
       or tag[0] == "The 7th Citadel"
       or tag[0] == "Arkham Horror"
@@ -149,10 +149,8 @@
       or tag[0] == "Expedition to Newdale"
       or tag[0] == "Five Parsecs From Home"
       or tag[0] == "Harmonies"
-      or tag[0] == "Imperial Steam"
       or tag[0] == "Legends Untold"
       or tag[0] == "Libros"
-      or tag[0] == "Next War: Vietnam"
       or tag[0] == "The 7th Continent"
       or tag[0] == "Tin Helm"
       or tag[0] == "Ark Nova"
