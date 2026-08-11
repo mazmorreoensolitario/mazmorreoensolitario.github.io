@@ -60,14 +60,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2020/05/16/rol-en-solitario-como-empiezo/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/07/22/noticias-novedades-spiel-essen-26/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/07/22/noticias-novedades-spiel-essen-26/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2020/05/16/rol-en-solitario-como-empiezo/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -137,13 +137,11 @@
       or tag[0] == "New England Simulations"
       or tag[0] == "Print & play"
       or tag[0] == "Ruins of the Undercity"
-      or tag[0] == "Four Against Darkness"
       or tag[0] == "El mes en juegos"
-      or tag[0] == "Charles S. Roberts Awards"
+      or tag[0] == "Four Against Darkness"
       or tag[0] == "Reforest"
       or tag[0] == "The 7th Citadel"
       or tag[0] == "Arkham Horror"
-      or tag[0] == "Austerity"
       or tag[0] == "Curious Cargo"
       or tag[0] == "Essen SPIEL 2026"
       or tag[0] == "Expedition to Newdale"
