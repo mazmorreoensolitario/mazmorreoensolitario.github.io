@@ -96,7 +96,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/07/01/partidas-mes-junio-26/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -110,13 +110,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/07/01/partidas-mes-junio-26/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2020/12/09/listas-5-juegos-de-batallitas-o-gueras/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -124,7 +117,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/01/17/analisis-food-chain-island/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/03/04/general-top-100-bgg-solitario-p1/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -132,6 +125,13 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2021/01/17/analisis-food-chain-island/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -158,11 +158,11 @@
       {% for tag in site.tags %}
       {% if tag[0] == "Essen SPIEL"
       or tag[0] == "Tops"
-      or tag[0] == "Print & play"
       or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Forgotten Waters"
       or tag[0] == "Four Against Darkness"
       or tag[0] == "Newton"
+      or tag[0] == "Print & play"
       or tag[0] == "El mes en juegos"
       or tag[0] == "Messina 1347"
       or tag[0] == "New Bedford"
@@ -171,6 +171,7 @@
       or tag[0] == "Reforest"
       or tag[0] == "Arkham Horror"
       or tag[0] == "Arkham Noir"
+      or tag[0] == "Burning Banners"
       or tag[0] == "Curious Cargo"
       or tag[0] == "Essen SPIEL 2026"
       or tag[0] == "Expedition to Newdale"
