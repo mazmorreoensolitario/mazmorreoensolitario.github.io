@@ -37,7 +37,7 @@ En la foto de arriba, una imagen de algo relativamente fresco, el valle de
 Hecho en Pirineos, en un fin de semana de agosto tratando de escapar del calor.
 
 Volviendo a los juegos de mesa, han sido dos meses sin novedades pero en los
-que he tenido la oportunidad de sacar algunos llevaban bastante tiempo en
+que he tenido la oportunidad de sacar algunos juegos que llevaban bastante tiempo en
 almacenamiento. Como resumen ejecutivo de los dos meses: se afianzan juegos y
 otros empiezan a tener ya sus primeros signos de desgaste.
 
@@ -284,7 +284,7 @@ controle la vía por la que se transporta cada recurso.
 
 <p align="center">
 <img src="https://i.imgur.com/awvosZt.jpeg">
-</p><p align="center"><small>Partida a </small></p>
+</p><p align="center"><small>Partida a Steam Power en mapa "Steel Belt"</small></p>
 
 Otro de los juegos que llevaban bastante tiempo sin jugarse ha sido este
 **Steam Power**, publicado por la nueva y (\**creo*\*) ya extinta editorial
