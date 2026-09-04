@@ -3,7 +3,7 @@ layout: post
 title: "Partidas de junio (2026)"
 date: 2026-07-01
 categories: [Partidas]
-tags: [El mes en juegos, Reforest, Kinfire Delve, "El bosque de los espíritus", "Terraforming Mars: Preludio", Terraforming Mars, Cascadia, Forest Shuffle, "Forest Shuffle: Exploración"]
+tags: [El mes en juegos, "Cascadia: Hitos", Reforest, Kinfire Delve, "El bosque de los espíritus", "Terraforming Mars: Preludio", Terraforming Mars, Cascadia, Forest Shuffle, "Forest Shuffle: Exploración"]
 imghtml: https://live.staticflickr.com/65535/55366823722_997b9e6993_b.jpg
 post_desc: "¿Qué juegos en solitario he jugado durante junio? En esta entrada te
 cuento cuáles han sido y qué tal han ido las partidas"

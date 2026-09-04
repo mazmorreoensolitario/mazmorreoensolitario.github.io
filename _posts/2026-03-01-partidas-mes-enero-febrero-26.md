@@ -3,7 +3,7 @@ layout: post
 title: "Partidas de enero y febrero (2026)"
 date: 2026-03-01
 categories: [Partidas]
-tags: [El mes en juegos, Shipyard, Akropolis, Project L, Cascadia, Desolate, Kingdom Crossing, Wingspan, Wingspan Asia]
+tags: [El mes en juegos, "Cascadia: Hitos", Shipyard, Akropolis, Project L, Cascadia, Desolate, Kingdom Crossing, Wingspan, Wingspan Asia]
 imghtml: https://live.staticflickr.com/65535/55122314426_cb344e60aa_b.jpg
 post_desc: "¿Qué juegos han visto mesa durante enero y febrero? ¡Aquí te lo cuento!"
 ---
