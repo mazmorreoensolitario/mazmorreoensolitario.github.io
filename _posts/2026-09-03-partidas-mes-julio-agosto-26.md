@@ -145,7 +145,7 @@ Ganas de jugarlo más.
 ### [Kingdom Crossing](https://amzn.to/4umjReb)
 <p><i>1 partida</i></p>
 
-<p align="center"> <img height="350"
+<p align="center"><img height="350"
 src="https://cf.geekdo-images.com/QQikkHAYbLyf2IGC5tz0Fg__imagepage@2x/img/9A15h3RfGs9TWy4Sn4lhfR489BI=/fit-in/1800x1200/filters:strip_icc()/pic8660175.jpg"></p>
 
 **[Kingdom

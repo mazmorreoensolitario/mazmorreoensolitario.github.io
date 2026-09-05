@@ -81,6 +81,13 @@
       {% endfor %}
     </div>
     <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2026/09/03/partidas-mes-julio-agosto-26/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -95,14 +102,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/07/01/partidas-mes-junio-26/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/07/01/partidas-mes-junio-26/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -115,22 +122,15 @@
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
-    <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/01/17/analisis-food-chain-island/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
 <span id="dummy"></span>
   </div>
   <div class="mt10">
     <h4>Etiquetas más populares</h4>
     <p class="text-left">
       {% for tag in site.tags %}
-      {% if tag[0] == "Ruins of the Undercity"
+      {% if tag[0] == "Arkham Noir"
       or tag[0] == "Print & play"
-      or tag[0] == "Arkham Noir"
+      or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Five Parsecs From Home"
       or tag[0] == "Forgotten Waters"
       or tag[0] == "Four Against Darkness"
@@ -142,6 +142,7 @@
       or tag[0] == "Tin Helm"
       or tag[0] == "Arkham Horror"
       or tag[0] == "Burning Banners"
+      or tag[0] == "Cascadia"
       or tag[0] == "It's a Wonderful World"
       or tag[0] == "Libros"
       or tag[0] == "OSR"
@@ -150,7 +151,6 @@
       or tag[0] == "Sprawlopolis"
       or tag[0] == "Too Many Bones"
       or tag[0] == "Ark Nova"
-      or tag[0] == "Cascadia"
       or tag[0] == "Curious Cargo"
       or tag[0] == "Desolate"
       or tag[0] == "Dungeon Exit"
