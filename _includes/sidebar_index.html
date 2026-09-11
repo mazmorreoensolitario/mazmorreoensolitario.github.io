@@ -65,25 +65,22 @@
       {% if tag[0] == "Print & play"
       or tag[0] == "Arkham Noir"
       or tag[0] == "Essen SPIEL 2026"
-      or tag[0] == "Forgotten Waters"
+      or tag[0] == "One Page Dungeon"
       or tag[0] == "Piratas de Maracaibo"
-      or tag[0] == "Tin Helm"
       or tag[0] == "Burning Banners"
       or tag[0] == "Cascadia"
       or tag[0] == "Cosmic Colonies"
       or tag[0] == "Five Parsecs From Home"
+      or tag[0] == "Forgotten Waters"
       or tag[0] == "Four Against Darkness"
       or tag[0] == "It's a Wonderful World"
       or tag[0] == "Libros"
-      or tag[0] == "Messina 1347"
-      or tag[0] == "New Bedford"
-      or tag[0] == "New England Simulations"
-      or tag[0] == "Newton"
       or tag[0] == "OSR"
       or tag[0] == "Ruins of the Undercity"
       or tag[0] == "Seekers Beyond The Shroud"
       or tag[0] == "Sprawlopolis"
       or tag[0] == "Tekhenu: El obelisco del sol"
+      or tag[0] == "Tin Helm"
       or tag[0] == "Too Many Bones" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
                                                    href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
@@ -158,7 +155,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/01/17/analisis-food-chain-island/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/06/02/partidas-mes-mayo-26/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
