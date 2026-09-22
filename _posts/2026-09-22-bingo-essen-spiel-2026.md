@@ -144,7 +144,7 @@ meses.
     la oportunidad, así que voy a intentar no perderme una demo de este 
     <b>Excursions</b>, que en teoría comparte alguna mecánica con <b>Galactic
     Cruise</b> porque BGG añade este juego como una <i>"reimplementación
-    de"</i>; sin embargo, yo no veo que los juegos compartan mecánicas, asíq ue
+    de"</i>; sin embargo, yo no veo que los juegos compartan mecánicas, así que
     puede que algo raro esté pasando. Independientemente de si la información de BGG
     es correcta, o no, quiero ver cómo es esta demo. Y si hacen demo de <i>Crucero
     Galáctico</i> también, pues me marco un 2x1.</p>
@@ -219,7 +219,7 @@ Estos son los **juegos en solitario que más me interesan de la SPIEL**, os
          <p><strong>Un pequeño vistazo:</strong> aunque este <b>Lagos
     Alpinos</b> tenga una herencia clara de <b>Cascadia</b>, se han añadido una
     serie de cambios que lo diferencian del juego original:
-    las cartas de puntuación ya no van ligadas a la fauna, si no a 
+    las cartas de puntuación ya no van ligadas a la fauna, sino a 
     cada hábitat (bosque, pradera, glacial), que a su vez implican a los
     diferentes tipos de fauna; al colocar losetas de hábitat, podemos colocarlas
     sobre otras en juego, siempre que podamos poner las fichas de fauna en el
@@ -271,7 +271,7 @@ Estos son los **juegos en solitario que más me interesan de la SPIEL**, os
          supervivientes por los diferentes sectores del territorio, los
          traslada a refugios y trata de hacer avanzar el proyecto Phoenix, para
          salvar a la humanidad.</p> 
-         <p><strong>Un pequeño vistazo.</strong> En <b>ASHES</b> tenemos un
+         <p><strong>Un pequeño vistazo:</strong> En <b>ASHES</b> tenemos un
          tablero de jugador que representa nuestra colonia y un tablero
          principal que representa las diferentes áreas afectadas por
          diferentes niveles de radiación; en estas áreas irán apareciendo
@@ -451,7 +451,7 @@ una razón u otra no llegan a la lista principal.
     ambientado en el periodo Sengoku de Japón, en el que turno a turno iremos
     construyendo nuestra ciudad mediante la colocación de losetas, o
     generaremos producción en base a los edificios que tenga nuestra ciudad. </p> 
-         <p><strong>Un pequeño vistazo.</strong> En <b>Toshi</b> tenemos un tablero
+         <p><strong>Un pequeño vistazo:</strong> En <b>Toshi</b> tenemos un tablero
     con filas y columnas numeradas en el que iremos construyendo edificios. Los
     edificios pertenecen a una categoría determinada, cada uno tiene un coste
     de construcción en monedas, y tienen un efecto y valor de producción. En
