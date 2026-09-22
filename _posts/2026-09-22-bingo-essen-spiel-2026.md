@@ -153,46 +153,46 @@ meses.
 </div>
 
 
-<div class="row">
-    <div class="col-md-3">
-        <img width="500" height="500"
-            src="https://cf.geekdo-images.com/KTGn4W9wqnX-IGtNpBktBQ__original/img/rrSKF3kFNoEteY_j6ecTM4z7Md8=/0x0/filters:format(jpeg)/pic9646273.jpg"
-        class="img-thumbnail" alt="Chivalry">
-    </div>
-    <div class="col-md-9">
-         <h4>1. Chivalry</h4>
-         <p><strong><a href="https://boardgamegeek.com/boardgame/472579">Chivalry</a></strong>
-         de <strong>Dávid Turczi</strong>, y publicado por 
-         <strong>dlp games</strong> y <strong>Game's Up</strong>, es un juego
-         ambientado en el folclore de los caballeros de la Mesa Redonda en el
-         que como un caballero del rey Arturo tratamos de conseguir gloria,
-         influencia en la corte y renombre.</p> 
-         <p>Sabemos que el juego utiliza
-         mecánicas de "construcción de bolsa" y colocación de trabajadores. En
-    nuestro turno, que representa un día en el reino de Camelot, movemos a
-    nuestros caballeros por diferentes localizaciones, que nos permitirán tomar
-    acciones únicas. Nuestro séquito nos dará diferentes habilidades y el
-    objetivo será cumplir con diferentes encuentros y misiones.</p>
-         <img src="https://cf.geekdo-images.com/90yMfFH5Wpy9MYDyLz17eA__imagepage@2x/img/4bcLYgM623QQWBG308e6ubDvnjU=/fit-in/1800x1200/filters:strip_icc()/pic9685144.jpg">
-         <p><small>Algunos componentes del juego, foto de la editorial</small></p>
-         <p><strong>¿Por qué me interesa este juego?</strong> Para los lectores
+<div class="row"> <div class="col-md-3"> <img width="500" height="500"
+    src="https://cf.geekdo-images.com/KTGn4W9wqnX-IGtNpBktBQ__original/img/rrSKF3kFNoEteY_j6ecTM4z7Md8=/0x0/filters:format(jpeg)/pic9646273.jpg"
+    class="img-thumbnail" alt="Chivalry"> </div> <div class="col-md-9">
+    <h4>1. Chivalry</h4> <p><strong><a
+    href="https://boardgamegeek.com/boardgame/472579">Chivalry</a></strong> de
+    <strong>Dávid Turczi</strong>, y publicado por <strong>dlp games</strong> y
+    <strong>Game's Up</strong>, es un juego ambientado en el folclore de los
+    caballeros de la Mesa Redonda en el que como un caballero del rey Arturo
+    tratamos de conseguir gloria, influencia en la corte y renombre.</p>
+    <p>Sabemos que el juego utiliza mecánicas de "construcción de bolsa" y
+    colocación de trabajadores. En nuestro turno, que representa un día en el
+    reino de Camelot, movemos a nuestros caballeros por diferentes
+    localizaciones, que nos permitirán tomar acciones únicas. Nuestro séquito
+    nos dará diferentes habilidades y el objetivo será cumplir con diferentes
+    encuentros y misiones.</p> <img
+    src="https://cf.geekdo-images.com/90yMfFH5Wpy9MYDyLz17eA__imagepage@2x/img/4bcLYgM623QQWBG308e6ubDvnjU=/fit-in/1800x1200/filters:strip_icc()/pic9685144.jpg">
+    <p><small>Algunos componentes del juego, foto de la editorial</small></p>
+    <p><strong>¿Por qué me interesa este juego?</strong> Para los lectores
     asiduos del blog, no os preocupéis, no me han abducido los alienígenas, es
     posible que me llame la atención un juego del señor Turczi aunque de forma
     generalizada piense que sus modos en solitario sean farragosos y puede que
     contribuyan a que sus juegos no aguanten mucho tiempo en mi colección (el
     último ejemplo ha sido <a
-    href="{{site.baseurl}}/etiqueta/nucleum/">Nucleum</a>); pero, si 
-    creo que el juego me puede gustar, le doy una oportunidad. Este es el caso de
+    href="{{site.baseurl}}/etiqueta/nucleum/">Nucleum</a>); pero, si creo que
+    el juego me puede gustar, le doy una oportunidad. Este es el caso de
     <b>Chivalry</b>, la premisa llama mi atención, creo que la descripción del
     juego ya consigue que te hagas a la idea de cómo se juega y en un <a
-    href="https://boardgamegeek.com/thread/3728310/solo-mode-type">hilo</a> 
-    de BGG el propio Turczi comenta que su modo en solitario es "simple", tipo <a
+    href="https://boardgamegeek.com/thread/3728310/solo-mode-type">hilo</a> de
+    BGG el propio Turczi comenta que su modo en solitario es "simple", tipo <a
     href="{{site.baseurl}}/etiqueta/anachrony/">Anachrony</a>, que casualmente
     es el único bot de Turczi que he probado que no me haya parecido un
-    peñazo.</p>
-    <p>Tengo esperanza de que el modo en solitario no mate el juego y muchas
-    ganas de que compartan el reglamento.</p>
-     </div>
+    peñazo.</p> <p>Tengo esperanza de que el modo en solitario no mate el juego
+    y muchas ganas de que compartan el reglamento.</p> <p><b>Nota</b>: hay
+    sospecha de que las ilustraciones de este juego han sido producidas
+    mediante IA generativa. Esto sería plagio. De confirmarse la sospecha (he
+    preguntado en <a
+    href="https://boardgamegeek.com/thread/3771806/how-are-the-illustrations-being-made-ai-vs-human-c">este
+    hilo</a>) descartaría completamente este juego de esta entrada.</p>
+    </div>
+     
 </div>
 
 ## Los más interesantes — la lista de la compra
