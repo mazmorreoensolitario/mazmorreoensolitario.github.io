@@ -115,8 +115,9 @@ meses.
          juego sin mayor complicación, pero con tanto juego de animales,
          plantas, o de temática espacial que llevo viendo los últimos años,
          la temática de este me ha parecido diferente. También me hace gracia
-         que sea del universo de <i>Gloomhaven</i>, así que intentaré
-         probarlo.</p> 
+         que sea del universo de <a
+    href="{{site.baseurl}}/etiqueta/gloomhaven/">Gloomhaven</a>, así que
+        intentaré probarlo.</p> 
      </div>
 </div>
 
