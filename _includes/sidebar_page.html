@@ -102,13 +102,6 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/09/13/rol-old-school-essentials-advanced-fantasy/" %}       {% for post in target-posts %}
-
-      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
-      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
-      {% endfor %}
-    </div>
-    <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2019/05/16/analisis-desolate/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
@@ -117,6 +110,13 @@
     </div>
     <div class="image-container">
       {% assign target-posts = site.posts | where: "url","/2019/01/26/analisis-micro-city/" %}       {% for post in target-posts %}
+
+      <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
+      <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
+      {% endfor %}
+    </div>
+    <div class="image-container">
+      {% assign target-posts = site.posts | where: "url","/2020/09/07/root-en-solitario/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -135,17 +135,21 @@
       or tag[0] == "Anachrony"
       or tag[0] == "Cascadia"
       or tag[0] == "One Page Dungeon"
-      or tag[0] == "Solitaire Print & Play Design Contest"
       or tag[0] == "Tekhenu: El obelisco del sol"
       or tag[0] == "Arkham Noir"
+      or tag[0] == "Cascadia: Lagos Alpinos"
       or tag[0] == "Cosmic Colonies"
       or tag[0] == "Essen SPIEL"
       or tag[0] == "Forestry"
       or tag[0] == "Ironsworn"
+      or tag[0] == "Kalypso"
+      or tag[0] == "Mercenaries Wanted"
       or tag[0] == "OSR"
       or tag[0] == "Recall"
-      or tag[0] == "Red Storm: The Air War Over Central Germany"
       or tag[0] == "Seekers Beyond The Shroud"
+      or tag[0] == "Solitaire Print & Play Design Contest"
+      or tag[0] == "Toshi"
+      or tag[0] == "Wireless"
       or tag[0] == "Ark Nova"
       or tag[0] == "Curious Cargo"
       or tag[0] == "Desolate"
