@@ -141,7 +141,8 @@ label-warning"><strong>general</strong></span> y negro para
             tag[0] == "Solitaire Print & Play Design Contest" or
             tag[0] == "Wargame Print & Play Design Contest" or
             tag[0] == "Spiel des Jahres" or
-            tag[0] == "Ennie" or tag[0] == "UKGE Awards" %}
+            tag[0] == "Ennie" or tag[0] == "UKGE Awards" or
+            tag[0] == "Mensa Ingenio" %}
             <span class="label label-success"><strong>#<a class="tag-color"
             href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
         {% else %}
