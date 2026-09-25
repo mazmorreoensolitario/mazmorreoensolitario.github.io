@@ -326,7 +326,7 @@ Estos son los **juegos en solitario que más me interesan de la SPIEL**, os
          requisitos de supervivencia: objetivo de ronda y que todos los supervivientes
          tengan cobijo, alimento y acceso a un jardín. Tras cuatro rondas
          terminará el juego.</p>
-         <p>Las reglas ya están disponibles <a href="https://drive.google.com/file/d/1oTux0k_H5jvyeWcElqNlC5qapvbCHzc2/view">aquí</a>.</p>
+         <p>Las reglas ya están disponibles <a href="https://boardgamegeek.com/filepage/329901/kalypso-rulebook">aquí</a>.</p>
          <img src="https://cf.geekdo-images.com/HYT7wyloMoplkhG_Y6e1mQ__imagepagezoom/img/IkFPBQq54UAcYk8b80Vca45cgrA=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic9451226.jpg">
          <p><small>Parte de atrás de la versión alemana por Pegasus Spiele</small></p>
          <p><strong>¿Por qué me interesa este juego?</strong> El reglamento es
@@ -540,7 +540,8 @@ una razón u otra no llegan a la lista principal.
          <p><strong><a
          href="https://boardgamegeek.com/boardgame/474125">-60°</a></strong>
          de <strong>Alexander Pfister, Peter Prinz</strong>, y publicado por
-         <strong>Nanox Games</strong>, es un juego de exploración en
+         <strong>Nanox Games</strong> (próximamente por <b>Tranjis Games</b> en
+    España), es un juego de exploración en
          el que somos uno grupo de investigadores en la Antártica que tenemos
          que crear estaciones base para llegar y explorar el misterioso sitio
          donde ha caído un meteorito.</p> 
