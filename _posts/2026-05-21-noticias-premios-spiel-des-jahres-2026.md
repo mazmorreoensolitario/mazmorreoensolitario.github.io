@@ -3,7 +3,7 @@ Layout: post
 title: "Juegos en solitario: Premios Spiel des Jahres de 2026"
 date: 2026-05-21
 categories: [Noticias]
-tags: [Spiel des Jahres]
+tags: [Spiel des Jahres, Santuario, Sanctuary, Moon Colony Bloodbath]
 general: ""
 imghtml: https://live.staticflickr.com/65535/55220017144_d377249325_c.jpg
 post_desc: "Este es un resumen de los juegos nominados a los Spiel des Jahres
