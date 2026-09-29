@@ -119,7 +119,7 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/06/02/partidas-mes-mayo-26/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/01/09/rol-10-juegos-aventuras-para-2021/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -132,14 +132,14 @@
     <p class="text-left">
       {% for tag in site.tags %}
       {% if tag[0] == "Print & play"
-      or tag[0] == "Libros"
       or tag[0] == "Anachrony"
       or tag[0] == "Essen SPIEL 2026"
+      or tag[0] == "Kalypso"
+      or tag[0] == "Libros"
       or tag[0] == "Piratas de Maracaibo"
       or tag[0] == "Recall"
       or tag[0] == "Toshi"
       or tag[0] == "Cascadia"
-      or tag[0] == "Kalypso"
       or tag[0] == "One Page Dungeon"
       or tag[0] == "Tekhenu: El obelisco del sol"
       or tag[0] == "The Adventure Crafter"
