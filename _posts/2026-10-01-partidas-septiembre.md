@@ -413,7 +413,7 @@ suficiente juego sin esos extras y el **SETI** del inicio de la partida hasta
 que sale el primer alien me gusta. Luego ya no.
 
 Por otro lado, he visto que BGG pone un 3.84 de complejidad a **SETI**. Por
-comparar con otro juego también inmensamente popular **Ark Nova**
+comparar con otro juego también inmensamente popular, **Ark Nova**, a este
 lo ponen como [3.80](https://boardgamegeek.com/boardgame/342942/ark-nova) de
 complejidad, algo menos que **SETI**, aunque yo pienso lo contrario. **SETI** es
 mucho menos complejo en cuanto a decisiones que hay que tomar y más asequible
