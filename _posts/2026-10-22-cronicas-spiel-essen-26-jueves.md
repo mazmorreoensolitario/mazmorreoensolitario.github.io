@@ -3,7 +3,7 @@ layout: post
 title: "Crónicas de SPIEL'26 Essen - Jueves"
 date: 2026-10-22
 categories: [General]
-tags: [Essen SPIEL, Essen SPIEL 2026, Kalypso, Satchel Quest]
+tags: [Essen SPIEL, Essen SPIEL 2026, Kalypso, Satchel Quest, Toshi]
 imghtml: https://live.staticflickr.com/65535/55605855633_fd65c60f1b_c.jpg
 post_desc: "Resumen del primer día de la SPIEL 2026" 
 ---
@@ -11,7 +11,7 @@ post_desc: "Resumen del primer día de la SPIEL 2026"
 ![](https://live.staticflickr.com/65535/55605855633_fd65c60f1b_c.jpg)
 
 * **Jueves 22/10** (estás aquí)
-* **Viernes 23/10** (próximamente)
+* **Viernes 23/10** ([enlace]({{site.baseurl}}/2026/10/23/cronicas-spiel-essen-26-viernes/))
 * **Sábado 24/10** (próximamente)
 
 <hr>
@@ -134,7 +134,7 @@ caja era de unas proporciones bastante curiosas, en las mesas de demo ponían
 las cajas tumbadas para que no se cayeran. Intentaré hacer demo otro día.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/55605736151_46c9abf78e_c.jpg"></p>
-<p align="center"><small>Partida finalizada a Mazing</small></p>
+<p align="center"><small>Partida a Mazing</small></p>
 
 El que sí que probé en una partida a dos fue **Mazing**, que aunque me
 atrevería a decir que tiene el
