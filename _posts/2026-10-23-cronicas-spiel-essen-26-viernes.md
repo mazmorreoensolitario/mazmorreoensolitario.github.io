@@ -28,7 +28,7 @@ información para conseguir la primera demo del día.
 <p align="center"><small>Partida a ASHES: Blackout Protocol</small></p>
 
 La explicación comenzó más tarde de las 10:00 aunque el slot de la demo era
-hasta las 11:30 porque tenían un explicador menos en la editorial que debía de
+hasta las 11:30 porque tenían un explicador menos en la editorial, debía de
 haberse puesto enfermo. En la demo estábamos dos alemanes, un holandés y yo, y
 un corrillo alrededor de gente que se quedó a oír la explicación y después a
 vernos jugar. El stand de **Perro Loko** era muy popular.
@@ -47,7 +47,7 @@ radiación... digamos que sucumbieron muchos porque había pocas bases puestas y
 los vehículos no estaban cerca. Nos comimos todos como un -8 de felicidad (un
 medidor), y a algunos, en los que me incluyo, eso hizo que el marcador tuviera
 que pasar a negativo, y cuando eso pasa, se queda en 0 y hace que pierdas
-puntos. Un desastre.
+puntos. Un desastre de puntos.
 
 Fue divertido a su manera, pero la regla de que podías mover supervivientes es
 crítica y no la supimos. Aún así me gustó la demo, a cuatro personas había
@@ -73,7 +73,8 @@ en conseguir uno de los objetivos personales, que era conseguir expandir mi red
 desde Alemania hasta Rusia, y lo conseguí. De camino también pude cumplir con
 un contrato y como no malgasté cubos (señales) no tuve demasiados puntos
 negativos. No jugamos una partida completa porque no nos dio tiempo, jugamos el
-slot de demo entero que teníamos, que era de hora y media.
+slot de demo entero que teníamos, que era de hora y media, y después hicimos el
+conteo de puntos. Yo gané por mucho (muahaha).
 
 Me gustó lo que jugué de este **Wireless**, era como esperaba, sin
 sorpresas, así que compré el juego. Tengo muchas ganas de ver cómo funciona en
@@ -100,24 +101,25 @@ lo suficientemente grande.
 
 Siguiendo de camino hacia la comida, pasé por **Board & Dice** que tenían su
 nuevo juego de la *serie T*, **Thessaloniki**, que como cosa curiosa, tiene un
-tablero ortogonal. El stand de **Board & Dice** este año estaba en una zona
+tablero octogonal. El stand de **Board & Dice** este año estaba en una zona
 diferente y creo que es más pequeño, aunque no he llegado a dar toda la
 vuelta. Deberían estar haciendo demos de este **Thessaloniki**, **Entropy** y
-**Maestro**, que no ví, por lo que seguro que el stand es bastante más grande.
+**Maestro**, de los que no ví ninguno, por lo que seguro que el stand es
+bastante más grande que la impresión que me dio a mí.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/55606692552_397835300b_c.jpg"></p>
 <p align="center"><small>Stand de Ludonova</small></p>
 
 Aún lejos de la deseada zona de la comida, pasé por el stand de **Ludonova**,
-que tenía el nuevo **Green Gold**, que quiero probar y del que quería ver si
-encontraba un juego que había sido una sorpresa para mí.
+que tenía el nuevo **Green Gold**, que quiero probar. Además, en **Ludonova**
+quería ver si encontraba un juego que había sido una sorpresa.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/55606692462_abb4806cb5_c.jpg"></p>
 <p align="center"><small>Revenge of the Seven Dwarfs</small></p>
 
 La sorpresa era este **Revenge of the Seven Dwarfs** del que me hablaron en la
-odisea de trenes que tuve en la llegada el miércoles en la feria. Resulta que
-es un juego exclusivo en solitario, y yo por las fotos y lo que pude ojear no
+odisea de trenes que tuve en la llegada el miércoles a la feria. Resulta que
+es un juego exclusivo en solitario. Por las fotos y lo que pude ojear no
 puedo evitar compararlo con **Gloomhaven: Buttons & Bugs**. No me paré a
 preguntar cómo se jugaba o sí podía hacer demo porque la comida es la prioridad
 de mi vida, pero espero tener tiempo de hacerlo el sábado.
@@ -142,7 +144,7 @@ fácilmente entre tanta gente. Así que es entretenimiento garantizado. Se
 celebra todos los días a las 3 de la tarde.
 
 Este año para mí la vestimenta top ha sido una pareja que tenía unos sombreros
-de buey de mar.
+con un buey de mar de peluche.
 
 <p align="center"><img src="https://live.staticflickr.com/65535/55606692847_18a045aeb9_c.jpg"></p>
 <p align="center"><small>Timespan</small></p>
