@@ -3,7 +3,7 @@ layout: post
 title: "SPIEL Essen 2026: mi bingo de juegos en solitario"
 date: 2026-09-22
 categories: [Listas]
-tags: [Essen SPIEL, Essen SPIEL 2026, Toshi, "ASHES: Blackout Protocol", Kalypso, Mercenaries Wanted, Wireless, "-60°", "Cascadia: Lagos Alpinos"]
+tags: [Essen SPIEL, Essen SPIEL 2026, Satchel Quest, Toshi, "ASHES: Blackout Protocol", Kalypso, Mercenaries Wanted, Wireless, "-60°", "Cascadia: Lagos Alpinos"]
 imghtml: https://live.staticflickr.com/65535/53990765903_e36357721c_o.png
 post_desc: "Lista de los juegos en solitario de la SPIEL que más me llaman la atención: compras y demos"
 ---
