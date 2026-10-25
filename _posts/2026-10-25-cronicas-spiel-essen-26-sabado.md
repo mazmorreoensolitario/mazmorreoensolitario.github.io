@@ -173,7 +173,7 @@ transforma en los tokens verdes, que sí que se pueden guardar de turno a turno.
 Nuestro objetivo con esta selección de acciones es construir un ecosistema
 donde podamos colocar diferentes especies de animales, que iremos comprando y
 colocando en nuestro mapa. Me pareció una mezcla entre **Cascadia** (reseña
-[aquí]({site.baseurl}/2023/09/03/analisis-cascadia/)), por las 
+[aquí]({{site.baseurl}}/2023/09/03/analisis-cascadia/)), por las 
 losetas de ecosistema, que hay de varios tipos, y **Ark Nova** (reseña
 [aquí]({{site.baseurl}}/2022/06/07/primeras-impresiones-ark-nova/)), por la
 parte de colocar animales en ecosistemas, los animales se "compran" y están
@@ -215,7 +215,7 @@ continuado este año.
 <br>
 
 Hasta aquí el resumen del sábado y de la **SPIEL'26** para mí. De cara a 2027,
-si os animáis, las fechas para la **SPIEL'27** son del 20 al 24 de octubre.
+si os animáis, las fechas para la **SPIEL'27** son del 21 al 24 de octubre.
 
 <br>
 
