@@ -12,7 +12,7 @@ post_desc: "Resumen del segundo día de la SPIEL 2026"
 
 * **Jueves 22/10** ([enlace]({{site.baseurl}}/2026/10/22/cronicas-spiel-essen-26-jueves/))
 * **Viernes 23/10** (estás aquí)
-* **Sábado 24/10** (próximamente)
+* **Sábado 24/10** ([enlace]({{site.baseurl}}/2026/10/25/cronicas-spiel-essen-26-sabado/))
 
 <hr>
 
@@ -94,7 +94,7 @@ tenían a la venta la caja *"Ultimate"* que es la que veis en la foto de arriba,
 básicamente tiene todas las expansiones y el juego base en una caja enorme. Os
 confirmo que la caja *Ultimate* es un despropósito de espacio perdido y que es
 mejor que compréis las expansiones por separado, la caja del juego base ya era
-lo suficientemente grande. 
+lo suficientemente grande para guardar todo. 
 
 <p align="center"><img src="https://live.staticflickr.com/65535/55607921274_a7a9566112_c.jpg"></p>
 <p align="center"><small>Thessaloniki de Board & Dice</small></p>

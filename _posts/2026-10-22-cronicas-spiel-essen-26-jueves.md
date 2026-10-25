@@ -12,7 +12,7 @@ post_desc: "Resumen del primer día de la SPIEL 2026"
 
 * **Jueves 22/10** (estás aquí)
 * **Viernes 23/10** ([enlace]({{site.baseurl}}/2026/10/23/cronicas-spiel-essen-26-viernes/))
-* **Sábado 24/10** (próximamente)
+* **Sábado 24/10** ([enlace]({{site.baseurl}}/2026/10/25/cronicas-spiel-essen-26-sabado/))
 
 <hr>
 
