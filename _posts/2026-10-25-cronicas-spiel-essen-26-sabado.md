@@ -3,7 +3,7 @@ layout: post
 title: "Crónicas de SPIEL'26 Essen - Sábado"
 date: 2026-10-25
 categories: [General]
-tags: [Essen SPIEL, Essen SPIEL 2026, "Kingdom Come: Deliverance", Queen Alice]
+tags: [Essen SPIEL, Essen SPIEL 2026, "Gaudí", "Kingdom Come: Deliverance", Queen Alice]
 imghtml: https://live.staticflickr.com/65535/55611828540_796f068a47_c.jpg
 post_desc: "Resumen del tercer (y último día para mí) de la SPIEL 2026" 
 ---

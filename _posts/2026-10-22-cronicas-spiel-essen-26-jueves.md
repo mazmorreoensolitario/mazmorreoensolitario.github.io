@@ -3,7 +3,7 @@ layout: post
 title: "Crónicas de SPIEL'26 Essen - Jueves"
 date: 2026-10-22
 categories: [General]
-tags: [Essen SPIEL, Essen SPIEL 2026, Kalypso, Satchel Quest, Toshi]
+tags: [Essen SPIEL, Essen SPIEL 2026, "Carl von Linné", Greenwood, Kalypso, Satchel Quest, Toshi]
 imghtml: https://live.staticflickr.com/65535/55605855633_fd65c60f1b_c.jpg
 post_desc: "Resumen del primer día de la SPIEL 2026" 
 ---

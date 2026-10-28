@@ -3,7 +3,7 @@ layout: post
 title: "Crónicas de SPIEL'26 Essen - Viernes"
 date: 2026-10-23
 categories: [General]
-tags: [Essen SPIEL, Essen SPIEL 2026, Wireless, "ASHES: Blackout Protocol", Reinos de Papel, Paper Tales]
+tags: [Essen SPIEL, Essen SPIEL 2026, Timespan, "Revenge of the Seven Dwarfs", Wireless, "ASHES: Blackout Protocol", Reinos de Papel, Paper Tales]
 imghtml: https://live.staticflickr.com/65535/55607717561_916f4acd53_c.jpg 
 post_desc: "Resumen del segundo día de la SPIEL 2026" 
 ---
