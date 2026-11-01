@@ -6,7 +6,7 @@ categories: [Partidas]
 tags: [El mes en juegos, Toshi, Satchel Quest, Kalypso, Mini Rogue, Formidable Farm, Forest Shuffle, "Forest Shuffle: Exploración"]
 imghtml: https://live.staticflickr.com/65535/55625608544_8a3c4dd42b_c.jpg
 post_desc: "¿Qué juegos en solitario he jugado durante octubre? En
-esta primera entrada otoñal te lo cuento"
+esta entrada te lo cuento"
 ---
 
 ![](https://live.staticflickr.com/65535/55625608544_8a3c4dd42b_c.jpg)
@@ -18,7 +18,7 @@ En esta serie de
 qué tal han sido las [Partidas](#partidas) que he jugado durante octubre,
 entrego el prestigioso galardón denominado [El juego del 
 mes](#el-juego-del-mes) y os comento cuáles son mis [planes para
-el próximo mes](#planes-para-noviemnre) (noviembre).
+el próximo mes](#planes-para-noviembre) (noviembre).
 
 ## Partidas
 
@@ -43,7 +43,7 @@ temático y me dio bastante hambre, y **Fearsome Floors**, que jugué en la noch
 de Halloween y me pareció bastante divertido y adecuado para jugar en la
 fecha. Así de casualidad este mes he jugado a tres juegos de Friedemann Friese:
 el **Fearsome Floors** que os acabo de comentar, **Toshi**, novedad de la
-SPIEL , y luego durante el mes **Formidable Farm**.
+SPIEL, y **Formidable Farm**, del que ya os he hablado en otros meses.
 
 Así como tema off-topic, os he dejado arriba una foto (con mucho zoom, y del
 móvil, por lo que la calidad no es demasiado buena) de los precios de la
@@ -165,9 +165,10 @@ contrario perdemos inmediatamente, y en caso contrario miramos si todos los
 supervivientes sobreviven otra ronda (cobijo, comida, jardines), sino, perdemos
 inmediatamente.
 
-El juego también tiene unos edificios especiales, los monumentos, durante la
-partida podemos desbloquear habilidades especiales para nuestros supervivientes
-y también tenemos diferentes objetivos de fin de partida.
+Entre otras cosas, **Kalypso** también tiene unos edificios especiales que
+requieren que los construyas en espacios de 5x5, durante la partida podemos
+desbloquear supervivientes con habilidades especiales y también tenemos
+diferentes objetivos de fin de partida.
 
 <p align="center">
 <img src="https://i.imgur.com/RZ9jF1x.jpeg">
@@ -191,9 +192,11 @@ de forma intensiva al menos hasta que tenga una derrota más digna (o incluso,
 gane), este es al que más ganas tengo de volver a jugar.
 
 Sobre la experiencia de juego, en **Kalypso** tienes que estar decidiendo qué
-loseta te conviene más poner, y la decisión es complicada porque todos los
-edificios son importantes. Al principio empiezas sin nada, por lo que necesitas
-TODO YA, pero no puedes. A medida que avanza la ronda te pilla más el tiempo
+loseta te conviene más poner (por los materiales que tenga y por cómo puedes
+cuadrarla con las que ya tengas puestas en el mapa) y la decisión es complicada
+porque todos los edificios son importantes, así que quieres construirlos
+todos. Al principio empiezas sin nada, por lo que necesitas 
+TODO YA, pero no puedes. A medida que avanza la ronda sientes más presión
 para conseguir todo lo que necesitas, y si no calculas bien o no robas lo que
 necesitas, pues... pierdes sin mayor ceremonia.
 
@@ -212,14 +215,14 @@ aquí]({{site.baseurl}}/2020/05/23/ojeando-mini-rogue/) y reseña del [print &
 play original]({{site.baseurl}}/2018/11/05/analisis-mini-rogue/)) es un juego
 de temática de mazmorreo con corte *roguelike* en el que tenemos que
 adentrarnos en una mazmorra para conseguir su mayor tesoro, el rubí llamado
-"Sangre de Og", que es también uno de los guardianes de la mazmorra. 
+"Sangre de Og", también da nombre a uno de los guardianes de la mazmorra. 
 
 Cada piso de la mazmorra está formada por una cuadrícula de 3x3 cartas, y
 en cada turno elegimos una carta adyacente a nuestra posición para
-resolverla. Las cartas suelen requerir que hagamos una tirada de un dos d6 en
-caso de que la carta sea un evento o encuentro, un dado elige la opción y el
-otro potencialmente la modifica. Otro tipo de cartas serán combates contra
-monstruos.
+resolverla. Las cartas de eventos o encuentros suelen requerir que hagamos una
+tirada de un dos d6, un dado elige la opción y el otro potencialmente la
+modifica. Otro tipo de cartas que podemos encontrarnos en la mazmorra son las de
+monstruos, que requerirán rondas de combate.
 
 En el juego, iremos gestionando la vida de nuestro personaje, armadura, comida,
 el oro, niveles de experiencia y pociones, con el fin de ir superando los retos
@@ -263,7 +266,7 @@ colocando fichas, que robamos de nuestra bolsa de personaje. Cada ficha tiene
 dos caras, y tras elegir la cara que más nos convenga, la colocaremos en el
 nivel de la mazmorra que nos encontremos. Cuando el nivel de la mazmorra esté
 completo, podremos continuar descendiendo por la mazmorra, o elegir resolver
-la mazmorra, en la que se resolverán las fichas.
+toda la mazmorra, en la que se resolverán las fichas por tipo.
 
 Las fichas son de diferentes tipos: armas, armaduras, pociones, monedas,
 cofres, monstruos, gemas etc., cada una tendrá un efecto y ese efecto
@@ -273,11 +276,12 @@ adyacentes para poder abrirlos y conseguir su tesoro, en caso contrario te
 harán daño; los enemigos tienen un factor de ataque y vida, por lo que podrás
 usar diferentes tipos de armaduras para reducir daño y atacarás con fichas de
 arma. Dependiendo del tipo de armadura y arma, estas tendrán diferente alcance
-y tendrán que estar ortogonal o diagonalmente adyacentes.
+y tendrán que estar ortogonal o diagonalmente adyacentes para afectar al
+monstruo.
 
 Tras una fase de resolución de mazmorra tenemos la oportunidad de subir de
 nivel a nuestro personaje (si tenemos la experiencia necesaria), que nos
-permitirá desbloquear habilidades nuevas a usar en la mazmorra, después
+permitirá desbloquear habilidades nuevas a usar en la mazmorra; después
 podremos adquirir más fichas u objetos en las diferentes tiendas del pueblo,
 para volver a lanzarnos a la mazmorra.
 
@@ -304,7 +308,7 @@ que trabaja generalmente para *Flatout*, y originalmente el juego era parte del
 
 Pero bueno, parece que me estoy quejando por quejarme. Lo verdaderamente
 importante es que, he podido jugar finalmente al juego, lo he estado esperando
-durante mucho tiempo, y me gusta mucho.
+durante mucho tiempo, y me ha gustado.
 
 Este es otro juego que tengo muchas ganas de volver a jugar, otro gran acierto
 de la SPIEL, y con ganas de tratar de mejorar mis puntuaciones, de momento
@@ -365,10 +369,10 @@ posibilidades de completar tu cuadrícula. Juegas con el dinero que tienes, lo
 que cuesta construir cada tipo de edificio (o pagar por él cuando lo tienes
 construido y sale la coordenada) y las habilidades de los edificios
 para tratar de que, cuando tu cuadrícula empieza a estar abarrotada, tengas
-posibilidad de construir en huecos, que no sea la coordenada que te ha
-tocado. Esto lo consigues con diferentes habilidades de edificios y estoy
-empezando a ver también, que el momento de la partida en que construyes cada
-edificio también importa bastante.
+posibilidad de construir en huecos que no sean la coordenada que te ha
+tocado. Esto lo consigues con diferentes habilidades de edificios. Además,
+estoy empezando a entrever, que el momento de la partida en que construyes cada
+edificio también influye.
 
 Así que, ha sido una pequeña sorpresa que este **Toshi** tenga más profundidad
 que la que yo en un principio preveía que iba a tener; y una gran y grata
