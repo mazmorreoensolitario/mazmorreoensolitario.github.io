@@ -90,14 +90,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/10/23/cronicas-spiel-essen-26-viernes/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2020/05/16/rol-en-solitario-como-empiezo/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2020/05/16/rol-en-solitario-como-empiezo/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/10/23/cronicas-spiel-essen-26-viernes/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -125,14 +125,14 @@
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2026/10/01/partidas-septiembre/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
       {% endfor %}
     </div>
     <div class="image-container">
-      {% assign target-posts = site.posts | where: "url","/2021/05/16/listas-5-juegos-del-espacio/" %}       {% for post in target-posts %}
+      {% assign target-posts = site.posts | where: "url","/2026/10/01/partidas-septiembre/" %}       {% for post in target-posts %}
 
       <a href="{{site.url}}{{post.url}}"><img class="crop-sidebar" src="{{post.imghtml}}">
       <div class="text-block"><h5>{{post.title | truncate: 40}}</h5></div></a>
@@ -177,16 +177,17 @@
       or tag[0] == "Kingdom Come: Deliverance"
       or tag[0] == "Light in the Dark"
       or tag[0] == "Santuario"
+      or tag[0] == "Veinscrawl"
+      or tag[0] == "Carl von Linné"
       or tag[0] == "Trailblazers"
-      or tag[0] == "Revenge of the Seven Dwarfs"
+      or tag[0] == "Timespan"
       or tag[0] == "Queen Alice"
       or tag[0] == "Wireless"
-      or tag[0] == "Mazing"
       or tag[0] == "Barcelona"
       or tag[0] == "Kingdom Crossing"
       or tag[0] == "Greenwood"
-      or tag[0] == "Timespan"
-      or tag[0] == "Carl von Linné" %}
+      or tag[0] == "Revenge of the Seven Dwarfs"
+      or tag[0] == "Mazing" %}
 <span class="label label-danger"><strong>#<a class="tag-color"
         href="/etiqueta/{{tag[0] | slugify: "latin"}}">{{tag[0]}}</a></strong></span> 
       {% endif %}
