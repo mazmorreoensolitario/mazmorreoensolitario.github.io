@@ -19,7 +19,9 @@ magia oculta de los Reinos Humanos."
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
-            <img width="400" src="https://cf.geekdo-images.com/imagepage/img/vwjFdNh9aOYYbPXkezZSaJoZKu0=/fit-in/900x600/filters:no_upscale()/pic4261957.jpg"
+            <img width="400"
+    src="https://cf.geekdo-images.com/imagepage/img/vwjFdNh9aOYYbPXkezZSaJoZKu0=/fit-in/900x600/filters:no_upscale()/pic4261957.jpg"
+    alt="{{page.title}}">
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">
