@@ -5,8 +5,7 @@ date: 2022-01-19
 categories: [Demos]
 tags: [Bizkaia 1937, "Cinturón de Hierro", SNAFU Design]
 game: "Bizkaia 1937"
-imghtml: https://cf.geekdo-images.com/LXFS2g6TRYbzwmgGu6QySg__imagepage/img/u4bFsP-BvXuo6cvW0ftYzNG3yZU=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5961292.jpg
-crop: true
+imghtml: https://cf.geekdo-images.com/0ETSkbShQCEiFVauEZoAgA__imagepage/img/Q9G2Giq7FYLc4An4AkG26dBFIpA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic9863272.png
 post_desc: "Os cuento cómo fue la demo de Bizkaia 1937, un wargame en solitario
 sobre la conquista de Bilbao durante la Guerra Civil en 1937"
 ---
@@ -17,13 +16,8 @@ sobre la conquista de Bilbao durante la Guerra Civil en 1937"
     </div>
     <div class="panel-body">
         <div class="col-md-6 post-img">
-	    {% if page.imghtml %}
             <img width="400" src="{{page.imghtml}}"
                 alt="{{page.title}}">
-            {% else %}
-            <img width="400" src="{{site.baseurl}}/images/{{page.img}}"
-                alt="{{page.title}}">
-            {% endif %}
         </div>
         <div class="col-md-6">
         <table class="table table-striped table-hover">
