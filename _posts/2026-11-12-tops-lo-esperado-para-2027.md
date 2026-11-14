@@ -234,7 +234,7 @@ pequeña selección de los que sigo su desarrollo y/o noticias con interés:
     Lancashire</a> y <a
     href="https://boardgamegeek.com/boardgame/224517/brass-birmingham">Brass:
     Birmingham</a> con alguna que otra mecánica nueva, y un modo en solitario oficial.</p> 
-         <img src="https://cf.geekdo-images.com/r5_q5U1W2I2LrrXoJWZROw__imagepage@2x/img/YPVwT11YSsvd4bWkAXC8Ejprt3Y=/fit-in/1800x1200/filters:strip_icc()/pic9564031.jpg">
+         <img src="https://cf.geekdo-images.com/evXVeWImt3e5_LjLv_TDxw__imagepage@2x/img/GbhtLsvTDi-oQaBW68FVmLSz2II=/fit-in/1800x1200/filters:strip_icc()/pic9564024.jpg">
          <p><small>Prototipo, foto de @diddle74</small></p>
          <p><strong>¿Por qué entra este juego a mi top?</strong> Como persona
     bastante pureta de los juegos en solitario, hay muchos juegos
