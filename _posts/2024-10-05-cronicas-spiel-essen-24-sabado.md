@@ -3,7 +3,7 @@ layout: post
 title: "Crónicas de SPIEL'24 Essen - Sábado"
 date: 2024-10-05
 categories: [General]
-tags: [Essen SPIEL, Essen SPIEL 2024, Spectacular, Terminus]
+tags: [Essen SPIEL, Essen SPIEL 2024, Spectacular, Terminus, YRO]
 imghtml: https://live.staticflickr.com/65535/54045459880_dd94cdc136_b.jpg
 post_desc: "Resumen del tercer día de la SPIEL 2024" 
 ---
@@ -58,7 +58,7 @@ los juegos creo que está feo dar información errónea.
 
 Dejando los temas tristes de lado y siguiendo con editoriales españolas, me
 pasé por **Perro Loko Games** para ver el **[Phoenix New
-Horion](https://boardgamegeek.com/boardgame/419704/phoenix-new-horizon)** del
+Horizon](https://boardgamegeek.com/boardgame/419704/phoenix-new-horizon)** del
 que me encantó el apartado gráfico.
 
 Tras esto también me pasé por **Ludonova**, pero seguía colapsada. De **Devir**
