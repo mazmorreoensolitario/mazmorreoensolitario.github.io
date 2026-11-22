@@ -233,7 +233,7 @@ de Stefan Feld, y publicado por <strong>alea y Awaken Realms</strong> (también
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/350184">Earth</a></strong>
 de Maxime Tardif, y publicado por <strong>Inside Up Games</strong>
-    (<strong>Maldito Games</strong> en castellano), es es un juego de cartas de
+    (<strong>Maldito Games</strong> en castellano), es un juego de cartas de
     hacer combos en el que tienes que hacer crecer tus ecosistemas con flora,
     fauna y diferentes tipos de terreno.</p>
     <img src="https://insideupgames.com/wp-content/uploads/2023/02/InsideUpGames-Earth-ProductShot02-600x600.jpg">
@@ -259,7 +259,7 @@ de Maxime Tardif, y publicado por <strong>Inside Up Games</strong>
     href="https://boardgamegeek.com/boardgame/379078">Expeditions /
     Expediciones</a></strong> de Jamey Stegmaier, y publicado por
     <strong>Stonemaier Games</strong> (<strong>Maldito Games</strong> en
-    castellano), es es un juego de aventuras dentro del universo de Scythe que
+    castellano), es un juego de aventuras dentro del universo de Scythe que
     utiliza mecánicas de construcción de 
     mazos y gestión de mano.</p>
     <img src="https://live.staticflickr.com/65535/53241451795_f3534f732c_b.jpg">
@@ -280,7 +280,7 @@ de Maxime Tardif, y publicado por <strong>Inside Up Games</strong>
             <strong>Subcampeón</strong></div>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/371942">The White Castle</a></strong>
-    de Isra C., Shei S., y publicado por <strong>Devir</strong>, es es un juego
+    de Isra C., Shei S., y publicado por <strong>Devir</strong>, es un juego
     de colocación de trabajadores que utiliza dados como trabajadores en el que
     buscamos ser el clan más influyente.</p>
     <img src="https://cf.geekdo-images.com/yXtEGf8hZ_7nqV-fqEm21g__imagepage/img/pKHTf4yZelxmWMHz3gyH5CBsAFs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7704629.jpg">
@@ -308,7 +308,7 @@ de Maxime Tardif, y publicado por <strong>Inside Up Games</strong>
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/365258">World Wonders</a></strong>
     de Zé Mendes, y publicado por <strong>MeepleBR</strong> (<strong>Maldito
-    Games</strong> en castellano), es es un juego de colocación de losetas y
+    Games</strong> en castellano), es un juego de colocación de losetas y
     gestión de recursos en el que construimos ciudades.</p>
     <img src="https://meeplebr.com/app/uploads/2023/02/totw_1-copiar.1_005.png">
     <p><small>Foto de la editorial</small></p>
@@ -337,7 +337,7 @@ pero ha sido excluido por no poder jugarse en solitario.
     href="https://boardgamegeek.com/boardgame/383179">Age of Innovation / La
     Era de la Innovación</a></strong>
 de Helge Ostertag, y publicado por <strong>Feuerland Spiele</strong>
-    (<strong>Maldito Games</strong> en castellano), es es una re-implementación
+    (<strong>Maldito Games</strong> en castellano), es una re-implementación
     de Terra Mystica con cambios en las reglas, mejoras y más facciones, además
     añade un modo en solitario.</p>
     <img src="https://cf.geekdo-images.com/m0l_EEUBL_gmXnVIyUnfbA__imagepage/img/Qoo_3KnGzfLML9t1RUE7nGY2h2M=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7453352.jpg">
@@ -393,7 +393,7 @@ de Simone Luciani, Nestore Mangone, y publicado por <strong>ThunderGryph
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/382843">Evacuation</a></strong>
 de Vladimír Suchý, y publicado por <strong>Delicious Games</strong>
-    (<strong>Arrakis Games</strong> en castellano), es es un juego en el que el
+    (<strong>Arrakis Games</strong> en castellano), es un juego en el que el
     planeta en el que vivimos va a dejar de ser habitable porque el sol cercano
     está a punto de achicharrarlo, así que tenemos que mover a toda su
     población y todas sus fábricas a otro planeta cercano que puede albergar
@@ -443,7 +443,7 @@ de Paul Dennen, y publicado por <strong>Dire Wolf</strong>, es un spin-off
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/380607">Great Western Trail: New Zealand</a></strong>
     de Alexander Pfister, y publicado por <strong>eggertspiele</strong>
-    (<strong>Ediciones MasQueOca</strong> en castellano), es es un euro con
+    (<strong>Ediciones MasQueOca</strong> en castellano), es un euro con
     mecánicas de construcción de mazos, gestión de mano y colecciones en el que
     gestionas una granja de ovejas en Nueva Zelanda.</p>
          <p><strong>Comentario.</strong> En diciembre de 2023 hice una lista de
@@ -470,7 +470,7 @@ de Paul Dennen, y publicado por <strong>Dire Wolf</strong>, es un spin-off
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/321608">Hegemony: Lead Your Class to Victory</a></strong>
 de Vangelis Bagiartakis, Varnavas Timotheou, y publicado por <strong>Hegemonic
-    Project Games</strong>, es es un juego asimétrico con motor de cartas en el
+    Project Games</strong>, es un juego asimétrico con motor de cartas en el
     que simulas toda una nación, sus políticas y su economía, y te pone en el
     rol de uno de los grupos socio-económicos de un estado ficticio: la clase
     trabajadora, la clase media, la clase capitalista y el propio estado.</p>
@@ -542,7 +542,7 @@ de Vangelis Bagiartakis, Varnavas Timotheou, y publicado por <strong>Hegemonic
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/337627">Voidfall</a></strong>
 de Nigel Buckle, Dávid Turczi, y publicado por <strong>Mindclash Games</strong>
-(<strong>Maldito Games</strong> en castellano), es  es un 
+(<strong>Maldito Games</strong> en castellano), es un 
     juego con mecánicas 4X y temática espacial/ciencia-ficción con puntos de
     gestión de recursos.</p> 
     <img src="https://live.staticflickr.com/65535/52418121460_64ece3b843_b.jpg">
@@ -733,7 +733,7 @@ de Josh J. Carlson, Adam Carlson, Logan Giannini, y publicado por <strong>Chip
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/183685">Mr. President: The
     American Presidency, 2001-2020</a></strong> de Gene Billingsley, y
-    publicado por <strong>GMT Games</strong>, es es un juego exclusivo en
+    publicado por <strong>GMT Games</strong>, es un juego exclusivo en
     solitario en el que se simula la gestión que haría el presidente de los
     Estados Unidos durante dos décadas.</p>
          <p><strong>Comentario.</strong> Cuando salió hubo bastante ruido pero
@@ -1430,7 +1430,7 @@ ha sido excluido por no poder jugarse en solitario.
          <p><strong><a
     href="https://boardgamegeek.com/boardgameexpansion/368966">Ark Nova: Marine Worlds</a></strong>
     de Mathias Wigge, y publicado por <strong>Feuerland Spiele</strong>
-    (<strong>Maldito Games</strong> en castellano), es es una
+    (<strong>Maldito Games</strong> en castellano), es una
     expansión para Ark Nova (primeras impresiones <a href="{{site.baseurl}}/2022/06/07/primeras-impresiones-ark-nova/">aquí</a>) que
     añade variantes para las cartas de acción, nuevas universidades, cartas de
     animales marinos y meeples para sustituir los cubos.</p>

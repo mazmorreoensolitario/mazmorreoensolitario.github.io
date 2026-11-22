@@ -201,7 +201,7 @@ de Joanna Kijanka, Ignacy Trzewiczek, y publicado por <strong>Portal
          <p><strong><a
     href="https://boardgamegeek.com/boardgame/220308">Gaia Project</a></strong>
 de Jens Drögemüller, Helge Ostertag, y publicado por <strong>Feuerland
-    Spiele</strong> (<strong>Maldito Games</strong> en castellano), es es un
+    Spiele</strong> (<strong>Maldito Games</strong> en castellano), es un
     juego de expansión espacial en el que diferentes facciones tratan de
     expandir su influencia por el espacio terraformando planetas.</p>
          <p><strong>Comentario.</strong> En mi lista personal <strong>Gaia
@@ -461,7 +461,7 @@ de Josh J. Carlson, Adam Carlson, y publicado por <strong>Chip Theory
     href="https://boardgamegeek.com/boardgame/349067">El Señor de los Anillos:
         El juego de cartas</a></strong>
     de Nate French, y publicado por <strong>Fantasy Flight Games</strong> (también
-    en castellano), es es un juego cooperativo de aventuras basado en los
+    en castellano), es un juego cooperativo de aventuras basado en los
     trabajos de J.R.R. Tolkien en el que deberás embarcarte en una serie de
     escenarios basados en aventuras por la Tierra Media.</p>
          <p><strong>Comentario.</strong> En 2022 sacaron una muy deseada
@@ -484,7 +484,7 @@ de Josh J. Carlson, Adam Carlson, y publicado por <strong>Chip Theory
     href="https://boardgamegeek.com/boardgame/205637">Arkham Horror: El juego
     de cartas</a></strong>
 de Nate French, Maxine Juniper Newman y Matthew J. Newman, y publicado por
-    <strong>Fantasy Flight Games</strong> (también en castellano), es es un
+    <strong>Fantasy Flight Games</strong> (también en castellano), es un
     Living Card Game en el que te dedicas a investigar los diferentes horrores
     que ocurren en el pueblo de Arkham con el fin de proteger a sus
     habitantes.</p> 
@@ -506,7 +506,7 @@ de Nate French, Maxine Juniper Newman y Matthew J. Newman, y publicado por
     href="https://boardgamegeek.com/boardgame/285774">Marvel Champions: El
     juego de cartas</a></strong>
 de Michael Boggs, Nate French y Caleb Grace, y publicado por <strong>Fantasy
-    Flight Games</strong> (también en castellano), es es un LCG cooperativo en
+    Flight Games</strong> (también en castellano), es un LCG cooperativo en
     el que los jugadores son los icónicos héroes de Marvel y tratan de vencer a
     villanos épicos en diferentes escenarios.</p>
          <p><strong>Comentario.</strong> Este es otro Living Card Game, y este
