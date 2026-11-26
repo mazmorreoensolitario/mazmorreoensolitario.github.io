@@ -15,7 +15,7 @@ solitario del 1-Player Guild de Board Game Geek"
 
 En esta entrada os recojo los datos estadísticos de los
 [resultados](https://boardgamegeek.com/geeklist/387123/2026-peoples-choice-top-solo-games-1-300)
-**Top 200 de 1-Player Guild de 2026** con una serie de gráficas interactivas, si
+**Top 200 de 1-Player Guild de 2026** con una serie de gráficas interactivas; si
 buscáis un resumen de cuáles han sido los juegos más votados [os redirijo a esta
 entrada]({{site.baseurl}}/2026/11/22/top-200-1pg-solitario-26/).
 
@@ -25,8 +25,8 @@ algunos datos que pueden variar en el tiempo, por ejemplo la complejidad de los
 juegos, ya que es un valor no cerrado y los usuarios de BGG pueden votar o
 cambiar su voto en cualquier momento. Otras veces, el usuario encargado de
 colocar los juegos en la lista cambia el juego visible en la entrada de la
-lista, en ese caso, los datos se obtuvieron el 20 de Noviembre de 2026, por lo
-que cambios posteriores no han sido reflejados.
+lista; para ambos casos, los datos se obtuvieron el 20 de Noviembre de 2026,
+por lo que cambios posteriores no han sido reflejados.
 
 Como también sabréis, a la hora de hacer el recuento de votos hay algunos
 juegos que se [agrupan](https://boardgamegeek.com/geeklist/343005/groupings-made-for-the-top-200-solo-games-peoples)
@@ -65,7 +65,8 @@ reimplementación de la serie sea *Great Western Trail: New Zealand* de 2023.
 3. En el caso de [Juegos por editorial](#juegos-por-editorial), si las
 editoriales han cambiado a lo largo de la vida del juego, o si los juegos
 agrupados han sido publicados por diferentes editoriales, los scripts se van a
-quedar con la primera editorial que aparece en el juego de la lista.
+quedar con la primera editorial que aparece en la entrada de BGG del juego de
+la lista.
 
 Ahora que ya he dado mis avisos para navegantes, os dejo con las estadísticas.
 
@@ -79,9 +80,12 @@ Ahora que ya he dado mis avisos para navegantes, os dejo con las estadísticas.
 
 
 En las gráficas con mucho dato **es recomendable usar un dispositivo con pantalla
-grande** para que sea más fácil poder colocar el cursor en el dato concreto. Si
-pasáis el cursor por encima vais a poder ver el dato concreto que da valor a
-ese punto de la gráfica.
+grande y orientación horizontal** para que sea más fácil poder colocar el
+cursor en el dato concreto, ya que si pasáis el cursor por encima vais a poder
+ver el dato concreto que da valor a ese punto de la gráfica.
+
+Si en un dispositivo móvil pasáis de orientación vertical a horizontal,
+**tenéis que recargar la página**.
 
 ### Juegos por complejidad 
 
@@ -100,12 +104,12 @@ usuarios de BGG son libres de puntuar los juegos en base a esa escala, BGG hace
 una media y eso se utiliza para determinar el valor de complejidad de un juego.
 
 Al igual que otros años, los juegos se concentran en peso *medio* (76),
-*medio-ligero* (61) y *medio-pesado* (55), si demasiada diferencia entre los
+*medio-ligero* (61) y *medio-pesado* (55), sin demasiada diferencia entre los
 tres valores. Son los juegos *ligeros* (3) y *pesados* (5) los más raros.
 
-El juego más pesado de la lista es [High Frontier 4
+El juego más pesado/complejo de la lista es [High Frontier 4
 All](https://boardgamegeek.com/boardgame/281655/high-frontier-4-all) con 4.8 de
-complejidad; el menos pesado es [A Gentle
+complejidad; el menos pesado/complejo es [A Gentle
 Rain](https://boardgamegeek.com/boardgame/334011/a-gentle-rain) con 1.11
 de complejidad.
 
