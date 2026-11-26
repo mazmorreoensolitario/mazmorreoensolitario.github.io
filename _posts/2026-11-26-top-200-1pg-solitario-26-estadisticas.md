@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Las estadísticas del Top 200 del 1-Player Guild 2026"
+title: "Las estadísticas del Top 200 del 1-Player Guild de 2026"
 date: 2026-11-26
 categories: [Listas]
 tags: [Tops]
 imghtml: https://live.staticflickr.com/65535/55674991520_898a1cb6d8_c.jpg
-post_desc: "En esta entrada os traigo las estadísticas del Top 200 de juegos en
+post_desc: "Os traigo las estadísticas del Top 200 de juegos en
 solitario del 1-Player Guild de Board Game Geek"
 ---
 
